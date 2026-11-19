@@ -63,7 +63,7 @@ def text_for(name: str, data: bytes) -> tuple[str | None, str]:
 
 
 def zip_text(data: bytes) -> tuple[str | None, str]:
-    parts, skipped = [], 0
+    parts, skipped, unread = [], 0, 0
     with zipfile.ZipFile(io.BytesIO(data)) as z:
         for info in z.infolist():
             if info.is_dir():
@@ -76,9 +76,14 @@ def zip_text(data: bytes) -> tuple[str | None, str]:
             inner, _ = text_for(info.filename, z.read(info))
             if inner:
                 parts.append(f"===== {info.filename} =====\n{inner}")
-    how = "zip"
+            else:
+                unread += 1
+    notes = [f"{len(parts)} read"]
+    if unread:
+        notes.append(f"{unread} not read")
     if skipped:
-        how += f" ({skipped} trade-secret-marked files skipped)"
+        notes.append(f"{skipped} trade-secret-marked files skipped")
+    how = "zip (" + ", ".join(notes) + ")"
     return ("\n\n".join(parts) or None), how
 
 
