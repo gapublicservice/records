@@ -32,7 +32,8 @@ MAX_ATTACHMENT_BYTES = 60_000_000
 
 # Dockets whose older filings get full text in a backfill. New filings on
 # every docket get full text nightly.
-PRIORITY_DOCKETS = {57171, 57243, 56765, 44280, 56002, 56003, 56298, 56310, 56189, 55378}
+# 56368 is the 2032-33 all-source RFP (an earlier list had 56189, which shows no filings).
+PRIORITY_DOCKETS = {57171, 57243, 56765, 44280, 56002, 56003, 56298, 56310, 56368, 55378}
 
 
 def today() -> str:
@@ -184,6 +185,29 @@ def backfill(args) -> int:
     return 0
 
 
+def retext(args) -> int:
+    """Fetch full text for stored filings on the given dockets that lack it."""
+    from .psc import Attachment
+    fetcher = Fetcher(pause=args.pause)
+    dockets = set(args.dockets)
+    done = 0
+    for path in sorted((DATA / "filings").glob("*/*.json")):
+        rec = json.loads(path.read_text())
+        if not dockets & set(rec.get("dockets", [])):
+            continue
+        if not any(a.get("text") == "not read yet" for a in rec["attachments"]):
+            continue
+        f = Filing(**{k: rec[k] for k in ("document_id", "url", "company", "description",
+                                          "filed_date", "received_date", "dockets")})
+        f.attachments = [Attachment(**{k: a[k] for k in ("attachment_id", "name", "url",
+                                                         "trade_secret_marked")})
+                         for a in rec["attachments"]]
+        store(fetcher, f, with_text=True)
+        done += 1
+    print(f"retext: {done} filings given full text")
+    return 0
+
+
 def one(args) -> int:
     fetcher = Fetcher(pause=args.pause)
     f, page = fetcher.filing(args.id)
@@ -214,6 +238,10 @@ def main(argv=None) -> int:
     b.add_argument("--all-text", action="store_true", help="full text for every docket")
     b.add_argument("--refresh", action="store_true", help="refetch filings already stored")
     b.set_defaults(func=backfill)
+
+    r = sub.add_parser("retext")
+    r.add_argument("dockets", type=int, nargs="+")
+    r.set_defaults(func=retext)
 
     o = sub.add_parser("one")
     o.add_argument("id", type=int)
