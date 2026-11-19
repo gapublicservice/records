@@ -15,6 +15,12 @@ The Commission has no single feed of new filings. Every filing has its own page,
 
 Trade-secret versions are never public, and the harvester never downloads or stores a file whose name carries a trade-secret marker (TS). It lists that the file exists, because the Commission's own page does.
 
+## How to check a record
+
+Every record links to the Commission's own filing page and to the original file there. Each attachment that was read carries a SHA-256 fingerprint of the file as downloaded and the time it was downloaded, so anyone can download the original and confirm it is the same file. The text in `data/text/` is extracted by machine and can drop tables, columns or scanned pages; the original file is the record. A text that contains trade-secret brackets is marked for a person to confirm that the passage is redacted in the public version.
+
+This archive shows what the Commission posted. It does not show that what a filing says is true.
+
 ## How a night works
 
 1. Recheck every empty number from the last 30 days, because numbers are sometimes filled in late.

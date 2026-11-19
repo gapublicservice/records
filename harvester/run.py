@@ -13,8 +13,10 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
@@ -33,6 +35,8 @@ MAX_ATTACHMENT_BYTES = 60_000_000
 # Dockets whose older filings get full text in a backfill. New filings on
 # every docket get full text nightly.
 # 56368 is the 2032-33 all-source RFP (an earlier list had 56189, which shows no filings).
+TS_BRACKET_RE = re.compile(r"\[\s*(begin|start)\s+(trade\s+secret|ts)\b", re.I)
+
 PRIORITY_DOCKETS = {57171, 57243, 56765, 44280, 56002, 56003, 56298, 56310, 56368, 55378}
 
 
@@ -78,8 +82,15 @@ def store(fetcher: Fetcher, f: Filing, with_text: bool) -> dict:
             att["text"] = f"download failed: {type(e).__name__}"
             continue
         att["bytes"] = len(data)
+        # Provenance: anyone can download the file from att["url"] and compare.
+        att["sha256"] = hashlib.sha256(data).hexdigest()
+        att["fetched"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         text, how = extract.text_for(att["name"], data)
         att["text"] = how
+        if text and TS_BRACKET_RE.search(text):
+            # Public versions bracket redacted trade-secret passages. Flag them
+            # so a person confirms the passage really is redacted.
+            att["review"] = "trade-secret brackets in text"
         if text and text.strip():
             p = text_path(f.document_id, att["attachment_id"])
             p.parent.mkdir(parents=True, exist_ok=True)
