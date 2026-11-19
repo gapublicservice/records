@@ -219,6 +219,38 @@ def retext(args) -> int:
     return 0
 
 
+def fingerprint(args) -> int:
+    """Add a SHA-256 fingerprint to attachments read before fingerprints existed."""
+    fetcher = Fetcher(pause=args.pause)
+    done = failed = 0
+    deadline = time.monotonic() + args.max_minutes * 60
+    for path in sorted((DATA / "filings").glob("*/*.json")):
+        if time.monotonic() > deadline:
+            break
+        rec = json.loads(path.read_text())
+        changed = False
+        for att in rec["attachments"]:
+            if att.get("trade_secret_marked") or "bytes" not in att or "sha256" in att:
+                continue
+            try:
+                data = fetcher.get(att["url"], max_bytes=MAX_ATTACHMENT_BYTES)
+            except Exception as e:
+                att["fingerprint"] = f"download failed: {type(e).__name__}"
+                failed += 1
+                changed = True
+                continue
+            att["sha256"] = hashlib.sha256(data).hexdigest()
+            att["fetched"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+            if len(data) != att["bytes"]:
+                att["review"] = f"file size changed since first read ({att['bytes']} to {len(data)} bytes)"
+            done += 1
+            changed = True
+        if changed:
+            save_json(path, rec)
+    print(f"fingerprint: {done} attachments fingerprinted, {failed} failed")
+    return 0
+
+
 def one(args) -> int:
     fetcher = Fetcher(pause=args.pause)
     f, page = fetcher.filing(args.id)
@@ -253,6 +285,10 @@ def main(argv=None) -> int:
     r = sub.add_parser("retext")
     r.add_argument("dockets", type=int, nargs="+")
     r.set_defaults(func=retext)
+
+    fp = sub.add_parser("fingerprint")
+    fp.add_argument("--max-minutes", type=float, default=330)
+    fp.set_defaults(func=fingerprint)
 
     o = sub.add_parser("one")
     o.add_argument("id", type=int)
