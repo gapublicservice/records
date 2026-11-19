@@ -1,0 +1,30 @@
+name: Probe one filing
+
+# Fetches one filing page, prints what the parser read, and keeps the raw page
+# as a run artifact so the parser can be checked against the real HTML.
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "Filing number"
+        required: true
+        default: "226607"
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - run: python -m harvester.run one "${{ inputs.id }}" --save-html page.html
+      - uses: actions/upload-artifact@v4
+        with:
+          name: page-${{ inputs.id }}
+          path: page.html

@@ -1,0 +1,46 @@
+name: Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "First filing number"
+        required: true
+      end:
+        description: "Last filing number"
+        required: true
+      all_text:
+        description: "Full text for every docket (otherwise priority dockets only)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - run: python -m unittest discover -s tests -t .
+      - name: Backfill
+        run: |
+          python -m harvester.run backfill --start "${{ inputs.start }}" --end "${{ inputs.end }}" \
+            ${{ inputs.all_text && '--all-text' || '' }}
+      - name: Save to the record
+        if: always()
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Backfill ${{ inputs.start }}-${{ inputs.end }}"
+          git pull --rebase && git push

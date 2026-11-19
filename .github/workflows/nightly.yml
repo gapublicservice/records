@@ -1,0 +1,39 @@
+name: Nightly harvest
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 3 AM Eastern standard time
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Latest known filing number (first run only)"
+        required: false
+        default: "229480"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - run: python -m unittest discover -s tests -t .
+      - name: Harvest new filings
+        run: python -m harvester.run nightly --seed "${{ github.event.inputs.seed || '229480' }}"
+      - name: Save to the record
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Nightly harvest $(date -u +%F)"
+          git pull --rebase && git push
