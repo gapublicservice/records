@@ -1,0 +1,451 @@
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+                          STATE OF GEORGIA
+
+
+Sustainable Newton,
+
+Sara and Randall (“Randy”) Vinson, and
+
+Theodosia and William (“Billy”) Wade,
+
+                  Petitioners,                         Docket No. 57243
+v.
+
+VoltaGrid, LLC,
+
+                  Respondent.
+
+
+                                        Exhibit MC-2
+
+                                      December 15, 2025
+
+
+VIA ELECTRONIC MAIL: Air-Permits.Comments@dnr.ga.gov
+Mr. Steve Allison
+Permitting Program Manager
+Air Protection Branch
+Environmental Protection Division
+4244 International Parkway, Suite 120
+Atlanta, GA 30354
+
+
+RE:    Public Comments on State Implementation Plan Air Permit Application No. 29947
+       for VoltaGrid.
+Dear Mr. Allison:
+On behalf of itself, Altamaha Riverkeeper, and Sustainable Newton, the Southern Environmental
+Law Center respectfully submits the following comments on the State Implementation Plan Air
+Permit Application No. 29947 for VoltaGrid’s electric generation facility in Covington, Georgia.
+VoltaGrid seeks a permit to operate a behind-the-meter power generation unit for the sole
+purpose of powering a neighboring datacenter. This power generation unit (the “facility”)
+consists of thirty-three Jenbacher J620 natural gas-fired, four-stroke lean-burn, reciprocating
+internal combustion engines (“J260 RICEs”); two Mesa Solutions natural gas-fired fuel gas
+heaters; one Algas natural gas-fired black start emergency engine generator; and five Caterpillar
+temporary engines. The location for the proposed facility is Hazelbrand Road NE, Covington,
+Georgia.
+VoltaGrid’s application underestimated its potential formaldehyde emissions and failed to justify
+its calculation of potential carbon monoxide (“CO”) and nitrogen oxides (“NOX”) emissions.
+Georgia Environmental Protection Division (“EPD”) must permit the facility as a major source
+of formaldehyde or otherwise include enforceable synthetic minor limits for formaldehyde. EPD
+must also require VoltaGrid to frequently test its J620 RICEs to ensure the facility-wide CO
+emissions will meet the facility’s proposed synthetic minor permit limitation or impose more
+stringent synthetic minor limitations than proposed; and EPD must require VoltaGrid to justify
+its low NOX emissions estimate.
+
+     Georgia EPD Air Branch
+     December 15, 2025
+     Page 2
+
+
+I.       VoltaGrid’s calculations are unjustified and underestimate potential emissions of
+         formaldehyde, CO, and NOX.
+     The Clean Air Act’s Title V major source threshold is the potential to emit at least 100 tons per
+     year of a criteria pollutant.1 The criteria pollutants are sulfur dioxide, NOX, CO, lead, particulate
+     matter, and precursors to ozone.2 The Title V major source threshold for hazardous air pollutants
+     is the potential to emit at least 10 tons per year of a single hazardous air pollutant, or 25 tons per
+     year of total hazardous air pollutants.3
+     The potential to emit is defined as the “maximum capacity of a stationary source to emit any air
+     pollutant under its physical and operational design.” 4 This calculation must reflect “worst-case
+     conditions” and “continuous 24 hours per day, 365 days per year operation.”5 But a source may
+     also account for “[a]ny physical or operational limitation on the capacity of a source to emit an
+     air pollutant, including air pollution control equipment and restriction on hours of operation or
+     on the type or amount of material combusted, stored, or processed,”6 so long as the limitation is
+     “legally and practically enforceable.”7 For a limitation to be practically enforceable, it must be
+     accompanied by “terms and conditions . . . sufficient to enable regulators and citizens to
+     determine whether the limit has been exceeded and, if so, to take appropriate enforcement
+     action.”8
+     EPA provides and frequently updates a database of emission factors for various emission units,
+     called AP-42.9 In the absence of site-specific data, these generic emission factors can be used to
+     calculate an emission unit’s potential to emit. Each AP-42 emission factor is rated, and “factors
+     based on many unbiased observations, or on widely accepted test procedures” receive higher
+     ratings.10
+     VoltaGrid’s proposed facility would have forty-one emission units, for which it calculated a
+     potential to emit. These units are: thirty-three J260 RICEs; two Mesa Solutions natural gas-fired
+
+
+     1
+       42 U.S.C. § 7661(2) (defining “major source” as used in Title V to include “[a] major stationary source as defined
+     in section 7602 of this title”); id. § 7602(j) (“[T]he terms ‘major stationary source’ and ‘major emitting facility’
+     mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred
+     tons per year or more of any air pollutant . . . .”).
+     2
+       See generally 40 C.F.R. § 50.
+     3
+       40 C.F.R. § 63.2 (“Major source means any stationary source . . . that emits or has the potential to emit considering
+     controls, in the aggregate, 10 tons per year or more of any hazardous air pollutant or 25 tons per year or more of any
+     combination of hazardous air pollutants.”).
+     4
+       40 C.F.R. § 70.2.
+     5
+       Georgia Department of Natural Resources, Procedure to Calculate a Facility’s “Potential to Emit” and To
+     Determine Its Classification 3 (2018).
+     6
+       Id.; see also 40 C.F.R. § 70.2; GA. COMP. R. & REGS. 391-3-1-.01(ddd).
+     7
+       GA. COMP. R. & REGS. 391-3-1-.01(ddd).
+     8
+       In the Matter of Orange Recycling & Ethanol Prod. Facility, Pencor-Masada Oxynol, llc., Order on Petition No.
+     II-2001-05, at 7 (E.P.A. Apr. 8, 2002) [https://perma.cc/8AT6-54U2]; see also In re Piedmont Green Power, LLC,
+     Order on Petition No. IV-2015-2 (Dec. 13, 2016), at 14.
+     9
+       AP-42, Introduction (2024) [https://perma.cc/R6HY-WLEB].
+     10
+        Id. at 9.
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 3
+
+
+fuel gas heaters; one Algas natural gas-fired black start emergency engine generator; and five
+Caterpillar temporary engines.11
+        a. VoltaGrid is a major source of formaldehyde.
+For formaldehyde, VoltaGrid calculated a facility-wide potential to emit of 5.26 tons per year;12
+but as described below, we calculate a potential to emit of 10.00394 tons per year, without
+including the five temporary engines. Therefore, EPD must permit the facility as a major source
+of formaldehyde or otherwise include enforceable synthetic minor limits for formaldehyde.
+For the black-start emergency engine, and the two fuel gas heaters, VoltaGrid relied on AP-42
+emission factors for all hazardous air pollutants.13 But for the thirty-three J620 RICEs and the
+five temporary engines, VoltaGrid relied on AP-42 for all hazardous air pollutants except
+formaldehyde.14 VoltaGrid instead relied on manufacturer specifications, which were provided in
+a Jenbacher “Emission letter” for the J620 RICEs and a Caterpillar “Gas Engine Technical Data”
+document for the temporary engines.
+Jenbacher’s emission letter comes with a performance guarantee, in which Jenbacher promises to
+replace a poorly performing J620 RICE. But Jenbacher failed to provide a formaldehyde
+emission factor in this letter, or anywhere else in the provided specifications.15 Thus, should a
+J620 RICE not meet the formaldehyde emissions rate that VoltaGrid calculated, Jenbacher is
+under no obligation to replace the engine on that basis. VoltaGrid instead states that “CH2O
+emissions are based on test data for J620 engines at a comparable facility in Texas” but does not
+provide the referenced stack testing data or related protocols.16 In contrast, Caterpillar, the
+temporary engine manufacturer, did provide a formaldehyde emission factor in its “Gas Engine
+Technical Data.”17 And Caterpillar’s emission factor is slightly higher than that provided in AP-
+42.18
+Because of the lack of manufacturer test data or “guarantee” regarding the formaldehyde
+emissions from the J620 RICEs, VoltaGrid should instead use the AP-42 formaldehyde emission
+factor for natural gas-fired, four-stroke lean-burn reciprocating internal combustion engines.19
+
+
+11
+   VoltaGrid Air Permit Application, at 41,71–74.
+12
+   See id. at 57.
+13
+   See VoltaGrid Air Permit Application, at 65 n.1 (“Toxics/HAP emission factors are based on AP-42. Chapter 3.2-
+3.”); id. at 66 n.3 (“Emission factors for HAPs and TAPs are based on AP-42, Section 1.4, Natural Gas Combustion
+(July 1998, Table 1.4-3 and 1.4-4.”).
+14
+   See id. at 62 n.1, 74 n.1 (“Toxics/HAP emission factors are based on AP-42. Chapter 3.2-2. Emission factor for
+formaldehyde are provided by the manufacturer.”).
+15
+   Id. at 134–35.
+16
+   Id. at 58 n.1.
+17
+   Id. at 154.
+18
+   Id. (listing emission factor as 0.18 g/bhp-hr, which, when converted to pounds, divided by 6,340 Btu/bhp-hr, and
+converted to MMBtu, equals 0.0626 lb/MMBtu compared to AP-42’s 0.0205 lb/MMBtu).
+19
+   AP-42, Chapter 3.2 Natural Gas-fired Reciprocating Engines, at 3.2-12 (Oct. 2024) [https://perma.cc/9833-
+HNQC].
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 4
+
+
+This emission factor is recent (2024), A-rated, and based on “emissions data points taken from
+70 emission reports containing over 400 source tests.”20
+The AP-42 uncontrolled emission factor for formaldehyde emissions from a natural gas-fired,
+four-stroke, lean-burn reciprocating internal combustion engine is 0.0528 pounds formaldehyde
+per MMBtu.21 The J620 RICE’s heat input at 100% load is 26.028 MMBtu per hour.22 Thus,
+using the AP-42 emission factor, a single J620 RICE operating at 100% load emits an
+uncontrolled 1.3743 pounds of formaldehyde per hour. And assuming the internal oxidation
+catalyst controls formaldehyde emissions at 95% efficiency,23 the engine emits a controlled
+0.06871 pounds of formaldehyde per hour.
+The total potential to emit any pollutant from the thirty-three J620 RICEs is calculated using
+Equation 1, where “PTE” is potential to emit and “EF” is emission factor:24
+Equation 1: Potential to Emit Calculation for the Thirty-Three J620 RICEs.
+                                    𝑙𝑏𝑠       ℎ𝑟                    𝑙𝑏𝑠     ℎ𝑟
+       𝑡𝑜𝑛𝑠    33 × (𝐶𝑜𝑛𝑡𝑟𝑜𝑙𝑙𝑒𝑑 𝐸𝐹 ( ) × 8757 𝑦𝑟 + 𝑈𝑛𝑐𝑜𝑛𝑡𝑟𝑜𝑙𝑙𝑒𝑑 𝐸𝐹 ( ) × 3 (𝑦𝑟)
+                                    ℎ𝑟                              ℎ𝑟
+ 𝑃𝑇𝐸 (      )=
+        𝑦𝑟                                      𝑙𝑏𝑠
+                                           2000 𝑡𝑜𝑛
+
+When calculated with the AP-42 controlled and uncontrolled emission factors, the total potential
+to emit formaldehyde from the thirty-three J620 RICEs operating at 100% load is 9.9965 tons per
+year.
+VoltaGrid used an AP-42 formaldehyde emissions factor to calculate potential formaldehyde
+emissions from the black-start emergency engine (0.00486 tons per year25) and the fuel gas
+heaters (0.00258 tons per year26). Taken together and without including the five temporary
+engines, the thirty-three J620 RICEs, the black-start emergency engine generator, and the two
+fuel gas heaters have a combined annual total potential to emit of 10.00394 tons of
+formaldehyde. With the temporary engines added in, this comes to 12.64394 tons formaldehyde
+
+
+20
+    Id. at 3.2-6.
+21
+    Id.
+22
+    See VoltaGrid Air Permit Application, at 80 (listing the power input at 100% load as 26,028 MBtu per hour).
+VoltaGrid contradicts itself by listing the power input of the J260 RICE as 25 MMBtu per hour in Form 2.01 of its
+application but later claiming to list “Post Control Emissions (100% Load)” in its emissions calculations. Id. at 42,
+58. Based on the Jenbacher specifications, a power input of 25 MMBtu per hour is closer to 96.2% load. Id. at 80.
+23
+    See id. at 58.
+24
+    See id. at 13 (“[U]p to one hour per month . . . and three (3) hours per year will be spent in startup for each engine.
+. . . [I]t is . . . assumed that 3 hours per engine per year results in uncontrolled emissions, and 8,757 hours per engine
+per year are controlled emissions.”).
+25
+    Id. at 57; AP-42, Chapter 3.2 Natural Gas-fired Reciprocating Engines, at 3.2-16 (Oct. 2024)
+[https://perma.cc/9833-HNQC].
+26
+    VoltaGrid Air Permit Application, at 66–67. AP-42, Chapter 1.4 Natural Gas Combustion.
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 5
+
+
+per year.27 Both figures exceed the Title V major source threshold for a single hazardous air
+pollutant.
+Given that the facility-wide potential to emit formaldehyde is 10.00395 tons per year, VoltaGrid
+must also rerun the SCREEN3 dispersion model for its Toxic Impact Assessment. The annual
+long-term Acceptable Ambient Concentration for formaldehyde is 0.09 µg per cubic meter and
+the current SCREEN3 result for annual formaldehyde long-term impact is 0.07 µg per cubic
+meter.28 Although the relationship between potential to emit and dispersion is not exactly linear,
+it would stand to reason the formaldehyde short- and long- term impact would increase, if not
+outright double, when using the correct potential to emit.
+         b. VoltaGrid’s synthetic minor permit limitation for carbon monoxide must be
+            practically and legally enforceable.
+VoltaGrid’s calculated potential to emit CO exceeds the Title V major source threshold (115.10
+tons per year); but VoltaGrid is requesting a permit limit under this threshold (99 tons per
+year).29 If this request is granted, VoltaGrid would be a synthetic minor source of CO emissions,
+and EPD must include a legally and practically enforceable permit condition to physically or
+operationally limit VoltaGrid’s CO emissions.30
+But VoltaGrid failed to identify which physical or operational limit(s) it will take to meet the
+synthetic permit limit of 99 tons of CO per year, despite EPD guidance to the contrary. EPD
+states “the facility must determine if the pollution generating equipment can accept any of the
+following physical and operational limitations” including “[r]estriction on hours of operation to
+below 8760 hours per year;” “on types or amounts of material combusted;” “on types or amounts
+of material processed;” and “reduction of allowable emission limits supported by practically
+enforceable requirements for the operation of Air pollution control equipment.”31 The last of
+these limitations has already been assumed by VoltaGrid in its potential to emit calculation, and
+cannot be a limitation relied upon for synthetic minor status.32
+In this same vein, VoltaGrid’s assumption that the emergency generator will only run for 100
+hours per year must also be incorporated as an enforceable permit limitation. In fact, EPD
+requires an assumption of 200 hours total operating hours per year “regardless of NSPS or RICE
+
+
+27
+   VoltaGrid calculated that the for the year the five temporary engines are operating, the engines will contribute
+2.64 tons per year of formaldehyde. VoltaGrid Air Permit Application, at 74. This is based on the Caterpillar-
+provided “Gas Engine Technical Data.” Id. at 154.
+28
+   Id. at 27.
+29
+   VoltaGrid Air Permit Application, at 15.
+30
+   GA. COMP. R. & REGS. 391-3-1-.01(ddd); Georgia Department of Natural Resources, Procedure to Calculate a
+Facility’s “Potential to Emit” and To Determine Its Classification, at G-1 (2018).
+31
+   Georgia Department of Natural Resources, Procedure to Calculate a Facility’s “Potential to Emit” and To
+Determine Its Classification, at G-1 (2018).
+32
+   See VoltaGrid Permit Application, at 58 (calculating the J620 RICE potential to emit using a control system
+efficiency).
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 6
+
+
+MACT applicability” for emergency generators in Newton County unless “[l]ower operating
+limits” are “established by permit condition.”33
+         c. VoltaGrid failed to justify inconsistent treatment for carbon monoxide emissions
+            calculations from the J620 RICEs.
+For CO, VoltaGrid calculated a facility-wide potential to emit using the Jenbacher “Emission
+letter,” which guaranteed that controlled emissions performance of each J620 RICE will not
+exceed the emissions performance listed in the letter.34 Figure 1 is an excerpt from this letter:
+Figure 1: Excerpt from Jenbacher “Emission Letter” for the J620 RICEs.35
+
+
+VoltaGrid calculated its controlled and uncontrolled potential to emit using the emissions factors
+provided for the J620 RICEs, with the addition of a formaldehyde emission factor from “test data
+. . . at a comparable facility in Texas.”36 But instead of relying solely on the Jenbacher guarantee,
+VoltaGrid added a “proposed safety factor” to calculate each controlled emission factor.37 These
+buffered controlled emission factors were then used, along with the approximate control system
+efficiencies, to back-calculate the uncontrolled emissions factors for each pollutant.38 Figure 2 is
+VoltaGrid’s potential to emit calculations per J620 RICE, with the “Proposed Safety Factor”
+column boxed in red:
+
+
+33 Georgia Department of Natural Resources, Procedure to Calculate a Facility’s “Potential to Emit” and To
+
+Determine Its Classification, at D-1 (2018).
+34
+   VoltaGrid Permit Application, at 133.
+35
+   Id.
+36
+   Id. at 58 n.1.
+37
+   Id. at 58.
+38
+   Id.
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 7
+
+
+Figure 2: VoltaGrid’s Potential to Emit Calculations per J620 RICE.39
+
+
+VoltaGrid used a 20% “safety factor” for all pollutants with a guaranteed emission factor from
+Jenbacher, except CO, for which it used 5%. VoltaGrid failed to explain the use of these safety
+factors, or why it thinks its power generation facility will run less efficiently than the Jenbacher
+guarantees. VoltaGrid also failed to explain why CO is calculated at a buffer four times smaller
+than for all other pollutants. We calculated the J620 RICEs’ total potential to emit using safety
+buffers ranging from 0% to 20%, displayed in Table 1.
+
+
+39
+     VoltaGrid Permit Application, at 58.
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 8
+
+
+Table 1: Comparison of Emissions Factors and Potential to Emit Carbon Monoxide for
+J620 RICEs at Safety Factors Between 0% and 20% and the Impact on Facility-Wide
+Emissions.
+
+     Safety Factor        Controlled            Uncontrolled         Total controlled        Facility-wide
+                        Emission Factor        Emission Factor       potential to emit      total controlled
+                           (lbs/hr)               (lbs/hr)           for J620 RICEs         potential to emit
+                                                                         (tons/yr)              (tons/yr)
+
+ 0%                    0.62                   12.4                   90.20                 110.59
+
+ 5%                    0.65                   13.02                  94.71                 115.10
+
+ 10%                   0.68                   13.64                  99.22                 119.61
+
+ 15%                   0.71                   14.26                  103.73                124.12
+
+ 20%                   0.74                   14.88                  108.24                128.63
+
+
+Table 1 demonstrates that regardless of which safety factor is used, the facility-wide total
+controlled potential to emit puts the facility squarely above the Title V major source threshold
+for CO. This begs the question, why use a significantly smaller safety factor for CO? The only
+plausible answer is that, despite its obvious concerns with Jenbacher’s provided emissions
+factors, VoltaGrid wants to avoid even more stringent synthetic minor permit limitations.
+But frequent testing of each engine should alleviate VoltaGrid’s concerns—if testing
+demonstrates that even one J620 RICE is running 5% worse than Jenbacher promised (0.65
+pounds CO per hour rather than 0.62 pounds CO per hour), as reflected in VoltaGrid’s emissions
+calculations, then Jenbacher is obligated to cure this issue.40 Rather than rely on a safety buffer
+that is inconsistently applied across pollutants for the same equipment, frequent testing is a much
+more reliable indicator of performance and would allow VoltaGrid to take advantage of the
+Jenbacher guarantee.
+And testing only one of the thirty-three engines is insufficient because, according to EPA,“[i]t is
+not unusual to test emissions from two identical engines in the same plant, operated by the same
+personnel, using the same fuel, and have the test results show significantly different
+emissions.”41 Plus the Jenbacher guarantee is engine specific.
+Alternatively, VoltaGrid must take more stringent synthetic minor permit limitations that reflect
+the 20% safety buffer applied to all other criteria pollutants and formaldehyde.
+
+
+40
+   See VoltaGrid Permit Application, at 131 (“In the case the must meet emission performance guarantees are not
+achieved after the cure period INNIO Jenbacher will replace the affected Unit.”).
+41
+   AP-42, Chapter 3.2 Natural Gas-fired Reciprocating Engines, at 3.2-3 (Oct. 2024) [https://perma.cc/9833-HNQC].
+
+      Georgia EPD Air Branch
+      December 15, 2025
+      Page 9
+
+
+              d. VoltaGrid underestimated its NOX emissions.
+      Jenbacher guaranteed that the J620 RICEs emit no more than 0.15 pounds of NOX per hour per
+      engine from 85% to 100% load. VoltaGrid’s safety buffer bumps this emission factor to 0.18
+      pounds of NOX per hour. Using the buffered emission factor, VoltaGrid calculated that the J620
+      RICEs have a total potential to emit of 26.45 tons of NOX per year.
+      But both the manufacturer’s guarantee and the buffered factor are considerably lower than the
+      AP-42 emission factors for NOX emissions for both 90% to 105% load and less than 90% load.
+      For 90% to 105% load, a four-stroke, lean-burn reciprocating internal combustion engine emits
+      an uncontrolled 4.08 pounds NOX per MMBtu. Using this AP-42 emission factor, the thirty-three
+      J620 RICEs have the potential to emit 312.154 tons NOx per year at 90% to 105% load.42
+      At less than 90% load, a four-stroke, lean-burn reciprocating internal combustion engine emits
+      an uncontrolled 0.847 pounds per MMBtu.43 Using this AP-42 emission factor, the thirty-three
+      J620 RICEs have the potential to emit 50.280 tons of NOX per year. And the same exercise at
+      50% load results in 35.245 tons of NOX per year.
+      VoltaGrid calculated a potential to emit of 26.45 tons of NOX per year from the J620 RICEs
+      running anywhere from 85% to 100% load using a manufacturer guaranteed emission factor. Yet
+      applying the AP-42 emissions factors to the J620 RICEs at 100%, 75%, and 50% load begets
+      larger NOX emissions than what VoltaGrid calculates at 100% load. VoltaGrid failed to explain
+      why the J620 RICEs emit the same amount of NOX at such a wide range of loads or why the
+      Jenbacher guarantee is significantly lower than the AP-42 factors.
+II.        Conclusion.
+      VoltaGrid’s formaldehyde, CO, and NOX emissions calculations are either underestimated,
+      unjustified, or both. For formaldehyde, EPD must permit the facility as a Title V major source of
+      hazardous air pollutants or otherwise include enforceable synthetic minor limits. For CO, EPD
+      must require VoltaGrid to frequently test each J620 RICE to confirm the accuracy of that
+      emission factor. Otherwise, EPD should treat all pollutants the same and add a 20% safety buffer
+      to the CO emission factor, which would then require inclusion of more stringent synthetic minor
+      limits. And for NOX, VoltaGrid must justify its use of a single emission factor for a variety of
+      operating loads, as well as why its estimates are so much lower than those calculated using AP-
+      42.
+      Additionally, the synthetic minor permit limitation for CO (as well as any other pollutant that is
+      above the Title V major source threshold, such as formaldehyde) must be included in a permit
+
+      42
+         At 26.028 MMBtu per hour, which is the power input for a J620 RICE at 100% load, the engine emits an
+      uncontrolled 106.194 pounds NOx per hour. See VoltaGrid Permit Application, at 154. Assuming the control system
+      performs at 98% efficiency, this would be controlled emission of 2.124 pounds NOx per hour. Id. at 58. This is
+      calculated using Equation 1. See supra Equation 1.
+      43
+         At 75% load, a J620 RICE power input is 20.196 MMBtu per hour. See VoltaGrid Permit Application, at 154.
+      Thus, the NOx emission factor is an uncontrolled 17.106 pounds per hour and a controlled 0.342 pounds per hour.
+      Id. at 58 (listing control system efficiency for J620 RICE).
+
+Georgia EPD Air Branch
+December 15, 2025
+Page 10
+
+
+condition that is practically and legally enforceable. At this time, the public does not know how
+EPD will draft this permit condition and thus cannot comment upon the enforceability of the
+limit. This is a prime example of why the public should continue to be able to comment on
+synthetic minor draft permits, along with the applications.
+                                      Sincerely,
+                                                     /s/Marissa Land
+                                                     Marissa Land
+                                                     Associate Attorney
+                                                     Southern Environmental Law Center

@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 106460,
+      "bytes": 239616,
+      "name": "Final PSO FCR-27 2026 01 21.docx",
+      "text": "docx",
+      "text_file": "data/text/225/225177/106460.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225177/106460"
+    },
+    {
+      "attachment_id": 106461,
+      "bytes": 2703690,
+      "name": "225177.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225177/106461"
+    }
+  ],
+  "company": "GPSC",
+  "description": "PROCEDURAL AND SCHEDULING ORDER",
+  "dockets": [
+    56765
+  ],
+  "document_id": 225177,
+  "filed_date": "2026-01-21",
+  "harvested": "2026-11-19",
+  "received_date": "2026-01-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=225177"
+}

@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 107710,
+      "bytes": 215671,
+      "name": "56765 First Errata of Reynolds.docx",
+      "text": "docx",
+      "text_file": "data/text/226/226415/107710.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226415/107710"
+    },
+    {
+      "attachment_id": 107711,
+      "bytes": 95614,
+      "name": "56765 Summary of First Errata of Reynolds.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/226/226415/107711.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226415/107711"
+    }
+  ],
+  "company": "Staff",
+  "description": "First Errata to the Pre-filed Testimony of Joseph Reynolds.",
+  "dockets": [
+    56765
+  ],
+  "document_id": 226415,
+  "filed_date": "2026-04-29",
+  "harvested": "2026-11-19",
+  "received_date": "2026-04-29",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226415"
+}

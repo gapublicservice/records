@@ -1,0 +1,1205 @@
+===== JL - Testimony REDACTED.pdf =====
+                               BEFORE THE
+                GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:                                     )
+Georgia Power Company’s                    )
+                                                  Docket No. 57171
+RTP Revenue Credit                         )
+And Allocation Methodology                 )
+
+
+                  REDACTED – PUBLIC VERSION
+
+                                 Testimony
+
+                                     of
+
+                                Jonathan Ly
+
+
+                                On Behalf of
+
+                  Georgia Association of Manufacturers
+
+
+                             September 23, 2026
+
+                                                                                                         Jonathan Ly
+                                                                                                         Page ii
+
+                                                       BEFORE THE
+                                 GEORGIA PUBLIC SERVICE COMMISSION
+
+
+     In Re:                                                             )
+     Georgia Power Company’s                                            )
+                                                                                        Docket No. 57171
+     RTP Revenue Credit                                                 )
+     And Allocation Methodology                                         )
+
+
+                                               TABLE OF CONTENTS
+
+TABLE OF CONTENTS ........................................................................................................ ii
+GLOSSARY OF ACRONYMS .............................................................................................. iii
+TESTIMONY OF JONATHAN LY .......................................................................................... 1
+      Introduction, Qualifications and Summary ...................................................................... 1
+      Overview of Real Time Pricing ....................................................................................... 4
+      RTP Fuel Credit ........................................................................................................... 10
+APPENDIX A....................................................................................................................... 15
+APPENDIX B....................................................................................................................... 17
+
+
+                                                        J.POLLOCK
+                                                        INCORPORATED
+
+                                                     Jonathan Ly
+                                                     Page iii
+
+             GLOSSARY OF ACRONYMS
+
+     Term                    Definition
+CBL           Customer Baseline Load
+
+Commission    Georgia Public Service Commission
+
+FCR           Fuel Cost Recovery
+
+FT            Firm Transportation
+
+GAM           Georgia Association of Manufacturers
+
+GPC           Georgia Power Company
+O&M           Operation and Maintenance
+
+PIA Staff     Commission Public Interest Advocacy Staff
+PPA           Power Purchase Agreement
+
+RTP           Real Time Pricing
+
+RTP-DA        Real Time Pricing – Day Ahead
+RTP-HA        Real Time Pricing – Hour Ahead
+
+
+                    J.POLLOCK
+                    INCORPORATED
+
+                                                                                 Jonathan Ly
+                                                                                 Page 1
+
+                                TESTIMONY OF JONATHAN LY
+
+ 1   Introduction, Qualifications and Summary
+
+ 2   Q     PLEASE STATE YOUR NAME AND BUSINESS ADDRESS.
+
+ 3   A     Jonathan Ly; 14323 South Outer 40 Rd., Suite 206N, St. Louis, MO 63017.
+
+
+ 4   Q     WHAT IS YOUR OCCUPATION AND BY WHOM ARE YOU EMPLOYED?
+
+ 5   A     I am an Associate Consultant at J. Pollock, Incorporated.
+
+
+ 6   Q     PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE.
+
+ 7   A     I have a Bachelor of Arts degree in Integrative Biology from the University of California,
+
+ 8         Berkeley and a Master’s degree in Energy and Earth Resources from the University of
+
+ 9         Texas at Austin. Since joining J. Pollock, Incorporated in 2018, I have participated in
+
+10         numerous regulatory proceedings regarding the ratemaking process, resource
+
+11         planning, certificates of convenience and necessity, and assessments of planned new
+
+12         resources in Arkansas, Florida, Georgia, Michigan, Minnesota, New Mexico, New
+
+13         York, North Carolina, South Carolina, Texas, and Wisconsin. My qualifications are
+
+14         documented in Appendix A. A list of my appearances in utility regulatory proceedings
+
+15         is provided in Appendix B.
+
+
+16   Q     HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE GEORGIA PUBLIC SERVICE
+
+17         COMMISSION?
+
+18   A     No. Although I have supported testimony submitted by my colleague, Jeffry Pollock,
+
+19         in past proceedings, this is my first opportunity to sponsor testimony before the
+
+20         Georgia Public Service Commission (Commission).
+
+
+                                            J.POLLOCK
+                                            INCORPORATED
+
+                                                                                 Jonathan Ly
+                                                                                 Page 2
+
+
+ 1       Q   ON WHOSE BEHALF ARE YOU TESTIFYING IN THIS PROCEEDING?
+
+ 2       A   I am testifying on behalf of the Georgia Association of Manufacturers (GAM). The
+
+ 3           members of GAM are customers of Georgia Power Company (GPC). They consume
+
+ 4           large quantities of electricity, primarily for manufacturing, under a variety of rate
+
+ 5           schedules.
+
+
+ 6       Q   WHAT ISSUES ARE YOU ADDRESSING IN YOUR TESTIMONY?
+
+ 7       A   I address two concerns raised in the recent Fuel Cost Recovery (FCR-27) proceeding
+
+ 8           by the Commission Public Interest Advocacy Staff (PIA Staff) and certain intervenors
+
+ 9           about the amount of real time pricing (RTP) revenues that are credited to the fuel
+
+10           account. The first concern is whether RTP fuel credit should also include an explicit
+
+11           amount for incremental firm transportation (FT) costs that GPC expects to incur in
+
+12           connection with the capacity resources for which GPC was granted certification in
+
+13           Docket Nos. 56298 and 56310. The second concern is whether the RTP fuel credit
+
+14           appropriately recognizes the costs incurred under certain non-dispatchable power
+
+15           purchase agreements (PPAs).1 In responding to these concerns, I will also provide an
+
+16           overview of RTP, including a recent history of RTP prices and the benefits of RTP to
+
+17           GPC’s customers.
+
+
+18       Q   DOES THE FACT THAT YOU ARE NOT ADDRESSING ALL ISSUES IN THIS
+
+19           PROCEEDING CONSTITUTE AN ENDORSEMENT OF THE POSITIONS OF
+
+20           GEORGIA POWER COMPANY OR OTHER PARTIES ON THESE ISSUES?
+
+21       A   No. The fact that I am not addressing every issue should not be interpreted as an
+
+22           endorsement of any proposals by GPC or any other party in this proceeding.
+
+
+     1 Georgia Power Company’s Fuel Cost Recovery (FCR-27) Application, Docket No. 56765, Direct
+     Testimony and Exhibits of Tom Newsome, Philip M. Hayet, Anthony Sandonato, and Leah J. Wellborn
+     at 60-63 (Apr. 9, 2026).
+
+
+                                              J.POLLOCK
+                                             INCORPORATED
+
+                                                                               Jonathan Ly
+                                                                               Page 3
+
+ 1   Summary
+
+ 2   Q   PLEASE SUMMARIZE YOUR FINDINGS AND RECOMMENDATIONS.
+
+ 3   A   My findings and recommendations are as follows:
+
+ 4             •   RTP is a pricing mechanism which allows customers who are willing to take
+ 5                 considerable price risk to blend higher cost electricity purchased under a
+ 6                 standard tariff with lower cost energy purchased at “market” prices.
+ 7                 Although RTP energy is not procured through actual market purchases, it
+ 8                 reflects GPC’s expected cost to generate electricity and is, thus, a “proxy”
+ 9                 for market pricing.
+10             •   RTP prices vary hourly to reflect the marginal costs to serve incremental
+11                 load and, therefore, send effective price signals to RTP customers to
+12                 minimize consumption during high-load hours and maximize consumption
+13                 during low-load hours. Under this construct, all customers benefit from the
+14                 more efficient use of GPC’s generation fleet.
+15             •   Over the past seven years prices under both RTP-DA and RTP-DA have
+16                 increased, and the hourly prices have become significantly more volatile.
+17                 The higher volatility demonstrates how RTP customers are taking much
+18                 greater price risk than in the past.
+19             •   Despite the concerns of PIA Staff and certain intervenors, incremental FT
+20                 costs associated with new very large load customers are not necessarily
+21                 related to the issue of how RTP revenues are credited to offset FCR costs.
+22                 The only overlap between these two issues is that new very large load
+23                 customers may elect to have all or a portion of their load served through
+24                 RTP.
+25             •   No specific portion of RTP revenues should be credited against FT costs
+26                 because FT costs are fully fixed costs that affect GPC’s average cost of
+27                 service. In contrast, RTP is a marginal cost-based rate.
+28             •   However, RTP sales can contribute to the recovery of these costs when
+29                 the system lambda charge, an RTP component which reflects the
+30                 replacement cost of fuel, exceeds GPC’s average fuel costs. In addition,
+31                 other components of RTP contribute to the recovery of fixed production
+32                 operation and maintenance (O&M) expenses.
+33             •   PIA Staff and certain intervenors also have concerns with the treatment of
+34                 non-dispatchable PPAs in the RTP fuel credit calculation. To address
+35                 these concerns, GPC has proposed two possible modifications to the
+36                 calculation methodology. First, GPC proposes to exclude both the
+37                 generation and costs of these PPAs from the calculation. The second
+38                 option would include both the generation and costs of these PPAs in the
+39                 calculation.
+
+
+                                            J.POLLOCK
+                                            INCORPORATED
+
+                                                                              Jonathan Ly
+                                                                              Page 4
+
+ 1           •   The revenues derived from RTP sales place downward price pressure on
+ 2               non-RTP rates. Thus, any increase in the amount of RTP revenues
+ 3               credited to GPC’s fuel account will necessarily reduce the RTP revenues
+ 4               currently used to offset GPC’s base revenue requirements.
+ 5           •   Should the Commission find that GPC’s RTP fuel credit calculation
+ 6               methodology should be modified, either of GPC’s proposed changes would
+ 7               adequately address PIA Staff and intervenors’ concerns.
+
+ 8   Overview of Real Time Pricing
+
+ 9   Q    WHAT IS REAL TIME PRICING?
+
+10   A    RTP is provided on two Commission-approved rate schedules – RTP Day-Ahead
+
+11        (RTP-DA) and RTP Hour-Ahead (RTP-HA). These rates allow customers who are
+
+12        willing to take considerable price risk to blend higher cost electricity purchased under
+
+13        a standard tariff with lower cost energy purchased at “market” prices. Thus, RTP
+
+14        provides an opportunity to purchase more competitively priced electricity. This is an
+
+15        important tool for manufacturers and other energy-intensive customers who face ever-
+
+16        increasing domestic and global competition.
+
+
+17   Q    HOW LONG HAVE THE RTP RATES BEEN IN EFFECT?
+
+18   A    RTP rates have been in effect since 1992.
+
+
+19   Q    HOW DOES RTP WORK?
+
+20   A    Customers taking service on either RTP-DA or RTP-HA are subject to two sets of
+
+21        prices. First, each RTP customer has a defined customer baseline load (CBL), which
+
+22        represents the load that the customer has demonstrated an ability to operate during
+
+23        an economic curtailment. The CBL is priced under a standard Power and Light tariff
+
+24        (i.e., PLS, PLM, PLL, PLH). Second, incremental load (that is, load above the CBL)
+
+25        is subject to hourly prices under the RTP tariff. These prices are communicated to
+
+
+                                           J.POLLOCK
+                                           INCORPORATED
+
+ REDACTED – PUBLIC VERSION                                                   Jonathan Ly
+                                                                             Page 5
+
+ 1       customers either on a day-ahead basis under RTP-DA (for all 24 hours) or on an hour-
+
+ 2       ahead basis under RTP-HA.
+
+
+ 3   Q   HOW ARE REAL TIME PRICES DETERMINED?
+
+ 4   A   Real time prices change hourly to reflect the marginal costs to serve incremental load.
+
+ 5       The hourly marginal costs include:
+
+ 6          •   Incremental energy (fuel, variable O&M, and emission) costs (i.e.,
+ 7              system lambda);
+ 8          •   Incremental losses;
+ 9          •   Marginal production costs (i.e., reliability adder) which apply during
+10              periods of tight reserves;
+11          •   Marginal transmission costs (i.e., transmission adder) which apply
+12              when system demand approaches and exceeds the projected annual
+13              system peak; and
+14          •   A risk adder to compensate for price forecast errors.
+
+15       Together, these components provide real-time price signals that encourage customers
+
+16       to minimize their electric power and energy consumption during high-price hours and
+
+17       to maximize their electricity consumption during low-price hours. The adders paid by
+
+18       RTP customers lower the remaining costs that GPC must recover from non-RTP
+
+19       customers.   As discussed later, RTP revenues reduced GPC’s system revenue
+
+20       requirements by $            in 2025.
+
+21              Importantly, RTP is not an embedded (or average) cost rate, nor is it a
+
+22       discounted rate. All of the components reflect the marginal cost to provide incremental
+
+23       energy. Accordingly, RTP is a fully cost-based rate.
+
+
+24   Q   HOW     DOES     RTP    BENEFIT      GEORGIA      POWER        COMPANY     AND     ITS
+
+25       CUSTOMERS?
+
+26   A   RTP is a “win-win-win” proposition. GPC benefits from the demand response provided
+
+
+                                         J.POLLOCK
+                                         INCORPORATED
+
+ REDACTED – PUBLIC VERSION                                                   Jonathan Ly
+                                                                             Page 6
+
+ 1       by RTP customers and the ability to use its generation fleet more efficiently. RTP
+
+ 2       customers benefit directly by their ability to use RTP to lower their average cost of
+
+ 3       electricity, which is important to remaining cost competitive and, thus, providing more
+
+ 4       sustainable contributions to the state and local economy. Non-RTP customers benefit
+
+ 5       from lower rates because a portion of RTP revenues is credited to base rates, thereby
+
+ 6       offsetting costs to all customer classes. In addition, they also benefit from increased
+
+ 7       reliability through price signals sent to RTP customers and by having a more vibrant
+
+ 8       and sustainable economy.
+
+
+ 9   Q   IS RTP A DIFFERENT QUALITY OF SERVICE THAN THAT PROVIDED UNDER
+
+10       OTHER TARIFFS?
+
+11   A   Yes. RTP is a more risky type of service for two reasons. First, customers do not
+
+12       have a set hourly price — the prices vary each hour, and customers do not know the
+
+13       hourly prices until either the day before (RTP-DA) or the hour before (RTP-HA).
+
+14       Second, RTP prices can be extremely volatile. For example, during 2025, hourly
+
+15       prices ranged from less than    ¢ to over      ¢ per kilowatt-hour. In contrast, GPC’s
+
+16       standard tariffs have fixed prices that do not change each hour.
+
+17              Thus, customers with RTP experience ever changing and volatile prices that
+
+18       non-RTP customers do not. For these reasons, RTP is a more risky type of service
+
+19       than the service provided under GPC’s standard tariffs.
+
+
+20   Q   HOW HAVE REAL TIME PRICES CHANGED OVER TIME?
+
+21   A   Over the past seven years, real time prices have not only steadily increased, they have
+
+22       also become much more volatile. The increase in RTP-DA prices is shown in Chart 1,
+
+23       while the corresponding increase in RTP-HA prices is shown on Chart 2.
+
+
+                                         J.POLLOCK
+                                         INCORPORATED
+
+REDACTED – PUBLIC VERSION                  Jonathan Ly
+                                           Page 7
+
+                              Chart 1
+
+
+                              Chart 2
+
+
+                            J.POLLOCK
+                            INCORPORATED
+
+ REDACTED – PUBLIC VERSION                                                     Jonathan Ly
+                                                                               Page 8
+
+ 1       The steady increases in real time prices can be attributed to higher replacement fuel
+
+ 2       costs (particularly natural gas), higher marginal transmission and generation capacity
+
+ 3       costs, and hotter than normal weather.
+
+
+ 4   Q   WHAT HAS BEEN THE IMPACT OF THE HIGH REAL TIME PRICES?
+
+ 5   A   Higher real time prices have resulted in much higher contributions to fixed costs by
+
+ 6       RTP customers. The fixed cost contributions consist of:
+
+ 7          •   A reliability adder that reflects the marginal cost of generation capacity;
+ 8          •   A transmission adder that reflects the marginal cost of transmission
+ 9              capacity; and
+10          •   Risk adders ranging from $2 to $3 per megawatt-hour for Day Ahead
+11              (DA) and Hour Ahead (HA) pricing.
+
+12       The Reliability and Transmission adders apply when demand approaches and
+
+13       exceeds the projected Southern Company system peak, and the Risk adder applies
+
+14       to all hours. As a result of the higher prices, RTP customers have paid $            in
+
+15       fixed cost contributions from 2019 through 2025.
+
+
+16   Q   PLEASE ELABORATE ON THE VOLATILITY OF REAL TIME PRICES.
+
+17   A   Chart 3 and Chart 4 show the quarterly standard deviation of RTP-DA and RTP-HA
+
+18       prices, respectively, over the last seven years. These charts demonstrate that real
+
+19       time prices have become significantly more volatile, particularly over the last four
+
+20       years. Thus, it is clear that a large segment of GPC’s retail customers is assuming
+
+21       growing and significant price risk. In exchange for assuming price risk, GPC’s non-
+
+22       RTP customers have — and will continue to — benefit from the fixed costs paid by
+
+23       RTP customers.
+
+
+                                          J.POLLOCK
+                                          INCORPORATED
+
+REDACTED – PUBLIC VERSION                  Jonathan Ly
+                                           Page 9
+
+                              Chart 3
+
+
+                              Chart 4
+
+
+                            J.POLLOCK
+                            INCORPORATED
+
+                                                                               Jonathan Ly
+                                                                               Page 10
+
+ 1   RTP Fuel Credit
+
+ 2   Q    HAVE PARTIES IDENTIFIED POTENTIAL ISSUES WITH GEORGIA POWER
+
+ 3        COMPANY’S ACCOUNTING OF RTP REVENUES?
+
+ 4   A    Yes. As previously stated, PIA Staff and certain intervenors have asserted that GPC
+
+ 5        is understating the amount of RTP revenues that are credited to GPC’s fuel balance.
+
+ 6        Specifically, PIA Staff is particularly concerned that no RTP revenues are being
+
+ 7        credited to offset FT costs that are recoverable in the FCR rate. Additionally, PIA Staff
+
+ 8        is concerned that the costs incurred under certain non-dispatchable “must-run” PPAs
+
+ 9        are also not reflected in the calculation of RTP fuel credit.
+
+
+10   Q    IS THE RTP FUEL CREDIT METHODOLOGY THAT GEORGIA POWER COMPANY
+
+11        IS CURRENTLY USING APPROVED BY THE COMMISSION?
+
+12   A    Yes. The current RTP fuel credit methodology was approved by the Commission in
+
+13        GPC’s 2010 rate case, Docket No. 31958.
+
+
+14   Q    IS THE TREATMENT OF FIRM TRANSMISSION COSTS RELEVANT TO THIS
+
+15        PROCEEDING?
+
+16   A    No. The discussion surrounding FT costs in this proceeding appears to conflate RTP
+
+17        and the pricing for service applicable to new very large load (i.e., 100 megawatts and
+
+18        larger) customers. However, the only overlap is that these customers may elect to
+
+19        have all or a portion of their load served through RTP. In addition to RTP, new very
+
+20        large load customers will pay access charges that reflect GPC’s incremental costs.
+
+21        Except for the fact that RTP is a component of the overall cost to serve new very large
+
+22        load customers, the allocation and recovery of FT costs are entirely unrelated to RTP.
+
+
+                                            J.POLLOCK
+                                           INCORPORATED
+
+                                                                                      Jonathan Ly
+                                                                                      Page 11
+
+ 1       Q       HAS GEORGIA POWER COMPANY ADDRESSED THE FIRM TRANSPORTATION
+
+ 2               COST ISSUE?
+
+ 3       A       Yes. GPC is proposing that the costs of the new FT capacity be allocated to new very
+
+ 4               large load customers based upon their contribution to the winter coincident peak load
+
+ 5               relative to organic load growth.2 This proposal would ensure that incremental FT costs
+
+ 6               attributable to new very large load customers are fully recovered from these
+
+ 7               customers.
+
+
+ 8       Q       SHOULD ANY SPECIFIC PORTION OF RTP REVENUES BE CREDITED AGAINST
+
+ 9               FIRM TRANSPORTATION COSTS?
+
+10       A       No. FT costs represent the costs GPC must pay monthly to reserve capacity on
+
+11               natural gas pipelines to ensure sufficient gas supplies are available when necessary.3
+
+12               They are a fully fixed cost that affects GPC’s average cost of service. Thus, FT is an
+
+13               embedded cost that is most appropriately addressed and allocated through a full cost-
+
+14               of-service study. This is in stark contrast to RTP which, as previously discussed, is a
+
+15               marginal cost-based rate.
+
+
+16       Q       DOES THIS MEAN THAT RTP SALES CONTRIBUTE NO REVENUES TO
+
+17               RECOVER FIRM TRANSPORTATION COSTS?
+
+18       A       No. As previously discussed, and as stated in GPC’s direct testimony, among the
+
+19               components of the hourly real time price is a system lambda charge which reflects the
+
+20               replacement cost of fuel.4 In the hours when system lambda exceeds GPC’s average
+
+
+     2   Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney at 17.
+     3   Id. at 14.
+     4   Id. at 8.
+
+
+                                                 J.POLLOCK
+                                                 INCORPORATED
+
+ REDACTED – PUBLIC VERSION                                                            Jonathan Ly
+                                                                                      Page 12
+
+ 1             fuel costs, RTP sales provide a contribution to the recovery of fixed production O&M
+
+ 2             expense, which also includes FT. Thus, although RTP incremental load is not served
+
+ 3             through a fully embedded rate, it contributes to GPC’s fixed costs.5
+
+
+ 4       Q     PLEASE      QUANTIFY       THE      AMOUNT      OF    FIXED    COSTS      OFFSET     BY
+
+ 5             INCREMENTAL REVENUES IN 2025.
+
+ 6       A     According to GPC, system lambda contributed $264 million to the recovery of fixed
+
+ 7             production O&M expenses in 2025.6 This is in addition to the $              of fixed cost
+
+ 8             contributions from the other RTP pricing components in 2025, resulting in a total
+
+ 9             contribution of $              to base rates.    This amount represents a significant
+
+10             increase from the RTP revenues that reduced non-RTP base revenues in GPC’s 2022
+
+11             rate case, Docket No. 44280, which totaled $214 million.7
+
+
+12       Q     TURNING TO THE SECOND IDENTIFIED ISSUE, HAS GEORGIA POWER
+
+13             COMPANY RESPONDED TO PIA STAFF’S CONCERN ABOUT THE TREATMENT
+
+14             OF NON-DISPATCHABLE PURCHASED POWER EXPENSES?
+
+15       A     Yes. GPC proposes two options to address this concern. First, GPC proposes
+
+16             excluding both the generation and costs of these PPAs from the RTP fuel credit
+
+17             calculation. In the alternative, GPC proposes to include both the generation and costs
+
+18             of these PPAs in the calculation.
+
+
+     5   GPC Response to STF-JKA-4-3.
+     6   Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney at 15.
+     7 Georgia Power Company’s 2022 Rate Case, Docket No. 44280, Direct Testimony of Lee Evans,
+
+     Exhibit___(LPE-1) (Jun. 24, 2022).
+
+
+                                                 J.POLLOCK
+                                                 INCORPORATED
+
+                                                                               Jonathan Ly
+                                                                               Page 13
+
+1    Q   HOW WOULD THE PROPOSED CHANGES IMPACT THE RTP FUEL CREDIT
+
+2        CALCULATION?
+
+3    A   Either of these changes would increase the amount of RTP revenues that are credited
+
+4        to fuel. However, I would note that any increase in the amount of RTP revenues
+
+5        credited to the fuel account will necessarily reduce the RTP revenues currently used
+
+6        to offset GPC’s non-fuel base revenue requirements. Thus, increasing the RTP fuel
+
+7        credit would put upward pressure on base rates.
+
+
+8    Q   WOULD THE SHIFT IN RTP CREDITS FROM OFFSETTING BASE REVENUE
+
+9        REQUIREMENTS TO FUEL COSTS AFFECT ALL CUSTOMER CLASSES
+
+10       EQUALLY?
+
+11   A   No. Because base revenues and fuel revenues are allocated to customer classes in
+
+12       different proportions, the impacts of the RTP revenues in offsetting these costs would
+
+13       also vary, as shown in Table 1.
+
+                                         Table 1
+                             Percentage of Base Revenues vs.
+                             Fuel Revenues By Customer Class
+                          Customer                 Base            Fuel
+                           Class                 Revenues        Revenues
+                  Domestic                           58.07%          55.36%
+                  Small Business                     12.93%            9.76%
+                  Medium Business                    19.71%          22.46%
+                  Large Business                      4.29%            6.82%
+                  Agricultural                        0.28%            0.37%
+                  Government/Institution              2.33%            3.78%
+                  Lighting                            2.39%            1.44%
+                  Total Retail                      100.00%         100.00%
+                  Source: Docket No. 44820, Georgia Power Company Cost-of-
+                  Service Study for Test Year Ending July 31, 2023, Schedule
+                  2.10, lines 1 and 2.
+
+
+                                           J.POLLOCK
+                                           INCORPORATED
+
+                                                                         Jonathan Ly
+                                                                         Page 14
+
+1        As can be seen, crediting additional RTP revenues to the fuel account would provide
+
+2        a greater benefit to Medium Business, Large Business, Agricultural, and
+
+3        Government/Institution customers than to Domestic, Small Business, and Lighting
+
+4        customers.
+
+
+5    Q   DO YOU HAVE AN OPINION REGARDING GEORGIA POWER COMPANY’S
+
+6        PROPOSALS?
+
+7    A   Yes. Should the Commission find that GPC’s RTP fuel credit calculation methodology
+
+8        should be modified, either of GPC’s proposed changes would adequately address the
+
+9        issue identified by PIA Staff and intervenors.
+
+
+10   Q   DOES THIS CONCLUDE YOUR TESTIMONY?
+
+11   A   Yes.
+
+
+                                          J.POLLOCK
+                                          INCORPORATED
+
+                                                                              Jonathan Ly
+                                                                              Direct
+                                                                              Page 15
+
+                                          APPENDIX A
+                               Qualifications of Jonathan Ly
+
+ 1   Q   PLEASE STATE YOUR NAME AND BUSINESS ADDRESS.
+
+ 2   A   Jonathan Ly. My business mailing address is 14323 S. Outer 40 Rd., Town and
+
+ 3       Country, Missouri 63017.
+
+
+ 4   Q   WHAT IS YOUR OCCUPATION AND BY WHOM ARE YOU EMPLOYED?
+
+ 5   A   I am an Associate of J. Pollock, Incorporated.
+
+
+ 6   Q   PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE.
+
+ 7   A   I received a Bachelor of Arts degree in Integrative Biology from the University of
+
+ 8       California, Berkeley in 2013 and a Master’s degree in Energy and Earth Resources
+
+ 9       from the University of Texas at Austin in 2017. In addition, I have completed a course
+
+10       in utility accounting and finance.
+
+11              I joined J. Pollock, Incorporated in 2018 as an energy analyst assisting
+
+12       consultants in the preparation of financial and economic studies of investor-owned,
+
+13       cooperative, and municipal utilities on revenue requirements, cost of service and rate
+
+14       design, tariff review and analysis, integrated resource planning, and certificates of
+
+15       convenience and necessity. I began working as an Associate in 2021, expanding upon
+
+16       my responsibilities and assignments in matters I had previously worked on as an
+
+17       energy analyst. I have been involved in various projects in multiple states including
+
+18       Arkansas, Florida, Georgia, Michigan, Minnesota, New Mexico, New York, North
+
+19       Carolina, South Carolina, Texas, and Wisconsin.
+
+
+                                                                                  Appendix A
+                                          J.POLLOCK
+                                          INCORPORATED
+
+                                                                             Jonathan Ly
+                                                                             Direct
+                                                                             Page 16
+
+1   Q   PLEASE DESCRIBE J. POLLOCK, INCORPORATED.
+
+2   A   J. Pollock assists clients to procure and manage energy in both regulated and
+
+3       competitive markets.    The J. Pollock team also advises clients on energy and
+
+4       regulatory issues. Our clients include commercial, industrial and institutional energy
+
+5       consumers. J. Pollock is a registered broker and Class I aggregator in the State of
+
+6       Texas.
+
+
+                                                                                 Appendix A
+                                        J.POLLOCK
+                                        INCORPORATED
+
+                                                                                                                                                                      (
+                                                                                                                                                                      Jonathan Ly
+                                                                                                                                                                      Page 17
+                                                                           APPENDIX B
+                                                             Testimony Filed in Regulatory Proceedings
+                                                                          by Jonathan Ly
+                 UTILITY                              ON BEHALF OF                      DOCKET          TYPE        STATE / PROVINCE                   SUBJECT                         DATE
+WISCONSIN ELECTRIC POWER COMPANY      Wisconsin Industrial Energy Group               6690-UR-129     Surrebuttal           WI       Class Cost-of-Service Study                     9/18/2026
+
+WISCONSIN ELECTRIC POWER COMPANY      Wisconsin Industrial Energy Group                5-UR-112       Surrebuttal          WI          Class Cost-of-Service Study                   9/11/2026
+
+WISCONSIN ELECTRIC POWER COMPANY      Wisconsin Industrial Energy Group               6690-UR-129      Rebuttal            WI          Class Cost-of-Service Study; Class Revenue     9/3/2026
+                                                                                                                                       Allocation
+
+WISCONSIN ELECTRIC POWER COMPANY      Wisconsin Industrial Energy Group                5-UR-112        Rebuttal            WI          Class Cost-of-Service Study; Class Revenue     8-28-026
+                                                                                                                                       Allocation
+
+WISCONSIN ELECTRIC POWER COMPANY      Wisconsin Industrial Energy Group               6690-UR-129       Direct             WI          Class Cost-of-Service Study; Class Revenue    8/14/2026
+                                                                                                                                       Allocation
+
+WISCONSIN GAS LLC                     Wisconsin Industrial Energy Group                5-UR-112         Direct             WI          Class Cost-of-Service Study; Class Revenue    8/10/2026
+                                                                                                                                       Allocation
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY   Texas Industrial Energy Consumers                  59133          Direct             TX          Minimum Protection Guarantee; Net Capacity    7/16/2026
+                                                                                                                                       Factor; PTC Transaction Costs
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY   Occidental Permian Ltd.                         25-00079-UT     Stipulation          NM          Support of Stipulation resolving revenue      6/30/2026
+                                                                                                       Support                         requirement, class cost allocation and rate
+                                                                                                                                       design.
+SOUTHWESTERN PUBLIC SERVICE COMPANY   Occidental Permian Ltd.                         25-00079-UT       Direct             NM          Class Cost-of-Service Study; Class Revenue     5/1/2026
+                                                                                                                                       Allocation; Rate Design
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY   Occidental Permian Ltd.                         25-00085-UT       Direct             NM          Long-Term Purchased Power Agreements          3/20/2026
+
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY   Occidental Permian Ltd.                         25-00066-UT       Direct             NM          CT versus CCGT; Resource Mismatch;            12/23/2025
+                                                                                                                                       Customer Protections; Ratemaking Requests
+
+NEW YORK STATE ELECTRIC & GAS         Multiple Intervenors                             25-E-0375       Rebuttal            NY          Embedded Class Cost-of-Service Study; Class   12/5/2025
+CORPORATION and ROCHESTER GAS AND                                                      25-G-0378                                       Revenue Allocation; Rate Design
+ELECTRIC CORPORATION                                                                   25-E-0379
+                                                                                       25-G-0380
+NORTHERN STATES POWER COMPANY         Xcel Large Industrials                         E002/GR-24-320   Surrebuttal          MN          Class Cost-of-Service Study; Class Revenue    11/25/2025
+                                                                                                                                       Allocation; Large Load Tariff
+
+NEW YORK STATE ELECTRIC & GAS         Multiple Intervenors                             25-E-0375        Direct             NY          Embedded Class Cost-of-Service Study; Class   11/7/2025
+CORPORATION and ROCHESTER GAS AND                                                      25-G-0378                                       Revenue Allocation; Rate Design
+ELECTRIC CORPORATION                                                                   25-E-0379
+                                                                                       25-G-0380
+NORTHERN STATES POWER COMPANY         Xcel Large Industrials                         E002/GR-24-320    Rebuttal            MN          Class Cost-of-Service Study; Class Revenue    10/10/2025
+                                                                                                                                       Allocation
+
+PUBLIC SERVICE COMPANY OF NORTH       Carolina Utility Customers Association, Inc.    G-5, SUB 686      Direct             NC          Class Cost-of-Service Study; Class Revenue    8/25/2025
+CAROLINA, INC.                                                                                                                         Allocation; Rate Design
+
+                                                                                                                                                                               (
+                                                                                                                                                                               Jonathan Ly
+                                                                                                                                                                               Page 18
+                                                                             APPENDIX B
+                                                               Testimony Filed in Regulatory Proceedings
+                                                                            by Jonathan Ly
+                UTILITY                                  ON BEHALF OF                           DOCKET          TYPE        STATE / PROVINCE                   SUBJECT                             DATE
+NORTHERN STATES POWER COMPANY           Xcel Large Industrials                               E002/GR-24-320     Direct             MN        Class Cost-of-Service Study; Class Revenue          8/22/2025
+                                                                                                                                             Allocation
+
+FLORIDA POWER & LIGHT COMPANY           Florida Industrial Power Users Group                  20250011-EI       Direct             FL          Class Cost-of-Service Study; Interruptible         6/9/2025
+                                                                                                                                               Credits
+SOUTHWESTERN PUBLIC SERVICE COMPANY     Occidental Permian Ltd.                               24-00270-UT     Stipulation          NM          Stipulation Support regarding ratemaking          5/27/2025
+                                                                                                               Support                         treatment of solar/battery projects through the
+                                                                                                                                               FPPCAC; off-system sales margins
+SOUTHWESTERN PUBLIC SERVICE COMPANY     Occidental Permian Ltd.                               25-00027-UT       Direct             NM          Renewable Portfolio Standard Cost Rider           5/21/2025
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY     Occidental Permian Ltd.                               24-00270-UT       Direct             NM          Recovery of Tax Credits, Transfer Costs; Return    5/5/2025
+                                                                                                                                               on Deferred Tax Asset; Off-System Sales
+                                                                                                                                               Margins
+SOUTHWESTERN ELECTRIC POWER COMPANY     Texas Industrial Energy Consumers                        56643          Direct             TX          Impact of Pirkey Retirement; Self-Commitment      1/13/2025
+                                                                                                                                               of Generating Units
+
+
+CENTRAL HUDSON GAS & ELECTRIC           Multiple Intervenors                                   24-E-0461 /     Rebuttal            NY          Embedded Class Cost-of-Service Studies            12/18/2024
+CORPORATION                                                                                    24-G-0462                                       (Electric/Gas); Electric Rate Design (Customer
+                                                                                                                                               Charge)
+CENTRAL HUDSON GAS & ELECTRIC           Multiple Intervenors                                   24-E-0461 /      Direct             NY          System Control, Load Dispatching, and Other     11/22/2024
+CORPORATION                                                                                    24-G-0462                                       Power Supply; Historic Test-Year; Electric Rate
+                                                                                                                                               Design (Customer Charge)
+NIAGRA MOHAWK POWER CORPORATION D/B/A   Multiple Intervenors                                   24-E-0322 /     Rebuttal            NY          Class Cost-of-Service Study (Electric/Gas);       10/18/2024
+NATIONAL GRID                                                                                  24-G-0323                                       Class Revenue Allocation (Electric/Gas); Rate
+                                                                                                                                               Design (Customer Charge)
+NIAGRA MOHAWK POWER CORPORATION D/B/A   Multiple Intervenors                                   24-E-0322 /      Direct             NY          Class Cost-of-Service Study (Electric/Gas);    9/26/2024
+NATIONAL GRID                                                                                  24-G-0323                                       Class Revenue Allocation (Electric/Gas); Terms
+                                                                                                                                               and Conditions
+
+PIEDMONT NATURAL GAS COMPANY, INC       Carolina Utility Customers Association, Inc.          G-9, Sub 837      Direct             NC          Class Cost-of-Service Study; Class Revenue        8/13/2024
+                                                                                                                                               Allocation
+MICHIGAN GAS UTILITIES CORPORATION      Association of Businesses Advocating Tariff Equity       21540         Rebuttal             MI         Class Cost-of-Service Study; Class Revenue        7/22/2024
+                                                                                                                                               Allocation
+SOUTHWESTERN PUBLIC SERVICE COMPANY     Occidental Permian Ltd.                               24-00120-UT       Direct             NM          Transportation Electrification Plan               7/12/2024
+
+
+SUMMIT UTILITIES ARKANSAS, INC.         Arkansas Gas Consumers, Inc.                            23-079-U        Direct             AR          Class Cost-of-Service Study; Class Revenue        7/10/2024
+                                                                                                                                               Allocation
+DUKE ENERGY FLORIDA, LLC                Florida Industrial Power Users Group                  20240025-EI       Direct             FL          Solar Projects; Cost-Effectiveness Analysis;      6/11/2024
+                                                                                                                                               Consumer Protections
+TAMPA ELECTRIC COMPANY                  Florida Industrial Power Users Group                  20240026-EI       Direct             FL          Solar Projects; Cost-Effectiveness Analysis;       6/6/2024
+                                                                                                                                               Consumer Protections
+
+                                                                                                                                                                                   (
+                                                                                                                                                                                   Jonathan Ly
+                                                                                                                                                                                   Page 19
+                                                                              APPENDIX B
+                                                                Testimony Filed in Regulatory Proceedings
+                                                                             by Jonathan Ly
+                UTILITY                                     ON BEHALF OF                         DOCKET           TYPE        STATE / PROVINCE                   SUBJECT                           DATE
+DUKE ENERGY CAROLINAS, LLC               Carolina Utility Customers Association, Inc.          E-7. SUB 1304      Direct             NC        Fuel and Fuel-Related Cost Factors                5/23/2024
+
+
+CONSUMERS ENERGY COMPANY                 Association of Businesses Advocating Tariff Equity      U-21490         Rebuttal            MI          Uncollectible Expense Allocation; Economic      5/17/2024
+                                                                                                                                                 Breakeven Points
+SOUTHWESTERN PUBLIC SERVICE COMPANY      Occidental Permian Ltd.                               23-00384-UT      Stipulation          NM          Stipulation Support regarding Long-Term         5/10/2024
+                                                                                                                 Support                         Purchased Power Agreement and Ratemaking
+                                                                                                                                                 Treatment
+CONSUMERS ENERGY COMPANY                 Association of Businesses Advocating Tariff Equity      U-21490          Direct             MI          Class Cost-of-Service Study; Revenue            4/22/2024
+                                                                                                                                                 Allocation; Rate Design
+SOUTHWESTERN PUBLIC SERVICE COMPANY      Occidental Permian Ltd.                               23-00384-UT        Direct             NM          Long-Term Purchased Power Agreement;            4/1/2024
+                                                                                                                                                 Ratemaking Requests
+LCRA TRANSMISSION SERVICES CORPORATION   Texas Industrial Energy Consumers                        55867           Direct             TX          Wholesale Transmsision Rate                     3/18/2024
+
+
+MINNESOTA POWER                          Large Power Intervenors                              E-015/GR-23-155     Direct             MN          Advanced Metering Infrastructure; Class         3/18/2024
+                                                                                                                                                 Revenue Allocation; Rider for Voluntary
+                                                                                                                                                 Renewable Energy
+NATIONAL FUEL GAS DISTRIBUTION           Multiple Intervenors                                   23-G-0627         Direct             NY          Class Revenue Allocation; Rate Design           3/1/2024
+CORPORATION
+SOUTHWESTERN PUBLIC SERVICE COMPANY      Occidental Permian Ltd.                               23-00252-UT        Direct             NM          Certificate of Convenience and Necessity        12/1/2023
+
+
+EL PASO ELECTRIC COMPANY                 Texas Industrial Energy Consumers                        54929           Direct             TX          Certificate of Convenience and Necessity       10/24/2023
+
+
+SOUTHWESTERN PUBLIC SERVICE COMPANY      Texas Industrial Energy Consumers                        54634           Direct             TX          Revised Class Cost-of-Service Study; Class      8/4/2023
+                                                                                                                                                 Revenue Allocation; Energy Assistance
+                                                                                                                                                 Program
+ENTERGY ARKANSAS, LLC                    Arkansas Electric Energy Consumers, Inc.                22-082-U       Surrebuttal          AR          Additional Sum associated with Power            7/20/2023
+                                                                                                                                                 Purchase Agreements
+
+ENTERGY ARKANSAS, LLC                    Arkansas Electric Energy Consumers, Inc.                22-082-U         Direct             AR          Additional Sum associated with Power            6/8/2023
+                                                                                                                                                 Purchase Agreements
+
+CONSUMERS ENERGY COMPANY                 Association of Businesses Advocating Tariff Equity      U-21308         Rebuttal            MI          Uncollectible Expense Allocator                 5/8/2023
+
+
+CONSUMERS ENERGY COMPANY                 Association of Businesses Advocating Tariff Equity      U-21308          Direct             MI          Class Cost-of-Service Study, Allocation of Other 4/17/2023
+                                                                                                                                                 Distribution Plant; Average & Peak Versus
+                                                                                                                                                 Average & Excess Methods
+ENTERGY ARKANSAS, LLC                    Arkansas Electric Energy Consumers, Inc.                20-049-U       Surrebuttal          AR          Capacity Need and Capacity Value; Risk to Non- 8/1/2022
+                                                                                                                                                 Participants; Negative Impacts on Competition;
+                                                                                                                                                 Best Practices
+ENTERGY ARKANSAS, LLC                    Arkansas Electric Energy Consumers, Inc.                20-049-U         Direct             AR          Capacity Need and Capacity Value; Risk to Non- 6/22/2022
+                                                                                                                                                 Participants; Negative Impacts on Competition;
+                                                                                                                                                 Best Practices
+
+
+===== JL - Testimony REDACTED.docx =====
+Before the
+Georgia Public Service Commission
+
+
+In Re:
+Georgia Power Company’s 
+RTP Revenue Credit
+And Allocation Methodology
+
+
+)
+)
+)
+)
+
+
+Docket No.  57171
+
+
+REDACTED – PUBLIC VERSION
+
+
+Testimony
+
+of
+
+Jonathan Ly
+
+
+On Behalf of
+
+Georgia Association of Manufacturers
+
+
+September 23, 2026
+
+
+Before the
+Georgia Public Service Commission
+
+
+In Re:
+Georgia Power Company’s 
+RTP Revenue Credit
+And Allocation Methodology
+
+
+)
+)
+)
+)
+
+
+Docket No.  57171
+
+Table of Contents
+Table of Contentsii
+Glossary of Acronymsiii
+TESTIMONY OF Jonathan ly1
+Introduction, Qualifications and Summary1
+Overview of Real Time Pricing4
+RTP Fuel Credit10
+APPENDIX A15
+APPENDIX B17
+
+Glossary of Acronyms
+Term
+Definition
+CBL
+Customer Baseline Load
+Commission
+Georgia Public Service Commission
+FCR
+Fuel Cost Recovery
+FT
+Firm Transportation
+GAM
+Georgia Association of Manufacturers
+GPC
+Georgia Power Company
+O&M
+Operation and Maintenance
+PIA Staff
+Commission Public Interest Advocacy Staff
+PPA
+Power Purchase Agreement
+RTP
+Real Time Pricing
+RTP-DA
+Real Time Pricing – Day Ahead
+RTP-HA
+Real Time Pricing – Hour Ahead
+
+TESTIMONY OF Jonathan ly
+Introduction, Qualifications and Summary
+QPlease state your name and business address.
+AJonathan Ly; 14323 South Outer 40 Rd., Suite 206N, St. Louis, MO 63017.
+QWhat is your occupation and by whom are you employed?
+AI am an Associate Consultant at J. Pollock, Incorporated.
+QPlease state your educational background and experience.
+AI have a Bachelor of Arts degree in Integrative Biology from the University of California, Berkeley and a Master’s degree in Energy and Earth Resources from the University of Texas at Austin.  Since joining J. Pollock, Incorporated in 2018, I have participated in numerous regulatory proceedings regarding the ratemaking process, resource planning, certificates of convenience and necessity, and assessments of planned new resources in Arkansas, Florida, Georgia, Michigan, Minnesota, New Mexico, New York, North Carolina, South Carolina, Texas, and Wisconsin.  My qualifications are documented in Appendix A.  A list of my appearances in utility regulatory proceedings is provided in Appendix B.
+QHave you previously testified before the Georgia Public Service COmmission?
+ANo.  Although I have supported testimony submitted by my colleague, Jeffry Pollock, in past proceedings, this is my first opportunity to sponsor testimony before the Georgia Public Service Commission (Commission).
+QON WHOSE BEHALF ARE YOU TESTIFYING IN THIS PROCEEDING? 
+AI am testifying on behalf of the Georgia Association of Manufacturers (GAM).  The members of GAM are customers of Georgia Power Company (GPC).  They consume large quantities of electricity, primarily for manufacturing, under a variety of rate schedules.  
+QWhat issues are you addressing in your testimony?
+AI address two concerns raised in the recent Fuel Cost Recovery (FCR-27) proceeding by the Commission Public Interest Advocacy Staff (PIA Staff) and certain intervenors about the amount of real time pricing (RTP) revenues that are credited to the fuel account.  The first concern is whether RTP fuel credit should also include an explicit amount for incremental firm transportation (FT) costs that GPC expects to incur in connection with the capacity resources for which GPC was granted certification in Docket Nos. 56298 and 56310.  The second concern is whether the RTP fuel credit appropriately recognizes the costs incurred under certain non-dispatchable power purchase agreements (PPAs).  In responding to these concerns, I will also provide an overview of RTP, including a recent history of RTP prices and the benefits of RTP to GPC’s customers.  
+qDoes the fact that you are not addressing all issues in this proceeding constitute an endorsement of the positions of georgia power company or other parties on these issues?
+ANo.  The fact that I am not addressing every issue should not be interpreted as an endorsement of any proposals by GPC or any other party in this proceeding.
+Summary
+qPlease summarize your findings and recommendations.
+AMy findings and recommendations are as follows:
+RTP is a pricing mechanism which allows customers who are willing to take considerable price risk to blend higher cost electricity purchased under a standard tariff with lower cost energy purchased at “market” prices.  Although RTP energy is not procured through actual market purchases, it reflects GPC’s expected cost to generate electricity and is, thus, a “proxy” for market pricing.
+RTP prices vary hourly to reflect the marginal costs to serve incremental load and, therefore, send effective price signals to RTP customers to minimize consumption during high-load hours and maximize consumption during low-load hours.  Under this construct, all customers benefit from the more efficient use of GPC’s generation fleet.
+Over the past seven years prices under both RTP-DA and RTP-DA have increased, and the hourly prices have become significantly more volatile.   The higher volatility demonstrates how RTP customers are taking much greater price risk than in the past.  
+Despite the concerns of PIA Staff and certain intervenors, incremental FT costs associated with new very large load customers are not necessarily related to the issue of how RTP revenues are credited to offset FCR costs.  The only overlap between these two issues is that new very large load customers may elect to have all or a portion of their load served through RTP.
+No specific portion of RTP revenues should be credited against FT costs because FT costs are fully fixed costs that affect GPC’s average cost of service.  In contrast, RTP is a marginal cost-based rate.
+However, RTP sales can contribute to the recovery of these costs when the system lambda charge, an RTP component which reflects the replacement cost of fuel, exceeds GPC’s average fuel costs.  In addition, other components of RTP contribute to the recovery of fixed production operation and maintenance (O&M) expenses.
+PIA Staff and certain intervenors also have concerns with the treatment of non-dispatchable PPAs in the RTP fuel credit calculation.  To address these concerns, GPC has proposed two possible modifications to the calculation methodology. First, GPC proposes to exclude both the generation and costs of these PPAs from the calculation.  The second option would include both the generation and costs of these PPAs in the calculation.
+The revenues derived from RTP sales place downward price pressure on non-RTP rates.  Thus, any increase in the amount of RTP revenues credited to GPC’s fuel account will necessarily reduce the RTP revenues currently used to offset GPC’s base revenue requirements.
+Should the Commission find that GPC’s RTP fuel credit calculation methodology should be modified, either of GPC’s proposed changes would adequately address PIA Staff and intervenors’ concerns.
+ Overview of Real Time Pricing
+qWhat is real time pricing?
+ARTP is provided on two Commission-approved rate schedules – RTP Day-Ahead (RTP-DA) and RTP Hour-Ahead (RTP-HA).  These rates allow customers who are willing to take considerable price risk to blend higher cost electricity purchased under a standard tariff with lower cost energy purchased at “market” prices.  Thus, RTP provides an opportunity to purchase more competitively priced electricity.  This is an important tool for manufacturers and other energy-intensive customers who face ever-increasing domestic and global competition.  
+qhow long have the RTP rates been in effect?
+ARTP rates have been in effect since 1992.  
+qhow does rtp work? 
+ACustomers taking service on either RTP-DA or RTP-HA are subject to two sets of prices.  First, each RTP customer has a defined customer baseline load (CBL), which represents the load that the customer has demonstrated an ability to operate during an economic curtailment.  The CBL is priced under a standard Power and Light tariff (i.e., PLS, PLM, PLL, PLH).  Second, incremental load (that is, load above the CBL) is subject to hourly prices under the RTP tariff.  These prices are communicated to
+customers either on a day-ahead basis under RTP-DA (for all 24 hours) or on an hour-ahead basis under RTP-HA.  
+qhow are real time prices determined?
+AReal time prices change hourly to reflect the marginal costs to serve incremental load.  The hourly marginal costs include:
+Incremental energy (fuel, variable O&M, and emission) costs (i.e., system lambda); 
+Incremental losses;
+Marginal production costs (i.e., reliability adder) which apply during periods of tight reserves; 
+Marginal transmission costs (i.e., transmission adder) which apply when system demand approaches and exceeds the projected annual system peak; and
+A risk adder to compensate for price forecast errors.
+Together, these components provide real-time price signals that encourage customers to minimize their electric power and energy consumption during high-price hours and to maximize their electricity consumption during low-price hours.  The adders paid by RTP customers lower the remaining costs that GPC must recover from non-RTP customers.  As discussed later, RTP revenues reduced GPC’s system revenue requirements by $________ in 2025.  
+Importantly, RTP is not an embedded (or average) cost rate, nor is it a discounted rate.   All of the components reflect the marginal cost to provide incremental energy.  Accordingly, RTP is a fully cost-based rate.  
+qhow does rtp benefit georgia power company and its customers?
+ARTP is a “win-win-win” proposition.  GPC benefits from the demand response provided
+by RTP customers and the ability to use its generation fleet more efficiently.  RTP customers benefit directly by their ability to use RTP to lower their average cost of electricity, which is important to remaining cost competitive and, thus, providing more sustainable contributions to the state and local economy.  Non-RTP customers benefit from lower rates because a portion of RTP revenues is credited to base rates, thereby offsetting costs to all customer classes.  In addition, they also benefit from increased reliability through price signals sent to RTP customers and by having a more vibrant and sustainable economy.  
+qIs RTP a different quality of service than that provided under other tariffs?
+AYes.  RTP is a more risky type of service for two reasons.  First, customers do not have a set hourly price — the prices vary each hour, and customers do not know the hourly prices until either the day before (RTP-DA) or the hour before (RTP-HA).  Second, RTP prices can be extremely volatile.  For example, during 2025, hourly prices ranged from less than __¢ to over ___¢ per kilowatt-hour.  In contrast, GPC’s standard tariffs have fixed prices that do not change each hour.  
+Thus, customers with RTP experience ever changing and volatile prices that  non-RTP customers do not.  For these reasons, RTP is a more risky type of service than the service provided under GPC’s standard tariffs.
+QHow have real time prices changed over time?
+AOver the past seven years, real time prices have not only steadily increased, they have  also become much more volatile.  The increase in RTP-DA prices is shown in Chart 1, while the corresponding increase in RTP-HA prices is shown on Chart 2.  
+Chart 1
+
+
+Chart 2
+
+
+The steady increases in real time prices can be attributed to higher replacement fuel costs (particularly natural gas), higher marginal transmission and generation capacity costs, and hotter than normal weather.
+Qwhat has been the impact of the high real time Prices?
+AHigher real time prices have resulted in much higher contributions to fixed costs by RTP customers.  The fixed cost contributions consist of:
+A reliability adder that reflects the marginal cost of generation capacity;
+A transmission adder that reflects the marginal cost of transmission capacity; and
+Risk adders ranging from $2 to $3 per megawatt-hour for Day Ahead (DA) and Hour Ahead (HA) pricing. 
+The Reliability and Transmission adders apply when demand approaches and exceeds the projected Southern Company system peak, and the Risk adder applies to all hours.  As a result of the higher prices, RTP customers have paid $________ in fixed cost contributions from 2019 through 2025.  
+QPlease elaborate on the volatility of real time prices.
+AChart 3 and Chart 4 show the quarterly standard deviation of RTP-DA and RTP-HA prices, respectively, over the last seven years.  These charts demonstrate that real time prices have become significantly more volatile, particularly over the last four years.  Thus, it is clear that a large segment of GPC’s retail customers is assuming growing and significant price risk.  In exchange for assuming price risk, GPC’s non-RTP customers have — and will continue to — benefit from the fixed costs paid by RTP customers.  
+Chart 3
+
+
+Chart 4
+
+
+RTP Fuel Credit
+qHave parties identified potential issues with Georgia power COmpany’s accounting of RTP revenues?
+AYes.  As previously stated, PIA Staff and certain intervenors have asserted that GPC is understating the amount of RTP revenues that are credited to GPC’s fuel balance.  Specifically, PIA Staff is particularly concerned that no RTP revenues are being credited to offset FT costs that are recoverable in the FCR rate.  Additionally, PIA Staff is concerned that the costs incurred under certain non-dispatchable “must-run” PPAs are also not reflected in the calculation of RTP fuel credit.  
+qIs the RTP fuel credit methodology that georgia power Company is currently using approved by the commission?
+AYes.  The current RTP fuel credit methodology was approved by the Commission in GPC’s 2010 rate case, Docket No. 31958.  
+qis the treatment of firm transmission costs relevant to this proceeding?
+ANo.  The discussion surrounding FT costs in this proceeding appears to conflate RTP and the pricing for service applicable to new very large load (i.e., 100 megawatts and larger) customers.  However, the only overlap is that these customers may elect to have all or a portion of their load served through RTP.  In addition to RTP, new very large load customers will pay access charges that reflect GPC’s incremental costs.  Except for the fact that RTP is a component of the overall cost to serve new very large load customers, the allocation and recovery of FT costs are entirely unrelated to RTP.
+qhas Georgia Power COmpany addressed the firm transportation cost issue?
+AYes.  GPC is proposing that the costs of the new FT capacity be allocated to new very large load customers based upon their contribution to the winter coincident peak load relative to organic load growth.  This proposal would ensure that incremental FT costs attributable to new very large load customers are fully recovered from these customers.  
+qshould any specific portion of RTP revenues be credited against firm transportation costs?
+ANo.  FT costs represent the costs GPC must pay monthly to reserve capacity on natural gas pipelines to ensure sufficient gas supplies are available when necessary.  They are a fully fixed cost that affects GPC’s average cost of service.  Thus, FT is an embedded cost that is most appropriately addressed and allocated through a full cost-of-service study.  This is in stark contrast to RTP which, as previously discussed, is a marginal cost-based rate.  
+qdoes this mean that RTP sales contribute no revenues to recover firm transportation costs?
+ANo.  As previously discussed, and as stated in GPC’s direct testimony, among the components of the hourly real time price is a system lambda charge which reflects the replacement cost of fuel.  In the hours when system lambda exceeds GPC’s average
+fuel costs, RTP sales provide a contribution to the recovery of fixed production O&M expense, which also includes FT.  Thus, although RTP incremental load is not served through a fully embedded rate, it contributes to GPC’s fixed costs.
+qPlease quantify the amount of fixed costs offset by incremental revenues in 2025.
+AAccording to GPC, system lambda contributed $264 million to the recovery of fixed production O&M expenses in 2025.  This is in addition to the $________ of fixed cost contributions from the other RTP pricing components in 2025, resulting in a total contribution of $_________ to base rates.  This amount represents a significant increase from the RTP revenues that reduced non-RTP base revenues in GPC’s 2022 rate case, Docket No. 44280, which totaled $214 million.
+qTurning to the second identified issue, has Georgia Power COmpany responded to pia Staff’s concern about the treatment of non-dispatchable purchased power expenses?
+AYes.  GPC proposes two options to address this concern.  First, GPC proposes excluding both the generation and costs of these PPAs from the RTP fuel credit calculation.  In the alternative, GPC proposes to include both the generation and costs of these PPAs in the calculation.
+qHow would the proposed changes impact the RTP fuel credit calculation?
+AEither of these changes would increase the amount of RTP revenues that are credited to fuel.  However, I would note that any increase in the amount of RTP revenues  credited to the fuel account will necessarily reduce the RTP revenues currently used to offset GPC’s non-fuel base revenue requirements.  Thus, increasing the RTP fuel credit would put upward pressure on base rates.  
+qWould the shift in RTP credits from offsetting base revenue requirements to Fuel costs affect all customer classes equally?
+ANo.  Because base revenues and fuel revenues are allocated to customer classes in different proportions, the impacts of the RTP revenues in offsetting these costs would also vary, as shown in Table 1.
+Table 1
+Percentage of Base Revenues vs. 
+Fuel Revenues By Customer Class
+Customer
+Class
+Base
+Revenues
+Fuel
+Revenues
+Domestic
+58.07%
+55.36%
+Small Business
+12.93%
+9.76%
+Medium Business
+19.71%
+22.46%
+Large Business
+4.29%
+6.82%
+Agricultural
+0.28%
+0.37%
+Government/Institution
+2.33%
+3.78%
+Lighting
+2.39%
+1.44%
+Total Retail
+100.00%
+100.00%
+Source: Docket No. 44820, Georgia Power Company Cost-of-Service Study for Test Year Ending July 31, 2023, Schedule 2.10, lines 1 and 2.  
+As can be seen, crediting additional RTP revenues to the fuel account would provide a greater benefit to Medium Business, Large Business, Agricultural, and Government/Institution customers than to Domestic, Small Business, and Lighting customers.
+qDo you have an opinion regarding Georgia Power COmpany’s proposals?
+AYes.  Should the Commission find that GPC’s RTP fuel credit calculation methodology should be modified, either of GPC’s proposed changes would adequately address the issue identified by PIA Staff and intervenors.
+qDoes this conclude your testimony?
+AYes.
+
+APPENDIX A
+Qualifications of Jonathan Ly
+qplease state your name and business address. 
+AJonathan Ly.  My business mailing address is 14323 S. Outer 40 Rd., Town and Country, Missouri 63017.  
+qwhat is your occupation and by whom are you employed?  
+AI am an Associate of J. Pollock, Incorporated.  
+qplease state your educational background and experience.  
+AI received a Bachelor of Arts degree in Integrative Biology from the University of California, Berkeley in 2013 and a Master’s degree in Energy and Earth Resources from the University of Texas at Austin in 2017.  In addition, I have completed a course in utility accounting and finance.
+I joined J. Pollock, Incorporated in 2018 as an energy analyst assisting consultants in the preparation of financial and economic studies of investor-owned, cooperative, and municipal utilities on revenue requirements, cost of service and rate design, tariff review and analysis, integrated resource planning, and certificates of convenience and necessity.  I began working as an Associate in 2021, expanding upon my responsibilities and assignments in matters I had previously worked on as an energy analyst.  I have been involved in various projects in multiple states including Arkansas, Florida, Georgia, Michigan, Minnesota, New Mexico, New York, North Carolina, South Carolina, Texas, and Wisconsin.
+qPlease describe j. pollock, incorporated. 
+AJ. Pollock assists clients to procure and manage energy in both regulated and competitive markets.  The J. Pollock team also advises clients on energy and regulatory issues.  Our clients include commercial, industrial and institutional energy consumers.  J. Pollock is a registered broker and Class I aggregator in the State of Texas.
+
+APPENDIX B
+TO BE INSERTED IN FINAL PDF.

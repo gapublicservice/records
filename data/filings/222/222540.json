@@ -1,0 +1,42 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103674,
+      "bytes": 558493,
+      "name": "56002.RRS1.Exhibit.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222540/103674.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222540/103674"
+    },
+    {
+      "attachment_id": 103675,
+      "bytes": 137424,
+      "name": "56002.RRS - Direct Testimony-PD.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222540/103675.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222540/103675"
+    },
+    {
+      "attachment_id": 103676,
+      "bytes": 1386019,
+      "name": "56002.RRS2.Exhibit.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222540/103676.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222540/103676"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY AND EXHIBITS OF ROBERT R. STEPHENS",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222540,
+  "filed_date": "2025-05-06",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-06",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222540"
+}

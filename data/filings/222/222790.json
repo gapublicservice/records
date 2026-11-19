@@ -1,0 +1,33 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103989,
+      "bytes": 23690,
+      "name": "56002 & 56003.Errata to Smith-Forsythe Direct Testimony.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222790/103989.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222790/103989"
+    },
+    {
+      "attachment_id": 103990,
+      "bytes": 217035,
+      "name": "56002.covltr First Errata of Smith, Forsythe, & Stephens.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222790/103990.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222790/103990"
+    }
+  ],
+  "company": "Staff",
+  "description": "1st Errata to the Pre-filed Testimony of Ralph Smith, Jason Forsythe, and Bob Stephens",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222790,
+  "filed_date": "2025-05-23",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222790"
+}

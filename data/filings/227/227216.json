@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108473,
+      "bytes": 46529600,
+      "name": "dkt_56765_stf-jka-10_pd.zip",
+      "text": "zip (17 read, 19 not read, 5 trade-secret-marked files skipped)",
+      "text_file": "data/text/227/227216/108473.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227216/108473"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-JKA-10 PD Data Request Responses",
+  "dockets": [
+    56765
+  ],
+  "document_id": 227216,
+  "filed_date": "2026-07-14",
+  "harvested": "2026-11-19",
+  "received_date": "2026-07-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227216"
+}

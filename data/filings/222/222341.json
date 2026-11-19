@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103489,
+      "bytes": 1084782,
+      "name": "dkt_56002_56003_stf-dea-6_pd.zip",
+      "text": "zip (24 read, 11 trade-secret-marked files skipped)",
+      "text_file": "data/text/222/222341/103489.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222341/103489"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-DEA-6 PD Data Request Responses",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222341,
+  "filed_date": "2025-04-21",
+  "harvested": "2026-11-19",
+  "received_date": "2025-04-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222341"
+}

@@ -1,0 +1,39 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109686,
+      "bytes": 1144376,
+      "name": "voltagrid_responses_to_stf-pia-1_public_disclosure.zip",
+      "text": "zip (2 read, 2 not read)",
+      "text_file": "data/text/228/228421/109686.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228421/109686"
+    },
+    {
+      "attachment_id": 109687,
+      "bytes": 61590,
+      "name": "voltagrid.Sallie Tanner filing Ltr - d.57243 (STF-PIA-1).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228421/109687.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228421/109687"
+    },
+    {
+      "attachment_id": 109722,
+      "name": "PDF Files - Public Disclosure Production.zip",
+      "text": "not read: file too large",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228421/109722"
+    }
+  ],
+  "company": "VoltaGrid, LLC",
+  "description": "Responses to Staff's Data Request STF-PIA-1",
+  "dockets": [
+    57243
+  ],
+  "document_id": 228421,
+  "filed_date": "2026-09-15",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228421"
+}

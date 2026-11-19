@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108073,
+      "bytes": 2513851,
+      "name": "DN 44280 SDR Short Order.docx",
+      "text": "docx",
+      "text_file": "data/text/226/226769/108073.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226769/108073"
+    },
+    {
+      "attachment_id": 108076,
+      "bytes": 4183448,
+      "name": "226769.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226769/108076"
+    }
+  ],
+  "company": "GPSC",
+  "description": "SHORT ORDER ADOPTING STIPULATION FOR GEORGIA POWER COMPANY’S STORM DAMAGE RECOVERY APPLICATION (DN: 44280)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 226769,
+  "filed_date": "2026-06-02",
+  "harvested": "2026-11-19",
+  "received_date": "2026-06-02",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226769"
+}

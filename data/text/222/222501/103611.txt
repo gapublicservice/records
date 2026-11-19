@@ -1,0 +1,2740 @@
+STATE OF GEORGIA
+             BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In the Matter of:
+
+GEORGIA POWER COMPANY’S                          )   DOCKET NO. 56002
+2025 INTEGRATED RESOURCE PLAN                    )
+
+and
+
+GEORGIA POWER COMPANY’S                          )
+APPLICATION FOR THE CERTIFICATION,               )   DOCKET NO. 56003
+DECERTIFICATION, AND AMENDED                     )
+DEMAND-SIDE MANAGEMENT PLAN                      )
+
+
+                    DIRECT TESTIMONY OF MARIA ROUMPANI, PhD
+
+                                 ON BEHALF OF
+
+                        GEORGIA CONSERVATION VOTERS.
+
+
+                                   May 2, 2025
+
+Table of Contents
+
+
+I.         Introduction ............................................................................................................................. 1
+II.        Findings & Recommendations ................................................................................................ 3
+III.          Overview of Georgia Power’s Modeling ............................................................................ 9
+IV.           Georgia Power’s Projected Resource Needs..................................................................... 12
+V.         GCV Modeling...................................................................................................................... 28
+      A.      Input Changes ................................................................................................................... 29
+      B.      GCV Base Portfolio .......................................................................................................... 40
+      C.      Adjusted Load Portfolio .................................................................................................... 49
+      D.      Coal Retirement Sensitivity .............................................................................................. 52
+VI.           Recommendations and Conclusion ................................................................................... 55
+
+ 1   I.   Introduction
+ 2   Q.   Please state your name, business address and current position.
+
+ 3   A.   My name is Maria Roumpani. I am a Founding Partner of Current Energy Group LLC.
+
+ 4        My business address is 2900 E Broadway Blvd, Ste 100 #780, Tucson, AZ 85716.
+
+ 5   Q.   On whose behalf are you submitting testimony?
+
+ 6   A.   I am filing testimony on behalf of Georgia Conservation Voters (“GCV”).
+
+ 7   Q.   Have you previously submitted testimony before the Georgia Public Service
+
+ 8        Commission?
+
+ 9   A.   No.
+
+10   Q.   Have you ever testified before any other state regulatory body?
+
+11   A.   Yes. I have testified before state utility regulators in Colorado, Michigan, Kentucky,
+
+12        Nevada, North Carolina, Oregon, South Carolina, and Virginia.
+
+13   Q.   Please describe your educational and occupational background.
+
+14   A.   I specialize in the economic and technical analysis of grid planning and operations issues.
+
+15        I have conducted analysis and submitted expert testimony or comments on integrated
+
+16        resource planning, plant economics, unit commitment practices, power cost issues, and
+
+17        demand-side management plans before state utility regulators in Arizona, Colorado,
+
+18        Kentucky, Michigan, Minnesota, Nevada, North Carolina, Oregon, South Carolina, Utah,
+
+19        Virginia, and Washington.
+
+20        Prior to co-founding Current Energy Group in 2024, I was the Technical Director at
+
+21        Strategen. While at Strategen, I led economic and technical grid modeling engagements,
+
+22        including capacity expansion, production cost, and energy storage dispatch modeling. My
+
+                                                   1
+
+ 1        clients included government entities and state bodies, including the Oregon Public Utility
+
+ 2        Commission, the Kentucky Public Service Commission, the Maryland Office of People’s
+
+ 3        Counsel, the South Carolina Office of Regulatory Staff, non-governmental organizations,
+
+ 4        and trade associations, as well as large energy buyers.
+
+ 5        Before joining Strategen in 2018, I contributed to the development of analytical tools
+
+ 6        used in energy impact assessment studies. I have a Ph.D. from the Management Science
+
+ 7        and Engineering Department at Stanford University and a Master of Science in Electrical
+
+ 8        and Computer Engineering from the National Technical University of Athens,
+
+ 9        Greece. My full resume is attached to this testimony as Exhibit MR-1.
+
+10   Q.   Please describe the purpose of your testimony.
+
+11   A.   The purpose of my direct testimony is to review and evaluate various components of the
+
+12        resource planning analysis and the portfolios presented by Georgia Power Company
+
+13        (“Georgia Power” or the “Company” or “GPC”) in its application for approval of its 2025
+
+14        Integrated Resource Plan (“IRP”). I investigate the Company’s load forecasting
+
+15        methodology and resource modeling analysis and assumptions, focusing on whether these
+
+16        position Georgia Power to pursue portfolios that are clean, affordable, and reliable in the
+
+17        long term, while also providing the necessary flexibility (from a planning perspective)
+
+18        given the unprecedented—but uncertain—pace of load growth it is experiencing. I then
+
+19        present analysis for an alternative GCV portfolio of resources that is cleaner, lower cost,
+
+20        and lower risk than the Company’s.
+
+21   Q.   How is your testimony organized?
+
+22   A.   Section II presents a summary of my testimony and recommendations. I provide an
+
+23        overview of Georgia Power’s IRP analysis in Section III. In Section IV, I outline my
+
+                                                   2
+
+ 1         concerns about the Company’s analysis and how certain elements have contributed to an
+
+ 2         inflated resource need. In section V, I outline the modeling and results I conducted on
+
+ 3         behalf of GCV. Finally, in Section VI, I summarize my recommendations and conclude.
+
+
+ 4   II.   Findings & Recommendations
+ 5   Q.    Please summarize your findings.
+
+ 6         Georgia Power faces a complex resource planning challenge. The uncertainty
+
+ 7         surrounding its resource need, largely driven by the forecasted large load additions and its
+
+ 8         ever-increasing Target Reserve Margin (“TRM”) is significant and cannot be captured
+
+ 9         without a robust scenario planning analysis, which the 2025 IRP analysis fails to provide.
+
+10         Both over- and under-forecasting carry risks. For this IRP, after reviewing the
+
+11         Company’s load forecasting, resource modeling, and presented plans, I am concerned that
+
+12         Georgia Power is currently planning for an over-forecasted need without sufficiently
+
+13         evaluating the risks.
+
+14         Furthermore, Georgia Power’s analysis relies on resource assumptions and inputs for
+
+15         capital expenses, and technology availability that are out of date, erroneous, and
+
+16         uncertain. The Company’s analysis fails to incorporate recent cost increases into the
+
+17         resource costs of new gas-fired units and execution concerns given the current backlog in
+
+18         the combustion turbine market. Consequently, the Company is underestimating the cost
+
+19         and risks of its presented portfolios by several billion dollars.
+
+20         In correcting some of the resource availability and cost assumptions and reoptimizing
+
+21         using the Company’s model and database, I find a better performing portfolio – the GCV
+
+22         Base portfolio – which compared to the Company’s proposed 111-MG0 portfolio that
+
+23         meets the Environmental Protection Agency (“EPA”) rules under sections 111(b) and
+
+                                                      3
+
+ 1   111(d) of the Clean Air Act (“EPA-111”) requirements, increases the Company’s
+
+ 2   deployment of clean resources, and reduces its reliance on gas.
+
+ 3   The higher investment in renewable energy resources in the GCV Base portfolio reduces
+
+ 4   ratepayers’ exposure to volatile high gas prices and the risk of stranded assets.
+
+ 5   Specifically, in the event of high gas prices, the difference between the GCV portfolio
+
+ 6   and the 111-MG0 increases to $9.5 billion. On the other hand, if load growth does not
+
+ 7   materialize at the magnitude and pace expected, the GCV Base portfolio results in net
+
+ 8   savings when compared to the Company’s portfolios. The higher deployment of clean
+
+ 9   energy reduces emissions for the GCV portfolios (up to hundreds of millions of tons of
+
+10   carbon) which are not sensitive to the application of the MG0-111 rules (as is the case for
+
+11   the Company’s portfolios). In short, renewable energy and energy storage resources are
+
+12   not only economic under the Company’s planning assumptions, but deliver value under a
+
+13   broad range of futures, while the value of gas-fired resources (at the Company proposed
+
+14   scale) can quickly diminish if future conditions deviate from the Company’s planning
+
+15   assumptions, leaving ratepayers locked to an expensive system and exposed to gas price
+
+16   volatility, policy uncertainty, and changing market conditions.
+
+17   Importantly, I find that the Company’s forecasted large-load growth inflates the projected
+
+18   resource need. I adjust the Company’s load forecast and develop another portfolio, the
+
+19   GCV Preferred portfolio which includes (for the Southern Company system):
+
+
+20   •   1.5 GW less coal by 2033,
+21   •   6.3 GW less gas-fired resources by 2033 (8.7 GW by 2044),
+22   •   1.2 GW more solar and wind resources by 2033 (7.8 GW by 2044),
+23   •   4 GW more energy storage by 2033 (3.3 GW by 2044), and
+
+
+                                               4
+
+ 1           •   0.6 GW less nuclear by 2044.
+
+ 2           When compared to the 111-MG0 portfolio, the GCV Preferred Portfolio reduces system
+
+ 3           costs by nearly $10 billion (NPV for the Southern Company system) by 2044.
+
+ 4   Q.      Please summarize your recommendations.
+
+ 5   A.      Georgia Power should increase its planning flexibility and ability to adjust to changing
+
+ 6           conditions by focusing on (a) supply side resources that can provide benefits under a broad
+
+ 7           range of future conditions (renewable energy and energy storage), and (b) demand side
+
+ 8           resources that will increase load flexibility. To ensure this is achieved, my
+
+ 9           recommendations are:
+
+10        1. The Commission should not approve the 2025 IRP in its current form and require Georgia
+
+11           Power to revise its analysis to:
+
+12               a. Present additional resource portfolios developed based on load growth sensitivities.
+
+13                  These should at least include:
+
+14                       i. Adjusted large-load growth scenarios:
+
+15                              1. Only large load projects that have signed a “Contract for Electric
+
+16                                  Service” in the near-term, including a probabilistic analysis or
+
+17                                  possible delays and reductions in announced load.
+
+18                              2. Large load projects that have signed a “Contract for Electric Service”
+
+19                                  as above plus an increasing percentage of large loads that are in the
+
+20                                  “Request for Electric Service” stage subject to a similar probabilistic
+
+21                                  analysis in the longer term.
+
+22                      ii. A low economy growth sensitivity combined with the adjusted large-load
+
+23                          growth scenarios.
+
+                                                       5
+
+ 1   b. Update the resource costs and availability of gas-fired units based on recent market
+
+ 2      reports and other utilities’ filings in the region.
+
+ 3   c. Justify the assumed annual build limits and first year of availability for all resource
+
+ 4      types and explore under what conditions and costs these could be relaxed,
+
+ 5      especially for renewable energy and energy storage. The analysis should at least
+
+ 6      investigate whether the following are feasible and under what conditions:
+
+ 7           i. An earlier first year of availability and higher cumulative limit for wind
+
+ 8              resources.
+
+ 9          ii. An earlier year of availability for medium and long duration energy storage.
+
+10         iii. A higher annual build limit for solar resources.
+
+11      As part of the analysis, the Company should:
+
+12          •   Investigate wind resource availability and barriers to successful
+
+13              procurement of new wind resources (such as transmission investments and
+
+14              procurement design).
+
+
+15          •   Provide an analysis of the potential of co-locating clean resources to share
+
+16              the same point of interconnection with operating thermal units with low
+
+17              capacity factors, as well as using existing interconnection from retired or
+
+18              soon-to-be retired units to interconnect clean resources.
+
+
+19          •   Analyze the potential of installing energy storage (including medium and
+
+20              long duration options) at existing/retired plants to take full advantage of
+
+21              investment tax credits (and include such credits in the resource analysis).
+
+22   d. Include the modeling of seasonal TRM values.
+
+
+                                            6
+
+ 1          e. Determine and model seasonal Effective Load Carrying Capabilities (“ELCC”)
+
+ 2             values for all resources (including thermal units).
+
+ 3          f. Retire Bowen 1&2 prior to 2032. Continue investigating the retirement of all coal
+
+ 4             units prior to 2032 and postpone actions to co-fire at this time.
+
+ 5   2. The Commission should also require Georgia Power to take certain actions going forward
+
+ 6      as it prepares for future IRPs and Request for Proposals (“RFPs”). In addition to the
+
+ 7      recommendations in (1):
+
+ 8          a. Increase the accuracy and transparency of its forecasting process to ensure more
+
+ 9             accurate forecasts are used in the Company’s planning analysis in the IRP, as well
+
+10             as in procurements in upcoming RFPs:
+
+11                 i. Continuously update the probabilities assumed in the Load Realization
+
+12                     Model based on the changes reported in its quarterly large load economic
+
+13                     development filings.
+
+14                 ii. Ensure no double counting between the econometric base forecast and the
+
+15                     large load adjustment.
+
+16          b. Collect and track additional information for the Company’s large load pipeline,
+
+17             including the time between one stage to the next, reasons for delays or changes in
+
+18             status, information on the portion of the large loads with clean energy
+
+19             commitments. Include such information in the Company’s quarterly Large Load
+
+20             Economic Development reports.
+
+21          c. Develop a more robust scenario analysis framework that will evaluate the
+
+22             performance of each portfolio the company presents under a broad range of possible
+
+
+                                                 7
+
+ 1               futures, including a broad range of load forecasts.
+
+ 2   A.   Continue to evaluate coal retirement options for all remaining units prior to 2035.
+
+ 3           d. Continue to evaluate opportunities to enhance and expand all customer programs
+
+ 4               that could further reduce net load and resource needs. Given the projected
+
+ 5               capacity need, particular focus should be given to improving and increasing
+
+ 6               customer participation in:
+
+ 7                    i. Large load customer programs and tariffs like the Large Customer Owned
+
+ 8                       Resiliency Program, the Demand Plus Energy Credit (“DPEC”)
+
+ 9                       interruptible tariff, the Curtailable Load tariff, the consideration of a clean
+
+10                       transition tariff,
+
+11                   ii. Other demand response programs, such as the Residential Thermostat
+
+12                       Demand Response program.
+
+
+                                                    8
+
+ 1   III. Overview of Georgia Power’s Modeling
+ 2   Q.      Please provide an overview of Georgia Power’s 2025 IRP.
+
+ 3   A.      Georgia Power is forecasting unprecedented load growth over the next few years: From
+
+ 4           2025 to 2031, winter peaks are projected to grow by approximately 8,200 MW, whereas
+
+ 5           summer peaks are expected to grow by approximately 8,700 MW during the same
+
+ 6           period.1 The 2025 IRP presents the Company’s analysis for how to best meet the
+
+ 7           projected load with the deployment of new resources. Specifically, the Company is
+
+ 8           proposing to utilize a combination of previously approved Requests for Proposals
+
+ 9           (“RFPs”) and incremental requests of up to 1,500 MW in the near-term. The Company is
+
+10           also proposing new procurements to address capacity and energy needs into the 2030s.
+
+11           The proposed resource buildout in the 2025 IRP outlines a path of continued heavy
+
+12           reliance on fossil fuels for at least twenty more years, deferring the retirement of coal
+
+13           resources, while adding new gas-fired generation every year beyond 2029, totaling more
+
+14           than 17 Gigawatts (“GW”) by 2044.2
+
+15   Q.      Please provide an overview of Georgia Power’s modeling analysis conducted in
+
+16           preparation of the 2025 IRP.
+
+17   A.      To support the IRP requests, the Company utilizes a scenario planning process based on
+
+18           the AURORA capacity expansion model. This process consists of four steps.3 The
+
+19           Company begins by establishing reliability criteria, forecasting load, assessing existing
+
+20           and planned units, and synthesizing those to determine future system needs. The second
+
+
+     1
+       Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+     Francisco Valle, at 16
+     2
+       2025 IRP Technical Appendix Volume 2, Chapter 2, “Capacity Expansion Plans – 2025 IRP.xlsx,” Worksheet
+     MG0 GPC.
+     3
+       2025 IRP, Figure 3.1
+
+                                                          9
+
+ 1              step involves the development of inputs and scenarios which are then used in the third
+
+ 2              step: the development of generic portfolios. The fourth (final) step includes Georgia
+
+ 3              Power’s interpretation and synthesis of the portfolios, leading to specific resource
+
+ 4              decisions for the IRP.
+
+ 5   Q.         What scenarios did Georgia Power consider in its analysis?
+
+ 6   A.         The four key uncertainties that informed scenario development include environmental
+
+ 7              regulations, future technology costs and performance, load growth, and fuel prices.4
+
+ 8              Based on different combinations of these four uncertainties, the Company created nine
+
+ 9              scenarios. Three of these scenarios consider implementation of Environmental Protection
+
+10              Agency’s (“EPA”) 111 Greenhouse Gas (“GHG”) rules, while the other six consider
+
+11              other variations in future conditions in the absence of the 111 GHG rule implementation,
+
+12              as depicted in Figure 3.3 of the IRP, replicated as Figure 1 in this testimony.
+
+13                                            Figure 1: 2025 IRP Scenarios
+
+
+14
+
+15   Q.         Do you have concerns about Georgia Power’s analytical approach and the
+
+16              assumptions that informed it?
+
+
+     4
+         2025 IRP at 18.
+
+                                                          10
+
+ 1   A.   Yes. My concerns span the entire process, from the identification of needs (including the
+
+ 2        Company’s load forecast, and the stated reliability needs), to the technology costs and
+
+ 3        resource availability assumptions, the scenario and portfolio development, and finally the
+
+ 4        interpretation and synthesis of those results that informed the Company’s action plan.
+
+ 5        Specifically, my concerns are:
+
+ 6        •   Georgia Power identifies future resource needs based on two critical analyses: the
+
+ 7            development of the load forecast, and the determination of the TRM. Each of these
+
+ 8            contributes to an inflated capacity need, which results in a massive (proposed)
+
+ 9            resource buildout, exposing Georgia Power consumers to the risk of paying for
+
+10            stranded assets in the future.
+
+11        •   Even if we were to accept that on average, the load forecast is accurate, Georgia
+
+12            Power does not sufficiently explore the uncertainty around it. Georgia Power’s
+
+13            development of generic expansion plans is based on a number of scenarios based on
+
+14            four uncertainties. However, the key driver of the projected capacity need, the
+
+15            projected growth of large loads, is not sufficiently explored as a sensitivity.
+
+16            Consequently, Georgia Power does not develop strategies that could mitigate impacts
+
+17            if the actual growth of large loads deviates significantly from the forecasted levels.
+
+18        •   Lastly, even if the projected supply side need was accurate, Georgia Power’s analysis
+
+19            includes resource assumptions, including cost and resource availability inputs, that
+
+20            are not consistent with recent trends in the region and across the US. The heavy
+
+21            reliance on new gas-fired resources exposes Georgia Power and its ratepayers to
+
+22            significant execution challenges with likely delays and increased costs for the
+
+
+                                                    11
+
+ 1               construction of the units, as well as fuel price volatility, policy uncertainty, and even
+
+ 2               reliability issues during their operations.
+
+ 3           I explore each of those concerns in greater detail in my testimony.
+
+ 4   IV. Georgia Power’s Projected Resource Needs
+
+ 5   Q.      One of your concerns is that Georgia Power’s identified resource needs are inflated.
+
+ 6           Please elaborate.
+
+ 7   A.      Georgia Power identifies future resource needs based on two critical analyses: the
+
+ 8           development of the load forecast, and the determination of the reserve margin. As I
+
+ 9           mentioned before, each of these can contribute to an increasing capacity need. In this
+
+10           section, I review the Company’s methodology for forecasting large loads.
+
+11   Q.      What is the Company’s load forecast over the next decade?
+
+12   A.      According to the Company’s testimony:
+
+13                   []… Georgia Power’s risk-adjusted load forecast from the winter of 2024/2025
+14                   through the winter of 2030/2031 now reflects 8,205 MW of load growth,
+15                   representing an increase of more than 2,200 MW compared to the load growth
+16                   projections in the 2023 IRP Update for the same period. In the near term, the
+17                   Company projects nearly 6,000 MW of load growth as early as the winter of
+18                   2028/2029. Over the next ten years—through the winter of 2034/2035—Georgia
+19                   Power expects up to 9,400 MW of load growth.5
+20           Based on the Company’s current winter peak load of 16,284 MW, this represents an
+
+21           increase of 50% by 2030/2031 and 58% by 2034/2035.6 The Company attributes the most
+
+
+     5
+       Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+     Francisco Valle, at 13.
+     6
+       2025 IRP, Attachment 2.0-1: Budget 2025 Forecast Annual Summary.
+
+                                                          12
+
+ 1           significant contribution to this load increase from the addition of new “large load”
+
+ 2           customers.7
+
+ 3   Q.      Are you concerned that the Company’s load forecast results in inflated resource
+
+ 4           needs?
+
+ 5   A.      Yes. The Company’s load forecast keeps growing based on several assumptions as
+
+ 6           identified by Georgia Power including: continued growth of Georgia’s economy,
+
+ 7           continued growth of the state’s population, new demand from commercial and industrial
+
+ 8           customers such as data centers and manufacturing plants, and finally the electrification of
+
+ 9           transportation. 8 Although I agree that these factors are likely to contribute to increased
+
+10           electricity demand over the next decade, I am concerned that this might not happen at the
+
+11           scale and pace currently projected by the Company. Even if electricity demand is
+
+12           growing, an exaggerated forecast of that demand can lead to an overbuild of generation
+
+13           assets that will put upward pressure on customer rates at a time when Georgia Power
+
+14           customers are already facing very high costs due to recent generation investments such as
+
+15           Vogtle Units 3 and 4. My review focuses on the Company’s forecast of large load
+
+16           customers.
+
+
+17   Q.      How did the Company adjust its forecast for large load customers?
+
+18   A.      As in the 2023 IRP Update, the 2025 IRP load forecast includes an external adjustment to
+
+19           its baseline forecast to account for the increased large load additions. According to the
+
+20           Company’s Budget 2025 Load and Energy Forecast, “an external adjustment is needed
+
+
+     7
+      2025 IRP at 35.
+     8
+      Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+     Francisco Valle, at 12.
+
+                                                          13
+
+ 1           for these loads since Georgia’s unprecedented economic development growth would not
+
+ 2           otherwise be captured in the historical trends underlying the baseline forecast.”9 The
+
+ 3           Company developed a probabilistic model, the Load Realization Model, to address this
+
+ 4           large load growth.
+
+ 5   Q.      Do you agree that without the external adjustment, Georgia Power’s economic
+
+ 6           development growth would not be captured?
+
+ 7   A.      To a certain degree. It is reasonable that large load growth is treated as an external
+
+ 8           adjustment due to the lack of historical data. However, the Company still performs a base
+
+ 9           forecast using historical estimates to project commercial and industrial load through
+
+10           econometric models.10 These econometric models can include some representation of
+
+11           new large load additions. Thus, to the extent that the historical data used to inform the
+
+12           econometric commercial and industrial load projection included large loads, the
+
+13           Company might be double-counting part of that growth.
+
+14   Q.      Has the Company made any adjustments to account for this potential double
+
+15           counting?
+
+16   A.      Not to my knowledge. This contrasts with the approach used by other utilities in recent
+
+17           years. For example, Duke Energy’s 2024 Carolina’s Resource Plan included a reduction
+
+18           in their load forecast specifically to address this potential double counting issue. 11
+
+19           Georgia Power did not appear to make any such adjustment.
+
+
+     9
+       Technical Appendix Volume 1, Budget 2025 Load and Energy Forecast.
+     10
+        Technical Appendix Volume 1, Budget 2025 Load and Energy Forecast, Sections 4 and 5.
+     11
+        “Several of the largest potential projects were used to adjust the forecast this cycle, although the size of the
+     adjustment (in both megawatt-hours (“MWh”) and megawatts (“MW”) was scaled down from full weight to reflect
+     both the uncertain, future-oriented nature of the plans and the risk of double counting with growth precited by the
+
+
+                                                             14
+
+ 1   Q.      Did you review the Company’s Load Realization Model?
+
+ 2   A.      Yes. I reviewed the Load Realization Model as described in the Company’s “B2025 Load
+
+ 3           and Energy Forecast” in Technical Appendix Volume 1. It is a probabilistic model
+
+ 4           intended to evaluate the range and likelihood of future potential outcomes of the load
+
+ 5           growth from new large customers. In the model, the uncertainty surrounding each large
+
+ 6           load addition is quantified through a set of probabilities:
+
+
+ 7               •   P1: likelihood that a potential customer will choose to locate in Georgia.
+ 8               •   P2: probability of Georgia Power being chosen as the provider.
+ 9               •   P3: probability of projects reaching commercial operation.
+10               •   Probability that the load being served is lower than the customer’s initial
+11                   announcement represented as a range.
+12               •   Probability that the commercial operation date of a project is delayed.
+13           The probabilistic model draws, at random, a number for each of the factors above for
+
+14           each project in the model to determine the project success (based on P1, P2, and P3), the
+
+15           fraction of served over announced load, and the delay in commercial operation date. A
+
+16           Monte Carlo simulation is then used to quantify a range of expected load to serve. The
+
+17           2025 load forecast is the median load level within the range of potential outcomes.
+
+18   Q.      Has the Company provided information about the assumed probabilities used to
+
+19           model the success of a large load project (P1, P2, P3)?
+
+
+     economic factors.” Docket No. E-100, Sub 190, North Carolina Utilities Commission, Carolinas Resource Plan,
+     Appendix D: Electric Load Forecast, Available at: https://starw1.ncuc.gov/NCUC/ViewFile.aspx?Id=efa0fef3-0b34-
+     4ee7-bd32-146d7e9e5575
+
+                                                          15
+
+ 1   A.         Yes. The Company provided the probabilities assigned to the three events determining
+
+ 2              the success or failure of an individual project.12 Based on the information provided I
+
+ 3              calculated each event’s expected value for the large loads in the Company’s pipeline:
+
+ 4         Table 1: Georgia Power's expected value of events for load project success/failure (weighted based on announced load)
+
+
+ 5
+
+ 6              Consequently, the Company assumes that:
+
+
+ 7              •        87 per cent of the large load (MW) in the Company’s pipeline will choose
+ 8                       Georgia as the location.
+
+ 9              •        61 per cent of the large load (MW) in the Company’s pipeline will choose
+10                       Georgia Power as the electric service provider for the project.
+
+11              •        95 per cent of the large load (MW) in the Company’s pipeline will reach
+12                       commercial operation.
+
+13   Q.         Do you believe that these values accurately reflect the probability of success for a
+
+14              large load project?
+
+15   A.         There is no sufficient historical data to properly assess these values. The Company
+
+16              acknowledges that “prior to 2023 IRP Update, the Company had never seen such a
+
+17              significant number of new large customer projects materialize in such a short period of
+
+18              time.”13 Still, the Company claims that P1, P2, and P3 are estimated based on the
+
+19              Company’s experience: P1 based on “a historical selection rate that is calculated based
+
+20              on the number of projects that chose Georgia versus the number of projects that did not,”
+
+21              P2 based on “factors such as competition from other electric service providers, an
+
+22              existing relationship with a customer, and the progress of discussions with a customer,”
+
+
+     12
+          Georgia Power Response to STF-DEA-3-8 Attachment.
+     13
+          B2025 Load and Energy Forecast” in Technical Appendix Volume 1, at 102.
+
+                                                                   16
+
+ 1           and P3 based on “the number of projects that reached commercial operation versus the
+
+ 2           total number of projects Georgia Power was selected to serve.” Furthermore, in its
+
+ 3           response to STF-DEA-3-10, the Company states that it does not track the reasons why a
+
+ 4           project is cancelled, making it impossible to accurately estimate the probabilities of the
+
+ 5           different events leading to a project’s success or cancellation.
+
+ 6   Q.      Do you have reasons to believe that these probabilities result in an overstated load
+
+ 7           forecast?
+
+ 8   A.      Yes. There are a number of reasons to believe that the growth of large loads might
+
+ 9           currently be over-forecasted. Large load customers can be in conversations with several
+
+10           utilities searching for the right option. Every utility will experience project cancellations
+
+11           or withdrawals for different reasons. Large load customers are looking for fast
+
+12           interconnection at low cost, while some of them have clean energy commitments and are
+
+13           interested in increasingly clean portfolios. Georgia Power, which seeks to increase its
+
+14           reliance on fossil fuels and construct an increasing number of gas-fired units during a
+
+15           period that gas turbines are subject to unprecedented delays and cost increases, may lose
+
+16           out to utilities offering cheaper, cleaner energy supply. Furthermore, large load
+
+17           customers, especially data centers, may alter their future energy needs due to a couple of
+
+18           factors. First, big tech companies are still determining how and whether they can turn
+
+19           their AI investment into future profits.14 If they do not establish a successful business
+
+20           model for this technology, the demand for computing power will decrease. On the other
+
+21           hand, if demand remains high, it is reasonable to expect that AI companies will further
+
+
+     14
+      Clare Duffy, CNN, Has the AI bubble burst? Wall Street wonders if artificial intelligence will ever make money,
+     August 2, 2024, Available at https://edition.cnn.com/2024/08/02/tech/wall-street-asks-big-tech-will-ai-ever-make-
+     money/index.html.
+
+                                                             17
+
+ 1           explore opportunities to make datacenters more efficient to reduce their energy bills, thus
+
+ 2           reducing their energy demand.15,16 Secondly, The construction of the facilities will likely
+
+ 3           be impacted with increasing costs and delays due to widespread tariff increases,17 while
+
+ 4           the probability of a recession continues to grow, which could stifle new investments.18
+
+ 5           These increased costs and declining economic situation, combined with the rising costs of
+
+ 6           electricity might result in growth that is slower than projected a few months ago.
+
+ 7           Although each of these factors is characterized by uncertainty, they should still be
+
+ 8           factored in the Company’s analysis and inform its resource analysis so that potential
+
+ 9           impacts to ratepayers are mitigated.
+
+10   Q.      Have you reviewed the Company’s current large load economic development
+
+11           pipeline?
+
+12   A.      Yes. Following the 2023 IRP Update, Georgia Power began filing quarterly large load
+
+13           economic development reports, tracking the total number of both committed large load
+
+14           customers and potential large load customers seeking to locate in Georgia. The most
+
+15           recent report, reflecting the update of the last quarter (Q4) of 2024 is summarized in
+
+16           Figure 2.19 It includes 8.1 GW of customers that are either in the “Contract for Electric
+
+17           Service” or “Request for Electric Service” stage, both of which the Company
+
+
+     15
+        Kylie Foy, MIT Lincoln Laboratory, New tools are available to help reduce the energy that AI models devour
+     October 5, 2023, Available at: https://news.mit.edu/2023/new-tools-available-reduce-energy-that-ai-models-devour-
+     1005
+     16
+        For example, big tech companies invest in improving the energy efficiency of their data centers. See:
+     https://datacenters.google/efficiency/
+     https://sustainability.atmeta.com/data-centers/
+     https://datacenters.microsoft.com/sustainability/efficiency/
+     17
+        Sharon Goldman, Fortune, Here’s why tariff shock could hit AI’s data center boom, April 7, 2025,
+     https://fortune.com/2025/04/07/ai-risk-exposure-trump-tariffs-chips-datacenter-boom/
+     18
+        J.P.Morgan Research, April 15, 2025, The probability of a recession remains at 60%,
+     https://www.jpmorgan.com/insights/global-research/economy/recession-probability
+     19
+        Georgia Public Service Commission, Docket No. 55378, Large Load Economic Development Report Q4 2024
+
+                                                            18
+
+ 1           characterizes as “committed” load.20 However, it is worth noting that the Company’s
+
+ 2           pipeline, which is used to inform the forecast, is primarily composed of non-committed
+
+ 3           resources, that are only in technical review, even for near-term load projected
+
+ 4           developments, including those expected in 2026 and 2027.
+
+ 5                               Figure 2: Large Load Economic Development Report Q4 2024
+
+
+ 6
+ 7           Furthermore, when I compare each of the 2024 quarterly reports,21 I see significant
+
+ 8           increases to the non-committed load in the “Technical Review” stages in each quarter,
+
+ 9           but much smaller changes to the “committed” load (i.e., the Request/Contract for Electric
+
+10           Service stage). In fact, the pace of increases in load that moves from the “Technical
+
+11           Review” stage to the “Request/Contract” stages is slowing down as shown in Figure 3. In
+
+12           addition to that, between the Q1 and Q4 updates, there are delays/reductions (although
+
+
+     20
+        Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+     Francisco Valle, Footnote 3.
+     21
+        Georgia Public Service Commission, Docket No. 55378:
+     Large Load Economic Development Report Q1 2024
+     Large Load Economic Development Report Q2 2024
+     Large Load Economic Development Report Q3 2024
+     Large Load Economic Development Report Q4 2024
+
+                                                           19
+
+ 1           small) in committed load in the near term. Specifically, the committed load for 2026 as
+
+ 2           reported in Q4 2024 has been reduced by 371 MW from its value in the Q1 2024 report.
+
+ 3                   Figure 3: Large Load in Request or Contract for Service stages by 2024 Quarterly Report
+
+
+ 4
+
+ 5   Q.      What portion of the “committed” load that is either in the “Request for Electric
+
+ 6           Service” or “Contract for Electric Service” stage has started construction?
+
+ 7   A.      Approximately half of the load that the Company characterizes as committed has started
+
+ 8           construction, as depicted in the figure below. Projects that have yet to begin construction
+
+ 9           are inherently more likely to be canceled or be delayed. Even projects that have started
+
+10           construction may experience a phased ramp up schedule that differs from initial
+
+11           announcements.22
+
+
+     22
+       Georgia Power accounts for possible delays in the Load Realization Model, assuming a triangular probability
+     distribution with an expected delay of months. See, Budget 2025 Load and Energy Forecast, Technical Appendix
+     Volume 1, at 106.
+
+                                                              20
+
+ 1                                     Figure 4: Construction status for Committed Load
+
+
+ 2
+
+ 3   Q.      Could a project that has started construction be cancelled or delayed?
+
+ 4   A.      Yes. A Microsoft data center in Wisconsin, originally planned for multiple sites and
+
+ 5           phases, has recently paused construction on expansion sites, and is continuing work only
+
+ 6           on the first phase.23 Furthermore, Microsoft seems to be "slowing or pausing" additional
+
+ 7           data center construction, including a $1 billion project in Ohio.24
+
+ 8   Q.      Have “committed” projects made financial commitments?
+
+ 9   A.      It is unclear. Georgia Power has provided a template of the “Request for Approval”
+
+10           agreement, but this document does not explicitly reference any financial commitment in
+
+11           the case of cancellation or delay of a project.25 The template also does not specify the
+
+12           requested load level or its ramp up schedule. Projects that have signed a “Contract for
+
+13           Electric Service” have committed to the terms of electric service, which can include a
+
+
+     23
+        Nick Rommel, Wisconsin Public Radio, Microsoft pauses construction on parts of Mount Pleasant site again,
+     March 20, 2025. Available at https://www.wpr.org/news/microsoft-pauses-construction-on-parts-of-mount-pleasant-
+     site-again
+     24
+        CBS news, “Microsoft says it's 'slowing or pausing' some AI data center projects, including $1B plan for Ohio,”
+     April 12, 2025, https://www.cbsnews.com/pittsburgh/news/microsoft-slowing-or-pausing-ai-data-center-projects-
+     ohio/
+     25
+        Georgia Power response to STF-DEA-5-24 Attachment.
+
+                                                             21
+
+ 1              minimum billing demand on the tariff once service starts and up-front fees for
+
+ 2              connection.26
+
+ 3   Q.         Have other utilities developed methodologies for forecasting large-load growth?
+
+ 4   A.         Yes. Among electric utilities, the Virginia Electric and Power Company (“Dominion
+
+ 5              Energy Virginia”) possesses significant experience with large loads, especially data
+
+ 6              centers. In contrast with Georgia Power, the Figure below from Dominion’s 2024 IRP
+
+ 7              shows that the load included in the IRP analysis up to 2031 reflects only a portion of the
+
+ 8              projects that have already signed an Electric Service Agreement. Dominion notes that:27
+
+ 9                       Figure 2.1.7 illustrates customer contracts executed as of July 2024. These
+10                       contracts are broken into (i) Substation Engineering Letters of Authorization
+11                       (“SELOA”), (ii) Construction Letters of Authorization (“CLOA”), and (iii)
+12                       Electric Service Agreements (“ESA”). As a customer moves from (i) to (iii), the
+13                       cost commitment and obligation by the customer increases.
+14              The chart below was excerpted from Dominion’s IRP and illustrates how the forecasted
+
+15              load (red line) tracks well below the sum of projects with a signed Electric Service
+
+16              Agreement prior to 2032. The forecast does not include CLOAs up to 2032; it also does
+
+17              not include any of the load under SELOAs at any point, as they are not construction
+
+18              contracts.
+
+
+     26
+          Contracts for Electric Service agreements provided by the Company show that
+                                                                                . See Georgia Power Trade
+     Secret response to STF-PIA-1-10 Attachments M though X.2.
+     27
+        Case No. PUR-2024-00184, Virginia State Corporation Commission, ERRATA FILING November 27, 2024
+     (2024 Integrated Resource Plan Corrected Page 14 of 81). Available at:
+     https://www.scc.virginia.gov/docketsearch/DOCS/82rt01!.PDF
+
+                                                              22
+
+1              Figure 5: Dominion Energy Virginia’s Data Center IRP Forecast and Contracted Capacity
+
+
+2
+
+3   Q.   What would Georgia Power’s large load forecast be if it followed a similar
+
+4        approach?
+
+5   A.   Georgia Power’s large load would look significantly different. I re-calculated the large-
+
+6        load growth applying the percentage of contracted load that Dominion includes in its
+
+7        forecast, to Georgia Power’s contracted load. I find that in 2031, when Georgia Power is
+
+8        projecting an incremental need of 8.2 GW, the large load growth would be only 4.2 GW.
+
+
+                                                       23
+
+ 1            Figure 6: Adjusted Large Load Forecast Comparison to Company's Base Forecast28 (Georgia Power, MW)
+
+
+ 2
+
+ 3   Q.      You also mentioned that the Company did not sufficiently explore large-load
+
+ 4           sensitivities. Please elaborate.
+
+ 5   A.      The Company developed seven sensitivities for Budget 2025 relative to the “Base Case”
+
+ 6           forecast. 29 However, it is unclear to me whether and how those load forecast sensitivities
+
+ 7           were used in the resource portfolio development. The sensitivities include: (1) high
+
+ 8           economic growth; (2) low economic growth; (3) no load growth; (4) high growth in large
+
+ 9           load customers; (5) load growth with no Demand Side Management (“DSM”) growth; (6)
+
+10           load growth with aggressive DSM growth; and (7) load growth using a 20-year normal
+
+11           definition of weather, as stipulated in the 2019 IRP. Based on my review, resource
+
+12           portfolios were developed with the “Base Case” load forecast as an input, as well as an
+
+13           additional load forecast reflecting small impacts due to high gas price assumption. None
+
+14           of these sensitivities – including the “low economic growth” sensitivity -- reflects a
+
+
+     28
+        B2025 Load and Energy Forecast” in Technical Appendix Volume 1, Table 7.2.1 Budget 2025 External Peak
+     Adjustments for Large Loads.
+     29
+        B2025 Load and Energy Forecast” in Technical Appendix Volume 1, at 15.
+
+                                                             24
+
+ 1        scenario with a lower large-load forecast. This reflects a critical oversight on the part of
+
+ 2        Georgia Power. Even if we were to accept the Company’s large-load forecast as a good
+
+ 3        estimate of the expected load – which it is not, Georgia Power should still have explored
+
+ 4        different probable outcomes. A lower large-load sensitivity is necessary to allow the
+
+ 5        Commission and intervenors to understand the impact of large load growth on resource
+
+ 6        buildout, costs, and emissions. A more robust set of scenarios would be needed not only
+
+ 7        for the purpose of identifying the incremental cost of the large load growth, but more
+
+ 8        importantly for quantifying the risk of over- and under-forecasting.
+
+ 9   Q.   How should the Company’s use of different load forecasts inform its resource
+
+10        analysis and the Company’s near-term actions?
+
+11   A.   All forecasts are characterized by some degree of uncertainty. However, the current
+
+12        period is undeniably one of increased uncertainty for load forecasts, not only with respect
+
+13        to the inclusion of large loads, but also the growth driven by electrification, and overall
+
+14        economic activity. Given that a perfectly accurate forecast is not feasible, the objective of
+
+15        this analysis should be to understand the impacts from potentially over- or under-
+
+16        forecasting and to mitigate ratepayers’ exposure to such impacts. Resource planning
+
+17        should be based on a robust scenario analysis aiming to design a portfolio that is not
+
+18        simply optimal under a specific forecast, but that is flexible and resilient, ensuring that
+
+19        resource additions deliver value under a broad range of possible futures. This creates a
+
+20        system that is less sensitive to changes in the forecast and avoids the risk of stranded
+
+21        assets if future conditions do not match current expectations. The Company’s scenario
+
+22        analysis fails to assess the flexibility and sensitivity of the resource portfolios to the
+
+23        uncertainty in load forecast. Instead, the Company optimizes its portfolios primarily on
+
+                                                     25
+
+ 1           just one load forecast, which data shows is likely to over-forecast large loads. An analysis
+
+ 2           of the Company’s resource portfolios through a broad range of future scenarios
+
+ 3           (including that of lower load growth) is needed to assess the overall risk associated with
+
+ 4           certain resource actions (instead of simply the portfolios’ cost under a specific future).
+
+ 5           For example, wind energy is shown to be beneficial under all examined futures (both in
+
+ 6           the Company’s and the GCV modeling), while gas-fired resources could be left stranded
+
+ 7           or with significantly lower value in the case of low load, high gas prices, or certain
+
+ 8           carbon policy futures.
+
+ 9   Q.      What is your conclusion with respect to the Company’s large-load forecasting
+
+10           methodology?
+
+11   A.      The Company’s probabilistic model sets a reasonable framework for the projection of
+
+12           large loads. However, the probabilities assumed need to be continuously assessed and
+
+13           adjusted based on the Company’s growing experience, while they should also be
+
+14           informed by broader economic activity data. The Company’s assumed probabilities for
+
+15           large load projects to reach completion, on time, and at the initial load level seem over-
+
+16           optimistic and lack support.
+
+17   Q.       What is your recommendation with respect to the Company’s load forecast in this
+
+18           IRP?
+
+19   A.      I recommend that the Commission require the following:
+
+20        1. For this IRP:
+
+21           i) Present additional resource portfolios developed based on load growth sensitivities.
+
+22               These should at least include:
+
+
+                                                      26
+
+ 1         (1) Adjusted large-load growth scenarios:
+
+ 2             (a) Only large load projects that have signed a “Contract for Electric Service” in
+
+ 3                the near-term, including a probabilistic analysis or possible delays and
+
+ 4                reductions in announced load.
+
+ 5             (b) Large load projects that have signed a “Contract for Electric Service” as above
+
+ 6                plus an increasing percentage of large loads that are in the “Request for Electric
+
+ 7                Service” stage subject to a similar probabilistic analysis in the longer term.
+
+ 8         (2) A low economy growth sensitivity combined with the adjusted large-load growth
+
+ 9             scenarios.
+
+10   2. On an ongoing basis:
+
+11      i) Increase the accuracy and transparency of its forecasting process to ensure more
+
+12         accurate forecasts are used in the Company’s planning analysis in the IRP, as well as
+
+13         in procurements in upcoming RFPs:
+
+14      ii) Continuously update the probabilities assumed in the Load Realization Model based
+
+15         on the changes reported in its quarterly large load economic development filings.
+
+16      iii) Ensure no double counting between the econometric base forecast and the large load
+
+17         adjustment.
+
+18      iv) Collect and track additional information for the Company’s large load pipeline,
+
+19         including the time between one stage to the next, reasons for delays or changes in status,
+
+20         information on the portion of the large loads with clean energy commitments. Include
+
+21         such information in the Company’s quarterly Large Load Economic Development
+
+22         reports.
+
+
+                                                27
+
+ 1        3. Continue to evaluate opportunities to enhance and expand all customer programs that
+
+ 2           could further reduce net load and resource needs. Given the projected capacity need,
+
+ 3           particular focus should be given to improving and increasing customer participation in:
+
+ 4           i) Large load customer programs and tariffs like the Large Customer Owned Resiliency
+
+ 5               Program, the Demand Plus Energy Credit (“DPEC”) interruptible tariff, the
+
+ 6               Curtailable Load tariff, the consideration of a clean transition tariff,
+
+ 7           ii) Other demand response programs, such as the Residential Thermostat Demand
+
+ 8               Response program.
+
+
+ 9   V.      GCV Modeling
+
+10   Q.      Did you conduct modeling to investigate how the portfolio buildout, cost, and
+
+11           emissions would change if the erroneous or highly uncertain inputs you identified
+
+12           were corrected?
+
+13   A.      Yes. I conducted modeling starting from the Company’s AURORA model database, as
+
+14           provided by the Company. I performed two types of modeling analysis using the
+
+15           AURORA long term capacity expansion (“LTCE”), as well as standard zonal modules.
+
+16           An LTCE aims to identify the least cost portfolio over a planning period (the Company’s
+
+17           AURORA runs have a planning horizon up to 2059). A zonal analysis, which I also refer
+
+18           to as a production cost run, simulates the operations of the portfolio over the planning
+
+19           period (assuming least cost dispatch). The AURORA model utilizes system and scenario
+
+20           specific inputs including load forecasts, existing and new candidate resource
+
+21           characteristics, and reserve margin requirements. In this section, I describe GCV’s
+
+22           changes to the model and results, focusing on resource availability and costs.
+
+
+                                                       28
+
+ 1   Q.      Did you use one of the Georgia Power scenarios outlined in Figure 1 as the starting
+
+ 2           point of your modeling analysis?
+
+ 3   A.      Yes. I based my model setup on the Company’s MG0, MG20, and 111-MG0 scenarios.
+
+ 4           MG0 simulates a scenario that includes no carbon policy and develops a least cost
+
+ 5           portfolio focusing only on the direct costs of the different resources. The base GCV
+
+ 6           portfolio is developed incorporating the carbon price of MG20. The inclusion of a carbon
+
+ 7           price recognizes first and foremost that carbon emissions impose real costs on the people
+
+ 8           of Georgia and everywhere, as well as the reality that environmental policy in some form
+
+ 9           will be part of the grid’s future. I also conducted modeling including the Environmental
+
+10           Protection Agency (“EPA”) rules under sections 111(b) and 111(d) of the Clean Air Act
+
+11           (“111 GHG Rules”), as the Company presents the 111-MG0 scenario as its base case.30
+
+
+12           A.      Input Changes
+
+13   Q.      Please list the input changes that you incorporated in the model runs you conducted.
+
+14   A.      In my model runs, I adjusted a limited number of inputs. These include:
+
+15        1. The capital costs of gas-fired resources;
+
+16        2. The annual build limits of different technologies;
+
+17        3. The effective load carrying capability (“ELCC”) value for solar resources.
+
+18           In addition to that, I allowed the model to select partial additions of energy storage and
+
+19           renewable energy resources, as these resources are highly modular. I also adjusted some
+
+
+     30
+       Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+     Francisco Valle, at 28.
+
+                                                          29
+
+ 1            of the time resolution settings of the LTCE, but simulated the operations of all portfolios
+
+ 2            through detailed production cost simulations to ensure a consistent comparison.
+
+ 3   Q.       Please explain why you updated the capital costs assumed for new gas-fired
+
+ 4            resources.
+
+ 5   A.       Georgia Power’s capital cost assumptions are summarized in Table 5: B2025 Technology
+
+ 6            Cost and Performance Summary of the 2025 IRP Resource Mix Study. I compared these
+
+ 7            costs with other sources that include the National Renewable Energy Laboratory’s
+
+ 8            (“NREL”) 2024 Annual Technology Baseline (“ATB”)31, as well as resource costs in
+
+ 9            recent applications for IRPs and Certificates of Public Convenience and Necessity
+
+10            (“CPCN”). Data from IRPs is summarized in Table 2:32
+
+11                                    Table 2: Comparison of Resource Costs in recent IRPs33
+
+
+12
+
+
+     31
+        Available at https://atb.nrel.gov/electricity/2024/technologies.
+     32
+        All costs are expressed in 2024$, although it is difficult to ensure consistency in installation dates. For example,
+     nuclear resources in most sources cited refer to Small Modular Reactors with an assumed availability post 2030.
+     LG&E/KU values were deflated from 2030$, but it is not clear whether those estimates refer to a 2030 installation.
+     Medium Duration Storage Options reflect different duration assumptions in each source ranging from 8 hours to 100
+     hours).
+     33
+        See the following IRP sources:
+          1. Georgia Power, 2025 IRP Technical Appendix Volume 2, Technology Screening and Application
+               Standards, Attachment B
+          2. Dominion Energy, DESC IRP Stakeholder Advisory Group Session XVI, Supply-Side Inputs Candidate
+               Resource Options, available at https://www.desc-irp-stakeholder-
+
+
+                                                               30
+
+ 1             Additional data, mainly for gas-fired resources, can also be found in recent CPCN
+
+ 2             applications. Although I recognize that each CPCN application includes cost estimates
+
+ 3             that can be location- and case- specific, a trend of higher costs for gas-fired units is
+
+ 4             evident. Some examples include:
+
+ 5             -   Kentucky Utilities Company (“KU”) and Louisville Gas and Electric Company
+
+ 6                 (“LG&E”) applied to the Kentucky Public Service Commission for CPCNs for the
+
+ 7                 construction of two approximately 645 MW gas advanced class 1x1 single-shaft
+
+ 8                 Combined Cycle (“CC”) facilities, one at KU’s E.W. Brown Generating Station in
+
+ 9                 Mercer County, Kentucky and the other at LG&E’s Mill Creek Generating Station in
+
+10                 Jefferson County, Kentucky, as well as for the construction of a 400 MW, 4- lithium-
+
+11                 ion battery energy storage system facility. LG&E/KU estimate the construction cost
+
+12                 of Brown 12 and Mill Creek 6 to be $1.383 billion and $1.415 billion, respectively,
+
+13                 while the cost of the BESS facility is expected to be $775.34 Expressed in $/kW, these
+
+14                 costs are $2,144/kW and $2,193/kW for the CC units and $1,937/ for the storage
+
+15                 facility.
+
+16             -   Duke Indiana applied to the Indiana Utility Regulatory Commission for a CPCN for
+
+17                 two 1x1 Advanced Class CC gas units at the Company’s existing Cayuga Generation
+
+18                 Station. Each unit will have a winter rating of approximately 738 MW, for a
+
+
+               group.com/Portals/0/Documents/MeetingMaterials/DESC_IRP_Stakeholder_Advisory_Group_Session_X
+               VI.pdf
+          3.   Louisville Gas and Electric and Kentucky Utilities, 2024 Joint Integrated Resource Plan Volume III,
+               Technology Update, tables 1, 2, and 3.
+          4.   PacifiCorp IRP support and studies, Public Supply-Side Resource Data Summary – 2025. Available at
+               https://www.pacificorp.com/energy/integrated-resource-plan/support.html
+     34
+       Case No. 2025-00045, Kentucky Public Service Commission, Direct Testimony of David L. (Dave) Tummonds
+     Senior Director, at 10 and 13. Available at https://psc.ky.gov/pscecf/2025-00045/rick.lovekamp%40lge-
+     ku.com/02282025010202/16-Tummonds_Direct_Testimony_2025-00045.pdf
+
+                                                           31
+
+ 1                combined winter capacity rating of 1,476 MW.35 Project construction is expected to
+
+ 2                occur from 2025 until 2030 with nearly $2.97 billion in expenditures on equipment,
+
+ 3                construction employee compensation, professional services and materials, plus
+
+ 4                additional costs such as financing and transmission line upgrades necessary to
+
+ 5                transport the additional power, bringing total estimated project cost to $3.3 billion.36
+
+ 6                Expressed in $/kW, these values are $2,012 - $2,234/kW.
+
+ 7           -    Dominion Energy Virginia applied for a CPCN to construct and operate the
+
+ 8                Chesterfield Energy Reliability Center. The project will be located in the footprint of
+
+ 9                Dominion’s existing Chesterfield Power Station site in Chesterfield, Virginia and
+
+10                consist of four 236 MW Combustion Turbines (“CTs”), for a total of 944 MW. The
+
+11                total estimated cost is approximately $1.47 billion, and the Project is expected to
+
+12                begin commercial operations by June 1, 2029.37 Expressed in $/kW, this equals
+
+13                $1,557/kW.
+
+14   Q.      Why are costs for gas-fired resources significantly higher than cost estimates
+
+15           encountered in IRPs of earlier years?
+
+16   A.      The gas turbine market is experiencing a significant backlog due to the increased demand
+
+17           resulting in both higher costs, as well as longer timelines for the delivery of turbines. This
+
+18           has been reported in several articles. A recent newsletter summarizes information about
+
+
+     35
+        Cause No. 46193, Indiana Utility Regulatory Commission, Direct Testimony of Stan C. Pinegar, at 12, Available
+     at: https://iurc.portal.in.gov/_entity/sharepointdocumentlocation/026a0346-edea-ef11-be20-
+     001dd80b89f5/bb9c6bba-fd52-45ad-8e64-
+     a444aef13c39?file=46193_Duke%20Energy%20Indiana_Direct%20Testimony%20of%20Pinegar_021325.pdf
+     36
+        Cause No. 46193, Indiana Utility Regulatory Commission, Attachment 1-A (SCP), at 5. Available at:
+     https://iurc.portal.in.gov/_entity/sharepointdocumentlocation/026a0346-edea-ef11-be20-001dd80b89f5/bb9c6bba-
+     fd52-45ad-8e64-
+     a444aef13c39?file=46193_Duke%20Energy%20Indiana_Direct%20Testimony%20of%20Pinegar_021325.pdf
+     37
+        Case No. PUR-2025-00037, State Corporation Commission of Virginia, Direct Testimony of Jeffrey G.
+     Miscikowksi, at 3-4. Available at: https://www.scc.virginia.gov/docketsearch/DOCS/845p01!.PDF
+
+                                                            32
+
+ 1           this growing backlog of gas turbine orders from the major manufacturers:38 “The global
+
+ 2           gas turbine market is experiencing a significant surge in orders, with major players
+
+ 3           like Siemens Energy, GE Vernova, and Mitsubishi Power reporting record-breaking
+
+ 4           backlogs in 2024.”
+
+ 5   Q.      What are the potential impacts of this backlog?
+
+ 6   A.      The newsletter identifies some critical impacts for potential customers and eventually
+
+ 7           electricity consumers. According to that newsletter, those include:
+
+ 8           1. Delays in Project Execution: Long backlogs can disrupt construction schedules and
+ 9              lead to cost overruns. Some gas turbine models now have leading times of up to 37
+10              months, substantially affecting project planning and execution.
+11           2. Strain on Maintenance and Spare Parts Availability: Current gas turbine operators are
+12              increasingly concerned about slower turnaround times for scheduled maintenance.
+13              Customers are now experiencing lead overhaul times of around 350 days, a sharp
+14              increase from the 120 days that were previously standard.
+15           3. Rising Costs for End-Users: The high backlog demand has shifted pricing power to
+16              OEMs, meaning customers may pay more for both new turbines and service
+17              agreements. Additionally, inflationary pressures on raw materials and supply chain
+18              constraints are further driving up capital and operational costs for gas turbine buyers.
+19           4. Uncertainty in Decarbonization Strategies: Many power producers are investing in
+20              hydrogen-compatible gas turbines as part of their long-term net-zero strategies.
+21              However, backlog-induced delays may slow the transition to cleaner gas power.
+
+22   Q.      Please explain how you updated the capital costs assumed for new gas-fired
+
+23           resources.
+
+24   A.      Based on the comparison table provided above, I increased the build costs for CC
+
+25           resources by a conservative             in 2030,39 an increase that I gradually reduced within a
+
+26           five year period, assuming the backlog will gradually resolve either due to adjustments in
+
+
+     38
+        The Growing Backlog of Gas Turbine Orders: Implications for Customers, 01/03/2025, Available at:
+     https://gasturbinehub.com/the-growing-backlog-of-gas-turbine-orders-implications-for-customers/
+     39
+        The Company’s database included           build costs (i.e., $ kW) for new CC resources in 2029. Assuming that
+     this is simply an error, I included costs in 2029 consistent with my 2030 assumption.
+
+                                                             33
+
+ 1           demand or in the supply capabilities of the manufacturers. Similarly, I assumed a      %
+
+ 2           increase for CTs in 2030, with costs returning to Georgia Power’s assumed levels within
+
+ 3           a five-year period. For both CC and CT resources I adjusted the recovery of build costs in
+
+ 4           the revenue requirement to 35 years.
+
+ 5   Q.      Did you adjust the costs of other resources?
+
+ 6   A.      No. I compared the costs of solar, wind, and energy storage resources mainly with other
+
+ 7           IRPs, including those of LG&E/KU, Dominion Energy South Carolina, PacifiCorp, as
+
+ 8           well as the NREL ATB. Although differences exist for both renewable energy and four-
+
+ 9           hour batteries among those sources, I found that Georgia Power’s assumptions do not
+
+10           differ so much as to require an adjustment, especially taking into consideration the
+
+11           conservative increases applied to the gas-fired resources. Furthermore, had the Company
+
+12           assumed hybrid resources (renewable energy paired with energy storage), additional cost
+
+13           savings would almost eliminate the delta shown in this table. Specifically, NREL ATB
+
+14           assumes that paired resources would result in 8% savings (compared to standalone
+
+15           renewable energy and energy storage assets) based on the synergistic effects that reduce
+
+16           the capital cost (reduced development, financing and other costs).40 I also did not include
+
+17           any changes to the Company’s CC with Carbon Capture and Sequestration, nuclear, or
+
+18           medium duration energy storage assumptions.
+
+19   Q.      Please explain the role of build limits in a capacity expansion model.
+
+20   A.      The capacity expansion model, which seeks to develop the least-cost portfolio under an
+
+21           assumed future, is subject to certain constraints, one of which is how much of a resource
+
+
+     40
+       2024 ATB Data, tab “Utility-Scale PV-Plus-Battery,” cell S40, Available at:
+     https://data.openei.org/files/6006/2024_v3_Workbook.xlsx
+
+                                                            34
+
+ 1             can be deployed on an annual basis (annual build limit), or over the course of several
+
+ 2             years (cumulative build limit).
+
+ 3   Q.        Has Georgia Power assumed build limits in its AURORA runs?
+
+ 4   A.        Yes. Table 3 summarizes those limits:41
+
+ 5                                       Table 3: Georgia Power's assumed build limits
+
+
+ 6
+
+ 7   Q.        Do you have concerns about Georgia Power’s assumed renewable energy build
+
+ 8             limits?
+
+ 9   A.        Yes. First, I recognize that Georgia Power will have to address execution issues as they
+
+10             will be procuring and interconnecting significant amounts of different resource types.
+
+11             Including procurement and interconnection limitations through some kind of model
+
+12             constraint is not unreasonable. However, when those resource limits are binding every
+
+13             year, they should be critically reviewed and thoroughly justified. For example, solar and
+
+14             wind resources are subject to annual limits which are binding in all years for several of
+
+
+     41
+          Georgia Power response to STF-JKA-1-11
+
+                                                             35
+
+1           the presented scenarios (see Table 4 and 5).42 This indicates that the development of a
+
+2           least cost portfolio is limited by those constraints, which if relaxed could further reduce
+
+3           costs for ratepayers. Thus, it would be informative for Georgia Power to explore under
+
+4           what conditions and costs these constraints could be relaxed, especially for renewable
+
+5           energy and energy storage.
+
+6                        Table 4: Solar build limits and optimal levels in Georgia Power’s portfolios
+
+
+7
+
+
+    42
+      Based on Georgia Power response to STF-JKA-1-11 and 2025 IRP Technical Appendix Volume 2, Chapter 2,
+    “Capacity Expansion Plans – 2025 IRP.xlsx.”
+
+                                                             36
+
+ 1                     Table 5: Wind build limits and optimal levels in Georgia Power’s portfolios
+
+
+ 2
+
+ 3   Q.   What are the implications of the fact that the amount of wind and solar selected
+
+ 4        equals the assumed build limits in nearly every year?
+
+ 5   A.   To put it plainly, the optimal, least-cost portfolio is one that “maxes out” wind and solar
+
+ 6        additions. A lower cost portfolio could be determined if the Company were able to
+
+ 7        achieve wind and solar additions greater than the assumed build limits. Significant wind
+
+ 8        and solar additions can be considered “no regrets” options.
+
+ 9   Q.   Has the Company updated its build limits for renewable energy since the last IRP?
+
+10   A.   Yes. According to the Company’s response to STF-JKA-1-11, the annual and cumulative
+
+11        limits for wind resources were reduced from 600 MW/yr and a cumulative max of 8,100
+
+12        MW to 300 MW/yr and a cumulative max of 4,500 MW.
+
+
+                                                          37
+
+ 1   Q.       Has the Company provided a reasonable explanation for the selection of the specific
+
+ 2            levels for the annual limits for solar and wind additions?
+
+ 3   A.       Not to my knowledge. The Company’s response to STF-JKA-1-11 provides some
+
+ 4            information on the assumed limits for new gas resources, but not for renewable energy, or
+
+ 5            for why those were updated since its 2023 IRP Update.
+
+ 6   Q.       How could Georgia Power increase the amount of renewable energy and energy
+
+ 7            storage that it can interconnect on an annual basis?
+
+ 8   A.       Besides larger transmission projects, which I have not analyzed in this review, Georgia
+
+ 9            Power could increase the clean energy resources that it interconnects every year by
+
+10            leveraging its existing infrastructure. For example, Georgia Power should conduct an
+
+11            analysis of the potential of co-locating clean resources to share the same point of
+
+12            interconnection with operating thermal units with low capacity factors, as well as using
+
+13            existing interconnection from retired or soon-to-be retired units. Similarly energy storage
+
+14            could be interconnected at the point of interconnection of existing solar resources to
+
+15            increase the firm capacity of the combined resource while resulting in cost and time
+
+16            savings. The analysis should further evaluate the potential of installing clean resources
+
+17            (including medium and long duration options) in energy communities to take full
+
+18            advantage of investment tax credits (and include such credits in the resource analysis).43
+
+
+     43
+       As defined in the Inflation Reduction Act (IRA), the Energy Community Tax Credit Bonus applies a bonus of up
+     to 10% (for production tax credits) or 10 percentage points (for investment tax credits) for projects, facilities, and
+     technologies located in energy communities. The definition of energy communities includes (among others)
+     brownfield sites and a census tract (or directly adjoining census tract) in which a coal-fired electric generating unit
+     has been retired after 2009. A mapping tool developed by the Department of Energy shows that clean resources
+     located in certain parts of Georgia would be eligible for the credit.
+     https://arcgis.netl.doe.gov/portal/apps/experiencebuilder/experience/?id=a2ce47d4721a477a8701bd0e08495e1d
+
+                                                               38
+
+ 1   Q.         Do you have concerns about Georgia Power’s assumed annual build limits for gas-
+
+ 2              fired resources?
+
+ 3   A.         I am concerned that the limits for CC and CT resources are unrealistically high. Other
+
+ 4              than 2029 CC resources, CCs and CTs are essentially not constrained. This results in the
+
+ 5              Company’s MG0 scenario selecting more than 3,300 MW of new gas-fired resources in a
+
+ 6              single year (2031, for the Southern Company system), and more than 8 GW in the four-
+
+ 7              year period 2029-2032.44 Constructing 8 GW of new gas-fired resources in this four-year
+
+ 8              period raises several execution concerns. In the GCV modeling presented below, CC
+
+ 9              resources were subject to a limit of 900 MW in 2029 (consistent with Georgia Power’s
+
+10              assumption) and 1,200 MW on an annual basis up to 2038.
+
+11   Q.         Do you have any concerns about the Company’s assumptions for the first year of
+
+12              availability for different resource types?
+
+13   A.         Yes. The first year of availability for incremental CC and CT resources is 2029, which
+
+14              based on the backlog described previously might not be realistic. Despite my concerns for
+
+15              whether Georgia Power could successfully bring new gas-fired resources online by 2029,
+
+16              I did not adjust this input. On the other hand, Georgia Power assumes that wind energy
+
+17              and medium duration energy storage will be available in 2033. In my modeling, I
+
+18              assumed that both resources could start operating in 2030.
+
+19   Q.         Did you adjust the ELCC values for solar resources?
+
+20   A.         Yes. The Company’s model assigned zero capacity value to all solar. I adjusted the
+
+21              ELCC values for solar resources to reflect values based on the results of the Company’s
+
+
+     44
+          2025 IRP Technical Appendix Volume 2, Chapter 2, “Capacity Expansion Plans – 2025 IRP.xlsx,”
+
+                                                            39
+
+ 1              ELCC study which finds a small but non-zero capacity value for solar even in the winter
+
+ 2              planning period.45 While I did not model the ELCC of solar seasonally, the Company’s
+
+ 3              ELCC study does find greater capacity value of solar in the summer period. This is also
+
+ 4              true for the capacity value of energy storage. In general, the inputs to the model should
+
+ 5              reflect seasonal variations for values like capacity value, and TRM, since the Company
+
+ 6              has emphasized its seasonal planning strategy.
+
+
+ 7              B.      GCV Base Portfolio
+
+ 8   Q.         Please describe the GCV base model results.
+
+ 9   A.         With the changes described above, I performed an LTCE to derive a base portfolio. The
+
+10              optimal resource additions of this portfolio are presented in the table below, in
+
+11              comparison with the Company’s MG0, MG20, and 111-MG0 resource additions. The
+
+12              amount of nameplate capacity additions of each technology is given for two timeframes:
+
+13              the period of 2025-2033, representing the immediate future need for which the Company
+
+14              is proposing actions in this IRP, and 2025-2044, aligned with the IRP’s 20-year planning
+
+15              horizon. My focus is primarily on actions in the near term, as longer-term additions will
+
+16              continue to be evaluated in future IRPs.
+
+
+     45
+          Georgia Power response to STF-JKA-1-10 Attachment D.
+
+                                                           40
+
+ 1          Table 6: Comparison of Resource Additions (for Southern Company, in MW Nameplate) for GCV’s Base and Company
+ 2                                                             Portfolios46
+
+
+ 3
+
+ 4              The comparison of GCV’s base case to the Company’s MG0 and MG20 portfolios shows
+
+ 5              an increase in renewable resource additions, to the maximum annual build limits. GCV’s
+
+ 6              base portfolio includes more solar than any of the Company portfolios, as I have assumed
+
+ 7              higher availability, and the model has consistently selected it. Similarly, wind resources
+
+ 8              are selected to the maximum amount every year. In addition, the model increases the
+
+ 9              amount of 4-hour battery and medium-duration 12-hour storage in the GCV portfolio,
+
+10              replacing some of the gas-fired resources of the Company’s portfolios.
+
+11   Q.         Did you also conduct a production cost analysis for the GCV base portfolio?
+
+12   A.         Yes. I performed a production cost analysis with Aurora’s standard zonal study option.
+
+13              This analysis takes the buildout of the LTCE run as an input and simulates the operations
+
+14              of the portfolio over the planning period.
+
+15   Q.         What was the purpose of conducting production cost analysis?
+
+
+     46
+          2025 IRP Technical Appendix Volume 2, Chapter 2, “Capacity Expansion Plans – 2025 IRP.xlsx.”
+
+                                                                41
+
+ 1   A.   A production cost analysis can provide more accurate information about the operations of
+
+ 2        the units, the expected portfolio costs, and emissions using higher resolution and
+
+ 3        accuracy in the dispatch and commitment logic. For example, I conducted production
+
+ 4        cost analysis simulating every hour of every day of every year, instead of the
+
+ 5        representative time blocks used in the long-term studies. Furthermore, the production cost
+
+ 6        analysis allows a given resource portfolio to be analyzed with a different set of conditions
+
+ 7        (for example, with EPA 111 operating compliance constraints, or modified load and fuel
+
+ 8        price) than it was developed for in the LTCE. An LTCE determines a least cost portfolio
+
+ 9        under a deterministic future, which might not be optimal under another future and does
+
+10        not consider uncertainty. Simulating the operations of the developed portfolio under a
+
+11        different set of future assumptions can provide insights as to how sensitive it is to
+
+12        changing conditions (i.e. how its performance, including costs and emissions change if
+
+13        some inputs take different values). The optimization process of the LTCE is also sensitive
+
+14        to model settings or even the setup of the machine used to conduct the modeling.
+
+15        Production cost runs allow for a consistent comparison of different portfolios under
+
+16        different scenarios, independently of how those portfolios were constructed. For the
+
+17        results below, whenever a portfolio is run under a different future scenario than it was
+
+18        developed within, to test its performance under different conditions, I include (zonal) in
+
+19        its description.
+
+20   Q.   How does the GCV Base portfolio compare to the Company’s portfolios in terms of
+
+21        costs?
+
+22   A.   To compare the costs associated with investing and operating the GCV portfolio, as well
+
+23        as any of the Company’s portfolios, I conducted a series of production cost runs. Each of
+
+                                                   42
+
+ 1              the portfolios is run under the same assumptions (including the updated costs of the gas-
+
+ 2              fired units). The system costs of each resource portfolio for the 20-year horizon is
+
+ 3              provided, in terms of net present value (“NPV”), in the table below. The system cost is
+
+ 4              composed of fixed costs and production costs. Fixed costs include the capital expenses to
+
+ 5              build the portfolio, as well as fixed operations and maintenance costs of the units.
+
+ 6              Production costs include the costs for fuel, maintenance, and other operating expenses
+
+ 7              that are determined by how the portfolio is run to meet the system demand. Each of the
+
+ 8              production cost runs also calculates the carbon emissions of each portfolio in the 20-year
+
+ 9              period, as well as their carbon cost under the carbon price of the Company’s MG20
+
+10              portfolio.47
+
+11         Table 7: Comparison of system cost for GVC Base and Company Portfolio for 2025-2044 (for Southern Company, NPV)
+
+
+12
+13
+14              The results of the production cost analysis show that the GCV Base portfolio results in a
+
+15              lower system cost than the Company’s MG20 and reduces the combined system and
+
+16              carbon costs by more than $2.5 Billion (i.e., System + Carbon Cost). Although the MG0
+
+17              scenario (no carbon policy or price) is not reflective of reality, as it ignores carbon costs
+
+18              and assumes that there will be no carbon policy in any form up to 2044, I compare it to
+
+19              the GCV Base to showcase that investing in cleaner portfolios does not lead to increased
+
+
+     47
+          The carbon cost was not included in dispatch decisions.
+
+                                                                43
+
+ 1              costs. The system costs of the two portfolios are comparable, but the MG0 portfolio
+
+ 2              results in significantly increased carbon emissions.
+
+ 3              To understand how the GCV Base would perform if the EPA 111 rules stay in place, I
+
+ 4              simulated its operations through a production cost run with the same constraints as the
+
+ 5              Company’s EPA 111 evaluation and compared it to the Company’s 111-MG0 portfolio.
+
+ 6              Under this scenario, the system and carbon cost reductions under the GCV portfolio
+
+ 7              increase to over $3 billion.
+
+ 8        Table 8: Comparison of System Cost for GCV and Company Portfolio assuming EPA 111 compliance for 2025-204448((for
+ 9                                                     Southern Company, NPV)
+
+
+10
+11
+12   Q.         How do the GCV Base portfolio’s emissions compare to those of the Company
+
+13              portfolios?
+
+14   A.         Compared to the Company’s portfolios, the GCV base results in lower carbon emissions
+
+15              over the period from 2025-2044, in both the EPA 111 compliance scenario and the non-
+
+16              compliance scenario, as illustrated in the figures below.
+
+
+     48
+       Fixed costs remain the same for the GCV Base portfolio as in Table 7, as the capital expenditures for the portfolio
+     remain the same, and only the production costs change due to the constraints imposed by EPA 111.
+
+                                                                44
+
+1                Figure 7: Comparison of Carbon Emissions for GCV Base and GPC Portfolios (Southern Company)
+
+
+2
+
+3   Figure 8: Comparison of Carbon Emissions for GCV Base and 111-MG0 Portfolios assuming EPA 111 compliance (Southern
+4   Company)
+
+
+5
+
+
+                                                             45
+
+ 1   Q.       Have you considered the impacts of gas price volatility on the economics of the
+
+ 2            portfolios?
+
+ 3   A.       Yes. Although the company conducts an LTCE for a scenario with higher gas prices,
+
+ 4            called HG0, which identifies an optimized portfolio for that scenario, this analysis does
+
+ 5            not identify the risk exposure of the Company’s other portfolios to volatile gas prices. To
+
+ 6            assess the risk posed by volatile fuel prices under the Company’s MG0 and 111-MG0
+
+ 7            portfolios, I performed production cost runs under the Company’s high gas price forecast,
+
+ 8            simulating the operations of the Company MG0 and 111-MG0 portfolios and the GCV
+
+ 9            Base portfolio.
+
+10    Table 9: Comparison of system cost for GCV and Company MG0 Portfolios under high gas prices for 2025-2044 (for Southern
+11                                                      Company, NPV)49
+
+
+12
+13
+14    Table 10: Comparison of system cost for GCV and Company 111-MG0 portfolios under 111 operating constraints and high gas
+15                                        prices for 2025-2044 (for Southern Company, NPV)
+
+
+16
+17            The results of the high gas price production cost analysis demonstrate that investing in
+
+18            renewable energy provides a hedge against volatile gas prices, reducing the incremental
+
+19            production costs due to high gas prices (costs that are usually borne by ratepayers, since
+
+
+     49
+       Fixed costs remain the same as in Table 7, as the capital expenditures for each portfolio remain the same, and only
+     the production costs change due to the higher gas price.
+
+                                                               46
+
+ 1   utilities can be made whole recovering fuel costs through power cost riders). The
+
+ 2   Company portfolios are more exposed to volatile gas prices compared to the GCV base
+
+ 3   case. The MG0 portfolio, which under medium gas prices had comparable system costs
+
+ 4   with GCV Base, becomes more expensive once gas prices increase: the cost of MG0 in
+
+ 5   the high gas price scenario is approximately $2.5 billion greater than that of the GCV
+
+ 6   Base, while also resulting in an additional cost of $2.1 billion from carbon emissions. The
+
+ 7   111-MG0 system cost is more than $8.75 billion greater than the GCV Base, and has
+
+ 8   $0.75 billion higher carbon costs. It is important to note that although the difference of
+
+ 9   the carbon costs of the two portfolios is smaller under the 111 scenario, this is primarily a
+
+10   product of applying the 111 operating restrictions on carbon emitting units, especially for
+
+11   the Company portfolios. On the other hand, in the GCV portfolios presented throughout
+
+12   my testimony, emissions reductions are primarily due to higher deployment of renewable
+
+13   energy and results can be relied upon with more confidence as they are less exposed to
+
+14   policy uncertainty.
+
+15   The emissions of the portfolios are compared in the Figures below:
+
+
+                                              47
+
+1   Figure 9: Comparison of Carbon Emissions for GCV Base and MG0 Portfolios assuming high gas prices (Southern Company)
+
+
+2
+
+3   Figure 10: Comparison of Carbon Emissions for GCV Base and 111-MG0 Portfolios assuming EPA 111 compliance and high
+4   gas prices (for Southern Company)
+
+
+5
+
+
+                                                             48
+
+ 1           C.       Adjusted Load Portfolio
+
+ 2   Q.      Did you conduct a run under the assumption of a lower large-load adjustment?
+
+ 3   A.      Yes. Given my concerns about the Company’s projection of the load growth, detailed in
+
+ 4           Section IV, which primarily drive the massive anticipated resource buildout up to 2031, I
+
+ 5           conducted an additional LTCE run with an adjusted load forecast.50 Specifically, I
+
+ 6           developed a least cost portfolio under the assumption that only half of the Company-
+
+ 7           projected large load growth will materialize (but assuming that load growth driven by
+
+ 8           other factors will occur). This is consistent with the adjusted large-load forecast presented
+
+ 9           in Section IV of my testimony.
+
+10   Q.      Please describe the results of the load sensitivity analysis.
+
+11   A.      The optimal resource additions of the adjusted load growth scenario are presented in the
+
+12           table below, in comparison with the GCV Base portfolio, and the Company’s 111-MG0.
+
+13           The amount of nameplate capacity additions of each technology is given, once again, for
+
+14           the period of 2025-2033 and 2025-2044.
+
+
+     50
+       In this run, I also added the seasonal TRM, consistent with the Company’s requested TRM values of 20%
+     Summer and 26% Winter. The Company’s model incorrectly applied the Winter TRM as an annual value, requiring
+     a higher reserve margin in summer than the Company proposes to use for its planning purposes. This change should
+     have been applied to all runs but was not due to timing constraints.
+
+                                                            49
+
+ 1   Table 11: Comparison of Resource Additions (for Southern Company, in MW Nameplate) for an adjusted load growth scenario
+
+
+ 2
+
+ 3           Compared to GCV Base, the GCV adjusted load portfolio results in lower investment in
+
+ 4           all resource types by 2033. This is true for every resource type except wind, which the
+
+ 5           model continues to select at its maximum quantity. The model, however, still selects
+
+ 6           significant amounts of renewable energy and 4-hour energy storage (indicating that these
+
+ 7           are no regrets resources), much higher than the Company’s base portfolio (111-MG0). On
+
+ 8           the other hand, the GCV adjusted load portfolio reduces gas-fired resources by 5.4 GW
+
+ 9           by 2033.
+
+10   Q.      Have you assessed the cost and emissions of this portfolio?
+
+11   A.      Yes. I performed production cost runs to assess the cost of this portfolio, as well as the
+
+12           GCV Base and the 111-MG0 under a future with adjusted load. The results of the
+
+13           production cost runs are provided in the table below.
+
+
+                                                              50
+
+ 1   Table 12: Comparison of system cost for GCV and Company Portfolios under an adjusted load growth scenario and 111
+ 2                            operating constraints for 2025-2044 (for Southern Company, NPV)
+
+
+ 3
+
+ 4        The first significant result of this analysis is that the portfolio built for adjusted load
+
+ 5        growth is $10.1 billion dollars less expensive than the Company’s 111-MG0 (under the
+
+ 6        scenario of adjusted load), i.e. over-forecasting load can have significant impacts on
+
+ 7        ratepayers who will have to cover the cost of overbuilding the system. This demonstrates
+
+ 8        how significant the impact of getting the load forecast right is, why additional
+
+ 9        sensitivities should have been conducted, and why the forecasting method warrants close
+
+10        scrutiny.
+
+11        Another takeaway is that demand-side resources have significant opportunity for
+
+12        reducing resource needs and system costs, as they would be equivalent to a load
+
+13        reduction. A lower load scenario can also be seen as a proxy for aggressive development
+
+14        of demand response, from both large-load customers and aggregated “virtual power
+
+15        plants.”
+
+16        The third takeaway is that renewable energy and energy storage will be used under any
+
+17        future scenario, whether high gas prices, or low load growth, contrary to gas-fired
+
+18        resources which could be left stranded (or produce lower value) either due to economics,
+
+19        policy, or simply lower load growth. For example, an energy storage asset, even under a
+
+
+                                                           51
+
+ 1        lower load growth future will result in fixed costs but still deliver value: shift energy
+
+ 2        from periods of higher prices to periods of lower prices, and result in reduced production
+
+ 3        costs. In this scenario, the additional solar and storage in the GCV Base continue to drive
+
+ 4        production costs and emissions lower than the Company 111-MG0. On the other hand, in
+
+ 5        a lower load scenario, a CT resource would still add fixed costs to the system but would
+
+ 6        not necessarily operate or provide production cost savings under a lower load growth
+
+ 7        scenario. Similarly, solar resources will displace energy from other resources (with non-
+
+ 8        zero marginal costs), while CC resources might not need to generate under a lower
+
+ 9        growth future. Thus, renewable energy and energy storage can be considered no regrets
+
+10        options.
+
+11        Finally, energy storage and renewable energy resources have shorter lead-times than the
+
+12        gas resources. Energy storage and renewable energy resources can be procured in closer
+
+13        proximity to the timing of the need, reducing uncertainty in expected loads and providing
+
+14        planning flexibility, while investing in long-lead time, long-lived gas-fired assets can
+
+15        lock the system into a suboptimal path.
+
+
+16        D.     Coal Retirement Sensitivity
+
+17   Q.   Please describe the coal retirement scenario you investigated.
+
+18   A.   I analyzed the potential for retiring Bowen units 1 & 2 prior to January 1, 2032 within the
+
+19        context of the adjusted load scenario. In this scenario, I also considered the opportunity
+
+20        for additional tax credits that would be available to a medium duration energy storage
+
+
+                                                    52
+
+ 1            resource based on the retirement of the coal unit.51 To model this, I provided the model
+
+ 2            an additional resource option in the form of a medium duration (12-hour) storage system
+
+ 3            with reduced fixed costs for build capital expenditure, available immediately following
+
+ 4            the retirement of Bowen units 1 & 2.
+
+ 5            The provided Georgia Power workpapers for Aurora do not include any fixed costs for
+
+ 6            the existing coal generators but has conducted the unit retirement analysis through
+
+ 7            calculating expected costs outside of the model, and quantifying energy benefits or
+
+ 8            production cost savings using the AURORA.52 This approach does not allow for a
+
+ 9            comprehensive evaluation of the options in the model, and a model-selected economic
+
+10            retirement. In light of this, I assumed a fixed retirement date before 2032 to avoid
+
+11            necessary expenses associated with compliance with the Supplemental Effluent
+
+12            Limitation Guidelines (“ELG”) Rule. Retiring the units prior to 2035 (as modeled by the
+
+13            Company) also results in the avoidance of maintenance and other costs which are not
+
+14            modeled in AURORA.
+
+15   Q.       Please describe the results of the coal retirement scenario.
+
+16   A.       The optimal resource additions for the retirement scenario, which I characterize as the
+
+17            GCV Preferred portfolio, are presented in the table below, in comparison with the GCV
+
+18            adjusted load portfolio and Company 111-MG0. The amount of nameplate capacity
+
+
+     51
+        The Energy Community Tax Credit Bonus applies a bonus of up to 10 percentage points (for investment tax
+     credits) for projects, facilities, and technologies located in energy communities. The definition of energy
+     communities includes (among others) a census tract (or directly adjoining census tract) in which a coal-fired electric
+     generating unit has been retired after 2009. For the purposes of this analysis I added both the energy community and
+     the Domestic content bonus credits to a medium duration energy storage resource available for selection after the
+     retirement of the Bowen units (and up to the capacity of the retired Bowen units).
+     52
+        Unit Retirement Study, Technical Appendix Volume I.
+
+                                                              53
+
+ 1        additions of each technology is given, once again, for the period of 2025-2033 and 2025-
+
+ 2        2044.
+
+ 3   Table 13: Comparison of Resource Additions (for Southern Company, in MW Nameplate) for GCV’s adjusted load, GCV’s
+ 4                               Bowen 1 & 2 Retirement, and Company 111-MG0 Portfolios.
+
+
+ 5
+
+ 6        Compared to the GCV Adjusted Load portfolio, this retirement portfolio increases the
+
+ 7        amount of CTs in the near term, as well as 4-hour and 12-hour energy storage resources
+
+ 8        throughout 2044. It selects equal amounts of solar and wind resources, but reduces the
+
+ 9        CC capacity in the system; a significant portion of the capacity need from the retirements
+
+10        is met by the medium duration energy storage and then complemented by CTs which are
+
+11        lower cost than CCs. This portfolio indicates the importance of incorporating energy tax
+
+12        credits for eligible resources in the modeling as they can significantly change the relative
+
+13        economics of carbon emitting and clean resources. The resulting system costs are
+
+14        demonstrated below.
+
+
+                                                           54
+
+ 1   Table 14: Comparison of system cost for GCV’s adjusted load, GCV’s Bowen 1 & 2 Retirement, and Company 111-MG0
+ 2   Portfolios under adjusted load growth scenario and 111 operating constraints for 2025-2044 (for Southern Company, in MW
+ 3   NPV)53
+
+
+ 4
+
+
+ 5   VI. Recommendations and Conclusion
+ 6   Q.       What conclusions do you draw from your evaluation of the Company’s resource
+
+ 7            planning process and your modeling analysis?
+
+ 8   A.       Georgia Power faces a complex resource planning challenge. The uncertainty
+
+ 9            surrounding its resource need, largely driven by the forecasted large load additions and its
+
+10            ever-increasing TRM is significant and cannot be captured without a robust scenario
+
+11            planning analysis, which the 2025 IRP analysis fails to provide. Both over- and under-
+
+12            forecasting carry risks. For this IRP, after reviewing the Company’s load forecasting,
+
+13            resource modeling, and presented plans, I am concerned that Georgia Power is currently
+
+14            planning for an over-forecasted need without sufficiently evaluating the risks.
+
+15            Furthermore, Georgia Power’s analysis relies on resource assumptions for capital
+
+16            expenses, and technology availability that are out of date, erroneous, and uncertain. By
+
+
+     53
+       In addition to the AURORA modeled fixed costs, the table includes the revenue requirement for each of the
+     retirement options (which includes fixed, maintenance capital, environmental and conversion costs as reported in the
+     Company’s workpaper “2025IRP_AV_BowenU1-4_TRADE SECRET”, proportioned for just units Bowen 1&2):
+     GCV Adjusted Load includes values from “Bowen U1-4: ELG "No Cessation"; ZLD by 12/31/2029” up to 2035
+     GCV Adjuste Load & Ret Bowen 1&2 includes values form “Bowen U1-4: 111 "Imminent-term"; Retire by
+     1/1/2032”
+     111-MG0 include values from “Bowen U1-4: 111 "Medium-term"; Co-fire by 1/1/2030 & Retire by 1/1/2039”
+
+
+                                                                55
+
+ 1   failing to incorporate recent cost increases into the resource costs of new gas-fired units,
+
+ 2   the Company is underestimating the cost of its presented portfolios by several billion
+
+ 3   dollars. My analysis demonstrates that updating the capital costs of gas-fired resources as
+
+ 4   outlined in Section V(A), results in additional costs of more than $6 billion for the
+
+ 5   Southern Company portfolio, in net present value.
+
+ 6   In correcting some of the resource availability and cost assumptions and reoptimizing, I
+
+ 7   find a better performing portfolio – the GCV Base portfolio – which compared to the
+
+ 8   Company’s proposed 111-MG0 portfolio to meet EPA rule-111 requirements, invests in:
+
+
+ 9      •   3.3 GW less gas-fired resources by 2033 (5.1 GW by 2044),
+10      •   4.2 GW more solar and wind resources by 2033 (10.8 GW by 2044),
+11      •   4.3 GW more energy storage by 2033 (7.3 GW by 2044), and
+12      •   (0.6 GW less nuclear by 2044)
+
+13   When compared to the 111-MG0 portfolio, the GCV base portfolio reduces system and
+
+14   carbon costs by more than $3 billion by 2044 (Southern Company system, NPV).
+
+15   The higher investment in renewable energy resources in the GCV Base portfolio reduces
+
+16   ratepayers’ exposure to volatile high gas prices and the risk of stranded assets.
+
+17   Specifically, in the event of high gas prices, the difference between the GCV portfolio
+
+18   and the 111-MG0 increases to $9.5 billion. On the other hand, if load growth does not
+
+19   materialize at the magnitude and pace expected, the GCV Base portfolio results in net
+
+20   savings when compared to the Company’s portfolios. In short, renewable energy and
+
+21   energy storage resources are not only economic under the Company’s planning
+
+22   assumptions, but deliver value under a broad range of futures, while the value of gas-fired
+
+
+                                              56
+
+ 1   resources (at the Company proposed scale) quickly diminish if future conditions deviate
+
+ 2   from the Company’s planning assumptions.
+
+ 3   Importantly, however, I find that the Company’s forecasted large-load growth inflates the
+
+ 4   projected resource need. When I adjust the Company’s load forecast and develop the
+
+ 5   GCV adjusted load portfolio, this portfolio results in:
+
+
+ 6      •   5.4 GW less gas-fired resources by 2033 (6.9 GW by 2044),
+ 7      •   1.2 GW more solar and wind resources by 2033 (7.8 GW by 2044),
+ 8      •   2 GW more energy storage by 2033 (1.3 GW by 2044), and
+ 9      •   (0.6 GW less nuclear by 2044).
+
+10   When compared to the 111-MG0 portfolio, the GCV Adjusted Load portfolio reduces
+
+11   system costs by more than $10 billion (NPV for the Southern Company system) by 2044.
+
+12   Finally, when allowing medium duration energy storage resources to receive additional
+
+13   tax credits upon the retirement of the Bowen 1 and 2 units by 2032, the optimal portfolio
+
+14   further displaces gas in favor of energy storage resources:
+
+
+15      •   1.5 GW less coal by 2033,
+16      •   6.3 GW less gas-fired resources by 2033 (8.7 GW by 2044),
+17      •   1.2 GW more solar and wind resources by 2033 (7.8 GW by 2044),
+18      •   4 GW more energy storage by 2033 (3.3 GW by 2044), and
+19      •   (0.6 GW less nuclear by 2044).
+20   When compared to the 111-MG0 portfolio, the GCV Adjusted Load portfolio that retires
+
+21   the Bowen units 1&2 reduces system costs by nearly $10 billion (NPV for the Southern
+
+22   Company system) by 2044.
+
+
+                                              57
+
+ 1           It is also worth noting that in every portfolio analyzed, the maximum amount of wind is
+
+ 2           added in every available year. In spite of this clear preference for wind resources in the
+
+ 3           planning process, Georgia Power has few wind resources in its current portfolio.54 While
+
+ 4           wind resources might be scarce within Georgia, more investigation may be warranted to
+
+ 5           pursue out-of-state wind resources, especially as the Company itself was assuming
+
+ 6           double the wind resources were available for selection in its 2023 IRP Update.
+
+ 7   Q.      Please summarize your recommendations.
+
+ 8   A.      Georgia Power should increase its planning flexibility and ability to adjust to changing
+
+ 9           conditions by focusing on (a) supply side resources that can provide benefits under a
+
+10           broad range of future conditions (renewable energy and energy storage), and (b) demand
+
+11           side resources that will increase load flexibility. To ensure this is achieved, my
+
+12           recommendations are:
+
+13        1. The Commission should not approve the 2025 IRP in its current form and require Georgia
+
+14           Power to revise its analysis to:
+
+15               a. Present additional resource portfolios developed based on load growth sensitivities.
+
+16                   These should at least include:
+
+17                        i. Adjusted large-load growth scenarios:
+
+18                               1. Only large load projects that have signed a “Contract for Electric
+
+19                                    Service” in the near-term, including a probabilistic analysis or
+
+20                                    possible delays and reductions in announced load.
+
+21                               2. Large load projects that have signed a “Contract for Electric Service”
+
+
+     54
+       Georgia Power has no company-owned wind and only one power purchase agreement for wind energy, with a
+     nominal capacity of 250 MW. See IRP Attachment C.3 and C.5.
+
+                                                         58
+
+ 1                      as above plus an increasing percentage of large loads that are in the
+
+ 2                      “Request for Electric Service” stage subject to a similar probabilistic
+
+ 3                      analysis in the longer term.
+
+ 4          ii. A low economy growth sensitivity combined with the adjusted large-load
+
+ 5              growth scenarios.
+
+ 6   b. Update the resource costs and availability of gas-fired units based on recent market
+
+ 7      reports and other utilities’ filings in the region.
+
+ 8   c. Justify the assumed annual build limits and first year of availability for all resource
+
+ 9      types and explore under what conditions and costs these could be relaxed,
+
+10      especially for renewable energy and energy storage. The analysis should at least
+
+11      investigate whether the following are feasible and under what conditions:
+
+12           i. An earlier first year of availability and higher cumulative limit for wind
+
+13              resources.
+
+14          ii. An earlier year of availability for medium and long duration energy storage.
+
+15         iii. A higher annual build limit for solar resources.
+
+16      As part of the analysis, the Company should:
+
+17          •   Investigate wind resource availability and barriers to successful
+
+18              procurement of new wind resources (such as transmission investments and
+
+19              procurement design).
+
+
+20          •   Provide an analysis of the potential of co-locating clean resources to share
+
+21              the same point of interconnection with operating thermal units with low
+
+22              capacity factors, as well as using existing interconnection from retired or
+
+23              soon-to-be retired units to interconnect clean resources.
+
+                                           59
+
+ 1                 •   Analyze the potential of installing energy storage (including medium and
+
+ 2                     long duration options) at existing/retired plants to take full advantage of
+
+ 3                     investment tax credits (and include such credits in the resource analysis).
+
+ 4          d. Include the modeling of seasonal TRM values.
+
+ 5          e. Determine and model seasonal Effective Load Carrying Capabilities (“ELCC”)
+
+ 6             values for all resources (including thermal units).
+
+ 7          f. Retire Bowen 1&2 prior to 2032. Continue investigating the retirement of all coal
+
+ 8             units prior to 2032 and postpone actions to co-fire at this time.
+
+ 9   2. The Commission should also require Georgia Power to take certain actions going forward
+
+10      as it prepares for future IRPs and RFPs. In addition to the recommendations in (1):
+
+11          a. Increase the accuracy and transparency of its forecasting process to ensure more
+
+12             accurate forecasts are used in the Company’s planning analysis in the IRP, as well
+
+13             as in procurements in upcoming RFPs:
+
+14                 i. Continuously update the probabilities assumed in the Load Realization
+
+15                     Model based on the changes reported in its quarterly large load economic
+
+16                     development filings.
+
+17                 ii. Ensure no double counting between the econometric base forecast and the
+
+18                     large load adjustment.
+
+19          b. Collect and track additional information for the Company’s large load pipeline,
+
+20             including the time between one stage to the next, reasons for delays or changes in
+
+21             status, information on the portion of the large loads with clean energy
+
+
+                                                 60
+
+ 1               commitments. Include such information in the Company’s quarterly Large Load
+
+ 2               Economic Development reports.
+
+ 3           c. Develop a more robust scenario analysis framework that will evaluate the
+
+ 4               performance of each portfolio the company presents under a broad range of possible
+
+ 5               futures, including a broad range of load forecasts.
+
+ 6           d. Continue to evaluate coal retirement options for all remaining units prior to 2035.
+
+ 7           e. Continue to evaluate opportunities to enhance and expand all customer programs
+
+ 8               that could further reduce net load and resource needs. Given the projected
+
+ 9               capacity need, particular focus should be given to improving and increasing
+
+10               customer participation in:
+
+11                   i. Large load customer programs and tariffs like the Large Customer Owned
+
+12                      Resiliency Program, the DPEC interruptible tariff, the Curtailable Load
+
+13                      tariff, the consideration of a clean transition tariff,
+
+14                  ii. Other demand response programs, such as the Residential Thermostat
+
+15                      Demand Response program.
+
+16   Q.   Does that conclude your testimony?
+
+17   A.   Yes.
+
+
+                                                   61
+
+1                                         VERIFICATION
+2          There undersigned, Maria Roumpani, Phd., affirms under the penalties of perjury that the
+3   answers in the foregoing Direct Testimony in Docket No. 56002 & 56003 before the Georgia
+4   Public Service Commission are true to the best of her knowledge, information and belief.
+5
+6                                                                     /s/ Maria Roumpani      _
+7                                                                     Maria Roumpani
+8                                                                     Current Energy Group, LLC.
+
+
+                                                  62
+
+     MR-1:
+RESUME OF MARIA
+   ROUMPANI
+
+                                                                                                Page 1 of 3
+
+
+Maria Roumpani
+Partner, mroumpani@currentenergy.group
+
+
+Professional Summary
+Maria is an expert in energy system planning and an energy modeler. She focuses on the economic
+and technical analysis of grid planning and operations issues and has experience in capacity
+expansion optimization, production cost simulations, and energy storage dispatch modeling. Maria
+has submitted expert testimony and comments on integrated resource planning, plant economics,
+unit commitment practices, power cost issues, and demand side management plans. Her clients
+include consumer advocates, public interest organizations, energy project developers, government
+agencies, and large energy buyers.
+
+
+Education
+PhD, Management Science & Engineering
+Stanford University, 2018
+
+MSc, Electrical and Computer Engineering
+National Technical University of Athens, 2009
+
+
+Work Experience
+Founding Partner, Current Energy Group, (May 2024 – Present)
+   • Founding partner specializing in the economic and technical analysis of grid planning and
+       operations issues, including capacity expansion, production cost, and energy storage dispatch
+       modeling.
+Founder, ELO Engineering Consulting (March 2024 – May 2024)
+   • Conducted analysis on energy policy and economic issues.
+Technical Director | Strategen Consulting (2018 – March 2024)
+   • Led firmwide technical and economic modeling and analysis to support consulting
+       engagements. Specialized in the use of modeling tools to inform grid planning and
+       decarbonization issues.
+Research Assistant | Precourt Institute for Energy, Stanford University (2011 – 2017)
+   • Conducted research in a wide range of topics, from game theoretical approaches in electricity
+       markets to behavioral economics.
+Researcher | Energy, Economics, & Environment Modeling laboratory, National Technical
+University of Athens, (2009-2010, 2015)
+   • Contributed to the development of long-term energy planning models.
+   • Developed a wholesale electricity market competition model.
+
+                                                                                       Page 2 of 3
+
+
+Expert Testimony
+Virginia Electric and Power Company’s 2024 Integrated Resource Plan
+on Behalf of Advanced Energy United
+Virginia State Corporation Commission
+Case No. PUR-2023-00066
+Testimony
+
+East Kentucky Power Cooperative, Inc. Application for Approval of Demand Side
+Management Tariffs
+on Behalf of Joint Intervenors Appalachian Citizens’ Law Center, Kentuckians for The
+Commonwealth, and Mountain Association
+Kentucky Public Service Commission
+Case No. 2024-00370
+Testimony
+
+NV Energy and Sierra Pacific Power Company 2025-2044 Integrated Resource Plan
+on behalf of Advanced Energy United
+Public Utilities Commission of Nevada
+Docket No. 24-05041
+Testimony
+
+Duke Energy Carolinas and Duke Energy Progress 2023 Integrated Resource Plans
+on behalf of Sierra Club, South Carolina Coastal Conservation League, Southern Alliance
+for Clean Energy, Upstate Forever, and Vote Solar
+Public Service Commission of South Carolina
+Docket No. 2023-8-E & No. 2023-10-E
+Testimony
+
+Biennial Consolidated Carbon Plan and Integrated Resource Plans of Duke Energy
+Carolinas, and Duke Energy Progress,
+on behalf of the Southern Alliance for Clean Energy, Sierra Club, Natural Resources
+Defense Council, and North Carolina Sustainable Energy Association
+North Carolina Utilities Commission
+Docket E-100, Sub 190
+Testimony
+
+Annual Review of Base Rates for Fuel Costs of Dominion Energy South Carolina, Inc.
+on behalf of the South Carolina Office of Regulatory Staff
+Public Service Commission of South Carolina
+Docket No 2023-2-E
+Testimony
+
+                                                                          Page 3 of 3
+
+
+Annual Review of Base Rates for Fuel Costs of Duke Energy Progress, LLC
+on behalf of the South Carolina Office of Regulatory Staff
+Public Service Commission of South Carolina
+Docket No 2023-1-E
+Testimony
+
+Virginia Electric and Power Company 2023 Integrated Resource Plan
+on behalf of Advanced Energy United
+Virginia State Corporation Commission
+Case No. PUR-2023-00066
+Testimony
+
+PacifiCorp’s Transition Adjustment Mechanism
+on behalf of Sierra Club
+Oregon Public Utilities Commission
+Docket No. UE 420
+Testimony
+
+DTE 2022 IRP
+on behalf of the Michigan Energy Innovation Business Council
+Michigan Public Service Commission
+Case U-21193
+Testimony
+
+Duke Energy Carolinas and Duke Energy Progress 2022 Carbon Plan
+on behalf of the Tech Customers
+North Carolina Utilities Commission
+Docket E-100, Sub 179
+Testimony
+
+Public Service Company of Colorado
+on behalf of Sierra Club
+Colorado Public Utilities Commission
+Proceeding No. 21A-0141E
+Testimony

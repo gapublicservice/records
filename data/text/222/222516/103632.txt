@@ -1,0 +1,1161 @@
+BEFORE THE
+               GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+GEORGIA POWER COMPANY’S 2025        )      DOCKET NO. 56002
+INTEGRATED RESOURCE PLAN            )
+
+GEORGIA POWER COMPANY’S 2025       )       DOCKET NO. 56003
+APPLICATION FOR THE CERTIFICATION, )
+DECERTIFICATION, AND AMENDED       )
+DEMAND SIDE MANAGEMENT PLAN        )
+
+
+               DIRECT TESTIMONY AND EXHIBITS
+
+                               OF
+
+                    DOUGLAS A. SMITH AND
+                     SASIKUMAR KANNAN
+
+
+                       ON BEHALF OF THE
+
+            GEORGIA PUBLIC SERVICE COMMISSION
+             PUBLIC INTEREST ADVOCACY STAFF
+
+                      PUBLIC DISCLOSURE
+
+                           MAY 5, 2025
+
+TABLE OF CONTENTS
+
+
+I.     INTRODUCTION ..................................................................................................................................... 1
+
+II.    OVERVIEW OF COMPANY FILING .......................................................................................................... 7
+
+III.   DISCUSSION OF THE 2024 GEORGIA ITS TEN-YEAR PLAN (“TYP”) ........................................................ 8
+
+IV. THE COMPANY’S USE OF GRID ENHANCING TECHNOLOGIES SHOULD CONTINUE TO
+
+       EVOLVE AS A FOCUS FOR FUTURE PLANNING .................................................................................... 19
+
+1   Staff Exhibit #   Description
+
+2   Exhibit_SP-1      Resume for Douglas A. Smith
+
+3   Exhibit_SP-2      Resume for Sasikumar Kannan
+
+ 1   I.   INTRODUCTION
+
+
+ 2   Q.   PLEASE STATE YOUR NAMES, TITLES, AND BUSINESS ADDRESS.
+
+ 3   A.   This testimony is jointly offered by Douglas A. Smith and Sasikumar Kannan, both from
+
+ 4        Daymark Energy Advisors, Inc. (Daymark). Mr. Smith is a Principal Consultant and Mr.
+
+ 5        Kannan is a Lead Engineer. Our business address is 370 Main Street, Suite 325, Worcester,
+
+ 6        Massachusetts 01608.
+
+
+ 7   Q.   PLEASE SUMMARIZE DAYMARK’S BUSINESS.
+
+ 8   A.   Daymark provides energy planning, market analysis, and regulatory policy consulting and
+
+ 9        advisory services to support decision making within the electricity and natural gas
+
+10        industries. We serve a broad range of clients in North America, including private and public
+
+11        utilities, energy producers and traders, energy consumers and consumer advocates,
+
+12        regulatory agencies and public policy and energy research organizations, and other industry
+
+13        stakeholders. Our technical skills include power market forecasting models and methods,
+
+14        economics, management, planning, rates and pricing, and energy procurement, and
+
+15        contracting. Our experience includes detailed analyses of energy and environmental
+
+16        performance of the electric systems, economic planning for transmission, and market
+
+17        analytics.
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 1 of 23
+
+ 1   Q.   MR.     SMITH,       PLEASE        SUMMARIZE          YOUR        EXPERIENCE          AND
+
+ 2        QUALIFICATIONS.
+
+ 3   A.   I have over twenty years of experience in the energy industry, primarily supporting clients’
+
+ 4        efforts to advance or review infrastructure projects. I have advised clients regarding
+
+ 5        competitive transmission project development, including determination of need, solution
+
+ 6        building and outreach to stakeholders. I have led evaluations of proposed transmission
+
+ 7        projects, including assessment of regional benefits, in SPP, PJM, NYISO, ISO-NE and in
+
+ 8        the province of Manitoba. I have also evaluated non-wires alternatives in Vermont and
+
+ 9        Maine. Additional detail on my experience and qualifications is provided in my resume,
+
+10        attached hereto as Exhibit_SP-1.
+
+
+11   Q.   HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS COMMISSION?
+
+12   A.   Yes. I testified in the docket regarding Georgia Power Company’s 2023 Integrated
+
+13        Resource Plan (“IRP”) Update as well as Georgia Power Company’s Application For
+
+14        Certification of the Robins, Moody, Hammond, and McGrau Ford Phase I and II Battery
+
+15        Energy Storage Systems,
+
+
+16   Q.   MR.     KANNAN,        PLEASE       SUMMARIZE          YOUR       EXPERIENCE          AND
+
+17        QUALIFICATIONS.
+
+18   A.   I have over ten years of experience in the electric power industry, focusing on power system
+
+19        planning, transmission analysis, and regulatory support. I have led and contributed to
+
+20        transmission planning studies, interconnection assessments, and competitive transmission
+
+21        project development efforts across ISO-NE, PJM, and other regions. My work has included
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 2 of 23
+
+ 1        evaluation of grid needs, development of technical solutions, and support for regulatory
+
+ 2        filings and stakeholder engagement. I have experience conducting detailed power system
+
+ 3        modeling and have worked with a range of tools including PSS®E, TARA, and PSCAD.
+
+ 4        Prior to my current role, I worked at ISO New England supporting dynamic modeling and
+
+ 5        stability analysis for regional planning studies. Additional details on my experience and
+
+ 6        qualifications are provided in my resume, attached hereto as Exhibit_SP-2.
+
+
+ 7   Q.   HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS COMMISSION?
+
+ 8   A.   No, I have not.
+
+
+ 9   Q.   WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+
+10   A.   We are testifying on behalf of the Public Interest Advocacy Staff (“Staff”) of the Georgia
+
+11        Public Service Commission (“Commission”). The purpose of our testimony is to respond
+
+12        to certain elements of Georgia Power Company’s (“Company” or “Georgia Power”) 2025
+
+13        Integrated Resource Plan (“IRP”) filing. We address issues pertaining to the Company’s
+
+14        transmission planning processes and the resulting proposed investments.
+
+15        We reviewed the Company’s analysis and conclusions related to the transmission system
+
+16        upgrades proposed in the IRP filing. Our scope included a thorough review of the
+
+17        Company’s assumptions, methodology, and conclusions, including a review of the power
+
+18        flow analyses conducted by the Company in support of its filing.
+
+
+19   Q.   PLEASE SUMMARIZE YOUR RECOMMENDATIONS.
+
+20   A.   Our recommendations are as follows:
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 3 of 23
+
+ 1   1. Evaluate     the   Risk    of   Overbuilding       Due    to       Area   Max   Scenarios
+
+ 2      Georgia Power uses “Area Max” scenarios to assess whether the transmission system
+
+ 3      can accommodate the full simultaneous output of all generators within a defined
+
+ 4      region. While this method supports firm deliverability and ensures that generation is
+
+ 5      not “trapped” in constrained areas, it also reflects extreme, infrequent system
+
+ 6      conditions that may never occur in practice.
+
+ 7      We recommend that any transmission project primarily justified by Area Max scenario
+
+ 8      results be subject to a formal cost-benefit analysis comparing the lifetime cost of
+
+ 9      infrastructure upgrades to the operational cost of more flexible solutions—such as
+
+10      controlled curtailment, redispatch, or special protection schemes. This cost-benefit
+
+11      assessment should be reviewed by an independent third party to ensure transparency
+
+12      and analytical rigor. Projects should only proceed where the infrastructure cost is
+
+13      clearly justified relative to feasible operational alternatives.
+
+14   2. Supplement Economic Dispatch (ED) with Security-Constrained Dispatch
+
+15      Analysis
+
+16      The Economic Dispatch (ED) analysis used by Georgia Power for transmission
+
+17      planning is not security-constrained, potentially overstating transmission congestion
+
+18      and infrastructure needs. To better reflect realistic operational practices, the Company
+
+19      should supplement ED scenarios with security-constrained dispatch sensitivities.
+
+20      Specifically, after identifying potential violations through ED analysis, Georgia Power
+
+21      should perform security-constrained dispatch runs and evaluate whether operational
+
+22      measures, including remedial action schemes or targeted generation curtailments,
+
+23      could provide more cost-effective solutions. This approach would reduce the risk of
+
+       PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                  Docket No. 56002
+                                     Page 4 of 23
+
+ 1      investing in unnecessary transmission upgrades by accurately reflecting feasible
+
+ 2      operational alternatives.
+
+ 3   3. Implement a Formal Screening Process for Grid-Enhancing Technologies
+
+ 4      (GETs)
+
+ 5      Georgia Power has taken encouraging steps toward integrating Grid-Enhancing
+
+ 6      Technologies (GETs) into its system, including pilot deployments of Dynamic Line
+
+ 7      Ratings (DLR), the installation of advanced conductors, and the use of modular power
+
+ 8      flow control devices. However, we believe Georgia Power can do more to make GETs
+
+ 9      a systematic and transparent part of its transmission planning process. GETs like DLR,
+
+10      flow control devices, and topology optimization are proven, mature technologies
+
+11      widely used across the U.S. and internationally to boost capacity and defer traditional
+
+12      upgrades. Georgia Power should adopt a formal, system-wide process to evaluate
+
+13      these tools as potential solutions for all major transmission projects.
+
+14      Further, we recommend that the Company publicly report on the planning
+
+15      assumptions, criteria, and outcomes associated with its GET evaluations—particularly
+
+16      as it continues to receive federal support for these deployments. Such transparency
+
+17      would not only improve stakeholder confidence but position Georgia Power as a
+
+18      national leader in innovative grid planning.
+
+19   4. Evaluate      Non-Wires        Alternatives      (NWAs),       Including     SATOAs
+
+20      non-wires alternatives such as Storage as Transmission-Only Assets (SATOAs),
+
+21      distributed generation, and demand-side solutions have not been routinely assessed in
+
+22      Georgia Power’s IRP transmission planning. We recommend that the Commission
+
+23      direct Georgia Power to incorporate NWA screening into its standard project
+
+       PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                  Docket No. 56002
+                                     Page 5 of 23
+
+ 1            development process. This would include technical and economic evaluations of
+
+ 2            SATOAs as potential substitutes for traditional line or substation builds, especially in
+
+ 3            constrained or rapidly growing areas.
+
+ 4        5. Align Transmission Planning Studies with Updated IRP Load Forecasts
+
+ 5            To improve responsiveness to changing conditions, Georgia Power should either
+
+ 6            incorporate load sensitivity scenarios during the Ten-Year Plan (TYP) process or
+
+ 7            apply high-level screening in the IRP to reassess transmission needs using updated
+
+ 8            forecasts.
+
+ 9            This would allow the Company to flag material differences between earlier
+
+10            assumptions and current forecasts, especially where new large loads may accelerate
+
+11            or delay infrastructure needs. Incorporating this step can reduce the risk of over-
+
+12            building or under-building and ensure transmission investments remain aligned with
+
+13            actual system requirements.
+
+
+14   Q.   PLEASE EXPLAIN HOW THE REMAINDER OF THE TESTIMONY IS
+
+15        ORGANIZED.
+
+16   A.   Section II provides an overview of the Company’s filing as it pertains to the transmission
+
+17        investment sought. Section III discusses the 2024 Georgia Integrated Transmission System
+
+18        (“ITS”) Ten-year Plan (“TYP”), Section IV discusses Daymark’s analysis of the TYP and
+
+19        Section V provides some recommendations regarding the use of the TYP in the Company’s
+
+20        IRP. Section VI presents observations and recommendations regarding the Company’s use
+
+21        of Grid Enhancing Technologies (“GETS”).
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 6 of 23
+
+ 1   II.       OVERVIEW OF COMPANY FILING
+
+
+ 2   Q.        PLEASE SUMMARIZE THE COMPANY'S FILING RELATED TO PROPOSED
+
+ 3             TRANSMISSION INVESTMENTS.
+
+ 4   A.        Georgia Power’s 2025 IRP filing includes a comprehensive transmission plan built around
+
+ 5             the 2024 Georgia ITS TYP. The IRP’s transmission-related filing consists of:
+
+ 6             (i)    The full 2024 ITS TYP, which identifies specific transmission projects over 2024-
+
+ 7                     2033 needed to meet forecasted load growth and generation changes,
+
+ 8             (ii)   Updates on strategic transmission projects initiated since the 2023 IRP Update, and
+
+ 9             (iii) Discussion of future grid needs beyond the 10-year horizon.
+
+10             The IRP incorporates both the baseline transmission expansion identified in the 2024 TYP
+
+11             and a set of additional strategic projects developed in response to more recent system needs.
+
+12             Table 11.3 of the IRP highlights 23 strategic transmission projects—primarily 230 kV and
+
+13             500 kV lines—that were developed in coordination with ITS Participants since the 2022
+
+14             IRP. These projects aim to strengthen South-to-North transfer capability, accommodate
+
+15             future generation shifts, and support areas experiencing substantial projected load growth.
+
+16             While many of these projects were previously considered in recent TYP cycles, their
+
+17             inclusion in the IRP reflects the Company’s effort to reaffirm and advance planning for
+
+18             long-lead infrastructure needed to maintain system reliability through the early 2030s. 1
+
+19             Beyond the standard 10-year transmission planning process, the IRP describes an evolving
+
+20             approach to long-term planning. This includes early-stage modeling to identify
+
+21             infrastructure needed to accommodate rapid economic development, integrate renewable
+
+
+     1
+         2025 IRP Main Document, Table 11.3, p. 113.
+                   PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                     Docket No. 56002
+                                                       Page 7 of 23
+
+ 1             resources, and maintain grid flexibility as system conditions shift. 2 The Company indicates
+
+ 2             that this longer-term view is necessary to meet future transmission needs with sufficient
+
+ 3             lead time, and that it will increasingly inform regional coordination efforts and support
+
+ 4             strategic decision-making.
+
+ 5             Georgia Power states that these investments are needed to reliably serve approximately 8
+
+ 6             GW of projected new load by Winter 2030/31, integrate new generation additions, and
+
+ 7             remain in compliance with applicable North American Electric Reliability Corporation
+
+ 8             (“NERC”) reliability standards. 3 Through this filing, the Company requests Commission
+
+ 9             approval of the transmission plan as presented in the IRP, recognizing that while individual
+
+10             transmission projects are not approved in this docket, the overall transmission development
+
+11             strategy is an essential component of the resource plan.
+
+
+12   III.      DISCUSSION OF THE 2024 GEORGIA ITS TEN-YEAR PLAN (“TYP”)
+
+
+13   Q.        PLEASE SUMMARIZE THE 2024 GA ITS TYP PROCESS.
+
+14
+15   A.        The 2024 Georgia ITS TYP is the product of a coordinated annual transmission planning
+
+16             process conducted jointly by the ITS Participants—Georgia Power Company, Georgia
+
+17             Transmission Corporation, MEAG Power, and Dalton Utilities. The objective of the TYP
+
+18             is to identify and recommend transmission improvements necessary to reliably serve
+
+19             projected electric demand across the ITS footprint over a ten-year planning horizon, in
+
+20             accordance with NERC standards and state regulatory requirements.
+
+
+     2
+         2025 IRP Main Document, Chapter 11.2, pp. 111–112.
+     3
+         2025 IRP Main Document, Chapter 11.2, p. 111–112
+                   PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                     Docket No. 56002
+                                                       Page 8 of 23
+
+ 1             The TYP is built on a structured analytical foundation. ITS Participants contribute updated
+
+ 2             data each year, including load forecasts, generation expansion plans, power transfer
+
+ 3             commitments, and interconnection needs. This information is used to construct load flow
+
+ 4             base cases for each of the next ten years. These cases simulate steady-state system
+
+ 5             performance and are evaluated under normal and contingency (N-1) 4 conditions to identify
+
+ 6             thermal overloads, voltage violations, and stability concerns. In addition to steady-state
+
+ 7             analyses, stability and short-circuit studies are conducted to ensure the system remains
+
+ 8             secure under transient conditions and fault scenarios. 5
+
+ 9             When potential violations are identified, alternative solutions—including new lines,
+
+10             upgrades, reactive support, or operational guides—are developed and screened for cost-
+
+11             effectiveness, feasibility, and compliance with ITS planning guidelines. This solution
+
+12             identification process is iterative and informed by a set of guiding principles that prioritize
+
+13             reliability, economic efficiency, use of existing assets, and coordination among ITS
+
+14             Participants.
+
+15             The finalized TYP includes a detailed list of projects, categorized by voltage class, need
+
+16             date, and justification, and is approved through consensus among ITS Participants. The
+
+17             results of the TYP are submitted to the Georgia Public Service Commission for approval
+
+18             and are incorporated by Georgia Power into its IRP.
+
+
+     4
+       An “N-1 contingency” refers to the unexpected loss of a single system element (such as a transmission line,
+     transformer, or generator), with the expectation that the system will remain within operational limits and avoid
+     cascading failures.
+     5
+         2025 IRP Volume 3, I.T.S. Planning Procedure No. 9, p. 18-24
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                      Docket No. 56002
+                                                        Page 9 of 23
+
+ 1        In summary, the 2024 TYP ensures that transmission infrastructure keeps pace with
+
+ 2        evolving system needs, enabling the delivery of reliable and cost-effective electric service
+
+ 3        across Georgia.
+
+ 4
+
+ 5   Q.   WHAT IS THE PURPOSE OF THE 2024 GA ITS TYP IN THE CONTEXT OF THE
+
+ 6        COMPANY’S 2025 IRP?
+
+ 7   A.   The 2024 Georgia ITS TYP serves as the foundational transmission planning document
+
+ 8        that informs and supports the transmission assumptions made in Georgia Power’s 2025
+
+ 9        IRP.
+
+10        The 2024 TYP provides the starting point — establishing the transmission system's ability
+
+11        to meet known and reasonably expected reliability needs — but the 2025 IRP builds upon
+
+12        the 2024 TYP by identifying additional “strategic” projects deemed necessary to address
+
+13        more aggressive load growth and generation development scenarios that emerged after the
+
+14        TYP's finalization.
+
+15        In summary, the purpose of the 2024 ITS TYP is to form the backbone of the Company’s
+
+16        transmission reliability planning for the IRP period, while the 2025 IRP supplements it to
+
+17        account for new large load drivers and future resource integration needs that have
+
+18        developed more recently. Together, they are designed to ensure that both baseline and
+
+19        forward-looking system requirements are addressed to maintain reliable and economic
+
+20        electric service.
+
+21
+
+22   Q.   HOW DOES THE 2024 TYP ALIGN WITH, OR DIFFER FROM, THE
+
+23        COMPANY’S 2025 IRP ASSUMPTIONS?
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 10 of 23
+
+ 1   A.      While the 2024 ITS TYP forms a foundational basis for the Company’s 2025 IRP, there
+
+ 2           are key differences driven by the load forecast assumptions underlying each document.
+
+ 3           Specifically, the 2024 TYP was developed using the B2024 load forecast, 6 whereas the
+
+ 4           2025 IRP utilizes the B2025 forecast, 7 which reflects significantly higher large customer
+
+ 5           load expectations due to evolving economic development activity and updated customer
+
+ 6           commitments.
+
+ 7           Since the B2025 forecast incorporates more recent information, including additions to the
+
+ 8           large load pipeline—some areas modeled in the IRP reflect higher anticipated peak demand
+
+ 9           than those studied in the earlier TYP. This divergence illustrates the importance of
+
+10           maintaining flexibility in transmission planning to reflect current assumptions and to avoid
+
+11           under- or over-building infrastructure as system needs evolve.
+
+12
+
+13   Q.      WHAT ARE YOUR CONCERNS REGARDING THE LOAD FORECAST USED
+
+14           IN THE TRANSMISSION PLANNING ANALYSIS?
+
+15   A.      The primary concern is the unprecedented magnitude of the projected load growth and the
+
+16           associated uncertainty. Georgia Power forecasts approximately 8 GW of additional winter
+
+17           peak load by 2030/2031 compared to prior projections. Acknowledging uncertainty in the
+
+18           materialization of the Company’s load forecast, 8 the transmission plan is limited in its
+
+19           ability to precisely plan to a particular load level.
+
+20           An additional concern arises because the 2024 TYP was developed using the B2024 load
+
+21           forecast, whereas the 2025 IRP uses the updated B2025 forecast. The B2025 forecast
+
+
+     6
+       2025 IRP Volume 3, Section D1, p. 26
+     7
+       2025 IRP Main Document, Chapter 5, p.35
+     8
+       Uncertainty regarding the Company’s B2025 load forecast is discussed in a separate Staff panel
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                   Docket No. 56002
+                                                     Page 11 of 23
+
+ 1        incorporates significant revisions based on updated customer commitments and economic
+
+ 2        activity as of mid-2024. As a result, transmission studies conducted for the IRP may reflect
+
+ 3        materially higher load levels in certain areas than those used to develop the 2024 TYP.
+
+ 4        The extended duration required to fully develop the TYP further complicates timely
+
+ 5        updates in response to rapidly evolving load forecasts. Given the pace and magnitude of
+
+ 6        potential load changes, conducting additional sensitivity analyses around various plausible
+
+ 7        future scenarios would be beneficial. Incorporating scenario analysis more extensively into
+
+ 8        the TYP process would capture the impact of significant uncertainties in a timely manner,
+
+ 9        enabling more responsive planning decisions and better information-sharing during the IRP
+
+10        development process. Such proactive scenario evaluations would allow Georgia Power
+
+11        greater flexibility in aligning transmission investments with actual customer load growth
+
+12        and commitments, reducing the risk of unnecessary or premature infrastructure
+
+13        expenditures.
+
+14
+
+15   Q.   PLEASE SUMMARIZE HOW THE 2024 GA ITS TYP CASES WERE
+
+16        DEVELOPED.
+
+17   A.   The 2024 Georgia ITS TYP cases were developed through a structured, iterative process
+
+18        led by the ITS Participants, including Georgia Power Company, Georgia Transmission
+
+19        Corporation, MEAG Power, and Dalton Utilities. Each participant contributed baseline
+
+20        load forecasts, generation additions and retirements, and firm power transfer commitments
+
+21        for their respective systems. For Georgia Power specifically, the forecasts were developed
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 12 of 23
+
+ 1          using the Load Realization Model, which incorporated expected large load additions based
+
+ 2          on their probability of realization and timing. 9
+
+ 3          Initial modeling emphasized directional stress scenarios, such as heavy South-to-North and
+
+ 4          West-to-East flows. These cases were dispatched using an Economic Dispatch (“ED”)
+
+ 5          program developed by Georgia Power. 10 The ED program performs least-cost dispatch of
+
+ 6          generation resources but is explicitly not security-constrained—it does not account for
+
+ 7          transmission limitations during dispatch. This approach allows planners to identify
+
+ 8          potential system constraints that could emerge under economically optimal but electrically
+
+ 9          unrealistic conditions. 11
+
+10          Following dispatch, planners applied high-output stress tests, such as Area Max scenarios
+
+11          (full output generation scenarios in specific regions), and conducted N-1 contingency
+
+12          analyses to identify thermal overloads or voltage violations. Solutions such as new lines,
+
+13          reconductoring, substation enhancements, or reactive additions were developed and
+
+14          modeled iteratively to resolve any identified violations. This process was coordinated
+
+15          across ITS Participants to ensure alignment on joint project needs and timing.
+
+
+16   Q.     PLEASE DESCRIBE HOW LARGE LOADS ARE MODELED IN THE 2024 GA
+
+17          ITS TYP CASES.
+
+18   A.     As mentioned above, Georgia Power forecasts approximately 8 GW of load growth by
+
+19          winter 2030/2031. In the transmission studies, these loads are placed at specific substations
+
+20          according to expected size and timing. If the added load creates reliability concerns,
+
+
+     9
+       2025 IRP Main Document, Attachment E, Section E.1.6, p. 137
+     10
+        2025 IRP Volume 3, Section A.8, p. 33
+     11
+        Company Response to Docket Nos. 56002 & 56003 STF-DEA-2-5 Attachment
+                  PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                  Docket No. 56002
+                                                    Page 13 of 23
+
+ 1             upgrades are planned to address them. This method aims to align transmission investments
+
+ 2             with likely customer growth while minimizing unnecessary infrastructure.
+
+
+ 3   Q.        CAN YOU IDENTIFY TRANSMISSION PROJECTS THAT MAY NOT BE
+
+ 4             NEEDED IF LARGE CUSTOMER LOADS DO NOT FULLY MATERIALIZE OR
+
+ 5             ARE DELAYED?
+
+ 6   A.        Yes. Several strategic transmission projects identified in Georgia Power’s 2025 IRP are
+
+ 7             closely linked to assumptions regarding significant future load growth, particularly from
+
+ 8             large industrial and data center customers. If these loads do not fully materialize or are
+
+ 9             delayed, the timing and justification for some of these projects may warrant reassessment.
+
+10             Projects such as the Ashley Park–Wansley 500 kV, Farley–Tazewell 500 kV, and McGrau
+
+11             Ford–Middle Fork 500 kV lines are explicitly categorized as strategic initiatives and are
+
+12             driven in large part by forecasted regional demand growth and long-term grid flexibility
+
+13             needs. 12 These investments are intended to provide high-capacity corridors and improve
+
+14             reliability in areas with projected rapid development, particularly metro Atlanta and South
+
+15             Georgia. However, if the associated large customer developments are postponed or
+
+16             canceled, the need for immediate infrastructure buildout could diminish.
+
+17             Similarly, the Hatch–Wadley 500 kV project is referenced as a reinforcement to improve
+
+18             northward transfer capability and integrate potential generation resources in South
+
+19             Georgia. 13 However, if the associated load and generation development does not proceed
+
+20             as forecasted, the project’s justification may need to be revisited.
+
+
+     12
+          2025 IRP Volume 3 TRADE SECRET, Section D.1, p. 272-297
+     13
+          2025 IRP Volume 3 TRADE SECRET, Section D.1, p. 283
+
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                               Docket No. 56002
+                                                  Page 14 of 23
+
+ 1             As noted in the Company’s discovery responses, load additions were modeled using
+
+ 2             Georgia Power’s Load Realization Model, which includes a range of customer
+
+ 3             commitments with varying levels of certainty. Many large load projects were modeled in
+
+ 4             the IRP at full levels, whereas in earlier planning stages, they may have been omitted or
+
+ 5             included at reduced levels. This variation underscores the importance of aligning
+
+ 6             transmission investment timing with confirmed customer milestones.
+
+ 7             To ensure that proposed transmission assets are meeting load from materializing
+
+ 8             customers, it would be appropriate for the Commission to require the Company to
+
+ 9             periodically report on the development status of large customer projects that underpin
+
+10             major transmission upgrades. If such projects are delayed or canceled, the related
+
+11             transmission investments should be reconsidered for deferral or adjustment.
+
+
+12   Q.        EXPLAIN THE PURPOSE OF AREA MAX SCENARIOS IN TRANSMISSION
+
+13             PLANNING AND WHETHER THEIR USE COULD LEAD TO OVER-BUILDING.
+
+14   A.        The “Area Max” scenario is a transmission planning sensitivity in which all generators
+
+15             with long-term firm transmission service in a specific region (often referred to as a
+
+16             “generation pocket”) are modeled to operate at their full output simultaneously. 14 This
+
+17             dispatch assumption is used to identify whether sufficient transmission capacity exists to
+
+18             export generation from the area without curtailment under single-contingency (N-1)
+
+19             conditions.
+
+20             The purpose of the Area Max scenario is to ensure that generation is not "trapped" behind
+
+21             transmission constraints, especially in regions where significant new generation is
+
+
+     14
+          2025 IRP Volume 3, I.T.S. Planning Procedure No. 9, p. 4
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                      Docket No. 56002
+                                                        Page 15 of 23
+
+ 1             expected. 15 By testing the system under these conditions, the Company seeks to maintain
+
+ 2             a high standard of reliability and ensure dependable physical delivery for transmission
+
+ 3             customers.
+
+ 4             However, this approach can present a risk of overbuilding. The simultaneous full-output
+
+ 5             condition modeled in Area Max scenarios is not likely to occur frequently in real-time
+
+ 6             operations, particularly given economic dispatch practices that prioritize the lowest-cost
+
+ 7             resources and respond dynamically to system conditions. Planning to avoid any curtailment
+
+ 8             under this rare scenario can drive investments that exceed what may be needed under more
+
+ 9             probable operating conditions.
+
+10             The Company acknowledges that the goal of this planning method is to provide firm
+
+11             physical transmission service that is rarely curtailed, even in the event of transmission
+
+12             outages or generator failures. Yet this standard does not explicitly consider alternative
+
+13             operational strategies — such as redispatch, partial curtailments, or remedial action
+
+14             schemes — which might offer more cost-effective solutions in certain cases.
+
+15             In summary, while Area Max scenarios are a reasonable tool to test for worst-case
+
+16             reliability risks, their rigid application may lead to overbuilding if not balanced with
+
+17             operational flexibility and a realistic assessment of actual generator dispatch patterns.
+
+18   Q.        ARE THERE ALTERNATIVES TO INFRASTRUCTURE INVESTMENT THAT
+
+19             COULD BE CONSIDERED IN SUCH CASES?
+
+20   A.        It is recommended that operational solutions, such as Special Protection Schemes (SPS) or
+
+21             Remedial Action Schemes (RAS), be evaluated as alternatives before defaulting to major
+
+22             transmission upgrades in response to Area Max findings. In cases where an Area Max
+
+
+     15
+          2025 IRP Volume 3, I.T.S. Planning Procedure No. 9, p. 4
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                      Docket No. 56002
+                                                        Page 16 of 23
+
+ 1             contingency reveals an overload that would occur only under very unlikely conditions, a
+
+ 2             more proportionate response may involve developing operating guides, limited generator
+
+ 3             redispatch protocols, or other non-wires solutions.
+
+ 4             Further, it would be prudent that any transmission project primarily justified based on an
+
+ 5             Area Max scenario undergo additional scrutiny, including an independent review to assess
+
+ 6             whether the identified risk justifies the cost of the proposed solution. This approach would
+
+ 7             help balance system robustness with affordability, ensuring that ratepayers are protected
+
+ 8             from paying for infrastructure aimed at conditions that are unlikely to materialize with any
+
+ 9             frequency.
+
+
+10   Q.        PLEASE EXPLAIN YOUR CONCERNS WITH THE USE OF THE ECONOMIC
+
+11             DISPATCH TOOL.
+
+12   A.        The Economic Dispatch (ED) tool used by Georgia Power interfaces with power flow
+
+13             models to economically allocate generation among online units after specific scenario
+
+14             conditions are imposed, such as simulating a unit outage or maximizing output in a
+
+15             geographic area ("Area Max" cases). 16 The ED tool aims to equalize the incremental cost
+
+16             of all online generators to achieve an economically efficient dispatch under the scenario
+
+17             assumptions.
+
+18             However, the ED tool is explicitly not security constrained. It does not account for thermal,
+
+19             voltage, or stability limits on the transmission network while dispatching generation. 17
+
+
+     16
+          Company Response to Docket Nos. 56002 & 56003 STF-DEA-2-4 Attachment
+     17
+          Company Response to Docket Nos. 56002 & 56003 STF-DEA-2-5 Attachment
+                   PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                   Docket No. 56002
+                                                     Page 17 of 23
+
+ 1   Instead, the dispatch is performed first based purely on generation costs, and only afterward
+
+ 2   is contingency analysis run to identify overloads and voltage violations.
+
+ 3   Because the dispatch phase does not recognize transmission constraints, it can create highly
+
+ 4   stressed or unrealistic network conditions. Overloads or reliability violations identified
+
+ 5   after dispatch may reflect an artificially extreme dispatch scenario that would not occur
+
+ 6   under real-time operational practices, where system operators would proactively adjust
+
+ 7   generation dispatch to avoid reliability issues.
+
+ 8   As a result, the reliance on ED-driven violations may overstate the need for transmission
+
+ 9   infrastructure solutions. This planning approach implicitly assumes that any constraint
+
+10   encountered after economic dispatch must be resolved by building new facilities, rather
+
+11   than by considering operational mitigations such as redispatch agreements or temporary
+
+12   corrective actions.
+
+13   The use of a non-security-constrained ED tool is appropriate for identifying potential
+
+14   system weaknesses under stressed conditions; however, planning decisions based solely on
+
+15   these results without further risk-based evaluation can lead to unnecessary or premature
+
+16   transmission investments.
+
+17   It is recommended that transmission planning results derived from the ED analysis be
+
+18   complemented by a security-constrained dispatch analysis as a sensitivity study. Such
+
+19   security-constrained analyses explicitly include transmission constraints during the
+
+20   dispatch process, providing more realistic operational outcomes. The results of both
+
+21   dispatch methods should then be compared economically to determine whether alternative
+
+22   solutions—such as remedial action schemes, operational redispatch, or controlled
+
+
+         PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                    Docket No. 56002
+                                       Page 18 of 23
+
+ 1             curtailment—represent a more cost-effective solution compared to infrastructure upgrades,
+
+ 2             particularly for resolving infrequent or marginal transmission issues.
+
+
+ 3   IV.        THE COMPANY’S USE OF GRID ENHANCING TECHNOLOGIES SHOULD
+
+ 4              CONTINUE TO EVOLVE AS A FOCUS FOR FUTURE PLANNING
+
+
+ 5   Q.        DESCRIBE        HOW       GEORGIA        POWER        DEFINES       GRID-ENHANCING
+
+ 6             TECHNOLOGIES (GETS), AND HOW THAT COMPARES TO INDUSTRY
+
+ 7             DEFINITIONS.
+
+
+ 8   A.        Georgia Power defines Grid-Enhancing Technologies (GETs) as a portfolio of
+
+ 9             technologies designed to enhance the flexibility, efficiency, and capacity of the
+
+10             transmission system—particularly in support of integrating inverter-based resources. Some
+
+11             GETs work by increasing the physical transfer capacity of transmission assets (e.g.,
+
+12             advanced conductors and DLR), while others improve the utilization of existing
+
+13             infrastructure by managing power flows or optimizing grid topology under different
+
+14             operating conditions. The Company’s categorization includes Dynamic Line Ratings
+
+15             (DLR), modular power flow control devices, topology optimization, and the use of
+
+16             advanced conductors, following Electric Power Research Institute (EPRI) standards. 18 This
+
+17             definition is broadly consistent with the industry view adopted by organizations such as
+
+18             the National Association of Regulatory Utility Commissioners (NARUC) and the U.S.
+
+19             Department of Energy (DOE), which emphasize DLR, flow control, and topology
+
+
+     18
+          2025 IRP Volume 3, Section A.6, p19
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                               Docket No. 56002
+                                                  Page 19 of 23
+
+ 1             optimization as core GETs technologies (“Utility regulators want more grid-enhancing tech
+
+ 2             for reliability”). While some industry frameworks treat advanced conductors and energy
+
+ 3             storage as distinct categories, Georgia Power appropriately includes advanced conductors
+
+ 4             within its GETs framework, aligning with prevailing national definitions.
+
+
+ 5   Q.        HAS GEORGIA POWER EFFECTIVELY IMPLEMENTED GRID-ENHANCING
+
+ 6             TECHNOLOGIES INTO ITS TRANSMISSION PLANNING?
+
+ 7   A.        Georgia Power has made measurable progress in deploying Grid-Enhancing Technologies
+
+ 8             (GETs) across its transmission system. The Company has installed advanced conductors,
+
+ 9             deployed a STATCOM in 2024, and partnered with LineVision to pilot Dynamic Line
+
+10             Ratings (DLR) aimed at increasing real-time situational awareness and transmission
+
+11             capacity. Additionally, Georgia Power has secured $160 million in federal Department of
+
+12             Energy (DOE) funding to further support GET deployment.
+
+13             Power flow controllers have been evaluated in multiple projects—primarily at the 115 kV
+
+14             level—and were actively selected in some cases. A notable example includes the
+
+15             installation of Smart Wires’ SmartValve devices at East Villa Rica Switching Station.
+
+16             These modular flow control devices were deployed to relieve thermal constraints and defer
+
+17             the need for a more capital-intensive strategic project at XXXXXXXXX. 19 This illustrates
+
+18             a practical application where GETs were chosen to address system needs in a cost-
+
+19             effective, flexible manner.
+
+20             That said, while Georgia Power has incorporated GETs into some project evaluations, there
+
+21             is no consistent indication that these technologies are systematically screened across all
+
+
+     19
+          2025 IRP Volume 3 TRADE SECRET, Section D.1, p. 166
+                    PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                Docket No. 56002
+                                                   Page 20 of 23
+
+ 1              voltage levels or project types, including higher-voltage, load-driven infrastructure.
+
+ 2              Planning documentation does not reflect a transparent methodology for determining where
+
+ 3              and when GETs are preferred over traditional upgrades.
+
+ 4              Accordingly, Georgia Power’s efforts place it somewhere in the middle of the pack
+
+ 5              nationally—engaged and forward-looking in certain areas, but not yet at a level of
+
+ 6              integration that reflects the full potential of GETs as outlined in recent DOE studies and
+
+ 7              industry best practices. A more structured and comprehensive evaluation process would
+
+ 8              allow the Company to maximize the cost, performance, and timing benefits these
+
+ 9              technologies can offer.
+
+
+10   Q.         HOW COULD GEORGIA POWER BETTER INTEGRATE GRID-ENHANCING
+
+11              TECHNOLOGIES INTO ITS TRANSMISSION PLANNING PROCESS?
+
+12   A.         Georgia Power should formalize a structured and transparent methodology for evaluating
+
+13              GETs and non-wires alternatives (NWAs) as part of its transmission planning process.
+
+14              While the Company has considered power flow controllers in select projects and is piloting
+
+15              Dynamic Line Ratings in collaboration with LineVision, 20 these efforts have not been
+
+16              systematically applied across the broader project portfolio.
+
+17                  To improve the integration of GETs, the Company should:
+
+18                  (i) incorporate screening for GETs into each major project’s evaluation;
+
+19                  (ii) establish thresholds to assess cost-effectiveness and system impact; and
+
+20                  (iii) expand the use of DLR, power flow controllers, and topology optimization in both
+
+21                      planning studies and operations.
+
+
+     20
+          https://www.linevisioninc.com/news/linevision-deploying-advanced-grid-technology-with-georgia-power
+                     PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                                       Docket No. 56002
+                                                         Page 21 of 23
+
+ 1        Further, Georgia Power’s receipt of substantial DOE funding should come with an
+
+ 2        expectation of measurable results. The Commission should require regular reporting on
+
+ 3        GET-related impacts—such as avoided capital projects, capacity increases, and congestion
+
+ 4        mitigation—to validate that ratepayer-funded grid enhancements are yielding intended
+
+ 5        benefits.
+
+ 6        Given the scale and pace of forecasted load growth, a robust GETs strategy is essential to
+
+ 7        ensure that Georgia Power can maintain system reliability while containing costs.
+
+
+ 8   Q.   ARE THERE EXAMPLES FROM OTHER REGIONS THAT DEMONSTRATE
+
+ 9        THE BENEFITS OF GRID-ENHANCING TECHNOLOGIES?
+
+10   A.   Yes. In the Southwest Power Pool (SPP), Dynamic Line Rating pilot projects demonstrated
+
+11        the ability to increase transmission line capacity significantly, allowing the deferral of
+
+12        major rebuild projects. In the Northeast United States, utilities have deployed modular flow
+
+13        control devices to redirect flows around congested interfaces, achieving substantial
+
+14        customer savings by avoiding or delaying reconductoring projects. Internationally, the
+
+15        United Kingdom’s (UK) National Grid system extensively uses power flow control devices
+
+16        to maximize transmission asset utilization and defer costly network expansions.
+
+17        These examples confirm that Grid-Enhancing Technologies are mature, proven solutions
+
+18        that can materially enhance grid reliability and efficiency when properly integrated into
+
+19        planning and operations.
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 22 of 23
+
+ 1   Q.   DID GEORGIA POWER CONSIDER NON-WIRES ALTERNATIVES IN ITS
+
+ 2        TRANSMISSION PLANNING?
+
+ 3   A.   A review of Georgia Power’s 2025 IRP and discovery responses does not indicate that
+
+ 4        NWAs—including Storage as Transmission-Only Assets (SATOAs)—were systematically
+
+ 5        evaluated as substitutes for proposed transmission upgrades. While the Company has
+
+ 6        acknowledged growing investments in storage and demand response on the generation
+
+ 7        side, these resources were not explicitly assessed for transmission purposes.
+
+ 8        SATOAs are increasingly recognized as viable options to relieve congestion, support
+
+ 9        voltage, and defer traditional infrastructure. In principle, Georgia Power could leverage
+
+10        such solutions to address localized reliability needs, particularly in areas facing large
+
+11        industrial load growth. However, there is no evidence in the record of technical or
+
+12        economic evaluation of battery-based NWAs for any transmission project, suggesting a
+
+13        missed opportunity to consider more flexible or cost-effective alternatives.
+
+
+14   Q.   DOES THIS CONCLUDE STAFF’S TESTIMONY?
+
+15   A.   Yes.
+
+
+              PUBLIC DISCLOSURE Direct Testimony of Douglas A. Smith and Sasikumar Kannan
+                                         Docket No. 56002
+                                            Page 23 of 23

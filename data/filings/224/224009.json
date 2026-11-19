@@ -1,0 +1,55 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105324,
+      "bytes": 72963,
+      "name": "All-Source & Supplemental Resources Certifications - Direct Testimony Supplemental Filing COS (Executed).pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224009/105324"
+    },
+    {
+      "attachment_id": 105325,
+      "bytes": 132455,
+      "name": "All-Source Supplemental Resources Certifications - Direct Testimony Supplemental Filing Letter.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/224/224009/105325.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224009/105325"
+    },
+    {
+      "attachment_id": 105326,
+      "name": "All-Source & Supplemental Resources Certifications - Direct Testimony Supplemental Filing TS Assertion (Executed).pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224009/105326"
+    },
+    {
+      "attachment_id": 105327,
+      "bytes": 180754,
+      "name": "Supplemental Resources Application Figures 3 4 Workpaper - Updated for B26 Load Forecast Testimony.xlsx",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224009/105327"
+    },
+    {
+      "attachment_id": 105328,
+      "bytes": 923623,
+      "name": "2025.08.25 LRM v2506 (B26 Final Version) Clean Copy - PD Version.xlsx",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224009/105328"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Direct Testimony Supplemental Filing",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 224009,
+  "filed_date": "2025-09-18",
+  "harvested": "2026-11-19",
+  "received_date": "2025-09-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=224009"
+}

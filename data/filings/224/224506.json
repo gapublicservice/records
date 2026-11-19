@@ -1,0 +1,33 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105769,
+      "bytes": 1150869,
+      "name": "TN_JKA_2025_DirectTestimony_final_PUBLIC.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/224/224506/105769.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224506/105769"
+    },
+    {
+      "attachment_id": 105770,
+      "bytes": 632297,
+      "name": "TN_JKA_2025_DirectTestimony_final_PUBLIC.docx",
+      "text": "docx",
+      "text_file": "data/text/224/224506/105770.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224506/105770"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY and EXHIBITS OF TOM NEWSOME, PE, CFA PHILIP HAYET and LEAH WELLBORN",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 224506,
+  "filed_date": "2025-11-13",
+  "harvested": "2026-11-19",
+  "received_date": "2025-11-13",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=224506"
+}

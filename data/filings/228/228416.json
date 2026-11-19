@@ -1,0 +1,30 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109676,
+      "bytes": 791366,
+      "name": "hearing_request_responses_public_disclosure.zip",
+      "text": "zip (5 read, 4 not read, 3 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228416/109676.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228416/109676"
+    },
+    {
+      "attachment_id": 109678,
+      "name": "Verification Letter TS - Signed.pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228416/109678"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company?s Hearing Request Responses",
+  "dockets": [
+    57171
+  ],
+  "document_id": 228416,
+  "filed_date": "2026-09-11",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228416"
+}

@@ -1,0 +1,50 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109277,
+      "bytes": 11013695,
+      "name": "DKT 57171 STF-JKA-2 PD.zip",
+      "text": "zip (16 read, 61 not read, 16 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228123/109277.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228123/109277"
+    },
+    {
+      "attachment_id": 109278,
+      "bytes": 31996,
+      "name": "STF-JKA-2-1.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228123/109278.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228123/109278"
+    },
+    {
+      "attachment_id": 109279,
+      "bytes": 74697,
+      "name": "STF-JKA-2 Affidavit.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228123/109279.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228123/109279"
+    },
+    {
+      "attachment_id": 109280,
+      "bytes": 59938,
+      "name": "STF-JKA-2-1.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228123/109280.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228123/109280"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 57171 STF-JKA-2 Data Request Responses",
+  "dockets": [
+    57171
+  ],
+  "document_id": 228123,
+  "filed_date": "2026-08-24",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228123"
+}

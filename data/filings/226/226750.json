@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108017,
+      "bytes": 4485757,
+      "name": "226750.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226750/108017"
+    },
+    {
+      "attachment_id": 108029,
+      "bytes": 219455,
+      "name": "FCR-27 Short Order.docx",
+      "text": "docx",
+      "text_file": "data/text/226/226750/108029.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226750/108029"
+    }
+  ],
+  "company": "GPSC",
+  "description": "Short Order Adopting Stipulation",
+  "dockets": [
+    56765
+  ],
+  "document_id": 226750,
+  "filed_date": "2026-05-28",
+  "harvested": "2026-11-19",
+  "received_date": "2026-05-28",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226750"
+}

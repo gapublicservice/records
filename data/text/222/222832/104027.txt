@@ -1,0 +1,270 @@
+===== DKT 56002 & 56003 STF-WG-3 PD/DRSUM 56002 & 56003 STF-WG-3 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      May 29, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-WG-3
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-WG-3
+2
+COMPLETE
+NONE
+56002 & 56003
+STF-WG-3
+3
+COMPLETE
+NONE
+56002 & 56003
+STF-WG-3
+4
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-WG-3
+5
+COMPLETE
+TRADE SECRET
+`
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3 Verification.pdf =====
+
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-1.docx =====
+STF-WG-3-1
+
+Question: 
+
+Referring to the DER Customer programs approved in the 2023 IRP Update (DCL-1):
+
+Please provide economic dispatch dates and durations since installation.
+Please provide service interruption dispatch dates and durations since installation.
+Please provide customer payments charged and calculation details since installation.
+
+Response:
+
+To date, no customers are enrolled in the DER Colocation Program (“DCL-1”). Accordingly, there is no data to provide in response to subparts (a), (b), and (c). 
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-2.docx =====
+STF-WG-3-2
+
+Question: 
+
+Referring to the new DER Customer program, DCO-1, proposed in the 2025 IRP:
+
+Please provide details for how the credit is calculated.
+What would the credit per MW or per MWh have been if calculated for the period January 1, 2024, to December 31, 2024, per the credit calculation detail?
+
+Response:
+
+The DER Customer Owned Program (“DCO-1”) was approved in the 2023 IRP Update, not proposed in the 2025 IRP.
+
+In general, to calculate the credit for DCO-1: 
+Identify the DER’s capacity rating (MW).
+Calculate the levelized capacity value ($/MW). 
+Calculate the capacity value by taking the Retail Capacity Price Forecast (“RCPF”) [$/kW-yr] from the in-service year through the term of the requested agreement.
+Levelize these annual values with an appropriate discount rate. 
+Multiply by 75%. 
+Calculate the levelized energy value (if applicable) ($/MW).
+Calculate the energy value [$/kW-yr] based on the forecasted margin between the DER and a generic peaking resource.
+Levelize these annual values with an appropriate discount rate. 
+Multiply by 75%.
+Sum the capacity and energy values from Steps 2 and 3 ($/MW). 
+Multiply the capacity rating (Step 1) by the levelized DER system value (Step 4) and divide by 12 to determine the fixed monthly credit for the term of the agreement ($). 
+
+In order to accurately calculate the credit value during this time period, certain variables, as outlined under the response to subpart (a), would need to be identified, including:
+Resource type
+Resource capacity
+Resource in-service date
+Contract duration
+Fuel type and costs
+
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-3.docx =====
+STF-WG-3-3
+
+Question: 
+
+Referring to the new DER Customer program, LCO-1, proposed in the 2025 IRP:
+
+Please provide details for how the credit is calculated with an example.
+How does this compare for demand response credits for DPEC-4?
+
+Response:
+
+In general, to calculate the credit for the Large Customer Owned Resiliency (“LCOR”) Program:  
+Establish the amount of demand response the customer can provide by using on-site eligible generation. 
+Calculate the levelized DER capacity value, similar to the DER Customer Owned Program (“DCO-1”) calculation in response to STF-WG-3-2(a). 
+Calculate the capacity value by taking the Retail Capacity Price Forecast (“RCPF”) [$/kW-yr] from the in-service year through the term of the requested agreement. 
+Levelize these annual values with an appropriate discount rate. 
+Multiply by 75%.
+Multiply the demand response capacity (Step 1) by the levelized DER capacity value (Step 2) and divide by 12 to determine the fixed monthly credit for the term of the agreement.
+
+Theoretically, if the customer has a firm base load of 100 MW and commits to reduce to 50 MW during a demand response event, the capacity credit would be derived from the difference between the firm load and the demand response commitment (i.e., 100 MW -50 MW = 50 MW). With an assumed $100/kW-yr levelized capacity value, the resulting monthly credit value would be (50,000 kW x $100/kW-yr x 0.75 ÷ 12 months/yr) = $312,500/mo. That said, specific parameters regarding customer load and demand reductions can affect credit value and will be identified in the customer specific agreement. 
+
+Demand response credits for the Demand Plus Energy Credit (“DPEC”) program have been reviewed and established during rate case proceedings and outlined in the current DPEC-5 tariff. 
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-4 Attachment PUBLIC DISCLOSURE.docx =====
+
+
+This file has been redacted in its entirety.
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-4.docx =====
+STF-WG-3-4
+
+Question: 
+
+Please provide an update to 44160 Attachment STF-WG-1-1(b) Trade Secret (non-networked circuit data sheet, including capacity and installed DER by circuit) as of December 31, 2024.
+
+For each circuit, add a column with the total amount of DER export output in MW as of December 31, 2024.
+
+Response:
+
+Please see STF-WG-3-4 Attachment TRADE SECRET. Column Y includes Installed DER Capacity in MW as of December 31, 2024.
+
+===== DKT 56002 & 56003 STF-WG-3 PD/STF-WG-3-5 PUBLIC DISCLOSURE.docx =====
+STF-WG-3-5
+
+Question: 
+
+Refer to STF-WG-2-6 filed in this docket. For each of the 28 utility-scale systems listed:
+
+Identify any that are installed on the distribution system, and for each, please identify the distribution circuit on which the utility-scale system is installed.
+Identify the operating system (SCADA, EMS, AMDS, etc.) used to control the utility-scale DER installation as of December 31, 2024.
+
+Response:
+
+The table from the Company’s response to STF-WG-2-6 has been updated to include distribution circuits for the three utility scale projects that are interconnected to Georgia Power’s distribution system. 
+
+Project
+Peak AC Capacity (MW)
+Interconnection
+Circuit
+WADLEY SOLAR, LLC
+260.0
+Transmission
+ 
+COOL SPRINGS SOLAR, LLC
+213.0
+Transmission
+ 
+TWIGGS COUNTY SOLAR, LLC
+200.0
+Transmission
+ 
+DECATUR SOLAR ENERGY CENTER
+200.0
+Transmission
+ 
+HICKORY PARK SOLAR, LLC
+195.5
+Transmission
+ 
+SOUTHERN OAK SOLAR ENERGY CENTER
+160.0
+Transmission
+ 
+QUITMAN SOLAR, LLC
+150.0
+Transmission
+ 
+QUITMAN II SOLAR, LLC
+150.0
+Transmission
+ 
+WASHINGTON COUNTY,LLC
+150.0
+Transmission
+ 
+DOUGHERTY COUNTY (C&I REDI)
+120.0
+Transmission
+ 
+WHITE PINE SOLAR LLC
+101.3
+Transmission
+ 
+SOUTHERN POWER BUTLER SOLAR
+100.0
+Transmission
+ 
+SOUTHERN POWER DECATUR PARKWAY SOLAR
+79.9
+Transmission
+ 
+WHITE OAK SOLAR
+76.5
+Transmission
+ 
+TANGLEWOOD (C&I REDI)
+57.5
+Transmission
+ 
+LIVE OAK SOLAR
+51.0
+Transmission
+ 
+SIMON SOLAR FARM LLC
+30.0
+Transmission
+ 
+SOUTHERN POWER
+30.0
+Transmission
+ 
+SOUTHERN POWER BUTLER SOLAR
+20.0
+Transmission
+ 
+DOMINION RESOURCES,INC RICHLAND SOLAR CENTER
+20.0
+Transmission
+ 
+OLD MIDVILLE ROAD SOLAR FACILITY IC-393
+20.0
+Transmission
+ 
+SOUTHERN POWER DECATUR COUNTY SOLAR
+18.9
+Transmission
+ 
+SOLAR GLYNN LLC
+17.7
+Transmission
+ 
+SDD SOLAR PROJECT 1 LLC
+16.0
+Transmission
+ 
+RINCON SOLAR 1
+16.0
+Transmission
+ 
+DUBLIN SOLAR I, LLC
+4.1
+Distribution
+REDACTED
+GA SOLAR 2 LLC
+3.0
+Distribution
+REDACTED
+HSH PEMBROKE LLC
+1.0
+Distribution
+REDACTED
+Total
+2,461.3
+ 
+ 
+
+As of December 31, 2024, SCADA is the operating system used to control the utility scale DER installations.

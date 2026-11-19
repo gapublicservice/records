@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103628,
+      "bytes": 466379,
+      "name": "56003.Barbe-Cooper-Spellman.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222514/103628.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222514/103628"
+    },
+    {
+      "attachment_id": 103629,
+      "bytes": 1250333,
+      "name": "56003.Barber-Cooper-Spellman.Exhibits.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222514/103629.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222514/103629"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY AND EXHIBITS OF JAMIE BARBER, NICK COOPER, AND RICHARD F. SPELLMAN",
+  "dockets": [
+    56002
+  ],
+  "document_id": 222514,
+  "filed_date": "2025-05-05",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-05",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222514"
+}

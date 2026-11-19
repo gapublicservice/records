@@ -1,0 +1,39 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109672,
+      "bytes": 1455686,
+      "name": "dkt_56002_semi-annual_nuclear_uprate_rpt_6_2026_pd.zip",
+      "text": "zip (6 read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228414/109672.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228414/109672"
+    },
+    {
+      "attachment_id": 109673,
+      "name": "Cover Letter 06-30-2026 TS (stamp).pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228414/109673"
+    },
+    {
+      "attachment_id": 109674,
+      "bytes": 52869,
+      "name": "Cover Letter 06-30-2026 PD (stamp).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228414/109674.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228414/109674"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Semi-Annual Nuclear Uprate Report 6 2026",
+  "dockets": [
+    56002
+  ],
+  "document_id": 228414,
+  "filed_date": "2026-09-11",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228414"
+}

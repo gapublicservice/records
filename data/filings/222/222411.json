@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103577,
+      "bytes": 252172,
+      "name": "STF-WG-3.DR-56002 & 56003.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222411/103577.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222411/103577"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-WG-3)",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222411,
+  "filed_date": "2025-04-30",
+  "harvested": "2026-11-19",
+  "received_date": "2025-04-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222411"
+}

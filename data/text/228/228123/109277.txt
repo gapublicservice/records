@@ -1,0 +1,359 @@
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-3.docx =====
+STF-JKA-2-3
+
+Question: 
+
+Refer to the July 14th data production and the RTP Incremental Loads for Historic Period_TRADE SECRET.xlsx.
+
+a.If the Company has not produced an hourly incremental RTP load forecast, please explain how the Company developed its Aurora load forecast in the last IRP case, inclusive of RTP customers' load?
+b.If the Company has not produced an hourly incremental RTP load forecast, please explain if the Company would assume equal load in every hour of the month?
+c.In the RTP revenue production process described in STF-JKA-8-8 in Docket 56765, did the Company develop a monthly RTP credit rate based on an equal weighting of all RTP fuel credit hours in the month? Please explain.
+
+Response:
+
+The forecast used in Aurora is described in detail in Technical Appendix Vol.1, Section 2 of the 2025 Integrated Resource Plan, filed in Docket No. 56002. In summary, monthly energy sales (MWh) forecasts are produced at the customer class level. The commercial, industrial, and MARTA class energy sales forecasts, which are inclusive of RTP loads, are then spread to estimated hourly shapes by class. The class level hourly load models are also regression based and the resulting hourly load is then used in Aurora.
+
+For budgeting purposes, the monthly incremental kWh and an average of RTP prices are used as a simplifying assumption; however, the Company recognizes that load will not be equal in every hour. 
+
+For revenue forecasting used in budget projections, the Company calculates the monthly average of the hourly RTP fuel credits. The Company also calculates the monthly average of total RTP prices. The difference between the average monthly total RTP price and the average monthly RTP fuel credit is the base, or non-fuel RTP price. Each resulting monthly average price components, base and fuel credit, are applied to the monthly RTP kWh projections to determine the base RTP revenue and the RTP fuel credit revenue forecasts.
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-11.docx =====
+STF-JKA-2-11
+
+Question: 
+
+Refer to the Company’s response to STF-JKA-10-8 in Docket 56765.
+
+Provide the hourly system Opportunity Interchange Energy Rate and MWh sales for each hour of the historic period.  
+To the extent that each sale was derived with its own “delta P’s” methodology, please explain if the process has ever been conducted to assess the impact of RTP sales.  If not, why not?
+
+Response:
+
+a.The Georgia Power allocation of the hourly system Opportunity Interchange Energy Rate and MWh sales for each hour of the historic period are provided in STF-JKA-2-11 Attachment.
+
+b.The Opportunity Interchange calculations are performed for short-term external market sales made by the system. These sales are placed in the dispatch stack above the system firm obligations. The system firm obligations include the Georgia Power real time pricing (“RTP”) loads (both customer baseline load (“CBL”) and Incremental). Since the RTP loads are part of the system firm obligations, no assessment of impact has been made between RTP sales and system external market sales.
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-10.docx =====
+STF-JKA-2-10
+
+Question: 
+
+Refer to the Fuel Cost Recovery Monthly Over/Under Report in Docket No. 3382-U. Please explain why beginning in December 2025, the Company started including wholesale fuel revenues into the total fuel revenue line item?
+
+Response:
+
+The Company included wholesale fuel revenues in error from December 2025 to June 2026. While wholesale fuel revenues are included in the Fuel Cost Recovery (“FCR”) over/under calculation to reduce the retail obligation of fuel costs, the referenced column within the FCR Monthly Over/Under Report should have only included retail fuel revenues. Please see STF-JKA-2-10 Attachment for the most recent FCR Monthly Over/Under Report for July 2026, corrected to exclude wholesale fuel revenues.
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-2.docx =====
+STF-JKA-2-2
+
+Question: 
+
+Refer to the July 14th data production and the historic GPCRTP files provided and the Company’s transmittal letter that identifies various data discrepancies found while preparing the 45-day data production.
+Provide the first hour of the GPCRTPJanuary 2023 Trade Secret.xlsx in EPT. The data currently begins at 12:00 a.m. CPT on January 1, 2023. Provide the preceding hour to show the first full 24 hours of 1/1/2023 in EPT. 
+Refer to GPCRTPNovember2023 TRADE SECRET.  Why did the Company not provide a 2:30 time interval to account for the time change as it did for 2024 and 2025?  Provide the data for any daylight saving hours required to complete the data set.
+Please provide side by side data that aligns the hourly RTP fuel credit calculation data with RTP customer load data (CBL vs. incremental), with GPC load, and with SoCo system load.
+
+Response:
+
+a.The data for the first hour of January 2023 in EPT is attached as STF-JKA-2-2 Attachment A.
+
+b.The file GPCRTPNovember2023 TRADESECRET.xlsx does include the extra 25th hour for the Fall daylight savings time day. In 2023, there is an hour with a datetime of 11/5/23 6:00 UTC (which is 11/5/23 1:00 CPT) and a separate hour with a datetime of 11/5/23 7:00 UTC (which is the second hour also labeled 11/5/23 1:00 CPT). These are in Excel rows 99 and 100 in the “summary” tab. Between November 2023 and November 2024, the Company changed the labeling of the repeated hour to be labeled with a 1:30 CPT to make it easier to distinguish the extra hour.
+
+c. Please see STF-JKA-2-2 Attachment B for the side-by-side hourly historic data of the real time pricing (“RTP”) fuel credit and RTP incremental load included in the 45-day data production, Georgia Power loads, RTP CBL loads, and System loads. Please note, the historic RTP incremental load provided in the attachment corrects the previously provided RTP incremental load that was included in the 45-day data production in Docket No. 56765. 
+
+Please see STF-JKA-2-2 Attachment C for the side-by-side hourly projected data of the RTP fuel credit included in the 45-day data production, Georgia Power loads, and System loads. The Company does not forecast RTP incremental and CBL load on an hourly basis. Please see the Company’s response to STF-JKA-4-11 in Docket No. 56765 for the monthly forecast of RTP incremental load and see STF-JKA-2-2 Attachment D for the monthly forecast of CBL RTP load. 
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-9.docx =====
+STF-JKA-2-9
+
+
+Question:
+
+Refer to the Company’s response to STF-PIA-10-16 in Docket 56765, which describes the incremental RTP fuel revenues and Incremental RTP Fuel MWhs.
+Please explain if this includes both CBL and incremental RTP fuel revenues and MWhs.  If so, provide the breakdown on both MWh and revenues for both portions.
+Please reconcile the amounts provided in the attachment to STF-PIA-6-1 to the amounts provided in the attachment to STF-JKA-3-4. Specifically, explain why for June 2023, the attachment to PIA-6-1 shows “$69,118,760” and the attachment to STF-JKA-3-4 shows “$25,510,418”.
+
+Response:
+
+STF-JKA-10-6 in Docket No. 56765 only includes incremental Real Time Pricing (“RTP”) fuel MWh associated with incremental RTP fuel revenues provided in STF-JKA-4-2 Attachment B in Docket No. 56765. Please see STF-JKA-2-9 Attachment for both incremental and Customer Baseline Load (“CBL”) RTP fuel revenues and MWh for the period of January 2023 through December 2025. In responding to this data request, the Company discovered the incremental RTP fuel MWh included in the Company’s responses to STF-JKA-10-6 and STF-JKA-4-5 in Docket No. 56765 were incorrect values. STF-JKA-2-9 Attachment provides the corrected values of incremental RTP fuel MWh. The revenue dollar values were not impacted.
+
+In the Company’s response to STF-PIA-6-1 in Docket No. 56765, a column in STF-PIA-6-1 Attachment was mislabeled as “Incremental RTP Fuel Revenues” where it should have been labeled “Total RTP Fuel Revenues.” The values provided were total RTP fuel revenues, including both incremental and CBL RTP fuel revenues, as requested in STF-PIA-6-1. STF-JKA-3-4 in Docket No. 56765 provides only Incremental RTP Fuel Revenues. Please see STF-JKA-2-9 Attachment for both incremental and CBL RTP fuel revenues. 
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-5.docx =====
+STF-JKA-2-5
+Question:
+Refer to the Company’s response to STF-JKA-10-2 in Docket 56765, which describes “FuelAverageRate – Includes fuel commodity costs and related fuel supply costs, including transportation costs, dust suppression costs, railroad car maintenance costs, applicable taxes, and any costs associated with inventory minimum commitments, where applicable. Please see STF-JKA-10-2 Attachment D for a breakdown of the marginal fuel cost components.
+Provide the monthly marginal coal price breakdown file (STF-JKA-10-2 Attachment D) for all months of the historic FCR-27 period (2023-2025).
+Please provide a description of the column headers in “STF-JKA-10-2 Attachment D” and explain how the pasted values in columns C through K were derived.
+Please confirm that the Company’s description includes railroad car maintenance costs but not rail car leases.  Please explain if rail car leases are included in the average fuel rate and/or the composite fuel rate.  Please explain if rail transportation is included in the average fuel rate and/or the composite fuel rate.
+Refer to the Company’s attachment STF-JKA-6-2-Attachment B TRADE SECRET.  The Company derives a Rail Car Lease Expense per ton.  Is this rate used in the dispatch and captured in the marginal coal price breakdown STF-JKA-10-2 Attachment D? 
+Provide the same information as provided in STF-JKA-6-2 attachments in Docket 56765 for Bowen.
+
+Response:
+Please see STF-JKA-2-5 Attachments A through C.
+
+The descriptions of headers for columns C through K and the basis for how these values are determined are provided below:
+FOB $/Ton – Fee on Board or base price for the commodity loaded in the railcar. This rate is determined by published market price, existing contract price, quotes from coal suppliers, or a combination of one or more of those sources. 
+Dust Adder $/Ton – Price for coal topper additive for all Powder River Basin coal cars. This rate is derived from coal suppliers on an annual basis.  
+% Tax FOB – % State Tax on Coal Commodity. This is a statutory rate set by the State of Georgia.  
+Trans $/Ton – Transportation rate to ship commodity to Plant. This cost is derived based on the current contract rate. 
+M&T $/Ton – Maintenance and taxes for use of railcars. This rate is calculated using a three-year historical average of actual maintenance and tax costs. 
+
+Rail car maintenance costs and rail transportation costs are included in the “FuelAverageRate” for coal units. Rail car leases are not included in either the “FuelAverageRate” or the “CompositeAverageRate.” 
+
+No, rail car lease expense is not used in determining dispatch and is not included in the marginal coal price breakdown included in STF-JKA-10-2 Attachment D.
+
+The Company believes Staff intended to reference STF-JKA-5-2 and not STF-JKA-6-2 in Docket No. 56765. Please see STF-JKA-2-5 Attachments D and E.
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-4.docx =====
+STF-JKA-2-4
+Question:
+Refer to the Company’s response to STF-JKA-10-1 in Docket 56765, which seeks to understand which costs in the FCR balance are not reflected in the dispatch protocols and average marginal fuel costs (variable) and therefore considered “fixed” like FT costs. The Company’s response to STF-JKA-10-11 identified 11 categories of costs.  For each category of costs, please identify all sub-categories of costs that are captured in the Company’s average marginal fuel cost or AIER metric, and which are not.  Specifically, explain if the identified cost is considered in the Company’s AverageFuelRate (Column O) or CompositeFuelRate (Column N) as shown in the “details” tab of the July 14th data production files.  If a cost is partially considered, please explain.
+Steam – Coal.  STF-JKA-5-2.  
+Commodity Coal Cost
+Sales Tax
+Rail Transportation
+Rail Car Maintenance
+Rail Car leases
+Steam – Gas. STF-JKA-5-3
+Firm Transportation Costs (MFRH 12)
+Nuclear – STF-JKA-5-8
+120.1 In-Process Conversion (STF-JKA-5-8 Attachment A,C)
+120.1 In-Process Enrichment (STF-JKA-5-8 Attachment A,C)
+120.1 In-Process Fabrication (STF-JKA-5-8 Attachment A,C)
+120.1 In-Process E&S (STF-JKA-5-8 Attachment A,C)
+120.1 In-Process Sales Tax (STF-JKA-5-8 Attachment A,C)
+120.1 In-Process AFUDC  (STF-JKA-5-8 Attachment A,C)
+Fuel Costs (STF-JKA-5-8 Attachment B)
+Dry Cask Storage (STF-JKA-5-8 Attachment B)
+Hedges STF-JKA-2-3, MFRH-10
+Hedging gains/losses
+Emissions Allowances, MFRH-16
+Are there any other categories of costs that the Company includes in the FCR balance that have no impact on the marginal replacement fuel cost metric (e.g. renewable programs)?  Please identify all categories of costs that are included in the FCR balance but not contemplated in the AverageFuelRate or CompositeFuelRate components.
+
+Response:
+Steam – Coal
+Commodity Coal Cost – Included in Column O “FuelAverageRate”
+Sales Tax – Included in Column O “FuelAverageRate”
+Rail Transportation – Included in Column O “FuelAverageRate”
+Rail Car Maintenance – Included in Column O “FuelAverageRate”
+Rail Car leases – Not included in marginal fuel costs or AIER. 
+Steam – Gas
+Firm Transportation Costs – Not included in marginal fuel costs or AIER. 
+Nuclear
+The cost components of nuclear fuel costs (i.e., uranium, conversion, and enrichment) are included in marginal fuel costs once construction is completed and the fuel is loaded into the reactor. However, during the construction period when these costs are recorded to Account 120.1 - Nuclear fuel in process of refinement, conversion, enrichment and fabrication, these costs are not included in marginal fuel costs. 
+Conversion – Included in Column O “FuelAverageRate”
+Enrichment – Included in Column O “FuelAverageRate”
+Fabrication – Included in Column O “FuelAverageRate”
+E&S – Included in Column O “FuelAverageRate”
+Sales Tax – Included in Column O “FuelAverageRate”
+AFUDC – Included in Column O “FuelAverageRate”
+Fuel Costs – The “Fuel Costs” referenced in STF-JKA-5-8 Attachment B are not a separate component of nuclear fuel costs, but represents the total costs of the subcategories listed above as well as the uranium commodity costs, which are included in Column O “Fuel AverageRate.” 
+Dry Cask Storage – Included in Column O “FuelAverageRate”
+Hedges
+Hedging gains/losses – Not included in marginal fuel costs or AIER. 
+Emissions Allowances – Included in Column N “CompositeAverageRate”
+The following cost categories are included in FCR but are not included in marginal replacement fuel costs: 
+Natural gas firm transportation
+Natural gas storage
+Natural gas hedging gains/losses
+Natural gas gains/losses on resales
+Coal quality penalties and premiums
+Coal rail car leases
+Coal rail car shortfall/liquidated damages costs
+Start-up costs for Purchased Power Agreements (PPAs)
+Energy costs associated with non-dispatchable PPAs (Solar, Wind, Biomass, and Qualifying Facilities)
+FCR over/under-balance carrying costs
+Income Qualified Discount (IQD) 
+Non-subscription renewables program expenses
+Corporate overhead and labor
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-8.docx =====
+STF-JKA-2-8
+
+
+Question: 
+
+Refer to the Company’s response to STF-JKA-10-16 in Docket 56765.  
+Provide the incremental RTP loads during the historic period by month at each voltage level.
+Please confirm that the RTP revenues credited to the FCR would have been based on the standard FCR rate, and not the time of use based rate.
+Please explain if the FCR rate and therefore FCR credit would have included all costs, such as hedging, renewables, and FT.
+How were over/under recovery amounts considered in the FCR average rate and the RTP fuel credit methodology before the 2010 rate case? Please explain.
+Provide the RTP revenue that would have been credited to the FCR under the previous methodology, which assigned credits based on the prevailing FCR rate.
+
+Response:
+
+Please see STF-JKA-2-8 Attachment for the incremental RTP loads used in developing the revised FCR rates in the Company’s response to STF-JKA-10-16.
+
+The FCR is the current default fuel rate but it is possible that the Commission could have included RTP rates in the TOU-FCR applicability list under this hypothetical scenario. 
+
+The FCR rate is derived by taking all recoverable fuel costs, including hedge gains and losses, renewable program expenses, and firm transportation, less wholesale fuel revenues and incremental RTP revenues and allocating them across all forecasted non-RTP retail kWh in the test period. 
+
+Prior to the 2010 rate case, there was not a separate RTP fuel credit methodology and thus the rate used to determine RTP revenues booked to fuel was the FCR rate. The FCR average rate was a combination of part A and part B rate, which included recovery of any prior over/under-recovered fuel balance. 
+
+Please see STF-JKA-2-8 Attachment for the revenues that would have been credited to fuel for the incremental RTP load at the FCR rate.
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-7.docx =====
+STF-JKA-2-7
+
+Question:
+
+Refer to the Company’s response to STF-JKA-10-7 in Docket 56765, which notes:
+
+“Bottom of stack” (BOS) represents the marginal cost of serving the collective requirements of the operating companies. “Top of stack” (TOS) represents the marginal costs of serving the collective requirements of the operating companies plus any additional opportunity sales. There is no specific “GPC BOS.” AIER is the settlement BOS lambda.
+Please confirm that in the Company’s response to STF-JKA-8-1, the Company’s “TotalBosGeneration” on the “Hourly Summary” tab represents the costs for only the GPC units and not every unit for the entirety of the system and all operating companies.  
+Confirm that the derivation of the TotalBosGenerationCost is developed by taking the BOS generation by unit and multiplying it by the rate defined by the RtpRateRule column (Tab: Details, column U).  For units labeled composite, the BOS generation is multiplied by the CompositeAverageRate. For units labeled fuel, the BOS generation is multiplied by the FuelAverageRate.  For units labeled Zero, the BOS generation is multiplied by zero.  Then all the unit dollars are summed for the hour.
+Confirm that “AdjustedTotalBosGenerationCost” modifies the TotalBosGenerationCost by interchange costs and energy at the AIER rate, including SO2 and NOx costs.
+
+Response:
+
+Confirmed. The response to STF-JKA 8-1 in Docket No. 56765 only included the generation for Georgia Power units.
+
+Confirmed. The derivation of the TotalBosGenerationCost is developed by taking the bottom of stack (“BOS”) generation by unit and multiplying it by the rate defined by the RTPRateRule column (Tab: Details, column U). 
+
+Confirmed. For units labeled composite, the BOS generation is multiplied by the CompositeAverageRate.
+
+For units labeled fuel, the BOS generation is multiplied by the sum of the (FuelAverageRate, SO2AverageRate and the NoxAverageRate). The RTPRateRule says fuel, but for Georgia Power owned units, fuel and emissions costs are included, consistent with the accounting treatment in the fuel clause. The RTPRate in column T for units with a fuel rule in column U is the sum of fuel and emissions.
+
+Confirmed. For units labeled Zero, the BOS generation is multiplied by zero. Then all the unit dollars are summed for the hour.
+
+For pool purchases, the “AdjustedTotalBosGenerationCost” modifies the TotalBosGenerationCost by interchange costs and energy at the AIER rate, including all components of AIER, Fuel, variable operations and maintenance (“VOM”), fuel handling, SO2 and NOx costs.
+
+For pool sales, the “AdjustedTotalBosGenerationCost” modifies the TotalBosGenerationCost by interchange costs and energy at the AIER rate, but only the AIER cost components of fuel, SO2 and NOx costs. This is consistent with the accounting treatment of the fuel clause.
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-15 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-15
+
+Question: 
+
+Refer to STF-JKA-10-4 Attachment B.
+
+a.There appear to be 8 cost types across the 4 identified accounts (Commodity, Firm Transportation, Storage Demand, Measurement Support, Gain/Loss on Resales, Maintenance, Georgis Generation Common, Tech Square Microgrid). Please provide a description of each cost type and identify which of these accounts and cost types are included in the FCR balance and which ones are included in the Company’s derived AverageFuelRate provided in the July 14th data production.
+b.Please confirm that the costs included under the cost type “Firm Transportation” in these accounts total to xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+c.Please reconcile the amounts in part b above to the totals in MFRH- 12. Please explain if/how storage is included in the Firm Transportation totals.
+
+Response:
+
+Commodity (Variable)
+Costs associated with the procurement and delivery of natural gas for electric generation. This category includes the cost of the natural gas commodity as well as variable transportation and storage charges that are incurred based on volumes moved or services utilized.
+
+Firm Transportation
+Costs associated with securing firm pipeline transportation capacity necessary to deliver natural gas to generating facilities. This category generally includes fixed reservation charges and other transportation-related adjustments associated with firm transportation arrangements.
+
+Storage Demand
+Costs associated with securing contracted natural gas storage capacity. This category generally includes fixed reservation or demand charges and other storage-related adjustments associated with storage service arrangements.
+
+Measurement Support
+Costs associated with gas measurement, metering, balancing, and related operational support services required to administer and verify natural gas deliveries.
+
+Gain/Loss on Resales
+Net gains or losses resulting from the resale of natural gas.
+
+MaintenanceCosts associated with maintenance activities related to fuel supply, transportation, storage, and other fuel-related infrastructure or services.
+
+Georgia Generation Common
+Fuel-related costs that support Georgia Power's generation fleet and are allocated across generating facilities, as appropriate.
+
+GA TechSquare Microgrid
+Fuel-related costs associated with operation of the Tech Square Microgrid facility.
+
+All cost types/accounts above are included in the FCR balance. The derived Average Fuel Rate includes commodity costs and applicable variable fuel supply charges used in determining the marginal fuel price. Other charges listed above are excluded from the Average Fuel Rate.
+
+Confirmed.
+
+c.The reconciliation of the Firm Transportation amounts to MFRH-12 is provided in STF-JKA-2-15 Attachment.
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-6.docx =====
+STF-JKA-2-6
+
+Question: 
+
+Refer to the Company’s response to STF-JKA-8-1 in Docket 56765 that describes CompositeAverageRate as the Unit level Cost (using marginal replacement fuel, average heat rate, and all dispatch cost components (fuel, VOM, FH, SO2, NOx). And the FuelAverageRate as Unit level Fuel Cost (using marginal replacement fuel, average heat rate).
+
+a.Please explain when the Company’s RTP methodology relies on the composite average rate and when it relies on the fuel average rate. Specifically, when and why are fuel handing, SO2, and NOx, costs excluded from the RTP credit rate derivation?
+b.Please confirm that the Company’s Harris, Wansley 7, and Santa Rosa PPAs are included in the RTP rate credit at the “Composite” rate. For all units in the historic period, which units are included in the RTP fuel credit with composite rates and which average rates, and why?
+
+Response:
+
+The use of composite average rate and the fuel average rate within the real time pricing (“RTP”) fuel credit calculation generally follows those costs that are recoverable through the fuel clause. Purchased power from dispatchable units is included in the Georgia Power RTP fuel credit calculation at the total purchase cost, which includes fuel, variable operations and maintenance (“VOM”), fuel handling, sulfur dioxide (“SO2”) and nitrogen oxide (“NOx”) costs.  This is consistent with the accounting treatment of these costs in the fuel clause. For Georgia Power-owned units, the fuel and emissions costs (SO2 and NOx) are included in the Georgia Power RTP fuel credit calculation, but the VOM and fuel handling are excluded. This is consistent with the accounting treatment of these costs in the fuel clause. VOM and fuel handling for Georgia Power-owned units are recovered through base rates. 
+
+Please see the response to subpart (a) above. In the Mapping File.xlsx that was provided with the 45-day data, the tab labeled “Resource Mapping” includes the RTP fuel credit calculation treatment for each unit in columns C and D. The default treatment is ‘Fuel cost’, which means that fuel and emissions (SO2 and NOx) costs are included consistent with Georgia Power-owned units. If the unit is included at composite cost, such as a PPA of a dispatchable resource, it will be flagged as ‘yes’ in column C. If the unit has zero marginal replacement fuel cost like the PPA of a non-dispatchable resource, it will be flagged as a ‘yes’ in column D. The Harris, Wansley 7, and the Santa Rosa PPAs are all included at composite costs and are labeled as such in column C.
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-14.docx =====
+STF-JKA-2-14
+
+Question: 
+
+Refer to STF-JKA-10-13 Attachment A. Provide a breakdown of the monthly TOU Revenues by time of use period (e.g. on-peak and off-peak periods).
+
+Response:
+
+Please see STF-JKA-2-14 Attachment A. In responding to this data request, the Company discovered a discrepancy in the data provided in STF-JKA-10-13 Attachment A. Standard fuel cost recovery (“FCR”) revenues associated with some time of use (“TOU”) base rates were mistakenly included in the FCR-TOU data. The revised attachment provides only data for TOU fuel rates and is provided in this response as STF-JKA-2-14 Attachment B.
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-12 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-12
+
+Question: 
+
+Refer to the July 13th data production and the historic GPCRTP files provided.
+
+a.It appears that the Bowen average fuel rate jumped from just over xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx, when the Company’s fuel inventories were back within target range. Please explain the jump in average Bowen fuel rate between  xxxxxxxxxxxxxxxxxxxx.
+b.Provide all supporting workpapers, calculations, and memos supporting the average fuel rate components for Bowen in the hours of xxxxxxxxxxxxxxxxxxxx.
+
+Response:
+
+The increase in the average Bowen fuel rate between xxxxxxxxxxxxxxxx was driven primarily by a change in the xxxxxxxxxxx cost component used in the marginal fuel rate calculation for delivered coal.  In xxxx xxxx, the xxxxxxxxxxxx component reflected the contractual xxxxxxxxxx rate less applicable xxxxxxxxxx xxxxxxx, resulting in a xxxxxxxxxxxxxx cost of $xxxx per ton.  This treatment was applied because projected delivered volumes were below the applicable contractual minimum volume commitment.  When forecast deliveries are below the contractual minimum, the portion of transportation costs associated with potential shortfall/liquidated damages is treated as fixed and excluded from the marginal replacement cost for incremental deliveries up to the minimum. Once forecast deliveries are at or above the contractual minimum, marginal replacement cost reflects the full applicable transportation rate for additional deliveries. In xxxx xx, the xxxxxxxxxx component reflected the full contractual xxxxxxxxxxxx rate of $ xxxx per ton.  The increase in the xxxxxxxxxxxxxx component contributed to the increase in the average Bowen fuel rate observed beginning in xxxx xxxx. 
+
+Please see the Company’s response to STF-JKA-2-5 Attachment B for the supporting workpapers and calculations. 
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-1.docx =====
+STF-JKA-2-1
+
+Question: 
+
+Refer to the July 14th data production and the forecasted B2026_EBUD_GPC RTP Fuel Credit Resource Detail files provided.
+
+a.Provide the data for the full calendar year 2026 and for the full calendar year 2028.
+b.For the provided Excel mapping file, including the list of all contracts modeled in Aurora. Please describe the type of contract and the average/composite cost of the resource by year (or month as necessary) for the full 2026-2028 period.
+c.Provide the forecasted system lambda for each hour of the forecast period (2026-2028)
+d.Confirm that the forecasted AIER rate for each hour is provided in the “Hourly Summary” tab under the BOS_Lambda column. If not confirmed, please provide the forecasted AIER rate for the projected period.
+e.Provide the Incremental RTP, GPC, and SoCo system load for each hour of the full 3-year forecast period.
+
+Response:
+
+Please see STF-JKA-2-1 Attachment A for 2026 Fuel Credit Resource Detail and STF-JKA-2-1 Attachment B for 2028 Fuel Credit Resource Detail.
+
+Please see STK-JKA-2-1 Attachment C for the updated mapping file with the PPAs modeled in Aurora and what costs are included in the RTP Fuel Credit Forecast.
+
+Please see STK-JKA-2-1 Attachment D for the forecasted system lambda for each hour of the forecast period (2026-2028).
+
+BOS_lambda  and forecasted AIER are definitionally the same thing in Aurora output, because there is no settlement in forecasted views. The forecast is the expected settlement in projections.
+
+Please see STF-2-1 Attachment E for the Georgia Power and Southern Company system hourly loads for 2026 through 2028. Incremental RTP hourly loads are not available.  
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2-13.docx =====
+STF-JKA-2-13
+
+Question: 
+
+Refer to the Main Panel rebuttal on p. 31 in Docket 56765, which states, “The RTP incremental load is assessed a marginal cost-based rate. The price for RTP incremental load includes the marginal running cost of the system (lambda) even though most of the kilowatt hours sold are generated by plants with a lower running cost. As a result, most hours priced at RTP provide a contribution to the fixed costs of the system by lambda being greater than the underlying energy costs to serve them.”
+
+a.Does the Company contend that the RTP fuel credit rate is a marginal based rate and that “most of the kilowatt hours sold are generated by plants with a lower running cost”. Please explain.
+b.What evaluation has the Company performed to assess the underlying energy costs to serve the RTP customers compared to the RTP rate charged to customers? Please provide an explanation and copy of the analysis performed.
+
+Response:
+
+The real time pricing (“RTP”) fuel credit rate is a calculation used to determine the amount of revenue that is booked to the fuel clause; it is not a component of the price that the RTP customer is assessed. The RTP fuel credit rate is derived based on an average of the marginal replacement fuel costs for all Georgia Power units, plus the Company’s share of pool sales or purchases. The lambda component of RTP prices is set by the marginal unit on the system and thus will be higher than the average marginal fuel cost for all units in most hours. 
+
+The Company has provided hourly data for the historical period  showing the RTP fuel credit in the Company’s response to STF-JKA-2-2 Attachment B, which reflects the energy costs to serve incremental RTP load. The hourly RTP prices for the historical period are provided in the Company’s response to STF-JKA-3-5 in Docket No. 56765, which represents the RTP rate charged to customers. 
+
+
+===== DKT 57171 STF-JKA-2 PD/STF-JKA-2 Affidavit.pdf =====

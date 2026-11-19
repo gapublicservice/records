@@ -1,0 +1,65 @@
+===== DKT 56765 STF-PIA-3 Supp 3 26 2026 PD/STF-PIA-3-17 PUBLIC DISCLOSURE.docx =====
+STF-PIA-3-17
+
+Question: 
+
+Reference Response STF-JKA-1-4 and TRADE SECRET Attachments along with Response to STF-JKA-1-8 and Attachment.
+
+a. Are the terms “pool sales” and “pool purchases” (as used in JKA-1-4 Attachment B) synonymous with “IIC Purchases” and “IIC Sales” (as used in JKA-1-8 Attachment)?
+b. Are cost and revenue associated with pool sales and/or pool purchases included in the calculation of bottom of the stack system lambda values?
+c. Please explain the difference in the meaning, purpose, and use of the values in Response STF-JKA-1-8 Attachment TRADE SECRET, peak and valley worksheets, columns L – Q labeled “Incremental” and the values in columns R – W labeled “Average”.
+d. Please explain the definition of, meaning of, and use(s) of the values in the column labeled “System Hourly Loads (MW)” in Response STF-JKA-1-4 Attachment B TRADE SECRET, Sheet 2, column L.
+e. Please confirm that for the hour ending at xxxxxxxxxxxxxxxxxxxxx, xxxxxxxxxxxxxxxxxxxxxxxxxxxx in Response STF-JKA-1-8 Attachment TRADE SECRET) the sum of cells F1 and F2, which is xxxxxxxxx, is the same value contained in Response STF-JKA-1-4 Attachment B TRADE SECRET, Sheet 2, column F labeled “Generation (MWh)”, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx of xxxxxxx. If the response is anything other than an unequivocal affirmative, please explain in detail.
+f. Please confirm that the sum of values in Response STF-JKA-1-8 Attachment TRADE SECRET, xxxxxxxxxxxxxxxxxxxxx, column X labeled “Total Composite Cost Dollars” is xxxxxxxxx.
+g. Please explain why the value referenced in subpart e. (i.e., xxxxxxxxx) is different than the value shown for the same hour in Response STF- JKA-1-4 Attachment B TRADE SECRET, Sheet 2, column C labeled “GPC BOS unit costs ($)” and provide a worksheet reconciling these differences.
+h. Please identify and explain the individual components included in the values shown in Response STF-JKA-1-4 Attachment B TRADE SECRET, Sheet 2, column C labeled “GPC BOS unit costs ($)”, specifically identifying differences between the values included in Response STF-JKA-1-8 Attachment TRADE SECRET, peak and valley worksheets.
+
+Response:
+
+In the Company responses to STF-JKA-1-4 Attachment B and STF-JKA-1-8 Attachment, the “pool sales” and “pool purchases” identified in the respective attachments are not synonymous with “IIC Purchases” and “IIC Sales”.  
+
+STF-JKA-1-4 Attachment B only includes the Associated Interchange Energy, which is included in the RTP fuel credit calculation.  STF-JKA-1-8 Attachment includes both the Associated Interchange Energy and the Opportunity Interchange Energy.
+
+Bottom of stack lambda is the $/kWh cost associated with the unit(s) on the system serving the incremental next kWh and not the costs and revenues associated with pool sales and/or pool purchases.
+
+The heat rates (efficiencies) of the units are often modeled as a second order polynomial function.  The derivative of this second order equation is a linear function.  The linear function is utilized in the dispatch of the units to determine the cost of the “next incremental MW”. These redispatch cost components are included in STF-JKA-1-8 Attachment, columns L-Q.  The second order function is used to calculate the average cost of the unit (the total cost for all of the MWs generated, not just the next incremental MW). These average cost components are included in STF-JKA-1-8 Attachment, columns R-W.
+
+The values provided in STF-JKA-1-4 Attachment B, Sheet 2, Column L are the hourly Southern system net territorial loads in MWH.  This is the system load in each hour.
+
+In responding to this data request, the Company discovered that the generation values in the Company’s response to STF-JKA-1-8 Attachment should have included the generation utilized to serve off-system market sales.  Those generation values identified in STF-JKA-1-8 Attachment and STF-JKA-1-4 Attachment B should not have been the same as result of this difference. Please see STF-PIA-3-17 Attachment provided in this response for the corrected version of STF-JKA-1-8 Attachment.
+
+Yes.  The sum of the values in the column labeled “Total Composite Cost Dollars” on Tab “REDACTED” in STF-JKA-1-4 Attachment B is REDACTED.
+
+Please see the response to subpart (e) above. The costs for the total of the GPC unit costs are different between STF-JKA-1-4 Attachment B and the corrected version of STF-JKA-1-8 Attachment filed as STF-PIA-3-17 Attachment in this response.
+
+STF-JKA-1-4 Attachment B includes the GPC unit costs that are included in the RTP fuel credit calculation, which are marginal fuel costs and purchased power costs and only for the generation that is not used to serve off-system market sales.  The corrected version of STF-JKA-1-8 Attachment, filed as STF-PIA-3-17 Attachment in this response, includes the GPC unit costs for all GPC generation, even if it was serving off-system market sales and includes both fuel and other marginal costs (like VOM).
+
+
+===== DKT 56765 STF-PIA-3 Supp 3 26 2026 PD/STF-PIA-3 Affidavit.pdf =====
+
+
+===== DKT 56765 STF-PIA-3 Supp 3 26 2026 PD/STF-PIA-3-17 Attachment PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-JKA-3-17 Attachment has been redacted in its entirety.
+
+===== DKT 56765 STF-PIA-3 Supp 3 26 2026 PD/STF-PIA-3-18.docx =====
+STF-PIA-3-18
+
+Question: 
+
+Please provide, in the same spreadsheet format, the hourly energy balance data provided in Response STF-JKA-1-8 Attachment TRADE SECRET for the peak load hour and the minimum load hour for the dates and hours provided in Response STF-JKA-1-4 Attachment A TRADE SECRET.
+
+Response:
+
+The hourly energy balance data for the peak load hour and the minimum load hour for the dates and hours provided in the Company’s response to STF-JKA-1-4 Attachment A is provided in STF-PIA-3-18 Attachment.
+
+
+===== DKT 56765 STF-PIA-3 Supp 3 26 2026 PD/STF-PIA-3-18 Attachment PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-JKA-3-18 Attachment has been redacted in its entirety.

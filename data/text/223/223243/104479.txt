@@ -1,0 +1,1249 @@
+BEFORE THE STATE OF GEORGIA
+
+                         PUBLIC SERVICE COMMISSION
+
+
+                                         )
+In Re:                                   )
+Georgia Power Company’s                  )            Docket Nos. 56002 and 56003
+2025 Integrated Resource Plan Update     )
+
+
+    POST-HEARING BRIEF OF NATIONAL RESOURCES DEFENSE COUNCIL,
+
+        SOUTHERN ALLIANCE FOR CLEAN ENERGY, AND SIERRA CLUB
+
+
+                                       JULY 3, 2025
+
+                                                          TABLE OF CONTENTS
+
+I.         INTRODUCTION .................................................................................................................. 4
+II.        LEGAL STANDARD............................................................................................................. 7
+III.            ARGUMENT ...................................................................................................................... 8
+      1. Georgia's Power Reliance on a Speculative Load Forecast of an Uncertain Industry Will
+      Lead Them to Overbuild Capacity .............................................................................................. 8
+           a. Georgia Power’s rebuttal wrongly asks the Commission to approve use of the Updated
+           Load Forecast in the All Source Procurement proceeding. ..................................................... 9
+           b. The vast majority of Georgia Power’s load growth is attributable to large load
+           customers like data centers. ..................................................................................................... 9
+           c.      Data center industry load growth is particularly uncertain ........................................... 11
+           d. Data gathered by the Company indicates that load will not materialize in the immediate
+           future...................................................................................................................................... 14
+           e.      Materialization of data center growth at a lower rate has real risks to ratepayers. ....... 16
+      2. Extending the Life of Coal Plants Is Not Necessary to Serve Georgia Power’s New Data
+      Centers....................................................................................................................................... 19
+           a.      Bowen and Scherer are no longer economic and not in the best interests of ratepayers.
+                   19
+           b. Staff’s analysis indicates that retiring Plants Bowen and Scherer is in the best interest
+           of customers........................................................................................................................... 21
+      3.        Georgia Power Should Remove Artificial Solar and Wind Build Limits. ........................ 24
+      4. Georgia Power Should Condition the Approval of Load-driven Transmission Projects on
+      Measurable Customer Commitments and Increase Regional Transmission Planning
+      Transparency ............................................................................................................................. 26
+IV.             CONCLUSION ................................................................................................................. 29
+
+                                                  LIST OF FIGURES
+
+Figure 1: Total US data center electricity consumption from 2014 through 2028 ....................... 12
+Figure 2: System Winter Peak Load ............................................................................................. 14
+Figure 3: Georgia Power Projected Winter Peak Demand ........................................................... 15
+Figure 4: Cumulative Capacity Builds to 2044 by Resource Type, by Load Scenario ................ 18
+Figure 5: Cumulative, System Wide, CO2 Emissions by Load Scenario ..................................... 20
+
+
+                                                   LIST OF TABLES
+
+Table 1: 20-year NPV Comparison by Large Load Scenario ....................................................... 17
+Table 2: Staff Adjusted Bowen Results without Transmission (PVRR $M)................................ 22
+Table 3: Staff Adjusted Scherer 3 Results without Transmission (PVRR $M) ............................ 22
+
+    I.   INTRODUCTION
+
+         Large load customers like data centers have been driving Georgia Power Company’s
+
+(“Georgia Power” or “Company”) resource needs since the 2023 Integrated Resource Plan (“IRP”)
+
+Update. While Georgia Power indicated in the 2023 Update that “Georgia Power must act on an
+
+accelerated timeline to meet Georgia’s energy needs,”1 that sense of urgency is absent from the
+
+2025 IRP. Instead, the 2025 IRP is a return to common utility planning; in Georgia Power’s own
+
+words, “the 2025 IRP is a return to Georgia Power’s triennial, long-term planning process.”2
+
+Because Georgia is no longer facing an emergency, whether it ever was is highly questionable,3
+
+the Georgia Public Service Commission (“Commission”) can calmly decide how to prepare for a
+
+gradual influx –not a sudden tsunami– of load growth. The Company’s updated Load Forecast,
+
+filed as Exhibit 1 to the rebuttal testimony of Company witnesses Jeffrey R. Grubb, J. Randy
+
+Hubbert, M. Brandon Looney, Michael B. Robinson, and Francisco Valle (the “Updated Load
+
+Forecast”), finally reflects near term attrition. However, it still fails to account for the attrition of
+
+data center projects and the very slow growth in signed contracts for service and requests for
+
+service that is evident in the Company’s quarterly Large Load Economic Development reports.4 It
+
+is therefore unnecessary (and would be imprudent) to plan for approximately9 GW of growth over
+
+
+1
+  Ga. Power Co., 2023 IRP Update Main Document, Docket No. 55378 at 1 [hereinafter “2023 IRP Update”].
+2
+  Direct Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+Francisco Valle on behalf of Ga. Power Co., Docket Nos. 56002 & 56003 at 7 [hereinafter “Grubb Direct
+Testimony.”].
+3
+  During the 2023 IRP Update proceedings, Sierra Club argued that (i) it was more economic for Georgia Power to
+fill part of its firm capacity need with battery energy storage (BESS) and reduce or eliminate the gas CTs it installed;
+(ii) the Company’s power purchase agreement (“PPA”) with Mississippi Power Company (“MPC”) began two years
+before Company needed capacity in the winter of 2025/2026; (iii) the PPA with Santa Rosa Energy Center began
+year and a half before the Company needed capacity in the winter of 2025/2026; and (iv) the Company did not
+justify procuring the capacity so far in advance of need and passing unnecessary costs on to Georgia ratepayers. See
+Direct Testimony of Devi Glick and Lucy Metz on behalf of Sierra Club, Docket No. 55378 at 5.
+4
+  See Direct Testimony of AJ Goulding on behalf of NRDC/SACE/Sierra Club, Docket Nos. 56002 & 56003
+[hereinafter “Goulding Testimony”].
+
+the next 6 years when the Company’s own filings continue to reflect a consistent decrease in
+
+megawatts in the immediate future.5
+
+         In the words of NRDC/SACE/Sierra Club’s expert Derek Stenclik, “much of [the
+
+Company’s] projected load growth is highly speculative at this stage. This is especially true for
+
+large industrial and data center loads[] which represent around 7 GW of the forecasted increase in
+
+peak demand by 2031.”6 In fact, all parties in this proceeding, based on the Company’s reporting,
+
+data and inputs, arrived at the same conclusion using a variety of methodologies: the Company’s
+
+forecast presents “significant potential for overestimation of both energy and peak load”.7
+
+         To prepare for speculative demand, Georgia Power is planning to keep online its aging coal
+
+fleet. It is undisputed that, but for large load customers like data centers, these units would have
+
+retired much sooner.8 In the 2022 IRP, the Company’s own “economic analysis demonstrate[d]
+
+that the continued operation of Plant Bowen Units 1-2 is not economic or in the best interest of
+
+customers.”9 Should the Commission approve the extension of the Scherer and Bowen units, all
+
+customers, not just data centers, will end up paying for uneconomic coal to remain online.10 That
+
+basic fact has not changed; in fact, it has gotten worse. Company witnesses acknowledged that
+
+“[w]hile the specifics are trade secret,” the cost for ELG treatment at plant Bowen is “significant,
+
+
+5
+  “This represents nearly a 50% increase in peak demand over a seven-year period.” Direct Testimony of Derek
+Stenclik on behalf of NRDC/SACE/Sierra Club, Docket Nos. 56002 & 56003 at 24 [hereinafter “Stenclick
+Testimony”].
+6
+  Id. at 25.
+7
+  Direct Testimony of Robert L. Trokey, Dylan A. Drugan, and Karan A. Pol on behalf of Ga. Power Co., Docket
+Nos. 56002 & 56003 at 11 [hereinafter “Trokey Testimony”]..
+8
+  Q. [Mr. Pawluk] Isn't it true that the only reason for keeping these coal units going, in spite of the costs and some
+of the engineering challenges that you've described, is because of the projected load increases from the large-load
+customers, including the data centers? A. (Witness McNelly) Yes. Hearing Transcript, Docket Nos. 56002 & 56003
+at 1323 [hereinafter “Hearing Tr.”].
+9
+  Rebuttal Testimony of Jeffrey R. Grubb, A. Wilson Mallard, Michael B. Robinson, Jeffrey B. Weathers, Francisco
+Valle, Andy Phillips, Jeff Smith, Lee Evans, and Aaron D. Mitchell, on behalf of Ga. Power Co., Docket No. 44160.
+at 2.
+10
+   See Id. at 16 (“[I]f the units continue operations beyond 2027, the Company would need to increase capital spend
+for these units”).
+
+on the order of hundreds of millions of dollars.”11 Instead of keeping coal online for longer, based
+
+on witness Stenclik’s independent modeling, the Company should “accelerate coal retirements,
+
+increase procurement of solar and storage resources, limit new gas resource investment, and
+
+evaluate options for interregional transmission.”12 Compared to Georgia Power’s MG20 Portfolio,
+
+witness Stenclik’s proposed alternative would be almost 20% cheaper for ratepayers.13
+
+        As further explained below, the testimony and evidence presented to the Commission over
+
+the course of the IRP proceedings demonstrate that Georgia Power Company’s 2025 IRP should
+
+not be approved as filed. Instead, the Commission should:
+
+     1. Deny approval of Georgia Power’s load forecast. To protect ratepayers, the Commission
+
+        should also adopt Staff’s and witness Richwine’s recommendation to order the Company
+
+        to continue filing quarterly Large Load Development reports.14
+
+     2. Direct the Company to stay committed to retiring Plant Bowen Units 1-2 and Scherer Unit
+
+        3 because it saves ratepayer money.
+
+     3. Direct the Company to run a scenario that removes artificial solar and wind build limits
+
+        from its Aurora model.
+
+     4. Direct the Company to adopt Staff’s and intervenors’ recommendations on transmission
+
+        planning, particularly interregional transmission and transmission for large loads.
+
+
+11
+   Hearing Tr. at 1322.
+12
+   Stenclik Testimony at 12.
+13
+   Id.
+14
+   NRDC/SACE/Sierra Club’s Witness Richwine recommended that the Commission “[c]ontinue to require
+quarterly updates from GPC on the status of large load developments tied to transmission needs and update this
+requirement with additional information as necessary.” Direct Testimony of Matthew Richwine on behalf of
+NRDC/SACE/Sierra Club, Docket Nos. 56002 & 56003 at 48 [hereinafter “Richwine Testimony”].
+
+ II.     LEGAL STANDARD
+
+         An integrated resource plan (IRP) is a “utility resource planning process in which an
+
+integrated combination of demand-side and supply-side resources is selected to satisfy future
+
+energy service demands in the most economic and reliable manner while balancing the interests
+
+of utility customers, utility shareholders and society-at-large.”15 Georgia Power is obligated to file
+
+an IRP with the Commission at least every three years.16 The Rules of the Commission require
+
+that an IRP be “in the public interest,” and, if it is not, that the Commission reject the utility’s
+
+resource plan or provide an alternate plan.17 The Commission should therefore not approve an IRP
+
+that fails to be in the public interest, or that inadequately accounts for the interests of “utility
+
+customers” and “society-at-large”.
+
+         Further, in developing its IRP, the utility must consider “all resources reasonably available
+
+to reliably meet future energy service demands” on a “fair and consistent basis.”18 The utility must
+
+“adequately demonstrate[] the economic, environmental, and other benefits to the state and to
+
+customers” that may result from “improvements in energy efficiency,” “pooling of power,”
+
+“purchases of power from neighboring states,” “facilities which operate on alternative sources of
+
+energy,” “facilities that operate on the principle of cogeneration or hydro-generation,” and “other
+
+generation facilities and demand-side options.”19 As such, any IRP that does not consider all
+
+resources on a fair and reasonable basis, or that does not adequately demonstrate the benefits of
+
+alternative supply methods, should be rejected by the Commission.
+
+
+15
+   Comm’n Rule 515-3-4-.02(25) (emphasis added).
+16
+   See O.C.G.A. § 46-3A-2(a) (“On or before January 31, 1992, and at least every three years thereafter as may be
+determined by the commission, each utility shall file with the commission an [IRP] as described in this chapter.”).
+17
+   See Comm’n Rule 515-3-4-.01(2); 515-3-4-.06.
+18
+   Comm’n Rule 515-3-4-.01(25).
+19
+   O.G.C.A. § 46-3A-2(b)(3).
+
+         Finally, in evaluating the adequacy of the IRP, the Commission must examine whether it
+
+employs adequate forecasting. The IRP must be “based on substantially accurate data and an
+
+adequate method of forecasting.”20 It must “identif[y] and take[] into account any present and
+
+projected reductions in the demand for energy which may result from measures to improve energy
+
+efficiency in the industrial, commercial, residential, and energy-producing sectors of the state.”21
+
+Therefore, the Commission should not approve an IRP that relies on inaccurate data or forecasting
+
+methods, or that fails to take into account projected energy demands based on energy efficiency
+
+improvements.
+
+III.     ARGUMENT
+
+     1. Georgia's Power Reliance on a Speculative Load Forecast of an Uncertain Industry
+
+         Will Lead Them to Overbuild Capacity
+
+         Georgia Power’s request for the Commission to adopt its Updated Load Forecast in the All
+
+Source Procurement proceeding is misplaced, as most of the projected load growth comes from
+
+large load customers like data centers –a new industry known for being inherently unpredictable.22
+
+All parties, including Commission Staff,23 agree that the Company’s data shows that this
+
+anticipated load growth is unlikely to occur in the near term. As further described below, if data
+
+center load materializes at a slower rate than expected, it will bring significant financial burdens
+
+for Georgia Power’s ratepayers, who risk being on the hook for infrastructure that is “premised on
+
+speculative demand” and that “may sit idle for much of their operational life.”24
+
+
+20
+   O.G.C.A. § 46-3A-2(b)(1).
+21
+   O.G.C.A. § 46-3A-2(b)(2).
+22
+   Rebuttal Testimony of Jeffrey R. Grubb, J. Randy Hubbert, M. Brandon Looney, Michael B. Robinson, and
+Francisco Valle on behalf of Ga. Power Co., Docket Nos. 56002 & 56003, Exhibit 1 at 1 (not numbered in the
+original) [hereinafter “Main Panel Rebuttal Testimony”].
+23
+   In PIA Staff’s terms, “The short-term Commercial Customer Growth model uniquely exhibits indicators of model
+fit and error that demonstrate statistical bias in the model, indicating a risk of overestimation.” Trokey Testimony at
+4.
+24
+   Stenclik Testimony at 28.
+
+       a. Georgia Power’s rebuttal wrongly asks the Commission to approve use of the Updated
+
+           Load Forecast in the All Source Procurement proceeding.
+
+           In rebuttal testimony, Georgia Power included a proposal to adopt the Updated Load
+
+Forecast “for use in the 2029-2031 All-Source RFP certification proceeding.”25 Because the IRP
+
+proceedings do not allow for surrebuttal testimony, Staff and intervenors were not able to offer an
+
+opinion or an expert analysis on the Company’s eleventh-hour proposal. For the reasons explained
+
+in this section, the Commission should not lock in the Updated Load Forecast that Georgia Power
+
+filed with its rebuttal testimony. Instead, Georgia Power should be required to file a new load
+
+forecast as part of the All Source Procurement proceeding this fall.
+
+       b. The vast majority of Georgia Power’s load growth is attributable to large load customers
+
+           like data centers.
+
+           Georgia Power started the IRP proceedings arguing that “several factors” are contributing
+
+to its load growth. In the Main Panel’s direct testimony , the Company stated that “[s]everal factors
+
+are contributing to the B2025 Load and Energy Forecast projections,” for example, “[t]he state’s
+
+population is [] growing, leading to more electricity use in homes,” “[t]he rise in large commercial
+
+and industrial customers, such as data centers and manufacturing plants, is contributing to the new
+
+demand,” and “the adoption of electric vehicles, both for personal and business use, is steadily
+
+driving up electricity consumption.”26
+
+           Although Georgia Power’s IRP Main Document suggests that the state’s population growth
+
+and electric vehicle adoption are all “factors” contributing to its load growth, Georgia Power’s
+
+witnesses readily admitted that 80% of its load forecast is attributable to large loads like data
+
+
+25
+     Main Panel Rebuttal Testimony at 8.
+26
+     Grubb Direct Testimony at 14.
+
+centers.27 The other factors Georgia Power mentions do not come close to the scale and impact
+
+that data centers are having on the grid, and they are certainly not driving growth or the need to
+
+add resources to the system. The Company’s witnesses explained why electrification of buildings
+
+and vehicles are not, in fact, adding to the peak load at the scale data centers are:
+
+                  Q. [Ms. Ariza] And when you say that a primary factor that's driving load forecasts
+                  is how people use electricity, do you mean things like electrification of buildings
+                  and homes?
+                  A. (Witness Valle) Yes. For example. And it's also -- it was also the -- the organic
+                  growth in residential customer class. Last -- last year we gained over 40,000
+                  additional customers. So there's growth that is coming from multiple sources.
+                  Q. Okay. And I'll -- I'll ask you about population growth in a second. But energy
+                  efficiency could give people incentives to use electricity -- electricity differently
+                  and lower demand; is that generally a –
+                  A. (Witness Valle) That is correct.
+                  Q. And by lowering peak demand, that would reduce costs for all customers; is that
+                  also a correct statement?
+                  A. (Witness Grubb) Depending on the price you have to pay to reduce that demand.
+                  And -- and the DSM programs and the filings that we have in the IRP are subject
+                  to Panel 2 for Ms. Goff and Mr. Phillips. But, yes, it can [...].
+                  Q. And same with EVs; right? You could plan in advance so that EV charging
+                  doesn't add to peak; is that also a correct statement?
+                  A. (Witness Valle) Correct. So we're -- we're planning for EV growth in our system.
+                  A. (Witness Grubb) And Mr. Valle can speak to that more, but I think when you do
+                  look at our EV growth in the forecast, it's not all on our peak, to your point, because
+                  we incentivize that charging to not be on the peak because it does cost less, you
+                  don't have to build generation to meet it.28
+
+         Because the Company is incentivizing electric vehicle charging at off-peak hours, it does
+
+not need to build generation to meet that load. Regarding population growth, the Company stated
+
+the following:
+
+                  Q. [Ms. Ariza] [R]egarding another factor on your list, population growth, the
+                  population of Georgia went from about 8.2 million in 2000 to 10.7 in 2020,
+                  according to U.S. census data. That's about a 30 percent increase over 30 years.
+
+
+27
+   Hearing Tr. at 684-5 (“Q. You've spoken about the primary factors that are driving the 9 gigawatts that you say
+you'll need over the next five years. And it's in your testimony and you've talked about it. You mentioned factors
+like the state's population growing, rising large customers like data centers, which is 80 percent, adoption of EVs
+and the change in how people use electricity, right? A. (Witness Valle) Yes. That's correct.”).
+28
+   Hearing Tr. at 685-6.
+
+                Would it be fair to say that, nonetheless, demand growth was relatively low over
+                that two-decade period? [...]
+                A. [F]or the -- for the last ten years, the residential and commercial classes have
+                grown about 1 percent per year. The industrial class ha[s] grown about half a
+                percent. So it's relatively flat, but showing some growth, nonetheless.
+                Q. Okay. And now that in 2025 Georgia's population growth -- Georgia population
+                is estimated to be about 11 million, which is around a 4 percent increase since 2020,
+                how much of the increased demand since the 2022 IRP is due to this growth?
+                A. (Witness Valle) You mean 2025 IRP?
+                Q. No. Since the 2022 IRP, to this one, how much of your growth is expected to be
+                from the state's population growth?
+                A. (Witness Valle) I don't have that -- that calculation, but I can tell,
+                Commissioners, that the -- that the projected growth in the 2025 IRP for the
+                residential class is about 1 1/2 percent, subject to check [...] we have seen over the
+                last several years a change in use per customer, which is, you know, part of the
+                energy efficiency, growth, those types of things, which is -- you know, everybody
+                now is incented to get more LEDs and everything and lighting and those kind of
+                things. So we have seen a lot of energy-efficiency changes over the last decade or
+                so, which DSM will talk more about because a lot of that low-hanging fruit has
+                been is -- is already factored in. But we have seen a decrease in usage per
+                customer.29
+
+        The Company’s admissions demonstrate that data centers are responsible for driving the
+
+system’s energy and capacity needs, and not general electrification, electric vehicles, and certainly
+
+not the residential customer class. This is highlighted by the fact that, during the rebuttal hearing
+
+–after the Company filed its Updated Load Forecast—, Georgia Power’s witnesses testified that
+
+the data center percentage had reached around 90%.30 If 90% of load growth is attributable to a
+
+single set of customers, assessing the risk associated with it not materializing should be a priority
+
+for this Commission.
+
+     c. Data center industry load growth is particularly uncertain
+
+        As NRDC/SACE/Sierra Club’s witness AJ Goulding testified, data center development is
+
+subject to supply and demand factors that can “lead to difficulties in forecasting their load”.31
+
+
+29
+   Id. at 687-9.
+30
+   Response to NRDC/SACE/Sierra Club’s Cross-Examination from Francisco Valle, on behalf of Ga. Power Co.,
+3rd Hearing, Docket Nos. 56002 & 56003, https://www.youtube.com/live/klLdgtp42Vc at 7:53:36.
+31
+   Goulding Testimony at 7.
+
+NRDC/SACE/Sierra Club’s witness Stenclik also testified that “the likelihood and timing of these
+
+loads materializing remains uncertain.”32 As shown in Figure 1 below, data center growth shows
+
+a “wide range of uncertainty”.33
+
+Figure 1: Total US data center electricity consumption from 2014 through 202834
+
+
+        On the supply side, there are many uncertainties related to the “efficiency of equipment for
+
+computing and the speed of expansion of chip manufacturing capability, both of which can impact
+
+the rate of growth of power needs of data centers.”35 On the demand side, even if a particular data
+
+center expects to use a certain amount of megawatts at some point in the future, in the first years,
+
+it will likely start with a lower amount and eventually ramp up as it adds tenants.36 Despite Georgia
+
+Power acknowledging that there are “inherent uncertainties around whether such projects will
+
+
+32
+   Stenclik Testimony at 25.
+33
+   Goulding Testimony at 7.
+34
+   Id at 8.
+35
+   Id.
+36
+   Id. at 8-9.
+
+ultimately locate in Georgia, select Georgia Power as the electric service provider, and come online
+
+with the anticipated load”37, the Company is not properly assessing the risks of continued large
+
+load attrition in the near term.
+
+        The fact that “[f]or every reduction in load in the Company’s [Load Realization Model],
+
+there has been an equal or greater load increase” should not be cause for comfort.38 Even a large
+
+and growing pipeline of announcements does not impact near-term growth. As witness Stenclik
+
+testified, “[w]hile it is appropriate for the Company to anticipate and plan for new sources of
+
+demand, it is critical to recognize that much of the growth embedded in the forecast lacks formal
+
+commitments or verified timelines for interconnection.”39 Precisely because data center demand is
+
+particularly uncertain, it was critical for the Company to evaluate a wide range of scenarios, which
+
+it failed to do. Instead of asking the critical question of “what would happen if a different amount
+
+of data centers show up,” the Company’s only difference in forecasted demand was de minimis
+
+(see Figure 2 below). As witness Stenclik criticized, “the actual load forecasts used in the capacity
+
+expansion modeling were nearly identical across all scenarios.”40
+
+
+37
+   Main Panel Rebuttal Testimony Exhibit 1 at 1-2 (not numbered in the original).
+38
+   Id. at 12.
+39
+   Stenclik Testimony at 25.
+40
+   Stenclik Testimony at 27.
+
+Figure 2: System Winter Peak Load41
+
+
+        Instead, other parties in this proceeding, including NRDC/SACE/Sierra Club, did what the
+
+Company should have: conduct a meaningful sensitivity analysis on load uncertainty. Indeed, “the
+
+IRP would have benefited from modeling that explicitly isolates the impact of large new loads on
+
+resource portfolio decisions, system costs, and emissions outcomes.”42 Georgia Power’s reliance
+
+on a single viewed load forecast is a critical oversight—especially in a sector where ramping,
+
+timing, magnitude, and even location of loads are uncertain.
+
+     d. Data gathered by the Company indicates that load will not materialize in the immediate
+
+        future.
+
+        Georgia Power’s own projections (see Figure 3 below) showed that the 2025 forecast was
+
+lower than the 2023 IRP Update forecast in the very immediate future (a 3 to 4 year timeframe).
+
+
+41
+   Ga. Power Co., 2025 IRP Main Document, Docket Nos. 56002 & 56003 at 24 [hereinafter “2025 IRP Main
+Document”].
+42
+   Stenclik Testimony at 32.
+
+Figure 3: Georgia Power Projected Winter Peak Demand43
+
+
+          During cross examination, Company witnesses explained that it is possible that demand
+
+over the long term continues to grow, but does not materialize in the near term:
+
+                  Q. I just want to make sure I am interpreting that figure correctly. I believe staff
+                  also asked about this, but the 2025 red line is slightly below the 2023 dark blue for
+                  the very immediate future; right?
+                  A. (Witness Valle) Yes. The -- the red line represents the 2025 IRP, which is at the
+                  top of the three lines.
+                  Q. Okay. So is it correct to say that you overforecasted for years 2025 through
+                  2027?
+                  A. (Witness Valle) No, I wouldn't say that, Commissioners. The -- as I've said
+                  before and I have repeated multiple times, the forecast always incorporates the
+                  latest available information. So to the extent that we have had near-term
+                  cancellations, we have had near-term revisions of the -- of the the load, those get
+                  reflected and that have resulted into a lower forecast. But with every forecast, our
+                  commitment to you and to our customers is to reflect the best available information
+                  through the use and accurate forecasts at the time of the development of the
+                  forecast. So if now we have a slightly lower forecast than the previous vintage, it's
+                  not an anomaly. It's just a reflection of the new information available.
+                  Q. But it is lower than the 2023 Update projection?
+                  A. (Witness Valle) It is lower, yes.
+                  Q. Is it possible that this happens again: that demand over the long term continues
+                  to grow, but over the very immediate term it doesn't?
+                  A. (Witness Valle) It is a possibility.44
+
+
+43
+     2025 IRP Main Document at 35.
+44
+     Hearing Tr. at 694-6.
+
+        If the drop-in-near term load trend continues –which it has consistently since the 2023 IRP
+
+Update was filed— then demand may well be exponential, but resources will be sitting there
+
+waiting for the demand to materialize. This will “place significant risk on GPC ratepayers for
+
+stranded assets that would increase rates if new large loads do not materialize as expected.”45 More
+
+importantly, Georgia Power did not provide a bookend analysis to determine how much it would
+
+cost to serve large loads like data centers. Without isolating the costs, the Commission has no tools
+
+to quantify how much large loads should pay for, and therefore it becomes harder to ensure that
+
+non-data center ratepayers will not pay for all the costs to serve those large load customers. In
+
+Stenclik’s terms, the importance of isolating large load impacts is to “ensure that long-term
+
+infrastructure investments are aligned with actual, realizable system needs and to minimize the
+
+risk of overbuilding and stranded assets.”46 In a worst-case scenario, by relying on overly
+
+optimistic load growth assumptions, the Company could end up overbuilding its system. This is
+
+the kind of misalignment that prudent IRP planning should avoid.
+
+     e. Materialization of data center growth at a lower rate has real risks to ratepayers.
+
+        Georgia Power's Updated Load Forecast, which incorporates its updated Large Load
+
+Development reports, is slightly lower than its 2025 IRP outlook for 2026-2029. Although the
+
+Updated Load Forecast shows an additional GW by 2034, there is still a risk of near-term large
+
+load projections not materializing at the pace Georgia Power initially forecasted.
+
+        Despite Georgia Power’s preference to “to err on the side of having more resources,” this
+
+preference has a direct impact on customers’ bills.47 As witness Stenclik explained, “[e]ven if the
+
+
+45
+   Stenclik Testimony at 11.
+46
+   Stenclik Testimony at 41.
+47
+   Hearing Tr. at 693.
+
+forecasted load ultimately materializes, a slower realization will not justify the Company
+
+proactively building resources far in advance.”48 Witness Stenclik cites several reasons for this:
+
+                      ● First, rapid advancements in AI development and chip efficiency could
+                        significantly alter the long-term demand trajectory, making early
+                        infrastructure investments premature.
+                      ● Second, current supply chain constraints are elevating capital costs for new
+                        resources, meaning early procurement could lock in unnecessarily high
+                        costs.
+                      ● Finally, due to discounting in NPV analysis, costs incurred earlier in the
+                        IRP horizon have a disproportionate impact on total system cost, increasing
+                        the financial risk of early overbuild.49
+
+
+         In addition, witness Stenclik’s modeling showed that large load additions result in a 41%
+
+increase in total system costs under the Company's MG20 portfolio (see Table 1 below).
+
+Table 1: 20-year NPV Comparison by Large Load Scenario50
+
+
+         These increased costs demonstrate that the Company will need to spend significant
+
+ratepayer dollars to invest in “accelerated gas capacity additions, deferred coal retirements, and
+
+higher fuel and operating costs.”51 simply to serve data centers –large and highly uncertain loads.
+
+Further, even “with the accelerated retirement of the Bowen and Scherer coal units to the end of
+
+2031,” witness Stenclik’s independent modeling showed that “no new natural gas capacity [would
+
+be] required until 2032 in the No Large Loads case.”52 The resulting portfolios are shown in Figure
+
+4 below.
+
+
+48
+   Stenclik Testimony at 29.
+49
+   Id.
+50
+   Id. at 42.
+51
+   Id.
+52
+   Id. at 39.
+
+Figure 4: Cumulative Capacity Builds to 2044 by Resource Type, by Load Scenario53
+
+
+        Figure 4 shows alternative capacity builds in possible futures in which 0% or 50% of data
+
+centers materialize. Notably, but for data center growth, Georgia Power would be on track to retire
+
+its coal units, meaning that speculative data center growth will be responsible for keeping coal
+
+online for longer. Witness Stenclik’s results indicate that “the inclusion of large, uncertain data
+
+center load in the Company’s planning process is directly responsible for delaying coal retirements
+
+to 2036 and prompting up to 9,350 MW of new gas capacity additions.”54 However, as described
+
+53
+   Stenclik Testimony at 40. Note: the lower loads scenarios also assume accelerated retirement of Bowen and
+Scherer coal plants.
+54
+   Id. at 41.
+
+in the next section, the Commission should require Georgia Power to remain on track to retire the
+
+Bowen and Scherer coal units as previously scheduled.
+
+     2. Extending the Life of Coal Plants Is Not Necessary to Serve Georgia Power’s New
+
+         Data Centers.
+
+     a. Bowen and Scherer are no longer economic and not in the best interests of ratepayers.
+
+         In the 2022 IRP final order, the Commission approved the retirement and decertification
+
+of Plant Scherer Unit 3 by December 31, 2028, and the Company proposed the retirement of Plant
+
+Bowen Units 1 and 2 by December 31, 2027. This requirement is still economic and in the best
+
+interest of ratepayers; the 2025 IRP proposal is not. The Company’s 2025 IRP proposal reverses
+
+course to unnecessarily extend the life of these coal plants for speculative data centers , rather than
+
+what is in the best interests of non-data center ratepayers or for economic reasons. In addition,
+
+expert testimony and admissions by Commission Staff support a finding that Bowen and Scherer
+
+are no longer economic and not in the best interest of ratepayers.
+
+         In his testimony, witness Stenclik explained the unfounded basis for the Company
+
+reversing course and delaying retirement of the Bowen and Scherer coal units: “Under scenarios
+
+with lower load forecasts, the Company’s MG20 resource portfolio becomes oversized relative to
+
+the reserve margin requirement.”55 Stenclik also found that “the inclusion of large, uncertain data
+
+center load in the Company’s planning process is directly responsible for delaying coal retirements
+
+to 2036 and prompting up to 9,350 MW of new gas capacity additions.”56 Hence, the data center
+
+industry’s uncertain loads will “defer[] coal retirements.”57
+
+
+55
+   Stenclik Testimony at 38.
+56
+   Id. at 41.
+57
+   Id. at 42.
+
+        In addition to the potential negative economic impacts of keeping these coal plants online,
+
+there are environmental benefits to rejecting the 2025 IRP proposal. If the Company prepares for
+
+coal retirements as scheduled, it could “reduce reliance on older, less flexible, and higher-emitting
+
+generation. At the same time, if load materializes more quickly than expected or if clean energy
+
+deployment is delayed, the Company retains the flexibility to extend the operation of these coal
+
+units temporarily, allowing time for new resources to come online.”58 On top of the economic
+
+benefits, Georgians would see emissions reductions. While Georgia Power decided not to quantify
+
+those,59 witness Stenclik’s testimony calculated the difference in cumulative CO2 emissions
+
+between Georgia Power’s base forecast and scenarios where half or none of the large loads
+
+materialize. His results are summarized in Figure 5 below:
+
+Figure 5: Cumulative, System Wide, CO2 Emissions by Load Scenario60
+
+
+        Figure 5 above indicates that serving their load would significantly increase carbon
+
+emissions in Georgia. In sum, the 2022 IRP final order is still a reflection of what is most economic
+
+
+58
+   Id. at 38.
+59
+   Hearing Tr. at 1341. “Q. Okay. Did you create a -- so please turn to Figure 1 of your environmental compliance
+strategy. It's on page 8. Did you create a figure similar to this one which shows NOx and SO2 and CO2 emission
+trends but for future years? A. (Witness McNelly) No. Q. You don't know -- so you don't know how much your
+emissions will fluctuate in the future? A. (Witness McNelly) Not precisely... ”
+60
+   Stenclik Testimony at 43.
+
+and in the best interest of ratepayers and the retirements of Bowen and Scherer should not be
+
+delayed.
+
+     b. Staff’s analysis indicates that retiring Plants Bowen and Scherer is in the best interest of
+
+         customers
+
+         Staff’s testimony echoed that of Mr. Stenclik’s in several ways. In written testimony, Staff
+
+explained their recommendation that Georgia Power should remove the transmission costs from
+
+the Company’s Unit Retirement Study for both Plants Bowen and Scherer. In Staff’s view, the
+
+Company’s modeling approach for the Unit Retirement Study “assumed new CC resources would
+
+have a transmission cost, and that continued operation of existing facilities would defer that cost
+
+until retirement occurs. This may be one possible outcome, though another is that replacement
+
+generation could be sited at the retiring facility and therefore transmission investment would be
+
+minimized.”61 “With transmission costs removed, Imminent Retirement would be the most
+
+economic option” for Bowen.62
+
+         Similarly, for Plant Scherer, Staff determined that complying with the EPA’s 111 Rule by
+
+“cofiring would also be a close call with retirement by January 2032.”63 Staff’s results are shown
+
+in Tables 2 and 3 below.64
+
+
+61
+   Hearing Tr. at 1685.
+62
+   Id. at 1685.
+63
+   Id. at 1686.
+64
+   Id. at 1685-6.
+
+Table 2: Staff Adjusted Bowen Results without Transmission (PVRR $M)65
+
+
+Table 3: Staff Adjusted Scherer 3 Results without Transmission (PVRR $M)66
+
+
+         Further, during cross examination, Staff admitted that “the decision between retirement,
+
+co-firing, and full gas conversion is a close call.”67 When discussing concerns Staff had about the
+
+Company’s modeling approach for the Unit Retirement Study, again, co-firing appeared to be a
+
+“close call with retirement [of Bowen] by January 2032.”68 The same is true for Staff’s analysis of
+
+the 111 GHG Rule (MG0-111) Evaluation.69 During the hearing, Witness Newsome reiterated this
+
+stance of Staff:
+
+                  Q. And you acknowledged in your testimony in responding to
+                  Commissioner McDonald’s question that additional -- keeping
+                  additional reserve capacity might provide reliability to the system,
+                  which you just mentioned, um, but it also has a cost; right?
+                  A. (Witness Newsome) Yes, but that was more – the context of that
+                  was about building new capacity. We know that’s very expensive.
+65
+   Id. at 1685.
+66
+   Id. at 1686.
+67
+   Id. at 1682.
+68
+   Id. at 1686.
+69
+   Id. at 1704.
+
+                That’s kind of why the Scherer and Bowen became an option
+                because it’s less expensive than new capacity.
+                Q. But, again, your testimony shows it’s a close call on many of the
+                scenarios?
+                A. (Witness Newsome) Yes.70
+        Since the 2022 IRP, the results of the Company’s analysis have indicated that the long-
+
+term operation of its coal units is “no longer in the best economic interest of customers” and the
+
+Company’s coal units “lack the necessary economic and flexibility attributes to remain a
+
+competitive resource within an electric system with large renewable penetration or in a future with
+
+continued environmental pressures.”71 The pressures that Georgia Power identified in 2022 are
+
+even more pressing today, as Company witnesses acknowledged that the cost for Effluent
+
+Limitation Guidelines (“ELG”) treatment at plant Bowen is “significant, on the order of hundreds
+
+of millions of dollars.”72 The unnecessary delay of coal plant retirements to serve data center
+
+growth will come at the expense of existing ratepayers. Plus, if data center materialization is
+
+delayed –which is a real risk, as explained in Section 1 above–, ratepayers will end up keeping
+
+coal online at a great expense with no justification. Staff’s testimony agrees with this fact:
+
+                Q. And if the Commission approves Georgia Power’s current load
+                forecast without staf’'s or anyone else’s adjustments, that would lead
+                to over-procurement potentially; correct?
+                A. (Witness Trokey) That’s correct.
+                Q. Including the risk of keeping coal online longer, keeping Bowen
+                and Scherer, right, should the load be lower, then Georgia Power
+                could have a different vision on whether Bowen and Scherer should
+                remain online at all; correct?
+                A. (Witness Trokey) It would be a combination of continuing to
+                operate existing plants and also procuring additional resources that
+                may not be needed from the market.73
+
+
+70
+   Id. at 1801.
+71
+   Ga. Power Co., 2022 IRP Main Document, Docket No. 44160 at 11-72.
+72
+   Hearing Tr. at 1322 (quote from Witness McNelly).
+73
+   Id. at 1536-37.
+
+        In sum, the 2025 IRP’s rollback of the planned Bowen and Scherer coal plants retirement
+
+undermines the best interest of ratepayers and “underscores the importance of isolating large load
+
+impacts to ensure that long-term infrastructure investments are aligned with actual, realizable
+
+system needs and to minimize the risk of overbuilding and stranded assets.”74
+
+     3. Georgia Power Should Remove Artificial Solar and Wind Build Limits.
+
+        The Company arbitrarily limited the amount of solar and wind added to the system in the
+
+2025 IRP proposal, which constrained the resource options available to meet rising load. As
+
+several intervenors testified, the 1,500 MW per year solar limit and 300 MW per year wind limit
+
+are unreasonable. The Company claims the IRP evaluated a wide range of resource candidates; in
+
+truth, “they limited builds of clean energy technologies so there were no available options for the
+
+model to meet load growth and coal retirements without significant gas build.”75 By disregarding
+
+this potential, the Company fails to explore cost-effective and geographically diverse resource
+
+options that could improve reliability and lower costs for ratepayers. Georgia Power’s own
+
+modeling showed that solar, wind, and battery storage are among the most cost-effective resources
+
+available. However, without providing any explanation, between the 2023 IRP Update and the
+
+2025 IRP filing, Georgia Power “reduced its annual maximum build limit for wind by 50%, and
+
+cumulative maximum build limit by 44%”.76
+
+        As part of its rebuttal testimony, Georgia Power claimed that “the Company’s build limits
+
+help ensure the model is performing its analysis within realistic parameters and providing
+
+appropriate projections of avoided energy costs.”77 However, that doesn’t negate the fact that
+
+Georgia Power (i) did not justify the limits it imposed on the model, (ii) failed to evaluate a
+
+
+74
+   Stenclik Testimony at 41.
+75
+   Id. at 53.
+76
+   Id. at 54.
+77
+   Main Panel Rebuttal Testimony at 35.
+
+scenario in which those limits are removed, and (iii) inappropriately assumed that constraints that
+
+exist today (i.e., limitations to the solar RFP process) will continue, and not improve, over the
+
+planning period. As witness Stenclik testified, “any claims of an ‘optimized’ capacity expansion
+
+[is] meaningless, as the results are entirely driven by the Company’s exogenous, arbitrary
+
+assumption limits on solar PV and wind that can be integrated in a single year.”78
+
+        Witness Stenclik’s main point still stands: “[t]he Company continues to use unrealistic,
+
+unsupported constraints on solar, wind, and storage resources in its optimized Aurora modeling,
+
+specifically, limiting the annual build of solar resources to 1500 MW and wind resources to 300
+
+MW per year across Georgia Power, Mississippi Power, and Alabama Power Companies.”79 This
+
+is a disservice to ratepayers. In fact, Company witnesses acknowledged that witness Stenclik’s
+
+testimony did not merely say that build limits could be unrealistic—he also said that after letting
+
+the model select the megawatts of solar it needed without a strict limit, then the Company and the
+
+Commission could use that information to make decisions:
+
+                Q. But you don’t disagree with that basic fact, correct? That you
+                always need to use the model as a great source of information, but
+                then the Company’s experience and the Commission’s experience
+                must then affect the ultimate decisions that are being made? 80
+                A. (Witness Hubert) I think what we testified to is like for the mixed
+                study and all the assumptions that go into the mix study the
+                importance of that it’s a few things. One, it does establish an
+                indicator of the types of resources that would be economic for
+                customers. Number two, it serves as the basis, the direct expansion
+                plan along with the existing fleet, serves as the basis for developing
+                avoiding energy costs, which are used to identify the benefits of
+                resource decisions whether it’s, you know, retirements [...]
+                renewable expansion, advanced side programs, all the above, many
+                of which are part of this IRP, that’s the importance. But it’s
+                important for us to apply practical, reasonable limits in the modeling
+                that’s used for those very important purposes for our system.
+
+78
+   Stenclik Testimony at 53.
+79
+   Id. at 52.
+80
+   Response to NRDC/SACE/Sierra Club’s Cross-Examination from Randy Hubbert, on behalf of Ga. Power Co.,
+3rd Hearing, Docket Nos. 56002 & 56003, https://www.youtube.com/live/klLdgtp42Vc at 8:13:45.
+
+                    Q. And regardless, after you’ve done your modeling, you still need
+                    to use your experience and the Commission’s guidelines to make the
+                    final decisions of the resources you’re going to use?
+                    A. (Witness Hubert) That’s right.
+
+           The modeling allows for “what if” scenarios that the Commission can use to inform its
+
+judgment. The role of modeling solar and wind as resource options in the IRP is to provide accurate
+
+information to stakeholders, who can then make informed decisions about what is realistic after
+
+considering what is economic and in the best interest of ratepayers. The goal is “not to constrain
+
+the analysis based on pre-determined decisions about what the utility considers reasonable or
+
+achievable.”81 Instead, here, the Company limited builds of clean technologies in its proposal, so
+
+there were no available options to meet load growth and coal retirements without a significant gas
+
+build. The Company’s 2025 IRP proposal is doing the opposite of their identified charge: Georgia
+
+Power is “embedding subjective decision-making assumptions into the model itself, thereby
+
+limiting the ability of the model to identify the least-cost or most prudent portfolio.”82 Removing
+
+artificial solar and wind build limits provides the opportunity for a higher clean energy buildout
+
+which can reduce emissions, mitigate financial risk, and offer comparable—if not lower—cost
+
+outcomes for customers.
+
+       4. Georgia Power Should Condition the Approval of Load-driven Transmission Projects
+
+           on Measurable Customer Commitments and Increase Regional Transmission
+
+           Planning Transparency
+
+           NRDC/SACE/Sierra Club’s witness Richwine found that several of the proposed
+
+transmission projects are driven by large, location-specific load additions. If large load customers
+
+like data centers fail to materialize –which is likely, as analyzed in Section 1–, then several of the
+
+
+81
+     Stenclik Testimony at 54.
+82
+     Id.
+
+Strategic Transmission investments will be under-utilized in the ten-year transmission planning
+
+horizon. To address this, witness Richwine recommended that Georgia Power “clearly attribute
+
+transmission project justifications to their primary drivers, be it large loads, solar integration,
+
+reliability reinforcement, or generation retirements, so the Commission and stakeholders can
+
+evaluate cost causation and system benefit”.83 This will enable the Commission to evaluate cost
+
+causation and system benefit, particularly for highly uncertain drivers like large loads. Witness
+
+Richwine also recommended that the Company “[c]ondition the approval, timing, or phasing of
+
+load-driven transmission projects on measurable customer commitments (e.g., executed
+
+interconnection agreements, construction milestones).”84 Conditioning approval to measurable
+
+commitments should be done consistently, whether the transmission project is needed to
+
+interconnect new generation or to interconnect new large loads.
+
+        Among other recommendations, Witness Richwine also recommended that the Company:
+
+        ● acknowledge that the geographic dispersion of smaller generation resources reduces
+
+stress on transmission infrastructure relative to large centralized generation and enables flexible,
+
+lower-cost interconnection, and
+
+        ● revise its modeling assumptions for battery resources to reflect real-world operations—
+
+specifically, their ability to discharge during peak and contingency conditions and provide voltage
+
+support at all times– which is reflected in the Company’s historical operating data for Mossy
+
+Branch.85
+
+        Finally, regarding transmission planning transparency, while Georgia Power’s rebuttal
+
+states that it will meet several of the intervenor suggestions through its compliance with FERC
+
+
+83
+   Richwine Testimony at 47.
+84
+   Id. at 48.
+85
+   See generally Richwine Testimony.
+
+Order 1920, that will not begin until June 2026. However, FERC’s Order 1920 requires three
+
+stakeholder meetings per multi-value strategic transmission planning cycle, which will be a 5-
+
+year cycle; additionally, the Southeastern Regional Transmission Planning (“SERTP”) stakeholder
+
+meetings are attended by Southern Company transmission planning staff, not Georgia Power, , and
+
+include all of the utilities that are members of SERTP. In contrast, Duke Energy, which is also a
+
+member of SERTP, holds a local planning process that is separate from the SERTP process–called
+
+the Carolinas Transmission Planning Collaborative or CTPC. Duke’s CTPC mirrors the Integrated
+
+Transmission System or ITS in Georgia in that it is a way for the large investor-owned utility to
+
+coordinate transmission with the cooperative and municipal utilities that are interconnected with
+
+its transmission system. However, one key difference between ITS and CTPC is that CTPC has a
+
+history of transparency and stakeholder engagement that the ITS lacks.86
+
+        The CTPC has a Transmission Advisory Group (“TAG”) that has held more than a dozen
+
+meetings since the beginning of 2022.87 Duke’s TAG is separate from coordinating with other
+
+utilities.88 Through the main stakeholder engagement body in the SERTP process (the Regional
+
+Planning Stakeholders Group), stakeholders are limited to certain industry sectors, and only two
+
+representatives from each sector can participate. In contrast, the CTPC’s TAG doesn't have limits
+
+on the sectors that can participate or the number of representatives from each sector, and anyone
+
+from the general public may sign up to attend.89
+
+
+86
+   The same projects in the GA 2024 ITS study in Technical Appendix 3 are listed in the 2025 SERTP Preliminary
+Expansion Plan Report that was released the week of June 16, 2025. However, in the SERTP expansion report, the
+project’s supporting statement is not redacted, and does not require signing an NDA to read.
+https://www.southeasternrtp.com/docs/general/2025/2025%20SERTP%20Preliminary%20Expansion%20Plan%20R
+eport%20(Non-CEII).pdf.
+87
+   Response to NRDC/SACE/Sierra Club’s Cross-Examination from Michael Robinson, on behalf of Ga. Power Co.,
+3rd Hearing, Docket Nos. 56002 & 56003, https://www.youtube.com/live/klLdgtp42Vc at 8:10:16.
+88
+   Id.
+89
+   Id.
+
+        As part of this IRP, the Commission can take action to increase transparency in the
+
+transmission planning process. Although transmission planning is the jurisdiction of FERC, these
+
+processes are still influenced by state commissions. Duke recently updated its transmission
+
+planning process to include multiple scenario planning. In its December 30, 2022 order approving
+
+Duke’s IRP and Carbon Plan, the North Carolina Utilities Commission directed that the NCTPC
+
+should “evolve by expanding transparency and coordination to address the increasing complexity
+
+and potential cost of the addition of proactive transmission planning into the NCTPC process.”90
+
+This is just one example of an enhanced transmission planning process that the Commission could
+
+encourage the Company to adopt.
+
+IV.     CONCLUSION
+
+        For the reasons stated above, the Commission should deny approval of Georgia Power’s
+
+load forecast, direct the Company to stay committed to retiring Plant Bowen Units 1-2 and Scherer
+
+Unit 3, direct the Company to run a scenario that removes artificial solar and wind build limits,
+
+and direct Georgia Power to adopt Staff’s and intervenors’ recommendations on transmission
+
+planning, particularly interregional transmission and transmission for large loads.
+
+        Respectfully submitted this 3rd day of July, 2025.
+
+                                                  ___/s/ Isabella Ariza___________________
+                                                  Isabella Ariza
+                                                  Sierra Club
+                                                  50 F Street, NW - 8th Floor
+                                                  Washington, DC 20001
+                                                  isabella.ariza@sierraclub.org
+
+                                                  Counsel for NRDC, SACE, and Sierra Club
+
+
+90
+   NCUC 2022 Carbon Plan IRP Order, #58, Docket No. E-100, Sub 179, North Carolina Utilities Commission,
+starw1.ncuc.gov/NCUC/ViewFile.aspx?Id=7b947adf-b340-4c20-9368-9780dd88107a at 41.
+
+                                 CERTIFICATE OF SERVICE
+
+       I do hereby certify that I have this 3rd day of July 2025, served the following parties with
+
+the foregoing POST-HEARING BRIEF OF THE NRDC, SACE, AND SIERRA CLUB, via
+
+hand delivery, email and or US mail to all recipients on the service list for this docket.
+
+                                              This July 3, 2025
+
+                                              __/S/Curt Thompson___
+                                              Curt Thompson
+                                              GSBN: 707663
+                                              3775 Venture Drive, D100
+                                              Duluth, GA 30096
+                                              curtbthompson@bellsouth.net
+
+                                              Counsel for NRDC, SACE, and Sierra Club

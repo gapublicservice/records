@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108018,
+      "bytes": 1275895,
+      "name": "dkt_56765_44280_tariff_filing.zip",
+      "text": "zip (2 read, 7 not read)",
+      "text_file": "data/text/226/226753/108018.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226753/108018"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company’s Fuel Cost Recovery (FCR-27) Application; Docket No. 56765 and Georgia Power Company’s Storm Damage Recovery Application; Docket No. 44280 - Temporary Rate Adjustment Riders",
+  "dockets": [
+    44280,
+    56765
+  ],
+  "document_id": 226753,
+  "filed_date": "2026-05-29",
+  "harvested": "2026-11-19",
+  "received_date": "2026-05-29",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226753"
+}

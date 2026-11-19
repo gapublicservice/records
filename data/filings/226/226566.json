@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 107837,
+      "bytes": 198014,
+      "name": "dkt_56765_gpil-1_pd.zip",
+      "text": "zip (7 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/226/226566/107837.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226566/107837"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "GPIL-1 PD Hearing Request Responses",
+  "dockets": [
+    56765
+  ],
+  "document_id": 226566,
+  "filed_date": "2026-05-13",
+  "harvested": "2026-11-19",
+  "received_date": "2026-05-13",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226566"
+}

@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103163,
+      "bytes": 4325823,
+      "name": "dkt_56002_56003_stf-bai-1_pd.zip",
+      "text": "zip (14 read, 4 not read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/222/222010/103163.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222010/103163"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 56002 & 56003 STF-BAI-1 PD Data Request Responses",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222010,
+  "filed_date": "2025-03-25",
+  "harvested": "2026-11-19",
+  "received_date": "2025-03-25",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222010"
+}

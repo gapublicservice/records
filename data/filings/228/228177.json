@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109300,
+      "bytes": 71425,
+      "name": "dkt_44280_executed_large_load_contract_pd (2).zip",
+      "text": "zip (2 read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228177/109300.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228177/109300"
+    },
+    {
+      "attachment_id": 109305,
+      "bytes": 32824,
+      "name": "Large Load Contract - Filing Executed Contract 8.27.26.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228177/109305.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228177/109305"
+    },
+    {
+      "attachment_id": 109306,
+      "bytes": 65850,
+      "name": "Large Load Contract - Filing Executed Contract 8.27.26.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228177/109306.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228177/109306"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Executed Large Load Contract PD 8 27 2026",
+  "dockets": [
+    44280
+  ],
+  "document_id": 228177,
+  "filed_date": "2026-08-27",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-27",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228177"
+}

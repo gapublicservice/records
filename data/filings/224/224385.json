@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105666,
+      "bytes": 238924,
+      "name": "dkt_56298_56310_stf-pia-16-pd.zip",
+      "text": "zip (5 read, 3 trade-secret-marked files skipped)",
+      "text_file": "data/text/224/224385/105666.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224385/105666"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 56298 & 56310 STF-PIA-16-PD Data Request Responses",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 224385,
+  "filed_date": "2025-10-31",
+  "harvested": "2026-11-19",
+  "received_date": "2025-10-31",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=224385"
+}

@@ -1,0 +1,23 @@
+===== All-Source Supp. Resources Errata to STF-PIA-5-2 Transmittal.pdf =====
+
+
+===== STF-PIA-5-2 - Errata.docx =====
+STF-PIA-5-2
+
+Question: 
+
+Referring to the “P1” probability in the LRM, for the range of values possible under the P1 probability, please clarify how the Company assigns possible values to each project. If a value assignment rubric or methodology exists, please provide this rubric and an explanation of what each likelihood value represents.
+
+Response:
+
+Ownership – Owns the site; P1 Probability = 100%
+Option/Purchase and Sale Agreement (control) – Holds an option to purchase or lease the site; P1 Probability = 100%
+LOI (intent to control) – Holds a binding easement or license granting rights to develop and operate on the site; P1 Probability = 100%
+No site control - No legal rights over the site; P1 Probability = 50%
+
+Revised Response (Errata): 
+After further review, it was discovered that the Company’s initial response to STF‑PIA‑5‑2 omitted certain cases that are necessary to describe to provide a complete response. The revised response below (i) clarifies what the selection of Georgia (P1 probability) is intended to communicate in the Load Realization Model (“LRM”), (ii) clarifies how the Company differentiates between data centers and other industrial customers for intake requirements, and (iii) highlights a few exceptions for data center customers. 
+In the LRM, the P1 probability reflects a customer’s first decision, whether to site its project in Georgia, which is evidenced by the identification of a specific site within the state. Evidence of this decision serves as an indicator of readiness to proceed with the Company’s technical review stages and marks the transition from preliminary activities with Georgia Power’s Economic Development department to formal processing within the Company’s Customer Choice department. Historically, customers have demonstrated state selection by providing location-specific information.
+Effective May 2025, the Company requires site-control documentation at intake for all new data center projects, meaning executed documentation that establishes legal rights to control of the site.
+Industrial customers are not subject to the site control documentation requirement. In addition, some legacy data center projects, those which entered the pipeline early, have not yet provided this documentation. For those projects, state selection in the LRM continues to be evidenced by the customer’s provision of location-specific information rather than documented site control. This impacts approximately seven projects included in the Company’s large load pipeline, three of which are on hold. Going forward, the Company will request site control documentation for all data center customers, and if it is not received, these customers may be placed on hold or withdrawn from the large load pipeline.
+For data centers specifically, the Company applies a binary approach for assigning P1 values. A probability of 100% is assigned when the customer provides executed documentation demonstrating legally enforceable site control. Qualifying instruments include an executed lease, an executed option to purchase or lease, an executed purchase and sale agreement, or another legally enforceable instrument that provides rights to develop and operate on the site, such as an easement or license. If a data center customer has identified a preferred site and communicated location information but has not provided executed documentation evidencing enforceable site control, the Company assigns a P1 probability of 50%.

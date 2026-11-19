@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109634,
+      "bytes": 273575,
+      "name": "dkt_44280_stf-asr-14_public_disclosure.zip",
+      "text": "zip (8 read, 3 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228383/109634.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228383/109634"
+    },
+    {
+      "attachment_id": 109635,
+      "bytes": 54279,
+      "name": "STF-ASR-14 Affidavit.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228383/109635.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228383/109635"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-ASR-14 Data Request Responses",
+  "dockets": [
+    44280
+  ],
+  "document_id": 228383,
+  "filed_date": "2026-09-10",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-10",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228383"
+}

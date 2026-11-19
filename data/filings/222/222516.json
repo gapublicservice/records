@@ -1,0 +1,42 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103631,
+      "bytes": 284776,
+      "name": "56002.Exhibit SP-1 - Resume for Douglas A. Smith.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222516/103631.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222516/103631"
+    },
+    {
+      "attachment_id": 103632,
+      "bytes": 294111,
+      "name": "56002.PIA Staff - Direct Testimony of Douglas Smith & Sasikumar Kannan.PD.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222516/103632.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222516/103632"
+    },
+    {
+      "attachment_id": 103633,
+      "bytes": 665153,
+      "name": "56002.Exhibit SP-2 - Resume for Sasikumar Kannan.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222516/103633.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222516/103633"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY AND EXHIBITS OF DOUGLAS A. SMITH AND SASIKUMAR KANNAN",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222516,
+  "filed_date": "2025-05-05",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-05",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222516"
+}

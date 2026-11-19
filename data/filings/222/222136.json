@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103323,
+      "bytes": 52701,
+      "name": "DKT 56002 and 56003 Cert App Fee (002).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222136/103323.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222136/103323"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Fee Submission for Georgia Power’s 2025 Integrated Resource Plan, Docket No. 56002 and Georgia Power Company’s 2025 Application for the Certification, Decertification, and Amended Demand-Side Management Plan, Docket No. 56003",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222136,
+  "filed_date": "2025-04-01",
+  "harvested": "2026-11-19",
+  "received_date": "2025-04-01",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222136"
+}

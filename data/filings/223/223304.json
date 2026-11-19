@@ -1,0 +1,40 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104532,
+      "bytes": 8608737,
+      "name": "2025 IRP-DSM Stipulation signed.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223304/104532"
+    },
+    {
+      "attachment_id": 104533,
+      "bytes": 214147,
+      "name": "2025 IRP_DSM Stipulation Cover Letter.docx",
+      "text": "docx",
+      "text_file": "data/text/223/223304/104533.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223304/104533"
+    },
+    {
+      "attachment_id": 104534,
+      "bytes": 95232,
+      "name": "56002 & 56003 Ser.List.doc",
+      "text": "not read: .doc",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223304/104534"
+    }
+  ],
+  "company": "Staff",
+  "description": "Stipulation Between Public Interest Advocacy Staff and Georgia Power Company",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 223304,
+  "filed_date": "2025-07-09",
+  "harvested": "2026-11-19",
+  "received_date": "2025-07-09",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223304"
+}

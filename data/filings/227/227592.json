@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108902,
+      "bytes": 183547,
+      "name": "dkt_44280_-_large_load_contract_review_extension_letter (1).zip",
+      "text": "zip (2 read)",
+      "text_file": "data/text/227/227592/108902.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227592/108902"
+    },
+    {
+      "attachment_id": 108903,
+      "bytes": 52232,
+      "name": "DKT 44280 - Large Load Contract Review Extension Letter (1).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227592/108903.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227592/108903"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Large Load Contract Review Extension Letter",
+  "dockets": [
+    44280
+  ],
+  "document_id": 227592,
+  "filed_date": "2026-08-13",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-13",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227592"
+}

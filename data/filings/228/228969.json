@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109886,
+      "bytes": 258541,
+      "name": "57243 Order on Mo to Stay.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228969/109886.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228969/109886"
+    },
+    {
+      "attachment_id": 109887,
+      "bytes": 181518,
+      "name": "COS - Sustainable Newton v. VoltaGrid.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228969/109887.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228969/109887"
+    }
+  ],
+  "company": "Staff",
+  "description": "ORDER ON RESPONDENT, VOLTAGRID, LLC’S MOTION TO STAY PROCEEDINGS",
+  "dockets": [
+    57243
+  ],
+  "document_id": 228969,
+  "filed_date": "2026-09-28",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-28",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228969"
+}

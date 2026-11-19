@@ -1,0 +1,46 @@
+===== DKT 56002 & 56003 STF-PIA-10/DRSUM 56002 & 56003 STF-PIA-10 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      April 14, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-PIA-10
+1
+COMPLETE
+NONE
+`
+
+===== DKT 56002 & 56003 STF-PIA-10/STF-PIA-10 Verification.pdf =====
+
+
+===== DKT 56002 & 56003 STF-PIA-10/STF-PIA-10-1.docx =====
+STF-PIA-10-1
+Question:
+Please refer to the IRP Main Document, p. 104 regarding Georgia Power’s proposed Residential and Commercial Solar Plus Storage Pilot Program:  
+For the purposes of this program, how is small commercial being defined? 
+For the Company-directed program, how frequently does the Company anticipate discharging customer batteries? 
+To calculate capacity under the Company-directed program, the proposed calculation is "the lower of (1) the maximum continuous discharge rate of the battery or (2) 80% of the energy storage capacity (kWh) divided by two." Should this be interpreted to mean that the maximum expected event duration for the company-directed program is two hours? 
+For the customer-directed program, the maximum event duration is 4 hours. If a four-hour event were called, would aggregators be directed to discharge batteries at a consistent rate over a four hour period, or would the battery be discharged at the maximum rate until depleted? 
+Under the customer-directed program, will customers have the ability to reserve a portion of their battery for resiliency purposes, or is their only option to opt in or out of an event? 
+Under the Company-directed program, will customers be free to discharge their battery in response to price signals under a TOU rate when the battery is not being used by the company?  
+Under both programs, does the Company intend to give customers some advance warning of an anticipated call/discharge event if it is able to do so? 
+For both programs, will energy discharged from a battery serve on-site needs first, or will it be exported to the grid? 
+If these programs would have been available in the 2020-2024 calendar years, how frequently would systems have been discharged under each program? Please provide your answer in an Excel spreadsheet that provides the date, time, and expected duration of each would-be call.
+
+Response:
+For the purposes of the Residential and Commercial Solar Plus Storage Pilot Program, small commercial is defined as customers with peak load less than or equal to 250 kW, as stated on page 102 of Georgia Power’s 2025 Integrated Resource Plan (“IRP”) Main Document. 
+For the Company-Directed pathway, the Company anticipates discharging customer battery energy storage systems (“BESS”) daily when conditions are appropriate to benefit the grid.
+Under the Company-Directed pathway, the BESS dispatch would not be discrete-event driven. The Company will continually monitor and control the distributed BESS assets based on System need. The incentive was derived based on the Effective Load Carrying Capability (“ELCC”) of a 2-hour battery, which assumes those assets can contribute to reserves and/or other ancillary services. 
+ For the Customer-Directed pathway, the Company would work with the implementor to determine the optimal dispatch strategy during an event call. This could include either a consistent discharge rate over the event duration or discharging at maximum until reaching a customer-established threshold.  
+Yes, under the Customer-Directed pathway, customers will have the ability to reserve a portion of their BESS for resiliency purposes. They will be compensated under the pay for performance model only for energy delivered during event calls. 
+No, under the Company-Directed pathway, customers will not be directly operating the BESS. The BESS operation will be managed by the Company based on System need, which should be correlated with TOU pricing signals.  
+Under the Customer-Directed pathway, the Company intends to give customers notice of an anticipated call/discharge event like the existing residential demand response (“DR”) program. In the Company-Directed pathway, the Company does not plan on notifying the customer each time the BESS is operated.
+For both pathways, energy discharged from a BESS will be capable of export to the grid if discharge exceeds load but will serve on-site needs first.
+The Company has not conducted a retrospective analysis to determine when systems would have been discharged if this pilot program had been in place in previous years.

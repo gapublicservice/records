@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108873,
+      "bytes": 39232,
+      "name": "voltagrid_anwer.docx",
+      "text": "docx",
+      "text_file": "data/text/227/227557/108873.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227557/108873"
+    },
+    {
+      "attachment_id": 108874,
+      "bytes": 103970,
+      "name": "voltagrid_anwer.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227557/108874.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227557/108874"
+    }
+  ],
+  "company": "VoltaGrid, LLC, VoltaGrid, LLC",
+  "description": "Answer of Respondent, VoltaGrid, LLC",
+  "dockets": [
+    57243
+  ],
+  "document_id": 227557,
+  "filed_date": "2026-08-12",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-12",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227557"
+}

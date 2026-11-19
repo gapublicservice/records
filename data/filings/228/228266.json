@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109438,
+      "bytes": 60945,
+      "name": "dkt_57171_stf-jka-2-1_supp_pd.zip",
+      "text": "zip (1 read, 2 not read)",
+      "text_file": "data/text/228/228266/109438.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228266/109438"
+    },
+    {
+      "attachment_id": 109439,
+      "bytes": 32158,
+      "name": "STF-JKA-2-1 Supplemental.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228266/109439.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228266/109439"
+    },
+    {
+      "attachment_id": 109440,
+      "bytes": 59329,
+      "name": "STF-JKA-2-1 Supplemental.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228266/109440.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228266/109440"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-JKA-2-1 Supplemental Data Request Response",
+  "dockets": [
+    57171
+  ],
+  "document_id": 228266,
+  "filed_date": "2026-09-02",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-02",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228266"
+}

@@ -1,0 +1,2379 @@
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+Georgia Power Company’s 2025)Docket No. 56002
+Integrated Resource Plan )
+
+Georgia Power Company’s 2025)Docket No. 56003
+APPLICATION FOR THE CERTIFICATION, )
+DECERTIFICATION, AND AMENDED)
+DEMAND SIDE MANAGEMENT PLAN ) 
+
+
+TRADE SECRET
+
+DIRECT TESTIMONY AND EXHIBITS
+
+OF
+
+ROBERT L. TROKEY
+
+DYLAN A. DRUGAN
+
+AND
+
+KARAN A. POL
+
+
+ON BEHALF OF THE 
+
+GEORGIA PUBLIC SERVICE COMMISSION
+PUBLIC INTEREST ADVOCACY STAFF
+
+May 5, 2025
+
+
+TABLE OF CONTENTS
+
+I.Introduction1
+II.Summary of Findings, Conclusions, and Recommendations4
+III.Summary of Company Load Forecast11
+IV.Comparison to 2023 IRP Update23
+V.Organic Load Forecast27
+VI.Large Load Realization Model43
+VII.Forecast Uncertainties71
+VIII.Staff Adjustments to B2025 Load Forecasts80
+IX.Compliance with the Rules and Regulations of the State of Georgia90
+X.Conclusions & Recommendations93
+
+
+Staff Exhibit #Description
+RLT-1Resume of Robert L. Trokey
+DD-1Resume of Dylan A. Drugan
+KAP-1Resume of Karan A. Pol
+Introduction
+Q.STAFF, please state your name, TITLE, and business address.
+A.My name is Robert L. Trokey. I am the Director of the Electric Section at the Georgia Public Service Commission (Commission or GPSC). My business address is 244 Washington St. SW, Atlanta, GA 30334. 
+Q.Please state your educational background and work experience.
+A.My background and experience are provided in Exhibit RLT-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION?
+A.Yes. I have testified in prior Integrated Resource Planning dockets and Rate Cases, including Docket Nos. 44160 and 44280 in 2022 and Docket 55378 regarding the 2023 IRP Update. 
+Q.MR. Drugan, please state your name, TITLE, and business address.
+A.My name is Dylan A. Drugan. I am a Senior Consultant with Daymark Energy Advisors, Inc. My business address is 370 Main Street, Suite 325, Worcester, Massachusetts, 01608.
+Q.Please state your educational background and work experience.
+A.My background and experience are provided in Exhibit DAD-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION?
+A.No. I have testified in other jurisdictions. A list of my testimony is provided in Exhibit DAD-1.
+Q.Mr. Pol, Please state your name, TITLE, and business address.
+A.My name is Karan A. Pol. I am an Energy Consultant with Daymark Energy Advisors, Inc. My business address is 370 Main Street, Suite 325, Worcester, Massachusetts, 01608.
+Q.Please state your educational background and work experience.
+A.My education and experience are provided in Exhibit KAP-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION or other Commissions?
+A.Yes. I have testified before this Commission before in Docket 55378 regarding the 2023 IRP Update. I have also testified in front of the Utah Public Service Commission. Please see Exhibit KAP-1 for further discussion of my testifying experience.
+Q.ON WHOSE BEHALF ARE YOU TESTIFYING?
+A.We are testifying on behalf of the GPSC Public Interest Advocacy Staff (Staff). 
+
+Q.Please summarize the purpose of your testimony.
+A.The purpose of this testimony is to provide the conclusions of our review of the methodology and results of the 2025 load forecast (“B2025”) produced by the Georgia Power Company (“GPC” or “Company”) for its 2025 Integrated Resource Plan (“IRP”).
+
+Summary of Findings, Conclusions, and Recommendations
+Q.please summarize your Findings and conclusions.
+A.The Company’s B2025 load forecast consists of two separate load forecasts. The first forecast is the organic load forecast which refers to growth based on historical customer trends excluding new large load customers. The second forecast is the new large load forecast. The Company’s B2025 load forecast uses a generally reasonable forecasting approach and methodology for both the organic load forecast and the large load forecast, given the limitations in currently available historical data for emerging data center projects. However, there are significant concerns regarding the underlying assumptions, model specifications, calibration processes, and input data for the model.
+For the organic load forecast, the following conclusions are clear:
+The short-term  Commercial Customer Growth model uniquely exhibits indicators of model fit and error that demonstrate statistical bias in the model, indicating a risk of overestimation. Specifically, the  coefficient of determination falls  outside the preferable range and model errors demonstrate a persistent overestimation.
+The short-term Residential Customer Growth model also exhibits high model errors, though its coefficient of determination is acceptable.
+The calibration of the long-term energy models to the short-term energy models may carry any overestimation present in the short-term energy models. This is particularly a concern for the short-term Commercial Customer Growth model , which results in a persistent overestimation bias.
+Due to economic uncertainty, multiple short-term models may not accurately reflect current and developing market conditions. Models that contain indicators of unemployment, recessions, housing development, or any other economic activity may thus be out of date, potentially introducing further overestimation bias.
+For the large load forecast, which is separate from the organic load forecast, the following conclusions are clear:
+Since the 2023 IRP Update, the Company has identified a significant rate of project removals and net load reductions in its large load pipeline.
+Since the 2023 IRP Update, the Company’s near-term large load forecast has consistently reduced growth expectations.
+Project removals and net load reductions are concentrated amongst data center projects, particularly those in the Technical Review stage.
+Approximately 54% of the large load pipeline as of Q2 2024 is represented by data center projects in the Technical Review Stage, based on 2037 announced load. 
+The Company’s Budget 2025 Load Realization Model (“LRM”), which is the basis for the large load forecast, continues to add new data center projects, increasing the proportion of the large load pipeline represented by data centers.
+The B2025 LRM continues to assume that data center and crypto currency projects will materialize at a rate higher than other industry segments without sufficient justification.
+The B2025 LRM unreasonably biases the materialization of data center projects, potentially leading to overestimation in the large load forecast.
+The B2025 LRM does not consider seasonal variation in project operations which may lead to an overestimation of peak load in the Winter season. 
+The Company’s Project Success assumptions are subjectively set for each project, introducing the potential for further bias.
+The Company has not updated the underlying assumptions of the B2025 LRM. As such, the B2025 LRM does not account for any of the trends identified in these conclusions.
+The Company has not outlined a plan to update the assumptions in the LRM.
+The data provided in the quarterly large load economic development reports has provided significant transparency on the development and materialization of large loads. Without the data produced from these quarterly reports, the Commission, Staff, and the public would not be able to observe the significant rate of project removals identified in this testimony.
+Regarding compliance with the Rules and Regulations of the State of Georgia, the following conclusions are clear:
+The Company has partially failed to comply with Rules 515-3-4-.03(3)(d) and 515-3-4-.06(3)(c) by failing to provide summary statistics for the hourly models used in the Company’s peak load forecast as a part of its initial filing.
+The Company has partially failed to comply with Rule 515-3-4-.03(4) by failing to test sensitivities in the underlying assumptions of the Load Realization Model. Instead, the Company has only provided an evaluation of the model at the P50 and P95 levels.
+The Company may have failed to comply with Rule 515-3-4-.06(3)(a)6. The Company has not defined a schedule under which it will update and refine the quality of the data and assumptions used in the Load Realization Model. 
+The Company may need to file an amendment to its IRP if the economic indicator data underlying its load forecast has changed significantly, pursuant to Rule 515-3-4-.06(5)(c). 
+Q. PLEASE PROVIDE STAFF’S RECOMMENDATIONS TO THE COMMISSION.
+A.Based on the conclusions of our review, Staff recommends that the Commission require the Company to:
+Validate the factors that led to the significant residual errors and high MAPE in the ST Residual Customer Growth model. If necessary, these issues should be addressed in future forecast vintages.
+Validate the factors that led to significant residual errors and high MAPE in the ST Commercial Customer Growth model. If necessary, these issues should be addressed in future forecast vintages.
+Examine, explain, and justify the magnitude of the pre-adjustment calibration between the ST Commercial Sales forecast and the LT Commercial Sales forecast. The justification should include a quantitative demonstration of the calibration process as well as a comparison to the magnitude of historical calibrations.
+Consider generating the Project Success assumption on a probabilistic basis, similar to the Project Delay and Load Materialization assumptions. If the Company determines that this methodology is inappropriate, the Company should explain why in this proceeding.
+Provide a plan for how the Load Realization Model will be operated long-term. Specifically, the Company should explain how it intends to avoid double-counting between the Large Load and Organic Load forecasts. Additionally, the Company should explain how it will treat large loads in the Load Realization Model once they begin commercial operation.
+Provide a plan for how the Company will use the quarterly large load economic development reports and any other relevant data to improve and refine the underlying assumptions of the LRM. This plan should be submitted following this proceeding to ensure that the Company can refine its data tracking and analysis of customers in the large load pipeline. The plan should describe a revision and validation process that is repeated on a quarterly basis, in line with the quarterly large load economic development reports.
+Continue providing quarterly large load economic development reports. In addition to the data currently provided in the quarterly reports, the Company should provide the following additional information:
+The quarter in which the project entered the large load pipeline,
+The announced load of the project when it first entered the large load pipeline,
+Whether the customer is considering sites outside of Georgia, and
+A description and quantification of financial commitments provided by each large load customer.
+File a report one year after the implementation of its proposed minimum billing requirements, explaining how the new tariffs and contract structure have impacted the large load forecast and the large load pipeline. The results of this report should be used to adjust the Load Realization Model accordingly.
+Accept the “Staff Adjustment” to the Load Realization Model, which sets load materialization assumptions uniformly for all industry segments at the ************ range, decreasing the load materialization assumptions for data center and cryptocurrency projects by 20%/25%/15%.
+Pursuant to Rules 515-3-4-.03(3)(d) and 515-3-4-.06(3)(c), provide model parameter and related summary statistics in a similar format to the 2025 IRP filing for all statistical and econometric models, including but not limited to the hourly regression models used in the Peak Forecast model. While the Company provided this data in response to DRs, this information should be provided up-front in the Company’s initial filing.
+Pursuant to Rule 515-3-4-.06(3)(a)6, develop sensitivities to the Load Realization Model that test variation in underlying assumptions (Project Success, Ramp-Up Delay, and Load Materialization).
+Pursuant to Rule 515-3-4-.06(3)(a)6, file a report to the Commission in this docket outlining how the Company will evaluate and incorporate into the current LRM the data produced from all prior LRM vintages as well as the quarterly large load development reports filed in Docket 55378.
+Submit an amendment to the 2025 IRP with an updated load forecast if seasonal peak load materializes at an error rate of 8% or greater. The error rate shall be defined as the absolute value of the difference between forecasted seasonal peak load and actual seasonal peak load, relative to forecasted seasonal peak load.
+
+Q.please provide an overview of your testimony.
+A.The Company’s B2025 forecast presents significant potential for overestimation of both energy and peak load. This overestimation is evidenced in the errors of econometric models as well as the diminished materialization of large-load economic development customers relative to forecasted load. Based on this overestimation, Staff proposes an adjustment to the Company’s B2025 forecast, specifically regarding the large load forecast. Staff’s adjustment is a reasonable accounting for potential overestimation in the large load forecast, while acknowledging that further potential for overestimation remains as a result of both structural concerns in the historically informed forecast as well as market conditions that may result in diminished load materialization.
+In order, this testimony discusses the following topics:
+The structure of forecasting practices used to estimate load growth based on historical trends, as well as any concerns with the methodology or results of these practices.
+The structure of the forecasting practices used to estimate growth from large load customers, as well as any concerns with the methodology or results of these practices.
+The impact of market conditions or other exogenous uncertainties that may cause the load forecast to materialize lower than expected for both historically driven forecast categories as well as large load customers.
+Staff’s proposed adjustments to the Company’s B2025 Load Forecast.
+The Company’s compliance with the Rules and Regulations of the State of Georgia and any areas in which the Company’s filing could benefit from further information in future IRPs.
+Staff’s conclusions and recommendations regarding the Company’s load forecast filing.
+Summary of Company Load Forecast
+Q.What is the purpose of a load forecast in the context of an IRP?
+A.Load forecasts are intended to project the expected level of energy (“Megawatt-Hours” or “MWh”) and peak load (“Megawatts” or “MW”) for its customers over time so that a utility may assess its ability to serve those needs throughout the forecast period. It is standard practice in the industry to additionally consider a range of alternate scenarios to the expected forecast, informed by different economic, technological, or policy assumptions. Through this range of forecasts, the utility and any regulating bodies may assess uncertainties in the utility’s load forecast and evaluate downstream impacts on resource planning and ratemaking. As such, a utility should aim to fulfill the following goals with each load forecast:
+Develop an expected level of energy and peak load through its forecast period based on the most recent and accurate data available, and
+Consider key uncertainties which may impact this expected forecast and define these uncertainties as alternate scenarios.
+Q.Please summarize the company’s filed load forecast.
+A.The Company is forecasting significant growth on both an energy and peak load basis, as demonstrated in Table 1 and Figure 1 below. The Company expects seasonal peak load to grow at nearly 3% compounded annually, while energy requirements are expected to grow at nearly 4% compounded annually.
+Table 1: Summary of B2025 Load Forecast
+Year
+Energy (GWh)
+Summer Peak (MW)
+Winter Peak (MW)
+2024
+              91,561 
+                   17,193 
+               15,992 
+2025
+              95,294 
+                   17,802 
+               16,264 
+2026
+           102,557 
+                   18,770 
+               16,892 
+2027
+           116,340 
+                   20,552 
+               18,334 
+2028
+           133,719 
+                   22,730 
+               20,320 
+2029
+           148,718 
+                   24,621 
+               22,168 
+2030
+           159,372 
+                   25,841 
+               23,612 
+2031
+           165,702 
+                   26,554 
+               24,469 
+2032
+           169,287 
+                   26,895 
+               24,900 
+2033
+           171,652 
+                   27,268 
+               25,213 
+2034
+           174,043 
+                   27,550 
+               25,451 
+2035
+           176,365 
+                   27,790 
+               25,653 
+2036
+           178,515 
+                   27,939 
+               25,768 
+2037
+           180,221 
+                   28,206 
+               25,987 
+2038
+           182,040 
+                   28,412 
+               26,216 
+2039
+           184,137 
+                   28,675 
+               26,605 
+2040
+           186,391 
+                   28,839 
+               26,917 
+2041
+           188,280 
+                   29,219 
+               27,295 
+2042
+           190,386 
+                   29,619 
+               27,687 
+2043
+           192,476 
+                   30,030 
+               28,118 
+2044
+           194,890 
+                   30,514 
+               28,544 
+CAGR
+3.85%
+2.91%
+2.94%
+ 
+Figure 1: Summary of B2025 Load Forecast
+
+The key years of energy and peak load growth are from 2027 through 2029, where the annual increase for both energy and peak exceeds 8%, as shown in Table 2 below.
+
+Table 2: B2025 Load Forecast, Annual Change Trends (%)
+Year
+Energy
+Summer Peak
+Winter Peak
+2024
+--
+--
+--
+2025
+4.08%
+3.54%
+1.70%
+2026
+7.62%
+5.44%
+3.86%
+2027
+13.44%
+9.49%
+8.54%
+2028
+14.94%
+10.60%
+10.83%
+2029
+11.22%
+8.32%
+9.09%
+2030
+7.16%
+4.96%
+6.51%
+2031
+3.97%
+2.76%
+3.63%
+2032
+2.16%
+1.28%
+1.76%
+2033
+1.40%
+1.39%
+1.26%
+2034
+1.39%
+1.03%
+0.94%
+2035
+1.33%
+0.87%
+0.79%
+2036
+1.22%
+0.54%
+0.45%
+2037
+0.96%
+0.96%
+0.85%
+2038
+1.01%
+0.73%
+0.88%
+2039
+1.15%
+0.93%
+1.48%
+2040
+1.22%
+0.57%
+1.17%
+2041
+1.01%
+1.32%
+1.40%
+2042
+1.12%
+1.37%
+1.44%
+2043
+1.10%
+1.39%
+1.56%
+2044
+1.25%
+1.61%
+1.52%
+Q.Please summarize the methodology underpinning the company’s Load forecast.
+A.The Company’s load forecast consists of two core pieces: the historically informed “organic” load forecast and the probabilistic large load forecast. 
+The organic load forecast uses multiple techniques to produce a class-based energy forecast which is then converted to a peak load forecast. The large load forecast uses a probabilistic model, the Load Realization Model (“LRM”), to produce external adjustments to both the energy and peak load forecasts for Commercial projects greater than 115 MW and Industrial projects greater than 45 MW.
+Beyond these two core components, the Company makes several additional adjustments to its energy and peak load forecasts, accounting for growth in electric vehicles, behind-the-meter (“BTM”) solar, DSM, and industrial cogeneration. 
+Q.Is the Company’s b2025 load forecast in line with historical growth?
+A.No. As shown in Table 3,  Georgia Power’s growth in actual annual peak load from 2018 to 2024 was 0.84% and 1.14% for summer and winter, respectively. The Company’s 20-year annual peak load growth forecasted in the B2025 IRP is significantly greater than historical trends, expected to grow at nearly three times the 5-year historical growth rate. When compared against the first seven years of the forecast period, this difference is more pronounced. The peak growth rate from 2024-2032 is more than five times the level of growth observed from 2018 to 2024 on a compound annual growth basis.
+Table 3: Actual Peak Growth Trends
+Year
+
+Summer
+Winter
+2018
+
+          15,748 
+          15,372 
+2019
+
+          16,572 
+          14,394 
+2020
+
+          15,831 
+          14,425 
+2021
+
+          16,213 
+          14,499 
+2022
+
+          17,074 
+          15,674 
+2023
+
+          16,720 
+          14,227 
+2024
+
+          16,555 
+          16,458 
+CAGR, 2018-2024
+
+0.84%
+1.14%
+CAGR, 2024-2032
+
+6.41%
+6.26%
+CAGR, 2032-2044
+
+1.06%
+1.04%
+CAGR, 2024-2044
+
+2.91%
+2.94%
+Actual peak loads from 2001 to 2024 are compared against the B2025 forecast in Figure 2 below,  showing that forecasted peak load diverges from any historical growth trends.
+Figure 2: Actual Peak Load vs. B2025 Forecast Peak Load
+
+Q.Please explain the key drivers of PROJECTED load growth Beyond historical trends in the COMPANy’S b2025 forecast.
+A.Load growth is a function of organic load growth and new large load customers - primarily data centers. Organic growth represents the load associated with normal population and economic growth and does not include growth associated with large load customers. 
+Through 2044, the Company is expecting to add 13,321 MW to Summer peak load and 12,552 MW to Winter peak load. As shown in Table 4, data centers are driving a significant majority of peak load growth in the Company’s filed forecast (at least **% of peak load growth through 2044), along with some other unidentified Commercial class customers (~**% of peak load growth through 2044). Residential class growth is the next largest growth driver (at least **% of peak load growth through 2044), driven by customer growth and electric vehicle adoption. 
+ All of the projected large Commercial load growth consists of datacenters. Projected organic Commercial load growth is driven by energy-intensive customers, demonstrated by a modest projected customer growth rate (~0.79%% CAGR from 2024 to 2044) but a rapidly growing sales forecast (~6.37% CAGR from 2024 to 2044). 
+As such, data centers and similar high load factor projects may represent anywhere from ~**% (most) up to ~**% (nearly all) of the peak load growth forecasted through 2044, based on the analysis in Table 4. 
+Table 4: B2025 Load Forecast, Key Growth Drivers for Coincident Peak Load, 2024-2044
+
+
+Summer
+ 
+
+Winter
+
+
+Category
+Item
+Cumulative Growth (MW)
+Portion of Cumulative Growth (%)
+CAGR (%)
+Cumulative Growth (MW)
+Portion of Cumulative Growth (%)
+CAGR (%)
+Organic Load Forecast
+Residential
+****
+****
+1.3%
+****
+****
+1.1%
+
+Commercial
+****
+****
+2.1%
+****
+****
+2.4%
+
+Industrial
+****
+****
+0.8%
+****
+****
+0.6%
+
+Governmental Lighting
+****
+****
+1.6%
+****
+****
+-1.9%
+
+MARTA
+****
+****
+-0.8%
+****
+****
+-0.8%
+Coincident Peak Adjustments
+Cogeneration
+****
+****
+8.5%
+****
+****
+8.5%
+
+DSM
+****
+****
+13.4%
+****
+****
+10.2%
+Large Load Adjustments
+Commercial Large Loads
+****
+****
+34.3%
+****
+****
+34.3%
+
+Industrial Large Loads
+****
+****
+19.7%
+****
+****
+19.7%
+Total
+ 
+13,321 
+100.0%
+1.0%
+12,552 
+100.0%
+2.9%
+
+On a compounded growth basis, the fastest projected load growth originates from the Commercial and Industrial large load categories. Additional organic growth from the Residential and Commercial classes is also contributing to load growth, though to a lower degree than the large load categories.
+Q.Are drivers of projected load growth similar in the short term?
+A.Yes. As demonstrated in Table 5, the Commercial and Industrial large load categories remain the largest contributors to growth through 2032, comprising a larger share of project load growth when compared to the entire forecast horizon through 2044.
+Commercial large loads constitue nearly **% of projected summer peak load growth through 2032, compared to ~**% peak load growth through 2044. This is also true for the Industrial large load category, which constitutes ~*% of peak load growth through 2032, while only accounting for ~*% through 2044.
+For the organic Residential and Commercial sectors, growth is diminished in the short term. Organic Residential peak load growth only constitutes ~*% of peak load growth through 2032, compared to ~**% through 2044.
+Table 5: B2025 Load Forecast, Key Growth Drivers for Coincident Peak Load, 2024-2032
+
+
+Summer
+ 
+ 
+Winter
+ 
+ 
+Category
+Item
+Cumulative Growth (MW)
+Portion of Cumulative Growth (%)
+CAGR (%)
+Cumulative Growth (MW)
+Portion of Cumulative Growth (%)
+CAGR (%)
+Organic Load Forecast
+Residential
+****
+****
+1.3%
+****
+****
+0.6%
+
+Commercial
+****
+****
+2.1%
+****
+****
+1.9%
+
+Industrial
+****
+****
+1.2%
+****
+****
+1.6%
+
+Governmental Lighting
+****
+****
+7.8%
+****
+****
+-39.1%
+
+MARTA
+****
+****
+-0.2%
+****
+****
+-0.1%
+Coincident Peak Adjustments
+Cogeneration
+****
+****
+32.0%
+****
+****
+32.0%
+
+DSM
+****
+****
+28.7%
+****
+****
+15.0%
+Large Load Adjustments
+Commercial Large Loads
+****
+****
+107.6%
+****
+****
+107.6%
+
+Industrial Large Loads
+****
+****
+56.9%
+****
+****
+56.9%
+Total
+ 
+9,702
+100.0%
+5.8%
+8,909
+100.0%
+5.7%
+Q.please describe the accuracy of the company’s b2025 load forecast to date.
+A. As shown in Table 6, the B2025 forecast overestimated 2024 summer peak load by 638 MW (~4%) while underestimating 2024 winter peak load by 466 MW (~3%). 
+Table 6: 2024 Peak Forecast v Actuals (MW)
+Item
+Summer
+Winter
+Actual
+      16,555 
+      16,458 
+Forecast
+      17,193 
+      15,992 
+Forecast less Actual
+              638 
+           (466)
+Diff (%)
+3.85%
+-2.83%
+Q.Has the Company provided any Updates to the b2025 forecast?
+A.Yes. Based on February 2025 data, the Company produced a new sensitivity for the large load realization model exclusively, reproduced in Figure 3 below. 
+Figure 3: Large Load Realization Model, Feb 2025 Sensitivity
+
+Notably, load levels before **** have decreased, suggesting that cancellations and delays have impacted projects expected to materialize in that timeframe. By contrast, load levels after **** have increased, suggesting that the Company expects the large load pipeline to continue to grow. As shown in Figure 4, this trend also materializes in the overall load forecast as well, decreasing peak load by up to ~*** MW prior to ****. 
+
+Figure 4: B2025 Load Forecast vs Feb 2025 Sensitivity
+
+Q.Please summarize your conclusions regarding the Company’s b2025 load forecast.
+A.The Company is demonstrating significant load growth through the forecast period, adding more than 12,500 MW to peak load through 2044. However, the Company shows that the near-term peak load, prior to 2030, decreased relative to initial forecasts. The tendency to adjust initial forecasts downward in the short term may lead to an over-procurement of resources if the overestimation is consistent. As discussed in the following section, this trend of decreasing short-term forecasts is also demonstrated relative to the 2023 IRP Update.
+Comparison to 2023 IRP Update
+Q.Please summarize the key changes to THE COMPANY’S load forecast since the 2023 IRP Update.
+A.Since the 2023 IRP Update, the Company has identified a significant increase to peak load, changed how it evaluates the large load realization model, and adopted new rules and regulations for large load customers over 100 MW. 
+Q.Please discuss the increase in THE COMPANY’s peak Load FORECAST since the 2023 IRP Update.
+A.Since the 2023 IRP Update, the Company has forecasted a significant increase in peak load growth, resulting in an additional 3,000 MW by 2044, as demonstrated in Figure 5 below. These updates are due to the addition of several significant large load projects beginning in the year 2028, while the forecast of peak load decreased for the years 2026 and 2027. The summer peak forecast decreased by less than 100 MW in 2026 and 2027 while the winter peak forecast decreased by 364 MW in 2026 and 594 MW in 2027.
+Figure 5: B2025 vs. 2023 IRP Update Peak Load Forecast
+
+Including the February 2025 sensitivity in this figure, there is a clear trend of forecasted peak load moderating in the short term, as shown in Figure 6 and Table 6. The summer peak load forecast in the February Sensitivity decreased by up to ~600 MW in 2026 and 2027 compared to the B2025 forecast, while the winter peak load forecast decreased by more than 1,000 MW for the same years.
+Figure 6: 2023 IRP Update, B2025, and Feb 2025 Sensitivity, Summer Peak Load Forecast Comparison
+
+Figure 7: 2023 IRP Update, B2025, and Feb 2025 Sensitivity, Winter Peak Load Forecast Comparison
+
+Q.What are the key drivers of the near-Term reductions in THE COMPANY’s forecasted load growth?
+A.Partially, the short-term load reductions are driven by the Company evaluating the LRM  at the P50 level instead of the P95, as it did in the 2023 IRP Update. However, project removals and load reductions in the load realization model are also contributing to the diminished load forecast in the short term.
+The decision to evaluate the load realization model at the P50 level explains some portion of the load reductions between the 2023 IRP Update and the B2025 base forecast. The Company states that the B2025 forecast uses the P50 level as it corresponds with the median load level of the load realization model. In the IRP hearing on the Company’s direct testimony, the Company explained that the P50 level is more appropriate in the 2025 IRP, as the Company has additional flexibility to plan for load growth. As such, at this reduced planning level, the LRM will produce a lower forecast.
+By contrast, the changes from the B2025 base forecast to the February sensitivity are driven entirely by changes in the LRM pipeline (project removals or load reductions) as both forecasts use the P50 LRM results.
+
+Organic Load Forecast
+Q.Please summarize the load growth driven by the organic load forecast.
+A.As discussed in Table 4 and Table 5, the Company’s forecasted organic load growth is being driven by the Commercial and Residential classes, adding more than xxxxx MW of cumulative peak load growth through 2044 and constituting more than xx% of organic load growth in this time period, excluding DSM and Cogeneration.
+Q.Please summarize the methodology underpinning the organic load forecast.
+A.The organic load forecast uses multiple statistical methods to estimate sales growth. Initially, the Company produces a 5-year econometric forecast for each class, generally forecasting customer growth and usage per customer separately. The Company uses a slightly different methodology for its governmental lighting customers, using a simple 5-year compound annual growth rate to forecast sales for this class. The Company refers to these models as its Short-Term (“ST”) energy forecast models.
+In tandem, the Company employs an “end-use” model called LoadMAP to produce a 20-year sales forecast for each class, referred to as the Long-Term (“LT”) energy forecast model. This model accounts for end-user energy decisions with respect to appliance ownership by fuel type, appliance efficiency, and appliance energy usage. This model additionally controls for fuel prices, household incomes, weather, natural gas availability, and more.
+The LT model is then calibrated to the ST model, adjusting the results of the LT model based on the trends identified in the ST model. Additional external adjustments are applied to this calibrated LT model, accounting for EVs, DSM, BTM Solar, industrial cogeneration, and large loads. An electric vehicles sales growth forecast, based on analysis by the Electric Power Research Institute, is adjusted for load shapes in the residential and commercial classes and applied as an adjustment to the calibrated long-term energy forecast. Behind-the-meter solar and DSM programs are similarly forecasted and applied as adjustments to the calibrated long-term energy forecast. Large load adjustments are based on the results of the LRM.
+A summary of the magnitude of the calibrations between the ST and LT models is provided in Table 7 below, both including and excluding the aforementioned external adjustments. Note that excluding these adjustments reduces the magnitude of the calibration to ~X% for the Commercial and Industrial classes, but the magnitude of this calibration remains significant. The magnitude and methodology underpinning the LT calibration is discussed in greater detail in Section VI.
+Table 7: Calibration of LT Energy Forecast to ST Energy Forecast(% Calibration Relative to LT Forecasted Energy)
+
+Including Adjustments
+Excluding Adjustments
+Year
+Residential
+Commercial
+Industrial
+Residential
+Commercial
+Industrial
+2024
+-2%
+0%
+-3%
+X%
+X%
+X%
+2025
+-2%
+6%
+-2%
+X%
+X%
+X%
+2026
+0%
+22%
+0%
+X%
+X%
+X%
+2027
+1%
+55%
+1%
+X%
+X%
+X%
+2028
+3%
+95%
+4%
+X%
+X%
+X%
+2029
+4%
+130%
+5%
+X%
+X%
+X%
+2030
+5%
+153%
+6%
+X%
+X%
+X%
+2031
+6%
+164%
+8%
+X%
+X%
+X%
+2032
+6%
+168%
+8%
+X%
+X%
+X%
+2033
+7%
+170%
+7%
+X%
+X%
+X%
+2034
+7%
+171%
+7%
+X%
+X%
+X%
+2035
+8%
+172%
+7%
+X%
+X%
+X%
+2036
+8%
+173%
+7%
+X%
+X%
+X%
+2037
+9%
+172%
+6%
+X%
+X%
+X%
+2038
+10%
+172%
+6%
+X%
+X%
+X%
+2039
+10%
+173%
+6%
+X%
+X%
+X%
+2040
+11%
+173%
+6%
+X%
+X%
+X%
+2041
+11%
+173%
+5%
+X%
+X%
+X%
+2042
+12%
+173%
+5%
+X%
+X%
+X%
+2043
+13%
+173%
+5%
+X%
+X%
+X%
+2044
+13%
+174%
+5%
+X%
+X%
+X%
+The calibrated class-level LT models are fed into the Company’s peak forecast model, which is performed in a software called Metrix, licensed from Itron. Note that not all external adjustments are fed directly into the peak model through the calibrated LT models. The Company separately accounts for factors such as large loads, cogeneration, and DSM as external adjustments to the peak forecast.
+The peak model is a class-based hourly regression model, producing outputs for 24 hours of the day. These models account for class-level load shapes, weather, holidays, and a wide range of other factors. The peak model produces both a coincident and non-coincident peak forecast for each customer class.
+Q.Please explain the source of the data and assumptions used in the ORGANIC LOAD Forecast.
+A.The ST models use historical customer and sales data provided by the Company. These models additionally consider a wide range of economic indicators sourced from S&P Global.
+The LT models use data compiled by a consultant, AEG, which designed and administers the end-use models. Data sources include the 2022 Georgia Power Residential Saturation Survey, the EIA’s Residential Energy Consumption Survey, EIA’s Annual Energy Outlook, unit energy consumption data from DOE’s OpenStudio/Energy Plus building simulation program, EIA’s State Energy Data System, and S&P Global.
+Q.Please summarize the short-term energy forecast models.
+A.The Company uses a variety of models and statistical methods to produce its ST models. A summary of each econometric model is provided in Table 8 below, including an indication of model fit. The Company does not use an econometric model to estimate governmental lighting energy, as it uses a historically observed compound growth factor. Furthermore, MARTA is treated as a single-customer class and the Company produces a total energy forecast for the class. 
+Table 8: Summary of ST Models
+Method
+Model/Dependent Variable
+Units
+R2
+Ordinary Least Squares
+Residential Customer Growth 
+Annual Change in Customers
+0.9537
+
+Commercial Customer Growth 
+Annual Change in Customers
+0.7154
+
+Industrial Customers 
+Annual Change in Customers
+0.9319
+ARMA Conditional Least Squares
+Residential Energy 
+Consumption/Customer/Billing Day
+0.9915
+
+Commercial Energy
+Consumption/Customer/Billing Day
+0.9921
+
+Industrial Energy
+Consumption/Customer/Calendar Day
+0.7746
+
+MARTA Energy
+Monthly Energy Sales
+0.8355
+
+Governmental Lighting Customers
+Monthly Customer Count
+0.9931
+Q.Do you have any concerns with the Company’s short-term energy forecast?
+A.Yes. Staff is concerned that the Commercial Customer Growth may be overestimated, evidenced by an analysis of the model’s coefficient of determination (R2), model residuals, and mean absolute percentage error. 
+Q.Please discuss the model’s coefficients of determination.
+A.A model’s coefficient of determination is used to evaluate the ability of a model to explain the variability in the dependent variable, with a range of possible values from 0 to 1. The higher a model’s coefficient of determination, the more capable it is at fitting historically observed values of the dependent variable. 
+An R2 value of 0.9 to 0.99 generally indicates a well specified model. Values less than 0.9 suggest that the model may not be considering enough control variables. Values greater than 0.99 may indicate the possibility of overspecification, multicollinearity, or misleading model specification. 
+The Commercial Customer Growth, Residential Energy, Commercial Energy, Industrial Energy, MARTA Energy, and Governmental Lighting Customer models fall outside the range identified above. While R2 values are reasonable indicators of model fit and predictive power, verifying concerns of poor fit with these models requires further analysis of model residuals and variable specifications. These issues are examined in further detail below.
+Q.Please discuss the st model residual errors.
+A.Over the full-time period of historical data input to each model, the mean absolute percentage error (“MAPE”) statistics are summarized in Table 9. The Residential and Commercial Customer Growth models exhibit concerning levels of error.
+The MAPE calculates the average absolute value of model residuals, which are the difference between observed data, and the “back-casted” results of the model. The MAPE can be used to identify the level of error in a model when compared to actual history.
+Generally, a MAPE of 10% or less is acceptable for an econometric forecast, though interpreting a MAPE value depends on the context of the model. 
+Table 9: ST Model Time Period and MAPE
+Model
+Time Period
+Frequency
+MAPE
+Company Adjusted MAPE
+Residential Customer Growth 
+1995-2023
+Annual
+21.4%
+1.4%
+Commercial Customer Growth 
+2005-2023
+Annual
+293.3%
+0.8%
+Industrial Customers 
+2017-Apr 2024
+Monthly
+0.1%
+0.1%
+Governmental Lighting Customers
+Jan 2014-Apr 2024
+Monthly
+0.2%
+0.2%
+Residential Energy 
+Jan 2016-Apr 2024
+Monthly
+1.4%
+1.4%
+Commercial Energy 
+Jan 2016-Apr 2024
+Monthly
+0.7%
+0.7%
+Industrial Energy
+Jan 2019-Apr 2024
+Monthly
+2.0%
+2.0%
+MARTA 
+Jan 2018-Apr 2024
+Monthly
+3.2%
+3.2%
+
+The Company suggests that the MAPE calculated directly from the residuals for the Residential Customer Growth and Commercial Customer Growth models “are not representative of the final customer count projections,” citing that these models are measuring annual growth as opposed to final customer counts. With this caveat, the Company provides adjusted MAPE values in the final column of Table 9, which analyze the residuals of the Residential and Commercial Customer Growth models based on monthly customer counts, as opposed to annual customer growth.
+The Company’s concerns are reasonable, but not applicable to this scenario. The MAPE must be interpreted according to the appropriate reference point. A 1% error on a peak load of 1,000 MW only corresponds to 10 MW; however, a 1% error on a peak load of 10,000 MW corresponds with 100 MW of uncertainty. 
+Q.How does the interpretation of MAPE change based on the scale of the data being evaluated? 
+While a MAPE of 1.4% may seem reasonable for residential customer counts, this does not account for the significant difference between the magnitude of the initial reference point. 
+For example, the Company reports that its adjusted MAPE for the Residential Customer Growth model is only 1.4%. However, relative to the total number of customers forecasted in 2024, this level of error represents an average mis-estimation of ~34,000 Residential customers. With an observed average annual usage per customer of 11,483 kWh, this error corresponds to nearly ~390.5 GWh. As such, while the 1.4% error may seem acceptable, it represents significant uncertainty in material terms.
+Due to the magnitude of existing customers within the Residential and Commercial sectors, it is more appropriate to evaluate errors relative to customer growth, as opposed to customer counts.
+Q.Please further discuss the model residuals for the residential customer growth model.
+A.The full period residuals of the model are summarized in Table 10 below, showing actual historical residential customers (“Actual”), backcasted residential customers based on the ST Residential Customer Growth model (“Fitted”), and the difference of actuals less fitted values (“Residual”), and this error relative to actual values (“Residual, % of Actual”). On average, the residuals for the Residential Customer Growth model are slightly negative, suggesting a slight overestimation bias. 
+Table 10: ST Residential Customer Growth Residuals
+Year
+Actual
+Fitted
+Residual
+Residual, % of Actual
+1995
+xx,xxx 
+xx,xxx 
+xx,xxx 
+4%
+1996
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-4%
+1997
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-7%
+1998
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-4%
+1999
+xx,xxx 
+xx,xxx 
+xx,xxx 
+0%
+2000
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-2%
+2001
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-7%
+2002
+xx,xxx 
+xx,xxx 
+xx,xxx 
+10%
+2003
+xx,xxx 
+xx,xxx 
+xx,xxx 
+2%
+2004
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-1%
+2005
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-3%
+2006
+xx,xxx 
+xx,xxx 
+xx,xxx 
+4%
+2007
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-4%
+2008
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-2%
+2009
+xx,xxx 
+xx,xxx 
+xx,xxx 
+84%
+2010
+xx,xxx 
+xx,xxx 
+xx,xxx 
+6%
+2011
+xx,xxx 
+xx,xxx 
+xx,xxx 
+411%
+2012
+xx,xxx 
+xx,xxx 
+xx,xxx 
+20%
+2013
+xx,xxx 
+xx,xxx 
+xx,xxx 
+12%
+2014
+xx,xxx 
+xx,xxx 
+xx,xxx 
+10%
+2015
+xx,xxx 
+xx,xxx 
+xx,xxx 
+1%
+2016
+xx,xxx 
+xx,xxx 
+xx,xxx 
+3%
+2017
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-1%
+2018
+xx,xxx 
+xx,xxx 
+xx,xxx 
+5%
+2019
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-4%
+2020
+xx,xxx 
+xx,xxx 
+xx,xxx 
+0%
+2021
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-3%
+2022
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-1%
+2023
+xx,xxx 
+xx,xxx 
+xx,xxx 
+4%
+Average, Full Period
+ 
+-0.0001552
+18%
+Average, less 2009-2014
+ 
+-237.37345
+-1%
+Average, 2009-2014
+
+236.92517
+90%
+Average, 2019-2023
+ 
+-200.6812
+-1%
+Notably, there are clear outliers in the data, in years 2009 and 2011. These years are notable, as they follow the 2008 financial crisis. It is possible the model was not able to effectively account for the post-recession recovery period, leading to a persistent mis-estimation of growth for the years 2009-2014. Excluding the residuals for the years 2009-2014, the average of the remaining residuals is clearly negative, demonstrating a slight but persistent overestimation bias. 
+The Company should validate this error and examine the underlying factors. If determined to be necessary, the Company should address these issues in future forecast vintages.
+Q.Please further discuss the model residuals for the commercial customer growth model.
+A.The full period residuals of the model are summarized in Table 11 below. On average, the residuals for the Commercial Customer Growth model are slightly negative, suggesting a slight overestimation bias for the full period. However, there are seasonal or transient effects across the observation period which may be impacting MAPE calculations for the full period. When accounting for these potential compounding factors, overestimation is significant.
+Table 11: ST Commercial Customer Growth Residuals
+ Observation 
+Date
+Actual
+Fitted
+Residual
+Residual, 
+% Actual
+12/1/2005
+xx,xxx 
+xx,xxx 
+xx,xxx 
+15%
+12/1/2006
+xx,xxx 
+xx,xxx 
+xx,xxx 
+10%
+12/1/2007
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-173%
+12/1/2008
+xx,xxx 
+xx,xxx 
+xx,xxx 
+8%
+12/1/2009
+xx,xxx 
+xx,xxx 
+xx,xxx 
+6%
+12/1/2010
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-11%
+12/1/2011
+xx,xxx 
+xx,xxx 
+xx,xxx 
+4857%
+12/1/2012
+xx,xxx 
+xx,xxx 
+xx,xxx 
+30%
+12/1/2013
+xx,xxx 
+xx,xxx 
+xx,xxx 
+22%
+12/1/2014
+xx,xxx 
+xx,xxx 
+xx,xxx 
+35%
+12/1/2015
+xx,xxx 
+xx,xxx 
+xx,xxx 
+23%
+12/1/2016
+xx,xxx 
+xx,xxx 
+xx,xxx 
+6%
+12/1/2017
+xx,xxx 
+xx,xxx 
+xx,xxx 
+21%
+12/1/2018
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-36%
+12/1/2019
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-19%
+12/1/2020
+xx,xxx 
+xx,xxx 
+xx,xxx 
+51%
+12/1/2021
+xx,xxx 
+xx,xxx 
+xx,xxx 
+16%
+12/1/2022
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-173%
+12/1/2023
+xx,xxx 
+xx,xxx 
+xx,xxx 
+-63%
+Average, Full Period
+ 
+-0.000347
+244%
+Average, 2009-2014
+
+150.6298
+823%
+Average, less 2009-2014
+-69.52195
+-24%
+Average, 2018-2023
+-351.6418
+-37%
+There are clear outliers in the data, in years 2007, 2011, 2022, and 2023. 2007 and 2011 are notable, as they surround the 2008 financial crisis. The model may not have been able to effectively account for the post-recession recovery period or any commercial impacts that materialized ahead of the financial crisis, leading to a persistent mis-estimation of growth in multiple years. The years 2022, and to a lesser degree 2023, may represent a post-COVID recovery that is not sufficiently captured by the model,  may represent an overcorrection for COVID in 2020, or may be the product of the non-technical recession in 2022.
+However, these are not the only years in which there are significant errors.In comparison to the Residential Customer Growth model, the Commercial Customer Growth exhibits more consistent residual errors at greater magnitudes. There are no years in which the model can predict Commercial Customer Growth at less than a 5% error. The Company should validate this error and examine the underlying factors. If determined necessary, the Company should address these issues in future forecast vintages.
+Q.Do you have any concerns regarding the long-term energy Forecast?
+A.Yes. The Company’s process by which it calibrates the LT forecast to the ST forecast may be systemically over-emphasizing recent trends and any biases in the ST models. As demonstrated in Table 12 below, the Commercial and Industrial LT energy models are increased by 6% on average as a result of the calibration process excluding adjustments for EVs, large loads, cogeneration, and DSM.
+Table 12: LT Forecast Calibration (% of Original LT Forecast Value)
+
+Excluding Adjustments
+Year
+Residential
+Commercial
+Industrial
+2024
+x%
+x%
+x%
+2025
+x%
+x%
+x%
+2026
+x%
+x%
+x%
+2027
+x%
+x%
+x%
+2028
+x%
+x%
+x%
+2029
+x%
+x%
+x%
+2030
+x%
+x%
+x%
+2031
+x%
+x%
+x%
+2032
+x%
+x%
+x%
+2033
+x%
+x%
+x%
+2034
+x%
+x%
+x%
+2035
+x%
+x%
+x%
+2036
+x%
+x%
+x%
+2037
+x%
+x%
+x%
+2038
+x%
+x%
+x%
+2039
+x%
+x%
+x%
+2040
+x%
+x%
+x%
+2041
+x%
+x%
+x%
+2042
+x%
+x%
+x%
+2043
+x%
+x%
+x%
+2044
+x%
+x%
+x%
+Average
+0%
+6%
+6%
+When requested to explain if the magnitude of the adjustments made in the calibration process were historically typical, the Company claims that the ST and LT models are “of the same magnitude before calibration,” and demonstrates that a significant portion of the calibrations shown in Table 7 are accounted for by external adjustments.  However, the Company failed to demonstrate if the magnitude of the net calibration before adjustments, demonstrated in Table 12, is historically typical.
+Given the potential overestimation bias identified in the ST models, this bias may be passed through this calibration process resulting in an inflated LT forecast. The Company should demonstrate whether the magnitude of the calibration identified in Table 13 is historically typical. 
+Q. Please summarize your concerns regarding the organic load forecast.
+A.There is risk for overestimation bias in the Company’s organic load forecast, particularly for the ST Commercial Customer Growth model. The ST Commercial Customer Growth model uniquely exhibits an R2 value significantly outside the preferable range, a significant MAPE, and clearly negative average residuals. The calibration of the LT model to the ST model may carry any over-estimation present in the short-term model throughout the forecast horizon, resulting in a persistent over-estimation bias.
+While other models exhibit significant MAPE values, R2 values outside the preferred range, or significant calibrations between the ST and LT models, no other model exhibits a confluence of these issues.
+Q.Do you have any recommendations regarding the Structure and performance of the organic load forecast?
+A.Yes, given the discussion above, the Commission should require the Company to do the following:
+Regarding the ST Residential Customer Growth model, the Company should validate the 21.4% MAPE and consistent overestimation demonstrated in the model residuals. If determined to be necessary, the Company should address the underlying factors driving the observed errors in future forecast vintages.
+Regarding the ST Commercial Customer Growth model, the Company should validate the 293.3% MAPE and consistent overestimation demonstrated in the model residuals. If determined to be necessary, the Company should address the underlying factors driving the observed errors in future forecast vintages.
+Regarding the pre-adjustment calibration of the LT Commercial and LT Industrial sales forecasts discussed in Table 13, the Company should quantitatively demonstrate if the magnitude of the calibrations are historically typical, specifically referring to the x% increase in the original LT energy forecasts for the Commercial and Industrial classes, excluding adjustments. If not, the Company should provide a narrative explanation of the factors driving the magnitude of these calibrations with quantitative and statistical support where appropriate.
+
+Large Load Realization Model
+Q.Please summarize the load growth driven by the COMPANY’S Large Load Forecast.
+A.As discussed in Table 4 and Table 5, Georgia Power’s forecasted large load growth is being driven primarily by large Commercial projects. Large Commercial loads are expected to add more than **** MW to peak demand load through 2032 and **** MW to peak load through 2044, comprising nearly **% of total large load contributions to peak load, and more than **% of total peak load growth. A summary of these large load adjustments is provided in Table 13 below.
+
+Table 13: Georgia Power Large Load Peak Adjustments (MW)
+Year
+Commercial
+Industrial
+Total
+2024
+***
+***
+***
+2025
+***
+***
+***
+2026
+***
+***
+***
+2027
+***
+***
+***
+2028
+***
+***
+***
+2029
+***
+***
+***
+2030
+***
+***
+***
+2031
+***
+***
+***
+2032
+***
+***
+***
+2033
+***
+***
+***
+2034
+***
+***
+***
+2035
+***
+***
+***
+2036
+***
+***
+***
+2037
+***
+***
+***
+2038
+***
+***
+***
+2039
+***
+***
+***
+2040
+***
+***
+***
+2041
+***
+***
+***
+2042
+***
+***
+***
+2043
+***
+***
+***
+2044
+***
+***
+***
+
+Q.Please summarize the COMPANY’S methodology underpinning the Large load forecast.
+A.The intent of the LRM is to evaluate the pipeline of large load customers interested in Georgia Power as an electric service provider and determine the portion of the overall pipeline that is likely to materialize based on a set of assumptions. 
+The Company receives load ramp projections from each large load customer which produce the pipeline. These load levels are referred to as the “pipeline” load or the “announced load” of the projects. The Company uses a probabilistic framework to evaluate the likelihood that this pipeline of large load projects will 1) successfully begin commercial operation (“Project Success”), 2) maintain the expected commercial operation date (“Project Delay”), and 3) materialize as expected (“Materialization”). 
+Project Success is comprised of three key assumptions, capturing the likelihood that: 
+Georgia is selected as the location of a project (“State Selection” or “P1”),
+Georgia Power is selected as the preferred electric service provider (“Electric Service Provider” or “P2”), and
+The project reaches commercial operation following signature of a contract with Georgia Power (“Commercial Operation” or “P3”).
+The Company treats the State Selection variable as a binary variable, assigned either a one (1) for projects selecting Georgia or zero (0) for those that do not. The Electric Service Provider variable is also “treated as a binary event.” The Commercial Operation variable is determined by “reviewing the number of projects that reached commercial operation versus the total number of projects Georgia Power was selected to serve.” The product of these three variables produced the overall Project Success assumption for each project. This Probability Product is then used to weight a “Success Indicator,” which outputs either a one (1) for projects that reach commercial operation in a given iteration of the simulation, or a zero (0) for those that do not. 
+Project Delay assumptions are probabilistically determined based on a triangular distribution with a low-end range of [redacted], mid- range of [redacted], and a high-end range of [redacted]. These assumptions are the same for both Commercial and Industrial class large loads.
+Materialization assumptions are similarly determined on a probabilistic basis using a triangular distribution. Most large load projects have a low/most-likely/high distribution of ************ except for cryptocurrency and data center projects which are assumed to  have a higher materialization rate of ************.
+Each of these assumptions are applied to a quarterly load ramp for each project, based on load data provided by the customers themselves. This process is repeated 100,000 times in a Monte Carlo simulation using a program called “@Risk” to evaluate the portfolio of projects, with the results evaluated at the P50 level. 
+As such, the LRM does not predict specific projects that are expected to materialize. Rather, the LRM predicts the portion of the aggregate announced load pipeline that is expected to materialize.
+Q.Please describe the pipeline of projects in the load realization model.
+A.The filed LRM presents data as of Q2 2024. A summary of the projects is provided in Table 14 below. 
+Table 14: Large Load Pipeline Summary for B2025 LRM
+Segment
+Count
+Announced
+Load (MW)
+Load (%)
+[REDACTED]
+XX
+XXXX
+5%
+[REDACTED]
+XX
+XXXX
+2%
+[REDACTED]
+XX
+XXXX
+6%
+[REDACTED]
+XX
+XXXX
+14%
+[REDACTED]
+XX
+XXXX
+69%
+[REDACTED]
+XX
+XXXX
+0%
+[REDACTED]
+XX
+XXXX
+3%
+[REDACTED]
+XX
+XXXX
+1%
+[REDACTED]
+XX
+XXXX
+0%
+Total
+70
+ *****
+100%
+ The Company’s LRM filing largely aligns with the pipeline described in the Q2 2024 large load economic development report as demonstrated in Table 15 below. While there are differences in Segment classification and project load, these differences are not significant on an aggregate load basis, allowing the Q2 2024 large load economic report and any prior large load data to be reasonable sources for additional information on the Company’s B2025 forecast.
+Table 15: Large Load Pipeline Summary, Q2 2024 Large Load Economic Development Report
+Segment
+Count
+Load
+Load %
+Manufacturing
+6
+1,619 
+7%
+Data Center
+52
+18,875 
+83%
+Clean Energy Tech
+7
+1,525 
+7%
+Other
+5
+744 
+3%
+Total
+70
+22,763 
+100%
+Q.What portion of the large load pipeline DOES THE COMPANY expect to materialize?
+A.A summary of the Q2 2024 LRM is provided in Table 16, demonstrating the total pipeline, the P50 results, and the final adjustment that the Company makes to the peak forecast. Notably, there is a difference between the Company’s filed adjustment and the simulated P50 load. This difference is the most significant before 2030. 
+Table 16: Comparison of LRM Pipeline, P50 Simulation, and GPC Filed Adjustment Load (MW)
+Year
+B2025
+Pipeline
+B2025 P50 
+Expected Load
+B2025 GPC 
+Adjustment
+2024
+xxxx
+xxxx
+xxxx
+2025
+xxxx
+xxxx
+xxxx
+2026
+xxxx
+xxxx
+xxxx
+2027
+xxxx
+xxxx
+xxxx
+2028
+xxxx
+xxxx
+xxxx
+2029
+xxxx
+xxxx
+xxxx
+2030
+xxxx
+xxxx
+xxxx
+2031
+xxxx
+xxxx
+xxxx
+2032
+xxxx
+xxxx
+xxxx
+2033
+xxxx
+xxxx
+xxxx
+2034
+xxxx
+xxxx
+xxxx
+2035
+xxxx
+xxxx
+xxxx
+2036
+xxxx
+xxxx
+xxxx
+2037
+xxxx
+xxxx
+xxxx
+2038
+xxxx
+xxxx
+xxxx
+2039
+xxxx
+xxxx
+xxxx
+2040
+xxxx
+xxxx
+xxxx
+2041
+xxxx
+xxxx
+xxxx
+2042
+xxxx
+xxxx
+xxxx
+2043
+xxxx
+xxxx
+xxxx
+2044
+xxxx
+xxxx
+xxxx
+Based on the simulation, the LRM would expect ~xx% of the pipeline to materialize in 2044 at the P50 level. However, the Company’s adjustment only indicates ~ xx % of the pipeline being applied to system peak load in 2044. This difference is most stark in the short run. In 2024, the model would expect ~ xx % of the announced load to materialize, while only ~ x% of the pipeline is applied as an adjustment to system peak load. Based on an informal response from the Company, this adjustment is intended to account for the coincident peak impact of this load.
+Q.Do you have any concerns with the Company’s Large Load Forecast?
+A.Yes. While the Company has developed a reasonable methodology toward estimating the materialization of large loads, the specific assumptions used in the model may be overestimating load growth. Specifically, the Company assumes that data centers and cryptocurrency projects will materialize at a higher portion of announced load than other large load project segments without empirical evidence to support this assumption, resulting in potential overestimation. Consistent decreases in the large load forecast before 2030 emphasize the potential for overestimation. 
+The pipeline is also increasingly comprised of data center projects, such that ~83% of the Q2 2024 pipeline is comprised of data center projects on an announced load basis by 2037. This composition renders the LRM increasingly sensitive to any volatility in the data center industry. 
+In addition to these trends, most projects in the large load pipeline have not executed a Request for Electric Service nor a Contract for Electric Service, representing ~68% of load on an announced load basis. A lack of executed agreements increases the level of uncertainty regarding the existing pipeline of projects and increases the potential for the current forecast to overestimate large load growth. Each of these items is discussed in further detail below.
+Q.Has the Company’s large load forecast remained consistent over time?
+A.No. The Company regularly updates the LRM to account for new projects, project cancellations, and project delays. The Company has already reduced short-term growth expectations for the B2025 large load forecast in the February 2025 Sensitivity by up to ~700 MW on a simulated load basis for the years 2025 through 2029, as demonstrated in Figure 8 below. While the Company has indicated large load growth beyond 2029, the materialization of these loads is inherently more uncertain and may be adjusted over time. 
+Figure 8: B2025 Large Load Forecast Simulation less February 2025 Large Load Forecast Simulation 
+
+The tendency for the Company’s forecasts to diminish in the short term may be persistent over time. If this is the case, projected load growth in the years 2030 and beyond may be revised downward as well.
+Q.Do any specific industry segments drive Project removals and net load reductions?
+A.Yes. Data center projects comprise the majority of project removals since the 2023 IRP Update on both an announced load and project count basis. As shown in Table 17, data centers constitute 83% of removals since the 2023 IRP Update on an announced load basis.
+Table 17: Large Load Removals by Segment, 2023 IRP Update to Q2 2024 Report (MW)
+Segment
+Q1 2024
+Q2 2024
+Subtotal
+% Total
+Data Center
+5,574 
+1,593 
+7,167 
+83%
+Other
+50 
+116 
+166 
+2%
+Manufacturing
+334 
+886 
+1,220 
+14%
+Clean Energy Tech
+122 
+-   
+122 
+1%
+Total
+6,080 
+2,595 
+8,675 
+100%
+On a project count basis, data centers account for 63% of removals since the 2023 IRP Update, as demonstrated in Table 18.
+Table 18: Large Load Removals by Segment, 2023 IRP Update to Q2 2024 Report (Project Count)
+Segment
+Q1 2024
+Q2 2024
+Subtotal
+% Total
+Data Center
+14 
+5 
+19 
+63%
+Other
+1 
+2 
+3 
+10%
+Manufacturing
+3 
+3 
+6 
+20%
+Clean Energy Tech
+2 
+-   
+2 
+7%
+Total
+20 
+10 
+30 
+100%
+Data center customers clearly comprise the majority of project removals. Relative to the announced load of projects introduced in the 2023 IRP Update and the Q1 2024 Report, this trend remains consistent. 
+Q.Do you have any concerns regarding data centers comprising the majority of project removals?
+A.Yes. Data center projects exhibit a tendency to be cancelled at a higher rate than other projects. As such, these projects should be treated with greater uncertainty. It is unclear whether the Company has considered these trends in its LRM.
+The total pipeline in the LRM is increasingly represented by data center projects, representing 83% of announced load by 2037 in the Q2 2024 Report. As discussed earlier, the data center class comprises 83% of project removals through Q2 2024 on a load basis. The data center class has also decreased by ~38% relative to its initial announced load, as shown in Table 19. This constitutes a higher removal rate than average. 
+Table 19: Large Load Removals Relative to Announced Loads, 
+2023 IRP Update to Q2 2024 Report (MW)
+Segment
+Announced Load
+Removals
+Removals, % of 
+Announced Load
+Data Center
+                       18,866 
+             7,167 
+38%
+Other
+                               408 
+                  166 
+41%
+Manufacturing
+                          5,480 
+             1,220 
+22%
+Clean Energy Tech
+                          1,110 
+                  122 
+11%
+Total
+                       25,864 
+             8,675 
+34%
+Q.Does the contract status of large load projects impact their likelihood to be removed from the pipeline?
+A.Yes. Of the 8,675 MW of project removals reported through Q2 2024, 96% of project load was removed in the Technical Review stage, as shown in Table 20.
+Table 20: Project Removals by Contract Stage (MW)
+Stage
+Q1 2024
+Q2 2024
+Subtotal
+Subtotal %
+Technical Review
+5,792
+2,529
+8,321
+96%
+Request for Electric Service
+288
+66
+354
+4%
+Contract for Electric Service
+0
+0
+0
+0%
+Total
+6,080
+2,595
+8,675
+100%
+Notably, 68% of the pipeline announced load in the Q2 2024 Report remains in the Technical Review stage, as shown in Table 21. Of the projects in the Technical Review stage, data centers represent ~80% of announced load. As such, there is a higher degree of uncertainty attached to more than half of the large load pipeline presented in the 2025 IRP, particularly data center projects. The removal of customers who have signed a Request for Electric Service with the Company demonstrates that a portion of these customers may not take service from Georgia Power.
+Table 21: Q2 2024 Pipeline by Segment and Contract Status (MW)
+Contract Stage
+Manufacturing
+Data Center
+Clean 
+Energy Tech
+Other
+Subtotal
+% Total
+Contract for Electric Service
+52 
+3,066 
+328 
+-   
+3,446 
+15%
+Request for Electric Service
+184 
+3,532 
+90 
+-   
+3,806 
+17%
+Technical Review
+1,383 
+12,277 
+1,107 
+744 
+15,511 
+68%
+Total
+1,619 
+18,875 
+1,525 
+744 
+22,763 
+100%
+Q.Has the Company changed any UNDERLYING modelling assumptions in the load realization model since the 2023 irp update?
+A.No. As discussed earlier, the Company regularly updates the LRM pipeline to reflect new additions, project cancellations, project delays, and changes in load. Furthermore, the Company has begun to evaluate the LRM at the P50 level. However, underlying assumptions for the model have remained unchanged. As such, near-term load reductions in the large load forecast from the base B2025 forecast to the February sensitivity are likely driven by project cancellations and load reductions. Furthermore, any trends of project removals specific to certain industry segments are not captured by the B2025 LRM.
+Q.Do you have concerns regarding the underlying assumptions of the LRM?
+A.Yes. Staff has multiple concerns with the Company’s Load Realization Model, as outlined below:
+The Company applies higher load materialization assumptions for cryptocurrency and datacenter projects without sufficient justification, which may lead to overestimation bias in the LRM. 
+Unlike the Project Delay and Materialization variables, the Project Success assumptions are set as hard inputs on the project-level, rather than being probabilistically generated, introducing the potential for bias in the LRM. 
+The Company has not updated any of the underlying assumptions since the 2023 IRP Update nor outlined a plan for doing so, suggesting that the Company has not sufficiently considered how to apply actual performance data from more recent quarterly load materialization reports to enhance the precision of the LRM. 
+The Company applies the results of the LRM as flat external adjustments in both summer and winter seasons. This fails to account for the seasonal behavior of many large load customer types, leading to a potential over-estimation of load growth.
+Each of these concerns is addressed in the subsequent testimony. 
+Q.Please describe the load materialization assumptions for cryptocurrenCy and data centers.
+A.Data centers and cryptocurrency projects are assumed to materialize at a higher portion of announced load (xxx/xxx/xxx) relative to all other industry segments (xxx/xxx/xxxxx). As such, the difference between the low/most-likely/high-end materialization rates is 20%/25%/15%. In the 2023 IRP Update, the Company attributed this difference to these project-types being expected to use a higher level of their connected load, leading to higher materialization rates.
+Q.Has the Company provided evidence that the load materialization assumptions for cryptocurrency and datacenters are appropriate?
+A.No. The Company has not provided sufficient justification for establishing higher materialization rates for data center and cryptocurrency projects. As a result, the Company may be unreasonably over-estimating the materialization of project loads associated with these segments.
+As of the 2025 IRP, the Company has not provided any empirical evidence suggesting that the announced loads from data center or cryptocurrency projects are likely to materialize at a higher rate than other industries. In the 2023 IRP Update, the Company introduced ~12,135 MW of announced load for data center projects. As of the Q2 2024 report, this group of projects has reduced its announced load by ~5,445 MW, such that only 55% of the announced load of that class of projects remains, driven predominantly by project cancellations. This load reduction level falls outside the bounds of the xxx/xxx/xxx materialization rate assumptions for data centers in the LRM. The actual materialization of the data center class is more consistent with the xxx/xxx/xxx materialization range in the LRM, which is uniformly applied for other industries. 
+For large load projects that have begun commercial operation, materialization rates are significantly lower than both the xxx/xxx/xxxxx data center materialization assumptions as well as the xxx/xxx/xxx materialization assumptions for other industries, as demonstrated in Table 22 below. Only 37% of the anticipated load for these projects has materialized relative to their announced loads for 2024. 
+Table 22: Actual vs. Announced Load for Commercially Operating Datacenter Large Loads, 2024
+Project
+Announced 
+Load (MW)
+Actual 
+Load (MW)
+Implied
+Materialization
+Rate
+[REDACTED]
+XX
+XX
+N/A
+[REDACTED]
+XX
+XX
+28%
+[REDACTED]
+XX
+XX
+20%
+Total
+XX
+                  XX
+37%
+When compared to the total amount of data center load announced for 2024, the materialization rate is even lower, at 34%, as shown in Table 23.
+Table 23: Actual vs. Total Announced Load for Datacenter Large Loads, 2024
+Item
+Amount
+Total 2024 Data Center Pipeline (MW)
+XX
+Actual Materialized Load (MW)
+XX
+Materialization Rate (%)
+34%
+As such, the Company has not provided evidence that the higher materialization assumptions for the Data Center class are appropriate. The Company claims that its materialization assumptions are “wide enough to cover a wide range of outcomes,” but this does not align with the actual materialization of data center customers in the large load pipeline. Portfolio-level trends suggest that the data center class of large loads is materializing at a level that is more comparable to other industries.
+Q.PLease describe the COMPANY’s project success assumptions in the LRM.
+A.The Project Success assumptions are based on hard-input assumptions set by the Company on a project level, such that values are assigned separately for each project based on the Company’s judgement. The Company uses the Prob Product for each project to weight the probabilistic “Project Success” variable in the LRM for each Segment, a summary of the average Project Success Assumptions is provided in Table 24, sorted by the overall likelihood of a project achieving commercial operation. While the Company sets these assumptions on the project level, there are clear biases on the class level. Specifically, the Company assumes that projects in the [REDACTED--------------------------------------] industries are likely to reach commercial operation (Prob Product > 50%) while projects in the [REDACTED----------------------------------------------------------] industries are unlikely to reach commercial operation (Prob Product <50%).
+Table 24: Average Project Success Assumptions by Segment, LRM
+Segment
+Count
+P1
+P2
+P3
+Prob Product
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+[REDACTED]
+XX
+XXX
+XXX
+XXX
+XXX
+Total
+70
+XXX
+XXX
+XXX
+XXX
+Q.Has the company provided evidence that the Project Success Assumptions appropriate?
+A.No. The Company set Project Success assumptions separately for each project. While this approach allows the Company to account for the reputation of various project developers as well as the Company’s experience interacting with various project types, it also introduces the opportunity for bias. 
+It may be more appropriate for the Company to probabilistically generate the P1, P2, and P3 assumptions based on a range of values and an associated distribution, similar to the Company’s approach used for the Project Delay and Materialization assumptions. This probabilistic approach would allow the Company to constrain the model based on its experience with various project types, while reducing the potential for any project-specific bias. By eliminating project-specific bias, the LRM would function more consistently as a portfolio-level model. The Company should consider using such an approach for the Project Success variable or explain why a probabilistic simulation approach would not be appropriate for these assumptions.
+Q.Please discuss the Company’s approach toward updating the assumptions in the LRM.
+A.The Company has not updated any of the underlying assumptions in the LRM. Furthermore, the Company has not outlined a plan to incorporate the learnings of the quarterly large load economic development reports to update the LRM assumptions. As such, the Company’s LRM does not consider any of the potential learnings available in the quarterly large load development report.
+Q.Please summarize the Key Learnings from the Quarterly Large Load Economic Development reports.
+A.Based on the Q1 2024 and Q2 2024 Large Load Economic Development Reports, the large load pipeline is subject to significant removals and additions from quarter to quarter. While the pipeline continues to add new projects and loads, it also documents numerous project removals and load reductions. Any new load additions to the LRM must be treated with scrutiny, as these projects may also be removed, reduced, or otherwise adjusted as time passes. Acknowledging the significant rate of project removals and net load reductions, modification to the assumptions of the LRM is necessary.
+Q.How has the large load pipeline Changed since the 2023 IRP Update?
+While the Company continues to accept new projects to the large load pipeline, a significant portion of the projects in the pipeline have been cancelled or had their load reduced since the 2023 IRP Update. The large load pipeline shows the potential to violate the assumptions of the LRM, such that the actual materialization of loads falls outside the bounds of the assumptions set by the Company. 
+As of Q2 2024, the Company has reported a cumulative ~9,500 MW of project removals and net load reductions from 52 projects as shown in Table 25. Prior to any new additions to the pipeline in the Q2 2024 report, the Company evaluated 84 projects in the LRM totaling 28,843 MW. As such, 33% of the projects have been removed or reduced on an announced load basis. Of those 84 projects, 30 have been cancelled or otherwise removed, showing a removal rate of ~36%. 
+Table 25: Summary of Project Removals and Load Changes
+Report
+
+Removed
+Project Count
+Load 
+Removed (MW)
+Load Change Project Count
+Net Load 
+Change (MW)
+Subtotal of
+Load Change (MW)
+Q1 2024
+20
+-6,080
+9
+-204
+-6,255
+Q2 2024
+10
+-2,595
+13
+-581
+-3,153
+Total
+30
+-8,675
+22
+-785
+-9,408
+
+This trend is clearer when observing the tranche of 51 projects introduced in the 2023 IRP Update (“2023 IRP Update Tranche”) for which the most data is available. As shown in Figure 9 below, this tranche has diminished significantly as of the Q2 2024 report, decreasing by more than 7,000 MW. Relative to the ~16,000 MW announced in the 2023 IRP Update, this represents a reduction and removal rate of ~44% on a load basis (a success rate of ~56%). From the 2023 IRP Update tranche, a total of 30 projects (of the 51 announced) were removed representing a removal rate of ~56%, or a success rate of ~44% on a project count basis.
+Figure 9: Announced Load, Project Cancellations, and Load Changes for the 2023 IRP Update Tranche
+
+Q.Please compare the reported changes in the Large Load Pipeline quarterly reports to the company’s Project Success Assumptions used in the lrm model.
+A.As discussed in Table 24, the average Project Success rate is expected to be xx% for all projects in the B2025 LRM. Acknowledging the removal rate of 36% through the Q2 2024 report, 64% of the Pipeline remains on a project count basis. For the 2023 IRP Update Tranche, only 44% of projects are in the LRM pipeline as of the Q2 2024 report, demonstrating a clear violation of the xx % level assumed by the Company. It is unclear whether or when the Company intends to adjust the LRM to reflect its reported trends.
+Q.Are there exogenous factors that may further impact the materialization of the load realization model?
+A.Yes. Many of the projects in the LRM may have variable operational profiles between Summer and Winter. Data center customers, for example, have significant cooling needs, constituting up to 40% of total electricity consumption for the typical unit. Logically, these cooling needs would be higher during the Summer, when ambient temperatures are higher.
+Q.Does the load realization model account for the seasonal operations of large load projects?
+A.No. The LRM applies a flat annual load adjustment on a portfolio level. This adjustment does not account for any differentiation between the operations of these projects in the Summer when compared to the Winter.
+Q.To what extent would seasonal variations in large load operations impact peak load forecasts?
+A.Consider a hypothetical 100 MW data center with variable non-IT related electricity consumption. As shown in Table 26, a 1 MW increase in cooling needs results in a higher Power Usage Effectiveness (“PUE”) value, indicating a less efficient data center.
+Table 26: Datacenter PUE by Cooling Needs (MW and PUE)
+End-Use
+Energy Needs Scenarios (MW)
+IT Equipment
+100
+100
+100
+100
+100
+Needs for Cooling and Other Non-IT End Uses
+0
+1
+2
+3
+4
+Total Energy
+100
+101
+102
+103
+104
+Calculated PUE
+1
+1.01
+1.02
+1.03
+1.04
+Based on 2023 data, a Google data center campus in Douglas County may have its PUE vary from 1.07 in the Winter up to 1.13 in the Summer. For a 100 MW data center facing this level of PUE variability, cooling needs may by nearly 5% lower in the Winter as compared to the Summer. Across the entire portfolio of large load datacenters being added to the Company’s forecast, totaling an xxxx MW adjustment in 2044,  a 5% reduction in the winter would result in more than **** MW of reduced cooling needs, as shown in Table 27.
+Table 27: Cooling Needs Variability by Season
+Location
+Q1
+Q2
+Q3
+Q4
+PUE Assumption
+1.07
+1.09
+1.13
+1.08
+IT Equipment Needs (MW)
+100
+100
+100
+100
+Estimated Needs for Cooling and Other Non-IT End Uses (MW)
+7
+9
+13
+8
+Adjusted Total Needs (MW)
+107
+109
+113
+108
+Discount to Peak Summer Cooling (MW)
+-6
+-4
+0
+-5
+Discount to Peak Summer Cooling (%)
+-5%
+-4%
+0%
+-4%
+Q.Please summarize your concerns regarding the large load forecast and the load realization model.
+A.The large load pipeline (based on quarterly reports through Q2 2024) exhibits a significant rate of project removal and load reduction relative to initially announced loads. This trend is particularly true for data center projects, relative to other industry segments. If project removals and load changes continue at the rates identified in the Q1 2024 and Q2 2024 reports, the Company can expect its large load pipeline to diminish over time and materialize at rates outside the assumptions of the LRM, as is the case with the 2023 IRP Update tranche, thus violating the assumptions of the LRM. 
+Acknowledging that the Company has not updated any of the underlying assumptions in the LRM, the model continues to forecast that data center projects  will materialize at rates higher than other industry segments. As such, the Company has not accounted for the higher likelihood that a data center project will be removed compared to other industry segments. The Company also has not accounted for the fact that a significant majority of its pipeline remains in the Technical Review stage, comprised mostly of data center projects, which have provided no financial commitment nor executed a contract with the Company.
+Each of these trends demonstrates a pipeline that is highly unpredictable. As the Company continues to add new large load projects to its pipeline, especially datacenter projects, it fails to incorporate the aforementioned trends and generates a pipeline that is increasingly uncertain. 
+Given this discussion, the following conclusions are clear:
+From the 2023 IRP Update through the Q2 2024 Large Load Economic Development Report, the Company has identified a significant rate of project removals and net load reductions in its large load pipeline.
+Project removals and net load reductions are concentrated amongst data center projects, particularly those in the Technical Review stage.
+Approximately 83% of the large load pipeline in the Q2 2024 report is represented by data center projects at any contract status. 
+Approximately 54% of the large load pipeline in the Q2 2024 report is represented by data center projects in the Technical Review Stage. 
+The B2025 LRM continues to add new data center projects relative to the 2023 IRP Update and the Q1 2024 Report, increasing the proportion of the large load pipeline represented by data centers.
+The B2025 LRM continues to assume that data center projects will materialize at a rate higher than other industry segments without sufficient justification.
+The B2025 LRM unreasonably biases the materialization of datacenter projects, potentially leading to overestimation in the large load forecast.
+The B2025 LRM does not consider seasonal variation in project operations which may lead to an overestimation of peak load in the Winter season. 
+The Project Success assumptions are subjectively set for each project, introducing the potential for further bias.
+The Company has not updated the underlying assumptions of the B2025 LRM. As such, the B2025 LRM does not account for any of the trends identified in these conclusions.
+The Company has not outlined a plan to update the assumptions in the LRM. 
+Q.Do you have any further concerns that the Company should consider?
+A.Yes. There are some structural issues with the LRM that need further consideration. Once a project reaches Commercial Operation, it is unclear a) how the Company will incorporate the materialized load of this project into its load forecast, b) at what point a project is no longer appropriate to be included in the LRM pipeline, and c) how learnings from removed projects are tracked and incorporated into the LRM.
+The Company states that projects will remain in the LRM following commercial operation and are not expected to be removed from the large load pipeline. If the Company keeps a project in the LRM pipeline until it reaches its maximum expected load, the Company biases the LRM to disproportionately include projects that have successfully reached Commercial Operation, erroneously exhibiting a higher average project success rate. It is unclear if the Company has a plan to ensure that its evaluation of project success trends includes projects that have been cancelled, to ensure the statistics reflect the entire library of data.
+If only a portion of these project loads remain in the LRM through the Load Ramp period, there is potential for the Company to double-count materialized loads. The results of the LRM are applied as external adjustments to the Company’s organic load forecast. However, the organic load forecasts take historical load data on a class basis. As a data center comes online, it will contribute to historical loads used in the organic sector forecast while also remaining in the LRM to produce LRM adjustments. It is unclear how the Company intends to account for this potential double-counting.
+In general, it is unclear how the Company intends to manage the evolution of the LRM in the future. The Company has not analyzed any of the trends in the quarterly large load economic development reports to verify the reasonableness of the underlying assumptions nor whether the LRM is performing effectively at forecasting large load materialization. Ultimately, the Company has not demonstrated any analysis nor any plans to improve the performance of the LRM, citing “a lack of sufficient data.” As demonstrated in this testimony, while trends may still develop in the coming years, there is still enough data available in the quarterly reports to begin preliminary analysis. 
+Forecast Uncertainties
+Q.Are there exogenous uncertainties that may impact the Company’s Load Forecast?
+A.Yes. The Company’s B2025 forecast faces multiple factors that may impact the materialization of its forecasted load including, but not limited to:
+Economic uncertainty, 
+Feedback effects from new minimum billing requirements for large load customers,
+Potential opportunities for load flexibility across large load customers, and
+Significant uncertainty regarding the impact of model performance on Artificial Intelligence (“AI”) datacenter electricity consumption.
+Q.Is there any potential economic uncertainty in the B2025 forecast?
+A.Yes. The B2025 forecast is based on economic forecasts produced in early 2024. Market conditions have changed significantly since the development of the Company’s forecast, which may affect both the organic and large load forecasts in the short term.
+This trend is most evident in unemployment data for 2024. The Company forecasted that the 2024 state-level unemployment rate for Georgia would be xxxx %. However, actuals materialized higher at ~3.51%. Higher than anticipated unemployment may also coincide with diminished economic activity. 
+Q.What are the potential impacts of economic uncertainty?
+A.If the trend of higher-than-anticipated unemployment and slower economic activity persists through the near term, the organic load forecast may materialize lower than expected.
+Higher unemployment would result in diminished residential customer growth, based on the ST Residential Customer Growth model. If higher unemployment rates coincide with slower economic growth, this would also impact the Commercial and Industrial classes for both customer growth and energy forecasts. As a result of this economic uncertainty, certain projects in the organic Commercial and Industrial classes may not materialize on the expected timeline, resulting in a potentially diminished load forecast for the early years of the forecast.
+The impact on the Commercial and Industrial classes is of particular concern to the large load forecast, though the expected behavior of specific large load projects is uncertain. Specifically, uncertainty regarding interest rates and tariffs may impact the timeline of large load projects or even result in the cancellation of certain projects. For example, the current administration is expected to enact semiconductor tariffs in 2025. These tariffs would increase the cost of semiconductors and other advanced electronics that are used to in data centers. If these tariffs materialize, it is unclear the extent to which data centers in the large load pipeline will react to these policy changes and how this will impact the timeline or magnitude of project materialization. 
+In general, the LRM is not robust to economic indicators and would not be able to capture the impact of any economic uncertainty. If higher interest rates and increased tariff rates on key supply chain components persist, short-term materialized load from the LRM may decrease relative to the B2025 forecast.
+Economic uncertainty may also affect EV sales forecasts across the forecast horizon. As of the April 30, 2025, a 25% tariff is planned to be placed on the import of automobiles and certain automobile parts, effective May 3, 2025. While tariff rates may be eased for certain portions of the auto supply chain, or reimbursement schemes may be available for domestic producers, it is unclear exactly how tariff relief would materialize nor how it would ultimately impact domestic automakers. In the near term, these tariffs are expected to increase the prices of both imported vehicles as well as domestic vehicles. These price increases are likely to result in diminished EV sales while the tariffs persist. While EV sales increased 10% annually as of Q1 2025, industry experts suggest that any first-quarter sales growth may be by those customers attempting to secure a vehicle ahead of tariff impacts. The long-term impacts are less clear. If tariffs persist, it is possible the EV sales forecasts could be reduced throughout the forecast horizon. However, if U.S. automakers are successful at re-shoring manufacturing capacity, some of these impacts may be mitigated in the long term.
+Ultimately, the Company should be prepared to continue testing sensitivities to its load forecast as often as new data is available and as is operationally feasible to ensure the incorporation of the most recent data and market conditions. 
+Q.Please discuss the new minimum billing requirements for large load customers and how these requirements may impact load materialization.
+A.The Company is in the process of implementing new rules and regulations regarding large load customers. It is unclear how existing and potential large load customers in the Company’s pipeline will react to these new requirements. 
+In January 2025, the Commission approved the Company’s proposed revisions to its Rules and Regulations regarding customers with 100 MW or more in load with the intent to protect ratepayers against the risk of large load projects failing to materialize as forecast. The revisions in Section A and Section D allow the Company to require additional terms and conditions on these large load customers, including the extension of contract terms longer than those specified in the applicable rate schedule. The Time of Use – Supplier Choice (“TOU-SC-15”) and Power and Light Large (“PLL-18”) schedules are most applicable to these large load customers. 
+As currently proposed, it is unclear specifically how much these revisions will impact large load customers and their expected project schedules. The Company retains the right to impose additional terms and conditions, but it is unclear if these conditions will require any upfront financial commitments from large load customers or simply impose minimum billing requirements. 
+Regardless of the final structure of the terms and conditions in the Company’s proposed rules, it is likely that there will be some feedback effect on the Company’s load forecast. For example, just months after settlement terms were reached on new tariff requirements for data centers in Ohio, Microsoft announced that they were halting plans to invest $1 billion in a central Ohio data center campus. Multiple factors can play into a decision to halt data center investment including, but not limited to, the introduction of new utility tariff requirements. As the Company develops its new large load tariffs, it should monitor for any impact the new requirements are having on their large load forecast and have a plan in place to adjust the LRM accordingly.
+Q.PLease discuss how load flexibility programs for large loads may impact the b2025 load forecast.
+A.Novel load flexibility programs for large load customers such as datacenters may significantly mitigate peak load growth in the Company’s forecast. It is unclear the extent to which the Company has offered such programs to existing customers or intends to offer these programs in the future. The Company states that some large load customers, particularly data center customers, are participating in an EPRI program called “DC Flex” to take advantage of “any potential flexibility in their operations.” However the number of customers participating in these programs and the associated impacts to peak load are unclear.
+A study performed by Duke University suggests that modest curtailments on large load customers may enable significant system headroom in the Southern Company footprint, potentially enabling load additions up to 20% of peak load based on a 1% curtailment rate. Applying this to the Company’s Summer peak load of ~18 GW in 2024, a 1% curtailment would allow ~3.6 GW of load additions without increasing peak load. The Company’s current forecast, particularly the load realization model, do not consider the impact of large load flexibility on peak load. 
+Q.Please discuss how improved AI model performance may impact the energy efficiency of ai data centers.
+A.The development of the artificial intelligence industry is novel and highly uncertain. Improvements in chip efficiency and model performance may significantly impact the energy needs for these data centers, potentially decreasing forecasted demand for these end-uses.
+Following the release of an AI model from the Chinese company DeepSeek, local Chinese outlets reported that up to 80% of computing resources remained unused. DeepSeek claims that its model is 10 to 40 times less energy intensive than its competitors. While these specific values are not externally verified, the magnitude of this impact remains significant when examining the evolution of the AI industry. 
+Energy consumption effects of improved AI model performance may be compounded by many AI data centers shifting from model training to model inference. To date, most AI models have been focused on the “training” phase, in which an AI model is fed vast amounts of data through which it generates a reference library of information. Once trained, this model moves into the “inference” phase, in which the model can produce outputs based on data that it reviewed in its training phase. During the training phase, AI models require a significant amount of power; this power need is expected to decrease in the inference phase.
+Ultimately, the AI industry is a relatively nascent industry, and the long-term growth trends are unclear at this time. Even projects in the process of development may not be operating long-term. For example, some analysts suggest that at least 30% of generative AI projects will be abandoned by the end of 2025 due to poor data quality, inadequate risk control, and escalating costs.
+Q.Please summarize your conclusions regarding exogenous forecast uncertainties.
+A.There are multiple uncertainties in the Company’s load forecast, as outlined below:
+Economic uncertainty may diminish growth in the Company’s organic load forecast.
+Economic uncertainty is not accounted for in the LRM. This uncertainty may also diminish or delay load growth in the large load forecast.
+It is unclear how large load customers in Georgia will react to new minimum billing requirements. Whether the rules and regulations are enacted as financial commitments or minimum billing requirements, there are likely to be feedback responses from large load customers that are cost sensitive.
+It is unclear if the Company has included any large-load flexibility programs in its B2025 forecast. Without considering load flexibility programs that may be available to large loads in the future, the Company may be overestimating large load growth.
+There is significant uncertainty regarding the materialization of data center loads, especially those related to artificial intelligence.
+
+Staff Adjustments to B2025 Load Forecasts
+Q.Do you have any concerns that warrant adjustments to the Company’s load forecast?
+A.Yes. In this testimony, multiple concerns were noted regarding both the organic load forecast and the large load forecast. For the purposes of this testimony, the only adjustments that are being proposed are to the large load forecast, via the LRM. As such, these core concerns are outlined below:
+The B2025 LRM expectations have already decreased in the short-term, as evidenced by the February 2025 sensitivity produced by the Company.
+The Company has not provided evidence to support the assumption that data center projects will materialize at a higher portion of announced load when compared to other industries. This assumption is not empirically evidenced by the data in the Company’s large load pipeline.
+Due to economic uncertainty, load growth assumed in the B2025 load forecast may diminish or be delayed.
+The Company’s LRM does not account for any economic uncertainty. 
+There is long term uncertainty regarding the materialization of datacenter loads, driven by uncertainty regarding the AI industry at large.
+Based on these concerns, the load realization model should be adjusted to reflect a trend of short-term reductions in large load materialization, reduced certainty in data center projects, increased economic uncertainty, as well as a lack of evidence for a higher rate of materialization for data center and cryptocurrency projects.
+Q.Please expLain the Adjustments you are proposing.
+A.The load materialization assumptions in the Company’s LRM should be adjusted to be uniform for all industry segments. Currently, the model biases data center and cryptocurrency projects to materialize at a higher rate than other industries. As such, the low/most-likely/high probabilities for these segments should be reduced by 20%/25%/15% to match the assumptions for all other sectors.
+Q.Please demonstrate the impacts of these adjustments on the b2025 load forecast.
+A.Through 2032, the proposed adjustments result in a ~2,000 MW reduction to peak load in both seasons, as shown in Figure 10. This reduction increases to ~2,200 MW by 2044. The reduction is a flat adjustment in both seasons, varying annually based on the results of Staff’s adjusted simulation of the Load Realization Model.
+
+Figure 10: Comparison of Staff Adjustment to B2025 Forecast, Summer Peak
+
+This adjustment was calculated by editing the load materialization assumptions in the LRM to be “uniform,” such that datacenters and cryptocurrency projects are not assumed to materialize at a higher rate than other industry segments. Given these adjustments, the LRM is simulated across 100,000 iterations and evaluated at the P50 level. The results of the LRM then are discounted based on the same discount factor that the Company’s used to calculate its large load adjustments, as demonstrated in Table 28 below.
+
+Table 28: Comparison of GPC and Staff Large Load Forecasts (MW)
+Year
+B2025 
+P50 LRM
+GPC LRM Adjustment
+Implied 
+Discount Factor
+Staff 
+P50 LRM
+Staff LRM Adjustment
+Implied
+Discount 
+Factor
+GPC Adjustment less Staff Adjustment
+2024
+XXX
+XXX
+27%
+XXX
+XXX
+27%
+XXX
+2025
+XXX
+XXX
+73%
+XXX
+XXX
+73%
+XXX
+2026
+XXX
+XXX
+71%
+XXX
+XXX
+71%
+XXX
+2027
+XXX
+XXX
+80%
+XXX
+XXX
+80%
+XXX
+2028
+XXX
+XXX
+88%
+XXX
+XXX
+88%
+XXX
+2029
+XXX
+XXX
+92%
+XXX
+XXX
+92%
+XXX
+2030
+XXX
+XXX
+94%
+XXX
+XXX
+94%
+XXX
+2031
+XXX
+XXX
+95%
+XXX
+XXX
+95%
+XXX
+2032
+XXX
+XXX
+96%
+XXX
+XXX
+96%
+XXX
+2033
+XXX
+XXX
+96%
+XXX
+XXX
+96%
+XXX
+2034
+XXX
+XXX
+96%
+XXX
+XXX
+96%
+XXX
+2035
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2036
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2037
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2038
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2039
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2040
+XXX
+XXX
+97%
+XXX
+XXX
+97%
+XXX
+2041
+XXX
+XXX
+95%
+XXX
+XXX
+95%
+XXX
+2042
+XXX
+XXX
+95%
+XXX
+XXX
+95%
+XXX
+2043
+XXX
+XXX
+95%
+XXX
+XXX
+95%
+XXX
+2044
+XXX
+XXX
+95%
+XXX
+XXX
+95%
+XXX
+Q.Please Compare the proposed adjustments to the February 2025 Sensitivity.
+A.In general, the proposed adjustments align closely with the February Sensitivity of the LRM, assuming the Company uses the same discount factor identified in Table 28 to adjust simulation results. Through 2027, for both the summer and winter seasons, the difference between the February 2025 sensitivity and the Staff Adjustment is less than 150 MW (<1%) on an absolute value basis. Beginning in 2028, the Staff Adjustment reduced load forecasted in the February 2025 Sensitivity. These differences are presented on a total system load basis in Figure 11 and Figure 12. 
+Figure 11: Comparison of Staff Adjustment, B2025, and February 2025 Sensitivity, Total Summer Peak
+
+Figure 12: Comparison of Staff Adjustment, B2025, and February 2025 Sensitivity, Total Winter Peak
+
+Numerically, Staff’s adjustments are summarized in Table 29, showing the difference relative to the filed B2025 forecast.
+Table 29: Staff Adjustment to B2025 Forecast (MW)
+Year
+Staff Adjustment
+2024
+ (5)
+2025
+ (88)
+2026
+ (278)
+2027
+ (674)
+2028
+ (1,163)
+2029
+ (1,594)
+2030
+ (1,869)
+2031
+ (2,010)
+2032
+ (2,074)
+2033
+ (2,119)
+2034
+ (2,154)
+2035
+ (2,179)
+2036
+ (2,183)
+2037
+ (2,188)
+2038
+ (2,192)
+2039
+ (2,198)
+2040
+ (2,199)
+2041
+ (2,161)
+2042
+ (2,165)
+2043
+ (2,170)
+2044
+ (2,176)
+
+Q.WHY SHOULD THE COMMISSION ADOPT STAFF’S LOAD FORECAST RATHER THAN GEORGIA POWER’S LOAD FORECAST?
+A.There are multiple factors in the Company’s load forecast that introduce a potential overestimation bias. Staff presents an adjustment exclusively to the large load forecast, driven by numerous concerns regarding the load realization model. However, concerns regarding the organic load forecast may further cause load to materialize at levels below the Staff forecast.
+Staff’s proposed forecast directly accounts for the concern that the Company assumes data center and cryptocurrency projects to materialize at higher rates than other industries without sufficient evidence. The proposed adjustment takes into account significant project cancellation and load reduction rates exhibited by data center projects. Furthermore, large load data center customers that are currently operating show that their metered load is materializing at a rate far lower than assumed by the Company. Staff’s proposed forecast reasonably accounts for these concerns.
+However, multiple additional concerns may moderate the load forecast down further. Staff’s forecast does not directly account for any economic uncertainty that may diminish or delay large load projects. Furthermore, the proposed adjustment does not offer a seasonal variation in its adjustment, as would be appropriate.
+Further concerns in the organic load forecast are also not accounted for directly in Staff’s proposed forecast. The Company’s ST Commercial Customer Growth model uniquely exhibits an R2  value significantly outside the preferable range, a significant MAPE, and clearly negative average residuals which demonstrate overestimation. The Company’s calibration of the LT model to the ST model may carry any over-estimation present in the ST Commercial Customer Growth model throughout the forecast horizon, resulting in a persistent over-estimation bias. Due to economic uncertainty, the Company’s multiple ST models may not be accurately reflecting current and developing market conditions. Models that contain indicators for unemployment, recessions, housing development, or any other economic activity may thus be out of date and exacerbating over-estimation. 
+Each of the issues not directly addressed by Staff’s proposed forecast would further diminish forecasted load. Staff’s proposed forecast is a conservative adjustment to the Company’s B2025 forecast that provides a reasonable load forecast for system planning while accounting for significant uncertainty in both the organic and large load forecasts. 
+Q.How does the proposed adjustment compare to the pipeline of large load projects?
+A.Based on the adjustment value of each simulation, the Staff Adjustment provides a reduction to the Company’s proposed large load forecast but still leaves a margin of ~1,000 MW in excess of the total announced load of committed projects, as shown in Figure 13 below. Note that the announced load of committed projects still overstates the Company’s expected load for these projects, as the load materialization assumptions of the LRM would reduce that total load significantly. Additionally, the adjustment discount factor identified in Table 27 would need to be applied, further reducing the load.
+Figure 13: Comparison of Staff Adjustments to LRM Pipeline and Committed Customers  
+
+Q.Do your proposed adjustments preclude any further adjustments by you or another intervening party?
+A.No. The adjustments proposed in this testimony specifically address concerns regarding the Load Realization Model and its treatment of data center projects. These adjustments do not address the numerous concerns in the organic models regarding model error, calibration, and economic uncertainty which have been discussed in this testimony.
+As discussed earlier in this testimony, there are potential over-estimation biases present in the Company’s ST Residential Customer Growth and ST Commercial Customer Growth models. These biases may be compounded by the Company’s calibration process between the LT and ST models. An adjustment correcting for these issues may be reasonable.
+Additionally, economic uncertainty may diminish growth in the entirety of the organic load forecast as well as the large load forecast. Additional adjustments for these concerns may also be reasonable.
+
+Compliance with the Rules and Regulations of the State of Georgia 
+Q.Are there any rules or regulations relevant to your review of the Company’s load forecast?
+A.Yes. Subject 515-3-4  of the Rules and Regulations of the State of Georgia broadly covers Integrated Resource Planning. The following rules are relevant to this testimony:
+Rule 515-3-4-.03 – Energy and Demand Forecast Requirements,
+Rule 515-3-4-.06. – Integrated Resource Plan Filing Requirements and Procedures,
+Q.Please Explain how Rule 515-3-4-.03 is relevant to your testimony.
+A.Rule 515-3-4-.03 lays out the requirements for all energy and demand forecasting. In general, the Company has complied with this rule, however there are certain subsections under which the Company could improve its filing. 
+Under Rule 515-3-4-.03(3)(d), “Where statistical or econometric methods are used in developing forecast inputs or in the forecasting process, analyses of the reasonableness of such methods and models shall be presented, including computer outputs with parameter estimates.” In general, the Company has partially complied with this rule, as demonstrated in Section 6 of the Company’s B2025 Load and Forecast report. However, the Company has not provided similar summary statistics for the statistical hourly models provided in the Peak Forecast model. The Company should ensure that model parameter and related summary statistics are provided in a similar format for all statistical and econometric models, including but not limited to the hourly regression models used in the Peak Forecast model.
+Under Rule 515-3-4-.03(4), “The energy and demand forecast shall include an analysis of the sensitivity of results to major assumptions and estimates used in preparing the forecasts,” including a base case, high growth, and low growth scenario. The Company produced multiple sensitivities in its organic load forecast, including two scenarios for the large load realization model. However, the Company has only tested variability in the probability-level at which it evaluates the model, evaluating the LRM at the P50 and P95 levels. The Company did not provide any sensitivities that test major assumptions in the LRM such as materialization rates, probability of success, or delays. To fully comply with this rule, the Company should ensure that it is testing changes to each of these key variables to produce the base, high growth, and low growth scenarios for the LRM, as opposed to simply evaluating the model at a higher probability level.
+Q.Please Explain how Rule 515-3-4-.06 is relevant to your testimony.
+A.Under Rule 515-3-4-.06(3)(a)6, the Company is required to define “[a] schedule for the acquisition of data, including planned activities to update and refine the quality of data used in forecasting…” It is unclear whether the Company has a plan to update and refine the quality of the data use in the LRM. Specifically, the Company has not defined how it intends to update any of the key assumptions in the LRM to improve its predictive power. The Company should file a report to the Commission in this docket outlining how the Company will evaluate the data produced from all prior LRM vintages as well as the quarterly large load development reports filed in Docket 55378.
+Additionally, under Rule 515-3-4-.06(3)(c), the Company must ensure that its technical appendix includes “documentation, inputs, and summary outputs for all models and formulas used.” The Company has partially complied with this rule, as demonstrated in Section 6 of the Company’s B2025 Load and Forecast report. However, the Company has not provided similar summary statistics for the statistical hourly models provided in the Peak Forecast model as part of its base filing. The Company should ensure that model parameter and related summary statistics are provided in a similar format for all statistical and econometric models, including but not limited to the hourly regression models used in the Peak Forecast model.
+Further, under Rule 515-3-4-.06(5)(c), the Company is required to file an amendment to its IRP if the “basic data used in the formulation of its last approved plan requires significant modification which affects the choice of a resource or use of an RFP which was approved as part of the integrated resource plan.” Acknowledging significantly different market conditions from the initial production of the B2025 load forecast in addition to a potential over-estimation in the Company’s organic load forecast, it may be appropriate for the Company to file an amendment to this IRP to reflect current data more accurately. 
+Conclusions & Recommendations
+Q.Please summarize your conclusions.
+A.The Company’s B2025 load forecast consists of two separate load forecasts. The first forecast is the organic load forecast which refers to growth based on historical customer trends excluding new large load customers. The second forecast is the new large load forecast. The Company’s B2025 load forecast uses a generally reasonable forecasting approach and methodology for both the organic load forecast and the large load forecast, given the limitations in currently available historical data for emerging data center projects. However, there are significant concerns regarding the underlying assumptions, model specifications, calibration processes, and input data for the model.
+For the organic load forecast, the following conclusions are clear:
+The short-term  Commercial Customer Growth model uniquely exhibits indicators of model fit and error that demonstrate statistical bias in the model, indicating a risk of overestimation. Specifically, the  coefficient of determination falls  outside the preferable range and model errors demonstrate a persistent overestimation.
+The short-term Residential Customer Growth model also exhibits high model errors, though its coefficient of determination is acceptable.
+The calibration of the long-term energy models to the short-term energy models may carry any overestimation present in the short-term energy models. This is particularly a concern for the short-term Commercial Customer Growth model , which results in a persistent overestimation bias.
+Due to economic uncertainty, multiple short-term models may not accurately reflect current and developing market conditions. Models that contain indicators of unemployment, recessions, housing development, or any other economic activity may thus be out of date, potentially introducing further overestimation bias.
+For the large load forecast, which is separate from the organic load forecast, the following conclusions are clear:
+Since the 2023 IRP Update, the Company has identified a significant rate of project removals and net load reductions in its large load pipeline.
+Since the 2023 IRP Update, the Company’s near-term large load forecast has consistently reduced growth expectations.
+Project removals and net load reductions are concentrated amongst data center projects, particularly those in the Technical Review stage.
+Approximately 54% of the large load pipeline as of Q2 2024 is represented by data center projects in the Technical Review Stage, based on 2037 announced load. 
+The Company’s Budget 2025 Load Realization Model (“LRM”), which is the basis for the large load forecast, continues to add new data center projects, increasing the proportion of the large load pipeline represented by data centers.
+The B2025 LRM continues to assume that data center and crypto currency projects will materialize at a rate higher than other industry segments without sufficient justification.
+The B2025 LRM unreasonably biases the materialization of data center projects, potentially leading to overestimation in the large load forecast.
+The B2025 LRM does not consider seasonal variation in project operations which may lead to an overestimation of peak load in the Winter season. 
+The Company’s Project Success assumptions are subjectively set for each project, introducing the potential for further bias.
+The Company has not updated the underlying assumptions of the B2025 LRM. As such, the B2025 LRM does not account for any of the trends identified in these conclusions.
+The Company has not outlined a plan to update the assumptions in the LRM.
+The data provided in the quarterly large load economic development reports has provided significant transparency on the development and materialization of large loads. Without the data produced from these quarterly reports, the Commission, Staff, and the public would not be able to observe the significant rate of project removals identified in this testimony.
+Regarding compliance with the Rules and Regulations of the State of Georgia, the following conclusions are clear:
+The Company has partially failed to comply with Rules 515-3-4-.03(3)(d) and 515-3-4-.06(3)(c) by failing to provide summary statistics for the hourly models used in the Company’s peak load forecast as a part of its initial filing.
+The Company has partially failed to comply with Rule 515-3-4-.03(4) by failing to test sensitivities in the underlying assumptions of the Load Realization Model. Instead, the Company has only provided an evaluation of the model at the P50 and P95 levels.
+The Company may have failed to comply with Rule 515-3-4-.06(3)(a)6. The Company has not defined a schedule under which it will update and refine the quality of the data and assumptions used in the Load Realization Model. 
+The Company may need to file an amendment to its IRP if the economic indicator data underlying its load forecast has changed significantly, pursuant to Rule 515-3-4-.06(5)(c). 
+Q.please summarize your recommendations.
+A.Based on the conclusions of our review, Staff recommends that the Commission require the Company to:
+Validate the factors that led to the significant residual errors and high MAPE in the ST Residual Customer Growth model. If necessary, these issues should be addressed in future forecast vintages.
+Validate the factors that led to significant residual errors and high MAPE in the ST Commercial Customer Growth model. If necessary, these issues should be addressed in future forecast vintages.
+Examine, explain, and justify the magnitude of the pre-adjustment calibration between the ST Commercial Sales forecast and the LT Commercial Sales forecast. The justification should include a quantitative demonstration of the calibration process as well as a comparison to the magnitude of historical calibrations.
+Consider generating the Project Success assumption on a probabilistic basis, similar to the Project Delay and Load Materialization assumptions. If the Company determines that this methodology is inappropriate, the Company should explain why in this proceeding.
+Provide a plan for how the Load Realization Model will be operated long-term. Specifically, the Company should explain how it intends to avoid double-counting between the Large Load and Organic Load forecasts. Additionally, the Company should explain how it will treat large loads in the Load Realization Model once they begin commercial operation.
+Provide a plan for how the Company will use the quarterly large load economic development reports and any other relevant data to improve and refine the underlying assumptions of the LRM. This plan should be submitted following this proceeding to ensure that the Company can refine its data tracking and analysis of customers in the large load pipeline. The plan should describe a revision and validation process that is repeated on a quarterly basis, in line with the quarterly large load economic development reports.
+Continue providing quarterly large load economic development reports. In addition to the data currently provided in the quarterly reports, the Company should provide the following additional information:
+The quarter in which the project entered the large load pipeline,
+The announced load of the project when it first entered the large load pipeline,
+Whether the customer is considering sites outside of Georgia, and
+A description and quantification of financial commitments provided by each large load customer.
+File a report one year after the implementation of its proposed minimum billing requirements, explaining how the new tariffs and contract structure have impacted the large load forecast and the large load pipeline. The results of this report should be used to adjust the Load Realization Model accordingly.
+Accept the “Staff Adjustment” to the Load Realization Model, which sets load materialization assumptions uniformly for all industry segments at the xxx/xxx/xxx range, decreasing the load materialization assumptions for data center and cryptocurrency projects by 20%/25%/15%.
+Pursuant to Rules 515-3-4-.03(3)(d) and 515-3-4-.06(3)(c), provide model parameter and related summary statistics in a similar format to the 2025 IRP filing for all statistical and econometric models, including but not limited to the hourly regression models used in the Peak Forecast model. While the Company provided this data in response to DRs, this information should be provided up-front in the Company’s initial filing.
+Pursuant to Rule 515-3-4-.06(3)(a)6, develop sensitivities to the Load Realization Model that test variation in underlying assumptions (Project Success, Ramp-Up Delay, and Load Materialization).
+Pursuant to Rule 515-3-4-.06(3)(a)6, file a report to the Commission in this docket outlining how the Company will evaluate and incorporate into the current LRM the data produced from all prior LRM vintages as well as the quarterly large load development reports filed in Docket 55378.
+Submit an amendment to the 2025 IRP with an updated load forecast if seasonal peak load materializes at an error rate of 8% or greater. The error rate shall be defined as the absolute value of the difference between forecasted seasonal peak load and actual seasonal peak load, relative to forecasted seasonal peak load.
+Q.Does this conclude Staff’s testimony?
+A.Yes.

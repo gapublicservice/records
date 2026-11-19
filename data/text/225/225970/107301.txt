@@ -1,0 +1,222 @@
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-9.docx =====
+STF-PIA-2-9
+
+Question: 
+
+Please see the statement on page 19 of the direct testimony of Mr. Houston and Mr. Berrigan that customers must begin paying firm gas transportation charges for pipeline expansions for the new Bowen and Wansley combined cycle generators “in November 2027, prior to the in-service dates of those units.”
+
+a.Please document the Company’s efforts to secure a firm transportation agreement with service and payment commencing closer to the expected in-service dates for the Bowen and Wansley gas combined cycle generators.
+b.If the Bowen or Wansley gas combined cycle units experience delays that push their in-service dates past current expectations, will the cost of the unused firm transportation reservation (net of any revenues from selling that capacity in the market) during that delay period be recovered from ratepayers?
+
+Response:
+
+a.  Transco’s Southeast Supply Enhancement Project (“SSE”) was the only project that the Company could have participated in for additional firm transportation (“FT”) service to meet the additional gas needs for the new combine cycle units at Plants Bowen and Wansley. Transco conducted an open season for the SSE project as required by FERC to solicit additional shippers for the SSE project. There have not been any other projects on Transco to date that the Company could have participated in that would have met the in-service date closer to the needs of the new combine cycle units. The in-service date of the additional FT was driven by other shippers and Transco’s desire to complete the project as soon as possible. 
+
+b. While the Company currently does not expect any delay of in-service dates of those units, if there are any such delays, the Company will remarket any excess FT to the shippers and marketers on Transco to recover any cost of unneeded FT during the period prior to the new combine cycle in-service dates similar to its efforts to recover those costs during the projected test period as reflected in the FCR-27 budget. Any remaining FT costs net of revenue proceeds from the sale of capacity will be charged to the fuel clause to be recovered from customers.
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-4.docx =====
+STF-PIA-2-4
+
+Question: 
+
+For the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, for each hour in which a coal or gas combined cycle unit operated even though its total variable O&M costs ($/MWh) (item 2b above) is greater than the day-ahead forecasted locational marginal energy cost at that location (item 1i above), please explain why the unit operated. If day- ahead forecasted locational marginal energy cost at that location (item 1i above) is not available, please use the day-ahead forecast for system lambda instead (item 1h above). If that is not available, please use actual locational marginal energy cost (item 1b above). If that is not available, please use actual system lambda (item 1a above).
+
+Response:
+
+The Company’s system of records does not produce detailed output records of why a coal or gas combined cycle unit operated even though its total variable O&M costs ($/MWh) were greater than the system lambda in a given hour. The primary function of the Company’s dispatch model is to minimize production cost while maintaining all necessary constraints (minimum up time, minimum down time, reserves, startup costs, minimum and maximum capacity, ramp rates, etc.). A combination of these and other constraints such as reliability, operational, transmission, and regulatory constraints could potentially result in the unit’s operation even though its total variable O&M costs ($/MWh) were greater than the system lambda.  
+
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-6.docx =====
+STF-PIA-2-6
+
+Question: 
+
+For each of the Company’s coal and gas combined cycle units for the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, please provide the following dispatch parameters as they are used in the Company’s dispatch decisions. If any of the following operating parameters changed during the test period, please indicate when it changed and both the old and new parameters.
+
+a.Minimum output level
+b.Definition for cold, warm, and hot start (specifying downtime hours for each)
+c.Startup time – cold start
+d.Startup time – warm start
+e.Startup time – hot start
+f.Startup cost – cold start
+g.Startup cost – warm start
+h.Startup cost – hot start
+i.Any costs associated with cycling a unit to partial load
+j.Any costs associated with shutting a unit down
+k.Minimum run time
+l.Any limits on the number of starts
+
+Response:
+
+The Company is providing available historical information through February 2026.
+
+ Please see STF-PIA-2-6 Attachment, Tab “Minimum Output.”
+
+The Company only uses hot and cold start parameters in modeling (no warm start parameters). A unit that has been off for more than the “Still Hot Hours” parameter is considered cold.  The “Still Hot Hours” parameter for each unit is defined in STF-PIA-2-6 Attachment, Tab “Still Hot Hours.”
+
+Please see STF-PIA-2-6 Attachment, Tab “Up-Down Time-Cost.”
+
+The Company does not model warm starts (only hot and cold).
+
+Please see STF-PIA-2-6 Attachment, Tab “Up-Down Time-Cost.” 
+
+Please see STF-PIA-2-6 Attachment, Tab “Up-Down Time-Cost.”
+
+The Company does not model warm starts (only hot and cold).
+
+Please see STF-PIA-2-6 Attachment, Tab “Up-Down Time-Cost.”
+
+The Company does not model any additional costs associated with cycling a unit to partial load.
+
+Please see STF-PIA-2-6 Attachment, Tab “Up-Down Time-Cost.”
+
+Please see STF-PIA-2-6 Attachment, Tab “Minimum Runtime.”
+
+There are no limits on the number of starts.
+
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-7.docx =====
+STF-PIA-2-7
+
+Question: 
+
+For the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, please provide each of the following data points at the highest chronological resolution possible (e.g. hourly or daily):
+
+a.The quantity of gas purchased on the spot market
+b.The price paid for gas on the spot market
+c.The quantity of gas purchased under contracts other than the spot market
+d.The price paid for gas purchased under contracts other than the spot market
+
+Response:
+
+The Company is providing historical information available through February 2026.
+
+Please see STF-PIA-2-7 Attachment.
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-8 PUBLIC DISCLOSURE.docx =====
+STF-PIA-2-8
+
+Question: 
+
+Please see the statement on page 17 of the direct testimony of Mr. Houston and Mr. Berrigan that the “FCR-27 budget includes must-run requirements for Plant Bowen to address system constraints and ensure operational reliability.' Please explain in detail:
+
+a.What expectations for must-run requirements for Plant Bowen are included in the FCR-27 budget (such as the quantity of must-run generation and the time periods when it occurs)?
+b.Why those must-run designations are required “to address system constraints and ensure operational reliability”?
+
+Response:
+
+Please see STF-PIA-2-8 Attachment for the must-run requirement assumptions for Plant Bowen included in this filing for the projected test period. In responding to this data request, the Company discovered the STF-PIA-1-2 Attachment D provided in the Company’s response to STF-PIA-1-2 included incorrect data for the must-run requirement assumptions included in the FCR-27 Budget. Specifically, REDACTED REDACTED REDACTED REDACTED REDACTED. The Company is providing the corrected data for the must-run requirement assumptions in this response. In addition, please see STF-PIA-1-10 Attachment A in the Company’s response to STF-PIA-1-10 for the projected minimum capacity for Plant Bowen included in the FCR-27 Budget.
+
+In accordance with NERC Reliability Standards for planning and operating the bulk electric system, the Company performs regular analysis identifying potential transmission reliability needs (e.g. must-run) to maintain the reliability of the transmission system.  Planning may identify that generation is needed in certain locations and at certain time periods to mitigate system constraints due to generation and/or transmission contingencies.  Plant Bowen is uniquely situated such that generation at its location helps mitigate numerous anticipated power flow and thermal constraints during the FRC-27 test period.  Due to the need to ensure coal availability for Plant Bowen, it was necessary for Planning to provide guidance to model higher commitment and run times for Bowen units during the budgeting process.  In the shorter-term operating horizon, studies are performed using updated assumptions (generation and transmission outages) and system conditions (temperature and load forecast) to determine actual unit commitment needs to address system constraints and maintain reliability. 
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-1.docx =====
+STF-PIA-2-1
+
+Question: 
+
+Please explain why Bowen is primarily fueled from Appalachian and Illinois Basin coal mines instead of lower-cost Powder River Basin coal mines.
+
+Response:
+
+Please see the Company’s response to STF-PIA-1-13.
+
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-5.docx =====
+STF-PIA-2-5
+
+Question: 
+
+For each hour in the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, in which a coal or gas combined cycle unit operated even though it was not economically selected by the Company’s security-constrained economic dispatch software, please explain why the unit operated.
+
+Response:
+
+The Company’s system of records does not produce detailed output records of why a coal or gas combined cycle unit operated even though it was not economically selected by the Company’s security-constrained economic dispatch software. The primary function of the Company’s dispatch model is to minimize production cost while maintaining all necessary constraints (minimum up time, minimum down time, reserves, startup costs, minimum and maximum capacity, ramp rates, etc.) in each hour. A combination of these and other constraints such as reliability, operational, transmission, and regulatory constraints could potentially result in the unit’s operation even if the unit was not economically selected by the Company’s security-constrained economic dispatch software.  
+              
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-3.docx =====
+STF-PIA-2-3
+
+Question: 
+
+For each hour in the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, please provide each of the following data points for each coal and gas combined cycle unit owned or operated by Georgia Power.
+
+a.Net generation (MWh)
+b.Total fuel and non-fuel variable O&M cost ($/MWh) used in determining the marginal cost of generation from the unit
+c.Fuel cost ($/MWh) used to calculate subpart b
+d.Non-fuel variable O&M costs ($/MWh) used to calculate subpart b
+e.Whether the unit was on outage, available for economic dispatch, or designated to run regardless of economics
+f.If the unit was designated must-run in an hour, please indicate the reason for the must-run designation
+
+Response:
+
+The Company is providing historical information available through February 2026.
+
+Please see STF-PIA-2-3 Attachment A for Net generation.
+
+Total fuel and non-fuel variable O&M cost ($/MWh) used in determining the marginal cost of generation from the unit is provided in STF-PIA-2-3 Attachment A.
+
+Fuel cost ($/MWh) used to calculate subpart (b) is provided in STF-PIA-2-3 Attachment A.
+
+Non-fuel variable O&M costs ($/MWh) used to calculate subpart (b) are provided in STF-PIA-2-3 Attachment A.
+
+Outage events, including reserve shutdown (“RS”) statuses, are provided in STF-PIA-2-3 Attachment B. Day Ahead Transmission Must Run designations are provided in STF-PIA-2-3 Attachment C. Units outside of Outages and Day Ahead Transmission Must Run are eligible for commitment and dispatch but subject to the units’ normal constraints (commitment cost, marginal cost, min up\down time, etc.) and any intraday local area transmission constraints.
+
+Please see STF-PIA-2-3 Attachment C for the must-run requirements for transmission reliability.
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2-2.docx =====
+STF-PIA-2-2
+
+Question: 
+
+For the three-year period covered by FCR-26 rates, covering June 1, 2023, to May 31, 2026, please provide each of the following data points at the highest chronological resolution possible (e.g. at hourly or 15-minute intervals):
+
+a.System lambda or other measures of system-wide marginal energy cost for Georgia Power’s system or, if that is not available, for the Southern Company system
+b.The results of any calculation Georgia Power or Southern Company conducts of locational marginal energy cost when committing and dispatching its generators around congestion on the transmission system, resulting in different marginal energy costs for different parts of the system. Please provide this result for each coal and gas combined cycle unit.
+c.System actual load
+d.System load forecast (if forecasts are available at multiple time horizons, e.g. the Company uses day-ahead and three-day-ahead forecasts, please provide each)
+e.System solar generation
+f.System solar forecast (if forecasts are available at multiple time horizons, e.g. the Company uses day-ahead and three-day-ahead forecasts, please provide each)
+g.System solar curtailment
+h.Any forecast for system lambda (if forecasts are available at multiple time horizons, e.g. the Company uses day-ahead and three- day-ahead forecasts, please provide each)
+i.Any forecast for locational marginal energy cost at each coal and gas combined cycle unit (if forecasts are available at multiple time horizons, e.g. the Company uses day-ahead and three-day-ahead forecasts, please provide each)
+j.Quantity and prices for SEEM market bids and offers
+k.SEEM market transaction volume, indicating the buyer and seller, the price for each transaction, and any transmission costs associated with the transaction
+l.Day-ahead market prices at Southern Company’s interface with MISO
+m.The quantity of MW Southern Company transacted with neighboring balancing authorities in the Day-ahead market, indicating whether import or export, the price for each transaction, and any transmission costs associated with the transaction
+n.Total transmission capacity and available transmission capacity for imports from each neighboring power system
+o.Actual net scheduled interchange with each neighboring power system
+
+Response:
+
+The Company is providing historical information available through February 2026.
+
+Please see STF-PIA-2-2 Attachment:  tab “a. Lambdas”.
+
+The requested calculation does not exist. As has been discussed with Commission Staff previously during conversations related to the Integrated Resource Plan and Renewable Cost Benefit, locational marginal pricing is a concept used in other market structures but is not a feature of the market structure in Georgia.
+
+ Please see STF-PIA-2-2 Attachment: tab “c. Actual”.
+
+ Please see STF-PIA-2-2 Attachment: tab “d. Forecast”.
+
+ Please see STF-PIA-2-2 Attachment: tab “e. and f. Solar”.
+
+Please see STF-PIA-2-2 Attachment:  tab “e. and f. Solar”.
+
+g.Please see MFRH-4.4 submitted in the Company’s original filing for data through 2025 and see STF-PIA-2-2 Attachment:  tab “g. Solar Outages” for January and February 2026 data.
+
+h.   Please see STF-PIA-2-2 Attachment: tab “h. Lambda Forecast”.
+
+The forecast for “locational marginal energy cost” at each coal and gas combined cycle unit does not exist, since the system operates under one system marginal cost in each hour.  Please see the response to subpart (b) above.
+j.  Please see STF-PIA-2-2 Attachment:  tabs “j. 2023-2024 SEEM_GPC FCR” and “j.  2025-2026 SEEM_GPC FCR”.
+
+k.  Please see STF-PIA-2-2 Attachment: tab “k. SEEM Transactions”.
+
+l.  Please see STF-PIA-2-2 Attachment: tab “l. MISO DA Prices”.
+
+m. Please see STF-PIA-2-2 Attachment: tab “m. SOCO Transactions”.
+
+n. Transmission capacity and availability is posted by each Transmission Service Providers on the industry wide Open Access Same-Time Information System (“OASIS”). While the Company views this data when evaluating potential purchases, the Company does not store or retain this data.
+
+o. Please see STF-PIA-2-2 Attachment: tab “o. Net Interchange”.
+
+===== DKT 56765 STF-PIA-2 PUBLIC DISCLOSURE/STF-PIA-2 Affidavit.pdf =====

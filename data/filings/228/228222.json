@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109362,
+      "bytes": 165039,
+      "name": "57171_rtp_hearing_legal_notice_letter.zip",
+      "text": "zip (2 read)",
+      "text_file": "data/text/228/228222/109362.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228222/109362"
+    },
+    {
+      "attachment_id": 109363,
+      "bytes": 35436,
+      "name": "57171 RTP Hearing Legal Notice Letter.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228222/109363.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228222/109363"
+    },
+    {
+      "attachment_id": 109364,
+      "bytes": 75405,
+      "name": "57171 RTP Hearing Legal Notice Letter.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228222/109364.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228222/109364"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "RTP Legal Notice Compliance Filing",
+  "dockets": [
+    57171
+  ],
+  "document_id": 228222,
+  "filed_date": "2026-08-28",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-28",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228222"
+}

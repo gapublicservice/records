@@ -1,0 +1,30 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104397,
+      "name": "56002 Notice of Special Administrative Sess, GIPL Trade Secret Motion.docx",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223173/104397"
+    },
+    {
+      "attachment_id": 104398,
+      "bytes": 354157,
+      "name": "223173.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223173/104398"
+    }
+  ],
+  "company": "GPSC",
+  "description": "Notice of Scheduled Special Administrative Session",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 223173,
+  "filed_date": "2025-06-30",
+  "harvested": "2026-11-19",
+  "received_date": "2025-06-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223173"
+}

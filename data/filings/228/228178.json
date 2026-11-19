@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109301,
+      "bytes": 244167,
+      "name": "pd_large_load_incremental_revenue_filing.zip",
+      "text": "zip (1 read, 1 not read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/228/228178/109301.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228178/109301"
+    },
+    {
+      "attachment_id": 109304,
+      "bytes": 149135,
+      "name": "Filing Letter - Incremental Revenue from LL Customers.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228178/109304.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228178/109304"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Large Load Incremental Revenue Filing",
+  "dockets": [
+    44280
+  ],
+  "document_id": 228178,
+  "filed_date": "2026-08-27",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-27",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228178"
+}

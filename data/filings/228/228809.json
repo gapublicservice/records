@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109740,
+      "bytes": 60783,
+      "name": "vg_motion_to_stay.zip",
+      "text": "zip (1 read, 1 not read)",
+      "text_file": "data/text/228/228809/109740.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228809/109740"
+    },
+    {
+      "attachment_id": 109744,
+      "bytes": 61112,
+      "name": "vg.Sallie Tanner filing Ltr - Motion to Stay .pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228809/109744.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228809/109744"
+    }
+  ],
+  "company": "VoltaGrid, LLC",
+  "description": "VoltaGrid, LLC Motion to Stay",
+  "dockets": [
+    57243
+  ],
+  "document_id": 228809,
+  "filed_date": "2026-09-16",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228809"
+}

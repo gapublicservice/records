@@ -1,0 +1,33 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 106009,
+      "bytes": 877597,
+      "name": "All Source Certification Stipulation (Public Disclosure) signed.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/224/224772/106009.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224772/106009"
+    },
+    {
+      "attachment_id": 106013,
+      "bytes": 220672,
+      "name": "All Source Certification Stipulation cover letter (f).docx",
+      "text": "docx",
+      "text_file": "data/text/224/224772/106013.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224772/106013"
+    }
+  ],
+  "company": "Staff",
+  "description": "Stipulation",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 224772,
+  "filed_date": "2025-12-10",
+  "harvested": "2026-11-19",
+  "received_date": "2025-12-10",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=224772"
+}

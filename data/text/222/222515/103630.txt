@@ -1,0 +1,2287 @@
+BEFORE THE
+               GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+GEORGIA POWER COMPANY’S 2025           )           DOCKET NO. 56002
+INTEGRATED RESOURCE PLAN               )
+
+GEORGIA POWER COMPANY’S 2025       )               DOCKET NO. 56003
+APPLICATION FOR THE CERTIFICATION, )
+DECERTIFICATION, AND AMENDED       )
+DEMAND SIDE MANAGEMENT PLAN        )
+
+
+                        PUBLIC DISCLOSURE
+
+                         DIRECT TESTIMONY
+
+                            AND EXHIBITS
+
+                                  OF
+
+                        MICHAEL S. GOGGIN
+
+
+                           On Behalf of the
+
+                   Georgia Public Service Commission
+                     Public Interest Advocacy Staff
+
+
+                             May 5, 2025
+
+Table of Contents
+
+I.     INTRODUCTION ...............................................................................................................1
+
+
+II.    THE COMPANY DID NOT ADEQUATELY EVALUATE NEAR-TERM GRID
+       SOLUTIONS LIKE STRATEGICALLY-SITED BATTERIES, DEMAND
+       RESPONSE, AND GRID-ENHANCING TECHNOLOGIES............................................4
+
+
+III.   GEORGIA POWER SHOULD ADOPT BETTER TRANSMISSION PLANNING
+       PRACTICES TO IDENTIFY MORE OPTIMAL LONG-TERM SOLUTIONS
+       THAT PROTECT CONSUMERS FROM UNCERTAINTY IN LOAD GROWTH
+       AND OTHER FACTORS .................................................................................................14
+
+
+IV.    GEORGIA POWER SHOULD EVALUATE THE NET BENEFITS OF
+       EXPANDING TIES WITH NEIGHBORING UTILITIES ...............................................39
+
+
+V.     IN IRP RESOURCE SELECTION MODELING, GEORGIA POWER SHOULD
+       REDUCE THE CAPACITY ACCREDITATION OF THERMAL GENERATORS
+       TO ACCOUNT FOR CORRELATED OUTAGES ..........................................................49
+
+Exhibit   Description
+
+MG-1      Michael S. Goggin Background and Qualifications
+
+
+MG-2      Georgia Power’s response to data request STF-GS-1-1 in the 2023 IRP Update
+          (Docket No. 55378)
+
+
+MG-3      Georgia Power’s response to data request STF-GDS-4-7.e. in the 2022 IRP
+          (Docket No. 44160)
+
+
+MG-4      Georgia Power’s responses to data requests STF-GS-1-8 and STF-GS-1-9 in the
+          2023 IRP Update (Docket No. 55378)
+
+     DOCKET NO 56002                                             TESTIMONY OF MICHAEL GOGGIN
+                                                                    PUBLIC DISCLOSURE VERSION
+
+
+ 1 I.     INTRODUCTION
+ 2
+ 3   Q.     PLEASE STATE YOUR NAME AND JOB TITLE.
+ 4   A.     Michael S. Goggin, and I am a Vice President at Grid Strategies, LLC, a consulting firm
+ 5          based in the Washington, DC, area.
+ 6
+ 7   Q.     HAVE YOU PROVIDED AN EXHIBIT SUMMARIZING YOUR EDUCATIONAL
+ 8          BACKGROUND AND PROFESSIONAL EXPERIENCE?
+ 9   A.     Yes. It is presented in Exhibit MG-1. This exhibit summarizes my relevant experience and
+10          qualifications.
+11
+12   Q.     ON WHOSE BEHALF ARE YOU APPEARING?
+13   A.     I am testifying on behalf of the Georgia Public Service Commission (“the Commission”)
+14          Public Interest Advocacy Staff (“Staff’).
+15
+16   Q.     HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE GEORGIA PUBLIC
+17          SERVICE COMMISSION OR OTHER UTILITY REGULATORY BODIES?
+18   A.     Yes. I have testified before the Georgia Commission in the last four Georgia Power
+
+19          Integrated Resource Plan (“IRP”) cases, which were the 2023 IRP Update and the full IRP
+
+20          filings in 2022, 2019, and 2016. I have also testified before state utility commissions in
+
+21          Arizona, Colorado, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota,
+
+22          Missouri, Montana, Nevada, New Mexico, North Carolina, Ohio, Oklahoma, South
+
+23          Carolina, Virginia, Washington, and Wisconsin, as well as before the Federal Energy
+
+24          Regulatory Commission (“FERC”).
+
+25
+26   Q.     CAN YOU PLEASE OUTLINE YOUR TESTIMONY?
+                                               Page 1 of 58
+
+     DOCKET NO 56002                                              TESTIMONY OF MICHAEL GOGGIN
+                                                                     PUBLIC DISCLOSURE VERSION
+
+
+ 1   A.    The primary purpose of my testimony is to address transmission-related aspects of Georgia
+ 2         Power Company’s (“Georgia Power’s or “the Company’s”) IRP.
+ 3
+ 4         In Section II, I present near-term grid solutions that can save ratepayers money and improve
+ 5         reliability by addressing urgent upgrade needs triggered by load interconnection, local
+ 6         reliability concerns, and generator interconnection. Georgia Power can make greater use
+ 7         of near-term solutions like strategically-sited battery storage, demand response, and grid-
+ 8         enhancing technologies while it implements longer-term upgrades, like the transmission
+ 9         expansion discussed in the next two sections of my testimony.
+10
+11         In Section III, I evaluate the Company’s proposed transmission upgrades and the planning
+12         process that led to them. The Company’s transmission plans include high-voltage solutions
+13         that are likely to be cost-effective due to the economies of scale in transmission. Care
+14         should be taken in designing some of the lower-voltage solutions to ensure that they include
+15         optionality to add a second circuit or to be converted to higher-voltage operation. Some of
+16         the lower-voltage solutions may be undersized for the long-term need because the
+17         Company’s transmission planning process is not sufficiently proactive and does not
+18         adequately account for the multiple economic and reliability benefits of transmission. I also
+19         recommend that the Company move to a proactive multi-value transmission planning
+20         process that other regions have found benefits ratepayers by achieving economies of scale
+21         and maximizing net benefits through investment in higher-capacity transmission. This
+22         approach proactively plans upgrades to meet expected changes in the generation mix and
+23         load growth over the long term, and maximizes the multiple benefits of transmission. I also
+24         review best practices for co-optimizing transmission planning with generation planning for
+25         truly integrated resource planning.
+26
+27         In Section IV, I highlight how workable regional transmission planning and cost allocation
+28         processes can provide economic, reliability, and resilience net benefits for Georgia
+
+                                                 Page 2 of 58
+
+     DOCKET NO 56002                                              TESTIMONY OF MICHAEL GOGGIN
+                                                                     PUBLIC DISCLOSURE VERSION
+
+
+1          ratepayers by accessing regional diversity in electricity supply and demand. Expanding
+ 2         transmission ties will access valuable regional diversity as Georgia Power expands its
+ 3         reliance on gas-fired generation that tends to experience higher rates of correlated outages
+ 4         and derates during extreme weather, as well as weather-driven renewable resources. I also
+ 5         identify potential opportunities for expanding ties with neighboring grid operators. These
+ 6         and other potential tie expansions should be further evaluated for net benefits and
+ 7         feasibility.
+ 8
+ 9         Finally, I discuss how correlated outages and derates of thermal generation should be
+10         directly accounted for in the capacity value accreditations used in the capacity expansion
+11         modeling in the IRP, as is done for renewable and storage resources, and not socialized to
+12         ratepayers through a higher reserve margin. While this would not change the Company’s
+13         claimed need for capacity as each MW reduction in thermal generator capacity
+14         accreditation would be canceled out by a MW reduction in the planning reserve margin,
+15         accurately accrediting resources for their capacity value contributions helps ensure the
+16         selection of an economically optimal resource portfolio. Failing to account for thermal
+17         resources’ reduced capacity value contributions while accounting for how correlations in
+18         renewable and storage resource output affect their capacity value results in a suboptimal
+19         generation mix.
+20
+21   Q.    ARE ANY EXHIBITS ATTACHED TO YOUR TESTIMONY?
+22   A.    Yes. In addition to my qualifications, which are in Exhibit MG-1, I have attached Exhibits
+23         MG-2 through MG-4, which contain responses to discovery and other materials from past
+24         IRP dockets referenced in my testimony.
+25
+26   Q.    WHAT IS SHOWN IN EXHIBIT MG-2?
+27   A.    Exhibit MG-2 is the Company’s response to data request STF-GS-1-1 in the 2023 IRP
+28         Update (Docket No. 55378), in which Georgia Power confirms that “The Company did not
+
+                                              Page 3 of 58
+
+         DOCKET NO 56002                                                       TESTIMONY OF MICHAEL GOGGIN
+                                                                                  PUBLIC DISCLOSURE VERSION
+
+
+ 1              study Battery Energy Storage Systems (“BESS”) as options to reduce, defer, or eliminate
+ 2              the transmission upgrades identified in the 2023 IRP Update to facilitate the delivery of
+ 3              power from the proposed Plant Yates combustion turbines.”
+ 4
+ 5       Q.     WHAT IS SHOWN IN EXHIBIT MG-3?
+ 6       A.     Exhibit MG-3 contains Georgia Power’s response to data request STF-GDS-4-7.e. in the
+ 7              2022 IRP (Docket No. 44160), stating that “Alternative solutions such as energy storage
+ 8              or distributed energy resources have not been considered yet for various reasons.” Those
+ 9              reasons include “the magnitude of storage or DER that would be needed makes those
+10              options untenable.”
+11
+12       Q.     WHAT IS SHOWN IN EXHIBIT MG-4?
+13       A.     Georgia Power’s responses to data requests STF-GS-1-8 and STF-GS-1-9 in the 2023 IRP
+14              Update (Docket No. 55378), indicating that the Company does not evaluate demand
+15              response as a potential solution to localized transmission needs.
+16
+17
+18 II.        THE COMPANY DID NOT ADEQUATELY EVALUATE NEAR-TERM GRID
+19            SOLUTIONS LIKE STRATEGICALLY-SITED BATTERIES, DEMAND
+20            RESPONSE, AND GRID-ENHANCING TECHNOLOGIES
+21
+22       Q.     WHAT NEAR-TERM SOLUTIONS DID THE COMPANY EVALUATE?
+23       A.     The Company explains that it only evaluated reconductoring, generation redispatch, or
+24              operating guidelines as a near-term solutions while longer-term transmission expansion is
+25              completed. 1 As outlined below, the Company admits that it did not evaluate the use of
+
+     1
+       For example, see the January 16-17, 2024 hearing transcript in the 2023 IRP Update (Docket No. 55378) (“Hearing
+     Transcript”) at page 257: “we looked at alternatives such as operating guidelines, redispatch, and then reconductering
+     and rebuilding.” Also see the question and answer at pages 342-343: “Did the company evaluate whether storage as a
+     transmission solution could overcome those transmission barriers?
+
+
+                                                        Page 4 of 58
+
+     DOCKET NO 56002                                                   TESTIMONY OF MICHAEL GOGGIN
+                                                                          PUBLIC DISCLOSURE VERSION
+
+
+ 1           battery storage, demand response, and grid-enhancing technologies as an alternative to the
+ 2           transmission expansion. As I explain in the following sections, these technologies, alone
+ 3           or in combination, offer significant potential to reduce or defer the need for transmission
+ 4           expansion capital investment. Battery storage and demand response can serve as both
+ 5           generating capacity resources and as solutions to alleviate localized transmission
+ 6           constraints, so they could reduce the need for both transmission upgrades and generating
+ 7           capacity.
+ 8
+ 9   Q.      HOW CAN BATTERY STORAGE, DEMAND RESPONSE, AND GRID-
+10           ENHANCING TECHNOLOGIES REDUCE THE NEED FOR TRANSMISSION
+11           UPGRADES?
+12   A.      These solutions can be deployed in load pockets or other congested parts of the grid,
+13           alleviating the need for transmission upgrades to deliver power into those areas during
+14           short-duration peak demand periods or system contingency conditions. Alone or in
+15           combination, battery storage, demand response, and grid-enhancing technologies are ideal
+16           for meeting these needs, as these solutions can respond quickly enough to address
+17           contingency events.
+18
+19           Importantly, these solutions can defer the need for grid upgrades until the longer-term,
+20           higher-capacity transmission upgrades discussed in the next two sections of my testimony
+21           can be completed. These near-term solutions can also buy time for the Company to bring
+22           online more cost-effective generation and capacity resources, and the transmission required
+23           to deliver them to load.
+24
+25        A. Georgia Power did not evaluate how strategically-sited batteries can alleviate near-
+26           term grid upgrade needs as it completes long-term transmission expansion
+
+
+     A (Witness Grubb) We did not. In the transmission screening, we looked at -- as we mentioned this morning,
+     redispatch, operating guidelines, reconductoring.”
+                                                   Page 5 of 58
+
+     DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                PUBLIC DISCLOSURE VERSION
+
+
+ 1   Q.         WHY DID GEORGIA POWER NOT EVALUATE BATTERY STORAGE AS A
+ 2              TRANSMISSION SOLUTION?
+ 3   A.         The primary reason is that Georgia Power’s transmission planning assumes batteries are
+ 4              either not providing power, or are charging, during peak demand periods. As a result,
+ 5              Georgia Power’s transmission planning assumes batteries do not help and can actually
+ 6              exacerbate transmission constraints during peak periods. This assumption is flawed, as the
+ 7              charging and discharging of storage resources is economically dispatched in response to
+ 8              system needs, so that batteries never charge and almost always discharge during periods of
+ 9              need. In fact, FERC Order 2023 now requires transmission service providers like Georgia
+10              Power to allow storage interconnection customers to specify charging and discharging
+11              behavior, 2 reflecting that interconnection upgrades are typically not needed to
+12              accommodate charging because batteries can be dispatched so that they do not charge
+13              during periods of peak transmission system usage. Because it wrongly assumes batteries
+14              are off or even exacerbate overloads by charging during peak periods, when in reality they
+15              would mitigate transmission constraints through economic dispatch, Georgia Power’s
+16              transmission planning misses opportunities for strategically-sited batteries to defer or
+17              eliminate near-term grid upgrade needs.
+18   Q.         DOES GEORGIA POWER DOCUMENT THE BATTERY CHARGING AND
+19              DISCHARGING ASSUMPTIONS IT USES IN ITS TRANSMISSION PLANNING?
+20   A.         Yes, these assumptions are shown in the Georgia Integrated Transmission System Ten-
+21              Year Plan included in IRP Appendix 3. 3 Table 14 shows that Georgia Power’s transmission
+22              planning assumes batteries are off during summer peak conditions and fully charging
+23              during winter peak conditions. Georgia Power confirmed in response to discovery that in
+24              “Southern Company’s base case models, battery resources are modeled off in summer
+25              peak,” and “batteries are modeled as charging for winter in the off-the-shelf base cases.” 4
+
+     2
+         FERC, Order 2023, (July 2023), available at https://www.ferc.gov/media/e-1-order-2023-rm22-14-000, at 17
+     3
+         Section D (2024 GA ITS Ten-Year Plan (2025-2034) of the IRP Volume 3 Technical Appendix, page 260
+     4
+         Georgia Power response to STF-GS-1-4a
+                                                       Page 6 of 58
+
+     DOCKET NO 56002                                                            TESTIMONY OF MICHAEL GOGGIN
+                                                                                   PUBLIC DISCLOSURE VERSION
+
+
+ 1            This is consistent with the Company’s responses to discovery in past IRPs, where it also
+ 2            explained that it did not evaluate the potential to use battery storage to reduce or eliminate
+3             the need for transmission upgrades 5 because the Company assumed they could charge
+4             during peak demand periods. The Company argued in the 2023 IRP Update that it did not
+5             evaluate batteries as a solution for transmission upgrades because the need to charge
+ 6            batteries causes them to serve as a load. 6
+ 7   Q.       HOW DO BATTERIES HELP AVOID THE NEED FOR TRANSMISSION
+ 8            UPGRADES?
+ 9   A.       Due to batteries’ speed of power dispatch, the ability of their power electronics to regulate
+10            voltage and reactive power and address local stability concerns, and their ability to be
+11            quickly deployed at points on the grid where they are needed, battery storage can be an
+12            effective alternative to transmission upgrades, particularly upgrade needs triggered by
+13            contingency conditions. 7 Batteries can almost instantly dispatch their output up or down to
+14            avoid causing thermal overloads on the transmission system. Batteries also serve as
+15            capacity resources, reducing the need for the Company’s proposed generating capacity
+16            additions.
+17   Q.       CAN BATTERIES BE DEPLOYED QUICKLY ENOUGH TO MEET THE NEAR-
+18            TERM NEEDS CLAIMED BY GEORGIA POWER?
+
+
+     5
+      Please see the Company’s response to data request STF-GS-1-1 in the 2023 IRP Update (Docket No. 55378), attached
+     to my testimony as Exhibit MG-2: “The Company did not study Battery Energy Storage Systems (“BESS”) as options
+     to reduce, defer, or eliminate the transmission upgrades identified in the 2023 IRP Update to facilitate the delivery of
+     power from the proposed Plant Yates combustion turbines.”
+     6
+       For example, see Witness Grubb’s statement in the Hearing Transcript in the 2023 IRP Update (Docket No. 55378)
+     at page 343: “We don't usually look at batteries as a potential to remove transmission projects mainly because they
+     have to be charged and so they serve as a load. So most of our transmission contingencies are not usually solved with
+     a battery.”
+     7
+      See Brent Oberlin, Storage as a Transmission Only Asset, (May 2022), available at https://www.iso-ne.com/static-
+     assets/documents/2022/05/a7_storage_as_a_transmission_only_asset.pdf, at 11-15; and Quanta Technology, Storage
+     as Transmission Asset Market Study, (January 2023), available at https://cdn.ymaws.com/ny-
+     best.org/resource/resmgr/reports/SATA_White_Paper_Final_01092.pdf
+                                                         Page 7 of 58
+
+     DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                PUBLIC DISCLOSURE VERSION
+
+
+ 1   A.      Yes. Analysis from a 2024 Lawrence Berkeley National Laboratory report 8 shows that
+ 2           batteries tend to have the shortest time of any resource type between submitting an
+ 3           interconnection request and signing an interconnection agreement, with a median of less
+ 4           than 20 months, nearly a year less than gas generators. Many battery storage resources are
+ 5           already quite advanced in Georgia Power’s interconnection queue, so in many cases they
+ 6           can be brought online even more quickly.
+ 7           Battery resources tend to be easier to interconnect than other resources because batteries
+ 8           are highly modular and have small footprints so they can be strategically sited at optimal
+ 9           points on the grid to avoid interconnection costs or concerns about congestion, and can
+10           even mitigate interconnection or congestion concerns triggered by other new resources or
+11           loads. Batteries’ small and modular footprint and flexibility in siting also helps mitigate
+12           land use and permitting challenges, in addition to facilitating interconnection. In contrast,
+13           other generating resources are more geographically limited in where they can be deployed,
+14           which tends to make interconnection more challenging.
+15           In the 2023 IRP Update, Georgia Power correctly noted this benefit of storage, writing that
+16           “The time to construct BESS is shorter than other types of generation and, therefore, can
+17           be more quickly deployed to help meet the earlier capacity needs identified in the 2023 IRP
+18           Update. Moreover, the Company’s Resource Mix Study, provided in the Technical
+19           Appendix, selects BESS as an economically optimal resource beginning in the winter of
+20           2026/2027…” 9 Given that they can be deployed quickly, Georgia Power can use
+21           strategically-sited batteries as an interim solution to both its claimed transmission and
+22           generating capacity needs until it can complete longer-term high-capacity transmission
+23           upgrades.
+
+
+     8
+      J. Rand et al., Queued Up: 2024 Edition, Characteristics of Power Plants Seeking Transmission Interconnection As
+     of the End of 2023, Lawrence Berkely National Laboratory (Apr. 2024), https://emp.lbl.gov/sites/default/files/2024-
+     04/Queued%20Up%202024%20Edition_1.pdf, at 36.
+     9
+      Direct Testimony of Jeffrey R. Grubb, Francisco Valle, Lee Evans, and Michael A. Bush on behalf of Georgia Power
+     Company in the 2023 IRP Update, Docket No. 55378, at 37
+                                                       Page 8 of 58
+
+     DOCKET NO 56002                                                           TESTIMONY OF MICHAEL GOGGIN
+                                                                                  PUBLIC DISCLOSURE VERSION
+
+
+ 1   Q.       DID GEORGIA POWER EVALUATE DEPLOYING BATTERIES IN LOAD
+ 2            POCKETS?
+ 3   A.       Georgia Power explained in the 2023 IRP Update that it was focused on deploying batteries
+ 4            at or near solar installations. 10 While deploying storage near solar resources can be an
+ 5            attractive solution for reducing renewable curtailment, only evaluating solar sites can lead
+6             to missed opportunities to locate batteries near expected loads to reduce the need for
+7             transmission upgrades into those areas. As noted above, given its small footprint and
+8             modular construction, storage can be deployed in optimal quantities and at optimal points
+ 9            on the grid to reduce or defer the need for transmission upgrades. For example, battery
+10            storage has been deployed in load pockets in Indianapolis, 11 San Diego, 12 New York City,13
+11            and other urban areas to offset the need for grid upgrades and support local reliability.
+12            Batteries could also be deployed at existing or retired generator sites to utilize the
+13            interconnection equipment and transmission capacity that exists at the site.
+14   Q.       DID GEORGIA POWER EVALUATE BATTERY STORAGE AS A POTENTIAL
+15            TRANSMISSION SOLUTION IN ITS PAST IRPs?
+16   A.       No. In response to data request STF-DEA-3-39 in the 2022 Georgia Power IRP (Docket
+17            No. 44160), which asked “Has the Company studied the potential transmission deferral,
+18            congestion relief and reliability benefits associated with the siting location of BESS?,”
+19            Georgia Power responded:
+
+     10
+        For example, see page 35 of the Direct Testimony of Jeffrey R. Grubb, Francisco Valle, Lee Evans, and Michael A.
+     Bush on behalf of Georgia Power Company in the 2023 IRP Update, Docket No. 55378: “The Company proposes to
+     add 178 MW of 4-hour duration lithium-ion BESS to existing Company-owned solar facilities at Robins and Moody
+     Air Force Bases and 200 MW of BESS plus 200 MW of solar at a new site.” Also see the hearing transcript at page
+     580: “(Witness Bush) That's correct. We are actually engaging many of the PPA providers for Georgia Power
+     Company that have large solar sites, engaging them to find their interest in allowing us to put a battery there at that
+     site, in conjunction with the interconnection and delivery service that already exists at that site.”
+     11
+        AES Indiana, IPL and AES leaders official open first battery-based energy storage in MISO region (July 12, 2016),
+     https://www.aesindiana.com/ipl-and-aes-leaders-officially-open-first-battery-based-energy-storage-miso-region.
+     12
+         SDG&E, SDG&E Unveils World’s Largest Lithium Ion Battery Storage Facility (Feb. 28, 2017),
+     http://newsroom.sdge.com/battery-storage/sdge-unveils-world%E2%80%99s-largest-lithium-ion-battery-storage-
+     facility.
+     13
+       Aaron Larson, New York City’s Largest Battery Energy Storage System Nears Completion, POWER (June 22, 2023),
+     https://www.powermag.com/new-york-citys-largest-battery-energy-storage-system-nears-completion/.
+                                                        Page 9 of 58
+
+     DOCKET NO 56002                                                          TESTIMONY OF MICHAEL GOGGIN
+                                                                                 PUBLIC DISCLOSURE VERSION
+
+
+ 1                  No. Transmission deferral, congestion relief, or transmission reliability are not
+ 2                  use cases evaluated for the 1000MW of BESS proposed to be deployed for
+ 3                  generation resource reliability purposes. Georgia Power evaluated sites where
+ 4                  the transmission system was least constrained in order to maximize the benefits
+ 5                  (flexibility, capacity, production cost) at the lowest cost to customers.
+ 6           In response to discovery in the 2022 IRP, Georgia Power also dismissed solutions like
+ 7           battery storage because it claimed that they were too small to meet the full need. 14 This
+ 8           ignores the ability to use a combination of battery storage, demand response, and grid-
+ 9           enhancing technologies to reduce or eliminate the need for grid upgrades. Even if a
+10           combination of these near-term solutions is insufficient to fully replace the need for
+11           transmission expansion, that does not mean they should not be pursued as a cost-effective
+12           option to reduce or defer need. These solutions provide significant value by enabling cost-
+13           saving changes in the generation mix and improvements in electric reliability to occur more
+14           quickly. Moreover, these interim solutions will continue to provide benefits even after
+15           long-term transmission solutions are completed, by continuing to alleviate congestion and
+16           improve reliability. As a result, they should not be viewed as alternatives, but rather as
+17           complements to the long-term solution of building new transmission lines.
+18   Q.      HOW DOES FEDERAL POLICY AFFECT THE ECONOMICS OF BATTERY
+19           STORAGE?
+20   A.      Yes. Stand-alone batteries are now eligible for a 30% Investment Tax Credit (“ITC”) under
+21           the Inflation Reduction Act (“IRA”) that became law in August 2022, and that credit can
+22           be increased to 40% or 50% if “energy community” or domestic content requirements are
+23           met. Prior to enactment of the IRA, only battery storage resources deployed at renewable
+24           generators receiving the ITC were eligible for the tax credit. Any brownfield site can
+25           qualify for the energy community bonus, giving Georgia Power significant flexibility to
+
+     14
+        For example, see Georgia Power’s response to data request STF-GDS-4-7.e. in Docket No. 44160, attached to my
+     testimony as Exhibit MG-3, stating that “Alternative solutions such as energy storage or distributed energy resources
+     have not been considered yet for various reasons.” Those reasons include “the magnitude of storage or DER that would
+     be needed makes those options untenable.”
+                                                       Page 10 of 58
+
+     DOCKET NO 56002                                                     TESTIMONY OF MICHAEL GOGGIN
+                                                                            PUBLIC DISCLOSURE VERSION
+
+
+ 1           site batteries at optimal locations and receive at least a 40% ITC. Several parts of the state
+ 2           also qualify as energy communities because of their history of fossil fuel production or
+ 3           generation. 15
+ 4
+ 5        B. Demand response or rate design can serve as an interim solution to grid upgrade
+ 6           needs
+ 7
+ 8   Q.      DID GEORGIA POWER ADEQUATELY EVALUATE DEMAND-RELATED
+ 9           SOLUTIONS TO ITS CLAIMED NEEDS?
+10   A.      No, the Company did not adequately evaluate customer-based solutions to the claimed need
+11           for transmission upgrades. These solutions include non-firm or interruptible service rate
+12           options, the use of customer-sited resources like battery storage, or demand response
+13           programs that would compensate those customers for curtailing their load during periods
+14           of need. It appears that the Company only evaluates the use of demand response for
+15           alleviating system-wide generating capacity needs, not localized transmission
+16           constraints. 16 Demand response can be particularly valuable for mitigating the need for
+17           transmission upgrades to address reliability concerns triggered by generation, transmission,
+18           or double contingency events. For double contingencies in particular, it is likely that at
+19           least some of the new or existing customers in the load pockets would have more than
+20           enough time to reduce their load following the first contingency, or during the transitional
+21           period after the second contingency when transmission equipment can be operated at its
+22           contingency rating. In particular, many types of data centers have demonstrated an ability
+23           to quickly reduce load in response to dispatch or price signals during periods of need, as
+
+
+     15
+          See U.S. Department of Energy, Energy Community Tax Credit Bonus, available                            at
+     https://arcgis.netl.doe.gov/portal/apps/experiencebuilder/experience/?id=a2ce47d4721a477a8701bd0e08495e1d
+     16
+        See Georgia Power’s response to STF-GS-1-8 and STF-GS-1-9 in the 2023 IRP Update (Docket No. 55378),
+     attached to my testimony as Exhibit MG-4
+                                                    Page 11 of 58
+
+     DOCKET NO 56002                                                           TESTIMONY OF MICHAEL GOGGIN
+                                                                                  PUBLIC DISCLOSURE VERSION
+
+
+ 1            those loads can be shifted later in time or to other data centers. 17 While data centers
+ 2            typically operate at high load factors, many computing loads are not time sensitive and thus
+ 3            can be curtailed during periods of need. A recent Duke University study quantified the
+ 4            opportunity for data centers to curtail demand or use their onsite backup generators to
+ 5            reduce or eliminate their load during periods of need, 18 and a recent U.S. Environmental
+ 6            Protection Agency regulatory interpretation indicates backup generators can be used for up
+ 7            to 50 hours per year “in non-emergency conditions to supply power for our nation’s grid
+ 8            and maintain reliable service.” 19
+ 9            If the proposed transmission upgrades are needed to address transmission system stability
+10            concerns, customer load reduction or the activation of battery storage can even be set to
+11            instantly trigger using a relay based on frequency or voltage. For example, some Loads
+12            Acting as a Resource in ERCOT are used as frequency-responsive contingency reserves
+13            because they are connected using relays that automatically shed load when frequency
+14            declines below a certain threshold. 20
+
+15        C. The Company did not adequately evaluate the use of Grid-Enhancing Technologies
+16           as a near-term complement to proposed transmission upgrades
+17   Q.       WHAT ARE GRID-ENHANCING TECHNOLOGIES, AND DID GEORGIA
+18            POWER ADEQUATELY EVALUATE THEM AS NEAR-TERM SOLUTIONS?
+
+     17
+       For example, see Ana Radovanovic, Our data centers now work harder when the sun shines and wind blows, (April
+     2020), available at https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-
+     blows/; and Energy Information Administration, Tracking electricity consumption from U.S. cryptocurrency mining
+     operations, (February 2024), available at https://www.eia.gov/todayinenergy/detail.php?id=61364: “For example, in
+     Texas, the grid operator ERCOT has created its Large Flexible Load (LFL) program, which enlisted up to 1,530
+     megawatts (MW) of large industrial consumers to curtail their use during peak demand periods. Cryptocurrency
+     miners are major participants in the LFL program….”
+     18
+        T. Norris, et al., Rethinking Load Growth Assessing the Potential for Integration of Large Flexible Loads in US
+     Power Systems, (2025) available at https://nicholasinstitute.duke.edu/sites/default/files/publications/rethinking-load-
+     growth.pdf
+     19
+        U.S. Environmental Protection Agency, EPA Issues Clarification to Help Power Data Centers, Ensure U.S. Is the
+     AI         Capital        of       the      World,        (May         1,       2025)        available        at
+     https://content.govdelivery.com/accounts/USEPAAO/bulletins/3de6347
+     20
+          ERCOT, 2023 Annual Report of Demand Response in the ERCOT Region,                                   available   at
+     https://www.ercot.com/misdownload/servlets/mirDownload?doclookupId=975814860, at 2
+                                                        Page 12 of 58
+
+     DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                PUBLIC DISCLOSURE VERSION
+
+
+ 1   A.         Dynamic line ratings (“DLR”), power flow control devices, topology optimization
+ 2              techniques, and similar grid-enhancing technologies 21 can be deployed quickly, typically
+ 3              within a matter of months, 22 so they can play an important role in alleviating near-term
+4               transmission constraints so new resources or loads can be interconnected while longer-term
+5               transmission upgrades are implemented. Georgia Power discusses grid-enhancing
+6               technologies in its 2025 IRP, and in its Ten Year Transmission Plan proposes the
+ 7              deployment of two smart valves as power flow controllers and one STATCOM device. 23
+ 8              However, Georgia Power’s Ten Year Transmission Plan does not propose the use of
+ 9              topology optimization or any dynamic line rating applications, and                     the Company
+10              acknowledges that it “does not currently have any operational DLR deployments on the
+11              System.” 24 Given Georgia Power’s claim of large and urgent grid upgrade needs to address
+12              reliability, load growth, and generation interconnection challenges, it should more
+13              thoroughly evaluate how these solutions, including greater deployment of power flow
+14              control devices, can be used as interim measures until longer-term upgrades are completed.
+15              Analysis by the Brattle Group found that 2,670 MW of additional wind capacity could be
+16              added in SPP by adopting DLR, power flow control devices, and topology optimization,
+17              more than doubling the amount of wind capacity that can be added while keeping
+18              curtailment at an acceptable level. 25 Brattle found a one-time investment of $85 million in
+19              these technologies would yield annual production cost savings of $175 million.
+20              DLR allows more power to safely flow on transmission lines by accounting for how
+
+
+     21
+        Rob Gramlich, Bringing the Grid to Life: White Paper on the Benefits to Customers of Transmission Management
+     Technologies (Mar. 2018), available at https://watttransmission.files.wordpress.com/2018/03/watt-living-grid-white-
+     paper.pdf.
+     22
+        See Idaho Nat’l Lab., A Guide to Case Studies of Grid Enhancing Technologies, 11, 26 (Oct. 2022),
+     https://inl.gov/wp-content/uploads/2023/03/A-Guide-to-Case-Studies-for-Grid-Enhancing-Technologies.pdf.
+     23
+          See Georgia Power response to DEA-2-10, Attachment A
+     24
+          See Georgia Power response to STF-GS-2-13
+     25
+       Bruce Tsuchida, Stephanie Ross, Adam Bigelow, Unlocking the Queue with Grid-Enhancing Technologies, at 8
+     (February 2021), available at https://watt-transmission.org/wp-content/uploads/2021/02/Brattle__Unlocking-the-
+     Queue-with-Grid-Enhancing-Technologies__Final-Report_Public-Version.pdf90.pdf
+                                                      Page 13 of 58
+
+          DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                     PUBLIC DISCLOSURE VERSION
+
+
+ 1                   ambient weather conditions affect the thermal limits of those lines. Transmission line
+ 2                   ratings are typically based on worst case weather assumptions: hot weather with full sun
+ 3                   and no wind cooling the line. DLR devices measure the actual thermal limit of transmission
+ 4                   lines, which under most weather conditions are much higher than the limits based on those
+ 5                   worst-case assumptions.
+ 6                   Power flow control devices, also known as Flexible Alternating Current Transmission
+ 7                   Systems devices, can also be deployed quickly to increase interconnection capacity on the
+ 8                   existing transmission system. These are power electronics-based devices used to adjust the
+ 9                   power transfer capabilities of the system and improve stability or controllability of the
+10                   system under critical conditions. Topology optimization plays a similar role by taking
+11                   specific transmission lines out of service to redirect power flow away from congested
+12                   transmission elements and onto more optimal paths. Both of these solutions can play an
+13                   important role in alleviating constraints during transmission contingency events.
+14 III.          GEORGIA POWER SHOULD ADOPT BETTER TRANSMISSION PLANNING
+15               PRACTICES TO IDENTIFY MORE OPTIMAL LONG-TERM SOLUTIONS THAT
+16               PROTECT CONSUMERS FROM UNCERTAINTY IN LOAD GROWTH AND
+17               OTHER FACTORS
+18        Q.         WHAT TYPE OF TRANSMISSION PLANNING SHOULD GEORGIA POWER
+19                   ADOPT?
+20        A.         More optimal solutions for ratepayers can be identified using proactive multi-value
+21                   transmission planning, which is the best practice used in other regions. Given that Georgia
+22                   Power indicates it is currently developing “additional planning considerations and process
+23                   enhancements,” 26 it is important for these best practices to be incorporated as part of those
+24                   enhancements. I report I co-authored identified the following principles of proactive multi-
+25                   value transmission planning: 27
+
+
+          26
+               Georgia Power, 2025 IRP, page 113; and Georgia Power response to STF-GS-2-9
+          27
+            Pfeifenberger, et al., Transmission Planning for the 21st Century: Proven Practices that Increase Value and Reduce
+          Costs, BRATTLE GRP. & GRID STRATEGIES LLC, at iv (Oct. 2021), https://www.brattle.com/wp-
+          content/uploads/2021/10/2021-10-12-Brattle-GridStrategies-Transmission-Planning-Report_v2.pdf.
+                                                           Page 14 of 58
+
+     DOCKET NO 56002                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1   1.     Proactively plan for future generation and load by incorporating realistic projections of
+ 2          the anticipated generation mix, public policy mandates, load levels, and load profiles over
+ 3          the lifespan of the transmission investment.
+ 4   2.     Account for the full range of transmission projects’ benefits, and use multi-value planning
+ 5          to comprehensively identify investments that cost-effectively address all categories of needs
+ 6          and benefits.
+ 7   3.     Address uncertainties and high-stress grid conditions explicitly through scenario-based
+ 8          planning that takes into account a broad range of plausible long-term futures as well as
+ 9          real-world system conditions, including challenging and extreme events.
+10   4.     Use comprehensive transmission network portfolios to address system needs and cost
+11          allocation more efficiently and less contentiously than a project-by-project approach.
+12   5.     Jointly plan across neighboring interregional systems to recognize regional
+13          interdependence, increase system resilience, and take full advantage of interregional scale
+14          economics and geographic diversification benefits.
+15
+16   Q.     WHAT TRANSMISSION BENEFITS SHOULD BE INCLUDED IN MULTI-
+17          VALUE TRANSMISSION PLANNING?
+18   A.     FERC Order 1920 identified the following seven categories of benefits provided by
+19          transmission:
+
+20   (1) avoided or deferred reliability transmission facilities and aging infrastructure replacement;
+
+21   (2) a benefit that can be characterized and measured as either reduced loss of load probability or
+22   reduced planning reserve margin;
+
+23   (3) production cost savings;
+
+24   (4) reduced transmission energy losses;
+
+25   (5) reduced congestion due to transmission outages;
+
+26   (6) mitigation of extreme weather events and unexpected system conditions; and
+
+                                               Page 15 of 58
+
+     DOCKET NO 56002                                                             TESTIMONY OF MICHAEL GOGGIN
+                                                                                    PUBLIC DISCLOSURE VERSION
+
+
+ 1   (7) capacity cost benefits from reduced peak energy losses. 28
+
+ 2              At minimum, Georgia Power’s transmission planning should account for these seven
+ 3              categories of benefits. As I outline below, Georgia Power should also use scenario-based
+ 4              planning to assess the value of transmission for protecting ratepayers against uncertainties
+ 5              in load growth, generation costs, fuel costs, regulations, and other factors. This is
+ 6              particularly important for Georgia Power as it currently faces major uncertainty about those
+ 7              factors over the 20-year IRP planning horizon.
+ 8
+ 9   Q.         DOES GEORGIA POWER USE PROACTIVE MULTI-VALUE TRANSMISSION
+10              PLANNING?
+11   A.         The process outlined in the Transmission Planning Description and Process document
+12              included in Appendix 3 is neither proactive nor multi-value transmission planning for
+13              multiple reasons.
+14              First, it is not sufficiently proactive. The 10-year horizon for Georgia Power’s transmission
+15              planning 29 falls well short of the 20-year horizon required by FERC Order 1920, as
+16              discussed below. Given that Georgia Power’s IRP uses a 20-year horizon for generation
+17              planning, a 20-year transmission planning horizon would also allow more synchronization,
+18              or at least iteration, between generation and transmission planning. I offer additional
+19              suggestions below regarding how Georgia Power can better iterate between generation and
+20              transmission planning to produce a truly “integrated” Integrated Resource Plan.
+21              Moreover, Georgia Power’s transmission planning process assumes that the bulk of
+22              generating capacity additions will be located at existing generator sites where it can be
+
+
+     28
+          Order 1920, at P 720
+     29
+        Georgia Power IRP Technical Appendix Volume 3, Transmission Planning Description and Process, at 15: “The
+     transmission planning process follows an iterative process with a planning horizon looking 10 years into the future.
+     However, due to the dynamics of the assumptions and data used to develop the latter years of the system model, project
+     proposals are usually fully developed for the first five years only (considered to be the near-term planning horizon).
+     These projects and their mutual effects are tested throughout the full ten-year period. For issues in the last five years
+     of the planning horizon, viable projects are identified but not fully scoped, estimated and budgeted unless long lead-
+     time items such as right-of-way acquisition are included.”
+                                                        Page 16 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1               interconnected and delivered to load with no transmission upgrades. As Georgia Power
+ 2               documented in the 10-year transmission plan filed with the IRP:
+ 3               It is not yet known where any new generation resources will be located after 2029. To
+ 4               balance load and generation in the base cases as load grows and existing fossil units are
+ 5               retired, it is necessary to make assumptions for the locations of generation to be added.
+ 6               When the cases are created, the “expansion units” listed in Table 9 are included as needed.
+ 7               The sites chosen for these units are locations where fossil units have been or are expected
+ 8               to be retired, since existing transmission connections are (or previously have been)
+ 9               adequate, and therefore are expected to cause minimal new constraints. No projects were
+10               attributed to the expansion units included in the base cases as shown below. 30
+11               In reality, at least some of these generators will require some transmission capacity
+12               expansion, so this assumption greatly understates the actual transmission need. As outlined
+13               later in this section, a better practice used by other utilities to iteratively co-optimize
+14               generation and transmission planning is to make rough initial assumptions about the likely
+15               location of future resources, based on historical patterns and resource locations, and then
+16               refine those over time as specific generators are identified.
+17               Second, all of the benefits Georgia Power’s transmission planners assess are related to
+18               reliability, not economic benefits or other benefits that are typically evaluated in multi-
+19               value planning or even standard utility practice transmission planning. 31 Other parts of the
+20               Georgia Power’s transmission planning document confirm that it only plans transmission
+21               to resolve reliability problems: “For problems to be identified, situations exist where the
+22               system will operate in an unacceptable manner (as defined by the performance
+23               guidelines).” 32 Furthermore, no production cost models are included in the many models
+24               the transmission planning document lists as being used by Georgia Power transmission
+25               planners, which is not standard utility practice for transmission planning. The economic
+
+     30
+          Georgia Power IRP Technical Appendix Volume 3, Section D (2024 GA ITS Ten-Year Plan (2025-2034), at 257
+     31
+          Georgia Power IRP Technical Appendix Volume 3, Transmission Planning Description and Process, at 23-25
+     32
+          Id., at 23
+                                                      Page 17 of 58
+
+     DOCKET NO 56002                                                            TESTIMONY OF MICHAEL GOGGIN
+                                                                                   PUBLIC DISCLOSURE VERSION
+
+
+ 1              dispatch of generators is only used as an input into load flow models, and not an output of
+ 2              the models as it would be in the production cost models used in standard utility practice. 33
+ 3              In response to discovery in this docket, Georgia Power confirms that its planning methods
+ 4              do not account for how transmission enables production cost savings or potential savings
+ 5              from reductions in the need for generator capacity. 34 Georgia Power does indicate that it
+ 6              uses strategic transmission planning processes, which are often “separate and incremental
+ 7              transmission evaluations as the need for those types of evaluations arise” to identify “long
+ 8              lead time projects that solve multiple constraints on the transmission system,” 35 While it is
+ 9              good that the Company recognizes the benefits of multi-value planning, it does not appear
+10              that production cost modeling or other robust tools for multi-value quantitative benefit-cost
+11              analysis are used in these strategic transmission studies, and regardless Georgia Power
+12              should use multi-value methods in its standard transmission planning processes. Georgia
+13              Power’s standard planning methods focus on single problems, with different problem
+14              statements for reliability, load growth, and generator interconnection, 36 preventing the
+15              identification of multi-value solutions or portfolios of network solutions, two of the
+16              essential aspects of proactive multi-value planning identified above that help minimize cost
+17              and maximize benefits to ratepayers.
+18   Q.         DO TRANSMISSION PLANNERS IN OTHER REGIONS ACCOUNT FOR
+19              TRANSMISSION BENEFITS OTHER THAN RELIABILITY?
+20   A.         Yes. The Company’s analysis is highly unusual in that it does not account for how
+
+
+     33
+        Id., at 32: “Economic Dispatch Program: The Economic Dispatch Program was developed by SCS to interact with
+     the Power Technologies Inc. load flow program, PSS/E. The program calculates an economic dispatch for a given
+     load and spinning reserve requirement specified by the transmission planners and is based on the theory that the most
+     economical dispatch is obtained by operating all on-line units at the same incremental cost (lambda). The transmission
+     planners specify information to the program through terminal interaction and two data files with pertinent information
+     on the availability of units, in-service date, retirement date, must run status, power generation limits, generator cost
+     data, etc. The program allows the transmission planners to input the appropriate economic dispatch directly into files
+     for future use with the PSS/E program.”
+     34
+        Georgia Power response to STF-GS-1-2
+     35
+          Georgia Power response to STF-GS-2-6
+     36
+          Georgia Power IRP Technical Appendix Volume 3, Transmission Planning Description and Process, at 16
+                                                        Page 18 of 58
+
+     DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                PUBLIC DISCLOSURE VERSION
+
+
+ 1              transmission upgrades provide production cost savings by reducing transmission losses and
+ 2              allowing lower-cost generation to displace higher-cost resources. Production cost savings
+ 3              are typically one of the primary benefits transmission planners account for when evaluating
+ 4              benefit-cost ratios for transmission projects and refining transmission plans. As FERC
+ 5              noted in the proposed rulemaking that led to Order 1920, “Most regional transmission
+ 6              planning processes currently estimate production cost savings.” 37 Failing to account for
+ 7              that benefit understates the value of transmission, resulting in an underinvestment in
+ 8              transmission that harms ratepayers.
+ 9              A report I co-authored provides many examples of how transmission planners in other
+10              regions account for economics and other benefits. 38 The results of studies by other grid
+11              operators confirm that by only looking at reliability, Georgia Power’s benefit analysis is
+12              only capturing a small share of transmission’s total benefits. For example, analysis by the
+13              Southwest Power Pool (“SPP”) found that reliability benefits accounted for $3 billion out
+14              of the total benefits of over $27 billion from its recent transmission investments, or only
+15              11% of the total benefits of transmission. 39 SPP found production cost savings totaled over
+16              $20 billion, or 76% of the total benefits.
+17              Production cost modeling is also a valuable tool for refining transmission expansion plans
+18              by testing the benefit-cost ratio of alternative solutions. Georgia Power acknowledges that
+19              under its current planning methods, “the benefit-to-cost analysis performed by the
+20              Company is an iterative and qualitative analysis.” 40 Production cost modeling would
+21              enable quantitative and not just qualitative benefit-cost analysis, which will likely result in
+
+
+     37
+       See Building for the Future Through Electric Regional Transmission Planning and Cost Allocation and Generator
+     Interconnection, FERC ¶ 61,028, 18 CFR Part 35, Dkt. No. RM21-17-000 (Apr. 21, 2022),
+     https://www.ferc.gov/media/rm21-17-000, at paragraph 199
+     38
+       Pfeifenberger, et al., Transmission Planning for the 21st Century: Proven Practices that Increase Value and Reduce
+     Costs, BRATTLE GRP. & GRID STRATEGIES LLC, Appendix D (Oct. 2021), https://www.brattle.com/wp-
+     content/uploads/2021/10/2021-10-12-Brattle-GridStrategies-Transmission-Planning-Report_v2.pdf.
+     39
+       Sw. Power Pool, The Value of Transmission – A 2021 Study and Report by Southwest Power Pool (Mar. 31, 2022),
+     https://www.spp.org/documents/67023/2021%20value%20of%20transmission%20report.pdf, at 29.
+     40
+          Georgia Power response to STF-GS-2-8(a)
+                                                      Page 19 of 58
+
+     DOCKET NO 56002                                                TESTIMONY OF MICHAEL GOGGIN
+                                                                       PUBLIC DISCLOSURE VERSION
+
+
+ 1            better economic and reliability outcomes for ratepayers by more rigorously evaluating
+ 2            alternatives to identify more optimal transmission solutions.
+ 3
+4    Q.       WHAT ARE THE BENEFITS OF PROACTIVE MULTI-VALUE TRANSMISSION
+5             PLANNING?
+6    A.       Proactively planning a portfolio of transmission projects that meets multiple long-term
+ 7            needs is much more efficient than a reactive process that meets shorter-term needs with
+ 8            more incremental costly investments. This is largely because transmission investment
+9             offers large economies of scale, as documented below, with higher-voltage and double-
+10            circuit lines carrying many times more power than lower-voltage lines with a less than
+11            proportional increase in cost.
+12            Multi-value transmission planning is more efficient as it allows the selection of grid
+13            upgrades that simultaneously meet multiple objectives in providing economic, reliability,
+14            and generator interconnection benefits. Georgia Power’s current siloed process, in which
+15            reliability transmission projects are planned separately from generator interconnection
+16            projects, misses opportunities to meet both needs with the same projects more efficiently.
+17            The benefits of proactive multi-value planning relative to reactive approaches are
+18            summarized in the table below.
+
+19        Table 1: Benefits of integrated proactive multi-value planning vs reactive queue-driven
+20                                        transmission investment
+
+     Problem with reactive approach driven by        How integrated proactive multi-value
+     interconnection queue studies                   planning solves problem
+     Transmission solutions tend to be inefficient   Higher-capacity upgrades to meet longer-term
+     smaller, short-term fixes                       need realize economies of scale in
+                                                     transmission
+     Building major network upgrades takes longer Transmission is ready when generation comes
+     than it takes to build a generator              online
+     Generators have little incentive to pay for Broadly allocate the cost of network upgrades,
+     upgrades that also benefit other users, so they reflecting that they provide various benefits to
+     drop out of queue                               many users
+
+                                                Page 20 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+      Generators face uncertain upgrade costs, and             Network upgrade costs are not assigned to
+      when they drop out of the queue costs change             generator
+      for other generators
+      Does not plan transmission to new resource               Builds transmission in anticipation of
+      areas                                                    generation
+      Interconnection     upgrades   sub-optimally             Optimizes transmission build to maximize all
+      planned separately from reliability and                  benefits
+      economic upgrades
+ 1
+ 2   Q.      HOW CAN PROACTIVE PLANNING PROTECT RATEPAYERS FROM RISK?
+ 3   A.      Currently there is exceptionally high uncertainty regarding load growth, load patterns, the
+ 4           cost of different generating resources, potential regulations, the availability of thermal
+ 5           generation during periods of peak demand, and fuel prices. In that environment, positioning
+ 6           oneself to be able to pivot as needed is extremely valuable.
+ 7           Transmission is an important mechanism to protect consumers against all types of
+ 8           uncertainty, including unpredictable volatility in the price of fuels used to produce
+ 9           electricity. Transmission can alleviate the negative impact of fuel price fluctuations on
+10           consumers by making it possible to buy power from other resources. As utilities Xcel and
+11           ITC noted in an approved application to build a transmission line in Minnesota, “[A] robust
+12           regional transmission system is also key to enabling access to a diverse mix of generation
+13           resources, which in turn allows customers to access the least expensive power available at
+14           any given time.” 41
+15           Georgia Power can plan a more risk-averse transmission system by conducting generation
+16           and transmission planning for scenarios and sensitivities with high renewable and high load
+17           growth. This would build on the high solar scenario Georgia Power has run, and will allow
+18           identification of which transmission corridors are least regrets in that they have high need
+19           under a range of sensitivities.
+
+
+     41
+       Northern States Power Company and ITC Midwest LLC, Application to the Minnesota Public Utilities Commission
+     for a Certificate of Need for the Huntley-Wilmarth 345 kV Transmission Line Project, at 8, MPUC Docket No. E-002,
+     (January          2018)          https://www.huntleywilmarth.com/staticfiles/microsites/hw/HW-Certificate-of-Need-
+     Application.pdf.
+                                                     Page 21 of 58
+
+     DOCKET NO 56002                                                         TESTIMONY OF MICHAEL GOGGIN
+                                                                                PUBLIC DISCLOSURE VERSION
+
+
+ 1           Proactive transmission planning is necessary to protect against high cost surprises on the
+ 2           generation side of the ledger. Because generation costs account for the majority of
+ 3           ratepayers’ cost of electricity, while transmission is only about 10-15%, it is prudent to
+ 4           adequately invest in transmission to protect against higher generation costs. The lead time
+ 5           for transmission is long, much longer than the timeline for building generation, so it must
+ 6           be planned in advance of perfect knowledge about generating capacity additions and their
+ 7           precise locations. As discussed below, the “chicken and egg” time mismatch between
+ 8           building transmission and generation was the impetus for other regions to move to
+ 9           proactive transmission planning over the last several decades. I testified here in the 2016
+10           IRP proceeding that Georgia Power should proactively plan transmission. If Georgia had
+11           started planning high-voltage transmission expansion then, that transmission and the low-
+12           cost generation it enabled would have been in service by now.
+13
+14   Q.      CAN TRANSMISSION HEDGE AGAINST LOAD GROWTH UNCERTAINTY?
+15   A.      Yes. Uncertainty regarding load growth is extremely high at the moment. Many planned
+16           additions of large loads are being canceled, including battery 42 and electric vehicle
+17           factories, 43 data centers, 44 and other large loads. Uncertainty regarding federal incentives
+18           for domestic manufacturing are adding to the uncertainty regarding large load growth.
+19           Potential changes to federal incentives for electrification of transportation and building
+20           heating may also affect the rate at which those technologies are adopted and thus the
+21           residential and commercial load growth trajectory. There is significant uncertainty about
+22           growth in data center electricity demand for artificial intelligence. 45
+
+     42
+        M. Lewis, FREYR kills plans to build a $2.6 billion battery factory in Georgia, (February 2025), available at
+     https://electrek.co/2025/02/10/freyr-battery-factory-georgia/
+     43
+        S. Osaka, A stunning number of electric vehicle, battery factories are being canceled, (April 2025) available at
+     https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/
+     44
+        N Rommel., Microsoft pauses construction on parts of Mount Pleasant site again, (March 2025), available at
+     https://www.wpr.org/news/microsoft-pauses-construction-on-parts-of-mount-pleasant-site-again
+     45
+          B. Geman, DeepSeek shakes up the energy-AI equation,                       (January   2025)    available    at
+     https://www.axios.com/2025/01/28/deepseek-ai-model-energy-power-demand
+                                                      Page 22 of 58
+
+     DOCKET NO 56002                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1            The rapid increase in demand for large load interconnection over the last several years also
+ 2            appears to be driving speculative interconnection requests as companies shop around for
+ 3            available interconnection points, so it is difficult to predict large customer interconnection
+ 4            success rates. Historical interconnection completion rates may not accurately predict
+ 5            success rates for entirely new industries, like artificial intelligence data centers. Utility load
+ 6            growth projections deserve extra scrutiny because utilities have a strong financial incentive
+ 7            to overstate load growth to increase their profits with larger rate-based investments in
+ 8            generating capacity.
+ 9
+10   Q.       ARE THERE ADDITIONAL UNCERTAINTIES REGARDING THE AMOUNT
+11            OF ENERGY AND CAPACITY NEEDED FOR NEW LARGE LOADS?
+12   A.       Yes. Many developers of new large loads, particularly data centers, have corporate
+13            renewable or carbon reduction commitments. To meet these goals, these companies
+14            typically purchase their own energy sources to serve their needs. As a result, demand for
+15            both energy and capacity may be lower than Georgia Power has indicated. Further adding
+16            to the uncertainty regarding load growth, some of these corporate goals are in flux as
+17            companies scale up data centers. Moreover, as discussed in the preceding section, if
+18            properly incentivized to do so, some data centers may have the ability to provide demand
+19            response that greatly reduces their peak demand.
+20
+21   Q.       HAVE TRANSMISSION’S ECONOMIES OF SCALE BEEN DOCUMENTED?
+22   A.       Yes. Higher-voltage transmission lines offer large economies of scale and allow more
+23            efficient use of right-of-way due to their higher capacity. For example, MISO’s annual
+24            estimate of transmission costs provides data illustrating the large economies of scale for
+25            higher-voltage and double-circuit transmission, which are used to calculate the results
+26            shown in Table 2 below. 46 On a $/MW-mile basis, which reflects the average cost of
+
+
+     46
+          Midcontinent Indep. Sys. Operator, Transmission Cost Estimation Guide for MTEP24 (May 2024),
+
+                                                   Page 23 of 58
+
+        DOCKET NO 56002                                                           TESTIMONY OF MICHAEL GOGGIN
+                                                                                     PUBLIC DISCLOSURE VERSION
+
+
+ 1               transmission to deliver one MW one mile, double-circuit 230 kV transmission is 53% less
+2                costly than single-circuit 115 kV, and 500 kV is 71% less costly than single-circuit 115 kV
+3                transmission.
+ 4                       Table 2: Economies of scale for higher-voltage transmission lines
+                          Voltage (kV)            69         115        138        161        230        345        500          765
+                          $M/mile                $1.7       $1.9        $2.0       $2.1       $2.2       $3.5       $4.4         $5.5
+     Single Circuit       MW or MVA              140         329        394        460        657       1792       2598          6625
+                          $/MW-mile           $12,143 $5,775 $5,076 $4,565 $3,349 $1,953 $1,694                                  $830
+                          $M/mile                2.5         2.8        2.9         3         3.6        5.8        NA           NA
+     Double Circuit       MW or MVA              280         658        788        920       1314       3584        NA           NA
+                          $/MW-mile            $8,929      $4,255 $3,680 $3,261 $2,740 $1,618                       NA           NA
+ 5
+ 6      Q.       BASED ON THESE ECONOMIES OF SCALE, WHAT TYPE OF TRANSMISSION
+ 7               SHOULD GEORGIA POWER PLAN?
+ 8      A.       Higher-voltage and double-circuit transmission is significantly more cost effective, so the
+ 9               Company should primarily focus on higher-capacity transmission solutions, like the 500
+10               kV network proposed in the IRP. Long-term proactive multi-value transmission planning
+11               is the best mechanism to achieve these economies of scale. This analysis should use
+12               scenarios to plan for long-term changes in load and generation and optimally meet
+13               reliability, economic, and generator interconnection needs. These approaches will
+14               minimize the total cost of generation plus transmission by building the optimal amount of
+15               transmission to maximize net benefits for ratepayers.
+16               Until that new planning process is implemented, a prudent step would be to review at least
+
+
+        https://cdn.misoenergy.org/MISO%20Transmission%20Cost%20Estimation%20Guide%20for%20MTEP24337433.
+        pdf (Table 1 was prepared using the reported Power rating (MVA) capacity data in Table 3.1.5 on page 33 and the
+        estimated costs for Arkansas reported in Tables 4.1.1 and 4.1.2 on pages 38–39. Costs for Arkansas were used as they
+        are in the middle of the range of MISO’s cost estimates by state, and are likely to be more representative of costs in
+        the Southeast. The Power rating (MVA) capacity data for the Double Circuit are twice the capacity for the Single
+        Circuit.).
+                                                          Page 24 of 58
+
+     DOCKET NO 56002                                                  TESTIMONY OF MICHAEL GOGGIN
+                                                                         PUBLIC DISCLOSURE VERSION
+
+
+1           some of the Company’s proposed investments in lower-voltage transmission assets to
+2           assess if they could be more economically deployed at higher voltage or in a double-circuit
+ 3          configuration to better meet long-term needs. To ensure this review does not delay the
+4           completion of urgently needed upgrades, this can be done in parallel while Georgia Power
+5           proceeds planning, engineering, permitting, and land acquisition for the proposed projects.
+ 6          This review should also assess whether the lower-voltage and single-circuit transmission
+ 7          upgrades interfere with the ability to deploy higher-voltage transmission on that valuable
+ 8          right-of-way to meet future load growth or generation needs.
+ 9          At minimum, Georgia Power should assess the feasibility of building the towers,
+10          conductors, and insulators so that a. a second circuit can be added later without rebuilding
+11          the towers, and/or b. the line can be converted to 230 kV operation if the need materializes
+12          by replacing terminal substation equipment such as transformers and circuit breakers.
+13          Transmission lines typically have lifetimes of more than 50 years, so including this
+14          optionality is generally a prudent investment. This approach has been successfully used by
+15          other utilities. For example, the towers for new lines in MISO 47 and ERCOT48 were built
+16          with the capability to add a second circuit, and that need quickly materialized. This
+17          optionality is likely to be extremely valuable for hedging load growth uncertainty and other
+18          risks, as under many likely scenarios there will be a much greater need for transmission
+19          than accounted for under Georgia Power’s current planning process. For example, if new
+20          loads with high load factors materialize, Georgia Power will need low-cost energy from
+21          solar resources in south Georgia to cost-effectively serve their need for energy.
+22
+23   Q.     ARE THERE SPECIFIC AREAS OR PROJECTS IN GEORGIA POWER’S PLAN
+24          THAT MAY BENEFIT FROM AN EVALUATION OF HIGHER-CAPACITY
+
+
+     47
+          Minnesota Electric Transmission Planning, Transmission Projects Report 2009, available at
+     https://www.minnelectrans.com/documents/2009_Biennial_Report/html/Ch_6_Needs_Sec_6.5_Twin_Cities_6.5.10.
+     htm
+     48
+       ERCOT, Competitive Renewable Energy Zones (CREZ) Transmission Optimization Study, Attachment A, (April
+     2008) available at https://www.nrc.gov/docs/ML0914/ML091420467.pdf
+                                                 Page 25 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1               SOLUTIONS?
+ 2   A.          Yes. What follows is an illustrative and non-exhaustive list of examples of projects that
+ 3               may merit evaluation to assess if higher-capacity solutions are more optimal for meeting
+ 4               long-term needs. It appears that few if any of these higher-capacity alternatives were
+ 5               evaluated as part of Georgia Power’s transmission planning process that led to the
+ 6               development of the Ten-Year Transmission Plan included in the IRP. 49 As explained in
+ 7               more detail above, moving to proactive multi-value scenario-based transmission planning,
+ 8               ideally iterated with generation planning, is essential for optimally identifying which
+ 9               upgrades are needed. A more proactive and multi-value transmission planning approach
+10               might have selected some of these alternatives as a more cost-effective way to meet long-
+11               term needs and maximize net benefits. Some of the conceptual proposals below may not
+12               make sense for reasons like local siting issues, local need, the line not being the limiting
+13               element for transmission flows under a range of foreseeable grid topologies, etc., but they
+14               are intended to illustrate the types of solutions Georgia Power should be evaluating to
+15               ensure it efficiently meets ratepayers’ long-term needs:
+16
+17               The proposed Pio Nono 230 kV upgrade 50 could be extended further south from its
+18               proposed termination at the Pitts substation. This could include extending it to North Tifton
+19               or even further south. Georgia Power could also assess the feasibility and net benefits of
+20               building this upgrade at 500 kV instead of 230 kV. These potential solutions would
+21               facilitate the delivery of more solar to areas experiencing load growth in north Georgia.
+22
+23               In that same area, the proposed Fitzgerald-Pitts 115 kV rebuild 51 could be evaluated as a
+24               230 kV or 230 kV-capable solution, and could potentially extend south past Fitzgerald to
+25               intersect with existing 230 kV lines at Stump Creek or near Harding. Similarly, the
+
+     49
+          See Georgia Power’s response to STF-GS-2-7
+     50
+          Georgia Power IRP Appendix 3, 2024 GA ITS Ten-Year Plan (2025-2034), page 235
+     51
+          Id., at 154
+                                                       Page 26 of 58
+
+     DOCKET NO 56002                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1               proposal to rebuild 41 miles of the Bonaire Primary - Eastman Primary 115 kV Line 52
+ 2               could be assessed for 230 kV or 230 kV-capable design. As another example in that area,
+ 3               the proposal to rebuild 15.8 miles of 115 kV from Jackson Lake to Lloyd Shoals and
+ 4               Jackson Lake to South Covington Junction could be assessed for 230 kV conversion. 53
+ 5
+ 6               A bit east of there near Sandersville, the proposal to rebuild the Sandersville #1 - Wadley
+ 7               Primary 115kV line could be evaluated for the viability of a 230 kV or 230 kV-capable
+ 8               solution. 54 Similarly, the existing low-voltage line from Wrightsville to Sandersville could
+ 9               be evaluated for rebuilding to 230 kV. The proposal to rebuild 115 kV lines between
+10               Sandersville, Dublin, and Gordon could be assessed for a 230 kV or 230 kV-capable
+11               solution to help move more solar western towards the Atlanta load center.” 555657
+12
+13               To facilitate solar interconnection in south Georgia, the existing 230 kV and 115 kV lines
+14               between North Tifton and Valdosta could be converted to two 230 kV lines, or even one
+15               500 kV line. In that area, the proposal to rebuild 38 miles of 115 kV from Pine Grove to
+16               the Pearson tap 58 could be assessed for 230 kV or 230 kV capable, and the 230 kV line
+17               could extend through Pearson up to Douglas.
+18
+
+
+     52
+          Id., at 180
+     53
+          Id., at 185
+     54
+          Id., at 142
+     55
+          Id., at 93
+     56
+          Id., at 114
+     57
+          Id., at 211
+     58
+          Id., at 221
+                                                    Page 27 of 58
+
+     DOCKET NO 56002                                                   TESTIMONY OF MICHAEL GOGGIN
+                                                                          PUBLIC DISCLOSURE VERSION
+
+
+ 1               Finally, the proposed 115 kV rebuild from Barneyville to East Moultrie also seems ripe for
+ 2               a potential 230 kV solution, 59 and the existing 115 kV line from near Thomasville to
+ 3               Moultrie could also be assessed for 230 kV.
+ 4
+ 5   Q.          HAVE OTHER REGIONS SUCCESSFULLY USED PROACTIVE MULTI-
+ 6               VALUE TRANSMISSION PLANNING?
+ 7   A.          Yes, and they have found that this type of planning minimizes the total cost to ratepayers
+ 8               of generation plus transmission by building the optimal amount of transmission. Over a
+ 9               decade ago, the Midcontinent Independent System Operator (“MISO”) used a proactive
+10               multi-value transmission planning process to identify a holistic portfolio of transmission
+11               upgrades, called the Multi-Value Projects (“MVPs”), that were needed to meet reliability,
+12               economic, and state renewable energy policy needs. 60 All but one of those lines have since
+13               been completed, and analyses have confirmed that those projects are providing large net
+14               benefits. 61 MISO’s process was informed by Texas’s success in using proactive
+15               transmission planning to build the Competitive Renewable Energy Zone projects, a
+16               portfolio of upgrades that allowed the state to double its use of renewable energy. 62 SPP
+17               also adopted a proactive multi-value transmission planning approach, and two subsequent
+18               studies have confirmed that those upgrades are providing large net benefits by meeting a
+19               range of economic and reliability needs. 63
+
+
+     59
+          Id., at 156
+     60
+        Midcontinent Indep. Sys. Operator, Multi Value Project Portfolio–Results and Analyses (Jan. 10, 2012),
+     https://cdn.misoenergy.org/2011%20MVP%20Portfolio%20Analysis%20Full%20Report117059.pdf.
+     61
+        Midcontinent Indep. Sys. Operator, MTEP17 MVP Triennial Review–A 2017 Review of the Public Policy,
+     Economic,      &    Qualitative Benefits  of  the   Multi-Value   Project Portfolio  (Sept.   2017),
+     https://cdn.misoenergy.org/MTEP17%20MVP%20Triennial%20Review%20Report117065.pdf.
+     62
+         See, e.g., Lasher, The Competitive Renewable Energy Zones Process, ERCOT (Aug. 11, 2014),
+     https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf.
+     63
+        See Sw. Power Pool, The Value of Transmission – A Report by Southwest Power Pool (Jan. 26, 2016),
+     https://www.spp.org/documents/35297/the%20value%20of%20transmission%20report.pdf; see also Sw. Power Pool,
+     The Value of Transmission – A 2021 Study and Report by Southwest Power Pool (Mar. 31, 2022),
+     https://www.spp.org/documents/67023/2021%20value%20of%20transmission%20report.pdf.
+                                                    Page 28 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           Proactive multi-value transmission planning has also been successfully used by vertically-
+ 2           integrated utilities outside of Regional Transmission Organizations. For example, Nevada
+ 3           Power’s Greenlink Nevada project is designed to provide a range of benefits across
+ 4           categories including reliability, economics, proactively interconnecting a diverse portfolio
+ 5           of renewable energy resources, and expanding ties to neighboring grid operators. 64 Xcel’s
+ 6           Colorado Power Pathway is another example of proactive transmission planning to realize
+ 7           multiple benefits. 65 Finally, Duke has proposed moving to multi-value transmission
+8            planning. 66
+9            In addition, the IRPs conducted by PacifiCorp, Xcel’s Minnesota utility Northern States
+10           Power, and Xcel’s Colorado utility Public Service Company of Colorado co-optimize
+11           transmission planning with generation planning for truly “integrated” resource planning.
+12           Vertically-integrated utilities like Georgia Power can synchronize generation and
+13           transmission planning. This avoids any risk that transmission developed in anticipation of
+14           market interest from generators will not be fully subscribed, though pro-actively planned
+15           transmission lines in Texas and other areas without vertically-integrated utilities have
+16           quickly been fully subscribed.
+17
+18   Q.      WHAT ARE COMMON REASONS FOR NOT USING PROACTIVE MULTI-
+19           VALUE TRANSMISSION PLANNING?
+20   A.      Siloed and reactive planning processes are often used so costs for different types of
+21           transmission can be assigned to different users of the grid. However, allocating the cost of
+22           upgrades to the bulk transmission network is challenging because the bulk transmission
+
+
+     64
+                 NV           Energy,          Greenlink         Nevada            (Apr.           8,           2021),
+     https://goed.nv.gov/wp-content/uploads/2021/05/Greenlink-Nevada-Presentation-4-08-21.pdf.
+     65
+             Xcel   Energy,    Colorado’s     Power       Pathway       (last    visited    Mar.        24,     2023),
+     https://www.coloradospowerpathway.com/project-description/.
+     66
+       CTPC,     Multi-Value     Strategic  Transmission   Planning, (November   2023),                 available   at
+     http://www.nctpc.org/nctpc/document/REF/2023-12-08/Multi-
+     Value%20Strategic%20Transmission%20Planning%20Process%20draft%2011-13-2023.pdf
+                                                    Page 29 of 58
+
+     DOCKET NO 56002                                              TESTIMONY OF MICHAEL GOGGIN
+                                                                     PUBLIC DISCLOSURE VERSION
+
+
+1          network allows all generators and loads to efficiently and reliably deliver power. In
+2          contrast, the cost of direct interconnection facilities, analogous to the driveway a resource
+3          uses to connect to the transmission system, is always allocated to the interconnecting
+4          resource as that cost can be directly attributed to that resource and network power does not
+5          flow across that transmission element.
+6          Network upgrade costs assigned to generators ultimately flow to ratepayers when they are
+7          rolled into the cost of the new generation. Generators must recover network upgrade costs,
+8          as well as the cost of interconnection study fees, by charging a higher price when Georgia
+ 9         Power procures new renewable and storage resources, either through a power purchase
+10         agreement or an acquisition. As a result, developing a workable planning and cost
+11         allocation method that minimizes the cost and maximizes the net benefits of network
+12         upgrades is more important, as the costs will flow to ratepayers regardless of how they are
+13         initially allocated.
+14         Network upgrades are also a public good, in that all users of the transmission system benefit
+15         from them, including competing generators. As a result, interconnecting generators have
+16         little incentive to pay for network upgrades, which has driven the extremely high dropout
+17         rate in the interconnection queues of Southern Company and other grid operators.
+18         Assigning major network upgrade costs to an interconnecting generator is analogous to
+19         charging the next car entering a crowded highway the full cost of adding another lane.
+20         Proactively planning the needed network upgrades and broadly allocating the cost to
+21         ratepayers is a more efficient and workable policy, similar to how costs for other public
+22         goods like roads and sewer systems are allocated. While assigning network upgrade costs
+23         to interconnecting generators can theoretically induce generators to locate in parts of the
+24         grid where less costly upgrades are needed, the same benefit can be obtained by
+25         synchronizing generation and transmission planning and then broadly allocating network
+26         transmission costs to ratepayers, which is more workable than assigning upgrade costs to
+27         generators.
+28
+
+                                              Page 30 of 58
+
+     DOCKET NO 56002                                                       TESTIMONY OF MICHAEL GOGGIN
+                                                                              PUBLIC DISCLOSURE VERSION
+
+
+ 1   Q.         DOES PROACTIVE PLANNING REDUCE INTERCONNECTION COSTS?
+ 2   A.         Yes. Proactive planning yields major savings by realizing economies of scale in
+3               transmission investment. Proactive planning allows investment in higher-capacity network
+4               transmission solutions that are more cost-effective for meeting longer-term needs than the
+5               lower-capacity upgrades that result from reactive transmission expansion processes, like
+6               the interconnection queue. The PJM grid operator recently found that proactive
+7               transmission planning could integrate 12.4 GW of offshore wind resources along with 14.5
+8               GW of onshore wind, 45.6 GW of solar, and 7.2 GW of storage, for a total of just $2.2
+ 9              billion. 67 This equates to a cost of $27/kilowatt for new generation capacity, a fraction of
+10              the cost found through interconnection queue studies. For example, a Brattle Group
+11              analysis of PJM queue study results show $1.3 billion in total identified transmission
+12              upgrades for integrating 5.6 GW of PJM offshore wind resources alone, 68 which equates
+13              to a cost of $415/kilowatt, 15 times greater than costs under PJM’s proactive plan. Other
+14              analyses found that integrating 15.5 GW of offshore wind under today’s rules would lead
+15              to $6.4 billion in upgrades, 69 at a cost of $236/kilowatt.
+16              Similarly, a proactive planning effort in New Jersey for offshore wind resulted in selections
+17              of onshore transmission upgrades that save New Jersey ratepayers approximately $1 billion
+18              for 6,400 MW of additional offshore wind, a two-thirds reduction relative to the costs
+19              identified through PJM queue studies. 70
+20
+21   Q.         IS A REFORMED TRANSMISSION PLANNING APPROACH NEEDED FOR
+
+     67
+        PJM Interconnection, Offshore Wind Transmission Study: Phase 1 Results, 16, Scenario 6 (Oct. 19, 2021),
+     https://pjm.com/-/media/library/reports-notices/special-reports/2021/20211019-offshore-wind-transmission-study-
+     phase-1-results.ashx.
+     68
+       Pfeifenberger, et al., New Jersey State Agreement Approach for Offshore Wind Transmission: Evaluation Report,
+     N.J. BD. OF PUB. UTILS., 180, Table A-2 (Oct. 26, 2022), https://www.brattle.com/wp-
+     content/uploads/2022/10/New-Jersey-State-Agreement-Approach-for-Offshore-Wind-Transmission-Evaluation-
+     Report.pdf.
+     69
+        Burke, et al., Offshore Wind Transmission White Paper, BUS. NETWORK FOR OFFSHORE WIND, 40 (Oct. 2020),
+     https://gridprogress.files.wordpress.com/2020/11/business-network-osw-transmission-white-paper-final.pdf.
+     70
+          Pfeifenberger, supra at 92, Figure 4.
+                                                     Page 31 of 58
+
+     DOCKET NO 56002                                                       TESTIMONY OF MICHAEL GOGGIN
+                                                                              PUBLIC DISCLOSURE VERSION
+
+
+ 1           GEORGIA POWER?
+ 2   A.      Yes, proactive multi-value planning of major transmission upgrades will alleviate the
+ 3           current burden from trying to plan high-capacity network elements through reactive
+ 4           processes like the generator interconnection queue. While FERC recently required utilities
+ 5           to move to a cluster interconnection study approach, which offers incremental
+ 6           improvements over a serial approach in which interconnection applications are studied one
+ 7           at a time, it still fails to address the fundamental problems that interconnecting generators
+ 8           have little incentive to pay for grid upgrades that are public goods, and that transmission
+ 9           planned to interconnect generators does not optimize economic and reliability benefits.
+10           Other regions have found that interconnection queues, even with the use of cluster studies,
+11           are inadequate for addressing large-scale changes in the transmission system driven by
+12           changes in the generation mix, as I explained in a recent report. 71 Across the country,
+13           interconnection queues have ballooned to around 2,600 GW of generation under study, as
+14           they have failed to efficiently drive network transmission development. 72 MISO has twice
+15           successfully used proactive multi-value planning to drive major transmission upgrades 73
+16           when its interconnection queue has gotten bogged down with the same vicious cycle of
+17           problems that are plaguing interconnection queues across the country.
+18
+19   Q.      WHAT ARE THE DRAWBACKS OF RELYING ON THE INTERCONNECTION
+20           QUEUE INSTEAD OF PROACTIVE PLANNING?
+21   A.      Relying on the interconnection queue instead of proactive planning causes high network
+
+     71
+       Goggin, et al., Disconnected: The Need for a New Generator Interconnection Policy, AM. FOR A CLEAN ENERGY
+     GRID (Jan. 12, 2021), https://cleanenergygrid.org/wp-content/uploads/2021/01/Disconnected-The-Need-for-a-New-
+     Generator-Interconnection-Policy-1.pdf.
+     72
+        Berkeley Lab, Generation, Storage, and Hybrid Capacity in Interconnection Queues – Projects in the
+     Interconnection Queues for ISOs and Utility Service Territories, Electricity Markets & Policy,
+     https://emp.lbl.gov/generation-storage-and-hybrid-capacity.
+     73
+       See Ethan Howland, MISO board approves $10.3B transmission plan to support 53 GW of renewables, UTILITY
+     DIVE     (July    26,    2022),      https://www.utilitydive.com/news/miso-board-transmission-plan-midcontinent-
+     renewables/628108/ (In addition to the MVPs discussed above, last year, MISO approved a portfolio of Long-Range
+     Transmission Plan projects that were developed using a similar proactive multi-value planning approach).
+                                                     Page 32 of 58
+
+     DOCKET NO 56002                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1         upgrade costs, which drive developers to propose speculative projects, which results in a
+ 2         high dropout rate, which results in restudies for projects remaining in the queue, which
+ 3         introduces uncertainty to initial cost estimates and drives further withdrawals when updated
+ 4         costs are published for those other generators, which in turn drives further delays, cost, cost
+ 5         uncertainty. As noted above, all of these costs ultimately flow through to ratepayers, as
+ 6         these costs are recovered through a higher purchase price when the resources are contracted
+ 7         by Georgia Power.
+ 8
+ 9   Q.    CAN USING PROACTIVE TRANSMISSION PLANNING INSTEAD OF A
+10         REACTIVE APPROACH HELP MITIGATE THE IMPACT OF INFLATIONARY
+11         COST PRESSURES?
+12   A.    Yes. As I explained above, economies of scale greatly reduce the cost of proactively
+13         planned transmission, as a small number of high-voltage transmission lines can carry the
+14         same amount of power as many lower-voltage lines, saving ratepayers money by reducing
+15         material and labor expenses. This is particularly valuable given current inflationary cost
+16         pressures on a range of inputs, including steel and other metals used to build transmission
+17         towers and conductors, as well as labor shortages.
+18         Proactive planning also reduces the cost and time burden of planning grid upgrades.
+19         Nationally, utilities and generation developers are facing significant shortages of qualified
+20         engineers to run interconnection studies due to the ballooning interconnection queues. A
+21         better use of this scarce resource is to let transmission planners proactively plan
+22         transmission, instead of repeatedly running reactive interconnection studies and restudies
+23         for generators that almost always drop out of the queue when they are assigned the cost of
+24         building major network upgrades.
+25
+26   Q.    HOW SHOULD TRANSMISSION PLANNING BE INCORPORATED INTO
+27         IRPS?
+
+
+                                               Page 33 of 58
+
+     DOCKET NO 56002                                                     TESTIMONY OF MICHAEL GOGGIN
+                                                                            PUBLIC DISCLOSURE VERSION
+
+
+ 1   A.          For an IRP process to truly be “integrated,” it must assess the multiple ways in which
+ 2               transmission affects generation plans, and how generation plans affect the need for
+ 3               transmission, including:
+ 4               -Transmission has a direct impact on the cost and timeline for accessing resource options
+ 5               evaluated in generation planning;
+ 6               -The need for transmission is affected by generation retirements and the type and location
+ 7               of planned generation resources; and
+ 8               -As discussed in the next section, expanding transmission ties to neighboring grid operators
+ 9               can also offer a lower-cost source of energy and capacity than building in-region resources.
+10
+11   Q.          WHAT ARE UTILITY BEST PRACTICES FOR COORDINATING
+12               GENERATION AND TRANSMISSION PLANNING?
+13   A.          There are multiple examples of utilities successfully incorporating proactive multi-value
+14               transmission planning into their IRPs to achieve co-optimized or at least iterative
+15               generation and transmission planning. For example, Arizona utility Salt River Project
+16               (“SRP”) has moved to an Integrated System Plan that attempts to minimize the total cost
+17               to ratepayers of generation plus transmission and distribution, consistent with the principles
+18               described above and below. Because precise generator locations are not known, SRP
+19               explores different scenarios for generation additions and their locations, and assesses the
+20               impact of adding those resources on transmission constraints. 74 SRP then models the
+21               transmission expansion that will be required under each scenario, and identifies the lowest-
+22               cost solutions. SRP indicates it intends to “Proactively plan to expand transmission
+23               infrastructure to enable generator interconnections and load growth” 75 based on those
+24               results, with a particular focus on proactively identifying higher-voltage transmission
+25               expansion that takes longer to plan, permit, and build.
+
+
+     74
+        Salt River Project, 2023 Integrated System Plan, https://www.srpnet.com/assets/srpnet/pdf/grid-water-
+     management/grid-management/isp/SRP-2023-Integrated-System-Plan-Report.pdf, at 12-14, 84-92, 115-118.
+     75
+          Id., at 14.
+                                                     Page 34 of 58
+
+     DOCKET NO 56002                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1               Xcel’s utility subsidiary Public Service Company of Colorado uses similar methods to
+ 2               conduct integrated transmission and generation planning in its IRP, which is called an
+ 3               Electric Resource Plan (“ERP”). Xcel notes that “following the Company’s 2016 ERP,
+ 4               Public Service’s Transmission Planning and Resource Planning groups have been actively
+ 5               collaborating on how to better align their respective processes for future ERPs. One of the
+ 6               outcomes of those efforts has been attempting earlier identification of the anticipated size
+ 7               and location of potential generation resources needed to meet public policy initiatives, so
+ 8               that Public Service’s transmission planners can help identify the transmission necessary to
+ 9               reliably accommodate new resources.” 76
+10               This process resulted in Xcel’s ERP successfully proposing a looped double-circuit 345-
+11               kV transmission expansion from the Denver area into eastern Colorado, called the Pathway
+12               Project. In the ERP, Xcel describes the iterative process through which the proactive
+13               transmission plan precedes the selection of specific interconnecting generators through an
+14               economic bidding process: “Generation facilities that will ultimately interconnect to the
+15               Pathway Project will largely be driven by the competitive Phase II resource solicitation
+16               that will occur in this Proceeding. However, the proposed location and route of the line is
+17               strongly influenced by the location of developer bids received in previous ERPs.” 77 Xcel
+18               also explains that it accounts for direct interconnection costs in reviewing bids, but not
+19               network upgrades as those are shared among many generators and provide multiple
+20               benefits: “Transmission network upgrade costs are not factored into bid comparisons as
+21               these costs address the cumulative system impact of the aggregate bids comprising the
+22               Preferred Plan and do not affect individual bid pricing.” 78 The initial transmission
+
+     76
+           Hari   Singh,    Direct     Testimony and  Attachments   of  Hari   Singh,   (March  2021)
+     https://www.xcelenergy.com/staticfiles/xe-
+     responsive/Company/Rates%20&%20Regulations/Resource%20Plans/Clean%20Energy%20Plan/HE_107_-
+     Direct_Testimony-Hari_Singh.pdf, at 19.
+     77
+          Id.,at 27.
+     78
+          Xcel Energy, 2021 ERP, Appendix Q: Phase II Transmission Report,                 (September   2023)
+     https://www.xcelenergy.com/staticfiles/xe-
+     responsive/Company/Rates%20&%20Regulations/PUBLIC%20Appendix%20Q%20-
+
+                                                    Page 35 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           expansion was proposed with the expectation that those plans would be refined in response
+ 2           to generation bids received in Phase II.
+ 3           PacifiCorp has successfully integrated generation and transmission planning in its IRP.
+ 4           This resulted in the Energy Gateway project, including Gateway South and Gateway West,
+ 5           which are now nearing completion. PacifiCorp explains why it transitioned to this proactive
+ 6           approach: “Until PacifiCorp’s announcement of Energy Gateway in 2007, its transmission
+ 7           planning efforts traditionally centered on new resource additions identified in the IRP. With
+ 8           timelines of seven to ten years or more required to site, permit, and build transmission, this
+ 9           traditional planning approach was proving to be problematic, leading to a perpetual state
+10           of transmission planning and new transmission capacity not being available in time to be
+11           viable for meeting customer needs. The existing transmission system has been at capacity
+12           for several years, and new capability is necessary to enable new resource
+13           development.” 79As with Xcel Colorado, that initial plan has been iteratively refined over
+14           time in response to changes in interest from generation developers and others.
+15
+16   Q.      IN ADDITION TO UTILIZING PROACTIVE MULTI-VALUE TRANSMISSION
+17           PLANNING,           CAN        GEORGIA          POWER          ALSO        RELY        ON       THE
+18           INTERCONNECTION QUEUE?
+19   A.      The current interconnection queue can be a useful input for transmission planning, by
+20           identifying areas where developers are interested in building generation projects, but it
+21           should not be the only input. The location of proposed projects in the queue is heavily
+22           shaped by where there is currently available transmission capacity, and new transmission
+23           build will change the topology of the system and create new unconstrained entry points for
+24           renewables. As a result, Georgia Power should also proactively plan transmission to new
+
+
+     %20Transmission%20Report.pdf, at 23.
+     79
+             Pacificorp,    2023      Integrated    Resource      Plan:      Volume        I,     (March      2023)
+     https://www.pacificorp.com/content/dam/pcorp/documents/en/pacificorp/energy/integrated-resource-plan/2023-
+     irp/2023_IRP_Volume_I.pdf, at 100.
+                                                    Page 36 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           areas that are promising for low-cost renewable development. One way to do that is by
+ 2           using the results of a “Request for Proposals” or other solicitation to get market cost data
+ 3           from proposed generators in different locations. Georgia Power’s renewable energy
+ 4           solicitations can serve as an important source of that cost information. Then, Georgia
+ 5           Power can determine the cost of potential grid upgrade portfolios to accommodate groups
+ 6           of those projects, and choose the grid upgrades that minimize the total generation plus
+ 7           transmission cost.
+ 8           This type of synchronized generation plus transmission planning is necessary to truly
+ 9           achieve “integrated” resource planning. Because transmission upgrades work together to
+10           enable the efficient and reliable flow of power across the network, Georgia Power should
+11           plan and evaluate a holistic portfolio of upgrades rather than its current approach of
+12           evaluating single projects to address a single problem. Planning should also account for the
+13           economies of scale from higher-voltage and double-circuit transmission to right-size for
+14           the long-term need.
+15
+16   Q.      WHAT TYPE OF TRANSMISSION PLANNING SHOULD THE COMMISSION
+17           REQUIRE GEORGIA POWER TO IMPLEMENT?
+18   A.      My recommendation is that the Commission should direct Georgia Power to conduct a
+19           synchronized generation and transmission planning process that attempts to minimize total
+20           costs for generation plus transmission to meet long-term needs, using proactive multi-value
+21           transmission planning to plan upgrades that maximize transmission’s net benefits. FERC
+22           Order 1920 now requires planners to adopt proactive multi-value transmission planning,
+23           including modeling at least three scenarios over a 20-year planning horizon and accounting
+24           for the seven transmission benefits discussed above 80 to ensure that the rates paid by
+25           customers are just and reasonable. As discussed in more detail in the next section, Order
+26           1920 can serve as an impetus for Georgia Power to revise its planning methods and also
+
+     80
+        FERC, Order 1920, https://www.ferc.gov/news-events/news/presentation-order-no-1920-building-future-through-
+     electric-regional-transmission
+                                                    Page 37 of 58
+
+     DOCKET NO 56002                                                TESTIMONY OF MICHAEL GOGGIN
+                                                                       PUBLIC DISCLOSURE VERSION
+
+
+ 1          push for more effective transmission planning and cost allocation methods across the
+ 2          Southeast.
+ 3          MISO and others have successfully used a synchronized generation and transmission
+ 4          planning approach to minimize total costs to ratepayers. As illustrated in the following
+ 5          chart from the MISO planning document that led to the MVPs, synchronized planning
+ 6          minimizes the total cost to ratepayers of generation plus transmission by building the
+7           optimal amount of transmission.81
+
+
+8
+9               Figure 1: MISO chart showing how co-optimized generation and transmission
+10                                   planning minimizes cost for ratepayers
+11          While planning and building longer-term transmission solutions can take time, Georgia
+12          Power can use the interim solutions discussed above, like battery storage, demand
+13          response, and grid-enhancing technologies, to meet near-term needs.
+14
+
+
+     81
+          Midwest Indep. Sys. Operator, Regional Generation Outlet Study,           3   (Nov.   19,   2010),
+     https://puc.sd.gov/commission/dockets/electric/2013/EL13-028/appendixb3.pdf.
+                                                Page 38 of 58
+
+      DOCKET NO 56002                                                   TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1 IV.        GEORGIA POWER SHOULD EVALUATE THE NET BENEFITS OF EXPANDING
+ 2            TIES WITH NEIGHBORING UTILITIES
+3     Q.         CAN GEORGIA RATEPAYERS ALSO BENEFIT FROM PROACTIVE MULTI-
+4                VALUE TRANSMISSION PLANNING OF TRANSMISSION TIES WITH
+5                NEIGHBORING UTILITIES?
+ 6   A.          Yes. The benefits of proactive multi-value transmission planning described above also
+ 7               apply to expanding ties to neighbors. In fact, the benefits from multi-value planning may
+ 8               be even larger because ties provide a larger set of economic, reliability, and resilience
+ 9               benefits, including reducing the amount of generating capacity or reserve margin needed
+10               to achieve a target level of reliability.
+11
+12    Q.         DOES GEORGIA POWER CURRENTLY USE PROACTIVE MULTI-VALUE
+13               PLANNING TO EVALUATE EXPANDING TRANSMISSION TIES WITH
+14               NEIGHBORS?
+15       A.      No. Georgia Power indicates its primary mechanism for coordinating with neighbors is
+16               through affected system studies. 82 Affected system studies are studies triggered in reaction
+17               to planned upgrades or interconnections on Georgia Power’s system, and only assess
+18               whether those changes cause reliability concerns on neighboring systems that trigger a need
+19               for upgrades on those systems. As a result, affected system studies represent the bare
+20               minimum for coordination with neighbors, and are neither proactive nor multivalue.
+21               Affected system studies are also inefficient as they are typically conducted at the final
+22               stages of the interconnection study process. These studies can result in large upgrade costs
+23               being allocated to those generators, which can cause them to drop out, which in turn can
+24               shift upgrade costs to other generators through the restudy processes, causing cascading
+25               uncertainty and costs to projects throughout the queue. Using proactive transmission
+26               planning and shared cost allocation to build needed transmission near the seam can benefit
+27               both neighboring grid operators by alleviating the reliance on affected system studies to
+
+      82
+           Georgia Power response to STF-GS-1-7b
+                                                      Page 39 of 58
+
+     DOCKET NO 56002                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1              plan and pay for those upgrades. This was the primary impetus for the Joint Targeted
+ 2              Interconnection Queue projects that MISO and SPP are developing, as discussed in more
+ 3              detail below. 83 This would benefit Georgia Power by reducing the interconnection cost and
+ 4              uncertainty associated with generators and loads in its queue, as well as the cost of affected
+ 5              system upgrades triggered by its planned transmission investments.
+ 6              When asked in discovery, Georgia Power also takes a very narrow view of what should be
+ 7              assessed when evaluating if expanding transmission ties with neighbors is prudent. Georgia
+ 8              Power answers that “Additions to transfer capability become prudent if existing firm
+ 9              commitments for delivery service and reliability margins (Transmission Reliability Margin
+10              (“TRM”) and Capacity Benefit Margin (“CBM”) cannot be met. Additions to transfer
+11              capability are also prudent for Transmission Service Requests on OASIS that require
+12              additional capability to accommodate the requested delivery for imports from or exports to
+13              other Balancing Authority Areas.” 84 As explained above and below, expanding
+14              transmission ties provides a wide range of economic, reliability, and resilience benefits for
+15              Georgia ratepayers, and only a small share of those are encompassed within Georgia
+16              Power’s measure of prudent expansion. Moreover, Georgia Power’s answer only envisions
+17              an expansion of ties in reaction to firm transmission service requests that cannot be
+18              accommodated, with no mechanism for proactive expansion that is net beneficial for
+19              ratepayers.
+20
+21   Q.         ARE THERE OPPORTUNITIES FOR THE COMMISSION AND GEORGIA
+22              POWER TO MOVE THE REGION TO MORE EFFICIENT TRANSMISSION
+23              PLANNING AND COST ALLOCATION PROCEDURES?
+
+
+     83
+       SPP and MISO, SPP-MISO Joint Targeted Interconnection Queue Cost Allocation and Affected System Study
+     Process    Changes   (December,   2022),    available    at:  https://www.spp.org/documents/68518/spp-
+     miso%20jtiq%20study%20updated%20white%20paper%2020221220.pdf.
+     84
+          Georgia Power response to STF-GS-1-3a
+                                                   Page 40 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1   A.      Yes. The time is particularly ripe as FERC Order 1920 requires development of new
+ 2           regional transmission planning and cost allocation methods by next year. Georgia Power
+ 3           and the Commission can work with other utilities and state regulators through Southeastern
+ 4           Regional Transmission Planning (“SERTP”) to develop workable regional transmission
+ 5           planning and cost allocation mechanisms.
+ 6
+ 7   Q.      DO SOUTHEASTERN REGIONAL TRANSMISSION PLANNING (“SERTP”)
+ 8           PROCESSES CURRENTLY USE MULTI-VALUE PLANNING?
+ 9   A.      No. Similar to Georgia Power’s transmission planning methods, the SERTP processes
+10           greatly understate the benefits of transmission by only accounting for the benefit of
+11           deferring transmission upgrades needed to meet NERC reliability criteria. SERTP also uses
+12           siloed instead of multi-value transmission planning, with separate processes for evaluating
+13           reliability, economic, and public policy projects. 85 As a result, SERTP has not seen
+14           substantial transmission projects move forward during recent planning cycles.
+15
+16   Q.      HAVE       THERE        BEEN CONSEQUENCES                    FROM SERTP NOT                  USING
+17           PROACTIVE MULTI-VALUE TRANSMISSION PLANNING?
+18   A.      Yes. The SERTP region trails other regions in transmission expansion, falling well short
+19           of the level of investment other regions have found maximizes net benefits for ratepayers.
+20           The U.S. Department of Energy’s Transmission Needs Study found that the Southeast has
+21           greatly lagged other regions in building new transmission, building only 110 circuit miles
+22           per year on average over the period 2011-2020. This is less than one-quarter of the national
+23           rate on a load-weighted basis, with the Southeast building .21 miles/TWh of load versus a
+24           national average of .88 miles/TWh. 86 Similarly, Americans for a Clean Energy Grid
+
+
+     85
+        See the separate submission forms for economic and public policy study requests at SERTP, Reference Library:
+     Forms, available at http://www.southeasternrtp.com/reference_library.cshtml
+     86
+         U.S. Department of Energy, National Transmission Needs Study, (December 2023), available at
+     https://www.energy.gov/sites/default/files/2023-12/National%20Transmission%20Needs%20Study%20-
+     %20Final_2023.12.1.pdf, at 22
+                                                    Page 41 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1           recently released a report card scoring regions based on their transmission planning
+ 2           methods and their success in building transmission. The Southeast was the only region in
+ 3           the country to receive an “F” grade, and the only region that failed to build any transmission
+ 4           lines at or above 300-kV during the period 2020-2022. 87 Transmission expansion is
+ 5           essential for efficiently addressing load growth, changes in the generation mix, and
+ 6           reliability risks from severe weather. Continuing to rely on siloed and reactive processes
+ 7           that understate the benefits of transmission harms ratepayers by depriving them of
+ 8           affordable and reliable power.
+ 9
+10   Q.      SHOULD OPPORTUNITIES FOR EXPANDING TIES WITH NEIGHBORING
+11           UTILITIES BE EVALUATED IN GEORGIA POWER’S IRP?
+12   A.      Yes. Because ties can access low-cost generation and provide capacity value, they should
+13           be economically compared against other potential sources of energy and capacity in
+14           integrated resource planning. Given the long lead time required to develop new
+15           transmission ties, particularly with neighboring grid operators, a long-term planning
+16           process like an Integrated Resource Plan is the appropriate forum to assess their value.
+17           Methods used to account for the resource adequacy contributions of generators, like the
+18           Effective Load Carrying Capability method used in Georgia Power’s IRP, can also be
+19           applied to transmission ties. 88 The Reserve Margin Study included in the IRP used that
+20           method to evaluate diversity in net load and generator outage patterns between Southern
+21           Company and neighboring utilities. The same tool and data could be used to calculate the
+22           capacity value benefits of expanding ties with different neighboring grid operators.
+23
+
+
+     87
+       See Zimmerman, et al., Transmission Planning and Development Regional Report Card, AM. FOR A CLEAN
+     ENERGY GRID (June 2023).
+     88
+       D. Stenclik, Transmission as a Capacity Resource, (April 2025) https://www.telos.energy/post/transmission-as-a-
+     capacity-resource
+                                                     Page 42 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           Other utilities have economically evaluated tie expansions as part of an IRP. Portland
+ 2           General Electric’s most recent IRP selected transmission to access Wyoming wind and
+ 3           Desert Southwest solar as part of the economically optimal portfolio. PGE also included
+ 4           the capacity value benefit this transmission expansion provides due to net load diversity
+ 5           with those other regions. 89 Xcel Colorado modeled the economic value of a tie with
+ 6           PacifiCorp in its integrated resource planning process, 90 while Idaho Power has
+ 7           successfully planned multiple large transmission tie lines with neighbors.91 PacifiCorp’s
+ 8           IRP includes impacts of planned transmission on its import and export transfer capacity. 92
+9            In Nevada, NV Energy included the benefit of expanded import and export capability in
+10           evaluating Greenlink Nevada. 93
+11
+12   Q.      ARE THERE EXAMPLES OF TIES BETWEEN GEORGIA POWER AND
+13           NEIGHBORING               UTILITIES          THAT         COULD          POTENTIALLY              BE
+14           BENEFICIALLY EXPANDED?
+15   A.      Yes. While my primary recommendation is for the Company, likely in conjunction with
+16           other utilities in the region, to conduct the detailed transmission planning and engineering
+17           studies necessary to determine the optimal expansion solutions, the following is a non-
+
+
+     89
+          Portland General Electric, Clean Energy Plan and Integrated Resource Plan 2023,
+     https://assets.ctfassets.net/416ywc1laqmd/7gZv7ENSucpUszs63bDQG6/aaae6d2a430e97189edcc836cd2a604e/202
+     3_CEP-IRP_Ch_09.pdf, at 227-229.
+     90
+          Xcel Energy, 2021 ERP, Appendix Q: Phase II Transmission Report,                      (September   2023)
+     https://www.xcelenergy.com/staticfiles/xe-
+     responsive/Company/Rates%20&%20Regulations/PUBLIC%20Appendix%20Q%20-
+     %20Transmission%20Report.pdf
+     91
+                Idaho        Power,       Integrated       Resource         Plan,          (September        2023)
+     https://docs.idahopower.com/pdfs/AboutUs/PlanningForFuture/irp/2023/2023-irp-final.pdf, at 83-98.
+     92
+             Pacificorp,    2023      Integrated    Resource      Plan:      Volume        I,     (March      2023)
+     https://www.pacificorp.com/content/dam/pcorp/documents/en/pacificorp/energy/integrated-resource-plan/2023-
+     irp/2023_IRP_Volume_I.pdf
+     93
+       NV Energy, PUCN Approves NV Energy’s Greenlink Nevada Transmission and Renewable Energy Initiative,
+     (March 2021) https://www.nvenergy.com/about-nvenergy/news/news-releases/pucn-approves-nv-energys-greenlink-
+     nevada-transmission-and-renewable-energy-initiative
+                                                    Page 43 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1              exhaustive list of illustrative examples of the type of potential upgrades that should be
+ 2              evaluated for feasibility and economic net benefits.
+ 3              -Expanded ties with South Carolina: Georgia Power’s proposal to install a new 35-mile
+ 4              230 kV line between Hartwell Energy and Middle Fork, 94 while valuable, could potentially
+ 5              be more net beneficial if it were built at 500 kV. In response to discovery, Georgia Power
+ 6              confirms that it did not evaluate any alternatives to the proposed 230 kV solution. 95 Per
+ 7              Table 1 above, typical 500 kV lines can carry about 4 times as much power, or around
+ 8              2,000 MW more, than 230 kV lines. A 500 kV line could capitalize on Georgia Power’s
+ 9              plan to install 500 kV equipment at Middle Fork as part of other proposed projects. If built
+10              in partnership with Duke in South Carolina, the 500 kV line could extend past Hartwell
+11              Energy to the Anderson substation where multiple 230 kV lines currently interconnect,
+12              ensuring sufficient transfer capacity to handle increased flows on the South Carolina side
+13              of the border.
+14              Georgia Power could also evaluate opportunities to expand ties with Dominion Energy
+15              South Carolina in the Augusta and Plant McIntosh areas, as current ties between the utilities
+16              are undersized relative to the transmission capacity on the Georgia Power and Dominion
+17              systems in those areas.
+18              -Expanded ties with the Tennessee Valley Authority (“TVA”): The existing 230 kV line
+19              from the Rock Spring substation in Georgia to TVA’s Widows Creek substation could be
+20              upsized by adding a second 230 kV circuit, or ideally rebuilt at 500 kV. Georgia Power’s
+21              response to STF-GS-2-20(a) confirms that none of the transmission projects proposed in
+22              the Ten Year Transmission Plan increase transfer capacity with TVA.
+23              -Expanded ties with Florida utilities: Georgia Power proposes rebuilding and
+24              reconductoring multiple 115 kV lines in the Bainbridge area in south Georgia, 96 including
+
+
+     94
+          Georgia Power IRP Appendix 3, 2024 GA ITS Ten-Year Plan (2025-2034), page 59
+     95
+          Georgia Power response to STF-GS-2-7, Attachment Public Disclosure (Northeast Corridor Study Report)
+     96
+          Georgia Power IRP Appendix 3, 2024 GA ITS Ten-Year Plan (2025-2034), at 229
+                                                      Page 44 of 58
+
+     DOCKET NO 56002                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1               reconductoring a 115 kV tie to Florida Power and Light’s Sinai substation. 97 Georgia
+ 2               Power should evaluate the feasibility and net benefits of rebuilding these lines at 230 kV.
+ 3               At minimum, Georgia Power should consider building the lines with the capability to later
+ 4               convert them from 115 kV to 230 kV operation. As discussed above, investing in this type
+ 5               of optionality for later expansion can be valuable relative to an undersized solution that
+ 6               may need to be prematurely replaced.
+ 7
+ 8   Q.          HAVE OTHER STUDIES ASSESSED OPTIMAL TRANSMISSION EXPANSION
+ 9               IN THE SOUTHEAST?
+10   A.          Yes. As shown below, NERC’s Interregional Transfer Capability Study recommended
+11               large transmission expansion similar to the upgrades proposed above. Specifically, it
+12               recommended increasing transfer capacity from Southern Company to Florida by 1,200
+13               MW, with the Carolinas by 2,200 MW, and with MISO South by 300 MW, as prudent
+14               additions to address resource adequacy concerns in those neighboring regions. 98 While
+15               Southern Company was lucky enough to avoid a generation shortfall in the 12 weather
+16               years modeled in NERC’s study, this does not indicate future severe weather events will
+17               spare Georgia. Regardless, Georgia Power ratepayers would benefit from these expanded
+18               ties reducing the amount of generating capacity investment needed to maintain resource
+19               adequacy in Georgia. Expanded ties also benefit Southern Company ratepayers through
+20               reduced production costs by enabling expanded imports of lower-cost power from
+21               neighbors when it is available, and expanded profits from exports when Georgia’s supply
+22               is greater than its demand. Because the neighbor utilities would also receive reliability and
+23               economic benefits these lines, they and their regulators should have an interest in
+24               partnering on the planning and cost allocation for these lines.
+
+
+     97
+          Id., at 195
+     98
+                    NERC,              Interregional         Transfer        Capability            Study
+     https://www.nerc.com/FilingsOrders/us/NERC%20Filings%20to%20FERC%20DL/ITCS_Filing_Fall2024_signed.p
+     df, at xvi, 98
+                                                    Page 45 of 58
+
+    DOCKET NO 56002                                                     TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+1
+
+
+2
+3   Figure 1: Prudent transmission addition in NERC Interregional Transfer Capability Study
+4           The DOE’s National Transmission Planning Study identified upgrades similar to those
+5           discussed above in its economically optimal transmission expansion, as shown in the map
+6           below. 99 In the Alternating Current optimized expansion, the study added one new 500 kV
+7           tie to South Carolina, three new 500 kV ties to TVA, and a new 500 kV tie to MISO South
+8           following existing transmission right-of-way, as well as a new 500 kV tie to Florida.
+9
+
+
+    99
+          DOE,    National     Transmission       Planning    Study:    Executive   Summary,     (October  2024)
+    https://www.energy.gov/sites/default/files/2024-10/NationalTransmissionPlanningStudy-ExecutiveSummary.pdf, at
+    23.
+                                                  Page 46 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1
+ 2     Figure 2: Optimal AC transmission expansion in National Transmission Planning Study
+ 3   Q.      HOW DO EXPANDED TIES PROVIDE ECONOMIC, RELIABILITY, AND
+ 4           RESILIENCE BENEFITS?
+ 5   A.      Expanding transmission ties to neighboring grid operators can significantly improve
+ 6           reliability and reduce cost. Expanded ties could not only deliver lower-cost energy when
+ 7           neighbor utilities have a lower marginal production cost than Georgia Power, but also offer
+ 8           the Company dependable capacity because of diversity in the timing of peak demand,
+ 9           renewable output, and conventional generator outages between the Company and
+10           neighboring regions. 100 Utilities experience peak demand and generator outages at different
+11           times, and tapping into this diversity significantly reduces the planning reserve margin that
+12           is needed to maintain the same level of reliability. 101 That diversity also increases resilience
+
+     100
+         M. Goggin et al., Quantifying a Minimum Interregional Transfer Capability Requirement, (May 2023)
+     https://gridstrategiesllc.com/wp-content/uploads/2023/05/GS_Interregional-Transfer-Requirement-Analysis-
+     final54.pdf, at 4.
+       For example, MISO finds around $3.2 billion in annual benefits because “MISO’s large geographic footprint allows
+     101
+
+     members to lower planning reserve margins (PRM), ultimately reducing the amount of required installed capacity.
+     Much of the value MISO creates comes from the value of sharing capacity across MISO’s large geographic footprint—
+
+                                                     Page 47 of 58
+
+     DOCKET NO 56002                                                             TESTIMONY OF MICHAEL GOGGIN
+                                                                                    PUBLIC DISCLOSURE VERSION
+
+
+ 1            during extreme weather events, as extreme weather systems move over time and tend to be
+ 2            at their most severe in relatively small geographic areas. 102 For example, Florida had
+3             abundant generating supplies during Southern Company’s time of peak need during Winter
+ 4            Storm Elliott in December 2022. 103
+ 5
+ 6            Given regional weather and climate diversity and the expansive footprints of Southern
+ 7            Company’s neighbors, at least one neighboring power system is likely to have available
+ 8            capacity during Southern Company’s times of peak need. A stronger regional grid allows
+ 9            all utilities to share in those resilience benefits and maintain the same level of reliability
+10            with a lower reserve margin.
+11
+12            Southern Company’s planned solar additions further increase the value of expanding these
+13            ties. Expanding ties will allow the Company to export solar during the day and summer to
+14            avoid backing down inflexible conventional generators, and import other energy resources,
+15            including wind, at night and during the winter. 104 Multiple studies have confirmed that
+
+     by setting requirements for a system peak instead of each balancing authority keeping reserves for their own region.
+     Savings are generated because MISO members do not need as much capacity for the same level of reliability.” MISO,
+     MISO Value Proposition Annual View, 2023 Overview (March 2024), at 6, available at
+     https://cdn.misoenergy.org/2023%20Value%20Proposition%20Annual%20View%20-
+     %20Detailed%20Report%20Final632082.pdf?v=20240306103856. Similarly, PJM finds $1.2-1.8 billion in annual
+     savings because “There is considerable diversity in electrical use patterns in the large PJM footprint; not all areas peak
+     at the same time of the year. As a result, resources in one area of the system are available to help serve other areas at
+     peak times, and a smaller reserve is required. In addition, the large and varied resource fleet across the entire PJM
+     region spreads the generator outage risk across a larger collection of generators, improving reliability.” PJM, PJM
+     Value Proposition, at 2, available at: https://www.pjm.com/about-pjm/~/media/about-pjm/pjm-value-
+     proposition.ashx.
+     102
+          M. Goggin, Transmission Makes the Power System Resilient to Extreme Weather, (July 2021)
+     https://www.cleanenergygrid.org/wp-content/uploads/2021/09/GS_Resilient-Transmission_proof.pdf; M. Goggin
+     and Z. Zimmerman, The Value of Transmission During Winter Storm Elliott, (February 2023) https://acore.org/wp-
+     content/uploads/2023/02/The-Value-of-Transmission-During-Winter-Storm-Elliott-ACORE.pdf.
+     103
+         M. Goggin et al., Quantifying a Minimum Interregional Transfer Capability Requirement, (May 2023)
+     https://gridstrategiesllc.com/wp-content/uploads/2023/05/GS_Interregional-Transfer-Requirement-Analysis-
+     final54.pdf, at 4.
+     104
+        Americans for a Clean Energy Grid, Consumer, Employment, and Environmental Benefits of Electricity
+     Transmission Expansion in the Eastern U.S. (October 2020),             https://cleanenergygrid.org/wp-
+
+                                                         Page 48 of 58
+
+     DOCKET NO 56002                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           expanding transmission ties within and among grid operators to access that diversity is
+ 2           essential    for   cost-effectively     achieving     very    high    renewable      penetrations. 105
+ 3           Geographically diverse renewables, as well as a more diverse portfolio of solar and wind,
+ 4           provide more dependable capacity and less variable output because their output profiles
+ 5           are weakly or negatively correlated.
+ 6           Electricity supply and demand are becoming more weather-dependent for other reasons as
+ 7           well, increasing the value of ties to access weather diversity. As noted above and discussed
+ 8           in more detail below, thermal generators and particularly gas generators experience
+ 9           correlated outages during extreme cold and, to a lesser extent, extreme heat. Because these
+10           extreme weather events are at their most severe in relatively small geographic areas,
+11           expanding ties with neighbors is a highly effective strategy for hedging this risk. Electricity
+12           demand is also becoming more weather-dependent with electrification of building and
+13           water heating.
+14
+15 V.      IN IRP RESOURCE SELECTION MODELING, GEORGIA POWER SHOULD
+16         REDUCE THE CAPACITY ACCREDITATION OF THERMAL GENERATORS TO
+17         ACCOUNT FOR CORRELATED OUTAGES
+18
+19   Q.      IN THE ECONOMIC SELECTION OF GENERATORS, DOES GEORGIA
+20           POWER’S IRP ACCOUNT FOR CORRELATED OUTAGES OF THERMAL
+21           GENERATORS?
+22   A.      No. While correlated outages of thermal generators were accounted for in the Reserve
+
+
+     content/uploads/2020/10/Consumer-Employment-and-Environmental-Benefits-of-Transmission-Expansion-in-the-
+     Eastern-U.S..pdf, at 21-22.
+     105
+         See, e.g., Patrick Brown and Audun Botterud, The Value of Inter-Regional Coordination and Transmission in
+     Decarbonizing          the      US      Electricity     System,      Joule     5(1),      (January        2021)
+     https://www.sciencedirect.com/science/article/pii/S2542435120305572; NREL, The Value of Increased HVDC
+     Capacity Between Eastern and Western U.S. Grids: The Interconnections Seam Study (September 2021)
+     https://ieeexplore.ieee.org/document/9548789; MacDonald et al., Future Cost-Competitive Electricity Systems and
+     Their      Impact      on    US    CO2      Emissions,    Nature    Climate    Change,      526–531      (2016)
+     https://www.nature.com/articles/nclimate2921, at 6.
+                                                    Page 49 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1              Margin study, they were not factored into the economic selection of resources. As the
+ 2              Company explains in response to discovery in this docket, “Incremental cold weather
+ 3              forced outages were not factored into the capacity accreditation for the generating
+ 4              resources chosen during expansion modeling because it is a weather-normal analysis, and
+ 5              the impact of generator outages is accounted for in the reserve margin requirement included
+ 6              in the capacity expansion modeling.” 106
+ 7              As explained below, assigning the capacity accreditation impact of correlated outages to
+ 8              the resources that cause them in the economic selection of generators is more efficient than
+ 9              socializing those costs through a higher reserve margin. Accounting for correlated outages
+10              with a lower capacity value accreditation instead of a higher reserve margin should not
+11              change Georgia Power’s claimed need for capacity, as each MW in reduced accreditation
+12              should reduce the need for planning reserves by one MW. Georgia Power should move to
+13              this approach in the next IRP and in any evaluation of generation resources through a
+14              Request for Proposals or other procurement, as it is essential for selecting an economically
+15              optimal generation mix. The data inputs and probabilistic methods used in the Reserve
+16              Margin study can be readily used to account for expected correlated outages in the capacity
+17              value accreditation of each resource or resource type.
+18
+19   Q.         ARE CORRELATED OUTAGES OF THERMAL GENERATORS COMMON?
+20   A.         Yes. Correlated outages of gas have occurred across many recent events, including some
+21              like Winter Storms Uri and Elliott that resulted in loss of load. FERC and NERC have
+22              documented that 55% of the unavailable generating capacity during Winter Storm Uri was
+23              gas, with coal capacity contributing another 18%. 107 Similarly, gas accounted for 63% of
+
+
+     106
+           Georgia Power response to STF-GS-1-19
+     107
+        FERC, NERC, The February 2021 Cold Weather Outages in Texas and the South Central United States, available
+     at https://www.ferc.gov/media/february-2021-cold-weather-outages-texas-and-south-central-united-states-ferc-nerc-
+     and, at 16
+                                                     Page 50 of 58
+
+     DOCKET NO 56002                                                          TESTIMONY OF MICHAEL GOGGIN
+                                                                                 PUBLIC DISCLOSURE VERSION
+
+
+ 1           unplanned outages and derates during Winter Storm Elliott 108 and 55% during the 2014
+ 2           Polar Vortex, 109 while coal accounted for a large share of the remainder. Correlated outages
+ 3           and derates of gas generators have also played a major role in reliability concerns during
+ 4           extreme heat, including the 2022 110 and 2020 111 heat waves in California.
+ 5
+ 6   Q.      HAVE STUDIES QUANTIFIED THE IMPACT OF THERMAL GENERATOR
+ 7           CORRELATED OUTAGES?
+ 8   A.      Recent analysis of Dominion’s portion of PJM, conducted by Georgia Power consultant
+ 9           Astrape, shows that accounting for these correlated generator outages significantly reduces
+10           the calculated reliability contributions of thermal generating resources. Specifically,
+11           Astrape found that accounting for correlated outages can cause an additional 10% reduction
+12           in gas resources’ capacity contributions during the summer, and 20% in the winter, beyond
+13           the forced outage rate that is typically assumed. 112
+14           PJM recently revised its capacity value accreditation to reflect the risk of correlated
+15           outages, and the average capacity value assigned to gas generators declined significantly,
+16           dropping to 79% for gas combined cycle generators and 61% for gas combustion turbines
+
+
+     108
+         FERC and NERC, December 2022 Winter Storm Elliott Grid Operations: Key Findings and Recommendations
+     (Sep. 21, 2023), at 5, available at: https://www.ferc.gov/news-events/news/presentation-ferc-nerc-regional-entity-
+     joint-inquiry-winter-storm-elliott.
+     109
+              NERC,      Polar      Vortex   Review     (Sept.   2014),    at    13,     available    at:
+     https://www.nerc.com/pa/rrm/January%202014%20Polar%20Vortex%20Review/Polar_Vortex_Review_29_Sept_2
+     014_Final.pdf.
+     110
+        Regenerate California, California’s Underperforming Gas Plants: How Extreme Heat Exposes California’s Flawed
+     Plan for Energy Reliability (July 2023), available at: https://caleja.org/wp-content/uploads/2023/06/2023-Regenerate-
+     Heat-Wave-Report.pdf.
+     111
+          CAISO, Root Cause Analysis: Mid-August 2020 Extreme Heat Wave, (Jan. 2021), available at:
+     http://www.caiso.com/Documents/Final-Root-Cause-Analysis-Mid-August-2020-Extreme-Heat-Wave.pdf.
+     112
+        Dison et al., Astrapé Consulting, Accrediting Resource Adequacy Value to Thermal Generation (Mar. 30, 2022),
+     at                    6,                 Table                 ES1,                   available                 at:
+     https://info.aee.net/hubfs/Accrediting%20Resource%20Adequacy%20Value%20to%20Thermal%20Generation-
+     1.pdf (calculated by taking the difference between the 95% accreditation under current methods, and what the study
+     found as the actual summer credit of 84.7% and winter credit of 76.1%).
+                                                       Page 51 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+1                for planning year 2026/2027. 113 While effective generator weatherization may reduce
+2                correlated outages and thus their impact on capacity value accreditation, they cannot fully
+3                protect against equipment outages and do not protect against failures due to constrained
+4                gas supply or pipeline capacity.
+ 5               Another study co-authored by NERC used NERC data 114 to demonstrate that conventional
+ 6               generators experience common mode correlated outages many times more frequently than
+ 7               is predicted under the assumption that individual plant outages are uncorrelated
+ 8               independent events. As shown below, in the SERC region that includes Georgia, actual
+ 9               outages are much greater than expected if outages were uncorrelated events, with about 15-
+10               20 GW more concurrent outages than expected. 115
+11
+
+
+12
+13               Figure 3: Actual winter generation outages in SERC (red line) are roughly twice the
+14               level of outages that would be expected under the assumption that generator outages
+15                                  are uncorrelated independent events (gray area)
+
+
+     113
+        PJM, Preliminary ELCC Class Ratings for Period 2026/27 through 2034/35 (Jun. 4, 2024), at 5, 11, available at:
+     https://www.pjm.com/-/media/committees-groups/committees/pc/2024/20240604/20240604-item-07---preliminary-
+     elcc-class-rating-update.ashx.
+     114
+        Murphy et al., Resource adequacy risks to the bulk power system in North America, Applied Energy 212 (Feb.
+     2018), at 1360, 1372, available at: https://www.sciencedirect.com/science/article/pii/S0306261917318202.
+     115
+           Id. at 1366, Fig. 4.
+                                                     Page 52 of 58
+
+     DOCKET NO 56002                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1   Q.      HOW DOES THE FAILURE TO ACCOUNT FOR THESE OUTAGES IN THE
+2            IRP’S ECONOMIC OPTIMIZATION AFFECT THE SELECTED RESOURCE
+3            MIX?
+4    A.      It results in an economically sub-optimal resource mix that is biased towards thermal
+5            resources and against renewable and storage resources. Georgia Power’s IRP uses an
+6            ELCC method to account for how correlations in the output of multiple solar plants or
+7            multiple battery resources reduces their capacity contribution as their penetration increases.
+8            The same method could and should be used to reduce the accredited capacity contribution
+9            of thermal resources, but instead Georgia Power accommodates thermal generators’
+10           underperformance through a higher reserve margin. 116 This creates an unlevel playing field
+11           between thermal resources and renewable and storage resources.
+12           Adding renewable and storage generation that is not affected by fuel delivery and other
+13           constraints reduces risk and increases resilience by diversifying the generation mix. As
+14           discussed above, expanding transmission ties to neighboring power systems also reduces
+15           this risk by accessing diversity in net load as well as in thermal generator outages,
+16           particularly during extreme weather events.
+17
+18   Q.      DOES THIS CONCLUDE YOUR TESTIMONY?
+19   A.      Yes.
+20
+21
+22
+23
+24
+25
+26
+
+     116
+        Georgia Power response to STF-GS-1-19: “the impact of generator outages is accounted for in the reserve margin
+     requirement included in the capacity expansion modeling”
+                                                     Page 53 of 58
+
+     DOCKET NO 56002                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15                 Exhibit MG-1:          Michael S. Goggin Background and Qualifications
+16   Education:
+17       Harvard University class of 2004, B.A. cum laude in Social Studies
+18       - Wrote thesis “Is it Time for a Change? Science, Policy, and Climate Change”
+19
+20   Experience:
+21       Grid Strategies                   Vice President              February 2018-present
+22       - Serve as a consultant on electricity transmission, grid integration, reliability, market,
+23           and public policy issues for consumer, grid operator, non-profit, and industry clients
+24       - Have testified before FERC and in over 25 state regulatory commission cases
+25
+26        AWEA         Senior Director of Research, other titles      February 2008-February 2018
+27        - Led team responsible for all American Wind Energy Association (now American Clean
+28          Power Association) analysis
+29        - Served as primary technical and economic expert for market design, transmission, grid
+30          integration, carbon policy, and other topics
+31        - Authored regulatory filings at state (IRP and transmission siting cases), regional (ISO
+32          transmission and market design), and federal levels (FERC transmission,
+33          interconnection standard, grid integration, and market design cases)
+34        - Directed economic and power sector modeling to inform AWEA’s policy strategy and
+35          support advocacy positions
+                                             Page 54 of 58
+
+     DOCKET NO 56002                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1        -   Communicated with the press and policy makers about wind energy
+ 2        -   Authored reports to promote AWEA’s policy agenda, rebut misconceptions about wind
+ 3            energy, and explain complex energy topics to lay audiences
+ 4        -   Other titles included Electric Industry Analyst, Senior Analyst, Manager of
+ 5            Transmission Policy, Director of Research
+ 6
+ 7        Sentech, Inc.           Research Analyst              October 2005-February 2008
+ 8        - Conducted economic analyses of solar, wind, geothermal, and energy storage
+ 9           technologies for U.S. Department of Energy officials
+10        - Provided analytical support for DOE’s renewable energy R&D funding decisions
+11
+12        Union of Concerned Scientists    Clean Energy Intern       May 2005-October 2005
+13        - Worked with the legislative and field staff to promote the inclusion of pro-renewable
+14           energy measures in the Energy Policy Act of 2005
+15
+16        State Public Interest Research Groups Policy Analyst      August 2004-May 2005
+17        - Analyzed and advocated for clean energy policies at the state and federal level
+18            Exhibit MG-2: Georgia Power’s response to data request STF-GS-1-1 in the 2023
+19                                       IRP Update (Docket No. 55378)
+20
+21   STF-GS-1-1
+22   Question:
+23   Has the Company evaluated the use of Battery Energy Storage Systems (BESS) to reduce, defer,
+24   or eliminate the need for the transmission upgrades identified in the Updated IRP? If so, please
+25   provide that evaluation and explain why BESS were not selected. If the Company has not
+26   conducted that evaluation, please explain why not.
+27
+28   Response:
+29
+30   Please refer to the Company’s response to STF-DEA-4-15.
+31   The Company did not study Battery Energy Storage Systems (“BESS”) as options to reduce, defer,
+32   or eliminate the transmission upgrades identified in the 2023 IRP Update to facilitate the delivery
+33   of power from the proposed Plant Yates combustion turbines.
+34
+35
+36
+37
+38
+                                               Page 55 of 58
+
+     DOCKET NO 56002                                                TESTIMONY OF MICHAEL GOGGIN
+                                                                       PUBLIC DISCLOSURE VERSION
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11             Exhibit MG-3: Georgia Power’s response to data request STF-GDS-4-7.e. in the
+12                                         2022 IRP (Docket No. 44160)
+13
+14   e. Alternative solutions such as energy storage or distributed energy resources have not been
+15   considered yet for various reasons. Some projects such as the Klondike switch replacement, are
+16   relatively inexpensive and easy to accomplish, so no such alternative is needed. For the identified
+17   strategic projects (second Heard County – Tenaska 500 kV line and the new Lagrange – North
+18   Opelika 230 kV line), the magnitude of storage or DER that would be needed makes those options
+19   untenable. The solutions for the other identified constraints are still under review. Other strategic
+20   solutions may replace some of the listed projects, and energy storage, DER, and operating guides
+21   will be considered in due time, before the listed projects are approved and budgeted.
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+                                                Page 56 of 58
+
+     DOCKET NO 56002                                              TESTIMONY OF MICHAEL GOGGIN
+                                                                     PUBLIC DISCLOSURE VERSION
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10            Exhibit MG-4: Georgia Power’s responses to data requests STF-GS-1-8 and STF-
+11                            GS-1-9 in the 2023 IRP Update (Docket No. 55378)
+12   STF-GS-1-8
+13
+14   Question:
+15   As a follow-up to the STF-JKA-4-5 question about discussing non-firm, interruptible, or lower
+16   service quality options with new customers, has the Company evaluated demand response
+17   programs that would compensate those customers for curtailing their load, particularly during the
+18   generation or transmission system contingency events that triggered a need for upgrades in the
+19   Transmission Screening Analysis? If so, please discuss that evaluation. If not, please explain why
+20   the Company has not conducted that analysis.
+21
+22   Response:
+23   The Company is proposing a new Curtailable Load program, which will compensate customers
+24   for curtailing load during periods of extreme supply and demand conditions. The customer
+25   payment will be directly linked to the capacity value provided by the potential demand reduction.
+26
+27   STF-GS-1-9
+28
+29   Question:
+30   As a follow-up to the STF-JKA-4-5 question about evaluating non-firm, interruptible, or lower
+31   service quality options with new customers, has the Company spoken with new customers about
+32   an option for potential reductions in interconnection costs or rates from deploying customer-sited
+33   battery storage or demand response resources? If so, please describe those discussions. If not,
+                                               Page 57 of 58
+
+     DOCKET NO 56002                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1   please explain why the Company has not offered that option.
+ 2
+ 3
+ 4
+ 5   Response:
+ 6   Yes, the Company makes potential customers aware of rate options and programs available to
+ 7   them, including the Real Time Pricing rate. The Company also has current demand response
+ 8   programs and is proposing three new DER and DR customer programs as part of this IRP Update
+ 9   to enable both new and existing customers to receive credit for providing system value from
+10   customer-sited resources.
+
+
+                                             Page 58 of 58

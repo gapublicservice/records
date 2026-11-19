@@ -1,0 +1,28 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108884,
+      "name": "PSC Public Doc.pdf",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227584/108884"
+    },
+    {
+      "attachment_id": 108885,
+      "name": "PSC Public Doc.docx",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227584/108885"
+    }
+  ],
+  "company": "Staff",
+  "description": "Test for trade secret to STARS. Please accept this filing!",
+  "dockets": [
+    75003
+  ],
+  "document_id": 227584,
+  "filed_date": "2026-08-13",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-13",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227584"
+}

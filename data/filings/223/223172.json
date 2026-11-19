@@ -1,0 +1,30 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104399,
+      "bytes": 968654,
+      "name": "223172(f).pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223172/104399"
+    },
+    {
+      "attachment_id": 104400,
+      "name": "56002 Notice of Hearinig and Scheduling Order TRADE SECRET CHALLENGE(f).docx",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223172/104400"
+    }
+  ],
+  "company": "GPSC",
+  "description": "NOTICE OF HEARING AND SCHEDULING ORDER FOR SOUTHERN ENVIRONMENTAL LAW CENTER ON BEHALF OF GEORGIA INTERFAITH POWER AND LIGHT AND SOUTHFACE ENERGY INSTITUTE’S MOTION CHALLENGING GEORGIA POWER COMPANY’S TRADE SECRET ASSERTION",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 223172,
+  "filed_date": "2025-06-30",
+  "harvested": "2026-11-19",
+  "received_date": "2025-06-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223172"
+}

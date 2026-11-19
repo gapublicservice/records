@@ -1,0 +1,2658 @@
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+GEORGIA POWER COMPANY’S)DOCKET NO. 56298
+APPLICATION FOR THE CERTIFICATION )
+OF CAPACITY FROM THE 2029-2031 )
+ALL-SOURCE RFP )
+
+GEORGIA POWER COMPANY’S )DOCKET NO. 56310
+APPLICATION FOR THE CERTIFICATION)
+OF CAPACITY SUPPLEMENTAL RESOURCES )
+
+
+DIRECT TESTIMONY AND EXHIBITS
+
+OF
+
+TOM NEWSOME, PE, CFA
+
+PHILIP HAYET
+
+LEAH WELLBORN
+
+
+ON BEHALF OF THE 
+
+
+GEORGIA PUBLIC SERVICE COMMISSION
+PUBLIC INTEREST ADVOCACY STAFF
+
+
+November 12, 2025
+TABLE OF CONTENTS
+
+I.BACKGROUND AND QUALIFICATIONS1
+II.SUMMARY AND RECOMMENDATIONS2
+III.RESOURCE NEED AND RFP TIMELINE11
+IV.COMPANY’S RFP AND RESOURCE EVALUATION22
+V.STAFF’S ECONOMIC EVALUATION AND RANKING ANALYSIS26
+VI.OTHER RISKS AND COST CONSIDERATIONS33
+Additional Sum34
+Combined Cycle Proposals36
+BESS Resources40
+High Load Factor Load Impacts43
+EXHIBITS46
+
+STF-NHW-1   Tom Newsome Resume
+STF-NHW-2   Philip Hayet Resume
+STF-NHW-3   Leah Wellborn Resume
+STF-NHW-4   Resource Summary
+STF-NHW-5   Reserve Margin Tables
+STF-NHW-6   Aurora Study Assumptions
+STF-NHW-7   Revenue Requirement Comparison
+
+
+ BACKGROUND AND QUALIFICATIONS
+Q.Please state your names, titles, and business addresses.
+A.My name is Tom J. Newsome.  I am the Director of Utility Finance with the Georgia Public Service Commission (“Commission”). My business address is 244 Washington St., Atlanta, Georgia, 30334.
+A.My name is Philip M. Hayet. I am a Vice President and a Principal of J. Kennedy and Associates, Inc. (“Kennedy and Associates”). My business address is 570 Colonial Park Drive, Suite 305, Roswell, Georgia, 30075.  
+A.My name is Leah J. Wellborn. I am a Director of Consulting at Kennedy and Associates. My business address is 570 Colonial Park Drive, Suite 305, Roswell, Georgia, 30075.  
+Q. MR. NEWSOME, WHAT ARE YOUR PRIMARY RESPONSIBILITIES WITH THE COMMISSION STAFF?
+A. I am responsible for economic, financial, and cost of equity analysis and evaluations at the Commission.  
+Q. WHAT CONSULTING SERVICES DOES KENNEDY AND ASSOCIATES PROVIDE?
+A. Kennedy and Associates provides consulting services related to electric utility system planning, resource analysis, production cost modeling, ratemaking, finance, accounting, and industry policy issues.
+Q.PLEASE PROVIDE SUMMARIES OF YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE.
+A.Summaries of our education, experience, professional certifications, and testimony appearances are provided in Exhibits STF-NHW-1, STF-NHW-2, STF-NHW-3, for Mr. Newsome, Mr. Hayet, and Ms. Wellborn, respectively.    
+Q.HAVE YOU ALL PREVIOUSLY TESTIFIED BEFORE THIS COMMISSION? 
+A.Mr. Newsome, Mr. Hayet, and Ms. Wellborn have all previously testified before this Commission, including in the 2022 Integrated Resource Plan (“IRP”), 2023 IRP Update, and 2025 IRP proceedings. 
+Q.ON WHOSE BEHALF ARE YOU TESTIFYING?
+A.We are testifying on behalf of the Commission’s Public Interest Advocacy Staff (“Staff”).
+
+SUMMARY AND RECOMMENDATIONS
+Q.WHAT ARE THE PROJECTS THAT YOU ADDRESS IN YOUR TESTIMONY?
+A.The Company is requesting the Commission certify 26 additional resources (9,886 MW), including 18 resources (8,000 MW) that were identified through the 2029-2031 All Source (“AS”) Request for Proposal (“RFP”) process, and eight supplemental resources (1,886 MW) that the Company identified outside of the competitive procurement process. The 26 projects include 15 Company-Owned Proposal (“COP”) resources (7,065 MW), and 11 Power Purchase Agreement (“PPA”) acquisitions (2,821 MW). 
+The total cost estimate for the 15 proposed COP projects is $xxx billion (approximately $xxx billion), assuming the projects are built on-time and on-budget, including Ad Valorem and Allowance for Funds Used During Construction (“AFUDC”). The capital cost portion of the total cost estimate is approximately $xxx billion. Resources proposed by the Company include Battery Energy Storage Systems (“BESS”), Combustion Turbine (“CT”), Combined Cycle (“CC”), and Solar + BESS resource types. Summaries of the COP and PPA projects are presented in the Tables 1 and 2 below, and additional details of the projects are presented in Exhibit STF-NHW-4. 
+Table 1: Proposed COP Projects 
+(Also Referred to as Self-Build Resources)
+
+Source
+Project
+Resource Type
+MW
+COD
+Life (Years)
+Certified Cost 
+($million)
+RFP
+South Hall
+BESS
+250 
+11/1/2028
+20
+
+RFP
+Bowen Phase I
+BESS
+250 
+11/1/2028
+20
+
+RFP
+Wansley
+BESS
+500 
+11/1/2028
+20
+
+RFP
+Yates Phase I 
+BESS
+320 
+11/1/2028
+20
+
+RFP
+Yates Phase II
+BESS
+250 
+11/1/2028
+20
+
+RFP
+Bowen Phase II
+BESS
+250 
+11/1/2029
+20
+
+RFP
+Thomson
+BESS
+500 
+11/1/2029
+20
+
+RFP
+Hammond Phase II
+BESS
+193 
+11/1/2030
+20
+
+RFP
+McIntosh
+BESS
+250 
+11/1/2030
+20
+
+RFP
+Laurens County
+Solar + BESS
+200 
+11/30/2028
+20 / 35
+
+RFP
+Plant Mitchell
+Solar + BESS
+150 
+11/30/2028
+20 / 35
+
+RFP
+Bowen Unit 7-8
+CC
+1,482
+11/1/2029
+45
+
+RFP
+Wansley Unit 10-11
+CC
+1,453
+11/1/2029
+45
+
+RFP
+McIntosh Unit 12
+CC
+757
+11/1/2030
+45
+
+Supp
+Wadley
+BESS
+260
+11/30/2027
+20
+
+
+Total
+
+7,065
+
+
+Table 2: Proposed PPA Projects 
+Source
+Project
+Resource Type
+Nominal MW
+COD
+Term
+(years)
+Capacity Cost
+$/kW-yr 
+Esc.
+Add Sum
+$/kW-yr
+RFP
+MidGA Cogen
+CC
+317
+6/1/2028
+20
+
+
+3.0
+RFP
+Dahlberg 4
+CT
+74
+6/1/2030
+10
+
+
+3.0
+RFP
+Harris 1
+CC
+658
+6/1/2030
+15
+
+
+3.0
+RFP
+Sandersville
+CT
+146
+12/1/2030
+15
+
+
+3.0
+Supp
+Tenaska Heard 
+CT
+930
+6/1/2030
+20
+
+
+3.0
+Supp
+MPC 
+System
+50
+1/1/2029
+1
+
+
+3.0
+Supp
+NEER Decatur
+BESS
+200
+12/1/2027
+25
+
+
+3.0
+Supp
+NEER Dougherty County
+BESS
+120
+12/1/2027
+25
+
+
+3.0
+Supp
+NEER Washington County
+BESS
+150
+12/1/2027
+25
+
+
+3.0
+Supp
+NEER White Oak
+BESS
+76
+12/1/2027
+25
+
+
+3.0
+Supp
+NEER White Pine
+BESS
+100
+12/1/2027
+25
+
+
+3.0
+
+Total 
+
+2,821
+
+
+Q.IF ALL THE RESOURCES WERE TO BE ACQUIRED AS REQUESTED, HOW MUCH WOULD BE SOUGHT FROM CUSTOMERS IN ANNUAL INCREMENTAL REVENUE REQUIREMENTS?
+A.Figure 1 shows Staff’s estimate of Georgia Power’s annual incremental revenue requirement build up through 2034.
+
+Figure 1: Revenue Requirement of Requested Resources 
+
+Figure 1 indicates the Company’s revenue requirement collected from ratepayers would increase significantly in 2029, 2030, and 2031 following the acquisition of the resources.  Currently, the Company expects its energy requirements to be approximately 165,701,513 MWh by 2031, so the $3.4 billion in additional revenue requirements would result in a cost of approximately $20/MWh or $20/month for a typical 1,000 kWh per month residential customer. Non-large load customers could experience significant harm if the Company were to commit to acquire the resources, and the new load and additional incremental revenues do not materialize.
+Q.ARE THERE ADDITIONAL FINANCIAL IMPACTS THE COMMISSION SHOULD CONSIDER WHEN DECIDING HOW MUCH CAPACITY TO CERTIFY IN THIS PROCEEDING?
+A.Yes. The Company’s capital expenditure plan for 2025 – 2027 will nearly double its current rate base. The Company will also make significant capital expenditures in 2028 – 2031 further increasing rate base. The increase in the Company’s prospective rate base for the 2028 rate case will increase annual revenue requirements by billions of dollars. The Commission can mitigate this upward pressure on revenue requirement and customers’ bills by limiting the approval of new resources to only those necessary to serve large-load customers that have executed contracts under new rules and regulations.   
+Q.PLEASE SUMMARIZE THIS PANEL’S FINDINGS AND RECOMMENDATIONS.
+A.Our findings and recommendations are provided below:
+Staff’s Contracts Only Large-Load Recommendation
+Staff’s 2025 IRP evaluation concluded that new large loads are materializing slower than the Company forecasted, and this continues to be demonstrated in the Company’s B2026 load forecast that was filed September 2025. Based on Staff’s “Contracts Only” view (Staff Scenario 1) of the Company’s B2026 load forecast, in which Staff only included signed large load contracts as of October 8, 2026, and Staff’s target reserve margin (“TRM”) of 24.5%, Staff’s primary recommendation is that the Commission should approve the acquisition of 3,125 MW of resources in this proceeding. Table 3 includes the resources Staff identified to satisfy this Contracts Only load forecast.   
+
+Table 3: Staff Recommendations for Certification 
+Source
+Project
+COD
+Nominal MW
+Winter L&R MW
+Certified Estimate 
+($million)
+Capacity Payment $/kW-yr 
+RFP
+Mid Georgia Cogen PPA
+6/1/2028
+317
+320
+
+
+RFP
+Dahlberg 4 CT PPA 
+6/1/2030
+74
+87
+
+
+RFP
+Harris 1 CC PPA
+6/1/2030
+658
+683
+
+
+RFP
+Sandersville CT PPA
+12/1/2030
+146
+156
+
+
+Supp
+Tenaska Heard CT PPA 
+6/1/2030
+930
+945
+
+
+RFP
+Thomson BESS COP
+11/1/2029
+500
+500
+
+
+RFP
+Wansley BESS COP
+11/1/2028
+500
+500
+
+
+Total Recommended for Certification
+3,125
+3,091
+
+
+2. Staff recommends approval of the four thermal PPAs identified in the RFP, including Mid Georgia Cogen PPA, Plant Dahlberg 4 PPA, Plant Harris 1 PPA, and Sandersville PPA. These resources are existing projects, which eliminates the risk of cost overruns and construction delays. These resources include both CT and CC capacity.    
+
+3.Staff recommends approval of the Tenaska PPA Supplemental resource, as it was selected economically in Staff’s analysis, and will not require new construction or transmission investment.  
+
+4.Staff recommends approval of the Thomson BESS and Wansley BESS COP projects, as they were economically selected in Staff’s analysis. 
+
+5.Staff recommends conditional approval of the resources identified in Table 4. Should the Company execute additional large load contracts under the new rules and regulations by March 16, 2026, then Staff recommends conditional resources from Table 4 be acquired in the amount needed to satisfy the new demand.  Should new large load contracts be executed after March 16, 2026, Staff would work with the Company on an expedited process to certify additional resources selected from the conditional approval list, or the Company could identify new resources in its 2032/2033 RFP.  
+
+Table 4: Recommendations for Conditional Approval
+Source
+Project
+COD
+Nominal MW
+Winter L&R MW
+Certified Estimate 
+($million)
+Capacity Payment $/kW-yr 
+RFP
+Wansley Units 10-11 CC COP 
+11/1/2029
+1,453
+1,531
+
+
+RFP
+Hammond Phase II BESS COP
+11/1/2030
+193
+154
+
+
+RFP
+Bowen Unit 7-8 CC COP
+11/1/2029
+1,482
+1,561
+
+
+RFP
+Yates Phase I BESS COP
+11/1/2028
+320
+320
+
+
+RFP
+Bowen Phase I BESS COP
+11/1/2028
+250
+250
+
+
+RFP
+Laurens County BESS + Solar COP 
+11/30/2028
+200
+160
+
+
+RFP
+Mitchell BESS + Solar COP
+11/30/2028
+150
+120
+
+
+RFP
+Bowen Phase II BESS COP
+11/1/2029
+250
+200
+
+
+Total Recommended for Conditional Approval
+4,298
+4,295
+
+
+6.The Projects identified for conditional approval include CC units and Company-Owned BESS + Solar projects, which are high capital cost resources that will provide both capacity and energy. These projects should only be approved if new load materializes.  
+
+7.Staff recommends the Commission deny the Company’s requests for the proposed projects beyond the conditional resources. The Company could defer the COP projects or bid them into a future competitive solicitation process. The following table identifies the resources that should be rejected amounting to 2,463 MW of capacity. 
+
+Table 5: Recommendations to Reject
+
+Source
+Project
+COD
+Nominal MW
+Winter L&R MW
+Certified Estimate
+($million)
+Capacity Payment $/kW-yr 
+Supp
+NEER Dougherty County BESS PPA
+12/1/2027
+120
+108
+
+
+RFP
+Yates Phase II BESS COP
+11/1/2028
+250
+205
+
+
+Supp
+Wadley BESS COP
+11/30/2027
+260
+247
+
+
+Supp
+NEER White Pine BESS PPA
+12/1/2027
+100
+80
+
+
+Supp
+NEER Washington County BESS PPA
+12/1/2027
+150
+143
+
+
+Supp
+NEER White Oak BESS PPA
+12/1/2027
+76
+61
+
+
+Supp
+NEER Decatur BESS PPA 
+12/1/2027
+200
+190
+
+
+RFP
+McIntosh BESS COP
+11/1/2030
+250
+200
+
+
+RFP
+South Hall BESS COP
+11/1/2028
+250
+200
+
+
+RFP
+McIntosh Unit 12 CC COP
+11/1/2030
+757
+797
+
+
+Supp
+MPC PPA
+1/1/2029
+50
+N/A
+
+
+Total Recommended to Reject
+2,463
+2,230
+
+
+Staff’s Scenario 2 Load Forecast Alternative
+8.Staff’s Scenario 2 load forecast, which is explained in Staff’s Load Forecast Panel’s testimony, was developed in the event the Commission wanted to consider planning to a higher level of large load growth beyond the contracted load level. Planning to this load forecast would introduce additional customer risk but would be less risky than the Company’s much higher load forecast. Based on Staff’s Scenario 2 load forecast, Staff recommends certification of all of the resources found in Table 3 above (3,125 MW), plus certification of the conditional resources, Wansley 10-11 CCs, Hammond Phase II BESS, and Yates Phase I BESS, which would amount to 1,966 MW of additional capacity. In total, planning to Staff’s Scenario 2 load forecast would entail certification of 5,091 MW in this proceeding. 
+
+9.Should new large load contracts be executed after March 16, 2026 beyond 5,091 MW of capacity, Staff would work with the Company on an expedited process to certify additional resources selected from the conditional approval list, or the Company could identify new resources in its 2032/2033 RFP.   
+Other Recommendations
+10. Staff recommends the Commission grant an Additional Sum amount of 2.30/kW- yr for PPA projects, and that it only be applied to the winter reliable capacity value of the PPAs, adjusted by the resource’s ELCC rating and/or the resource’s available capacity constrained by transmission limits.  
+
+11. Staff recommends that the Commission limit the recovery of capital cost including AFUDC and ad valorem, to the estimates provided by the Company in this proceeding to ensure the projects are efficiently managed and ratepayers are protected.  
+
+12.Staff recommends rejecting the Company’s “portfolio” based contingency proposal. Under the Company’s proposal, any savings on an individual project would be used to offset cost overruns on another project. Staff recommends rejecting the Company’s proposal as savings from completing an individual project under the certified amount should accrue to ratepayers’ benefit, not the Company’s benefit. In other words, savings from one project should not be used to eliminate examination and review of cost overruns from another project. In addition, Staff has been advised by legal counsel that the Company’s portfolio approach is not consistent with Georgia law.  
+
+13.Staff recommends the Company be required to comply with additional reporting and construction monitoring requirements. Staff recommends monitoring requirements for the COP thermal projects be consistent with what was required for the recent Yates CT project, and the reports the Company files should include details regarding the status of third party firm transportation (“FT”) of natural gas to insure the Company’s natural gas resources can be dispatched to meet system peak demands reliably and economically. Staff recommends monitoring requirements for the BESS projects be consistent with what was required for the initial BESS projects. 
+
+14.Staff recommends the Commission reject the Company’s request to automatically place any pre-construction costs incurred that are not useful or transferable to other potential projects in a regulatory asset. However, if the Commission considers allowing regulatory asset treatment, Staff recommends the Commission defer such decision and require the Company to make a separate filing, which would allow Staff the opportunity to review the costs and circumstances. 
+Q.HOW IS YOUR TESTIMONY ORGANIZED?
+A.In Section III, our testimony addresses the Company’s expected need for capacity and its load and resource (“L&R”) balance. In Section IV, we critique the Company’s ranking analysis. In Section V, we present Staff’s ranking analysis, which utilizes different assumptions and is based on a portfolio-based evaluation methodology.  In Section VI, we address risks associated with various resource procurements, and recommend the Commission apply a more balanced approach to resource selection by approving only resources needed to meet contract loads.  Finally, we include exhibits STF-NHW-4, STF-NHW-5, STF-NHW-6, and STF-NHW-7, containing detailed tables describing the proposed resources, load and resource balance tables, Staff’s study assumptions, and revenue requirement summaries, respectively. 
+RESOURCE NEED AND RFP TIMELINE
+Q.HOW DID THE COMPANY’S LOAD FORECAST AND CAPACITY NEED CHANGE BETWEEN THE 2022 IRP, 2023 IRP UPDATE, AND 2025 IRP?
+A.The 2022 IRP was filed on January 31, 2022, and at that time, the Company did not identify any significant amount of data center load growth that would be added to the system in future years. One year later, the Company’s load forecast changed dramatically based on the Company’s recognition of a surge in the number of large-load data centers that considered locating in Georgia. As a result, the Company filed the 2023 IRP Update on October 27, 2023 to address its increased capacity needs. 
+In the 2023 IRP Update, the Commission certified new capacity to address new large load customers. This new capacity consisted of the 750 MW Mississippi Power Company (“MPC”) PPA for the term of January 1, 2024, through December 31, 2028, and the 230 MW Santa Rosa Energy Center PPA for the term that began right after certification through December 31, 2028. Also connected with the 2023 IRP Update, the Commission certified 1,300 MWs of Yates Units 8-10 CT capacity on August 29, 2024, and 765 MWs of BESS capacity associated with the Robins, Moody, Hammond, and McGrau Ford Phase I and II BESS projects on December 12, 2024. In addition to this capacity, a separate 500 MW renewable RFP was approved in the 2022 IRP proceeding, and is current being conducted for resources that would be available as early as 2028. The Company also identified 136 MW of winter capacity through the 2023 CARES RFP and 180 MW through the 2027-2029 BESS RFP. Finally, from the 2025 IRP, the Commission approved postponement of retirements at Scherer 3 and the Gaston Plant, which added approximately 928 MW through 2034, it approved the Company’s plans to perform uprates at Plant McIntosh and Plant Vogtle, and it approved the Company’s request to certify capacity from Plant Scherer Unit 3, which had previously been wholesale capacity. Altogether, the Commission has certified the addition of approximately 4,080 MW of winter capacity by 2031.
+The Company’s load forecast increased even more when the 2025 IRP was filed on January 31, 2025, and it was revised further in a February 2025 load forecast update.  The 2025 IRP Settlement Order stated that in the 2029-2031 AS RFP the Company and Staff would be allowed to update the load forecast methodologies as they each determine to be appropriate, and it stated Staff could “…. propose that the Commission modify the methodology to include the materialization of executed Contracts for Electric Service in determining the Load Forecast.”  The Stipulation also provided that the 2029-2031 AS RFP, which was approved in the 2022 IRP, should identify between 6,000 - 8,500 MW of resources. Paragraph 2c of the Stipulation stated:
+The Company shall be authorized to seek certification of up to 8,500 MW of capacity from the 2029-2031 All Source Capacity RFP. The Company agrees to provide generation procurement options to meet generation needs of at least 6,000 MW and up to 8,500 MW necessary to meet Georgia Power system demand. Upon consideration of the Company's updated October 2025 Load Forecast, as well as consideration of any Staff-proposed Load Forecast, the Commission can then appropriately determine necessary generation resources to certify as part of the 2029-2031 All-Source Capacity RFP certification proceeding.
+While Paragraph 2c mentioned the range of capacity the Company could seek through the RFP (6,000 to 8,500 MW), a determination of the amount of resource capacity to certify requires consideration of other factors. Paragraph 2c notes that the Commission should take into consideration both the Company’s updated October 2025 Load Forecast, as well as Staff’s Load Forecast in deciding about the resources to certify. Staff’s preferred load forecast is Scenario 1, which only includes signed large-load contracts in the forecast.  
+Q.HOW MUCH CAPACITY IS THE COMPANY SEEKING TO CERTIFY IN THIS PROCEEDING?
+A. As mentioned above, the Company has identified 26 new resources to be certified by the Commission. The Company identified 18 projects, amounting to approximately 8,000 MW of capacity through the 2029-2031 AS RFP process, and it identified eight additional projects, amounting to 1,886 MW through a Supplemental process outside the 2029-2031 AS RFP. Altogether, the Company is seeking to certify 9,886 MW of capacity in this proceeding.
+Q.DOES STAFF AGREE WITH THE COMPANY’S CERTIFICATION REQUESTS?
+A. No. Based on Staff’s Scenario 1 Contracts only load forecast, Staff recommends the Commission certify the acquisition of 3,125 MWs of resources and conditionally certify another 4,298 MWs.  Should the Company execute additional large-load contracts under the new rules and regulations by March 16, 2026, then Staff recommends conditional resources identified from Table 4 above be acquired in the amount needed to satisfy the new demand. 
+Q.WHAT LOAD FORECAST DID THE COMPANY RELY ON WHEN IT FILED ITS APPLICATION FOR CERTIFICATION OF NEW RESOURCES ON JULY 30, 2025?
+A.The Company filed for certification of new resources using its February 2025 load forecast update; however, since it made the filing in July, the Company also provided a more recent forecast on September 17, 2025, referred to as the new Budget 2026 (“B2026”) load forecast. The near-term forecasts have trended down since the 2023 IRP Update, as can be seen in Figure 2. This pattern suggests that a similar downward trend could continue in future forecasts. 
+Figure 2: Georgia Power Winter Peak Demand (MW) Forecast Comparison 
+
+Q.BEFORE INCLUDING NEW RESOURCES, WHAT IS THE COMPANY’S CAPACITY NEED BASED ON THE COMPANY’S LATEST LOAD FORECAST (B2026)?
+A.The Company’s forecast indicates there is a capacity need of approximately 8,865 MW by the Winter of 2030/2031 and 7,790 MW of resources by the Summer of 2031, assuming the Company’s B2026 load forecast, reserve margin assumptions, and starting capacity position. 
+Q.DOES STAFF HAVE ANY CONCERNS REGARDING THE COMPANY’S CAPACITY NEED ASSUMPTIONS USED IN THIS PROCEEDING?
+A.Yes. Staff has significant concerns with the Company’s large load materialization assumptions, and the Company’s TRM assumption. Staff also has concerns with the Company’s Tenaska Transmission availability assumption, the Company’s plans for future RFP procurements, and the Company’s desire to acquire capacity (9,886 MW), which is above the currently estimated 2031 capacity need and is above the upper bound (8,500 MW) amount of capacity that was approved to be identified in the 2029-2031 AS RFP.
+Q.HAS STAFF DEVELOPED ITS OWN LOAD FORECAST, TARGET RESERVE MARGIN, AND RESOURCE PLANS?
+A.Yes. Staff’s load forecast panel developed two load forecast scenarios that our panel used in our modeling analyses. Also, in the 2025 IRP, Staff reviewed Georgia Power’s Reserve Margin Study and identified issues that led to our recommendation for a lower TRM, 24.5% compared to the Company’s 26%. Staff ’s TRM is more reasonable as it took into consideration other factors such as data center insensitivity to cold weather conditions. In our modeling, we used Staff’s load forecasts, Staff’s TRM, and other changes to assumptions described below to develop alternative resource acquisition recommendations.   
+Q.PLEASE DESCRIBE STAFF’S MODELING ASSUMPTIONS?
+Exhibit STF-NHW-5 contains a set of load and resource balance tables, including Staff Load Realization Model (“LRM”) Scenario 1, which is Staff’s “Contracts Only” load forecast case. This load forecast case includes customer loads that have signed Contracts for Electric Service (“CES”) as of October 8, 2025. Exhibit STF-NHW-5 also includes Staff Scenario 2, which is Staff’s LRM “Adjustments for Errors, Site Control, and Uniform Materialization” load forecast case. 
+Staff’s preferred modeling assumptions reflect the Staff LRM Scenario 1 load forecast, a revised TRM assumption, alternative existing resource assumptions, and Staff’s recommendation for resources that the Company could acquire to satisfy its resource needs. In addition, Staff also accounted for an increase in the Tenaska capacity due to an assumption that a greater amount of transmission capacity may be available that would allow more Tenaska capacity to be delivered to the System. 
+Q.PLEASE COMPARE THE COMPANY’S AND STAFF’S CAPACITY NEED POSITION.
+A.Tables 6 and 7 below show a portion of the information found in Exhibit STF-NHW-5. Tables 6 and 7 show Georgia Power and Staff’s view, respectively, of their capacity need positions prior to the inclusion of new resource additions that will be approved in this proceeding, for the period of 2028 - 2031. The first row provides the forecasted peak demand, the second row provides the required capacity after accounting for the reserve margin, and the third row shows the existing resources and planned resource additions that have already been certified.  The last row in each table shows the Company’s capacity need position before new resources are accounted for. Positive values in the last row reflect an excess / surplus of capacity, and negative values reflect a need or deficit of capacity. The following table is Georgia Power’s view of its capacity need position. 
+Table 6: Georgia Power View of Its Capacity Need (MW)
+Moderate Gas/0 CO2 Case, 26% TRM, Winter
+Company’s B2026 Load Forecast
+ 
+2028
+2029
+2030
+2031
+Georgia Power Peak Demand (MW) - B2026 
+19,717
+21,975
+23,701
+25,065
+Required Capacity (MW), including reserve margin
+24,672
+27,498
+29,658
+31,365
+Existing and Previously Planned Capacity (MW)
+24,250
+24,426
+24,536
+22,500
+Capacity Surplus / (Deficit)
+(422)
+(3,072)
+(5,121)
+(8,865)
+
+Table 6 indicates the Company expects it will have a capacity need of approximately 8,865 MW by 2031, before considering the acquisition of new resources. 
+Table 7 shows Staff’s view of the Company’s capacity needs, which reflects a lower large-load materialization assumption, Staff’s TRM assumption, and Staff’s existing resource assumptions.   
+Table 7: Staff’s View of Georgia Power’s Capacity Need (MW)
+Moderate Gas/0 CO2 Case, 24.5% TRM, Winter
+Staff’s Scenario 1 - Contracts Only Load Forecast
+
+ 
+2028
+2029
+2030
+2031
+Peak Demand (MW) - Staff Scenario 1 (Contracts Only)
+18,044
+19,166
+19,920
+20,559
+Required Capacity (MW), including reserve margin
+22,311
+23,699
+24,631
+25,421
+Existing and Previously Planned Capacity (MW)
+24,385
+24,561
+24,671
+22,635
+Capacity Surplus / (Deficit)
+2,074 
+862 
+40 
+(2,786)
+By 2031, Staff’s assumptions result in a capacity need of 2,786 MW that is 6,079 MW less (8,865 MW – 2,786 MW) than what the Company assumes its capacity need would be, resulting in a lower need for new resource acquisitions.
+Q.DID STAFF EVALUATE A LOAD FORECAST THAT WENT BEYOND THE LARGE-LOAD CONTRACTS ONLY VIEW? 
+A.Yes. Staff developed an additional load forecast case (Scenario 2) to provide the Commission an alternative view under the assumption that some additional large-load is included in the load forecast (Table 8 below). As stated earlier, planning to this load forecast would introduce additional customer risk from potentially underutilized or stranded assets; however, the risk would be significantly lower using Staff’s Scenario 2 load forecast compared to using the Company’s much higher load forecast.  
+Table 8: Staff’s View of Georgia Power’s Capacity Need (MW)
+Moderate Gas/0 CO2 Case, 24.5% TRM, Winter
+Staff’s Scenario 2 Load Forecast
+ 
+2028 
+2029 
+2030 
+2031 
+Peak Demand (MW) - Staff Scenario 2 
+18,173
+19,901
+21,247
+22,323
+Required Capacity (MW), including reserve margin
+22,471
+24,608
+26,272
+27,602
+Existing and Previously Planned Capacity (MW) 
+24,385
+24,561
+24,671
+22,635
+Capacity Surplus / (Deficit)
+1,914 
+(46) 
+(1,600)
+(4,967)
+Based on Staff’s greater large-load materialization case, Table 8 indicates the Company would have a capacity need of approximately 4,967 MW by 2031. Staff’s  recommendation discussed above that 3,125 MW of capacity be certified would partially address this capacity need. Staff recommends the remainder of this need be drawn from the 4,298 MW of resources Staff has identified for conditional approval. 
+Q.WHAT IS STAFF’S PRIMARY RECOMMENDATION REGARDING THE CERTIFICATION OF PROPOSED RESOURCES IN THIS PROCEEDING?
+A.Staff’s primary recommendation is associated with the Contracts-only load forecast identified in Table 7 above. Staff  recommends that the Commission should certify 3,125 MWs, and conditionally certify another 4,298 MWs for a total of 7,423 MW. Should the Company execute additional large-load contracts under the new rules and regulations by March 16, 2026, then Staff recommends conditional resources from Table 4 be acquired in the amount needed to satisfy the new demand. Staff recommends the remaining capacity the Company has proposed, 2,463 MW, be rejected, to protect customers from having to pay for unnecessary capacity costs.
+Q.HAVE UTILITIES IN OTHER STATES ATTEMPTED TO BALANCE THE RISK OF LOAD MATERIALIZATION WITH THE RISK OF CUSTOMERS HAVING TO PAY FOR EXCESS CAPACITY COSTS?
+A.Yes. Other utilities have had to deal with similar situations, and their regulatory authorities have recognized that their existing customers may be at risk if the large loads do not materialize. In those jurisdictions, the regulators have imposed large-load materialization monitoring requirements and have aligned utility new resource investment and cost recovery with the materialization of load contracts. For example, a new American Electric Power (“AEP”) Ohio data center tariff has been approved that will require large load contract commitments before new transmission investments are made. Kentucky Utilities / Louisville Gas and Electric (“KU/LGE”) entered into a stipulation in its latest certification case that would require executed electric service agreements as a cost-recovery condition for a proposed CC resource. Dominion Energy South Carolina, Inc. stated that it only relies on contracts in developing its reference planning forecasts. These examples demonstrate that tying new infrastructure investment to new load materialization is a reasonable approach to planning for large loads and limits risks to existing customers.
+Q.THE COMPANY HAS REQUESTED APPROVAL TO DEFER CERTAIN DEVELOPMENT COSTS FOR RESOURCES NOT CERTIFIED INTO A REGULATORY ASSET. WHAT IS STAFF’S RECOMMENDATION?
+A.The Company has indicated it will seek recovery of development costs, including financing costs, for resources not certified, by deferring those costs to a regulatory asset for recovery in a future base rate case. Staff’s position is the Company should be treated the same as other bidders in the RFP who also incur development costs. Those bidders are not allowed to recover their development costs from unsuccessful bids and neither should the Company. It should be noted this massive expansion of Georgia Power’s system will increase the Company’s profits tremendously and should be considered when decisions about the recovery of stranded pre-construction costs are made.  
+COMPANY’S RFP AND RESOURCE EVALUATION
+Q.BRIEFLY DESCRIBE HOW THE COMPANY CONDUCTED ITS RFP AND RESOURCE SELECTION PROCESS?
+The Commission’s 2022 IRP Order authorized the Company to conduct the 2029-2031 AS RFP, and the Company issued the RFP documents on June 20, 2024. The Company received “offers for approximately 14,902 MW of nominal capacity through 54 different proposals.” The Company allowed bidders to refresh their price bids and start dates and resubmit bids by February 25, 2025. The Company re-ranked the bids based on an economic cost/benefit analysis, which resulted in a set of Competitive Tier proposals. Transmission analyses were performed, including interconnection studies and contingency analyses, though additional transmission studies were necessary and expected to be completed by September 2025. The Company used the Renewable Cost Benefit Framework (“RCB Framework”) to evaluate BESS + Solar projects. 
+The Company ultimately selected a winning portfolio that consisted of four PPAs and 14 COP projects, totaling 7,999 MW of capacity. The PPA projects consist of a combination of CT and CC capacity, totaling 1,195 MW. The remaining 14 RFP projects consist of standalone BESS, Solar + BESS, and CC COP projects, amounting to 6,805 MW. 
+The Company concluded 7,999 MWs of capacity would not be “sufficient to meet all projected capacity needs through 2031,” and sought to acquire a set of supplemental resources amounting to 1,886 MWs of capacity. These included six BESS projects (906 MW) developed by NextEra Energy Resources (“NEER”). NEER proposed to develop five of the projects under PPA arrangements and sell development rights for the sixth project to Georgia Power (Wadley). The Company identified two additional supplemental projects (980 MW), including continuation of both the Tenaska Heard County CT PPA, and the Mississippi Power PPA (“MPC’). The MPC PPA was for 50 MW and was only extended for one year.
+Q.DESCRIBE THE COMPANY’S ECONOMIC COST/BENEFIT ANALYSIS THAT COMPARED THE RFP PROJECTS TO THE SUPPLEMENTAL PROJECTS?
+A.The Company performed an analysis that compared and ranked the 18 RFP resources and eight supplemental resources together under various fuel and CO2 scenarios. The fuel/CO2 scenarios used in the Company’s RFP evaluation, included Moderate Gas/0 CO2 (“MG0”), High Gas/0 CO2 (“HG0”), Moderate Gas/0 CO2/EPA-111 (“MG0-111”), and Moderate Gas/50 CO2 (“MG50”). 
+Q.WHAT COST/BENEFIT COMPONENTS DID GEORGIA POWER INCLUDE IN THE RANKING ANALYSIS?
+A.Table 9 describes the costs, benefits, and equalization components included in the Company’s analysis:
+Table 9: Components in the Company’s Ranking Analysis 
+Costs
+Benefits
+Equalization
+Capacity Payments
+Capital Revenue Requirements
+Maintenance Cap Revenue Requirements
+Fixed O&M
+Equity Costs (Lease Accounting)
+Fixed Fuel Costs
+Transmission Costs
+Interconnection Costs
+Energy Benefits
+Renewable Integration Credit
+Term Equalization
+Derate Equalization
+The “Costs” in the evaluation partially reflected values that were proposed to the Company in the RFP bids or the supplemental projects. The costs depended on whether the RFP bids/supplemental projects were PPA resources or COP projects. Some PPA evaluations included imputed equity costs to account for the negative financial impacts the PPAs would cause to the Company’s balance sheet. COP project costs accounted for capital revenue requirements, Fixed O&M (“FOM”) costs, and fixed fuel transportation costs for projects that rely on natural gas. Additionally, the Company’s evaluation accounted for transmission and interconnection costs associated with the projects.
+The “Benefits” included a production cost related energy benefit that was derived by running Aurora with and without the proposed bid. The Renewable Integration Benefit accounted “…. for the incremental positive economic and reliability impact introduced by the addition of a resource that helps to mitigate the volatility introduced by renewables.”
+Finally, the Company included “Equalization” components, which were designed to assure comparability the bids were offered covering different terms and different sizes. The Term Equalization component addressed differences in the start and end-dates of projects, and the Derate Equalization component accounted for reductions in accredited capacity during the life of the project. 
+Q.PLEASE DISCUSS THE RESULTS OF THE COMPANY’S RANKING ANALYSIS.
+A.The Company’s RFP ranking analysis led to the identification of a set of 25 projects that formed the Competitive Tier, and after further evaluation, the Company identified a Short List of 21 projects. 
+Q.DID STAFF IDENTIFY ANY CONCERNS WITH THE COMPANY’S RANKING ANALYSIS METHODOLOGY?
+A.Yes, Staff identified four concerns, which include: 
+(1) Equalization Methodology – Since the Company performed independent analyses of the RFP resources, it decided to apply adjustments to “equalize” the term length and capacity size of the resource bids. Staff’s Aurora analysis addressed equalization impacts by accounting for resource lives and resource sizes in the optimal selection process. 
+(2) ELCC Tranche Evaluation - The Company’s evaluation assumed a tranche approach to modeling ELCC values for different BESS resources. The problem with the Company’s approach is that some projects that were phased in had a higher ELCC value for the second phase of the project compared to the first phase. In Staff’s analysis, the two phases had equivalent ELCC values.   
+(3) Omission of Additional Sum on PPAs - The Company’s ranking analysis did not account for Additional Sum costs GPC customers will have to pay when PPA resources are selected. Staff accounted for these costs in its resource selection process. 
+(4) Portfolio Approach and Timing of Resource Need - The Company’s ranking analysis evaluated resources one at a time and did not evaluate resources based on a comprehensive portfolio approach. The problem with the Company’s approach is that resources that were selected earlier in the study period did not influence the dispatch of resources selected later. Staff’s Aurora analysis addressed this problem by considering the relative economics of the projects together.
+STAFF’S ECONOMIC EVALUATION AND RANKING ANALYSIS
+Q.PLEASE PROVIDE AN OVERVIEW OF STAFF’S MODELING APPROACH.
+A.As mentioned, Staff conducted its own independent modeling analysis using the Aurora production cost and resource optimization modeling tool. Staff performed an integrated analysis that concurrently optimized the selection of RFP and Supplemental resources to satisfy the Company’s capacity needs. Details regarding the assumptions Staff relied on are included in Exhibit NHW-6. Also, many of the details of Staff’s modeling methodology were discussed extensively in Staff’s 2025 IRP direct testimony (Docket No. 56002, filed May 5, 2025).
+Q.WHAT SCENARIOS DID STAFF EVALUATE IN THIS PROCEEDING?
+A.Staff evaluated three load forecast cases, including the Company’s B2026 load forecast view, Staff’s large load “Contracts Only” case (Scenario 1), and Staff’s adjusted load forecast case (Scenario 2). Staff’s load forecasts are discussed extensively in Staff’s load panel testimony. The load forecasts Staff relied on for its modeling studies are summarized in Table 10 below. Staff included all three load forecasts in its Aurora modeling. By doing this, Staff’s resource ranking results were conservative, as Staff selected additional resources beyond what Staff may otherwise have selected if it had relied only on its own load forecasts.
+Table 10: Staff Load Forecasts Modeled in Aurora
+(Winter Peak Demand MW)
+
+ 
+GPC
+B2026 
+(Sept 2025)
+Staff 1 Contracts
+Only
+Staff 2 Adjusted Forecast
+2025/2026
+16,617
+ 16,612 
+ 16,361 
+2026/2027
+17,507
+ 17,020 
+ 16,683 
+2027/2028
+19,717
+ 18,044 
+ 18,173 
+2028/2029
+21,975
+ 19,166 
+ 19,901 
+2029/2030
+23,701
+ 19,920 
+ 21,247 
+2030/2031
+25,065
+ 20,559 
+ 22,323 
+Staff relied on its 2025 IRP TRM of approximately 24.5% on a system basis, and performed fuel sensitivity evaluations using the Company’s MG0, HG0, and MG0-111 cases.  Staff’s HG0 and MG0 cases were setup identically except for the difference in the fuel cost. Staff’s MG0-111 case was setup to reflect the Company’s MG0-111 Generation Mix study, to co-fire the Scherer and Bowen coal units, and to limit CC units to a 40% annual capacity factor.  Staff performed nine Aurora runs based on the three load forecasts evaluated against the three fuel/CO2 scenarios to produce results that could then be further evaluated to derive a selection of resources based on a risk adjusted ranking.
+Q.WHAT WERE THE RESULTS OF STAFF’S EVALUATION?
+A.The results of Staff’s evaluation are presented in Table 11 below. The final column to the right in the table, the “% Take” column, identifies the percentage of the nine runs that each resource was selected in.  For example, the Tenaska Heard CT PPA resource was selected in more runs (89%) compared to all of the other available resources, and the McIntosh Unit 12 CC resource was selected in the fewest runs (11%) compared to all of the other resources.  Staff considers the “% take” metric to be an indication of a risk adjusted economic resource decision. If a resource was selected across multiple load forecasts and fuel/CO2 futures, then it can reasonably be expected to provide more value than a resource selected less often. 
+
+Table 11: Staff Aurora Results
+
+ 
+Staff Rank
+Project
+COD
+% Take
+RFP
+*
+Mid Georgia Cogen PPA
+6/1/2028
+*
+RFP
+*
+Dahlberg 4 CT PPA 
+6/1/2030
+*
+RFP
+*
+Harris 1 CC PPA
+6/1/2030
+*
+RFP
+*
+Sandersville CT PPA
+12/1/2030
+*
+Supp
+5
+Tenaska Heard CT PPA 
+6/1/2030
+89%
+RFP
+6
+Thomson BESS COP
+11/1/2029
+78%
+RFP
+7
+Wansley Units 10-11 CC COP 
+11/1/2029
+72%
+RFP
+8
+Hammond Phase II BESS COP
+11/1/2030
+67%
+RFP
+9
+Wansley BESS COP
+11/1/2028
+56%
+RFP
+10
+Bowen Unit 7-8 CC COP
+11/1/2029
+50%
+RFP
+11
+Yates Phase I BESS COP
+11/1/2028
+44%
+RFP
+12
+Bowen Phase I BESS COP
+11/1/2028
+44%
+RFP
+13
+Laurens County BESS + Solar COP
+11/30/2028
+44%
+RFP
+14
+Mitchell BESS + Solar COP
+11/30/2028
+44%
+RFP
+15
+Bowen Phase II BESS COP
+11/1/2029
+44%
+Supp
+16
+NEER Dougherty County PPA
+12/1/2027
+33%
+RFP
+17
+Yates Phase II BESS COP 
+11/1/2028
+33%
+Supp
+18
+Wadley BESS COP
+11/30/2027
+33%
+Supp
+19
+NEER White Pine BESS PPA
+12/1/2027
+33%
+Supp
+20
+NEER Washington County BESS PPA
+12/1/2027
+33%
+Supp
+21
+NEER White Oak PPA
+12/1/2027
+33%
+Supp
+22
+NEER Decatur BESS PPA
+12/1/2027
+33%
+RFP
+23
+McIntosh BESS COP
+11/1/2030
+33%
+RFP
+24
+South Hall BESS COP
+11/1/2028
+11%
+RFP
+25
+McIntosh Unit 12 CC COP
+11/1/2030
+11%
+The first four resources in the table above are low-cost existing resources that have existing interconnection agreements. These resources are low risk as they will not be subject to cost overruns or delays. Staff locked these resources in for modeling purposes as Staff conducted its Aurora optimization runs. The remaining RFP and Supplemental resource options were modeled as selectable resources in the nine load/fuel/CO2 optimization runs. The paired CCs at Wansley and Bowen were modeled separately to allow the availability of resources to match the capacity need date. The determination of the number of cases that each resource was selected in (% Take) was highly dependent on the load forecasts Staff used. Because Staff evaluated a range of load forecasts, including Georgia Power’s load forecast, and different fuel/CO2 assumptions, the selection of resources differs in each of Staff’s run. Generally, the resources selected in more cases represent lower risk, more economic resource selections across all load materialization assumptions. Staff’s results are provided in STF-NHW-6.
+Q.WHICH RESOURCES DOES STAFF RECOMMEND BE CERTIFIED?
+A.Because Staff anticipates that less large load will materialize in the near term based on the load forecast that includes executed load contracts, Staff recommends the Commission approve the acquisition of fewer resources than the Company recommends. The following table shows the resources that Staff recommends be certified, conditionally approved, or rejected.  
+
+Table 12: Staff Recommendations 
+ 
+Staff Rank
+Project
+COD
+% Take
+Nominal MW
+Cum MW
+Staff Rec.
+RFP
+*
+Mid Georgia Cogen PPA
+6/1/2028
+*
+317
+317
+Certify
+RFP
+*
+Dahlberg 4 CT PPA 
+6/1/2030
+*
+74
+391
+Certify
+RFP
+*
+Harris 1 CC PPA
+6/1/2030
+*
+658
+1,049
+Certify
+RFP
+*
+Sandersville CT PPA
+12/1/2030
+*
+146
+1,195
+Certify
+Supp
+5
+Tenaska Heard CT PPA 
+6/1/2030
+89%
+930
+2,125
+Certify
+RFP
+6
+Thomson BESS COP
+11/1/2029
+78%
+500
+2,625
+Certify
+RFP
+9
+Wansley BESS COP
+11/1/2028
+56%
+500
+3,125
+Certify
+RFP
+7
+Wansley Units 10-11 CC COP 
+11/1/2029
+72%
+1,453
+4,578
+Conditional
+RFP
+8
+Hammond Phase II BESS COP
+11/1/2030
+67%
+192.5
+4,771
+Conditional
+RFP
+11
+Yates Phase I BESS COP
+11/1/2028
+44%
+320
+5,091
+Conditional
+RFP
+10
+Bowen Unit 7-8 CC COP
+11/1/2029
+50%
+1560
+6,573
+Conditional
+RFP
+12
+Bowen Phase I BESS COP
+11/1/2028
+44%
+250
+6,823
+Conditional
+RFP
+13
+Laurens County BESS + Solar COP 
+11/30/2028
+44%
+200
+7,023
+Conditional
+RFP
+14
+Mitchell BESS + Solar COP
+11/30/2028
+44%
+150
+7,173
+Conditional
+RFP
+15
+Bowen Phase II BESS COP
+11/1/2029
+44%
+250
+7,423
+Conditional
+Supp
+16
+NEER Dougherty County BESS PPA
+12/1/2027
+33%
+120
+7,543
+Reject
+RFP
+17
+Yates Phase II BESS COP
+11/1/2028
+33%
+250
+7,793
+Reject
+Supp
+18
+Wadley BESS COP
+11/30/2027
+33%
+260
+8,053
+Reject
+Supp
+19
+NEER White Pine BESS PPA
+12/1/2027
+33%
+100
+8,153
+Reject
+Supp
+20
+NEER Washington County BESS PPA
+12/1/2027
+33%
+150
+8,303
+Reject
+Supp
+21
+NEER White Oak BESS PPA
+12/1/2027
+33%
+76
+8,379
+Reject
+Supp
+22
+NEER Decatur BESS PPA
+12/1/2027
+33%
+200
+8,579
+Reject
+RFP
+23
+McIntosh BESS COP
+11/1/2030
+33%
+250
+8,829
+Reject
+RFP
+24
+South Hall BESS COP
+11/1/2028
+11%
+250
+9,079
+Reject
+RFP
+25
+McIntosh Unit 12 CC COP
+11/1/2030
+11%
+757
+9,836
+Reject
+Supp
+N/A
+MPC PPA
+1/1/2029
+N/A
+50
+9,886
+Reject
+Staff recommends the “Conditional” resources identified in the table above be conditionally approved to address any new additional large load contracts under the Commission’s new rules and regulations that are executed by March 16, 2026.
+Q.HOW DID STAFF DETERMINE WHICH PROJECTS SHOULD BE CERTIFIED, CONDITIONALLY APPROVED, OR REJECTED?
+A.Staff’s recommendations were based on the relative ranking of the projects and the amount of capacity needed. Staff’s recommendation of 3,125 MW Nominal (3,091 MW winter) of resources to be certified exceeds the capacity deficit of 2,786 MW by 305 MW based on Staff’s Scenario 1 load forecast, and provides a cushion for additional data center load growth. The last resource Staff included in its recommended certification list was the 500 MW Wansley BESS resource. Table 12 above indicates the Wansley CC resource had a greater % Take value (72%) compared to the Wansley BESS resource (56%), yet if the Wansley CC resource were selected, it would result in the Company acquiring additional excess capacity (953 MW). Also, the Wansley CC units would require an additional year before being available compared to the Wansley BESS resource. Therefore, Staff selected the Wansley BESS resource as part of the resources it recommends be certified. 
+Staff has included a significant amount of capacity in the “Conditional” category to fill a capacity need should additional large-load contracts be signed by March 16, 2026. 
+Finally, the resources recommended to be rejected are even more expensive resources; however, rejected BESS resources could bid into other Georgia Power competitive solicitations, such as the ongoing ESS RFP or the next all-source capacity RFP. The Company’s thermal proposals could be updated and considered again in future proceedings based on then-current cost estimates and schedule.  
+Q.DOES STAFF’S PLAN MEET THE NEEDS OF THE SYSTEM?
+A.Yes. Staff’s recommended resources provide sufficient reliability for known and contracted load with a cushion of 305 MW, and the conditional resources provide additional resources that could be relied on to accommodate additional large-load customers that may be added to the system prior to March 16, 2026. Staff’s plan maintains resource diversity and manages resource additions based on contract load materialization. Staff’s plan helps to manage resource additions closer to the forecasted need, minimizing overcapacity and cost risk.
+Q.IF THE COMMISSION PREFERRED TO ALLOW THE COMPANY TO ACQUIRE MORE RESOURCES TO SERVE ADDITIONAL LARGE-LOAD BEYOND CONTRACTED LOAD, WHICH RESOURCES DOES STAFF RECOMMEND BE CERTIFIED?
+A.Consistent with the Staff Scenario 2 load forecast, Staff recommends an additional 1,966 MWs of capacity be approved, including the Wansley 10 and 11 CC, Hammond Phase II BESS, and Yates Phase I BESS units. These units appear in Table 12 as the next economic conditional units that should be selected, while avoiding significant excess capacity with the acquisition of Bowen CC Units 7 and 8.  Staff’s recommendation to certify only 3,125 MW, would result in approximately $xxx million in 2031 alone, on a fixed cost revenue requirement basis. Staff’s proposal would result in approximately $ xxx billion less revenue requirement than the Company’s request, which is estimated to be approximately $ xxx billion. Staff’s Scenario 2 portfolio, including the Wansley CCs, Hammond BESS Phase II, and Yates BESS Phase I, would result in a revenue requirement of approximately $ xxx  billion in 2031, or approximately twice the revenue requirement associated with Scenario 1. 
+OTHER RISKS AND COST CONSIDERATIONS
+Additional Sum
+Q.WHAT IS THE BASIS FOR THE COMPANY’S REQUEST FOR A $3/KW-YEAR ADDITIONAL SUM FOR ALL PPAS? 
+A.The O.C.G.A. § 46-3A-8 provides for the Company to receive an Additional Sum for long-term power purchases, and requires lost revenues, changed risks, and an equitable sharing of benefits between the utility and its retail customers to be considered in establishing the Additional Sum amount. The sole reason the Company’s testimony provided for selecting $3/kW-year as the Additional Sum was that it had been approved for certain other PPAs that were previously certified.       
+Q.DOES STAFF AGREE THAT $3/KW-YEAR IS THE VALUE THAT SHOULD BE USED AS THE ADDITIONAL SUM FOR ALL PPAS TO BE CERTIFIED?
+A.No. In light of the significant increase in revenue requirements that customers will be asked to pay for all of the new resources, Staff does not believe that $3/kW-year represents an equitable sharing of benefits between customers and the Company, and instead Staff recommends that $2.30/kW-year be used for all PPAs. 
+Q.WHY DOES STAFF BELIEVE IT IS FAIR TO USE $2.30/KW AS THE ADDITIONAL SUM VALUE?
+The Company selected $3/kW-year as the Additional Sum value because certain prior PPAs used that value. As it turns out, several of the PPAs that the Company is seeking certification in this proceeding, including Tenaska Heard, Dahlberg 4, and Harris 1, were previously certified as PPAs in prior proceedings, and for those PPAs the Company was approved to charge customers an Additional Sum value of $2.30/kW-year. In addition, the Company’s response to STF-PIA-3-13 indicates that out of 18 PPA contracts that are currently in existence and that have a firm Additional Sum value, 56% of them have an Additional Sum value of $2.30, which again is lower than the $3/kW-year the Company is requesting in this proceeding.
+Q.WHAT OTHER RECOMMENDATIONS DOES STAFF HAVE REGARDING THE ADDITIONAL SUM CUSTOMER CHARGE?
+A.As a result of Staff’s ranking analysis, discussed above, Staff recommends that the MPC PPA be rejected. However, should the Commission ultimately decide to accept the MPC PPA, Staff recommends that customers should not be charged an Additional Sum for that resource. The reason is that the O.C.G.A. § 46-3A-8 provides for the Company to receive an Additional Sum for “long-term power purchases,” and the MPC PPA is a one-year transaction, which makes it a short-term power purchase. Therefore, if the Commission were to certify the MPC PPA, customers should not be charged an Additional Sum for that PPA. 
+Q.DOES STAFF HAVE AN ADDITIONAL SUM RECOMMENDATION REGARDING THE NEER BESS SUPPLEMENTAL RESOURCES?
+A.Yes. As a result of Staff’s ranking analysis, Staff recommended the NEER BESS resources be rejected. However, should the Commission ultimately decide to accept any of the NEER BESS resources, Staff recommends that customers should only be required to pay a $2.30/ kw-year Additional Sum charge based on the reliable capacity associated with those resources. Staff’s reason is that BESS resources are typically discounted in the Company’s load and resource balance tables because they can only be dispatched for four hours at a time, or because the amount of capacity they can deliver is limited based on an interconnection limit.  As a result, some BESS resources are unable to fully provide the same reliable capacity value as other resources. As an example, a 100 MW BESS resource may only provide 80% capacity value or 80 MW, so the Additional Sum should be calculated based on 80 MW rather than 100 MW. For this reason, Staff recommends that for any NEER BESS PPA resource the Commission certifies, the Additional Sum amount for those PPAs should be derived based on the ELCC adjusted capacity value.
+Combined Cycle Proposals
+Q.WHAT COMBINED CYCLE PROJECTS AND COSTS DID THE COMPANY IDENTIFY IN THE RFP AND BRING FORTH FOR CERTIFICATION?
+A.The Company identified three existing plant sites where it proposes building five CC units.  The proposed CC projects include two at Wansley (Units 10 and 11), two at Bowen (Units 7 and 8), and one at McIntosh (Unit 12). Table 13 shows the Company’s estimated cost associated with those projects.
+
+Table 13: CC Project Costs 
+
+Bowen CC
+Wansley CC
+McIntosh CC (BV)
+ESA Contract
+
+
+EPC Contract
+
+
+Planning
+
+
+Engineering/Design & Construction
+
+
+Startup
+
+
+Dalton Contributions
+
+
+Transmission
+
+
+Gas Lateral
+
+
+Contingency
+
+
+AFUDC
+
+
+Ad Valorem
+
+
+Total Projected Cost
+
+
+Contingency %
+
+
+Q.IS STAFF CONCERNED ABOUT THE COSTS GEORGIA POWER PROPOSED FOR THE COP CC UNITS, WHICH WERE THE ONLY CC RESOURCES BID IN THE RFP?  
+A.Yes. While Staff understands that the CC units were selected based on a competitive solicitation process, it is still informative to compare the CC costs to other similar CC projects. For example, KU/LGE recently requested certification two build two new 1x1 CCs (Brown 12 and Mill Creek 6) for approximately $1.4 billion each, including a 10% contingency. Also, Oglethorpe Power Company has announced its intention to build two 1x1 CCs in Monroe County for more than $3 billion. Staff understands that there may be differences between projects in what is included in the reported costs; however, the large difference in these costs raises a concern that Georgia Power’s CC project costs may be relatively high.
+Q.ARE THERE REASONS THAT COST OVERRUNS AND/OR DELAYS COULD OCCUR BEYOND THE IDENTIFIED CERTIFIED COST?  
+A.Yes, Georgia Power’s has had an extensive history of delays and cost overruns on generation projects and given the magnitude of the Company’s proposed build program, and the current highly inflationary environment for generating equipment and labor costs, Staff is concerned that there is a significant chance that delays and cost overruns could occur at these projects. Limiting the amount of new construction provides an opportunity for the Company to more closely focus on these projects and prevent cost overruns. 
+As many utilities in the U.S. are currently pursuing new gas-fired resources, labor and capital costs for new combustion turbines could continue to increase. In addition to the KU/LGE and Oglethorpe CC projects mentioned above, other CC projects in the Southeast include three 1x1 CCs that Entergy plans to serve new data center load, three 1x1 CCs that DESC and Santee Cooper have proposed in South Carolina, a 2x1 CC Duke Energy Progress plans to construct in Person County, North Carolina, and a 2x1 CC Duke Energy Carolinas plans to construct in Anderson County, South Carolina. 
+Given the risks of delays and potential for cost overruns, and the fact that the Company has already embedded contingencies in its cost estimates, Staff recommends the Company’s RFP and Supplemental projects should be held to the same standard for cost overruns that third party bids are held to, and should be required to follow the same monitoring requirements that were approved for the Plant Yates CTs in the Commission Order in Docket No. 55378, signed August 29, 2024. 
+Q.DOES STAFF HAVE ANY CONCERNS REGARDING NATURAL GAS FIRM TRANSPORTATION (“FT”) RISKS? 
+A.Yes. While Staff is not recommending any CC resources be certified, additional large-load contracts could make it necessary to add additional generation capacity, in which case it may be economic to add CC resources. Currently, CC COP resources are listed as conditional resources, but if they become necessary, Staff is concerned that there are natural gas FT risks as pipelines would need to be constructed or modified by interstate pipeline companies on the timeline necessary to be able to supply the proposed CC resources. 
+Q. DOES STAFF HAVE CONCERNS ABOUT THE DALTON LATERAL BEING BUILT TO SUPPLY GAS FOR THE BOWEN CC UNITS?
+A.Yes. It appears the Company has entered into a pipeline Precedent Agreement that will provide an excess amount of gas needed for the two Bowen CC units it has proposed. The current Precedent Agreement for the Dalton lateral reflects a build-out equivalent to four CC units. Staff recommends the Company provide additional clarity on its intentions to acquire FT capacity for the Bowen Units and explain if it will be contracting for more FT capacity than needed for the two proposed Bowen CC Units. 
+Q. IS IT REASONABLE FOR STAFF TO BE CONCERNED ABOUT FT COSTS?
+A.Yes. Additional FT costs to supply natural gas to new CC capacity reflect a significant cost customers would be expected to pay. Again, Staff is not proposing any CC projects be certified; however the Company has requested the authority to construct five CC resources, and the FT costs it has proposed are significant, resulting in a cost of approximately $xxx million per year as shown in Table 14. 
+Table 14: Company Proposed New FT Costs 
+($million)
+Facility Name
+Transport Pipeline
+ Fixed Intrastate FT Cost (Annual) 
+ Fixed Lateral FT Cost (Annual) 
+Fixed Storage Cost (Annual)
+Total Cost
+(Annual)
+
+
+Bowen Unit 7-8 (CC) 
+
+
+Wansley Unit 10-11 (CC) 
+
+
+McIntosh Unit 12 (CC) 
+
+
+Total FT Cost (Company)
+
+
+Q. DOES STAFF HAVE ANY RECOMMENDATIONS REGARDING PIPELINE CONSTRUCTION? 
+A.Should the Company be approved to construct additional CC capacity, Staff recommends that the Company include additional justification for its pipeline plans, and it should include in construction monitoring reports status update information regarding third party FT pipeline construction / modifications, and Company-Owned lateral pipeline projects necessary to supply gas to the CCs. The status updates should include information regarding the status of FERC pipeline approvals. 
+BESS Resources
+Q.DOES STAFF HAVE ANY CONCERNS ABOUT THE COMPANY’S PROPOSED BESS RESOURCE PROJECTS? 
+A.Yes. Staff is concerned that while the Company is seeking certification for nine RFP BESS projects, it has not yet entered into System Sale and Purchase Agreements (“SSPA”) and Long-Term Commitment Agreements (“LTCA”) for four of the projects, including the Bowen Phase II, Thomson, Hammond Phase II, and McIntosh BESS projects. Despite having been selected in the RFP process based on costs the Company bid, the four projects are just in the early stages of development and there could be significant risks that affect the costs customers will have to pay for the projects. 
+Q.DOES STAFF HAVE ANY CONCERN ABOUT THE BESS TRANSMISSION INTERCONNECTIONS?
+A. Yes. The Company has indicated it is “…. currently performing outage coordination studies to determine the feasibility of implementing all interconnection and delivery projects required to meet the commercial operating dates of all of the bids in the All-Source RFP.”  If the resources cannot be interconnected on a timely basis, or the BESS projects encounter higher interconnection costs than expected, then this is another risk that could affect customer bills.
+Q.IS STAFF CONCERNED THE COP BESS PROJECTS COULD EXPERIENCE DELAYS AND COST OVERRUNS?
+A. Yes. Staff has this concern partly because the Company is relying on contractors who have never completed BESS projects for the Company before, including Overland, DEPCOM, and Crowder. Table 15 shows all of the BESS projects that the Company is planning to construct. The table indicates that SCS TSS and Burns and McDonnell will also be the EPC contractor for some of the projects.
+Table 15: BESS EPC Contractors and Associated Costs 
+$million
+
+
+Facility Name
+Nominal Capacity
+MW
+EPC Contractor
+Total Cost w/ AFUDC & Ad Valorem
+RFP
+South Hall BESS 
+250 
+DEPCOM
+xxx
+RFP
+Bowen Phase I BESS 
+250 
+Crowder
+xxx
+RFP
+Wansley BESS 
+500 
+Overland
+xxx
+RFP
+Yates 320 MW BESS 
+320 
+Overland
+xxx
+RFP
+Yates 250 MW BESS 
+250 
+Overland
+xxx
+RFP
+Bowen Phase II BESS 
+250 
+Crowder
+xxx
+RFP
+Thomson BESS 
+500 
+Overland
+xxx
+RFP
+Hammond Phase II BESS 
+192.5 
+Crowder
+xxx
+RFP
+McIntosh BESS 
+250 
+SCS TSS
+xxx
+RFP
+Laurens County BESS + Solar 
+200 
+DEPCOM
+xxx
+RFP
+Plant Mitchell BESS + Solar 
+150 
+DEPCOM
+xxx
+Supp
+Wadley BESS
+260
+B&McD
+xxx
+Staff is also concerned about the fact that to date, only one of the Company’s BESS project have become operational. The Mossy Branch BESS unit reached commercial operation on October 17, 2024, one year behind its estimated COD of September 2023. Because of concerns about the possibility of delays, cost overruns, and new contractor management, as discussed above, Staff recommends that the Company be required to perform quarterly construction monitoring activities, consistent with the monitoring reports provided in Docket 56143.
+Q.IS THE COMPANY PROPOSING TO MANAGE CONTINGENCY COSTS ON A PORTFOLIO BASIS FOR THE PROPOSED RESOURCES IN THIS CASE?
+A. Yes.  The Company explained its preference for managing contingency at the portfolio level rather than by each individual project in discovery response STF-PIA-10-6. The Company explained that in managing contingency at the portfolio level, “the Company tracks all spending at the project level, but all projects collectively are accountable to the portfolio certified amount.” 
+Q.WHAT IS STAFF’S RECOMMENDATION REGARDING THE COMPANY’S “PORTFOLIO CONTINGENCY” PROPOSAL?
+A. Staff recommends rejecting the Company’s “portfolio” based contingency proposal. The savings from completing an individual project under the certified amount should accrue to the ratepayers benefit and not to the Company’s benefit. Under the Company’s proposal, any savings on an individual project would be used to offset cost overruns on another project. Savings from a project should not be used to eliminate examination and review of cost overruns on another project. Staff recommends the Company be held to the certified cost estimates on an individual project basis.
+High Load Factor Load Impacts
+Q.COULD HIGH LOAD FACTOR CUSTOMERS CAUSE AN INCREASE IN AVERAGE FUEL COSTS?
+A. Yes. Georgia Power and the Southern Company System’s base load capacity needs are expected to increase with the addition of the high load factor load.  Figure 3 provides a historical view and a projection of Georgia Power and the Southern Company’s load and load factor, which shows that both will increase significantly over time.  
+Figure 3: Historic vs. Project Load Factor 
+
+
+Higher load factors may result in less fuel-efficient generators such as CTs running more and increasing fuel costs for all customers.  There may also be a shift in the energy needs of the system as new high load factor loads are added, and the impacts should be investigated in future Fuel Cost Recovery (“FCR”) proceedings.
+Q.IS IT POSSIBLE THAT HIGH LOAD FACTOR CUSTOMERS COULD REDUCE IMPACTS ON FUEL COSTS AND CAPACITY INVESTMENTS THROUGH PARTICIPATION IN FLEXIBLE LOAD PROGRAMS?
+A.  Yes. The Company’s requests in this case did not consider the possibility of large load customers participating in flexible load, DSM, curtailment programs, or behind the meter generation programs.  If the anticipated high load factor data center loads were to agree to be curtailable or be considered non-firm for planning purposes, these customers could likely be added to the system more quickly, reduce fixed costs and capacity investment, and help to reduce high energy costs in peak hours. The Company indicated there may be opportunities for these customers to participate in flexible load programs, and the Company stated it is optimistic that its discussions with large load customers may lead to additional program participation.  
+Q.DOES THIS CONCLUDE YOUR TESTIMONY?
+A.Yes, it does.
+
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+GEORGIA POWER COMPANY’S)DOCKET NO. 56298
+APPLICATION FOR THE CERTIFICATION OF)
+THE 2029-2031 ALL-SOURCE CAPACITY RFP)
+
+CERTIFICATION OF SUPPLEMENTAL)DOCKET NO. 56310
+RESOURCES FOR 2028-2031 CAPACITY)
+
+
+EXHIBITS
+
+
+ON BEHALF OF THE 
+
+
+GEORGIA PUBLIC SERVICE COMMISSION
+PUBLIC INTEREST ADVOCACY STAFF
+
+
+NOVEMBER 12, 2025
+
+
+EXHIBIT
+
+STF-NHW-1   Tom Newsome Resume
+
+
+Summary of Educational and Professional Experience of Tom J. Newsome
+
+Mr. Newsome received a Bachelor of Chemical Engineering with certificates in Pulp & Paper and Polymers from the Georgia Institute of Technology in June 1986.  In 1994, Mr. Newsome passed both required examinations and received a professional engineering license (PE) from the State of North Carolina. Mr. Newsome received a Master of Science in Business Economics and a Master of Science in Finance from Georgia State University in August 1996 and June 1997, respectively. Mr. Newsome is the recipient of the George J. Malanos Graduate Award for Academic Excellence for completing the finance program with a 4.0 grade-point average. In 2003, Mr. Newsome received Chartered Financial Analyst (CFA) designation from the CFA Institute after successfully completing three six-hour examinations on security analysis and portfolio management.
+After graduation from Georgia Tech, Mr. Newsome worked as plant/process engineer for Shaw Industries, a carpet manufacturer. In April 1988, Mr. Newsome joined Weatherly, Inc., engineering and construction firm specializing in fertilizer plants, as a process engineer. Mr. Newsome’s primary responsibilities were process design and plant start-ups, including start-ups in Korea and India. Mr. Newsome joined Midrex Direction Reduction Corp., an applied research, engineering and construction firm with proprietary iron ore processing plant technology in March 1993 as a process engineer. Mr. Newsome duties were similar to those at Weatherly, including assisting in the start-up of the world’s largest Direct Reduction Iron plant in India.
+Following graduation from graduate school at Georgia State, Mr. Newsome joined Georgia Gulf Corporation in 1997 as a corporate development analyst. While at Georgia Gulf, Mr. Newsome performed financial analysis and modeling for natural gas purchasing/hedging program, developed a “make-or-buy” model for methanol business, performed financial modeling for an acquisition, and calculated and summarized the financial performance of prior capital investments. In 1999, Mr. Newsome joined FMV Opinions, Inc. as a business valuation analyst and valued private companies for gift and estate tax, transactional and management planning purposes.
+Mr. Newsome joined the Georgia Public Service Commission (“Commission”) in January 2005 as a Financial Analyst/Economist. Mr. Newsome was promoted to Director of Utility Finance in 2008.
+Mr. Newsome has testified in twenty-five Georgia Power Company (“Company” or “Georgia Power”) proceedings before the Commission. 
+Mr. Newsome’s most recent testimony was in Docket 56002 Georgia Power’s 2025 Integrated Resource Plan (IRP). Prior to that, Mr. Newsome testified in Docket 55378 in 2023 IRP Update Docket 29849 in 28th Vogtle Construction Monitoring (“VCM”). Prior to that, Mr. Newsome testified in Docket 44902 Fuel Cost Recovery (FCR-26). Prior to that Mr. Newsome’s testified in Docket 29849 26th and 27th VCMs. Prior to that Mr. Newsome testified in Docket 44160 Integrated Resources Planning on supply side resources. Prior to that Mr. Newsome testified in Docket 29849 23rd Vogtle Construction Monitoring (“VCM”), 24th VCM and 25th VCM on Vogtle economics. Prior to that was testimony in 22nd VCM and in Docket 43011 Fuel Cost Recovery (FCR-25) on the Company’s hedging program and certain other issues. Prior to that Mr. Newsome’s testified in Docket 29849 20th / 21st Vogtle Construction Monitoring (“VCM”) on Vogtle economics. Prior to that Mr. Newsome’s testified in Docket 42310 Georgia Power Company’s 2019 Integrated Resource Plan on supply side and certain other issues. Prior to that testimony Mr. Newsome testified in Docket 29849 19th Vogtle Construction Monitoring (“VCM”), 18th VCM and 17th VCM on the economics of continuing Vogtle 3 and 4 construction and provided the Commission policy recommendations to protect ratepayers. Prior to testifying in the 17th VCM Mr. Newsome testified in the 2016 Integrated Resource Plan on the Company’s requested to capitalize cost for investigation of new nuclear units. Mr. Newsome’s testified in Docket No. 39638 Fuel Cost Recovery (FCR-24) on the Company’s natural gas hedging program. In Docket No. 22403, Mr. Newsome addressed Georgia Power Company’s natural gas hedging program and in Docket No. 24506 Mr. Newsome testified on the application of AFUDC accounting for calculating financing cost of capital projects. In Docket No. 27800, Certification of Plant Vogtle Expansion, Mr. Newsome addressed the sources, impact and mitigation of financial risk from the construction and operation of new nuclear units at Plant Vogtle.  Mr. Newsome testified in Docket No. 29849 concerning Georgia Power’s First Semi-annual Construction Monitoring Report on Plant Vogtle expansion.  Mr. Newsome evaluated the economic analysis performed by Georgia Power and developed Staff’s own independent economic and risk analysis of the Project. In the Second Vogtle Semi-annual hearing, Mr. Newsome testified on the Company’s proposal to change how escalation on certain project cost was calculated (Amendment 3).  In the Third Vogtle Semiannual hearing and in separate proceeding, Adoption of a Risk Sharing Mechanism, Mr. Newsome testified on Staff’s revised risk sharing mechanism for Vogtle 3 & 4.  In Docket No. 28945 Fuel Cost Recovery FCR–21, Mr. Newsome testified on seasonal rates.  Mr. Newsome also presented cost of equity testimony in Atmos Energy Corporation’s Rate Case in Docket No. 30442 and Generic Proceeding to Implement House Bill 168 (small telephone companies) in Docket No. 32235 in 2011 and 2018. Mr. Newsome provided testimony before the Commission in Georgia Power’s 2013 Base Rate Case in Docket No. 36989 on the Company’s projected cost of debt for 2014 – 2016. Mr. Newsome’s primarily responsibility, prior to presenting testimony in these dockets, has been performing analyses of the parties’ cost of equity capital positions in Docket Nos. 18638 (Atlanta Gas Light Company 2004/2005 Rate Case), 19758 (Savannah Electric and Power Company 2004 Rate Case), 20298 (Atmos Energy Corporation - Georgia Division 2005 Rate Case), 25060 (Georgia Power Co. 2007 Rate Case) and 27163 (Atmos Energy Corporation - Georgia Division 2008 Rate Case) and developing the Advisory PIA Staff’s cost of equity recommendation to the Commission.
+
+
+EXHIBIT
+STF-NHW-2   Philip Hayet Resume
+
+EDUCATION/CERTIFICATION
+
+M.S., Electrical Engineering, Georgia Institute of Technology, 1980
+B.S., Electrical Engineering, Purdue University, 1979
+Cooperative Education Certificate, Purdue University, 1979
+
+PROFESSIONAL AFFILIATIONS
+
+National Society of Professional Engineers
+Georgia Society of Professional Engineers
+Institute of Electrical and Electronic Engineers
+
+EXPERIENCE
+
+Since completing his Master’s program, Mr. Hayet worked for fifteen years at Energy Management Associates, now Ventyx, providing consulting services and client service support to electric utility companies for the widely used planning models, PROMOD IV and STRATEGIST.  Mr. Hayet had an instrumental role in designing some of the modeling features of those tools including the competitive market modeling logic in STRATEGIST.        
+
+In 1995, Mr. Hayet formed the utility consulting firm, Hayet Power Systems Consulting (“HPSC”), and worked for customers in the United States, and internationally in Australia, Japan, Singapore, Malaysia, the United Kingdom, and Vietnam.  Mr. Hayet provided consulting services to Public Utility Commissions, Regional Power Pools, State Energy Offices, Consumer Advocate Offices, Electric Utilities, Global Power Developers, and Industrial Companies.  Mr. Hayet’s expertise covers a number of areas including utility system planning and operations, RTO analysis, market price forecasting, Integrated Resource Planning, renewable resource evaluation, transmission planning, demand-side analysis, and economic analysis.  
+
+In 2000, Mr. Hayet also joined the consulting firm of J. Kennedy & Associates, Inc. (“Kennedy and Associates”) and assisted on projects that required utility resource planning, analysis, and software modeling expertise.  Mr. Hayet merged his firm and became a Vice-President and Principal of Kennedy and Associates in 2015.   
+
+Mr. Hayet has conducted numerous consulting studies in the areas of RTO Cost/Benefit Analysis, Renewable Resource Evaluation, Renewable Portfolio Standards Evaluation, Electric Market Price Forecasting, Generating Unit Cost/Benefit Analysis, Integrated Resource Planning, Demand-Side Management, Load Forecasting, Rate Case Analysis and Regulatory Support. 
+
+
+2000 toJ. Kennedy and Associates, Inc.   
+Present:Vice President and Principal
+
+Began in 2000 as Director of Consulting.
+Became Vice President and Principal in 2015 when Hayet Power Systems Consulting merged with J. Kennedy and Associates, Inc. 
+Managed electric related consulting projects. 
+Responsible for business development.
+Clients include Staffs of Public Utility Commissions and other State Agencies, State Energy Offices, Global Power Developers, and Industrial Groups, and large energy users.  
+
+1996 toHayet Power Systems Consulting 
+2015:President and Principal
+
+Managed electric utility related consulting projects
+Clients include Staffs of Public Utility Commissions and other State Agencies, State Energy Offices, Global Power Developers, and Industrial Groups, and large energy users.  
+Merged with J. Kennedy and Associates, Inc. in 2015
+
+1991 toEDS Utilities Division, Atlanta, GA (Now Ventyx)
+1996:Lead Consultant, PROSCREEN (Now STRATEGIST) Department
+
+Managed a client services software team that supported approximately 75 users of the STRATEGIST electric utility strategic planning software.
+Participated in the development of STRATEGIST’s competitive market modeling features and the Network Economy Interchange Module
+Provided client management direction and support, and developed new consulting business opportunities.
+Performed system planning consulting studies including integrated resource planning, DSM analysis, marketing profitability studies, optimal reserve margin analyses, etc.
+Based on experience with PROMOD IV, converted numerous PROMOD IV databases to STRATEGIST, and performed benchmark analyses of the two models. 
+
+1988 to Energy Management Associates (EMA), Atlanta, GA
+1991:Manager, Production Analysis Department 
+
+Served as Project Manager of a database modeling effort to create an integrated utility operations and generation planning database.  Database items were automatically fed into PROMOD IV. 
+Supervised and directed a staff of five software developers working with a 4GL database programming language.
+Interfaced with clients to determine system software specifications, and provide ongoing client training and support 
+
+1980 toEnergy Management Associates (EMA), Atlanta, GA
+1988:Senior Consultant, PROMOD IV Department
+
+Provided client service support to EMA’s base of over 70 electric utility customers using the PROMOD IV probabilistic production cost simulation software.
+Provided consulting services in a number of areas including generation resource planning, regulatory support, and benchmarking.
+
+
+TESTIMONY AND EXPERT WITNESS APPEARANCES
+
+Date
+Case
+Jurisdict
+Party
+Utility
+Subject
+09/98
+97-035-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Utah jurisdictional Net Power Costs, PacifiCorp Rate Case Proceeding
+07/01
+01-035-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Utah Jurisdictional Net Power costs in General Rate Case
+2001
+ER00-2854-000
+FERC
+Louisiana Public Service Commission
+Entergy
+Proposed System Agreement Modifications 
+07/02
+02-035-002
+UT
+Utah Committee for Consumer Services
+PacifiCorp 
+Special contract for industrial consumer
+2002/2003
+U-25888
+LA
+Louisiana Public Service Commission
+Entergy
+Investigation of retail issues related to the System Agreement
+2003
+U-27136 Subdocket A
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Aging gas steam-fired retirement study
+07/03
+EL01-88-000
+FERC
+Louisiana Public Service Commission
+Entergy
+Rough production cost equalization proceeding
+05/04
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Development of a large QF avoided cost methodology
+06/04
+18687-U
+18688-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power and Savannah Electric 
+2004 Integrated Resource Planning Studies
+08/04
+ER03-583-000
+FERC
+Louisiana Public Service Commission
+Entergy 
+Affiliate power purchase agreements
+11/04
+03-035-19
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Industrial customer’s request for a special economic development tariff
+11/04
+03-035-38
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Large QF proceeding.
+03/05
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Concerning PacifiCorp’s Schedule 38 avoided cost tariff and remaining unsubscribed capacity
+07/05
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Concerning PacifiCorp’s Schedule 38 avoided cost proceeding
+12/05
+04-035-42
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Net power costs in General Rate Case
+04/06
+05-035-54
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Certification request to expand Blundell Geothermal Power Station.  Related to Mid-American Energy Holding’s Acquisition of PacifiCorp
+05/06
+22403-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power and Savannah Electric
+March 2006 fuel cost recovery filing
+2006
+06-35-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+2006 rate case, net power costs
+08/06
+U-21453
+LA
+Louisiana Public Service Commission Staff
+Entergy Gulf States
+Jurisdictional separation.
+11/06
+U-25116
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana
+Fuel adjustment clause filings
+01/07
+23540-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+November 2005 fuel cost recovery filing
+04/07
+07-035-93
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+General Rate Case
+06/07
+24505-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2007 Integrated Resource Planning 
+10/07
+U-30334
+LA
+Louisiana Public Service Commission Staff
+Cleco Power
+2008 Short-Term RFP
+04/08
+26794-U
+(FCR-20)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+2008
+6630-CE-299
+WI
+Wisconsin Industrial Energy Group, Inc.
+WEPCO
+Certification Proceeding for environmental upgrades at Oak Creek power plant
+07/08
+ER07-956
+FERC
+Louisiana Public Service Commission
+Entergy
+2006 rough production cost equalization compliance filing in the System Agreement case
+09/08
+6680-CE-180
+WI
+Wisconsin Industrial Energy Group, Inc.
+Wisconsin Power and Light
+Certification proceeding concerning Nelson-Dewey coal-fired generating unit
+11/08
+08-1511-E-GI
+WV
+West Virginia Energy Users Group
+Allegheny Power
+Fuel cost recovery filing 
+12/08
+27800-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Vogtle 3 and 4 nuclear unit certification proceeding
+2008
+08-035-35
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Chehalis Combine Cycle Power Plant based on a waiver of the RFP solicitation process certification proceeding
+07/09
+ER08-1056
+FERC
+Louisiana Public Service Commission
+Entergy
+2007 rough production cost equalization compliance filing in the System Agreement case
+07/09
+U-30975
+LA
+Louisiana Public Service Commission Staff
+SWEPCO and Cleco 
+Application to acquire the Oxbow Mine to supply Dolet Hills Power Station certification proceeding
+09/09
+E015/PA-09-526
+MN
+Large Power Intervenors
+Minnesota Power
+Request for approval to purchase Square Butte’s 500 kV DC transmission line, restructure a coal based power purchase agreement
+09/09
+09-035-23
+Direct
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2009 rate case, net power costs
+10/09
+09A-415E
+CO
+Public Utilities Commission of Colorado
+Black Hills/Colorado
+CPCN application to construct two LMS 100 natural gas combustion turbine units
+10/09
+09-035-23
+Surrebuttal
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2009 rate case, net power costs
+12/09
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+First Semi-Annual Vogtle Construction Monitoring Report
+12/09
+ER08-1224
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+2009
+09-2035-01
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2008 IRP
+01/10
+28945-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+2010
+EL09-61
+FERC
+Louisiana Public Service Commission
+Entergy
+System Agreement, individual operating company sales
+06/10
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Second Semi-Annual Vogtle Construction Monitoring Report
+12/10
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Third Semi-Annual Vogtle Construction Monitoring Report
+01/11
+ER09-1350
+Direct
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+02/11
+ER09-1350
+Cross-Answering
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+04/11
+33302-U (FCR-22)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+06/11
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fourth Semi-Annual Vogtle Construction Monitoring Report
+09/11
+U-31892
+LA
+Louisiana Public Service Commission Staff
+Cleco Power
+Settlement agreement, CPCN to upgrade Madison 3 coal unit to accommodate biomass fuel
+11/11
+26550-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Reacquisition of wholesale block capacity
+11/11
+34218-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Decertification of two aging coal units, acquire PPA resources, approve IRP update
+12/11
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fifth Semi-Annual Vogtle Construction Monitoring Report
+03/12
+U-32148
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Change of Control Proceeding to move to Midwest ISO
+2012
+20000-EA-400-11
+WY
+Wyoming Industrial Energy Consumers
+Rocky Mountain Power
+Certification of environmental upgrades at Naughton 3
+05/12
+35277-U (FCR-23)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+05/12
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Sixth Semi-Annual Vogtle Construction Monitoring Report
+07/12
+2012-00063
+KY
+Kentucky Industrial Utility Customers, Inc.
+Big Rivers
+Environmental upgrades in compliance with MATS and CSAPR 
+09/12
+U-32275
+LA
+Louisiana Public Service Commission Staff
+Dixie Electric Member Cooperative
+Ten year power supply acquisition certification proceeding
+12/12
+EL09-61-002      Direct
+FERC
+Louisiana Public Service Commission
+Entergy
+Harm calculation, violation of System Agreement
+12/12
+U-32557
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Certification of 28 MW PPA for renewable energy capacity (RAIN waste heat) in accordance with LPSC’s Renewable Energy Pilot
+12/12
+U-29764
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Retail proceeding regarding termination of cross-PPAs
+12/12
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Seventh Semi-Annual Vogtle Construction Monitoring Report
+03/13
+EL09-61-002     Cross-Answering
+FERC
+Louisiana Public Service Commission
+Entergy
+Harm calculation, violation of System Agreement
+04/13
+2012-00578
+KY
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Power Company
+Mitchell Certificate of Public Convenience and Necessity
+05/13
+36498-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2013 IRP and request to decertify over 2,000 MW of coal-fired capacity
+07/13
+U-32785
+LA
+Louisiana Public Service Commission Staff
+Entergy
+8.5 MW PPA for renewable energy capacity (Agrilectric rice hull) in accordance with LPSC’s Renewable Energy Pilot
+08/13
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighth Semi-Annual Vogtle Construction Monitoring Report
+10/13
+2013-00199
+KY
+Kentucky Industrial Utility Customers, Inc.
+Big Rivers
+Base rate case
+05/14
+13-035-184
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2014 General Rate Case, net power cost
+06/14
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Ninth/Tenth Semi-Annual Vogtle Construction Monitoring Report
+07/14
+20000-446-EA-14
+WY
+Wyoming Industrial Energy Consumers
+PacifiCorp
+2014 General Rate Case, net power cost
+08/14
+2000-447-EA-14
+WY
+Wyoming Industrial Energy Consumers
+PacifiCorp
+2014 Energy Cost Adjustment Mechanism application
+08/14
+14-035-31
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2014 Energy Balancing Adjustment application
+09/14
+ER13-432
+FERC
+Louisiana Public Service Commission
+Entergy
+Allocation of Union Pacific Settlement Agreement benefits
+10/14
+2014-00225
+KY
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Power
+Kentucky Power Company’s Fuel Adjustment Clause
+12/14
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eleventh Semi-Annual Vogtle Construction Monitoring Report
+05/15
+14-035-140
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Solar and wind capacity contribution avoided cost proceeding.
+06/15
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twelfth Semi-Annual Vogtle Construction Monitoring Report
+08/15
+15-035-03
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2015 Energy Balancing Adjustment application
+09/15
+14-035-114
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Cost and Benefits of PacifiCorp’s Net Metering Program
+11/15
+39638-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+FCR-24 Fuel Cost Recovery Proceeding
+11/15
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Thirteenth Semi-Annual Vogtle Construction Monitoring Report
+5/16
+40161
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power Company’s 2016 IRP and Application for Decertification of Plant Mitchell Units 3, 4A, and 4B, Kraft Unit 1 CT, and Intercession City CT
+6/16
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fourteenth Semi-Annual Vogtle Construction Monitoring Report
+8/16
+16-035-27
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Renewable Energy Services Contract between Rocky Mountain Power and Facebook, Inc
+8/16
+16-035-01
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2016 Energy Balancing Adjustment application
+9/16
+09-035-15
+UT
+Utah Office of Consumer Services
+PacifiCorp
+EBA Pilot Evaluation Direct Testimony
+11/16
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fifteenth Semi-Annual Vogtle Construction Monitoring Report
+11/16
+09-035-15
+UT
+Utah Office of Consumer Services
+PacifiCorp
+EBA Pilot Evaluation Rebuttal Testimony
+11/16
+EL09-61-04
+FERC
+Louisiana Public Service Commission
+Entergy
+Violation of System Agreement, Phase III, Harm Calculation, Direct
+3/17
+EL09-61-04
+FERC
+Louisiana Public Service Commission
+Entergy
+Violation of System Agreement, Phase III, Harm Calculation, Rebuttal
+6/17
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Sixteenth Semi-Annual Vogtle Construction Monitoring Report
+9/17
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Direct
+11/17
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Surrebuttal
+4/18
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Response
+4/18
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Rebuttal to Response
+12/17
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Direct
+1/18
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Rebuttal
+4/18
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Second Rebuttal
+6/18
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighteenth Semi-Annual Vogtle Construction Monitoring Report
+8/18
+Cause 45052
+IN
+Indiana Coal Council
+Vectren Energy Delivery of Indiana
+Request for Approval of an 850 MW CCGT Plant
+9/18
+U-34836
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana, LLC
+Authorization to Participate in a 50 MW Solar PPA
+11/18
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Nineteenth Semi-Annual Vogtle Construction Monitoring Report
+1/19
+U-35019
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana
+Authorization to Make Available Experimental Renewable Option and Rate Schedule RTO
+4/19
+42310-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power’s 2019 IRP Proceeding
+11/19
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty/Twenty-First Semi-Annual Vogtle Construction Monitoring Report
+5/20
+43011-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power Fuel Cost Recovery Application (FCR-25)
+6/20
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Second Semi-Annual Vogtle Construction Monitoring Report
+7/20
+17-035-61
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Approval of an Export Credit Rate for Customer Generators (Primarily Rooftop Solar)
+9/20
+20-035-04
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Utah Rate Case
+10/20
+2019-226-E
+SC
+South Carolina Office of Regulatory Services
+Dominion Energy South Carolina
+Review of DESC’s 2020 IRP
+10/20
+2019-227-E
+SC
+South Carolina Office of Regulatory Services
+Lockhart Power Company
+Review of Lockhart Power Company’s 2020 IRP
+11/20
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Third Semi-Annual Vogtle Construction Monitoring Report
+12/20
+20-035-01
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Application for Approval of the 2020 Energy Balancing Account
+2/21
+2019-224 and 225-E
+SC
+South Carolina Office of Regulatory Services
+Duke Energy Carolinas and Duke Energy Progress
+Review of Duke Energy’s 2020 IRP
+6/21
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Fourth Semi-Annual Vogtle Construction Monitoring Report
+9/21
+U-35927
+LA
+Louisiana Public Service Commission
+1803 Electric Cooperative
+Compliance with MBM Order in Conducting RFP and Acquiring Resources
+12/21
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Fifth Semi-Annual Vogtle Construction Monitoring Report
+5/22
+44160-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power’s 2022 IRP Proceeding
+6/22
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Sixth Semi-Annual Vogtle Construction Monitoring Report
+12/22
+22-035-01
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Application for Approval of the 2022 Energy Balancing Account
+12/22
+2022-259-E
+SC
+South Carolina Office of Regulatory Services
+Dominion Energy South Carolina, Inc.
+Mid-Period Adjustment to Increase Base Rates for the Recovery of Electric Fuel Costs
+1/23
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Seventh Semi-Annual Vogtle Construction Monitoring Report
+
+06/23
+2023-9-E
+SC
+South Carolina Office of Regulatory Services 
+Dominion Energy South Carolina, Inc.
+Review of DESC’s 2023 IRP
+7/23
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Eighth Semi-Annual Vogtle Construction Monitoring Report
+
+09/23
+2023-154-E
+SC
+South Carolina Office of Regulatory Services 
+South Carolina Public Service Authority
+Review of Santee Cooper’s 2023 IRP
+11/23
+23-0735-E
+WV
+West Virginia Energy Users Group 
+Mon Power and Potomac Edison
+Expanded Net Energy Cost proceeding.
+12/23
+U-36974
+LA
+Louisiana Public Service Commission Staff 
+1803
+Calpine Capacity PPA Certification Proceeding.
+2/24
+55378
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2023 Integrated Resource Plan Update
+
+6/24
+U-37134
+LA
+Louisiana Public Service Commission Staff 
+1803
+Transmission Asset Transfer
+7/24
+2023-8-E and 2023-10-E
+LA
+South Carolina Office of Regulatory Services
+Duke Energy Progress and Duke Energy Carolinas
+Review of Triennial Integrated Resource Plan 
+12/24
+2024-00285
+KY
+Kentucky Attorney General’s Office
+
+Duke Energy Progress and Duke Energy Carolinas
+Duke Energy Kentucky desire to convert from an FRR entity to an RPM entity
+
+1/25
+24-035-01
+UT
+Utah Office of Consumer Services 
+PacifiCorp
+Application for Approval of the 2023 Energy Balancing Account 
+2/25
+2024-00195
+VA
+Old Dominion Committee for Fair Utility Rates 
+APCO
+2024 Fuel Factor Proceeding
+
+5/25
+56002
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2025 Integrated Resource Plan 
+(Supply Side Resource Plan)
+
+
+ADDITIONAL JUDICIAL PROCEEDINGS AND OTHER PROJECT INFORMATION
+1995 – 2000 - Modeled the Singapore Power Electricity System and analyzed the benefits of dispatching a new oil-fired unit within the system, BHP Power
+1995 – 2000 - Modeled the Australian National Energy Market to develop market based energy price forecasts on behalf of an Independent Power Producer in Australia, BHP Power
+1995 – 2000 - Analyzed the benefit of purchasing existing gas-fired steam turbine units within the Australian market, BHP Power
+1995 – 2000 Developed market price forecasts for South Australia as part of the evaluation of a new gas fired combined cycle unit, BHP Power
+1995 – 2000 - Modeled the Vietnam Electricity System as part of a project to develop Least Cost Expansion plans for Vietnam, EVN State Utility 
+1995 – 2000 - Assisted in the evaluation of Phu My CCGT power  plant  in Vietnam, BHP Power 
+1995 – 2000 - Assisted in the development of Market Price Forecasts in several regions of the US.  These forecasts were used as the basis for stranded cost estimates, which were filed in testimony in a number of jurisdictions across the country.
+1995 – 2000 - Conducted research regarding ISO Tariffs and Operations for the PJM Power Pool, the California ISO, and the Midwest ISO on behalf of a Japanese Research.
+1995 – 2000 - Performed research on numerous electric utility issues for 3 Japanese research organizations.  This was primarily related to deregulation issues in the US in anticipation of deregulation being introduced in Japan.
+1995 – 2000 - Critiqued the IRP filings of 5 utilities in South Carolina on behalf of the South Carolina State Energy Office
+1999 - Helped to analyze the rate structure and develop an electricity price forecast for the Metropolitan Atlanta Rapid Transit Authority (MARTA) in Atlanta, Georgia
+August 2002 – Expert Report, Civil Action No. 1:00-cv-1262 in the United Stated District Court for the Middle District of North Carolina, United States v. Duke Energy Corporation, Department of Justice
+2002 - Worked on behalf of the Utah Committee of Consumer Services to provide guidance and assist in the analysis of PacifiCorp’s 2002 Integrated Resource Plan. 
+July 2003 - Worked on behalf of the Oregon Public Utility Commission to Audit PacifiCorp’s Net Power Costs per a Settlement Agreement accepted by the Public Utility Commission of Oregon in its Order No. 01-787.  Audit report in Docket No. UE-116 filed July 2003.  
+2003 - Regulatory support to the Utah Committee of Consumer Services regarding PacifiCorp’s 2003 Utah General Rate Case Docket # 03-2035-02.  
+2004 – Assistance to the Utah Committee of Consumer Services to analyze a series of power purchase agreements and special contracts between PacifiCorp and several of its industrial customers. 
+2005 - Worked on behalf of the Utah Committee of Consumer Services to help analyze PacifiCorp’s restructuring proposals.
+2005 - Assisted the Utah Committee of Consumer Services by evaluating PacifiCorp’s 2005 IRP and assisted in writing comments that were filed with the Commission.
+2007 - Assisted the Utah Committee of Consumer Services to evaluate PacifiCorp’s 2007 IRP.
+2007 - Conducted an investigation of the Southern Company interchange accounting and fuel accounting practices on behalf of the Georgia Public Service Commission Staff (Docket 21162-U).
+2008 - Assisted the Louisiana Public Service Commission Staff with the review and evaluation of Cleco Power’s 2008 Short Term RFP and its 2010 Long-Term RFP. 
+2008 - Assisted the Utah Committee of Consumer Services by participating in a collaborative process to develop an avoided cost tariff for large QFs.
+2008 - Assisted the Louisiana Public Service Commission Staff with a rulemaking for the opportunity to implement a Renewable Portfolio Standard in Louisiana. (Docket No. R-28271 Sub-Docket B)
+April 2011 – Initial Expert Report, Civil Action No. 2:10-cv-13101-BAF-RSW, on behalf of the Department of Justice in US District Court, United States v.Detroit Edison
+June 2011 – Rebuttal Expert Report, Civil Action No. 2:10-cv-13101-BAF-RSW, on behalf of the Department of Justice in US District Court, United States Detroit Edison
+2011 - Assisted the Georgia Public Service Commission Staff to investigate the acquisition of additional coal and combustion turbine capacity currently wholesale capacity (Docket 26550).
+2012 - Assisted the Louisiana Public Service Commission Staff with a rulemaking to design Integrated Resource Planning (“IRP”) rules. (Docket No. R-30021)
+December 2013 – Expert Report, Civil action no. 4:11-cv-00077-RWS, on behalf of the Department of Justice in US District Court, United States v. Ameren Missouri. 
+
+PUBLICATIONS AND PRESENTATIONS
+
+Co-authored “Review of EPA’s Section 111 May 23, 2023 Proposed Rule for the State of South Carolina”, on behalf of South Carolina Office of Regulatory Staff, August 2023.
+Co-authored “Review of EPA’s Section 111(d) CO2 Emission Rate Goals for the State of Montana, on behalf of the Montana Large Customer Group, October 2014.
+Authored “Singapore’s Developing Power Market”, which appeared in the July/August 1999 edition of Power Value Magazine
+Co-authored “The New Energy Services Industry – Part 1”, which appeared in the January/February 1999 edition of Power Value Magazine. 
+Co-authored and Presented “Evaluation of a Large Number of Demand-Side Measures in the IRP Process: Florida Power Corporation’s Experience”, Presented at the 3rd International Energy and DSM Conference, Vancouver British Columbia, November 1994
+Co-authored “Impact of DSM Program on Delmarva’s Integrated Resource Plan”, Published in the 4th International Energy and DSM Conference Proceedings, held in Berlin, Germany, 1995
+Presentation – Law Seminars International, Electric Utility Rate Cases, Case Study of the Louisiana Public Service Commission’s Quick Start Energy Efficiency Program, March 2015.  
+
+
+EXHIBIT
+STF-NHW-3   Leah Wellborn Resume
+
+
+EDUCATION
+M.S. Operations Research, Georgia Institute of Technology, 2017
+B.S. Mathematics, Georgia Southern University, 2012
+
+PROFESSIONAL AFFILIATIONS
+Women’s Energy Network, Greater Atlanta Chapter – Board Member (2019 – 2023)
+Women’s Energy Network, Greater Atlanta Chapter – Member (2016 – Present)
+
+EXPERIENCE
+
+Ms. Wellborn has been working in regulated energy markets since early 2013.  She has an undergraduate degree in mathematics and graduate degree in operations research.  She started her career working at J. Kennedy and Associates, Inc., and sub-contracting to Hayet Power Systems Consulting.  For these companies, she provided critical support in the areas of production cost modeling and data analysis through 2018. Ms. Wellborn then spent nearly 3 years at Accenture, supporting its global regulated energy team within the procurement practice, helping large commercial and industrial clients manage their energy spend and energy related initiatives, as they related to regulated utility tariffs, economic dispatch, planning, and market risk (energy efficiency, green tariffs, PPA/VPPA, etc.).  Ms. Wellborn rejoined J. Kennedy and Associates in late 2021 and currently provides analytical support to clients in the areas of utility resource planning and market modeling.
+
+2021 toJ. Kennedy and Associates, Inc.
+Present: Director, Consulting (July 2025 – Present)
+Manager, Consulting (October 2021 – June 2025)
+
+Performs analysis and prepares expert witness testimony on utility planning studies and economic evaluations in review of electric utility regulatory filings. Clients include State Public Service Commissions, Industrial Users Groups, and Consumer Advocacy Groups.
+
+2019 toAccenture, LLP
+2021: Associate Manager, Global Team, Regulated (March 2021 - October 2021)
+Sourcing Specialist, International Teams Lead (March 2020 - March 2021)
+Senior Analyst, Regulated Energy Procurement (January 2019 - March 2020)
+
+As a part of Accenture Operations’ Energy Management and Procurement practice, the Regulated Energy team helps clients identify opportunities for electricity and natural gas cost savings through data analysis and deep industry experience. Clients include large industrial and commercial end-use customers with locations spread across multiple geographies and utility service territories.
+
+• Conducts tariff optimization analysis and ad hoc economic decision analysis for clients with operations and energy spend in areas served by regulated electricity and natural gas distribution utilities.
+• Leads cross functional international delivery team of 10, providing career counseling and project oversight. Supports international energy procurement functions as they relate to regulated utilities/energy markets of Australia, Southeast Asia, and Latin America.
+• Manages project assessments and economic studies as they relate to resource planning or capacity/energy market risk and dispatch pricing (renewables, time-of-use tariffs, real-time-pricing/avoided cost, PPA, VPPA, etc.)
+• Collaborates with all energy management work streams - including utility bill management, renewable energy procurement, deregulated markets competitive sourcing, market intelligence, and project management/technology development initiatives to manage customer spend end to end.
+
+2013 toJ. Kennedy and Associates, Inc.
+2019: Senior Consultant (January 2016 – January 2019)
+Consultant (March 2013 – December 2015)
+
+Responsible for conducting research, performing data analysis, developing production-cost model input assumptions and running production-cost studies, analyzing model output, and conducting related economic studies.  
+
+
+CERTIFICATIONS
+
+Energy Exemplar – Aurora Core Certification Course (March 2022)
+Energy Exemplar – PLEXOS Power Core Certification Course (June 2023)
+
+CLIENTS SERVED
+
+Georgia Public Service Commission Staff
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Office of the Attorney General 
+Louisiana Public Service Commission Staff
+Ohio Energy Group
+South Carolina Office of Regulatory Staff
+Utah Office of Consumer Services
+West Virginia Energy Users Group
+Wisconsin Industrial Energy Group
+
+
+TESTIMONY AND EXPERT WITNESS APPEARANCES
+
+Date
+Case
+Jurisdict
+Party
+Utility
+Subject
+06/18
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighteenth Semi-Annual Vogtle Construction Monitoring Report
+
+11/18
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Nineteenth Semi-Annual Vogtle Construction Monitoring Report
+
+5/22
+44160
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2022 Integrated Resource Plan
+(Supply Side Resource Plan, Aurora)
+
+10/22
+44280
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2022 Rate Case
+(Revenue Forecast)
+8/23
+2023-9-E
+SC
+South Carolina Office of Regulatory Staff
+Dominion Energy South Carolina, Inc.
+2023 Integrated Resource Plan
+
+12/23
+2023-154-E
+SC
+South Carolina Office of Regulatory Staff
+South Carolina Public Service Authority (Santee Cooper)
+2023 Integrated Resource Plan
+
+12/23
+U-36974
+LA
+Louisiana Public Service Commission Staff
+1803 Electric Cooperative, Inc.
+Certification of a Capacity Purchase Agreement
+2/24
+55378
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2023 Integrated Resource Plan Update
+(Supply Side Resource Plan, Aurora)
+
+7/24
+2023-8-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Progress, LLC
+2023 Integrated Resource Plan
+7/24
+2023-10-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Carolinas, LLC
+2023 Integrated Resource Plan
+8/24
+24-0508-EL-ATA
+OH
+Ohio Energy Group
+Ohio Power Company
+Application of Ohio Power Company for New Tariffs Related to Data Centers and Mobile Data Centers
+11/24
+2024-00243
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Power Company
+Renewable Energy Purchase Agreement 
+12/24
+24-0611-E-T-PW
+WV
+West Virginia Energy Users Group 
+Appalachian Power Co. / Wheeling Power Co.
+Application for Approval of Revisions to Schedules LCP and IP (Data Centers)
+5/25
+56002
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2025 Integrated Resource Plan 
+(Supply Side Resource Plan, Aurora)
+
+6/25
+2025-00045
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Utilities Co. / Louisville Gas & Electric Co.
+Application for Certificates of Public Convenience and Necessity and Site Compatibility Certificates
+11/25
+2025-00113 2025-00114
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Utilities Co. / Louisville Gas & Electric Co.
+2025 Rate Case (Adopted Testimony of Stephen J. Baron filed August 29, 2025)
+
+
+REPORTS AND INDUSTRY PUBLICATIONS
+
+Date
+Title
+Author(s)
+8/23
+Review of EPA’s Section 111 May 23, 2023 Proposed Rule for the State of South Carolina
+J. Kennedy and Associates, Inc. (On behalf of the South Carolina Office of Regulatory Staff)
+7/24
+Review of Dominion Energy South Carolina, Inc.’s 2024 Integrated Resource Plan Update Docket No. 2024-9-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+1/25
+Review of Santee Cooper’s 2024 Integrated Resource Plan Update Docket No. 2024-18-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+7/25
+Review of Dominion Energy South Carolina, Inc.’s 2025 Integrated Resource Plan Update Docket No. 2025-9-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+ 
+
+OTHER EXPERIENCE
+
+Dates
+Case
+Jurisdict
+Party
+Utility
+Subject
+1/24
+R-31106
+LA
+Louisiana Public Service Commission Staff
+Various
+Approval of Phase II Energy Efficiency Rule and Implementation of Statewide Program (Transition)
+3/25
+2024-00326
+KY
+Kentucky Industrial Utility Customers
+KU/ LG&E
+2024 Joint Integrated Resource Plan (Comments)
+
+
+   
+
+
+EXHIBIT
+STF-NHW-4   Resource Summary
+
+
+Capacity Summary
+
+
+Revenue Requirements through 2035 ($2024 Present Value) 
+
+
+Company Ranking Analysis Summary – MG0 
+
+
+STF-NHW-5   Reserve Margin Tables
+
+
+GEORGIA POWER LOAD AND RESOURCE BALANCE POSITION 
+BEFORE RFP AND SUPPLEMENTAL ADDITIONS
+
+
+GEORGIA POWER LOAD AND RESOURCE BALANCE POSITION 
+AFTER RFP AND SUPPLEMENTAL ADDITIONS
+
+
+STAFF SCENARIO 1 - CONTRACTS ONLY -  LOAD AND RESOURCE BALANCE POSITION 
+BEFORE RFP AND SUPPLEMENTAL ADDITIONS
+
+
+STAFF SCENARIO 1 - CONTRACTS ONLY -  LOAD AND RESOURCE BALANCE POSITION 
+AFTER STAFF RECOMMENDED RESOURCES FOR CERTIFICATION
+
+STAFF SCENARIO 2 -  LOAD AND RESOURCE BALANCE POSITION 
+BEFORE RFP AND SUPPLEMENTAL ADDITIONS
+
+
+STAFF SCENARIO 2 -  LOAD AND RESOURCE BALANCE POSITION 
+AFTER STAFF RECOMMENDED RESOURCES FOR CERTIFICATION
+WITH WANSLEY CCs, HAMMOND PHASE II, AND YATES PHASE I ADDITIONS
+
+
+STF-NHW-6   Aurora Study Assumptions
+
+
+Staff Aurora Study - Input Assumptions
+
+Data Assumption
+Company 2025 IRP
+Resource Mix Study
+Staff CPCN Modeling
+Aurora Version
+MG0/HG0: 14.2.1084
+MG0-111:   14.2.1104
+14.2.1104
+Bowen and Scherer Assumptions
+MG0/HG0: thru 2035
+MG0-111: co-firing thru 2038
+MG0/HG0: thru 2043
+MG0-111: co-firing thru 2038
+2025 IRP Request for Upgrades:
+N/A
+McIntosh CT (Fixed) 
+McIntosh CC (Fixed) 
+Vogtle Nuclear Upgrade (Fixed) 
+Hatch Nuclear Upgrade (Fixed) 
+Load Forecast  
+B2025 Standard
+B2025 Standard + HG0
+Staff Scenario 1: Contracts Only
+Staff Scenario 2: Adjusted
+B2026 Estimate
+System TRM 
+26% Winter / 20% Summer
+24.5% Winter / 20% summer
+Generics Pricing 
+B2025 “Tech Portfolio”
+CC (and CCwCCS) xx% higher 
+CT xx% higher
+BESS/MDESS xx% higher
+Solar/Wind xx% higher
+Solar Capacity Value 
+0% (Winter)
+5% Winter / 25% Summer (<3GW)
+0% Winter / 0% Summer (>3GW)
+NGCC w/ required CCS 
+MG0 – starting 2040 
+MG0-111 – starting 2032
+Removed constraints
+RFP Thermal PPAs
+N/A
+Sandersville (Fixed)
+Harris 1 (Fixed, Summer Start)
+MidGA Cogen (Fixed, Summer Start)
+Dahlberg (Fixed, Summer Start)
+RFP COP Thermal
+N/A
+Selectable, Flexible in-service Winter starts through 2031
+RFP Solar + BESS and RFP BESS
+N/A
+Selectable, Assumes single average incremental ELCC for selectable BESS resources ~xx%
+Supplemental MPC PPA
+N/A
+Omitted
+Suppl. Tenaska PPA 
+N/A
+Selectable, Summer Start 
+Supplemental NEER BESS
+N/A
+Selectable at GPC assumed ELCC 
+(net of solar, to interconnection limit)
+2023 IRP BESS RFP 
+N/A
+500 MW  
+
+
+Staff Aurora Study Results 
+
+
+STF-NHW-7   Revenue Requirement Comparison
+
+
+Nominal Revenue Requirement Summary

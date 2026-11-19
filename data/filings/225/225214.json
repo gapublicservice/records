@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 106492,
+      "bytes": 504422,
+      "name": "dkt_44280_stf-pia-37_pd.zip",
+      "text": "zip (12 read, 4 not read, 4 trade-secret-marked files skipped)",
+      "text_file": "data/text/225/225214/106492.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225214/106492"
+    },
+    {
+      "attachment_id": 106493,
+      "bytes": 67526,
+      "name": "STF-PIA-37 Affidavit.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225214/106493"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-PIA-37 PD Data Request Responses",
+  "dockets": [
+    44280
+  ],
+  "document_id": 225214,
+  "filed_date": "2026-01-26",
+  "harvested": "2026-11-19",
+  "received_date": "2026-01-26",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=225214"
+}

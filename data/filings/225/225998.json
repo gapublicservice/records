@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 107331,
+      "bytes": 603541,
+      "name": "dkt_44280_stf-scr-5_pd.zip",
+      "text": "zip (18 read, 6 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/225/225998/107331.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225998/107331"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-SCR-5 PD Data Request Responses",
+  "dockets": [
+    44280
+  ],
+  "document_id": 225998,
+  "filed_date": "2026-03-24",
+  "harvested": "2026-11-19",
+  "received_date": "2026-03-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=225998"
+}

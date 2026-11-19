@@ -1,0 +1,474 @@
+===== DKT 44280 STF-PIA-31/STF-PIA-31-10.docx =====
+STF-PIA-31-10
+
+Question: 
+
+Was the historical comparison logic ever included in a user acceptance test (UAT) or QA checklist?
+
+Response:
+
+Yes. Comparison logic has been tested as part of manual functional testing as well as user acceptance testing (“UAT”). However, bill accounts used for testing had all been billed in the current month and did not manifest the monthly bill comparison issue that arose when a customer had not yet been billed in the current month. Please see the Company’s response to STF-PIA-31-14 for a full description of the monthly bill comparison issue. 
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-12.docx =====
+STF-PIA-31-12
+
+Question: 
+
+Which teams (e.g., mobile development, QA, product, vendor) are involved in remediation?
+
+Response:
+
+The Company’s dedicated Mobile Apps team has been involved in the remediation of the app issue. The Mobile Apps team consists of product owners, developers, quality assurance testers, regression quality assurance testers, smoke testers, and release managers.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-6.docx =====
+STF-PIA-31-6
+
+Question: 
+
+Was the error introduced by the utility company, a third-party vendor, or jointly?
+
+Response:
+
+The Company owns and manages the Georgia Power app and is responsible for all releases.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-7.docx =====
+STF-PIA-31-7
+
+Question: 
+
+If a vendor was involved: 
+Provide a copy of the contract, work order, and any change orders related to the mobile app or data logic. 
+Identify the specific sections addressing error correction, SLA terms, or liability for data inaccuracies. 
+Was the vendor notified, and have they responded with a remediation plan?
+
+Response:
+
+No vendors are involved with the Georgia Power app.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-16.docx =====
+STF-PIA-31-16
+
+Question: 
+
+Provide a copy of the relevant code section (or snippet) for both Android and iOS that governs the “1-year ago” lookback logic prior to correction.
+
+Response:
+
+The start date was previously defined as “current Month – 13.” The pseudo code was as follows for both Android and iOS:
+ var startDate = DateTime.Today.AddMonths(-13)
+ setUsageSummary(billHistory) {        let billCount = 1;        let thisMonth = false;        let previousMonth = false;        let lastYear = false;        for (const bill of billHistory) {            if (bill.Description === 'Bill') {                let billDate = new Date(bill.DateActivity);                if (thisMonth === false) {                    this.thisMonthBill = bill;                }                if (thisMonth === true && previousMonth === false) {                    this.lastMonthBill = bill;                    previousMonth = true;                }                thisMonth = true;                if (billCount >= 13) {                    this.lastYearBill = bill;                    break;                }                billCount++;            }        }    }}
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-2.docx =====
+STF-PIA-31-2
+
+Question: 
+
+When was the issue first discovered by the Company?
+
+Response:
+
+The Online Customer Care and Mobile App teams were first made aware of the issue on June 11, 2025, by a member of the Georgia Public Service Commission Staff who is also a Georgia Power customer.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-4.docx =====
+STF-PIA-31-4
+
+Question: 
+
+Was the issue discovered internally (e.g., QA, audit) or reported by customers?
+
+Response:
+
+Please see the Company’s response to STF-PIA-31-2.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-3.docx =====
+STF-PIA-31-3
+
+Question: 
+
+How long has the Company known about the issue before initiating corrective actions?
+
+Response:
+
+The Online Customer Care and Mobile App teams immediately began investigating the error and discussing a resolution on June 11, 2025, the day the Company was notified of the issue.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-9.docx =====
+STF-PIA-31-9
+
+Question: 
+
+How are app updates reviewed and tested prior to release?
+
+Response:
+
+Reviews and testing for the app include unit testing by developers followed by code review (i.e., peer review). Then, code is built for delivery, which is followed by manual functional testing, automated regression testing, and smoke testing.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-11.docx =====
+STF-PIA-31-11
+
+Question: 
+
+What is the estimated number of work hours needed to correct the issue?
+
+Response:
+
+Approximately 14 hours of labor were required to correct the issue, including analysis to understand the issue, development, build, deployment to a user acceptance environment, quality assurance, and deployment to production.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-15.docx =====
+STF-PIA-31-15
+
+Question: 
+
+Describe the corrective action plan already taken or underway.
+
+Response:
+
+The fix to change the start date programming to “current date – 14 months” was successfully released on August 1, 2025.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-21.docx =====
+STF-PIA-31-21
+
+Question: 
+
+Please provide annual expenditures related to the App for the past 5 years.  If the Company cannot isolate specific costs for the App, please provide estimates within the categories that the Company can isolate for what portion of the cost went towards mobile application related expenditures.
+
+Response:
+
+Annual costs incurred by the Company associated with the Georgia Power mobile app began in 2022 and is as follows:
+
+(in millions)
+Year
+Capital Expenditures
+O&M
+2022
+$2.8
+$0.3
+2023
+$5.2
+$0.5
+2024
+$1.9
+$0.2
+  2025 (July YTD)
+$0.7
+$0.1
+Total
+$10.6
+$1.1
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-17.docx =====
+STF-PIA-31-17
+
+Question: 
+
+Provide the corrected section of code for Android and iOS once the logic is updated.
+
+Response:
+Start Date is now defined as: current Month – 14
+The pseudo code is as follows for both Android and iOS:
+var startDate = DateTime.Today.AddMonths(-14)
+ setUsageSummary(billHistory) {         let billCount = 1;         let thisMonth = false;         let previousMonth = false;         let lastYear = false;         for (const bill of billHistory) {             if (bill.Description === 'Bill') {                 let billDate = new Date(bill.DateActivity);                 if (thisMonth === false) {                     this.thisMonthBill = bill;                 }                 if (thisMonth === true && previousMonth === false) {                     this.lastMonthBill = bill;                     previousMonth = true;                 }                 thisMonth = true;                 if (billCount >= 14) {                     this.lastYearBill = bill;                     break;                 }                 billCount++;             }         }     } }
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-23.docx =====
+STF-PIA-31-23
+
+Question: 
+
+Please provide any marketing plans for the Company related to increasing App usage.
+
+Response:
+
+In July, a marketing email promoting Georgia Power mobile app downloads was sent to 864,000 residential customers who had a valid email address and had opened a previous marketing email in 2025.  Additional marketing messages about the app will likely be sent in the future, but there are not any messages currently planned.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-19.docx =====
+STF-PIA-31-19
+
+Question: 
+
+Version control. Is the same backend API or database being used for all three platforms (bill, website, and mobile app)?  We know the issues exists on iOS, what about Android? Is the +1 month offset mistakenly being applied when querying historical data? 
+Does the mobile app use methods such as Date.now() or device time to determine the anchor date for historical comparison? 
+Does the app round dates to the nearest full month rather than matching billing periods. 
+Are the billing periods matched by index instead? 
+Has a regression occurred due to any recent updates to billing comparison logic?
+Is there a difference in how the mobile app and website handle leap years for example 2024 was a leap year, long months or variable billing periods? 
+
+
+Response:
+
+There is a common application program interface (“API”) layer used by all platforms for the bill comparison feature, as well as instances where iOS and Android mobile apps have dedicated APIs that are not used by the web.
+
+The monthly bill comparison issue also existed on Android. Please see the Company’s response to STF-PIA-31-14 for a description of the monthly bill comparison issue and how the issue was fixed.
+
+The mobile app uses server date and it comes back in header in the API response.
+No, the app does an exact match for billing periods.
+Please see the response to subpart (b) above.
+Smoke testing was performed with high level flows, and focused testing was performed for this particular issue.
+No. Both the mobile app and website use calendar and date calculations in their programming language that avoids any issues with leap year, long months, or variable billing periods. Please see the Company’s response to STF-PIA-31-17 for the pseudo code detail.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-14.docx =====
+STF-PIA-31-14
+
+Question: 
+
+Provide a description of the error, including: 
+How the 12-month lookback was implemented. 
+How it differs from the expected "same-month-last-year" comparison.
+
+Response:
+
+For the Bill Comparison feature in the app, the front-end uses an application programming interface (“API”) to fetch billing history by specifying a start and end date. Initially, the start date was set to “current date - 13 months,” which caused the issue where only 11 bills were retrieved if the customer’s current month bill was not yet issued. For example, if in June 2025 the customer’s current month bill was not yet issued, the Bill Comparison screen would show July 2024 data as the bill from one year prior, instead of June 2024 data..
+
+To fix the issue, the start date was changed to “current date - 14 months” to ensure at least a 12-month billing history is always retrieved. This ensures that a bill comparison always shows the bill from twelve months prior to the current month.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31 Affidavit.pdf =====
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-22.docx =====
+STF-PIA-31-22
+
+Question: 
+
+Does the Company have a target for how many customers it would like to make use of the App?
+
+Response:
+
+The Company does not have a target number of customers who use the app, but the Company’s ultimate goal is to ensure that all customers who wish to use the Georgia Power app are aware of and able to access it. Due to phased releases of enhancements, the Company has utilized a cautious and deliberate approach to its promotion of the app.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-5.docx =====
+STF-PIA-31-5
+
+Question: 
+
+What internal documentation or logs exist that could verify when the error began and when it was first flagged?
+
+Response:
+
+Jira, a project management and issue-tracking software tool, is used to document and track the status of technical work items. Both the Online Customer Care and App teams logged the first issue on June 11, 2025.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-8.docx =====
+STF-PIA-31-8
+
+Question: 
+
+What quality control processes are currently in place for: 
+Ensuring bill accuracy? 
+Validating data presented in the mobile app?
+
+Response:
+
+The Company utilizes software and program tools designed to identify discrepancies in billing. These tools generate alerts that create billing exceptions whenever bills deviate from the expected parameters or are not processed correctly.
+App changes include the following testing processes, listed in sequential order:
+Manual functional testing, where a human tester acts as an end-user to compare actual results to expected outcomes.
+Automated regression testing, a software testing method that automatically re-runs a set of old tests on a software application after a code change to ensure that existing features are unimpacted by the code change.
+Smoke testing by internal users, which involves internal users running high-level tests to ensure the most important critical path features are functional in a production environment.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-13.docx =====
+STF-PIA-31-13
+
+Question: 
+
+When does the Company expect the issue will be fully corrected and released to users?
+
+Response:
+
+The fix for this issue was released to Apple and Google Play app stores on August 1, 2025. The fix was released as an update that users may choose to install. A forced upgrade of all app versions is planned for September 2025, timed with a release of other app updates. Based on customer feedback, the Company limits the number of forced upgrades.
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-18.docx =====
+STF-PIA-31-18
+
+Question: 
+
+If applicable, include statements of work, amendments, or appendices that cover: 
+Responsibility for logic errors. 
+Quality assurance. 
+Data integrity obligations. 
+Maintenance and issue resolution timelines.
+
+Response:
+
+Outside vendors are not utilized for the mobile app. Therefore, there are no statements of work, amendments, or appendices related to a third-party contract that cover the referenced items since all the above responsibilities belong to the internal Mobile App team.
+
+
+===== DKT 44280 STF-PIA-31/DRSUM_44280_STF-PIA-31 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    September 2, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+44280
+STF-PIA-31
+1
+COMPLETE
+NONE
+44280
+STF-PIA-31
+2
+COMPLETE
+NONE
+44280
+STF-PIA-31
+3
+COMPLETE
+NONE
+44280
+STF-PIA-31
+4
+COMPLETE
+NONE
+44280
+STF-PIA-31
+5
+COMPLETE
+NONE
+44280
+STF-PIA-31
+6
+COMPLETE
+NONE
+44280
+STF-PIA-31
+7
+COMPLETE
+NONE
+44280
+STF-PIA-31
+8
+COMPLETE
+NONE
+44280
+STF-PIA-31
+9
+COMPLETE
+NONE
+44280
+STF-PIA-31
+10
+COMPLETE
+NONE
+44280
+STF-PIA-31
+11
+COMPLETE
+NONE
+44280
+STF-PIA-31
+12
+COMPLETE
+NONE
+44280
+STF-PIA-31
+13
+COMPLETE
+NONE
+44280
+STF-PIA-31
+14
+COMPLETE
+NONE
+44280
+STF-PIA-31
+15
+COMPLETE
+NONE
+44280
+STF-PIA-31
+16
+COMPLETE
+NONE
+44280
+STF-PIA-31
+17
+COMPLETE
+NONE
+44280
+STF-PIA-31
+18
+COMPLETE
+NONE
+44280
+STF-PIA-31
+19
+COMPLETE
+NONE
+44280
+STF-PIA-31
+20
+COMPLETE
+NONE
+44280
+STF-PIA-31
+21
+COMPLETE
+NONE
+44280
+STF-PIA-31
+22
+COMPLETE
+NONE
+44280
+STF-PIA-31
+23
+COMPLETE
+NONE
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-20.docx =====
+STF-PIA-31-20
+
+Question: 
+
+Please provide data for the monthly average users of the App for the past 13 months.
+
+Response:
+
+Below are the number of unique monthly users for the Georgia Power app for July 2024 through July 2025.
+
+Month          Unique Users
+2024-07            24,385
+2024-08            23,479
+2024-09            36,923
+2024-10            34,558
+2024-11            18,811
+2024-12            20,591
+2025-01            38,167
+2025-02            32,000
+2025-03            31,931
+2025-04            58,731
+2025-05            190,951
+2025-06            200,882
+2025-07            293,490
+
+
+===== DKT 44280 STF-PIA-31/STF-PIA-31-1.docx =====
+STF-PIA-31-1
+
+Question: 
+
+How long has the inaccurate lookback and billing data been presented to customers in the mobile app?
+
+Response:
+
+Issues with incorrect data in the Georgia Power app began with the release of Version 2.5 on April 22, 2025. Version 2.5 offered the first release of the Billing Overview section of the app, which houses the Usage Overview section that was subject to inaccuracies with customer monthly bill comparison information.

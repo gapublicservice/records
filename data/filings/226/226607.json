@@ -1,0 +1,63 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 107885,
+      "bytes": 34430,
+      "name": "Cover Letter Q1 2026 PD (stamp).docx",
+      "text": "docx",
+      "text_file": "data/text/226/226607/107885.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107885"
+    },
+    {
+      "attachment_id": 107886,
+      "name": "Cover Letter Q1 2026 TS (stamp).docx",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107886"
+    },
+    {
+      "attachment_id": 107887,
+      "bytes": 841648,
+      "name": "DKT 55378 Lg Load Econ Dev Rept Q1 2026 PD.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/226/226607/107887.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107887"
+    },
+    {
+      "attachment_id": 107927,
+      "bytes": 846249,
+      "name": "PD Large Load Economic Development Report Q1 2026.docx",
+      "text": "docx",
+      "text_file": "data/text/226/226607/107927.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107927"
+    },
+    {
+      "attachment_id": 107928,
+      "name": "TS Assertion_Docket No 56002.pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107928"
+    },
+    {
+      "attachment_id": 107929,
+      "bytes": 42604,
+      "name": "PD Large Load Economic Development Report Q1 2026 - Attachment.xlsx",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226607/107929"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Docket No. 55378 - Quarterly Large Load Economic Development Report",
+  "dockets": [
+    55378
+  ],
+  "document_id": 226607,
+  "filed_date": "2026-05-15",
+  "harvested": "2026-11-19",
+  "received_date": "2026-05-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226607"
+}

@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108426,
+      "bytes": 240425,
+      "name": "PSO RTP Proceeding.docx",
+      "text": "docx",
+      "text_file": "data/text/227/227135/108426.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227135/108426"
+    },
+    {
+      "attachment_id": 108427,
+      "bytes": 2684797,
+      "name": "227135.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227135/108427"
+    }
+  ],
+  "company": "GPSC",
+  "description": "PROCEDURAL AND SCHEDULING ORDER",
+  "dockets": [
+    57171
+  ],
+  "document_id": 227135,
+  "filed_date": "2026-07-07",
+  "harvested": "2026-11-19",
+  "received_date": "2026-07-07",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227135"
+}

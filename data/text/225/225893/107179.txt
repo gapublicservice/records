@@ -1,0 +1,975 @@
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-26.docx =====
+STF-JKA-2-26
+
+Question: 
+
+Refer to page 14, lines 18-26, “Domestic coal prices have stabilized following the substantial volatility experienced during 2021–2022 and the subsequent decline in demand and pricing throughout 2023–2024. Although international market demand remains subdued, increased domestic coal-fired generation has provided sufficient counterbalance to mitigate the effects of weaker global conditions. With stockpiles returning to historical norms, domestic purchasers continue to secure supply for 2026 and subsequent years. This sustained domestic demand is expected to exert upward pressure on prices; however, persistently weak international demand is likely to temper these effects, resulting in overall price stability.”
+
+a.Provide industry and independent reports the Company relied on to determine coal production, availability, and deliverability trends.
+b.How does the Company manage its coal stockpiles? Provide a summary of the Company’s inventory target strategy, including any inventory targets by plant.
+c.Define the 'historical norm' in terms of 'days-burn' for each coal plant (Bowen, Scherer, etc.) and identify any months in the historic period where inventory fell below the minimum target.
+
+Response:
+
+Please see the Company’s response to STF-JKA-2-25.
+
+Please see MFRH-3.1 for a summary explanation of the Company’s coal inventory management. Please see MFRP-3.1 for the coal inventory target levels by plant for the projected test period. 
+               
+“Historical norms” refers to coal inventory levels at or near target. The Company’s coal inventory was below target for the following months by plant during the historical period.
+
+Plant Bowen – January 2023, August 2024, September 2024, January 2025, February 2025
+Plant Scherer – January 2023
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-9.docx =====
+STF-JKA-2-9
+
+Question: 
+
+Please provide the detailed hedging transactions that lead to the monthly reported gains/(losses) provided in MFRH-10 Attachment TS.
+
+Response:
+
+Please see STF-JKA-2-3 Attachment A in the Company’s response to STF-JKA-2-3.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-35 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-35
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx. For each of the following events, please provide any detailed root cause analyses that exist, or any other documentation that exists explaining the outage. If none exists, please provide a detailed narrative explaining the cause of the outage.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxx. 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+
+Response:
+
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-18 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-18
+
+Question: 
+
+For Change Set, REDACTED
+
+a.How do spinning constraints modeled in the FCR database compare to modeling in IRPs?
+b.Are BESS resources included and assumed to satisfy spinning reserve requirements?
+c.Please provide Avg Spin Reserves by Year by Station Group.
+d.If BESS is assumed to satisfy spinning reserves, provide the 'Opportunity Cost' calculation used in Aurora to determine when the battery is used for reserves versus energy arbitrage.
+
+Response:
+
+For Integrated Resource Plan (“IRP”) modeling, storage resources have not been included to satisfy spinning constraints. This change set is applied in the FCR-27 Budget case, where the spinning constraints can include storage resources.
+
+Yes, Battery Energy Storage System (“BESS”) resources in this case can and will be used by the optimizer to help satisfy the pool’s spinning reserve requirement, up to their available capacity in any given hour. Whether BESS are used for spinning reserves depends on whether it is cost-optimal for the solver to utilize them for that purpose.
+
+Please see the Company’s response to STF-JKA-1-20. Average spin reserves by year by station group can be found in the ResourcesYear1 output table. 
+
+d. Aurora’s reserve versus arbitrage trade-off for BESS is not an explicit opportunity cost formula. It is an emergent outcome of the Commitment Optimization Mixed Integer Program (“MIP”) minimizing total system cost subject to spinning reserve constraints.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-13.docx =====
+STF-JKA-2-13
+
+Question: 
+
+Refer to page 18, lines 1-8, “Additionally, much of the KWh sales from these large load customers is priced at RTP. For RTP load, a large load customer’s fuel contribution reflects the marginal costs incurred by the Company in each hour. Further, large load customers bear the risk of higher fuel prices and are assessed those costs directly during higher cost hours. Thus, large load customers will bear the appropriate cost responsibility in each hour for the fuel cost they impose on the Company and the overall revenues collected from these customers are projected to provide significant benefits that will reduce rate pressures for all Georgia Power customers.”
+
+a.Please explain how RTP customers contribute to fixed fuel costs which may not be in the hourly marginal price?
+b.Please explain how costs related to firm transportation are recovered from RTP customers. 
+
+Response:
+
+Please see subpart (d) in the Company’s response to STF-JKA-1-7.
+
+Please see subpart (d) in the Company’s response to STF-JKA-1-7.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-8.docx =====
+STF-JKA-2-8
+
+Question: 
+
+Please provide the natural gas commodity spot purchases made during January 2025 and August 2024. Include the total cost, the adder, pipeline, supplier, NYMEX natural gas price for the day provided and the Henry Hub price for the day provided. Please add any additional details if the purchase price was over 10% more than the NYMEX or Henry Hub price for the days provided (less any relevant adders).
+
+Response:
+
+Please see STF-JKA-2-8 Attachment for the requested information. The NYMEX price is set at the beginning of each month, and therefore, it is common to see daily prices during the month trading above or below the first of month index. Additionally, it is also common to see the basis at Gas Daily SNG or Gas Daily Transco zone 4 indexes trade at a premium or discount to Gas Daily Henry Hub depending on daily demand at the pipelines. 
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-34.docx =====
+STF-JKA-2-34
+
+Question: 
+
+Refer to MFRH-3.2 Propane TS.xlsx. Please explain if no propane was used by the Company during the historic period.
+
+Response:
+
+The Company does not maintain fuel inventory of propane, as shown in MFRH-3.2. The Company used minimal amounts of propane at Plant Bowen for startup fuel during the historical period.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-11.docx =====
+STF-JKA-2-11
+
+Question: 
+
+Refer to page 16, lines 16-19, “The Company anticipates significant increase in total energy sales driven primarily by higher retail load of 35.7 million MWh, or an increase of 21%. Wholesale sales are also projected to increase by 3.7 million MWh, or an increase of 94%, driven by new wholesale contracts signed since FCR-26.” Please explain how new energy sales assumed in the B2026 FCR forecast compared to the forecast used in the most recent CPCN docket(s), RFP evaluation(s), and IRP cases.
+
+Response:
+
+Please see STF-JKA-2-11 Attachment for the comparison of retail sales forecast for the test period.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-42.docx =====
+STF-JKA-2-42
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx. Provide all Reserve Shutdown (RS) or Inactive Reserve (IR) coded outages in the historic period. Please provide any additional information if units were put on Reserve Shutdown for any reason other than economics.
+
+Response:
+
+Please see STF-JKA-2-42 Attachment for a list of all Reserve Shutdown (“RS”) coded outages. No units were placed on Reserve Shutdown for any reason other than economics. No units were placed on Inactive Reserve (“IR”).
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-16 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-16
+
+Question: 
+
+For Change Set “xxxxxxxxxxxxxxxxxxxxxxxxxxxxx”
+
+a.Explain how the Company set its firm transportation limits by pipeline. Describe whether limits are enforced daily, seasonally, etc.
+b.Provide all workpapers used to derive the fuel and gas limits/inputs for Aurora.
+
+Response:
+
+Firm transportation limits per pipeline come from the Company’s contract agreements with the pipelines. These limits represent a daily fuel usage limit and are applied in the model during the winter for various pipelines.
+
+Please see STF-JKA-2-16 Attachment for the information pertaining to the projected test period.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-38 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-38
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx related to an outage caused by xxxxxxxxxxxxxxxxxx. 
+a. Please confirm if xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx are continuations of the same outage event.
+b. Please confirm the correct outage end date and time associated with the RCA filing.
+c. If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d. If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined and applied.
+
+Response:
+
+REDACTED.
+
+REDACTED.
+
+Please see the responses to subparts (a) and (b) above.
+
+REDACTED.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-43.docx =====
+STF-JKA-2-43
+
+Question: 
+
+Has the Company experienced any Substation outages during the historic period? Please explain.
+
+Response:
+
+Please see STF-JKA-2-43 Attachment for a list of substation outages as identified by cause code 3720 (TRANSMISSION EQUIPMENT AT FIRST SUBSTATION), which were previously provided in MFRH-4.2. Aside from the list provided, the Company does not have an identifier in its system of records that can identify outages specifically or directly related to substation outages.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-45.docx =====
+STF-JKA-2-45
+
+Question: 
+
+Please confirm the Company is not proposing any changes to Senior Citizen Discount approved in FCR-26.
+
+Response:
+
+Confirmed. The Company is not proposing any changes to the Senior Citizen Discount approved in FCR-26. 
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-39 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-39
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxx, related to an outage caused by turbine xxxxxxx.
+Please confirm if xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx are continuations of the same outage event.
+b.Please confirm the correct outage end date and time associated with the RCA filing.
+c.If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d.If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined.
+
+Response:
+
+REDACTED. 
+
+REDACTED. 
+
+Please see the responses to subparts (a) and (b) above.
+
+REDACTED.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-25.docx =====
+STF-JKA-2-25
+
+Question: 
+
+Refer to page 10, lines 3-7, “A key driver in these lower costs is favorable contract negotiations for coal transportation services in which the Company negotiated 20% to 30% rate reductions. As part of the overall coal procurement strategy, the Company seeks to maintain a consistent supply chain to mitigate coal supply constraints and ensure reliable, predictable, and sustainable coal deliveries in volatile fuel markets.”
+
+a.Does the Company anticipate any macroeconomic market changes for coal availability or transport in the near to long term?
+b.Provide industry reports or market outlook documents describing short-term future for coal commodity and transportation.
+c.Provide industry reports or market outlook documents describing long-term future for coal commodity and transportation.
+
+Response:
+
+The Company does not anticipate any macroeconomic market changes for coal availability nor transport in the near to long term. The Company continues to monitor global market conditions for events that could impact its access to affordable and reliable coal supply.
+
+Please see MFRP-13.5 submitted in the Company’s initial filing submitted February 17, 2026 for the market forecast outlook for coal commodity and transportation included in this filing. In addition, please see STF-JKA-2-25 Attachments A and B for recent industry reports.
+
+Please see the response to subpart (b) above.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-25 Attachment A PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-JKA-2-25 Attachment A has been redacted in its entirety.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-46.docx =====
+STF-JKA-2-46
+
+Question: 
+
+Provide the calculation of interest applied to the under-recovered fuel balance and confirm the interest rate used matches the Commission-approved rate.
+
+Response:
+
+Please see MFRH-15 submitted in the Company’s initial filing submitted February 17, 2026 for the calculation of monthly carrying cost on the Company’s under-recovered fuel balance during the historical period, including the source of short-term debt interest rate used in the calculation.
+
+Yes, the Company followed the Commission’s Order in Docket No. 17066, which directed the carrying cost rate on the under- or over-recovery of fuel expense to be set at Georgia Power’s monthly short-term debt rate. Also, consistent with Commission orders, the Company does not collect carrying costs on the first $15 million of under-recovered fuel balance.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-29.docx =====
+STF-JKA-2-29
+
+Question: 
+
+Refer to page 23, lines 12-22, “As presently approved, all RFP-related costs and revenues not otherwise recovered by Bid Fees or Winners Fees are recovered through the fuel clause. Such costs may include the Company’s labor costs from dedicated procurement personnel and the time spent by internal partners supporting the development of a given RFP (e.g. Transmission, Resource Planning, Environmental Affairs, etc.) as well as the cost of the Independent Evaluator, costs for the economic and transmission evaluations, and termination fees. For example, bid security retained by Georgia Power if a Short List bidder elects not to execute a PPA after being named to the Short List is credited to the fuel clause to the benefit of all customers. The same is true of any termination payment received for a PPA that is terminated early. In addition, once PPAs are in effect, all payments to counterparties are processed through the FCR.”
+
+a.Please identify the amounts of these costs included in the historic balance and identify where they are disclosed in the MFRH.
+b.Please identify the amounts of these costs included in the projected period and identify where they are reported in the MRFP.
+
+Response:
+
+Please see STF-JKA-2-29 Attachment for the Bid Fees and Winners Fees related to RFPs and their associated costs included in FCR during the historical period. These amounts are included, along with all the other renewable revenues and costs recoverable through FCR, in MFRH-2, Line “Net Renewable Program Expenses/(Revenues)” submitted in the Company’s initial filing on February 17, 2026.
+
+Please see the FCR-27 budget “MFRP-1 FCR-27 Budget TS.xls” provided in MFRP-1 submitted in the Company’s initial filing on February 17, 2026, Tab “Renewables”, and the monthly information shown under the programs “Distributed Generation” and “Utility Scale” as well as the additional expenses found in Excel rows 124 and 125 for the projected Bid Fees and Winners Fees related to future RFPs and their associated costs included in FCR for the projected test period.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-22 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-22
+
+Question: 
+
+When initializing the Company’s Aurora run provided in response to JKA-1-20, the warning message reads: "xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.”
+a. Please explain if the Company has investigated this warning message and results of such investigation.
+b. What is “Resource 260”? Is this “xxxxxxxxxxxxxxxxxx”?
+c. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx
+
+Response:
+
+Aurora setting Resource 260’s REDACTED does not change the unit’s operation in the model. For any questions related to unit names and unit resource numbers, please refer to Aurora output in response to STF-JKA-1-20.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-40 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-40
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxx, related to an outage caused by xxxxxxxxxxxxxxx.
+
+a.Please confirm if McIntosh CT7, event 4, spanning xxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx are continuations of the same outage event.
+b.Please confirm the correct outage end date and time associated with the RCA filing.
+c.If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d.If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined.
+
+Response:
+
+REDACTED.
+
+REDACTED.
+
+Please see the responses to subparts (a) and (b) above.
+
+REDACTED.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-17 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-17
+
+Question: 
+
+For Change Set, REDACTED
+
+a.What expansion plan units are assumed during the projected period?
+b.Please provide a load and resource balance tables for the forecasted FCR period modeled in Aurora.
+c.Are new planned resources included, such as those approved in the most recent CPCN? Please explain.
+d.Are generic resources considered during the FCR period? Please explain.
+
+Response:
+
+There are no expansion plan units not yet approved by the Commission assumed in the two-year projected test period. 
+
+Please see STF-JKA-2-17 Attachment.
+
+The units certified by the Commission in the most recent Certificate of Public Convenience and Necessity (CPCN) are included as named resources in the case. 
+
+There are no generic resources in the expansion plan for the projected test period.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-30.docx =====
+STF-JKA-2-30
+
+Question: 
+
+Refer to page 23, starting at line 23, “The Commission also approved the Company to recover through fuel any incremental renewable and nonrenewable resources (“RNR”) costs not otherwise recovered through the RNR program as well as the charges collected from customers participating in the Company’s Clean and Renewable Energy Subscription (“CARES”) Program.”
+
+a.Please identify the amounts of these costs included in the historic balance and identify where they are disclosed in the MFRH.
+b.Please identify the amounts of these costs included in the projected period and identify where they are reported in the MRFP.
+
+Response:
+
+Please see STF-JKA-2-30 Attachment, which includes the CARES and RNR program costs included in FCR during the historical period. The CARES program amounts are included in MFRH-2, Line “Net Renewable Program Expenses/(Revenues)” and RNR costs are included in Lines: “Net Renewable Program Expenses/(Revenues)” and “Solar,” as submitted in the Company’s initial filing on February 17, 2026.
+
+For the projected costs associated with the CARES programs, please see the FCR-27 budget “MFRP-1 FCR-27 Budget TS.xls” provided in MFRP-1 in the Company’s initial filing on February 17, 2026, Tab “Renewables”, and the monthly information shown under the programs labeled CARES Program, CARES Distributed Generation (DG) Program, and CARES Residential Community Solar Program. For the projected costs associated with the RNR program, please see the FCR-27 budget “MFRP-1 FCR-27 Budget TS.xls”, Tab “Renewables”, and the monthly information shown under the program Behind the Meter.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-3 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-3
+
+Question: 
+
+Refer to page 4, lines 10-15, “Finally, the Company proposes to expand its natural gas hedging program by increasing both the percentage of budgeted burn that may be hedged and the length of the hedging window. This expansion is warranted given the projected growth in natural gas burn in the Company’s budget. By enhancing the scope of the hedging program, the Company will be better positioned to mitigate exposure to price fluctuations and provide greater stability in fuel costs for the benefit of customers.”
+
+a.Refer to MFRH-10. Please explain if these gains/losses included any transaction fees or administrative costs. If so, provide administrative and transaction costs separately, by month.
+b.Provide a transaction level build up of the gains and losses totals by month. Provide transaction details in excel database.
+c.Please provide a copy of all existing hedging program guidelines, procedures, manuals, and process documentation.
+d.With the requested changes to the hedging program, has the Company considered proposing changes to the hedging program procedures and guidelines? Please explain.
+e.Storage usage and availability (historic)
+f.Storage usage and availability (projected)
+
+Response:
+
+The gains and losses reported in MFRH‑10 in the table labeled “Realized Hedging Gains/(Losses)” reflect only hedge settlement values and do not include administrative costs or transaction-related fees. Administrative costs associated with the hedging program were presented separately in MFRH‑10 and are not included in the gains/losses table.
+
+
+Georgia Power executes hedging transactions under bilateral International Swaps and Derivatives Association agreements and accordingly did not incur broker fees, exchange fees, margin costs, or other transaction-based charges associated with these instruments during the FCR-27 historical period. REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.
+
+STF-JKA-2-3 Attachment A contains the transaction level detail supporting the monthly realized hedge gains and losses reported in MFRH-10, for hedge months January 2023 through December 2025.
+
+STF-JKA-2-3 Attachment B contains the Company’s current Fuel Hedging Procedures. The attachment, together with the prior Georgia Power Public Service Commission Order in Docket No. 43011 addressing the hedging program, provides governance and oversight for the hedging program.
+
+The Company currently does not anticipate any changes to its internal procedures or program guidelines as result of the Company’s proposal to expand the hedging program. The program’s governance structure is already designed to accommodate adjustments in Commission-approved parameters without altering the operational framework.
+
+Please see MFRH-3.2 submitted in the Company’s original filing for details of storage usage and inventory during the historical period.
+
+The Company does not assume any storage withdrawals during the projected test period.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-6.docx =====
+STF-JKA-2-6
+
+Question: 
+
+How are the Company’s natural gas fired units economically dispatched in real time operations? Is the marginal price based on the hedged gas price position as a combination of contract and spot market prices, or just spot price? Please explain.
+
+Response:
+
+Please see the Company’s response to STF-PIA-1-3 for the description of the marginal cost used in the dispatch process for natural gas units. In keeping with economic marginal cost principles, marginal gas prices used for real-time dispatch are based on prevailing spot market prices. Financial hedging transactions are portfolio-level risk management instruments and are not part of the marginal dispatch process.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-7.docx =====
+STF-JKA-2-7
+
+Question: 
+
+Refer to MFRP-1, “MFRP-1 FCR-27 Budget TS.xls”, Tab: “Hedges”
+
+a.How did the Company derive the estimated (Gains)/Losses for each forward month. Please provide a narrative explanation.
+b.Provide underlying forecast hedging workpapers deriving the stream of values.
+c.Please explain if the hedged price or spot price underlying the values is consistent with the modeled gas forecasts in Aurora.
+
+Response:
+
+The mark-to-budget (“MTB”) of Georgia Power’s existing financial gas hedges is calculated by taking the difference between the deal price and the budget Henry Hub price. For volumes that are not yet hedged, the MTB is estimated by assuming these remaining volumes will be hedged at the annual average of the midpoint calculated as the average of the current NYMEX Henry Hub forward price at the calculation date and the budget Henry Hub price. The total hedging (Gains)/Losses are the sum of current portfolio’s MTB and the estimated MTB for the unhedged target volumes.
+
+Please see STF-JKA-2-7 Attachment.
+
+The Henry Hub pricing utilized in the hedge budget calculations provided in STF-JKA-2-7 Attachment is consistent with the Henry Hub price forecast utilized in AURORA for gas price forecasting.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-2.docx =====
+STF-JKA-2-2
+
+Question: 
+
+Refer to page 4, lines 4-8, “No. The Company is not proposing a specific date for its next fuel case.”
+a.Confirm the forecast period ends May 2028.
+b.Provide the incremental amount of generating capacity the Company anticipates bringing online over the FCR-27 forecast period through May 2028.
+c.Provide the incremental load growth the Company anticipates adding over the FCR-27 forecast period through May 2028.
+d.Please explain if the Company anticipates new capacity and large loads to increase overall fuel costs, for example the magnitude of fuel and purchase power assessed and evaluated in a fuel case.
+e.Has the Company considered aligning future FCR proceedings with an IRP or rate case filings? Why or why not?
+
+Response:
+
+Yes, the test period proposed in FCR-27 ends in May 2028.
+
+Please see MFRP-11 submitted in the Company’s initial filing submitted February 17, 2026 for the incremental generation capacity expected to come online in the projected test period. Of the megawatts (“MW”) of generation capacity listed, the following units are expected to come online:
+
+Resource
+Resource Effective Date
+O1_US_TIMBERLAND
+6/13/2026
+O3_MCGRAU_FORD_PHASE_2_4Hr
+8/1/2026
+O3_HAMMOND_BESS_4Hr
+8/1/2026
+O3_2022_IRP_MCGRAU_FORD_2Hr
+8/15/2026
+QF_ALLIGATOR_CREEK_SOLAR
+11/1/2026
+YATES_8
+12/1/2026
+YATES_9
+5/1/2027
+YATES_10
+8/1/2027
+O3_TWIGGS_COUNTY_4Hr
+11/1/2027
+O3_DECATUR_BESS_4Hr
+11/30/2027
+O3_WASHINGTON_CO_BESS_4Hr
+11/30/2027
+O3_DOUGHERTY_CO_BESS_4Hr
+11/30/2027
+O3_WHITE_PINE_BESS_4Hr
+11/30/2027
+O3_WHITE_OAK_BESS_4Hr
+11/30/2027
+O1_SR_BACON_III_PB
+12/1/2027
+O3_WADLEY_BESS_4Hr
+12/1/2027
+O1_GA_SOLAR_5
+12/1/2027
+QF_DRAWHORN SOLAR LLC
+1/1/2028
+QF_SANDERSVILLE SOLAR LLC
+1/1/2028
+O3_2019_DEMO_BESS
+4/30/2028
+
+Please see MFRP-17 and MFRP-13.4 submitted in the Company’s initial filing for the projected retail sales and wholesale sales, respectively, for the test period.
+
+The projected increase in retail load and wholesale sales will increase overall fuel expense as described in the Company’s Direct Testimony on page 16, line 16 through page 17, line 18. The projected incremental generation capacity noted in item (b) above is intended to serve the Georgia Power system as a whole and not specific individual customers. The Company expects any increase in overall fuel costs from additional load to be mostly offset by the additional expected revenues from the incremental load. Please see the Company’s response to STF-JKA-2-12.
+
+There are administrative challenges to concurrently filing multiple regulatory proceedings in a given year. Based on prior precedence, the Company’s Integrated Resource Plan (“IRP”) and base rate case filings are already scheduled to be filed triennially in the same year going forward. Adding the fuel case filing to this schedule within the same year will provide significant administrative challenges and will be overly burdensome.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-31.docx =====
+STF-JKA-2-31
+
+Question: 
+
+Refer to MFRP-1, “MFRP-1 FCR-27 Budget TS.xls”, Tab: “Renewables.” Please provide the calculations and all underlying workpapers supporting the pasted values in these rows for RECs and associated expenses.
+
+Response:
+
+Please see STF-JKA-2-31 Attachment. The only renewable programs that include projected REC expenses in the FCR-27 budget are Simple Solar and FLEX RECs programs. The projected monthly REC expenses for the projected test period are based on the average of actual monthly REC expenses for 2025 escalated for future years annually at 3%.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-24.docx =====
+STF-JKA-2-24
+
+Question: 
+
+Please explain what changes were made between the B2025 CPCN database (INPUT SP DB 10252024 415PM.xdb) and the B2026 FCR database (LiveDB_Snapshot_2025_10_03_B2026_EBUD_TS.xdb) used in this proceeding? Specifically, please summarize major updates relating to:
+
+a.Existing resources
+b.Fuel price
+c.VOM pricing
+d.FOM pricing
+e.Forced Outage rates
+f.Planned Outage schedules
+g.Load
+h.Sales volumes and/or pricing.
+i.Pool interchange or portfolio accounting
+j.Operating Reserve Demand Curve (ORDC)
+
+Response:
+
+All the information requested in items (a) through (i) are reviewed and updated as part of the annual budget cycle with best available operating and planning information at that time. Operating Reserve Demand Curve (ORDC) requested in item (j) is not an Aurora model input for fuel budget planning purposes.
+
+The database, INPUT SP DB 10252024 415PM.xdb, is based on the Budget 2025 (B25) planning cycle and LiveDB_Snapshot_2025_10_03_B2026_EBUD_TS.xdb is based on the Budget 2026 (B26) planning cycle. The Budget 2026 planning database includes updates to all major underlying planning assumptions, including load forecasts, fuel forecasts, existing unit assumptions, and new generation technology costs and performance.  A comparison of the databases can be performed using Aurora to identify all differences between the databases. Please see below for instructions.
+
+Aurora Database Compare Instructions:
+1.Open Aurora and select Tools in the ribbon at the top of the screen. Select DB Compare. A new screen will pop up that allows for the user to select two source files for comparison.
+2.Under Src1 Type, filter to xmpSQL. Select the purple Source button and navigate to the first database that will be used for comparison.
+3.Repeat the same process for Scr2 Type and navigate to the second database that will be used for comparison. 
+4.Select the Start Compare icon at the top left of your screen. This may take a few minutes. 
+5.Upon completion, a Comparison Report and new data tabs will print to the Comparison Project screen. Use the data tabs at the bottom of the screen to navigate between different input files. Items in Orange reflect data being removed. Items in Blue reflect data being added. Items in Light Blue reflect a data change.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-33.docx =====
+STF-JKA-2-33
+
+Question: 
+
+How is the Company accounting for dispatch of and energy related to the Santa Rosa PPA?
+
+a.Please explain if/how the Company has assigned any energy value to the contract to GPC in the historic period.
+b.Provide dispatch metrics and summary reports as to the cost and revenues associated with the PPA included in the historic period.
+c.Please explain if/how the Company has assigned any energy value to the contract to GPC in the projected period.
+d.Provide dispatch metrics and summary reports as to the cost and revenues associated with the PPA included in the forecast period.
+Response:
+
+The Santa Rosa PPA is a 4-year and 8-month power purchase agreement (“PPA”) from June 1, 2024, through December 31, 2028 between Georgia Power and Santa Rosa Energy Center, LLC. The energy portion of the monthly purchased power invoice payments to Santa Rosa is recorded as fuel expenses. Please see MFRH-13.2 submitted in the Company’s initial filing submitted February 17, 2026 for the summary details of the contract, including MWHs generated and fuel expenses, during the historical period. From June 1, 2024, through February 28, 2026, Georgia Power resold the facility’s energy to Florida Power and Light under a separate PPA sale. Please see MFRH-13.4 submitted in the Company’s initial filing for the summary details of the contract, including MWHs sold and revenues, during the historical period.
+
+Please see the response to subpart (a) above.
+
+Please see MFRP-13.2 submitted in the Company’s initial filing for the summary details of the contract, including projected generation MWHs and fuel expenses, during the projected test period. 
+
+Please see the response to subpart (c) above.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-41 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-41
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,related to xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+a. Please confirm if xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+b. Please confirm the correct outage end date and time associated with the RCA filing.
+c. If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d. If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined and applied.
+
+Response:
+
+REDACTED.
+
+REDACTED.
+
+Please see the responses to subparts (a) and (b) above.
+
+REDACTED.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-5.docx =====
+STF-JKA-2-5
+
+Question: 
+
+Confirm that the FCR-25 Order modified the natural gas hedging program, which included reducing the authorized hedging window from 48 to 36 months, and reducing the hedged amount from up to 50% of the Company’s natural gas burn to 40%. Explain why that change was proposed or effectuated in FCR-25?
+
+Response:
+
+Yes, the FCR-25 Order modified the hedging program as described above. These changes were part of a negotiated settlement of the parties in FCR-25 and occurred during a period of lower natural gas burn growth and lower relative price volatility than has been experienced since that time.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-27.docx =====
+STF-JKA-2-27
+
+Question: 
+
+Refer to page 19, lines 3-5, “Yes, the Company procured firm transportation from Transco for future generation of new combined cycle units at Plants Bowen and Wansley, which were approved by the Commission through the All-Source Certification in 2025. The capacity payments for this pipeline are projected to begin in November 2027, prior to the in-service dates of those units.”
+
+a.Please provide the precedent agreements for the additional firm transportation.
+b.Please detail the monthly capacity payments and the term of the contract as well as the projected in service date of the new combined cycle units at Plants Bowen and Wansley.
+
+Response:
+
+Please see the Company’s response to STF-JKA-1-42 for the copies of the contract and precedent agreements.
+
+For the monthly capacity payments and the term of the contract, please see the Company’s response to STF-JKA-1-42. Below are the projected in-service dates for Plant Bowen Units 6 and 7 and Plant Wansley Units 10 and 11.
+
+Plant Bowen In-Service Dates:
+Bowen 7 – 11/1/2029
+Bowen 8 – 5/1/2030
+
+Plant Wansley In-Service Dates:
+Wansley 10 – 11/1/2029
+Wansley 11 – 5/1/2030
+ 
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-1.docx =====
+STF-JKA-2-1
+
+Question: 
+
+Please provide all workpapers supporting the tables and charts included in the Direct Testimony of Company Witnesses Houston and Berrigan.
+
+a.Chart 2 - FCR-26 Under Recovered Fuel Balance
+b.Chart 3 - Henry Hub Spot Prices IFR
+
+Response:
+
+Please see MFRH-14 submitted in the Company’s original filing for monthly details of the FCR-26 over or under-recovered balance since June 2023.
+
+Please see STF-JKA-2-1 Attachment.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-44.docx =====
+STF-JKA-2-44
+
+Question: 
+
+Has the Company investigated any outages related to contractor performance that have been resolved or currently under investigation related to the historic period? Please explain which outages were of note and the status of any investigations and/or litigation/claims against contractors. 
+
+Response:
+
+The Company identified three outages related to contractor performance during the historical period based on the outage classification cause code 9920 related to “contractor error.” The details are provided below by plant outage. 
+
+Bowen Unit 4 (June 7, 2024)
+As a result of the Plant Bowen Unit 4 outage, the Company conducted an apparent cause analysis (“ACA”). An ACA is a structured, limited-scope investigation used to identify the apparent cause of an incident. ACAs are faster and less resource-intensive investigations than Root Cause Analyses, typically used to implement prompt corrective actions for single-cause events. The Bowen Instrumentation and Controls (“I&C”) team investigated the cause of the trip using Foxboro Distributed Control System (“DCS”) alarm journals and Burner Management System (“BMS”) signal trends. Control logic captured the BMS first-out as “low air flow;” however, one of the BMS air flow trips had pulsed true without a logical basis. Further investigation of that wiring circuit discovered that post-outage wire removal work was being done in the cabinet that contained that signal wire, among many others. As a result of the ACA investigation, the Company concluded that a mistake made by the electrical contractor working in that cabinet is the most plausible cause of the signal trends. The Company did not uncover evidence to the contrary or that supported any other cause. The Company has not asserted any claims against the contractor but continues to investigate its legal options. 
+
+McDonough Unit 6 (September 25-26, 2024)
+McDonough Unit 6, Event 10, resulted in a D1-6A Generator Turbine (“GT”) trip due to an air supply valve being closed by the contractor on the Thermostatic Control Assembly (“TCA”) regulating valve. Because this event was a Generation Availability Data System (“GADS”) event that resulted in a loss of megawatts (“MW”), a Corrective Action Report (“CAR”) was generated. This outage resulted from the contractor’s unfamiliarity with valve positioning. As a result of the outage, the Company held discussions with contractor leadership and all other contractors on site to emphasize the importance of involving the control room when conditions change. The Company has not asserted any claims against the contractor but continues to investigate its legal options. 
+
+McIntosh 10 (April 19, 2024)
+As a result of the McIntosh Unit 10 outage, Plant McIntosh completed a CAR to document the related findings. The apparent cause of this event was related to a contractor removing old electrical wire in the vicinity of a control system cabinet, causing a loose connection and tripping the steam turbine. The Company has not asserted any claims against the contractor but continues to investigate its legal options. 
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-14 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-14
+
+Question: 
+
+For each change set included in the Aurora modeling, please explain the purpose of each change and provide the workpapers supporting derivation of any values used in the constraints.
+
+Response:
+
+The following change sets were included in the 2026 Energy Budget case in the Aurora model applicable to the projected test period:
+
+REDACTED – applies fuel use constraints to the coal units to match the commitment strategy used by Fleet Operations and Trading. Please note, no constraints are modeled in this change set for the test period.
+
+REDACTED – applies daily firm transportation (“FT”) constraints to the gas pipelines to model winter constraints on the gas supply.
+
+REDACTED – applies the long term capacity expansion plan to model new units in the future. Please note, none of the units are projected to come online in the test period.REDACTED – applies a parameter so that Storage Resources are included in the spinning reserve constraint within the Commitment Optimization logic.
+
+Further details and workpapers related to the change sets listed above are provided in the Company’s responses to STF-JKA-2-15 through STF-JKA-2-18.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-10.docx =====
+STF-JKA-2-10
+
+Question: 
+
+Refer to Page 11, lines 8-11, “For the projected RTP revenues, the assumptions underlying the RTP revenues continued to follow the 2023 Energy Budget, which reflected higher natural gas prices than those used to project fuel expenses in the approved FCR-26 budget.”
+
+a.What is the impact of using the 2023 budget values instead of the 2026 values, if the actual RTP revenues will reflect actual operations? Please explain.
+b.How are these revenues trued up and analyzed for variance in future FCR evaluations? Please explain.
+c.Provide a table comparing the budgeted natural gas prcies in the 2023 Energy Budget versus the 2026 forecast used in this filing.
+
+Response:
+
+The section of the testimony referenced above is intended to explain the actual to budget variance during the historical period from January 2023 through December 2025. The Real Time Pricing (“RTP”) revenue forecast used to set fuel rates in the previous FCR-26 filing was based on the 2023 Energy Budget and that is compared to the actual RTP revenues based on actual operations during the historical period. There are no budgeted values that can be used during the historical period from the 2026 Energy Budget.
+
+The actual FCR over or under-recovered balance will always reflect the actual RTP fuel revenues on a monthly basis. For future variance analysis purposes only, budgeted RTP revenue forecast may be compared to the actual RTP revenues to explain any impact to FCR over or under-recovered balances.
+
+Please see STF-JKA-2-10 Attachment for a comparison of the natural gas price forecast during the projected test period (June 2023 – May 2025) in FCR-26 filing used to set fuel rates versus the projected test period (June 2026 – May 2028) in FCR-27 filing.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-19 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-19
+
+Question: 
+
+Provide a description for each Station Group included in Aurora. Please explain if all GPC modeled units are assigned to a station group. If not, why not?
+
+a.REDACTED
+b.REDACTED
+c.REDACTED
+d.REDACTED
+e.REDACTED
+f.REDACTED
+g.REDACTED
+h.REDACTED
+i.REDACTED
+j.REDACTED
+k.REDACTED
+l.REDACTED
+m.REDACTED
+n.REDACTED
+o.REDACTED
+p.REDACTED
+q.REDACTED
+r.REDACTED
+s.REDACTED
+Response:
+
+All the generating resources modeled in Aurora are grouped into specific Station Groups for reporting. Each group represents a unique resource type:
+REDACTED — Units using biomass fuels (wood waste, agricultural byproducts, etc.)
+
+REDACTED — Units fueled by coal
+
+REDACTED — Demand Side Curtailment
+
+REDACTED — Demand-Side Management
+
+REDACTED — Gas steam units
+
+REDACTED — Gas-fired combined-cycle units
+
+REDACTED — Simple-cycle natural gas turbines
+
+REDACTED — Units using water to produce energy
+
+i. REDACTED — Units using landfill-derived methane or gases
+j. REDACTED — Units operating on multiple fuel types
+k. REDACTED — Units using nuclear fuel
+l. REDACTED — Oil-fired turbine units
+m. REDACTED — Solar generation units. Facilities that generate electricity through the conversion of solar energy, with no direct air emissions during operation
+l. REDACTED — Wind generation units. Facilities that generate electricity by converting wind energy into electrical power, with no direct operational air emissions
+m. REDACTED — Battery energy storage systems. Facilities that store electrical energy for later dispatch to support grid operations and resource integration
+
+n.   REDACTED — Units that generate electricity from stored water pumped to reservoirs
+o. REDACTED — Electricity bought via agreements or market transactions
+p.REDACTED — Electricity sold through contracts or markets
+q.REDACTED — Resources owned by the REDACTED
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-28.docx =====
+STF-JKA-2-28
+
+Question: 
+
+Refer to page 19, lines 13-17, “For this firm transportation capacity projected in the FCR-27 test period, the Company plans to monetize the capacity in the market to generate revenues and have reflected the potential proceeds from the sale to FCR to offset the firm transportation expenses in this filing.
+a.Please confirm the Company plans to offset the full cost of the capacity payments each month by monetizing the capacity in the market. If this is not the case, please explain how the Company estimated to value of the capacity that would be monetized and how it will be credited back to the costs associated with firm transportation.
+b.What future firm transportation (FT”) costs are included in the projected period? Please provide all supporting documents (precedent agreements, etc.) and detail the contract terms associated with the firm transportation payments.
+c.What costs and revenues associated with future FT are included the projected period?
+d.How are these costs allocated through the FCR, TOU, and TOU-FD rates?
+
+Response:
+
+The Company intends to fully market the referenced firm transportation (“FT”) capacity associated with future Bowen and Wansley CC units, and any sale proceeds, in excess or shortfall of the capacity costs, will be credited to the fuel clause to offset the capacity costs. Any capacity costs net of sale proceeds will be included in the fuel clause to be recovered from, or returned to, customers.
+
+All other projected FT costs reflected in the test period relate to units projected to be in operation during the effective term of the FT. Please see the Company’s response to STF-JKA-1-42 for the projected natural gas FT costs included in the test period, including any copies of precedent agreements or contracts, and contract term details.
+
+Please see the responses to subparts (a) and (b) above. As referenced in the testimony, the FT capacity associated with future Bowen and Wansley CC units are offset by potential sale proceeds projected during the test period.
+
+Please see the response to subpart (c) above. Given the projected potential sale proceeds fully offset the capacity costs and net to zero cost in the test period for the referenced FT costs, there is no impact to any rate in this filing. 
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-3 Attachment B PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-JKA-2-3 Attachment B has been redacted in its entirety.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-4 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-4
+
+Question: 
+
+Refer to page 22, lines 6-9, “Based on the Commission approval in Docket No. 44902, the Company is currently allowed to hedge 40% of its budgeted natural gas burn up to 36 months. The Company is requesting the limits of the hedging program be increased to 60% of its budgeted natural gas burn up to 48 months.”
+
+a. How did the Company determine 60% and 48 months was appropriate? Why not 50% and 36 months?
+b. Provide any internal or third-party studies conducted by the Company to support the contention that a 48-month window provides superior price stability compared to the current 36-month window, specifically addressing the potential costs related to longer-dated hedges.
+c. Describe the anticipated impact of expanding the hedging window to 48 months on the Company’s liquidity, specifically regarding collateral requirements and margin calls during periods of extreme price volatility.
+d. Provide a comparison of the Company’s proposed 60%/48-month hedging limits with the hedging authorized for other Southern Company affiliates (e.g., Alabama Power, Mississippi Power).
+e. Provide any Value at Risk (VaR) or Monte Carlo simulations the Company performed to quantify the 'stability' benefits versus the potential cost of being 'locked-in' to above-market prices.
+
+Response:
+
+Based on management’s informed experience, along with the Commission’s guidance in prior Orders that hedging reduces exposure to natural gas price volatility, the Company evaluated hedge volume and tenor parameters that would meaningfully enhance stability without fundamentally altering the program’s risk profile.  Extending the hedging window to 48 months allows hedge transactions to be executed across a broader range of market conditions and entry points, reducing the likelihood that a disproportionate share of hedges are placed during any single higher-priced period.  Increasing the maximum hedge volume to 60% reflects the continued growth in the Company’s natural gas burn and provides a greater portion of that exposure with price stability.  Given the considerations described above, a 50% hedge volume limit and 36-month window would not provide the same degree of exposure reduction or execution diversification as the proposed 60% and 48-month parameters.
+
+The Company has not employed any third-party studies nor commissioned formal internal studies evaluating the proposal to expand the parameters of the hedge program. Rather, the Company relied on management’s experience administering the hedging program across multiple market conditions and the program’s objective of reducing exposure to adverse price volatility.
+While longer-dated hedges may reflect prevailing market liquidity conditions and risk premia embedded in forward prices, these characteristics are inherent features of the natural gas forward market rather than incremental costs created by the hedging program.  The Company does not view the extension from 36 months to 48 months as introducing a material change in these characteristics or in the overall risk profile of the program, and considers the proposed window consistent with the objective of enhancing fuel cost stability.
+The Company does not expect the extension of the hedging window from 36 to 48 months to materially increase liquidity risk or collateral requirements. Due to the Company’s utilization of bilateral International Swaps and Derivatives Association (ISDA) agreements for hedging program transactions, the Company does not have exposure to exchange-based margin calls.  REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. 
+
+Alabama Power’s Commission-ordered hedging program authorizes hedging up to 75% of projected natural gas burn with a maximum forward hedging window of 42 months. Mississippi Power’s Commission-ordered hedging program authorizes hedging up to 75% of territorial natural gas burn and does not specify a limit on the hedging window.
+
+The Company has not performed any Monte Carlo simulations as part of its evaluation of the proposed hedging program expansion.  The Company also did not rely on standalone Value at Risk (VaR) modeling to quantify a trade-off between price stability and the potential for being hedged above prevailing market prices.  
+
+The primary objective of the natural gas hedging program is to reduce exposure to adverse price movements and enhance fuel cost stability, rather than to minimize fuel costs across all possible price scenarios. While increasing the parameters of the hedge program can increase the potential for opportunity costs in scenarios where market price subsequently decline, the Company views this trade-off as an inherent aspect of a hedging program designed to provide protection against volatility and improve fuel cost stability over time.  Consistent with this objective, the Company and SCS consider and monitor risk exposures  as part of routine hedge strategy oversight.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-20.docx =====
+STF-JKA-2-20
+
+Question: 
+
+Provide a narrative description and intermediary workpapers used to process the Aurora output results into data found in the FCR budget workpapers. Include references to file names as needed.
+
+Response:
+
+Please see MFRP-11 Attachment submitted in the Company’s initial filing for the intermediary workpaper related to the data found in the FCR budget. The FCR budget workpapers are developed using two primary data sources that support the forecast of energy production, fuel costs, and wholesale energy transactions, which are Aurora Production and FinMod models. The worksheet provided in MFRP-11 Attachment integrates processed output data from the Aurora production model and blended fuel costs from the FinMod model to produce the forecasted energy and fuel cost components reflected in the FCR budget workpapers. 
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2 Affidavit.pdf =====
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-36 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-36
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxx related to an outage caused by a xxxxxxxxxxxx.
+Please confirm if xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  are a continuation of the same outage event.
+b. Please confirm the correct outage end date and time associated with the RCA filing.
+c. If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d. If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined.
+
+Response:
+
+REDACTED
+
+REDACTED
+
+REDACTED
+
+REDACTED.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-25 Attachment B PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-JKA-2-25 Attachment B has been redacted in its entirety.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-37 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-37
+
+Question: 
+
+Refer to MFRH-4.2 TS.xlsx, for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx related to an outage caused by xxxxxxxxxxxxxxxxxxx.
+
+a. Please confirm if xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxx is a continuation of the same outage event.
+b. Please confirm the correct outage end date and time associated with the RCA filing.
+c. If the attachment reflects additional time beyond what was included in the RCA, please explain how the Company determined the outage duration used for RCA purposes.
+d. If the events are a continuation of the same outage event, please confirm whether the Company has calculated and included all associated replacement power costs for the full outage duration in the RCA. If not, please explain how replacement power costs were determined.
+
+Response:
+
+REDACTED.
+
+REDACTED.
+
+Please see the responses to subparts (a) and (b) above.
+
+ REDACTED.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-23.docx =====
+STF-JKA-2-23
+
+Question: 
+
+For each unit modeled in Aurora,
+
+a.Please provide the minimum capacity of the resource as modeled.
+b.Please provide the minimum capacity of the resource in real-time operations.
+c.Please explain any discrepancies between the Aurora modeled minimum and the operations minimum.
+
+Response:
+
+Please see the attachments provided in the Company’s response to STF-JKA-1-20. The minimum capacity will be the calculation of the minimum heat rate segment multiplied by the capacity found in the SOCO Resources Southernized table in Aurora.
+
+Please see STF-JKA-2-23 Attachment for the minimum capacity of the resource in real-time operations as of March 2026.
+
+The Company has not performed a comprehensive analysis of discrepancies between minimum capacity provided in subparts (a) and (b). Any data from real time operations is a snapshot in time and the Company models the assumptions for future operations in Aurora based on the best available information at that time including any forecasted must-run assumptions.
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-12.docx =====
+STF-JKA-2-12
+
+Question: 
+
+Refer to page 17, lines 14-16, “This increase will be mostly offset by the revenues from additional energy sales projected in the test period from both retail and wholesale customers.” Provide analysis performed to assess incremental costs against incremental revenues related to additional energy sales by customer class.
+
+Response:
+
+The Company has not performed an analysis on the incremental costs and revenues related to additional energy sales by customer class. Fuel costs are recovered through the fuel clause based on the Company’s actual system fuel costs and are not calculated or assigned on an incremental, customer specific basis. As the fuel costs are aggregated as a whole and not assigned to specific customers, incremental revenues cannot be assigned to incremental fuel costs on a dollar for dollar basis. .
+    
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-21 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-21
+
+Question: 
+
+When initializing the Company’s Aurora run provided in response to JKA-1-20, warning messages read:“xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx” 
+a. Please explain if the Company has investigated this warning message and results of such investigation.
+b. How is the Company inputting outages into Aurora for the forecast period? Please explain if outages are scheduled or randomly generated.
+
+Response:
+
+The warning message is benign. The referenced .bin file is Aurora’s precomputed random outage seed file, which is used solely to reproduce identical results across repeated model runs. The file name shown in the warning (093025) corresponds to a prior intermediate version of the case. When the model was finalized and renamed to 100325_final, Aurora was unable to locate the earlier seed file and therefore automatically generated a new random outage sequence.
+
+The absence of the .bin file has no impact on the validity of the results; it only means that the exact random outage sequence from the intermediate case cannot be reproduced.
+
+Please see subparts (b) and (c) in the Company’s response to STF-JKA-1-19.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-32.docx =====
+STF-JKA-2-32
+
+Question: 
+
+How is the Company accounting for Southern Company dispatch of and energy related to the MPC PPA?
+
+a.Please explain if/how the Company has assigned any energy value to the contract to GPC in the historic period.
+b.Provide dispatch metrics and summary reports as to the cost and revenues associated with the PPA included in the historic period.
+c.Please explain if/how the Company has assigned any energy value to the contract to GPC in the projected period.
+d.Provide dispatch metrics and summary reports as to the cost and revenues associated with the PPA included in the forecast period.
+
+Response:
+
+The Mississippi Power Company (“MPC”) PPA is a 5-year affiliate power purchase agreement from January 1, 2024 through December 31, 2028 between Georgia Power and MPC for 750 MW of energy and capacity. The energy purchased from MPC flows through the pool and is recorded as fuel expenses. 
+
+The energy purchased from the pool is recorded as pool purchases and not specifically identified by the contract.
+
+The energy purchased from MPC flows through the pool and is budgeted as fuel expenses.
+
+The energy purchased from the pool is recorded as pool purchases and not specifically identified by the contract.
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-15 PUBLIC DISCLOSURE.docx =====
+STF-JKA-2-15
+
+Question: 
+
+For Change Set “xxxxxxxxxxxxxxxxxxxxxxxxxxxxx”
+
+a. Explain how the Company’s Aurora modeling allows for units to set marginal cost. Does the Company exclude units on must run? Please explain any adjustments or exceptions modeled in this change set that impact marginal price reporting.
+b.What burn limits are used for coal units in Aurora projection? Provide a narrative explanation for how limits are determined. Provide all supporting workpapers used to create the constraints.
+c.Is the Company making changes to Heat Rates for fuel budgeting purposes? Please explain what modifications are included in this change-set.
+
+Response:
+
+Aurora’s default practice is that the most expensive unit in the stack operating above its minimum capacity is the marginal resource for that hour. However, when the Company dispatches resources based on must-run coal constraints, those resources are typically restricted from setting marginal price in the Aurora model.
+
+ There are no minimum or maximum burn limits applied to coal units for the projected test period related to this change set.
+
+c. There are no changes to the Heat Rate table in this change set for Georgia Power resources. 
+
+
+===== DKT 56765 STF-JKA-2 PUBLIC DISCLOSURE/STF-JKA-2-47.docx =====
+STF-JKA-2-47
+
+Question: 
+
+Identify any changes in Southern Company Pool billing methodologies or ‘intercompany interchange’ agreements that occurred between FCR-26 and FCR-27 that impact the Georgia Power fuel budget.
+
+Response:
+
+There have been no changes in Southern Company Pool billing methodologies or intercompany interchange agreements between the FCR26 and FCR27 time periods that impact the Georgia Power fuel budget.

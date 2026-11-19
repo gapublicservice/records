@@ -1,0 +1,742 @@
+BEFORE THE
+               GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+GEORGIA POWER’S FUEL COST               )           Docket No. 56765
+RECOVERY (FCR-27) APPLICATION           )
+                                        )
+
+
+                         PUBLIC DISCLOSURE
+
+                          DIRECT TESTIMONY
+
+                             AND EXHIBITS
+
+                                   OF
+
+                         MICHAEL S. GOGGIN
+
+
+                            On Behalf of the
+
+                   Southern Alliance for Clean Energy,
+                               Sierra Club,
+                  and Natural Resources Defense Council
+
+
+                              April 9, 2026
+
+TABLE OF CONTENTS
+ 1. Introduction ........................................................................................................................................... 1
+ 2. Background on economic dispatch........................................................................................................ 3
+ 3. Analysis Method and Results ................................................................................................................ 6
+ 4. Dissecting the factors that drive uneconomic dispatch ....................................................................... 14
+ 5. Gas price risk ....................................................................................................................................... 16
+ 6. Conclusion ........................................................................................................................................... 22
+
+     DOCKET NO 56765                                              TESTIMONY OF MICHAEL GOGGIN
+                                                                     PUBLIC DISCLOSURE VERSION
+
+
+ 1   1. Introduction
+ 2   Q.    PLEASE STATE YOUR NAME AND JOB TITLE.
+ 3   A.    My name is Michael S. Goggin, and I am the Executive Vice President at Grid Strategies,
+ 4         LLC, a consulting firm based in the Washington, DC, area.
+ 5   Q.    HAVE YOU PROVIDED AN EXHIBIT SUMMARIZING YOUR EDUCATIONAL
+ 6         BACKGROUND AND PROFESSIONAL EXPERIENCE?
+ 7   A.    Yes. It is presented in Exhibit MG-1. This exhibit summarizes my relevant experience and
+ 8         qualifications.
+ 9   Q.    ON WHOSE BEHALF ARE YOU APPEARING?
+10   A.    I am testifying on behalf of the Southern Alliance for Clean Energy, Sierra Club, and
+11         Natural Resources Defense Council.
+12   Q.    HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE GEORGIA PUBLIC
+13         SERVICE COMMISSION OR OTHER UTILITY REGULATORY BODIES?
+14   A.    Yes. I have testified before the Georgia Public Service Commission (“GPSC” or
+15         “Commission”) in the last five Georgia Power Integrated Resource Plan (“IRP”) cases,
+16         which were the 2025 full IRP, 2023 IRP Update, and the full IRP filings in 2022, 2019,
+17         and 2016. I have also testified before state utility commissions in Arizona, Colorado,
+18         Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Missouri, Montana,
+19         Nevada, New Mexico, North Carolina, Ohio, Oklahoma, South Carolina, Virginia,
+20         Washington, and Wisconsin, before the Federal Energy Regulatory Commission
+21         (“FERC”), and before the U.S. House Energy and Commerce Committee’s Subcommitee
+22         on Energy.
+23   Q.    CAN YOU PLEASE OUTLINE YOUR TESTIMONY?
+24         My testimony first provides background on how economic dispatch efficiently determines
+25         which power plant units operate by dispatching the lowest-cost resources first. That section
+26         also explains how uneconomic dispatch, either due to designating higher-cost generators
+27         as “must-run” resources or simply using inputs that excessively dispatch higher-cost
+28         resources, results in excessive costs for Georgia Power (“the Company”) ratepayers.
+                                              Page 1 of 23
+
+
+     DOCKET NO 56765                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1          direct the Company to not negotiate coal supply and transportation contracts that include
+ 2          penalties for failing to meet minimum fuel delivery requirements. As explained below,
+ 3          those contract terms can cause the Company to run those plants even when they are not
+ 4          economic, resulting in their excessive and costly operation. In future fuel cost recovery
+ 5          cases, the Commission should also review new or extended fuel supply or transportation
+ 6          contracts to ensure they do not include penalties associated with minimum fuel delivery
+ 7          requirements.
+
+ 8          Finally, I recommend that the Commission implement a fuel cost sharing mechanism to
+ 9          incentivize the Company to more effectively manage gas price risk, and account for the
+10          risks of gas price volatility and uncertainty when weighing the prudence of the Company
+11          increasing its dependence on gas generation.
+
+12   Q.     ARE YOU SPONSORING ANY EXHIBITS FOR YOUR TESTIMONY?
+13   A.     Yes, I am sponsoring the following list of exhibits.
+14
+
+     Exhibit Name                                                                           Confidentiality
+     MG-1      Michael S. Goggin background and qualifications                              Public
+     MG-2      Georgia Power’s response to data request STF-PIA-2-3 - Attachment A          Trade Secret
+     MG-3      Georgia Power’s response to data request STF-PIA-2-2 - Attachment            Trade Secret
+     MG-4      Georgia Power’s response to data request STF-PIA-2-6 - Attachment            Trade Secret
+     MG-5      Georgia Power’s response to data request STF-PIA-2-3 - Attachment C          Trade Secret
+     MG-6      Georgia Power’s response to data request STF-PIA-1-13                        Public
+     MG-7      Georgia Power’s response to data request STF-PIA-1-3                         Public
+15
+
+16   2. Background on economic dispatch
+17   Q.     HOW DO UTILITIES TYPICALLY CHOOSE WHICH POWER PLANTS TO
+18          OPERATE?
+19   A.     Utility generation dispatch is designed to ensure that a generating facility with the lowest
+
+                                               Page 3 of 23
+
+     DOCKET NO 56765                                               TESTIMONY OF MICHAEL GOGGIN
+                                                                      PUBLIC DISCLOSURE VERSION
+
+
+ 1         incremental cost of producing an additional megawatt-hour (MWh) of electricity, also
+ 2         referred to as marginal cost or marginal production cost, is used first before a higher-cost
+ 3         resource like a coal plant is dispatched, which minimizes ratepayer costs. Incrementally
+ 4         more expensive generation is then dispatched until generation supply meets demand. A
+ 5         power plant’s marginal production cost includes its fuel cost and other variable operations
+ 6         and maintenance (“O&M”) costs that increase in proportion to the MWh generated at the
+ 7         plant. Capital and other fixed costs do not factor into the decision about which power plants
+ 8         are selected because those sunk costs are incurred regardless of whether the power plant
+ 9         operates. As a result, wind and solar resources that have no fuel cost and minimal variable
+10         O&M costs are typically dispatched first, generally followed by other resources with low
+11         marginal production costs like hydropower and nuclear, and then the grid operator
+12         progresses through the remaining available resources in order of increasing marginal
+13         production cost. While coal units are increasingly expensive to maintain and operate,
+14         whether a specific coal unit is the highest marginal cost resource in a given hour depends
+15         upon the specific variable costs associated with running that unit relative to other resources’
+16         variable costs. As noted above, the variable costs to dispatch a unit depends upon its
+17         variable O&M costs, its efficiency or heat rate, and the price of fuel, which for gas and to
+18         a lesser extent coal is driven by real-time supply and demand factors. Accordingly, some
+19         natural gas combined cycle generators have a lower marginal production cost than some
+20         coal plants, while gas combustion turbines are less efficient and therefore generally have a
+21         higher marginal production cost.
+22   Q.    HOW       DOES        UNECONOMIC             DISPATCH          SPECIFICALLY           HARM
+23         RATEPAYERS?
+24   A.    My analysis indicates that the Company’s coal units are routinely operating at a loss,
+25         reflecting that their marginal cost of producing electricity is greater than that of other
+26         resources that were available . This indicates that the cost for the coal unit to produce that
+27         electricity is greater than the value of that electricity. Said another way, the Company
+28         ratepayers would have saved money if the Company replaced the coal generation with
+
+                                               Page 4 of 23
+
+     DOCKET NO 56765                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           energy generated by another resource. This excess cost is passed on to the Company
+ 2           ratepayers through the fuel rider, which is determined in this proceeding. This uneconomic
+ 3           dispatch of coal also displaces generation from lower-cost resources like solar and
+ 4           hydropower, and in some cases from lower-cost natural gas combined cycle generation.
+ 5           The costs for ratepayers are particularly high when uneconomic dispatch results in the
+ 6           curtailment of renewable generation, replacing a non-emitting and zero-marginal-cost
+ 7           resource with costly coal generation.             For solar resources under Power Purchase
+ 8           Agreements with the Company, depending on the terms of those contracts, renewable
+ 9           curtailment can even result in the Company having to compensate renewable power
+10           producers for lost revenue, further increasing the cost of uneconomic dispatch to the
+11           Company ratepayers. By displacing lower-cost and lower-emitting generation, uneconomic
+12           coal dispatch also increases emissions of pollutants that harm public health and the
+13           environment.
+14   Q.      ARE       VERTICALLY-INTEGRATED                      UTILITIES         MORE         LIKELY        TO
+15           UNECONOMICALLY DISPATCH THEIR GENERATION?
+16   A.      Yes. In contrast to merchant generators whose profits are reduced by uneconomic
+17           generation, fuel costs do not affect the profits of vertically integrated utilities like the
+18           Company, which pass their fuel costs through to their ratepayers in proceedings such as
+19           this one. Many analysts have found that vertically integrated utilities are much more likely
+20           to uneconomically dispatch their coal plants than merchant plant owners because it does
+21           not affect their profits. 1 Vertically integrated utilities’ economic indifference to fuel costs
+22           requires diligent regulation from state utility commissioners to protect ratepayers from
+
+
+     1
+      See Catherine Morehouse, MISO Integrated Utilities Lost $492M From 2016-2019 Via Uneconomic Coal
+     Dispatch: Market Monitor, UTILITY DIVE (Oct. 9, 2020), https://www.utilitydive.com/news/miso-integrated-
+     utilities-lost-492m-from-2016-2019-via-uneconomic-coal-dis/586714/ (last visited July 15, 2025); JOE DANIEL ET
+     AL., UNION OF CONCERNED SCIENTISTS, USED, BUT HOW USEFUL?: HOW ELECTRIC UTILITIES EXPLOIT LOOPHOLES,
+     FORCING CUSTOMERS TO BAIL OUT UNECONOMIC COAL-FIRED POWER PLANTS (2020),
+     https://www.ucsusa.org/sites/default/files/2020-05/Used%20but%20How%20Useful%
+     20May%202020.pdf; RMI, Economic Dispatch Dashboard, UTILITY TRANSITION HUB,
+     https://utilitytransitionhub.rmi.org/economic-dispatch/ (last visited July 15, 2025).
+                                                     Page 5 of 23
+
+     DOCKET NO 56765                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1             imprudent commitment and dispatch decisions.
+
+ 2   Q.        WHAT IS A MUST-RUN DESIGNATION?
+ 3   A.        One form of uneconomic dispatch is a must-run designation. When a utility designates a
+ 4             unit as must-run, it elects to operate the unit regardless of economics. As a result, the unit
+ 5             will run even if it has a higher cost than the marginal resource that was selected through
+ 6             economic dispatch, which results in costs for ratepayers. There can be legitimate reasons
+ 7             for using a must-run designation, such as completing generator testing that requires a unit
+ 8             to operate, though in other cases must-run designations are not justified. As explained in
+ 9             the following section, our analysis conservatively excludes net ratepayer costs that were
+10             incurred during must-run designations, as the Company did not provide sufficient
+11             information to assess the prudency of those must-run designations.
+
+12   3. Analysis Method and Results
+13   Q.        WHAT METHOD DID YOU USE FOR YOUR ANALYSIS?
+14   A.        For each hour to date in the three-year historical period for which Georgia Power is
+15             requesting rate recovery in this proceeding, June 1, 2023 to May 31, 2026, I assessed
+16             whether the marginal production cost of an operating coal unit 2 exceeded the Company’s
+17             day-ahead forecast for system-wide marginal production cost, a metric that is also known
+18             as system “lambda.”3 System lambda measures the marginal cost of the highest cost unit
+19             dispatched across the Company’s system to meet electricity demand in an hour. The
+20             Company’s coal units include four units totaling 3,498.6 MW nameplate capacity at Plant
+21             Bowen, and three units totaling 2,673 MW at Plant Scherer, for a total of 6,171.6 MW.4
+22             The Company provided data through the end of February 2026 in response to discovery,
+23             so the analysis covers the period June 2023-February 2026, or approximately 2 and ¾
+
+
+     2
+       See Company’s Trade Secret Response to STF-PIA-2-3 Attachment A (providing hourly marginal production costs
+     for the coal units).
+     3
+         See Company’s Trade Secret Response to STF-PIA-2-2 Attachment.
+     4
+        Nameplate capacity taken from EIA, Preliminary Monthly Electric Generator Inventory: January 2026,
+     https://www.eia.gov/electricity/data/eia860m/.
+                                                     Page 6 of 23
+
+     DOCKET NO 56765                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1             years.
+
+ 2             In conducting this analysis, I used the Company’s day-ahead forecast for system lambdas,
+ 3             which varied depending on the incremental fuel costs and other incremental variable costs
+ 4             of the resources the Company dispatched during those specific hours. If an operating coal
+ 5             unit’s marginal production cost exceeded the system lambda, this indicates that the unit
+ 6             was uneconomic relative to other available resources, and thus the Company incurred a
+ 7             loss by operating the unit in that hour. To calculate the net cost of the Company keeping a
+ 8             coal unit online, for each must-run event, I also factored in the startup and shutdown costs
+ 9             for the unit to calculate the cost of the alternative case of the unit shutting down and then
+10             restarting once power prices were high enough for it to profitably operate. 5 Put simply,
+11             this counterfactual was intended to assess whether the costs associated with shutting off
+12             and restarting a high marginal cost coal unit outweigh the value of power provided by a
+13             lower marginal cost alternative resource. As a result, time periods in which a coal unit was
+14             unprofitable, but shutting it down and restarting it would have resulted in higher net costs
+15             to ratepayers, were not counted in our analysis as they did not impose a net cost on
+16             ratepayers. I also incorporated the Company’s reported coal unit operating constraints,
+17             including startup time, minimum uptime, and minimum downtime when designing this
+18             counterfactual.6 Accounting for these start up and shutdown costs and other operating
+19             constraints reduced the number of periods that resulted in a net cost for purposes of this
+20             case, as those dispatch decisions were arguably prudent for the Company’s existing
+21             generating fleet. However, the Commission should recognize that transitioning to a fleet
+22             with more flexible resources, like battery storage, will reduce the need to unprofitably
+23             operate inflexible coal resources.
+
+
+     5
+         See Company’s Trade Secret Response to STF-PIA-2-6 Attachment.
+     6
+         Id.
+                                                     Page 7 of 23
+
+     DOCKET NO 56765                                                        TESTIMONY OF MICHAEL GOGGIN
+                                                                               PUBLIC DISCLOSURE VERSION
+
+
+ 1   Q.         WHY DID YOU COMPARE THE COAL UNIT’S COST AGAINST SYSTEM
+ 2              LAMBDA?
+ 3   A.         Because system lambda reflects the marginal cost of the highest cost unit dispatched across
+ 4              the Company’s system to meet electricity demand in that hour, it is the best metric of the
+ 5              marginal cost of producing electricity in that hour. If the coal unit’s cost is higher than
+ 6              system lambda, this indicates that the lower-cost generator setting the system-wide lambda,
+ 7              and in many cases other resources like imports, could have more economically provided
+ 8              that generation than the coal unit.
+ 9   Q.         WHY DID YOUR ANALYSIS USE THE DAY-AHEAD FORECAST FOR
+10              LAMBDA INSTEAD OF REAL-TIME LAMBDA?
+11   A.         In the day-ahead timeframe, the utility selects which resources are “committed” to operate
+12              the next day, so the power plant operators can make any necessary preparations, like
+13              starting up their units (for coal units) or procuring fuel (for gas units). Because coal plants
+14              take a long time to start up and have limited flexibility, our analysis exclusively focused
+15              on the day-ahead forecast for system lambda. This metric accurately reflects the supply
+16              and demand balance and generator economics in the day-ahead timeframe when the
+17              Company decided which power plants to commit to operate so that long startup time coal
+18              units could be online by the next day. This makes our analysis conservative, as it does not
+19              penalize the Company when there were unexpected drops in electricity demand or
+20              increases in supply after the day-ahead timeframe when it committed the coal units. Said
+21              another way, this ensures the analysis is not “Monday morning quarterbacking” with the
+22              advantage of perfect hindsight, and instead is only judging the Company’s commitment
+23              decisions based on the information that was available to the Company at the time it made
+24              those decisions.
+
+25              Georgia Power is the operator for all units at Scherer,7 even though the units are jointly
+26              owned with other utilities, so Georgia Power is responsible for commitment and dispatch
+
+     7
+         For example, see Oglethorpe Power Corporation, SEC Form 10-K for 2024 at 5,
+
+                                                       Page 8 of 23
+
+
+     DOCKET NO 56765                                                          TESTIMONY OF MICHAEL GOGGIN
+                                                                                 PUBLIC DISCLOSURE VERSION
+
+
+ 1             that Plant Bowen has an average coal price that is significantly higher than Plant Scherer’s,
+ 2             and the national average. Specifically, Plant Bowen’s average coal price in 2025 was $3.96
+ 3             per million British thermal units (“MMBtu”), while Scherer’s was $3.02 per MMBtu,12 and
+ 4             the national average coal price was $2.55 per MMBtu in 2024.13 Plant Bowen is fueled by
+ 5             Appalachian and Illinois Basin coal, which is significantly more expensive to produce than
+ 6             the Powder River Basin coal used by most coal power plants. In response to discovery,
+ 7             Georgia Power indicates that:
+
+ 8                 The Company explored switching Plant Bowen over the years and the various
+ 9                 studies have shown that converting the coal units at Plant Bowen to be able to burn
+10                 PRB [Powder River Basin] coals would require a large amount of capital
+11                 investment. In addition, even though the PRB coal is cheaper than Appalachian and
+12                 IB [Illinois Basin] coal on average per ton basis, there is a capacity reduction
+13                 associated with PRB in comparison due to lower coal quality of subbituminous
+14                 coal. Given the significant capital investment required and the lower expected
+15                 capacity output with PRB coal, the switching of Plant Bowen to PRB coal would
+16                 be uneconomic for customers.14
+
+17             The fuel cost figures for Bowen and Scherer in the preceding paragraph are presented in
+18             $/MMBtu, so they account for differences in the energy content of different types of coal.
+19             The Company did not provide any studies in this docket supporting the conclusion that
+20             retrofit costs would outweigh fuel cost savings. In separate proceedings, the Company and
+21             the Commission should assess whether Bowen should be retired due to its high fuel costs
+22             and other factors.
+
+
+     12
+       EIA, Form EIA-923 detailed data with previous form data (EIA-906/920): 2025,
+     https://www.eia.gov/electricity/data/eia923/xls/f923 2025.zip, page 5, multiplying price times quantity for each coal
+     purchase, and then summing the total cost and dividing by the total quantity for all purchases.
+     13
+       Electric Power Annual 2024, Table 7.5, https://www.eia.gov/electricity/annual/pdf/epa.pdf. During the first nine
+     months of 2025, generators paid an average of $2.43/MMBtu for coal, per U.S. coal-fired generators reprieved by
+     higher gas prices, https://jkempenergy.com/2025/12/11/u-s-coal-fired-generators-reprieved-by-higher-gas-prices/.
+     14
+          Company response to STF-PIA-1-13.
+                                                       Page 13 of 23
+
+
+     DOCKET NO 56765                                                  TESTIMONY OF MICHAEL GOGGIN
+                                                                         PUBLIC DISCLOSURE VERSION
+
+
+ 1             those coal units to the detriment of ratepayers. The Commission should also recognize that
+ 2             transitioning to a fleet with more flexible resources that can quickly start up and respond
+ 3             to changes in supply and demand, like battery storage, will eliminate costs caused by day-
+ 4             ahead forecast errors.
+ 5   Q.        WHAT OTHER FACTORS CAN CAUSE UNECONOMIC DISPATCH?
+ 6   A.        Utilities can also uneconomically over-dispatch coal plants to use up surplus coal supplies
+ 7             to avoid penalties associated with minimum delivery requirements in coal transportation
+ 8             contracts. This factor was not accounted for in our analysis, as our analysis conservatively
+ 9             used the marginal fuel costs as provided by the Company in discovery without questioning
+10             their accuracy or reasonableness. As a result, our analysis likely significantly understates
+11             the full ratepayer costs of uneconomic dispatch.
+
+12             The Company explains that it reduces the assumed marginal fuel cost for coal generators
+13             in its generator commitment and dispatch decisions to account for these penalties, if the
+14             Company is falling below the minimum delivery requirement:
+
+15                     If the applicable transportation contract contains minimum-volume / take-or-pay
+16                     provisions with liquidated damages (or similar shortfall charges), the marginal
+17                     replacement cost of transportation component reflects those provisions only to the
+18                     extent they affect the incremental cost of additional deliveries based on the timing
+19                     of need:
+
+20                i.   When forecast deliveries are below the contractual minimum, the component of
+21                     transportation costs covered by the shortfall/liquidated damages is treated as fixed
+22                     and excluded from the marginal replacement cost for incremental deliveries up to
+23                     the minimum;… 17
+
+24             By reducing the fuel cost that is the primary component of the marginal production cost
+25             for coal generators, accounting for these penalties makes it much more likely for coal units
+
+
+     17
+          See Company’s Response to STF-PIA-1-3.
+                                                   Page 15 of 23
+
+     DOCKET NO 56765                                                      TESTIMONY OF MICHAEL GOGGIN
+                                                                             PUBLIC DISCLOSURE VERSION
+
+
+ 1           to operate. While this is the economically rational response to avoid those penalties, which
+ 2           is why our analysis conservatively does not contest the Company’s assumed fuel costs,
+ 3           contracts that include those penalties are economically inefficient as they incentivize
+ 4           Georgia Power to excessively operate coal plants to consume more coal. The Commission
+ 5           can ensure that this type of uneconomic dispatch does not occur in the future by requiring
+ 6           the Company to move to more efficiently structured contracts for coal transportation that
+ 7           do not include such penalties as new fuel contracts are signed or existing contracts come
+ 8           up for renewal. The Commission should also recognize that transitioning to a fleet that is
+ 9           less dependent on inflexible fuel contracts will reduce the cost of these penalties.
+
+10   Q.      WHAT STRUCTURE DOES AN ECONOMICALLY EFFICIENT FUEL
+11           CONTRACT USE INSTEAD OF PENALTIES FOR FAILING TO MEET
+12           MINIMUM DELIVERY QUANTITIES?
+13   A.      In an economically efficient fuel contract, the price the Company pays for each ton of
+14           delivered coal should only include the marginal cost of extracting and delivering that fuel.
+15           While the coal mine operator or railroad does have fixed costs associated with building and
+16           operating the infrastructure necessary to produce and deliver the coal, those fixed costs
+17           should be recovered separately from the variable per-unit price of the fuel. Capital and
+18           other fixed costs associated with that infrastructure should be recovered as fixed costs in
+19           the fuel supply contract, such as through a one-time payment or a fixed cost per year. Fuel
+20           contracts that use minimum delivery requirements and penalties to recover fixed costs are
+21           inherently inefficient as these fixed costs should not affect the marginal cost of the fuel.
+
+22   5. Gas price risk
+23   Q.      Is gas price volatility a major risk for the Company ratepayers?
+24   A.      Yes. Henry Hub natural gas prices have increased by around 50% over the last year and a
+25           half.18 Natural gas prices are volatile and uncertain on both a day-to-day basis due to
+
+
+     18
+       EIA, Henry Hub Natural Gas Spot Price (Dollars per Million Btu),
+     https://www.eia.gov/dnav/ng/hist/rngwhhdm.htm.
+                                                    Page 16 of 23
+
+     DOCKET NO 56765                                                       TESTIMONY OF MICHAEL GOGGIN
+                                                                              PUBLIC DISCLOSURE VERSION
+
+
+ 1           weather, and on a longer-term basis due to economic and geopolitical factors. Increased
+ 2           U.S. exports of Liquefied Natural Gas (LNG) have increasingly tethered domestic gas
+ 3           prices to the global price for gas, which is higher and heavily affected by geopolitical
+ 4           volatility and uncertainty. For example, Russia’s invasion of Ukraine and the ongoing
+ 5           closure of the Strait of Hormuz have caused global natural gas prices to increase
+ 6           dramatically, and to display greater volatility and uncertainty. The linkage between
+ 7           domestic and global natural gas prices is likely to increase as the U.S. is expected to roughly
+ 8           double its LNG export capacity by 2029, after increasing from essentially nothing to 15.4
+ 9           billion cubic feet per day (bcf/day) over the last decade,19 an amount that is comparable to
+10           nearly 17% of U.S. gas consumption in 2025.20
+
+11           Moreover, ongoing consolidation in the gas supply and transportation industries may result
+12           in higher and more volatile gas prices. Ernst and Young reports that oil and gas industry
+13           “[m]erger and acquisition expenditures increased 331% in 2024, from US$47.9 billion in
+14           2023, to US$206.6 billion in 2024.”21 For example, the largest gas producer in the
+15           Appalachian basin has recently completed acquisitions and announced plans to increase
+16           prices by reducing production.22
+17   Q.      HOW HAVE EXTREME COLD WEATHER EVENTS AFFECTED GAS PRICES?
+18   A.      Delivered gas prices also show major volatility and uncertainty on a short-term basis,
+
+
+     19
+       EIA, North America’s LNG export capacity could more than double by 2029, (October 16,
+     2025), https://www.eia.gov/todayinenergy/detail.php?id=66384.
+     20
+       EIA, U.S. natural gas consumption set a monthly and yearly record in 2025, (March 18, 2026)
+     https://www.eia.gov/todayinenergy/detail.php?id=67365#.
+     21
+       Ernst and Young, US oil and gas reserves, production and ESG benchmarking study,
+     https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/industries/oil-gas/documents/ey-us-oil-and-gas-
+     reserves-production-esg-study-2025-final.pdf at 6.
+     22
+       For example, see EQT, EQT Announces Strategic Production Curtailment, (March 2024)
+     https://ir.eqt.com/investor-relations/news/news-release-details/2024/EQT-Announces-Strategic-Production-
+     Curtailment/default.aspx; N. Cano, EQT's Q2 Call Highlights Strategic Shift Toward Demand-Linked Growth, (July
+     2025) https://aegis-hedging.com/insights/eqts-q2-call-highlights-strategic-shift-toward-demand-linked-growth;
+     Reuters, EQT to buy Olympus Energy assets for $1.8 bln to boost Marcellus presence, (April 2025)
+     https://www.reuters.com/business/energy/eqt-acquire-upstream-midstream-assets-olympus-energy-18-billion-2025-
+     04-22/.
+                                                     Page 17 of 23
+
+     DOCKET NO 56765                                                    TESTIMONY OF MICHAEL GOGGIN
+                                                                           PUBLIC DISCLOSURE VERSION
+
+
+ 1               primarily due to weather events that increase demand and/or affect supply. Cold weather
+ 2               events have the largest impact because they cause a spike in natural gas use for building
+ 3               heating, just as demand for electricity generation also increases. Because of the strong
+ 4               positive correlation between gas demand for building heating and electricity generation
+ 5               during winter, there are likely to be larger price spikes during extreme cold as more gas is
+ 6               used for electricity generation, including Georgia Power’s ongoing and proposed
+ 7               expansion of gas generation.
+
+ 8               Extreme cold events can also disrupt supplies of gas by causing gas wellheads to freeze,
+ 9               just as gas demand peaks. Pipeline constraints during periods of high demand can also
+10               cause price spikes or even shortages. Winter Storms Uri, Elliott, and Fern caused dramatic
+11               spikes in the price of natural gas in the Eastern U.S due to wellhead freezeoffs. For
+12               example, PJM notes that during Winter Storm Fern, there was a 10 billion cubic feet/day
+13               drop in natural gas production nationally due to frozen gas wells.23 This is smaller than the
+14               well freeze-offs during both Uri and Elliott, when gas production dropped by around 20
+15               percent nationally, or 20 billion cubic feet/day.24 While gas supply interruptions during
+16               Fern were not large enough to repeat the rolling blackouts that occurred during Uri and
+17               Elliott, ratepayers were not spared an economic hit. PJM notes that “Spot gas prices
+18               through this event reached historic levels throughout the eastern U.S. with many hubs
+19               trading well over $100/mmbtu with prices in NY and New England approaching
+20               $300/mmbtu.”25
+
+21               Shortfalls in gas supply due to wellhead freezeoffs, along with generator equipment failures
+22               and pipelines equipment outages and constraints, contributed to widespread correlated
+23               outages of gas generators during recent extreme cold weather events. FERC and NERC
+24               reports and regional analyses have documented that forced outages and derates of gas
+
+     23
+       PJM, January Cold Weather Operations, https://www.pjm.com/-/media/DotCom/committees-
+     groups/committees/oc/2026/20260205/20260205-item-03---cold-weather-update.pdf, at 38.
+     24
+          Id. at 40.
+     25
+          Id. at 38.
+                                                    Page 18 of 23
+
+
+MG-1: Michael S. Goggin background and
+            qualifications
+
+                                            Michael Goggin
+
+Education:
+    Harvard University class of 2004, B.A. cum laude in Social Studies
+    - Wrote thesis “Is it Time for a Change? Science, Policy, and Climate Change”
+
+Experience:
+    Grid Strategies                Executive Vice President                    February 2018-present
+    - Serve as an expert consultant on electricity transmission, grid integration, reliability,
+        market, and policy issues for non-profit, grid operator, state regulator, and industry clients
+    - Have testified before FERC and in dozens of state regulatory commission cases
+    - Actively engaged in NERC Standards development processes related to renewable and
+        storage resources
+
+      AWEA         Senior Director of Research, other titles      February 2008-February 2018
+      - Led team responsible for all American Wind Energy Association analysis
+      - Served as primary technical and economic expert on market design, transmission, grid
+        integration, carbon policy, and other topics
+      - Authored regulatory filings at state (IRP and transmission siting cases), regional (RTO
+        transmission and market design), and federal levels (FERC transmission, interconnection
+        standard, grid integration, and market design cases; EPA carbon policy)
+      - Directed economic and power sector modeling to inform AWEA’s policy strategy and
+        support advocacy positions
+      - Communicated with the press and policy makers about wind energy
+      - Other titles included Electric Industry Analyst, Senior Analyst, Manager of Transmission
+        Policy, Director of Research
+
+      Sentech, Inc.            Research Analyst               October 2005-February 2008
+      - Conducted economic analyses of solar, wind, geothermal, hydrogen, and energy storage
+         technologies for U.S. Department of Energy officials
+      - Provided analytical support for DOE’s renewable energy R&D funding decisions
+
+      Union of Concerned Scientists   Clean Energy Intern        May 2005-October 2005
+      - Worked with the legislative and field staff to promote the inclusion of pro-renewable
+         energy measures in the Energy Policy Act of 2005
+
+      State Public Interest Research Groups Policy Analyst      August 2004-May 2005
+      - Analyzed and advocated for clean energy policies at the state and federal level
+
+Publications available at https://gridstrategiesllc.com/reports/
+
+MG-2: Georgia Power’s response to data
+ request STF-PIA-2-3 - Attachment A
+
+Exhibit has been redacted in its entirety.
+
+MG-3: Georgia Power’s response to data
+ request STF-PIA-2-2 - Attachment.
+
+Exhibit has been redacted in its entirety.
+
+MG-4: Georgia Power’s response to data
+ request STF-PIA-2-6 - Attachment
+
+Exhibit has been redacted in its entirety.
+
+MG-5: Georgia Power’s response to data
+ request STF-PIA-2-3 - Attachment C
+
+Exhibit has been redacted in its entirety.
+
+MG-6: Georgia Power’s response to data
+       request STF-PIA-1-13
+
+                                  Georgia Power Company
+                                      Docket No. 56765
+                           Fuel Cost Recovery (FCR-27) Application
+                               STF-PIA Data Request Set No. 1
+
+
+STF-PIA-1-13
+
+Question:
+
+Please explain why Bowen is primarily fueled from Appalachian and Illinois Basin coal mines
+instead of lower-cost Powder River Basin coal mines.
+
+Response:
+
+The coal units at Plant Bowen became operational from 1971 to 1975 and were designed for
+Bituminous coals primarily sourced from Appalachian and Illinois Basin (“IB”) coal mines. The
+use of Powder River Basin (PRB) coal was very limited in the 1970’s and didn’t really become
+widespread in the Southeast until the 80’s and 90’s with the western railroad expansion and 1990
+Clean Air Act Amendments. The Company explored switching Plant Bowen over the years and
+the various studies have shown that converting the coal units at Plant Bowen to be able to burn
+PRB coals would require a large amount of capital investment. In addition, even though the PRB
+coal is cheaper than Appalachian and IB coal on average per ton basis, there is a capacity reduction
+associated with PRB in comparison due to lower coal quality of subbituminous coal. Given the
+significant capital investment required and the lower expected capacity output with PRB coal, the
+switching of Plant Bowen to PRB coal would be uneconomic for customers.
+
+
+Contact: Kyung Kim                                                                      Page 1 of 1
+
+MG-7: Georgia Power’s response to data
+        request STF-PIA-1-3
+
+                                  Georgia Power Company
+                                      Docket No. 56765
+                           Fuel Cost Recovery (FCR-27) Application
+                               STF-PIA Data Request Set No. 1
+
+
+STF-PIA-1-3
+
+Question:
+
+Please explain how the Company calculates the fuel cost used in determining the marginal cost of
+generation (item 2c above). Please explain whether this calculation is based on the contractual cost
+of fuel supply and transportation, the spot market price of fuel at that time, or other factors. If the
+coal supply or transportation contracts include any provisions for liquidated damages or other
+penalties for failing to meet minimum delivery quantities, take-or-pay provisions, or similar
+mechanisms, please explain if and how those provisions are accounted for in the fuel cost used in
+determining the marginal cost of generation from each coal unit.
+
+Response:
+
+Please see MFRP-13.5 submitted in the Company’s initial filing submitted February 17, 2026 for
+an overview of how marginal cost of fuel was determined for the projected test period.
+
+The marginal replacement costs for each gas-fired unit are typically updated once each gas trading
+day. These costs include the best estimate of the next day’s gas prices based on Intercontinental
+Exchange (“ICE”) average index pricing for the generating unit’s supply plus any pipeline fuel,
+transportation, and fuel use tax adders.
+
+The marginal replacement costs for each oil-fired unit are typically updated once each gas trading
+day. These costs include the best estimate of the next day’s fuel oil prices based on the Oil Price
+Information Services (“OPIS”) 10 AM rack average index pricing for the generating unit’s supply
+terminal plus a transportation adder to have oil delivered to the unit based on the current fuel oil
+supply agreement.
+
+Transportation for uncommitted coal is reflected in marginal replacement cost using the applicable
+active contract rate or recent carrier quote for the relevant origin/destination and time period. If
+the applicable transportation contract contains minimum‑volume / take‑or‑pay provisions with
+liquidated damages (or similar shortfall charges), the marginal replacement cost of transportation
+component reflects those provisions only to the extent they affect the incremental cost of additional
+deliveries based on the timing of need:
+
+  i.   When forecast deliveries are below the contractual minimum, the component of
+       transportation costs covered by the shortfall/liquidated damages is treated as fixed and
+       excluded from the marginal replacement cost for incremental deliveries up to the
+       minimum; and
+Contact: Kyung Kim                                                                         Page 1 of 2
+
+                                Georgia Power Company
+                                    Docket No. 56765
+                         Fuel Cost Recovery (FCR-27) Application
+                             STF-PIA Data Request Set No. 1
+
+
+ ii.   Once forecast deliveries are at or above the contractual minimum, marginal replacement
+       cost reflects the full applicable transportation rate for additional deliveries.
+
+
+Contact: Kyung Kim                                                                Page 2 of 2
+
+                                           BEFORE
+             THE GEORGIA PUBLIC SERVICE COMMISSION OF
+                                    DOCKET NO. 56765
+
+In re:
+                                                     CERTIFICATE OF SERVICE
+Georgia Power Company's Fuel Cost
+Recovery (FCR-27)
+
+I hereby certify that a true and correct copy of the Direct Testimony of Michael Goggin (Public
+Disclosure) on behalf of Sierra Club, NRDC, and SACE has been furnished by electronic mail
+on this 9th day of April, to the following:
+
+ Sallie Tanner                                       Robert Trokey
+ Executive Secretary                                 Justin Pawluk
+                                                     Chris Collado
+ Georgia Public Service Comm.
+                                                     Tom Newsome
+ 244 Washington Street, SW
+                                                     Jamie Barber
+ Atlanta, GA 30334
+                                                     Georgia Public Service Commission
+ stanner@psc.state.ga.us
+                                                     244 Washington Street, SW
+                                                     Atlanta, GA 30334
+ Jeffry C. Pollock                                   rtrokey@psc.ga.gov
+ J. Pollock Incorporated                             jpawluk@psc.ga.gov
+ 14323 South Outer 40 Road,                          ccollado@psc.ga.gov
+ Suite 206 N                                         tnewsome@psc.ga.gov
+ Town and Country, Missouri 63017-5734               jamieb@psc.ga.gov
+ jcp@pollockinc.com
+                                                     Jennifer Whitfield
+ Jeremiah Haswell                                    Amitav Kamani
+ Kyle Leach                                          Bob Sherrier
+ Georgia Power Company                               Alyssa Krantz
+ 241 Ralph McGill Boulevard, NE                      Southern Environmental Law Center
+ Atlanta, GA 30308-3374                              Ten 10th Street, NW, Suite 1050
+ jhaswell@southernco.com                             Atlanta, GA 30309
+ kleach@southernco.com                               jwhitfield@selc.org
+                                                     akamani@selc.org
+                                                     bsherrier@selc.org
+                                                     akrantz@selc.org
+
+Brandon F. Marzo
+Steven Hewitson
+Allison W. Pryor
+Troutman Pepper Hamilton Sanders LLP
+600 Peachtree Street NE, Suite 3000
+Atlanta, GA 30308-2216
+brandon.marzo@troutmansanders.com
+steven.hewitson@troutman.com
+allison.pryor@troutman.com
+
+
+Charles B. Jones, III
+Jim Kelleher
+Georgia Association of Manufacturers 75
+Fifth Street, NW
+Suite 3412
+Atlanta, GA 30308
+cjones@gamfg.org
+jkelleher@gamfg.org
+
+Robert B. Baker
+Robert B. Baker, PС
+2480 Briarcliff Road, NE, Suite 6
+Atlanta, Georgia 30329-3008
+bobby@robertbbaker.com
+
+
+                                          /s/ Caden Koontz
+                                          Caden Koontz
+                                          Sierra Club
+                                          50 F St. NW, Eighth Floor
+                                          Washington, DC 20001
+                                          (202) 650-6075
+                                          caden.koontz@sierraclub.org

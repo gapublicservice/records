@@ -1,0 +1,50 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104062,
+      "bytes": 215439,
+      "name": "56003 5.27.25 Hearing Request Cover Ltr.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222846/104062.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222846/104062"
+    },
+    {
+      "attachment_id": 104063,
+      "bytes": 14947,
+      "name": "56003 5.27.25 Hearing Request Response.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222846/104063.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222846/104063"
+    },
+    {
+      "attachment_id": 104064,
+      "bytes": 40396,
+      "name": "STF-PIA-2-42.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222846/104064.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222846/104064"
+    },
+    {
+      "attachment_id": 104065,
+      "bytes": 43460,
+      "name": "STF-PIA-2-42 Attachment.xlsx",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222846/104065"
+    }
+  ],
+  "company": "Staff",
+  "description": "Public Interest Advocacy Staff’s Response to Hearing Requests",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222846,
+  "filed_date": "2025-05-30",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222846"
+}

@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104027,
+      "bytes": 266548,
+      "name": "dkt_56002_56003_stf-wg-3_pd.zip",
+      "text": "zip (8 read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/222/222832/104027.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222832/104027"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 56002 & 56003 STF-WG-3 PD Data Request Responses",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222832,
+  "filed_date": "2025-05-29",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-29",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222832"
+}

@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108708,
+      "bytes": 2524728,
+      "name": "DN 44280 SDR Order Adopting Stipulation.docx",
+      "text": "docx",
+      "text_file": "data/text/227/227446/108708.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227446/108708"
+    },
+    {
+      "attachment_id": 108709,
+      "bytes": 5343830,
+      "name": "227446.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227446/108709"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ADOPTING STIPULATION",
+  "dockets": [
+    44280
+  ],
+  "document_id": 227446,
+  "filed_date": "2026-08-04",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-04",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227446"
+}

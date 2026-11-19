@@ -1,0 +1,648 @@
+===== DKT 56002 2026 Annual DERMS Report PD/DERMS Annual Report Cover Letter Public Disclosure (stamp).docx =====
+Bin 10230, 241 Ralph McGill Boulevard, NEAtlanta, GA  30308-3374Bin 10230, 241 Ralph McGill Boulevard, NEAtlanta, GA  30308-3374 
+Bin 10230, 
+241 Ralph McGill Boulevard, NE
+Atlanta, GA  30308-3374
+
+Bin 10230, 
+241 Ralph McGill Boulevard, NE
+Atlanta, GA  30308-3374
+
+
+PUBLIC DISCLOSURE
+
+October 16, 2026
+
+Ms. Sallie Tanner
+Executive Secretary
+Georgia Public Service Commission
+244 Washington Street, SW
+Atlanta, GA 30334-5701
+
+RE: Georgia Power Company’s Distributed Energy Resource Management System Annual Report; Docket No. 56002
+
+
+Dear Ms. Tanner:
+
+In accordance with the Order Adopting Stipulation issued by the Georgia Public Service Commission (the “Commission”) in the above-styled docket, Georgia Power Company hereby files its Distributed Energy Resource Management System (“DERMS”) Annual Report.
+
+The Report contains certain information that is being filed under the trade secret rules of the Commission. As such, a redacted version of this information and the basis for the trade secret assertion are also enclosed for public disclosure.
+
+Please contact Cheryl Johnson at 404-506-6837 if you have any questions regarding this filing.
+
+Sincerely,
+
+
+/s/ Jeremiah Haswell
+
+Jeremiah Haswell
+Director, Regulatory Affairs
+Georgia Power Company
+jhaswell@southernco.com
+
+===== DKT 56002 2026 Annual DERMS Report PD/2026 DERMS Annual Report PUBLIC DISCLOSURE.docx =====
+
+
+ 
+
+
+Distributed Energy Resource Management System (DERMS) 
+
+Annual Report
+
+Reporting Period End Date: June 30, 2026
+
+
+Table of Contents
+Executive Summary3
+DERMS Overview4
+Project Schedule and Status5
+Budget and Financials9
+Summary10
+
+
+Executive Summary
+Georgia Power Company (“Company”) is deploying a Distributed Energy Resource Management System (“DERMS”) to obtain visibility, predictability, and controllability of distributed energy resources (“DERs”), and orchestrate them in coordination with operations control systems. This strategic investment is being driven by years of continued DER growth that requires more advanced capabilities than the Company has today. By 2031, distribution-connected resource capacity is projected to more than double—from approximately 640 megawatts (“MW”) to 1.5 gigawatts (“GW”)—while project counts are expected to increase from approximately 16,200 to nearly 31,700. These growth trends are driven largely by new programs and continued behind-the-meter adoption. Over the same period, the Company’s demand response portfolio is forecasted to expand from approximately 84,680 devices (representing 56 MW) to approximately 150,000 devices (representing 97.65 MW).
+In the 2022 Rate Case Order Adopting Settlement (“2022 Rate Case Order”), the Georgia Public Service Commission (“Commission”) approved $40M for the Company to pursue enterprise DERMS capabilities. As part of that, the Commission, permitted Georgia Power to undertake preliminary steps towards planning and implementing DERMS, including modeling and visibility of DER; integration with the Company’s real-time operations platforms such as Energy Management System (“EMS”), Distribution Management System (“DMS”), and Supervisory Control and Data Acquisition (“SCADA”); and establishing DER remote configuration capabilities.  
+In the 2025 Integrated Resource Plan (“IRP”), the Company requested an additional $8M in funding to support ongoing work and continue building the capabilities needed for successful implementation. The Commission’s Order Adopting Stipulation (the “2025 IRP Order”) approved this request and provided as follows: “The Company is approved to further develop and deploy a Distributed Energy Resource Management System (DERMS) to enhance the control and operational capabilities of DERs to ensure reliability and enable and optimize grid support functions. The Company shall file annual reports on implementation status and budget versus actual costs.”
+Consistent with the 2025 IRP Order, the Company submits this report providing an update on implementation status, schedule, capabilities, budget performance, and near-term execution plans.
+After obtaining regulatory approval, Southern Company conducted market research, issued a Request for Information in August 2022, and issued a Request for Proposal (“RFP”) in August 2023, for a common enterprise Grid DERMS solution across its three operating companies.
+The enterprise procurement supported consistent architecture, economies of scale, negotiating leverage, and sustainable long-term support. The evaluation addressed more than 2,200 technical requirements, product demonstrations, costs, architecture, integration, and operational support. After thorough evaluation, Southern Company selected GE Vernova (“GEV”) to provide their Grid DERMS solution in June 2024 and began detailed design and implementation planning for its GridOS DERMS platform.
+During the second half of 2024, the Company conducted workshops with GEV and internal subject matter experts to develop detailed design and system architecture and then procured Phase 1 hardware. In January 2025, the Company began Phase 1 implementation, including installation of on-premise infrastructure, model development, and data integrations required for visibility, forecasting, and future DER orchestration.
+Future implementation phase(s) will add DER control capabilities, grid optimization, flexibility planning, cybersecure integrations with cloud-based third-party platforms, and integrations with internal real-time operating systems. The Company will deploy these capabilities incrementally to validate data quality, cybersecurity, platform performance, and operational readiness before introducing automated or semi-automated DER control into routine operations.
+The Budget and Financials section compares approved funding with actual and forecasted expenditures, satisfying the Commission’s annual reporting requirement and supporting fiscal transparency and regulatory accountability.
+DERMS will enable the Company to provide safe, reliable, resilient, and affordable service as distributed resources grow. Continued investment will improve operational visibility, support customer and third-party programs, and promote more effective use of existing grid infrastructure, while maintaining cybersecurity, operational readiness, schedule discipline, and budget accountability.
+DERMS Overview
+A Grid DERMS is a centralized system-of-systems software tool designed to manage and orchestrate Distribution-connected DER devices in coordination with existing grid operations control systems. This system provides enhanced visibility, forecasting of load and generation, cybersecure communications with DERs, system constraint management, and grid optimization, leveraging front-of-the-meter (“FTM”) and behind-the-meter (“BTM”) devices. Grid DERMS is able to monitor and control FTM and BTM DERs through communication gateways or cloud-based integrations. 
+An Edge DERMS is a platform specializing in BTM DER technologies and programs, capable of serving as an “aggregator of aggregators” and facilitating multiple types of BTM DER programs. Edge platforms offer enhanced visibility, forecasting, control, and localized optimization leveraging customer-centric BTM devices. Edge platforms are often utilized to facilitate cloud-based integrations with original equipment manufacturer (OEM) hardware enrolled in BTM DER programs, thus minimizing the amount of cloud integrations with on-premise Grid DERMS platforms and reducing cybersecurity risk.
+As DER adoption increases, the grid becomes more complex. These resources can have impacts on bulk power operations  by masking system loads and have detrimental effects on distribution grid equipment and power flows. DERMS is intended to complement and enhance the Company’s existing operating systems by providing new capabilities required to manage DERs at increasing scale. While systems such as the Advanced Distribution Management System (“ADMS”), EMS, and SCADA system remain foundational to grid operations, DERMS provides additional functionality that will equip the Company with the tools needed to maintain operational reliability, increase DER hosting capacity, and better utilize grid connected assets.
+In addition to operational benefits, for company controllable devices with appropriate operational parameters, DERMS can support customer energy affordability by helping the Company better manage peak demand and identify where DERs may contribute to or help relieve distribution constraints. By improving visibility and coordination of DERs, the Company can evaluate opportunities to optimize grid operations and potentially defer or reduce the scale of future infrastructure investments where appropriate.
+The Company’s DERMS vision is to use the platform as an enterprise capability that supports continued growth of renewable and customer-sited resources, expansion of BTM DER and demand response programs, orchestration of DERs and DER aggregations, and enhanced operational efficiency. Over time, DERMS is expected to help the Company make better operational decisions by leveraging the value of DER grid services locally to support system needs.
+Project Schedule and Status
+The Company is implementing GE Vernova’s GridOS DERMS through a phased, use-case-driven approach that reflects the complexity of deploying an on-premises operational technology platform across critical grid systems. The sequence establishes data, modeling, visibility, and forecasting foundations before introducing automated dispatch, optimization, and broader integration with operating systems. This approach allows the Company to validate data quality, strengthen cybersecurity protections, confirm system performance, develop operating procedures, and prepare users before expanding automated or semi-automated DER dispatch in routine operations. 
+
+
+Phase 1 established the core technical foundation required for reliable, scalable, cybersecure DERMS operations. The Company installed the DERMS hardware infrastructure for multiple environments and deployed five of seven software modules. Phase 1 software module descriptions are included below.
+Model Manager ingests and maintains network and DER asset data, providing an accurate, current information foundation for modeling and operations. 
+Program Manager centralizes program, contract, and enrollment information and supports reporting on resource performance, availability, and constraints. 
+Gateway provides a standards-based communications interface between DERMS, individual DERs, and aggregators to support monitoring and future control, including communications aligned with OpenADR, DNP3 and IEEE 2030.5. 
+Operations consolidates DER information and alerts in a unified interface, giving operators improved situational awareness and a means to identify and manage DER-related operating issues. 
+Forecasting continuously applies available forecasting models to load, generation, weather, and historical data, improving the Company’s ability to anticipate DER output and feeder conditions.
+
+
+In addition to the installation of hardware and software modules, the Company developed a Logical Network Model (“LNM”) of the distribution system utilizing GIS and DER asset information, established data integrations for SCADA telemetry, SCADA historical data, weather data, and enrollment and event data from 3rd party aggregators. As a result, the Company entered 2026 with the ability to view DER geographic locations, near-real-time visibility of generation from SCADA-connected front-of-the-meter resources rated at 1 MW or greater, and feeder-level load and solar generation forecasts extending up to seven days. These capabilities improve operational awareness of where DERs are located, how they are performing, and how forecasted DER generation could affect distribution feeders and bulk power operations. This initial functionality will support more informed operational and planning decisions.
+Additional Phase 1 work in 2026 has prepared the platform for broader operational use. The Company developed initial DER field gateway prototypes; evaluated DNP3 and IEEE 2030.5 communication protocols; advanced secure communications and certificate-management designs; automated tech stack deployment processes; strengthened role-based access controls; and expanded DERMS information sharing for internal reports, dashboards, and analytics. During 2026, the Company is stabilizing and hardening the on-premises technology stack, upgrading GridOS DERMS to the latest version, developing DER field gateway hardware and secure communications standards, and establishing the field communications path required to securely monitor and control connected resources.
+During Phase 2, the Company is building upon this foundation by establishing secure DER control capabilities and installing the remaining two modules: Optimization and Flexibility Planning. Subject to applicable agreements and operating parameters, control capability will allow the Company to issue defined instructions such as on/off commands, active-power setpoints, curtailment instructions, and charging/discharging event schedules. Phase 2 software module descriptions are included below.
+Optimization will evaluate network constraints, DER availability, economics, and dynamic operating envelopes to develop schedules and dispatch actions that address operating needs while remaining within applicable limits. 
+Flexibility Planning will provide a study environment for short-term operational planning and longer-term scenario analysis, including evaluation of DER dispatch alternatives and potential non-wires solutions before implementation. 
+Together, these capabilities will move DERMS from observing and forecasting DER behavior, toward planning and coordinating eligible resources as grid-support tools while preserving appropriate operator oversight.
+In 2027, the Company expects to introduce preliminary optimization, planning, and control capabilities into system operations. The planned operating model includes an established DERMS Desk for system monitoring, forecasting, secure control of eligible front-of-the-meter resources, and initial dispatching (e.g., active power export schedules, curtailments) to support system operations and mitigate thermal constraints. The Company plans to utilize these capabilities to monitor and control resources procured through the 2026 distributed generation (“DG”) RFP. In preparation for incorporating these new capabilities into system operations, the Company provided thorough documentation to Commission Staff outlining DERMS operational procedures related to area constraint management, load and generation balancing, and curtailment. The documentation also addresses facility requirements, such as Potential High Limit (“PHL”), performance requirements, data requirements and telemetry requirements. The Company worked closely with the DG Working Group to provide clarity around the new technical requirements and expectations for participating in these types of programs, to ensure they can incorporate these elements into their system design(s) and financial projections. In 2027, Edge DERMS and third-party aggregator integrations will also be completed, expanding visibility and dispatch capabilities of behind-the-meter resources and aggregated customer programs. These developments are expected to provide a controlled, operator-supervised means of coordinating a broader portfolio of DERs and evaluating their contribution to local grid needs.
+In 2028, the roadmap progresses towards more advanced grid optimization and planning capabilities enabled through the integration of DERMS with ADMS, and utilization of the as-switched Full Impedance Network Model (“FINM”). These integrations will provide the Optimization module with real-time system conditions for constraint-aware DER dispatching and will strengthen the Flexibility Planning module’s evaluation of short-term DER impacts, longer-term scenarios, and potential alternatives to traditional infrastructure solutions. Integrations with Fleet Operations and Bulk Power Operations systems will improve visibility and coordination of distribution-connected DERs and forecasts across generation, transmission, and distribution operations. Connection of additional resources procured through the 2027 DG RFP, as well as the DG Customer Identified Resource (“CIR”) option could result in upwards of 100 MW of front-of-the-meter resources from the 2026 and 2027 procurements, as approved by the Commission, being available for DERMS dispatch. The Company will also be developing strategies to leverage DER aggregations for bulk-grid support. These capabilities are expected to improve constraint management, cross-system coordination, and use of participating DERs while maintaining reliability and appropriate operational controls.
+By 2029, the Company expects DERMS operations will begin to mature and become more integrated across the Distribution Control Center, Fleet, and Bulk Power Operations. Planned outcomes include integration of DER aggregations within Fleet Operations automatic generation control  for system-level grid support, expansion of automated dispatch to eligible resources managed through the DERMS Operations Desk, and deeper integration between ADMS and DERMS with regards to constraint management and system configuration. 
+The timing and scope of these future capabilities remain subject to successful testing, cybersecurity validation, resource availability, completion of required integrations, and operational readiness. The Company will continue to advance the roadmap incrementally and will evaluate new functionality prior to full-scale deployment to preserve system reliability and customer satisfaction. This phased progression provides a clear line from Phase 1 accomplishments, to the visibility and forecasting benefits available in 2026, to the future control, optimization, planning, and cross-system coordination outcomes expected through 2029.
+Budget and Financials
+The Budget and Financials section provides the required comparison of DERMS budgeted amounts, actual expenditures, year-to-date spending, and forecasted costs. The financial data in the table below includes actual expenditures for 2024 and 2025, year-to-date actuals through June 2026, projected spending for the remainder of 2026, and forecasted costs for 2027 and 2028. These figures provide a consolidated view of capital, one-time operations and maintenance, and recurring operations and maintenance costs associated with the GridOS DERMS hardware and software implementation only.
+
+Georgia Power Company Implementation Plan Costs
+
+2024
+2025
+2026
+2027
+2028
+
+
+Category
+YE Actuals
+YE Projection
+YE Actuals
+YE Projection
+Q2 Actual
+YE Projection
+YE Projection
+YE Projection
+Final Projected Actuals
+Previous Final Projections
+Vendor (Software Licensing, Labor)
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Hardware
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Implementation Company Labor(One-Time O&M deferred to a regulatory asset)
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Implementation Company Labor
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Maintenance (Recurring O&M)
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+AFUDC
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Total Cost
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+The Company submitted the DERMS project for consideration in the U.S. Department of Energy (“DOE”) loan program to support the deployment of Virtual Power Plants (“VPPs”). The purpose of this program is to make the U.S. grid more flexible, affordable, clean, and resilient as the economy electrifies. While the DOE loan guarantee will provide several financial benefits for the Company and its customers, savings projections are not yet demonstrable at this time. 
+Summary
+DERMS is a strategic technology investment that is increasingly important to the Company’s ability to operate a more complex and distributed electric grid. Customer-sited resources, distribution-connected generation, storage, electric vehicles, demand response, and flexible load opportunities continue to grow. DERMS is also central to the Company’s long-term affordability and grid-of-the-future objectives. The Company will be better positioned to make data-driven operating and planning decisions, improve the use of existing infrastructure, support future customer and third-party programs, and evaluate opportunities to defer or refine future investments where appropriate. 
+
+The Company has made meaningful progress moving DERMS from strategy and regulatory approval into active implementation. These accomplishments provide the data, modeling, visibility, and operational foundation required for DERMS to be expanded into control and optimization. The next phase of implementation will move DERMS beyond visibility and forecasting and enable the DERs to be orchestrated as flexible grid resources for reliability, system constraint management, customer programs, and grid optimization. The phased approach is intentional and prudent. It allows the Company to validate data quality, strengthen cybersecurity protections, harden the technology platform, develop operational workflows, prepare support models, and train users before expanding automated or semi-automated DER control in routine grid operations.
+The Company will continue to manage this initiative with disciplined execution, cybersecurity focus, operational readiness, transparent cost reporting, and regulatory accountability. Continued investment in DERMS will help the Company safely integrate a growing portfolio of distributed and customer-sited resources. It will also help preserve reliability, support affordability, and prepare the electric grid for the future needs of customers and communities.
+
+===== DKT 56002 2026 Annual DERMS Report PD/DKT 56002 2026 Annual DERMS Report PD.pdf =====
+                                                                         Bin 10230,
+                                                                         241 Ralph McGill Boulevard, NE
+                                                                         Atlanta, GA 30308-3374
+
+
+PUBLIC DISCLOSURE
+
+October 16, 2026
+
+Ms. Sallie Tanner
+Executive Secretary
+Georgia Public Service Commission
+244 Washington Street, SW
+Atlanta, GA 30334-5701
+
+RE:    Georgia Power Company’s Distributed Energy Resource Management System
+       Annual Report; Docket No. 56002
+
+
+Dear Ms. Tanner:
+
+In accordance with the Order Adopting Stipulation issued by the Georgia Public Service
+Commission (the “Commission”) in the above-styled docket, Georgia Power Company hereby
+files its Distributed Energy Resource Management System (“DERMS”) Annual Report.
+
+The Report contains certain information that is being filed under the trade secret rules of the
+Commission. As such, a redacted version of this information and the basis for the trade secret
+assertion are also enclosed for public disclosure.
+
+Please contact Cheryl Johnson at 404-506-6837 if you have any questions regarding this filing.
+
+Sincerely,
+
+
+/s/ Jeremiah Haswell
+
+Jeremiah Haswell
+Director, Regulatory Affairs
+Georgia Power Company
+jhaswell@southernco.com
+
+
+                 PUBLIC DISCLOSURE
+
+
+Distributed Energy Resource Management System
+                   (DERMS)
+
+                  Annual Report
+
+            Reporting Period End Date: June 30, 2026
+
+
+                               1
+
+                                           PUBLIC DISCLOSURE
+
+
+                                               Table of Contents
+Executive Summary ..................................................................................................... 3
+DERMS Overview ......................................................................................................... 4
+Project Schedule and Status ....................................................................................... 5
+Budget and Financials ................................................................................................. 9
+Summary ................................................................................................................... 10
+
+
+                                                              2
+
+                               PUBLIC DISCLOSURE
+
+
+Executive Summary
+Georgia Power Company (“Company”) is deploying a Distributed Energy Resource
+Management System (“DERMS”) to obtain visibility, predictability, and controllability of
+distributed energy resources (“DERs”), and orchestrate them in coordination with
+operations control systems. This strategic investment is being driven by years of continued
+DER growth that requires more advanced capabilities than the Company has today. By
+2031, distribution-connected resource capacity is projected to more than double—from
+approximately 640 megawatts (“MW”) to 1.5 gigawatts (“GW”)—while project counts are
+expected to increase from approximately 16,200 to nearly 31,700. These growth trends are
+driven largely by new programs and continued behind-the-meter adoption. Over the same
+period, the Company’s demand response portfolio is forecasted to expand from
+approximately 84,680 devices (representing 56 MW) to approximately 150,000 devices
+(representing 97.65 MW).
+
+In the 2022 Rate Case Order Adopting Settlement (“2022 Rate Case Order”), the Georgia
+Public Service Commission (“Commission”) approved $40M for the Company to pursue
+enterprise DERMS capabilities. As part of that, the Commission, permitted Georgia Power
+to undertake preliminary steps towards planning and implementing DERMS, including
+modeling and visibility of DER; integration with the Company’s real-time operations
+platforms such as Energy Management System (“EMS”), Distribution Management System
+(“DMS”), and Supervisory Control and Data Acquisition (“SCADA”); and establishing DER
+remote configuration capabilities.
+
+In the 2025 Integrated Resource Plan (“IRP”), the Company requested an additional $8M in
+funding to support ongoing work and continue building the capabilities needed for
+successful implementation. The Commission’s Order Adopting Stipulation (the “2025 IRP
+Order”) approved this request and provided as follows: “The Company is approved to
+further develop and deploy a Distributed Energy Resource Management System (DERMS)
+to enhance the control and operational capabilities of DERs to ensure reliability and
+enable and optimize grid support functions. The Company shall file annual reports on
+implementation status and budget versus actual costs.”
+
+Consistent with the 2025 IRP Order, the Company submits this report providing an update
+on implementation status, schedule, capabilities, budget performance, and near-term
+execution plans.
+
+After obtaining regulatory approval, Southern Company conducted market research,
+issued a Request for Information in August 2022, and issued a Request for Proposal
+
+
+                                             3
+
+                               PUBLIC DISCLOSURE
+
+(“RFP”) in August 2023, for a common enterprise Grid DERMS solution across its three
+operating companies.
+
+The enterprise procurement supported consistent architecture, economies of scale,
+negotiating leverage, and sustainable long-term support. The evaluation addressed more
+than 2,200 technical requirements, product demonstrations, costs, architecture,
+integration, and operational support. After thorough evaluation, Southern Company
+selected GE Vernova (“GEV”) to provide their Grid DERMS solution in June 2024 and began
+detailed design and implementation planning for its GridOS DERMS platform.
+
+During the second half of 2024, the Company conducted workshops with GEV and internal
+subject matter experts to develop detailed design and system architecture and then
+procured Phase 1 hardware. In January 2025, the Company began Phase 1
+implementation, including installation of on-premise infrastructure, model development,
+and data integrations required for visibility, forecasting, and future DER orchestration.
+
+Future implementation phase(s) will add DER control capabilities, grid optimization,
+flexibility planning, cybersecure integrations with cloud-based third-party platforms, and
+integrations with internal real-time operating systems. The Company will deploy these
+capabilities incrementally to validate data quality, cybersecurity, platform performance,
+and operational readiness before introducing automated or semi-automated DER control
+into routine operations.
+
+The Budget and Financials section compares approved funding with actual and forecasted
+expenditures, satisfying the Commission’s annual reporting requirement and supporting
+fiscal transparency and regulatory accountability.
+
+DERMS will enable the Company to provide safe, reliable, resilient, and affordable service
+as distributed resources grow. Continued investment will improve operational visibility,
+support customer and third-party programs, and promote more effective use of existing
+grid infrastructure, while maintaining cybersecurity, operational readiness, schedule
+discipline, and budget accountability.
+
+
+DERMS Overview
+A Grid DERMS is a centralized system-of-systems software tool designed to manage and
+orchestrate Distribution-connected DER devices in coordination with existing grid
+operations control systems. This system provides enhanced visibility, forecasting of load
+and generation, cybersecure communications with DERs, system constraint management,
+and grid optimization, leveraging front-of-the-meter (“FTM”) and behind-the-meter (“BTM”)
+
+
+                                             4
+
+                               PUBLIC DISCLOSURE
+
+devices. Grid DERMS is able to monitor and control FTM and BTM DERs through
+communication gateways or cloud-based integrations.
+
+An Edge DERMS is a platform specializing in BTM DER technologies and programs, capable
+of serving as an “aggregator of aggregators” and facilitating multiple types of BTM DER
+programs. Edge platforms offer enhanced visibility, forecasting, control, and localized
+optimization leveraging customer-centric BTM devices. Edge platforms are often utilized to
+facilitate cloud-based integrations with original equipment manufacturer (OEM) hardware
+enrolled in BTM DER programs, thus minimizing the amount of cloud integrations with on-
+premise Grid DERMS platforms and reducing cybersecurity risk.
+
+As DER adoption increases, the grid becomes more complex. These resources can have
+impacts on bulk power operations by masking system loads and have detrimental effects
+on distribution grid equipment and power flows. DERMS is intended to complement and
+enhance the Company’s existing operating systems by providing new capabilities required
+to manage DERs at increasing scale. While systems such as the Advanced Distribution
+Management System (“ADMS”), EMS, and SCADA system remain foundational to grid
+operations, DERMS provides additional functionality that will equip the Company with the
+tools needed to maintain operational reliability, increase DER hosting capacity, and better
+utilize grid connected assets.
+
+In addition to operational benefits, for company controllable devices with appropriate
+operational parameters, DERMS can support customer energy affordability by helping the
+Company better manage peak demand and identify where DERs may contribute to or help
+relieve distribution constraints. By improving visibility and coordination of DERs, the
+Company can evaluate opportunities to optimize grid operations and potentially defer or
+reduce the scale of future infrastructure investments where appropriate.
+
+The Company’s DERMS vision is to use the platform as an enterprise capability that
+supports continued growth of renewable and customer-sited resources, expansion of BTM
+DER and demand response programs, orchestration of DERs and DER aggregations, and
+enhanced operational efficiency. Over time, DERMS is expected to help the Company
+make better operational decisions by leveraging the value of DER grid services locally to
+support system needs.
+
+
+Project Schedule and Status
+The Company is implementing GE Vernova’s GridOS DERMS through a phased, use-case-
+driven approach that reflects the complexity of deploying an on-premises operational
+technology platform across critical grid systems. The sequence establishes data,
+
+                                             5
+
+                               PUBLIC DISCLOSURE
+
+modeling, visibility, and forecasting foundations before introducing automated dispatch,
+optimization, and broader integration with operating systems. This approach allows the
+Company to validate data quality, strengthen cybersecurity protections, confirm system
+performance, develop operating procedures, and prepare users before expanding
+automated or semi-automated DER dispatch in routine operations.
+
+
+Phase 1 established the core technical foundation required for reliable, scalable,
+cybersecure DERMS operations. The Company installed the DERMS hardware
+infrastructure for multiple environments and deployed five of seven software modules.
+Phase 1 software module descriptions are included below.
+
+      Model Manager ingests and maintains network and DER asset data, providing an
+       accurate, current information foundation for modeling and operations.
+      Program Manager centralizes program, contract, and enrollment information and
+       supports reporting on resource performance, availability, and constraints.
+      Gateway provides a standards-based communications interface between DERMS,
+       individual DERs, and aggregators to support monitoring and future control,
+       including communications aligned with OpenADR, DNP3 and IEEE 2030.5.
+      Operations consolidates DER information and alerts in a unified interface, giving
+       operators improved situational awareness and a means to identify and manage
+       DER-related operating issues.
+      Forecasting continuously applies available forecasting models to load, generation,
+       weather, and historical data, improving the Company’s ability to anticipate DER
+       output and feeder conditions.
+
+
+                                            6
+
+                                PUBLIC DISCLOSURE
+
+
+In addition to the installation of hardware and software modules, the Company developed
+a Logical Network Model (“LNM”) of the distribution system utilizing GIS and DER asset
+information, established data integrations for SCADA telemetry, SCADA historical data,
+weather data, and enrollment and event data from 3rd party aggregators. As a result, the
+Company entered 2026 with the ability to view DER geographic locations, near-real-time
+visibility of generation from SCADA-connected front-of-the-meter resources rated at 1 MW
+or greater, and feeder-level load and solar generation forecasts extending up to seven
+days. These capabilities improve operational awareness of where DERs are located, how
+they are performing, and how forecasted DER generation could affect distribution feeders
+and bulk power operations. This initial functionality will support more informed operational
+and planning decisions.
+
+Additional Phase 1 work in 2026 has prepared the platform for broader operational use.
+The Company developed initial DER field gateway prototypes; evaluated DNP3 and IEEE
+2030.5 communication protocols; advanced secure communications and certificate-
+management designs; automated tech stack deployment processes; strengthened role-
+based access controls; and expanded DERMS information sharing for internal reports,
+dashboards, and analytics. During 2026, the Company is stabilizing and hardening the on-
+premises technology stack, upgrading GridOS DERMS to the latest version, developing
+DER field gateway hardware and secure communications standards, and establishing the
+field communications path required to securely monitor and control connected resources.
+
+During Phase 2, the Company is building upon this foundation by establishing secure DER
+control capabilities and installing the remaining two modules: Optimization and Flexibility
+
+                                             7
+
+                               PUBLIC DISCLOSURE
+
+Planning. Subject to applicable agreements and operating parameters, control capability
+will allow the Company to issue defined instructions such as on/off commands, active-
+power setpoints, curtailment instructions, and charging/discharging event schedules.
+Phase 2 software module descriptions are included below.
+
+      Optimization will evaluate network constraints, DER availability, economics, and
+       dynamic operating envelopes to develop schedules and dispatch actions that
+       address operating needs while remaining within applicable limits.
+      Flexibility Planning will provide a study environment for short-term operational
+       planning and longer-term scenario analysis, including evaluation of DER dispatch
+       alternatives and potential non-wires solutions before implementation.
+Together, these capabilities will move DERMS from observing and forecasting DER
+behavior, toward planning and coordinating eligible resources as grid-support tools while
+preserving appropriate operator oversight.
+
+In 2027, the Company expects to introduce preliminary optimization, planning, and control
+capabilities into system operations. The planned operating model includes an established
+DERMS Desk for system monitoring, forecasting, secure control of eligible front-of-the-
+meter resources, and initial dispatching (e.g., active power export schedules,
+curtailments) to support system operations and mitigate thermal constraints. The
+Company plans to utilize these capabilities to monitor and control resources procured
+through the 2026 distributed generation (“DG”) RFP. In preparation for incorporating these
+new capabilities into system operations, the Company provided thorough documentation
+to Commission Staff outlining DERMS operational procedures related to area constraint
+management, load and generation balancing, and curtailment. The documentation also
+addresses facility requirements, such as Potential High Limit (“PHL”), performance
+requirements, data requirements and telemetry requirements. The Company worked
+closely with the DG Working Group to provide clarity around the new technical
+requirements and expectations for participating in these types of programs, to ensure they
+can incorporate these elements into their system design(s) and financial projections. In
+2027, Edge DERMS and third-party aggregator integrations will also be completed,
+expanding visibility and dispatch capabilities of behind-the-meter resources and
+aggregated customer programs. These developments are expected to provide a controlled,
+operator-supervised means of coordinating a broader portfolio of DERs and evaluating
+their contribution to local grid needs.
+
+In 2028, the roadmap progresses towards more advanced grid optimization and planning
+capabilities enabled through the integration of DERMS with ADMS, and utilization of the as-
+switched Full Impedance Network Model (“FINM”). These integrations will provide the
+
+                                            8
+
+                                PUBLIC DISCLOSURE
+
+Optimization module with real-time system conditions for constraint-aware DER
+dispatching and will strengthen the Flexibility Planning module’s evaluation of short-term
+DER impacts, longer-term scenarios, and potential alternatives to traditional infrastructure
+solutions. Integrations with Fleet Operations and Bulk Power Operations systems will
+improve visibility and coordination of distribution-connected DERs and forecasts across
+generation, transmission, and distribution operations. Connection of additional resources
+procured through the 2027 DG RFP, as well as the DG Customer Identified Resource
+(“CIR”) option could result in upwards of 100 MW of front-of-the-meter resources from the
+2026 and 2027 procurements, as approved by the Commission, being available for DERMS
+dispatch. The Company will also be developing strategies to leverage DER aggregations for
+bulk-grid support. These capabilities are expected to improve constraint management,
+cross-system coordination, and use of participating DERs while maintaining reliability and
+appropriate operational controls.
+
+By 2029, the Company expects DERMS operations will begin to mature and become more
+integrated across the Distribution Control Center, Fleet, and Bulk Power Operations.
+Planned outcomes include integration of DER aggregations within Fleet Operations
+automatic generation control for system-level grid support, expansion of automated
+dispatch to eligible resources managed through the DERMS Operations Desk, and deeper
+integration between ADMS and DERMS with regards to constraint management and system
+configuration.
+
+The timing and scope of these future capabilities remain subject to successful testing,
+cybersecurity validation, resource availability, completion of required integrations, and
+operational readiness. The Company will continue to advance the roadmap incrementally
+and will evaluate new functionality prior to full-scale deployment to preserve system
+reliability and customer satisfaction. This phased progression provides a clear line from
+Phase 1 accomplishments, to the visibility and forecasting benefits available in 2026, to
+the future control, optimization, planning, and cross-system coordination outcomes
+expected through 2029.
+
+
+Budget and Financials
+The Budget and Financials section provides the required comparison of DERMS budgeted
+amounts, actual expenditures, year-to-date spending, and forecasted costs. The financial
+data in the table below includes actual expenditures for 2024 and 2025, year-to-date
+actuals through June 2026, projected spending for the remainder of 2026, and forecasted
+costs for 2027 and 2028. These figures provide a consolidated view of capital, one-time
+
+
+                                             9
+
+                                                       PUBLIC DISCLOSURE
+
+operations and maintenance, and recurring operations and maintenance costs associated
+with the GridOS DERMS hardware and software implementation only.
+
+
+                                                Georgia Power Company Implementation Plan Costs
+
+                                  2024                        2025                       2026               2027          2028
+
+                                                                                                                                         Final        Previous
+                          YE            YE            YE            YE           Q2            YE              YE            YE
+     Category                                                                                                                          Projected        Final
+                        Actuals     Projection      Actuals     Projection      Actual     Projection      Projection    Projection
+                                                                                                                                        Actuals      Projections
+
+   Vendor (Software     REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+   Licensing, Labor)
+
+          Hardware      REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+
+
+     Implementation
+     Company Labor
+     (One-Time O&M      REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+
+        deferred to a
+    regulatory asset)
+
+    Implementation      REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+    Company Labor
+
+       Maintenance      REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+    (Recurring O&M)
+
+             AFUDC      REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+
+
+          Total Cost    REDACTED         REDACTED   REDACTED         REDACTED   REDACTED        REDACTED      REDACTED      REDACTED      REDACTED       REDACTED
+
+
+The Company submitted the DERMS project for consideration in the U.S. Department of
+Energy (“DOE”) loan program to support the deployment of Virtual Power Plants (“VPPs”).
+The purpose of this program is to make the U.S. grid more ﬂexible, aIordable, clean, and
+resilient as the economy electriﬁes. While the DOE loan guarantee will provide several
+ﬁnancial beneﬁts for the Company and its customers, savings projections are not yet
+demonstrable at this time.
+
+
+Summary
+DERMS is a strategic technology investment that is increasingly important to the
+Company’s ability to operate a more complex and distributed electric grid. Customer-sited
+resources, distribution-connected generation, storage, electric vehicles, demand
+response, and flexible load opportunities continue to grow. DERMS is also central to the
+Company’s long-term affordability and grid-of-the-future objectives. The Company will be
+better positioned to make data-driven operating and planning decisions, improve the use
+of existing infrastructure, support future customer and third-party programs, and evaluate
+opportunities to defer or refine future investments where appropriate.
+
+
+                                                                                10
+
+                                PUBLIC DISCLOSURE
+
+The Company has made meaningful progress moving DERMS from strategy and regulatory
+approval into active implementation. These accomplishments provide the data, modeling,
+visibility, and operational foundation required for DERMS to be expanded into control and
+optimization. The next phase of implementation will move DERMS beyond visibility and
+forecasting and enable the DERs to be orchestrated as flexible grid resources for reliability,
+system constraint management, customer programs, and grid optimization. The phased
+approach is intentional and prudent. It allows the Company to validate data quality,
+strengthen cybersecurity protections, harden the technology platform, develop
+operational workflows, prepare support models, and train users before expanding
+automated or semi-automated DER control in routine grid operations.
+
+The Company will continue to manage this initiative with disciplined execution,
+cybersecurity focus, operational readiness, transparent cost reporting, and regulatory
+accountability. Continued investment in DERMS will help the Company safely integrate a
+growing portfolio of distributed and customer-sited resources. It will also help preserve
+reliability, support affordability, and prepare the electric grid for the future needs of
+customers and communities.
+
+
+                                             11

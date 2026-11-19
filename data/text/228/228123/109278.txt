@@ -1,0 +1,23 @@
+STF-JKA-2-1
+
+Question: 
+
+Refer to the July 14th data production and the forecasted B2026_EBUD_GPC RTP Fuel Credit Resource Detail files provided.
+
+a.Provide the data for the full calendar year 2026 and for the full calendar year 2028.
+b.For the provided Excel mapping file, including the list of all contracts modeled in Aurora. Please describe the type of contract and the average/composite cost of the resource by year (or month as necessary) for the full 2026-2028 period.
+c.Provide the forecasted system lambda for each hour of the forecast period (2026-2028)
+d.Confirm that the forecasted AIER rate for each hour is provided in the “Hourly Summary” tab under the BOS_Lambda column. If not confirmed, please provide the forecasted AIER rate for the projected period.
+e.Provide the Incremental RTP, GPC, and SoCo system load for each hour of the full 3-year forecast period.
+
+Response:
+
+Please see STF-JKA-2-1 Attachment A for 2026 Fuel Credit Resource Detail and STF-JKA-2-1 Attachment B for 2028 Fuel Credit Resource Detail.
+
+Please see STK-JKA-2-1 Attachment C for the updated mapping file with the PPAs modeled in Aurora and what costs are included in the RTP Fuel Credit Forecast.
+
+Please see STK-JKA-2-1 Attachment D for the forecasted system lambda for each hour of the forecast period (2026-2028).
+
+BOS_lambda  and forecasted AIER are definitionally the same thing in Aurora output, because there is no settlement in forecasted views. The forecast is the expected settlement in projections.
+
+Please see STF-2-1 Attachment E for the Georgia Power and Southern Company system hourly loads for 2026 through 2028. Incremental RTP hourly loads are not available.

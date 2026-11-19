@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109087,
+      "bytes": 309921,
+      "name": "dkt_44280_stf-asr-13.zip",
+      "text": "zip (6 read)",
+      "text_file": "data/text/227/227815/109087.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227815/109087"
+    },
+    {
+      "attachment_id": 109088,
+      "bytes": 78483,
+      "name": "STF-ASR-13 Affidavit.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227815/109088.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227815/109088"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-ASR-13 Data Request Responses",
+  "dockets": [
+    44280
+  ],
+  "document_id": 227815,
+  "filed_date": "2026-08-19",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227815"
+}

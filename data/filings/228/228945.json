@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109853,
+      "bytes": 264451,
+      "name": "STF-NU1-1.DR-44280.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228945/109853.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228945/109853"
+    },
+    {
+      "attachment_id": 109854,
+      "bytes": 254320,
+      "name": "STF-NU1-2.DR-44280.PD.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228945/109854.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228945/109854"
+    },
+    {
+      "attachment_id": 109855,
+      "bytes": 259459,
+      "name": "STF-NU1-3.DR-44280.PD.docx",
+      "text": "docx",
+      "text_file": "data/text/228/228945/109855.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228945/109855"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-NU1-1), Data Request from Commission Staff (STF-NU1-2), Data Request from Commission Staff (STF-NU1-3)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 228945,
+  "filed_date": "2026-09-23",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228945"
+}

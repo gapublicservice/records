@@ -1,0 +1,29 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104599,
+      "name": "Securus Order Docket Nos 5750 5915 7-15-25.docx",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223366/104599"
+    },
+    {
+      "attachment_id": 104600,
+      "name": "223366.pdf",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223366/104600"
+    }
+  ],
+  "company": "GPSC",
+  "description": "LETTER ORDER",
+  "dockets": [
+    5750,
+    5915
+  ],
+  "document_id": 223366,
+  "filed_date": "2025-07-15",
+  "harvested": "2026-11-19",
+  "received_date": "2025-07-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223366"
+}

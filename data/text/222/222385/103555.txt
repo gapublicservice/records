@@ -1,0 +1,346 @@
+===== STF-JKA-6-1.docx =====
+STF-JKA-6-1
+Question:
+During the Company’s Direct Testimony hearing on 3/25/2025, the Company discussed that it will have to plan for resources to accommodate the fact that a large amount of data center load will be added to the system that will be energy intensive and will be expected to operate with load factors of around 90 to 95% on an annual basis.
+What is the Company’s support for the projection of 90 to 95% load factors on an annual basis, for example is it based on the Company’s current experience with existing data centers, or discussions within the industry, or some other way?
+The Company indicated it has direct experience providing electric service to data centers. Please identify the specific data centers, the date they initially took service, each data center’s annual max load (MW) and annual consumption (MWH) through 2024.
+Please provide any analyses, narratives or other writings prepared by or available to the Company that support the high load factor projections.
+Please provide any analyses, narratives or other writings prepared by or available to the Company that address weather sensitivity of large data center loads to both winter low temperatures and summer high temperatures.
+Response:
+See response to subpart (c).
+See STF-JKA-6-1 Attachment TRADE SECRET.
+Among the data centers the Company is serving as of the end of 2024, only the largest two have a peak demand above the threshold for Large Load projects (115MW for Commercial). Their load factors in 2024 are 90% and 82%, respectively. Given the increasingly important role data centers play as artificial intelligence (“AI”) technology is being developed and deployed, the Company believes it is reasonable to expect data centers in the Large Load pipeline will operate with load factors that are more elevated than observed to date.
+The Company does not have analysis about the weather sensitivity of data centers. However, data centers do display a seasonality in the load. The load in the summer is 10% higher than in the non-summer. 
+
+===== STF-JKA-6 Verification.pdf =====
+
+
+===== STF-JKA-6-3.docx =====
+STF-JKA-6-3
+Question:
+Refer to Figure 1.9 of the January 2025 Reserve Margin Report. Please provide the following information:
+Provide a detailed narrative explaining how the EFOR values used to estimate the regression model were developed. Specifically include a full and complete explanation of the following statement included in the workpaper supporting Figure 1.9: “This is the total EFOR during the hour with the greatest EFOR during ALL events that are deemed cold weather related. (Cold and Correlated EFOR)” Include an explanation of “events that are deemed cold weather related.
+Provide the workpapers, in Excel, used to calculate the EFOR values used in the Figure 1.9 regression model.
+Please explain why the data set used to estimate the regression model supporting Figure 1.9 only included 4 observations for the most recent 25 year period March 1996 through December 2022.
+Response:
+The development of the cold weather outage curve was the result of a thorough analysis that involved several steps detailed below. Please see the specific data tabs in the worksheet, STF-JKA-6-3 Attachment A, referenced in the steps described below.
+
+Identify historical cold weather events within the Southern System and the total unplanned (forced and derate) outage rate that the system experienced during those events. This outage information was obtained from the Company’s Generating Availability Data System (“GADS”) data repository. Data was examined back to 1982 (data prior to this was not readily available) and only included years that had a minimum system-weighted temperature of less than 15°F. The 15°F threshold was chosen based on anecdotal evidence suggesting weather-related equipment problems begin to appear at/below this threshold. All forced outage or derate equipment failures that occurred around the hour in which the lowest system temperature occurred were deemed as being “cold weather-related” regardless of the event description. This was done in order to capture any correlated cold weather-related outages that may not have been described completely by the unit operator due to secondary equipment failures. Note that a base level of outages will be removed in later steps. See tabs “Hourly FO 1H Data” and “Hourly 4W Data” for this historical outage information.
+
+Cold weather equivalent forced outage rate (“EFOR”) was then determined for +/- four hours around the hour during which the coldest temperature occurred (nine hours evaluated per cold weather event). The hour in which the highest EFOR occurred during each cold weather event was chosen as the representative EFOR corresponding to the lowest system-weighted temperature that occurred during the event. This +/- four-hour range was chosen because the peak cold weather EFOR doesn’t always line up with the hour in which the lowest temperature occurred during each cold weather event. This could be due to the timing of the event relative to the sunrise and sunset as well as differences in time zones. For example, if the temperature started falling at sunset, peak cold weather outages might have occurred during the night although the temperature continued to fall right before sunrise which would have created a mismatch in total outage and low temperature timing. Additionally, if a cold weather event was prolonged, outages may become more frequent near the end of the event even though temperatures may have warmed slightly from the lowest temperature recorded during the event. See tab “Hour Max EFOR Review” for the summary calculations for each hour considered. See tab “Hour Max EFOR Review” for the analysis used to determine the maximum system EFOR for each cold weather event. The final data from this step supports the assertion that maximum EFOR occurs one to four hours after the lowest recorded temperature of an event for most data points. A summary of each event is shown on tab “Eval – Hrly FO EFOR” in cells A1:F22, which denotes the historical EFOR versus Temperature data.
+
+Using the combined EFOR versus Temperature data, a linear fit to the historical data was generated as shown on tab “Eval – Hrly FO EFOR.” Note that the R2 fit for a linear trend is 36% versus 25% for an exponential fit. In reference to the statement mentioned in subpart (a) of this data request, it indicates that all outage events occurring during the specified cold weather event were included. Each unique unit outage was not individually evaluated to determine if it was cold weather-related as long as it fell within the evaluation timeframes as described in step 2.
+
+
+The curve developed in step 3 is based solely on historical events, which includes units that are no longer in service. It was necessary to include all units in the analysis because cold weather events are relatively rare and excluding older events would result in a curve that is not informed by extreme cold weather events below ~7.5°F.
+
+After the cold weather event in 2014, Southern Company began implementing procedures and enhanced winterization to minimize the impacts of extreme cold weather events. To account for these updates, the cold weather curve analysis was adjusted to account for winterization improvements as well as geographic differences to account for unit location relative to the average system temperatures. All owned, retail resources were assigned a cold weather outage threshold of 10°F and all contracted resources, including Southern Power, were given a cold weather outage threshold of 18°F. These unit-by-unit temperature assignments including the geographic adjustments by unit are shown on tab “Unit Master” along with the geographic adjustment.
+
+A base level of outages was then determined without the impacts of cold weather outages. This was determined via SERVM simulations without the effects of incremental cold weather outages. The results of this winter-only analysis are shown in tab “BASE SERVM Outages.”
+
+The historical EFOR as described in step 3 was then converted from a % of EFOR versus Temperature to forced offline megawatts (“MW”) versus Temperature as shown in tab “Curve Calculation.” This was done using a total available capacity subject to cold weather outages summation as calculated in tab “Load Resource Report.” Some resources were not included in this analysis because their historical outages are being captured elsewhere as is the case for hydro resources or the resources have not been notably impacted by cold weather in the past such as nuclear resources.
+
+The MW versus Temperature trend was then adjusted for the base level of outages as determined in step 5 and reconverted back to an EFOR versus Temperature curve using the same total capacity subject to cold weather. The last calculation in this step was to build a EFOR versus temperature threshold table using the new base-outage-adjusted curve. The purpose of this table is to determine the incremental EFOR that a unit would experience if the temperature dropped below its geographically adjusted threshold for all temperatures down to -10°F. For example, if a unit was rated at an adjusted threshold of 0ׄ°F (column L of the “Curve Calculation” tab), it should not contribute any cold weather EFOR above -1°F but would contribute cold weather EFOR below 0°F. To determine the incremental EFOR of this unit at -5°F, for example, the EFOR delta from 0° to -5°F would need to be calculated, which in this case is 3.45% as shown in cell L12 (18.18% at -5°F minus 14.73% at 0°F).
+
+The unit-specific cold weather outage thresholds are then combined with the incremental outage curve described in step 6 to determine system-wide cold weather MW for all temperatures from -10°F to 32°F. Note that this range was chosen to capture all possible temperatures, but the cold weather outage MW summation had dropped to 0 MW by 22°F. See tab “CWO by Curve” for this analysis.
+
+The final step from this worksheet is to convert the MW versus Temperature outage values determined from step 7 back into an EFOR versus Temperature curve. See tab “FINAL Eval – CWO EFOR,” column C for the final step in this workbook. 
+
+This curve is the initial, improved incremental cold weather outage curve, but this curve does not account for equipment time-to-repair (“TTR”) information. It is simply an EFOR versus Temperature curve using the unit temperature thresholds and historical curve which was formed using a single EFOR point for each cold weather event. It does not account for the elevated, above-base-level EFOR that can occur in the hours leading up to and after the peak hours of cold weather events. When cold weather outages occur, they do not immediately end when the ambient temperature climbs back above a unit’s temperature threshold. It can take several hours to make necessary repairs (TTR), reducing total available capacity during that time.
+
+In order to capture the TTR impacts, SERVM simulations were needed with TTR values applied to individual units based on historical data. The result of this analysis is provided in STF-JKA-6-3 Attachment B. The final analysis for this step is detailed on tab “Temperature vs Outage Summary.” On this tab, hourly data from several simulations with cold weather outages on and off are summarized. Combined interpolation and smoothing was then performed to determine the final values shown in column G.
+
+The TTR curve from step 9 and the initial, improved curve from step 8 were then blended to determine a final cold weather outage curve as shown in STF-JKA-6-3 Attachment C. The final analysis for this step is shown in the “CWO Calculation” tab. This step blended a little art and science to build a curve that did not prioritize one curve over the other. However, the initial, improved curve was given priority at all temperatures below 4°F because of its more linear nature. The result of this analysis resulted in an average shift upwards of 0.5% as compared to the initial, improved curve.
+
+The final step was to import the curve into the SERVM model for the reserve margin study. The final curve was imported as a negative output resource using the final, improved cold weather outrage curve in column I of STF-JKA-6-3 Attachment C, tab “CWO Calculation.” This resulted in a set amount of load appearing at each temperature, beginning at 32°F down to -10°F based on the size of the fleet in the model that was subject to cold weather outages.
+
+See the Company’s response in subpart (a) for all worksheets.
+
+As explained in step 1 of subpart (a), the analysis only included years during which the system-weighted temperature dropped below 15°F. The cold weather event history is very limited, so older events must be included to properly model the most extreme weather events. For example, if the initial historical trend was created using only the four most recent data points, the incremental EFOR trend would be much steeper, not having any lower temperature data points to anchor the trend line. Using the same data set and worksheet provided for Figure I.9, a new trendline can be drawn using only the four most recent data points. The new trendline (dotted line) is much steeper than the solid trendline which was created from all data points back to 1982.
+
+
+===== STF-JKA-6-9.docx =====
+STF-JKA-6-9
+Question:
+Refer to Figure 1.10 showing the Astrape curves for other regions and the SOCO curve.
+Why was an exponential curve appropriate for use for SOCO but not for the other regions.
+It appears that many of the other regions do not reflect impacts of performance improvements, geographical adjustments and time-to- repair constraints. Is that true or not and please explain why the same modeling was not performed for the other regions.
+Why does the Company believe the models for the other regions are reasonable for use in the analysis if they were not developed in a similar way that the SOCO curve was developed. In other words, how much of an impact does this make in the results?
+Response:
+As explained in the Company’s response to STF-JKA-6-8(d), and on pages 21-22 of the 2025 Reserve Margin Study, an exponential curve was not used for the cold weather outage analysis.
+
+The performance improvement, geographic adjustments, and time-to-repair (“TTR”) data were not available or would have required extensive research to acquire if it was publicly available.
+
+The cold weather curves for neighboring regions were implemented in the same manner as the Southern Company curve as additional load versus temperature. The curves were also included during the regional calibration process as described on page 6 of the 2025 Reserve Margin Study. If the curves had been adjusted downward, it would have resulted in the region having a better than 1:10 LOLE level of reliability. This would have then been corrected via a reduction in that region’s capacity. The opposite would have occurred if the curves had been adjusted upward. The curves may have an impact on available market resources during reliability events, but the geographic diversity between regions would limit that impact to the Southern System for non-coincident reliability events. Therefore, the curves applied to neighboring regions have very little impact on the study results.
+
+===== STF-JKA-6-4.docx =====
+STF-JKA-6-4
+Question:
+Regarding cold weather outage mitigation efforts:
+Please provide an estimate of the Southern Company and Georgia Power Company expenditures for cold weather outage mitigation by year for the period 1995 through 2024.
+To the extent that the Company has undertaken cold weather outage mitigation measures more intensively during the past 10 years, versus the past 50 years, please explain why the cold weather outage regression model that is estimated with 17 years of data for the period 1982 to February 1996 and only 4 years of data for the period post 1996 to December 2022, is relevant to adjust EFOR as used in the 2028 SERVM analysis.
+Response:
+Georgia Power expenditures information from 2014 through 2021 was previously provided in response to data requests STF-JKA-1-1 and STF-JKA-1-2 in Georgia Power’s 2022 Integrated Resource Plan (“IRP”) in Docket No. 44160. Please see the Company’s response to STF-JKA-1-9 for expenditure information for 2022 and beyond. Georgia Power expenditures prior to 2014 are not readily available.
+
+Expenditures for cold weather outage mitigations from other Southern Company subsidiaries are also not readily available. However, units belonging to those subsidiaries comply with NERC EOP-012-2 Extreme Cold Weather Preparedness.
+
+As explained in the Company’s response to data request STF-JKA-6-3(c), using a limited data set does not provide enough information to create a proper trend line for more extreme weather events. Without historical data to anchor the trend line during sub-8°F events, incremental cold weather outages might be overstated, putting excessive upward pressure on the reserve margin.
+Also, as described in the narrative provided in response to STF-JKA-6-3(a), the historical data is used to create an initial curve. Further steps are then taken to account for winterization improvements made to the current fleet. Even though some of the units in the historical analysis are no longer in service, it is appropriate to assume that winterization improvements would have been made to those units if they were still in service today. It is also incorrect to assume that older units that are now out of service were not winterized to some extent when they were constructed.
+Lastly, the cold weather outage modeling is updated every three years for the reserve margin study to incorporate more recent cold weather events as they occur. Each new analysis will also remove events that occurred more than 50 years ago to align with the weather years included in the study.
+
+===== DRSUM 56002 & 56003 STF-JKA-6 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      April 28, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-JKA-6
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+2
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+3
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+4
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+5
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+6
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+7
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+8
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+9
+COMPLETE
+NONE
+56002 & 56003
+STF-JKA-6
+10
+COMPLETE
+NONE
+`
+
+===== STF-JKA-6-6.docx =====
+STF-JKA-6-6
+Question:
+Refer to page 64 of the January 2025 Reserve Margin Report (Cold Weather Outages sensitivity analyses).
+Please explain why the impact of excluding incremental outages for Winter EORM had a small reserve margin change (22.75% to 22.2%), while the reserve margin change based on LOLE was significant (25.75% to 22.50%).
+Please provide a narrative explaining how the Company performed the historical incremental outage analysis.
+Please provide the workpaper showing the development of the historic incremental outage curve, in Excel. Include all of the data used to estimate the curve.
+Response:
+The EORM/LOLE worksheet for the base winter case (“Base Case”) was provided to Commission Staff on January 31, 2025, in Technical Appendix Volume I, Reserve Margin Study, III. Base Case Results, workpaper: Figure 1 III.1 III.10 III.11 III.12 - Winter EORM U-Curve (TS).xlsx. The EORM/LOLE worksheet for the no cold weather outage curve (“No CWO Case”) case was provided in Technical Appendix Volume I, Reserve Margin Study, IV. Sensitivity Analysis, workpaper: 2024 RMS - Winter - No CWO (TS).xlsx. These worksheets provide all of the data necessary to determine the Economic Optimum Reserve Margin (“EORM”) and Loss of Load Expectation (“LOLE”) differences between the two simulations. 
+Changes in reliability-impacting inputs, like the cold weather outage curve, can have different effects on EORM and LOLE analyses. The EORM analysis seeks to determine the lowest cost reserve margin. It does not target a specific reliability value, unlike the LOLE analysis. The two analyses also consider two different reliability metrics that can yield different insights. Expected unserved energy (“EUE”) indicates the magnitude of annual load shed, while LOLE indicates the frequency of load shed events equal to or greater than 1 megawatt hour (“MWh”). Both metrics are important. For example, if weighted average EUE was 500 MWh, it might not be concerning. However, if the average weighted LOLE in the same study was 250 days, that would be concerning even if the load shed was only 2 MWh per day (250 days x 2 MWh per day = 500 MWh per year). Both EUE and LOLE metrics are considered in the reserve margin study precisely because they can impact the target reserve margin in different ways.
+Revisiting the worksheets referenced above and focusing on EUE and LOLE impact, it is apparent that the EUE reliability component is much lower across every tested reserve margin level in the No CWO Case. The goal of the EORM study was not to determine a new reserve margin at the same level of reliability, unlike the LOLE study. In other words, an improvement in LOLE is more impactful to the LOLE analysis than the improvement in EUE in the EORM analysis due to other cost factors considered in that analysis.
+The first steps in the development of the historical outage curve are very similar to the base cold weather outage curve as described in the Company’s response to STF-JKA-6-3. All worksheet tab references are for STF-JKA-6-6 Attachment A.
+
+Step is identical to the step described in the Company’s response to STF-JKA-6-3(a).
+
+Step is identical to the step described in the Company’s response to STF-JKA-6-3(a).
+
+Using the combined equivalent forced outage rate (“EFOR”) versus Temperature data, an exponential fit to the historical data was generated as shown on tab “Eval – Hrly FO EFOR.” The choice of an exponential fit was made when the sensitivities were being developed and prior to the decision to use a linear fit for the base curve.
+
+A base level of outages was then determined without the impacts of cold weather outages. This was determined via SERVM simulations without the effects of incremental cold weather outages. The results of this winter-only analysis are shown in tab “BASE SERVM Outages.”
+
+The historical EFOR as described in step 3 was now converted from a % of EFOR versus Temperature to forced offline MW versus Temperature as shown in tab “Curve Calculation.” This was done using a total available capacity subject to cold weather outages summation as calculated in tab “Load Resource Report.” Some resources were not included in this analysis because their historical outages are being captured elsewhere as is the case for hydro resources or the resources have not been notably impacted by cold weather in the past such as nuclear resources.
+
+The MW versus Temperature trend was then adjusted for the base level of outages as determined in step 5 and reconverted back to an EFOR versus Temperature curve using the same total capacity subject to cold weather.
+
+This curve is the initial, historical incremental cold weather outage curve, but this curve does not account for equipment time-to-repair (“TTR”) information. It is simply an EFOR versus Temperature curve using the historical curve, which was formed using a single EFOR point for each cold weather event. It does not account for the elevated, above-base-level EFOR that can occur in the hours leading up to and after the peak hours of cold weather events. When cold weather outages occur, they do not immediately end when the ambient temperature climbs back above a unit’s temperature threshold. It can take several hours to make necessary repairs (TTR), reducing total available capacity during that time.
+
+In order to capture the TTR impacts, SERVM simulations were needed with TTR values applied to individual units based on historical data. The result of this analysis is provided in STF-JKA-6-3 Attachment B. The final analysis for this step is detailed on tab “Temperature vs Outage Summary.” On this tab, hourly data from several simulations with cold weather outages on and off are summarized. Two smoothed curves were created at lower and higher temperatures and blended as shown in column G.
+
+The TTR curve from step 6 and the initial, improved curve from step 5 were then blended to determine a final curve cold weather outage curve as shown in STF-JKA-6-6 Attachment B. The final analysis for this step is shown in the “CWO Calculation” tab. This step blended a little art and science to build a curve that did not prioritize one curve over the other. The result of this analysis resulted in an average shift upwards of 0.5% as compared to the initial, improved curve.
+
+The final step was to import the curve into the SERVM model for the reserve margin study. The final curve was imported as a negative output resource using the final, improved cold weather outrage curve in column J of STF-JKA-6-6 Attachment B, tab “CWO Calculation.” This resulted in a set amount of load appearing at each temperature, beginning at 32°F down to -10°F based on the size of the fleet in the model that was subject to cold weather outages.
+
+See the response in subpart (b) for all worksheets.
+
+
+===== STF-JKA-6-10 PUBLIC DISCLOSURE.docx =====
+STF-JKA-6-10
+Question:
+Please provide the following:
+The amount of data center load that was included in the Company’s actual load (both MWs and MWh) by year from 2017 to 2024.
+On a consistent basis provide an estimate of the amount of data center load that is included in the Company’s weather normalized load forecast for the period of 2025 to 2035.
+Response:
+
+
+Data Center Load* (MW)
+Data Center Energy (MWh)
+2017
+201
+ 1,464,732 
+2018
+242
+ 1,802,298 
+2019
+284
+ 2,015,084 
+2020
+306
+ 2,280,307 
+2021
+356
+ 2,567,055 
+2022
+442
+ 3,033,054 
+2023
+577
+ 3,838,525 
+2024
+683
+ 4,396,076 
+* Sum of load of each data center. Not coincident peak.
+
+
+Data Center Load (MW)
+2025
+REDACTED
+2026
+REDACTED
+2027
+REDACTED
+2028
+REDACTED
+2029
+REDACTED
+2030
+REDACTED
+2031
+REDACTED
+2032
+REDACTED
+2033
+REDACTED
+2034
+REDACTED
+2035
+REDACTED
+
+Please note the forecasted data center load in the table above is for new large-load, non-organic growth only; any historical data center load is embedded in the organic forecast for the commercial class.
+
+
+===== STF-JKA-6-7.docx =====
+STF-JKA-6-7
+Question:
+Refer to page 20 of the January 2025 Reserve Margin Report. Please explain the complete basis for the statement “it is expected that these incremental outages will not begin to materialize until the local temperatures reach 10ºF for retail, owned or operated resources and approximately 18°F for contracted resources.” Provide all data and analysis used to reach these conclusions.
+Response:
+See the Company’s response to STF-GS-1-14 for a discussion on the choice of 10°F for retail, owned, and operated resources and why the threshold for contracted resources was set higher. The choice of 18°F for contract resources is based solely on anecdotal operational experience suggesting that oil-operated peaking resources begin to experience viscosity problems with the flow of diesel fuel at temperatures below 17°F, and coal plant operators will suggest that they begin to see coal handling problems near 20°F, with significant problems, including unit outages, occurring around 10°F and below.
+
+===== STF-JKA-6-8.docx =====
+STF-JKA-6-8
+Question:
+Refer to Figures 1.9, 1.10 and p. 63.
+Provide the workpapers, in Excel, supporting the curve development for both the Trended Historical line and the Improved Incremental line.
+Is it true that in Figure 1.9 the data that was used to derive the Improved Incremental line was essentially the Trended Historical line adjusted by a) expected performance improvements, b) geographic adjustments, and c) impacts of time-to-repair constraints? If not, please explain.
+Provide more explanation of the impacts of time-to-repair constraints as the company included little discussion of that item. Has the Company ever made this adjustment before and why is such an adjustment necessary?
+Please describe all other changes that were made in deriving the Improved Incremental line compared to the Trended Historical line. For example if some kind of curve fit was performed, it appears that the Trended Historical line uses an exponential curve, while the Improved Incremental line uses a linear curve. Explain why two different approaches were used, especially since the Company states in the first paragraph of page 22 that an exponential curve was used.
+Please provide three separate analyses that recreate the Improved Incremental line, but that isolate the impacts of each of the three items indicated in question a above. If the Company cannot provide such analyses, please provide some manner in which the impacts caused by each change separately can be understood. Provide workpapers for each analysis.
+Page 63 has a section entitled “Historical Cold Weather Outages (C’).” The section implies that a sensitivity to just “winterization improvements” was performed. However, the section explains that instead of using the “improved incremental curve”, the “historical incremental cold weather outage curve” was used. Isn’t it true that the difference in these two curves isn’t just the impact of the winterization improvements, but also the impact of geographic adjustments and time-to-repair constraints? Please provide the same results as on page 63 but isolate the impacts of each of the 3 items.
+
+Response:
+See the Company’s response to data request STF-JKA-6-3 for the development of the improved incremental curve. The trended historical curve is simply a 1.26% base equivalent forced outage rate (“EFOR”) adjustment from the trended historical line. See column F of STF-JKA-6-3 Attachment A, tab “Curve Calculation” for the development of the trended historical line.
+Yes.
+See the Company’s response to STF-JKA-6-3(a), steps 8-10 and the Company’s response to STF-GS-1-15 for a discussion on the time-to-repair (“TTR”) constraints including the reasons why this enhancement was made. The TTR values are not a new variable in the model. TTR values have always been included but were embedded in the SERVM model calibration process which, prior to the 2025 study, was defined as an incremental EFOR curve added directly to units’ base EFOR. Using the exact incremental EFOR curve in the model would result in total system EFOR being drastically overstated. This was because the model could not account for units already on a cold weather outage as temperatures moved up and down from hour to hour across a single cold weather event. To address this modeling challenge, time consuming calibrations were performed to ensure that total EFOR (base plus cold weather) was being accounted for correctly, including the impact of the embedded TTR values. However, that calibration needed to be performed every time there was a significant change in the resource mix. The new methodology instead captures the impact of TTR values during the curve development and not during implementation.
+The narrative described in the Company’s response to STF-JKA-6-3(a) lists all steps taken to develop the improved incremental line. As stated in the Company’s response to STF-GS-1-15, the improved incremental curve is derived from a linear historical trend line. However, the adjustments specified in subpart (b) of this data request cause the trend line to exhibit a “soft landing” at temperatures above 10°F, which looks similar to an exponential curve. The Company did not use an exponential curve for the base study, but did use an exponential curve fit in a separate sensitivity to understand the impact of using a linear versus exponential curve.
+
+
+The complete analyses requested are not available, but the data provided in the base analysis can provide some insight to the impact of each of the three adjustments listed in subpart (b) using the initial improved curves prior to the TTR adjustment. Except where otherwise noted, all worksheet tab references mentioned below pertain to STF-JKA-6-3 Attachment A.
+Winterization Improvements Removed: The base case worksheet allows for the adjustments of the threshold at which generators will begin to experience cold weather outages. Since the model is evaluating cold weather events below 15°F, the threshold can be modified to 15°F in tab “Unit Master” for all units for this analysis. The impact is +2.68% at 5°F as shown on tab “Winterization Improvement” in STF-JKA-6-8 Attachment.
+Geographic Improvement Removed: The base case worksheet allows for the adjustments of the temperature shift by city. These values can simply be changed to ‘0’ for all cities in tab “Unit Master” and the worksheet will update the curve. The impact is +0.05% at 5°F as shown on tab “Geographic Improvement” in STF-JKA-6-8 Attachment.
+Winterization and Geographic Improvements Removed: Both winterization and geographic improvement conditions can also be removed together using the same steps described above. This results in a +2.73% impact at 5°F as show on tab “Winterization and Geographic” in STF-JKA-6-8 Attachment.
+TTR Adjustment Removed: This analysis simply involves skipping TTR implementation steps 9 and 10 as described in STF-JKA-6-3(a). The impact is -0.57% at 5°F as shown on tab “TTR Adjustment” in STF-JKA-6-8 Attachment.
+In summary, at 5°F this abbreviated analysis resulted in a 2.73% downward adjustment in the initial, improved curve due to winterization and geographic adjustments and a 0.57% increase when the impacts of TTR are included.
+Yes, the historical curve used in this sensitivity does not account for geographic or TTR variables. The information necessary to determine new EORM and LOLE-based reserve margin values is not available.
+
+
+===== STF-JKA-6-2.docx =====
+STF-JKA-6-2
+Question:
+Refer to Table 1-5 (Approximate EFOR by Unit Class) in the 2022 IRP Reserve Margin Report and the similar table, Table 1-7, in the 2025 IRP Reserve Margin Report.
+Provide an explanation, as well as any analysis the Company has that explains why the EFOR for Coal and Gas Steam units both increased by about 30% (rounded) between the 2022 IRP and the 2025 IRP (Coal 2.8 to 3.6, Gas Steam 2.0 to 2.6).
+Provide an explanation, as well as any analysis the Company has that explains why the EFOR for Combined Cycle units decreased by about 30% (rounded) between the 2022 IRP and the 2025 IRP (Combined Cycle 2.1 to 1.4).
+Response:
+There are two primary reasons for the difference in reported equivalent forced outage rates (“EFOR”) values. The first reason is related to the calibration process that is performed to benchmark actual outages to simulated outage probability as described on page 19 of the 2025 Reserve Margin Report (“2025 RMS”). The first step in developing the outage data used in the model is to import the outage history for each unit. A benchmarking process that involves making slight changes to the modeled EFOR is then performed to ensure that the total capacity on outage has a similar probability of occurrence as compared to actual data. The results of this benchmarking are presented in Figure I.8 in the 2025 RMS. Because the benchmarking process is independently performed prior to each reserve margin study, the reported EFOR between the studies will be different even though they are based on similar data sets. The modification in the historical data set between studies involves a three-year shift to include the most recent three years of data and exclude the oldest three years, thereby preserving a ten-year data set.
+
+The second reason is due to how the benchmarking analysis was performed for the 2025 RMS. In the 2022 RMS, the unit EFOR modifications were made on an annual basis. That is, the time-to-fail (“TTF”) and time-to-repair (“TTR”) inputs as described on page 17 of the 2025 RMS were assigned on an annual basis. For the 2025 RMS, this analysis was expanded to a monthly analysis. This meant that some months might have had higher EFOR values assigned to make sure that there were good actual-to-simulated outage curve fits for every month and not just the peak month.
+
+The EFOR values reported in tables I-5 and I-7 are based on annual EFOR as reported from the SERVM model once simulations were completed. Due to the benchmarking process and the change from annual to monthly outage data inputs described above, a difference in reported annual EFOR is expected. However, this does not mean that actual generator reliability dropped from 2022 to 2025 in the Southern System.
+
+Please see the EFOR Weighted Averages table below, which includes the annual EFOR data for all Southern Company owned and operated resources that were included in the 2025 RMS based on the historical data set used to develop the TTR and TTF data as well as the post-benchmarked EFOR data from SERVM for January and August.
+ 
+EFOR Weighted Averages
+ 
+Hist
+2013-2019
+Hist
+2020-2022
+Hist
+2013-2022
+SERVM January
+SERVM August
+Coal
+3.51%
+1.91%
+3.03%
+2.70%
+3.58%
+Gas Steam
+3.13%
+2.82%
+3.11%
+1.35%
+1.80%
+Combined Cycle
+0.95%
+1.50%
+1.12%
+1.11%
+1.43%
+
+Per this data, coal EFOR has actually improved from the 2013-2019 time period. In addition, the modeled EFOR is slightly below in January, but above in August. Gas Steam shows similar EFOR improvement in 2020-2022 but is also modeled at a much lower rate, again due to the calibration that was performed. Combined cycle was modeled at almost the same rate in January but was slightly higher in August due to the calibration.
+
+The by-unit details used to derive the values in the above table are provided in STF-JKA-6-2 Attachment.
+
+See the response provided above.
+
+===== STF-JKA-6-5.docx =====
+STF-JKA-6-5
+Question:
+Please provide a list of the SOCO generating units used to develop the EFOR values used in the Figure 1.9 regression model that are NOT included in the 2028 resources included in the SERVM modeling.
+Response:
+See STF-JKA-6-3 Attachment A, tab “Hourly FO 1H Data” for a list of all resources included in the analysis.
+See STF-JKA-6-5 Attachment for a list of generating units used to develop the cold weather outage curve that are not included in the SERVM model.

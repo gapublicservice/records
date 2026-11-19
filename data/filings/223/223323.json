@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 104552,
+      "bytes": 110628,
+      "name": "dkt_56002_56003_hr-2.zip",
+      "text": "zip (4 read)",
+      "text_file": "data/text/223/223323/104552.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223323/104552"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "HR-2 Hearing Request Responses",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 223323,
+  "filed_date": "2025-07-11",
+  "harvested": "2026-11-19",
+  "received_date": "2025-07-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223323"
+}

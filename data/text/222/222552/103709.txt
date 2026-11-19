@@ -1,0 +1,154 @@
+===== DKT 56002 & 56003 STF-PIA-16 PD/DRSUM 56002 & 56003 STF-PIA-16 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:          May 7, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-PIA-16
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-16
+2
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-PIA-16
+3
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-16
+4
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-PIA-16
+5
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-PIA-16
+6
+COMPLETE
+TRADE SECRET
+`
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16 Verification.pdf =====
+
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-1.docx =====
+STF-PIA-16-1
+Question:
+Witness Robinson referred to “local-upstream” costs during his testimony. Please describe what is meant by local-upstream costs and how that is determined.
+Response:
+These costs pertain to the local infrastructure required to serve a specific area, excluding broader system upgrades. Local-upstream costs include transmission lines and substations that directly support local needs (e.g., the infrastructure feeding into specific facilities or locations). These costs are determined based on the specific infrastructure required to meet local demand and are treated as shared infrastructure costs. They benefit both the specific customer and the overall system, ensuring compliance with NERC reliability standards.
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-2 Attachments B-S PUBLIC DISCLOSURE.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-2.docx =====
+STF-PIA-16-2
+Question:
+Please provide all inputs, calculations, and outputs for the RIM analyses that the Company conducted for all committed large load customers. The data set should include information about each customer’s pricing, including rate, % CBL, CBL, fixed price, total load, timing of load materialization, etc.
+Response:
+Please see STF-PIA-16-2 Attachment A TRADE SECRET, which provides a summary of the following information for all large load customers that were committed as of Q2 2024 where an offer has been developed: pricing (including rate), % CBL, CBL, fixed price, and total load. 
+Please see STF-PIA-16-2 Attachments B-S TRADE SECRET, which provide the corresponding inputs (including timing of load materialization), calculations, and outputs. 
+
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-3.docx =====
+STF-PIA-16-3
+Question:
+Please describe how the demand response that Georgia Power calculates it will get from Real-Time Pricing customers is subdivided into regular price response, which is incorporated into the load forecast, and “Extreme Response” that is reflected in the Company’s resource ledger (i.e., DSO forecasts and the Territorial Base Case vs Existing Resources filed with the Mix Study) as megawatts of demand response capacity. The Beppler et al. panel discussed this breakdown during cross examination on March 27, 2025
+If it based on a specific or relative RTP price level, please describe:
+What is the price above which demand response is classified as Extreme Response?
+For how many hours per year does the Company estimate RTP will exceed that hourly price in each of the years 2026 – 2035?
+If it is based on a different metric, please describe that metric and how many hours per year the Company estimates RTP will enter Extreme Response conditions.
+Response:
+The Real-Time Pricing (“RTP”) response study analyzes how customers’ demand responds to different pricing scenarios under RTP price levels. The study focuses on understanding and forecasting the megawatt (“MW”) response from customers when faced with normal RTP prices versus extreme RTP prices, calculated by averaging the top 10 highest hourly prices each month. Extreme RTP prices are defined as three times the forecasted RTP prices. 
+Below is a breakdown of the key components:
+
+Segmented Responses
+The study differentiates between Hour Ahead and Day Ahead RTP customers, allowing for a more tailored analysis of response behaviors.
+
+Historical and Projected Response
+Historical data is used to model the MW response to RTP prices. This model is then applied to predict future responses, taking into account normal and extreme pricing scenarios.
+
+
+Normal versus Extreme Response
+Normal Response: Captured in the forecast using average RTP prices observed in 2023. This reflects expected customer behavior under typical pricing conditions.
+Extreme Response: Estimated using prices that are significantly higher (three times the hourly forecast RTP price for the year 2034). This scenario is designed to simulate customer behavior under unusually high price conditions, which are not expected to occur under normal circumstances.
+
+Calculation of Extreme Response
+The extreme response is calculated by subtracting the normal response from the total response at extreme price levels. For example, if the total response to extreme prices is 500 MW and the normal response is 250 MW, the extreme response would be 250 MW.
+
+Use of Forecasted Prices
+The study uses forecasted RTP prices for the years 2026-2035 to model responses. However, these forecasted prices under normal conditions do not reach the levels set for extreme response modeling, as extreme prices are unlikely in typical weather or operational scenarios.
+
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-4 PUBLIC DISCLOSURE.docx =====
+STF-PIA-16-4
+Question:
+Please provide what data Georgia Power has available related to the scale and extent of normal price response (in MW) is reflected in the load forecast?
+Response:
+The Company uses actual load data by class in the MetrixND peak demand model as described in the Budget 2025 Load and Energy Forecast in Technical Appendix Volume 1. The actual loads include any response to real-time pricing (“RTP”) prices over that historical timeframe. Therefore, the response is embedded in the loads used as the training data in the regression modeling. That historical response is carried through into the forecast. The normal price response has been estimated using a baseline of actual 2023 prices which occurred under normal load, weather, and operational conditions. The estimated normal response is approximately REDACTED MW for the winter and REDACTED MW for the summer.
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-5 Attachments A-J PUBLIC DISCLOSURE.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-5.docx =====
+STF-PIA-16-5
+Question:
+Please provide a complete copy (trade secret and public disclosure, if needed) of the RTP response model completed by Christensen Associates Energy Consulting, LLC as mentioned on page 144 of the B2025 Energy and Load Forecast.
+Response:
+The current real-time pricing (“RTP”) response model is provided in the attachments. The Christensen Associates Energy Consulting, LLC model is not currently used to estimate the RTP response and is not available.
+STF-PIA-16-5 Attachment A TRADE SECRET.sas
+Commercial Day-Ahead SAS program
+STF-PIA-16-5 Attachment B TRADE SECRET.htm
+Commercial Day-Ahead Model Coefficients and related statistics
+STF-PIA-16-5 Attachment C TRADE SECRET.sas
+Commercial Hour-Ahead SAS program
+STF-PIA-16-5 Attachment D TRADE SECRET.htm
+Commercial Hour-Ahead Model Coefficients and related statistics
+STF-PIA-16-5 Attachment E TRADE SECRET.sas
+Industrial Day-Ahead SAS program
+STF-PIA-16-5 Attachment F TRADE SECRET.htm
+Industrial Day-Ahead Model Coefficients and related statistics
+STF-PIA-16-5 Attachment G TRADE SECRET.sas
+Industrial Hour-Ahead SAS program
+STF-PIA-16-5 Attachment H TRADE SECRET.htm
+Industrial Hour-Ahead Model Coefficients and related statistics
+STF-PIA-16-5 Attachment I TRADE SECRET.sas
+MARTA Hour-Ahead SAS program
+STF-PIA-16-5 Attachment J TRADE SECRET.sas
+MARTA Hour-Ahead Model Coefficients and related statistics
+
+
+===== DKT 56002 & 56003 STF-PIA-16 PD/STF-PIA-16-6.docx =====
+STF-PIA-16-6
+Question:
+Refer to the Company’s Load and Resource table, “Georgia Power Territorial Base Case Load vs. Existing Capability Table with 2025 IRP Requests 2-14-25.xlsx”, and the footnote “(A) Territorial Load requirements less non-dispatchable DSOs.” Please provide a revised table that accounts for non-dispatchable DSOs, with a separate row for each DSO’s contribution to load requirements.
+
+For 2023 IRP and 2022 IRP, please provide revised tables that accounts for non-dispatchable DSOs, with a separate row for each DSO’s contribution to load requirement, with respect to: 
+
+2023 IRP Update “Georgia Power Territorial Base Case Load vs. Existing Capability Table” accompanying the Resource Mix Study in the Technical Appendix, and
+
+2022 IRP “Georgia Power Territorial Base Case Load vs. Existing Capability Table” accompanying the Resource Mix Study in Technical Appendix 1.
+
+Response:
+
+Please see the “Mth_PEAKAdjustments_LEVEL A_CAL” tab of the “5_B2025_Territorial_LevelD&A_TRADE SECRET” workpaper provided to Commission Staff as part of the Load and Energy Forecast TRADE SECRET workpapers on Friday, January 31, 2025, for the monthly peak impacts of the non-dispatchable demand-side options (“DSOs”) for the 2025 Integrated Resource Plan (“IRP”). The impact of each program is shown separately and is assumed to be coincident with the hour of the peak.
+
+This same information was provided in workpapers as part of both the 2022 IRP and the 2023 IRP Update. For ease of reference, the “Mth_PEAKAdjustments_LEVEL A_CAL” tab from the “TS 5_B22_Territorial_LevelD&A_IRP” workpaper from the 2022 IRP has been attached as STF-PIA-16-6 Attachment A TRADE SECRET, and the “Mth_PEAKAdjustments_LEVEL A_CAL” tab from the “TS 5_2023 IRP Update Load Forecast_Territorial_LevelD&A” workpaper from the 2023 IRP Update has been attached as STF-PIA-16-6 Attachment B TRADE SECRET. Similar to the 2025 IRP workpaper referenced, these files provide the monthly peak impacts of non-dispatchable DSOs referenced in footnote (A) on a by program basis.

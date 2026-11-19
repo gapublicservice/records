@@ -1,0 +1,60 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103710,
+      "bytes": 91976,
+      "name": "Exhibit RLT-1.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222553/103710.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222553/103710"
+    },
+    {
+      "attachment_id": 103712,
+      "bytes": 268593,
+      "name": "Exhibit KAP-1.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222553/103712.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222553/103712"
+    },
+    {
+      "attachment_id": 103713,
+      "bytes": 268167,
+      "name": "Exhibit DAD-1.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222553/103713.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222553/103713"
+    },
+    {
+      "attachment_id": 103714,
+      "bytes": 314575,
+      "name": "05052025 PUBLIC DISCLOSURE LF Direct Testimony.docx",
+      "text": "docx",
+      "text_file": "data/text/222/222553/103714.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222553/103714"
+    },
+    {
+      "attachment_id": 103715,
+      "bytes": 888245,
+      "name": "05052025 PUBLIC DISCLOSURE LF Direct Testimony.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222553/103715.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222553/103715"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY AND EXHIBITS OF ROBERT L. TROKEY DYLAN A. DRUGAN AND KARAN A. POL",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222553,
+  "filed_date": "2025-05-07",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-07",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222553"
+}

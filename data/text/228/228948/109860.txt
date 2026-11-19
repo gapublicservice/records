@@ -1,0 +1,1877 @@
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN THE MATTER OF: RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+DOCKET NO. 57171
+
+
+DIRECT TESTIMONY
+
+
+AND EXHIBITS
+
+
+OF
+
+
+TOM NEWSOME, PE, CFA 
+
+PHILIP M. HAYET
+
+LEAH J. WELLBORN
+
+
+ON BEHALF OF THE
+
+
+GEORGIA PUBLIC SERVICE COMMISSION 
+PUBLIC INTEREST ADVOCACY STAFF
+
+
+PUBLIC DISCLOSURE VERSION
+
+
+September 23, 2026
+
+
+TABLE OF CONTENTS
+I.Introduction and Qualifications2
+II.Summary of Conclusions and Recommendations5
+III.RTP Fuel Credit Methodology Background9
+Economic Development and Large Loads9
+RTP Tariff9
+IV.RTP Fuel Credit Methodology Review12
+Take or Pay Contracts13
+Natural Gas Firm Transportation and Storage17
+Other Costs22
+Marginal Coal Pricing and Coal Inventory Management26
+V.Rate Case Considerations27
+
+
+    Introduction and Qualifications
+Q.Please state your nameS and business addresses.
+A.My name is Tom J. Newsome. I am the Director of Utility Finance with the Georgia Public Service Commission (“Commission”). My business address is 244 Washington St., Atlanta, Georgia, 30334. 
+A.My name is Philip Hayet. I am a Vice President and Principal of J. Kennedy and Associates, Inc. (“Kennedy and Associates”). My business address is 570 Colonial Park Drive, Suite 305, Roswell, Georgia, 30075. 
+A.My name is Leah Wellborn. I am a Director of Consulting and Principal at Kennedy and Associates. My business address is 570 Colonial Park Drive, Suite 305, Roswell, Georgia, 30075. 
+Q. MR. NEWSOME, WHAT ARE YOUR PRIMARY RESPONSIBILITIES WITH THE COMMISSION STAFF?
+A. I am responsible for economic, financial, and cost of equity analysis and evaluations at the Commission.
+Q. WHAT CONSULTING SERVICES DOES KENNEDY AND ASSOCIATES PROVIDE?
+A. Kennedy and Associates provides consulting services related to electric utility system planning, resource planning, fuel auditing, production cost modeling, ratemaking, finance, accounting, and industry policy issues.
+Q.PLEASE PROVIDE SUMMARIES OF YOUR EDUCATIONAL BACKGROUND AND EXPERIENCE.
+A.Summaries of our education, experience, professional certifications, and testimony appearances are provided in Exhibits STF-NHW-1, STF-NHW-2, and STF-NHW-3 for Mr. Newsome, Mr. Hayet, and Ms. Wellborn, respectively. 
+Q.WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+A.In this testimony, we present Staff’s analysis and recommendations concerning Georgia Power Company’s (“Georgia Power” or “the Company”) Real Time Pricing (“RTP”) Fuel Credit Methodology.
+Q.WHY IS THE DEVELOPMENT OF A REAL TIME PRICING FUEL CREDIT METHODOLOGY NECESSARY?
+A.Non-RTP customers, like residential and small commercial customers, are subject to separate rates to collect base revenues and fuel revenues. RTP sales are based on a single rate. RTP revenues must be allocated between base revenues and fuel revenues. The RTP Fuel Credit Methodology is used by the Company to calculate how much RTP revenue to allocate to fuel revenues. The remainder of RTP revenues are allocated to base revenues. 
+Q.WHAT GUIDELINES DID STAFF USE IN EVALUATING GEORGIA POWER’S RTP FUEL CREDIT METHODOLOGY?
+A.Staff had three guidelines. The first guideline is that fuel related costs should correspondingly be matched with fuel revenues to cover those costs. The second is that costs recovered through the fuel clause should be recovered from all customers, and the third is that costs recovered from fuel revenues should be allocated based on energy usage (MWhs). 
+Q.IS GEORGIA POWER’S RTP FUEL CREDIT METHODOLOGY CONSISTENT WITH THE THREE GUIDELINES IDENTIFIED ABOVE?
+A.No. The Company’s treatment of certain costs in its RTP Fuel Credit Methodology is not consistent with the three guidelines.
+Q.WHAT IS STAFF’S RECOMMENDED RATEMAKING TREATMENT OF THESE CERTAIN COSTS?
+A.If these costs are to be recovered from fuel revenues, then the ratemaking treatment should be consistent with the three guidelines listed above. Otherwise, these costs should be recovered from base revenues and not fuel revenues.
+Q.WHICH COSTS ARE INCONSISTENT WITH STAFF’S THREE GUIDELINES?
+A.The Company does not include the following costs in the RTP Fuel Credit Methodology calculation. 
+•Natural gas firm transportation
+•Natural gas storage
+•Natural gas hedging gains/losses
+•Natural gas gains/losses on resales
+•Coal quality penalties and premiums
+•Coal rail car leases
+•Coal rail car shortfall/liquidated damages costs
+•Start-up costs for Purchased Power Agreements (PPAs)
+•Energy costs associated with non-dispatchable PPAs (Solar, Wind, Biomass, and Qualifying Facilities)
+•FCR over/under-balance carrying costs
+•Income Qualified Discount (IQD) 
+•Non-subscription renewables program expenses
+•Corporate overhead and labor 
+Omitting these costs decreases the RTP revenues allocated to fuel revenues and results in non-RTP customers absorbing all these costs. This is inconsistent with Staff’s guideline that costs recovered through the fuel clause should be recovered from all customers.
+Q.WOULD IT BE REASONABLE TO INCLUDE ALL OF THESE COSTS IN THE  COMPANY’S CALCULATION OF RTP REVENUES CREDITED TO FUEL REVENUES?
+A.Yes; however, Staff does not necessarily expect that all these costs be included in the RTP Fuel Credit Methodology calculation as there are policy and cost causation arguments that suggest some of these costs could be omitted when calculating the RTP revenues credited to the fuel revenues. 
+Summary of Conclusions and Recommendations 
+Q.PLEASE SUMMARIZE YOUR RECOMMENDATIONS.
+A.Table 1 compares the Company’s and Staff’s position on the treatment of fuel costs that are not currently included in the RTP Fuel Credit Methodology calculation.
+Table 1: Costs Excluded from the RTP Fuel Credit Methodology and 
+Comparison of Georgia Power and Staff Recommendations
+Category of Costs
+Georgia Power Recommendation
+Staff Recommendation
+Energy costs non-dispatchable PPAs 
+Option 1 or 2; Option 1 preferred 
+Option 2
+Natural gas FT costs (New)
+Include, allocate on a winter 1-CP 
+Include, allocate on MWH
+Natural gas FT costs (Existing)
+Exclude from RTP credit calculation
+
+Natural gas storage
+Exclude from RTP credit calculation
+
+Non-subscription renewable program expenses
+Over/Under determined in base rates per FCR-27 stipulation
+Coal rail car leases
+Exclude from RTP credit calculation
+Include, allocate on MWH
+Start-up costs for PPAs
+Exclude from RTP credit calculation
+
+Coal quality penalties and premiums
+Exclude from RTP credit calculation
+
+Coal rail car shortfall/ liquidated damages costs
+Exclude from RTP credit calculation
+
+Natural gas gains/losses resales
+Exclude from RTP credit calculation
+
+Corporate overhead and labor 
+Exclude from RTP credit calculation
+Include, allocate on MWH
+FCR carrying costs
+Exclude from RTP credit calculation
+Policy Related 
+(No Recommendation)
+Income Qualified Discount
+Exclude from RTP credit calculation
+
+Natural gas hedging gains/losses
+Exclude from RTP credit calculation
+
+Q.PLEASE DISCUSS TABLE 1.
+A.Table 1 identifies all costs that are excluded from the RTP Fuel Credit Methodology calculation and compares Staff’s and the Company’s recommendations, highlighting areas of disagreement. The two most significant cost items excluded from the RTP Fuel Credit Methodology calculation relate to non-dispatchable PPA (Take-or-pay contracts, like qualifying facilities, solar, wind and biomass) costs and fixed natural gas firm transportation (“FT”) and storage costs. Table 1 indicates there are other costs that are also excluded from the RTP Fuel Credit Methodology calculation, related to items such as coal rail leases, coal quality penalties, corporate overheads, etc. The following table summarizes the value of Staff’s recommendations on a historic basis.
+Table 2: Historic Period RTP Fuel Credit Methodology Comparison (2023-2025)
+2023-2025 Historic
+Current
+Staff Proposal
+Delta
+Hourly RTP Fuel Credit w/ Take-or-Pay impacts
+$1,085,720,026 
+$1,306,174,298 
+$220,454,272 
+Natural gas firm transportation
+- 
+$82,937,051 
+$82,937,051 
+Natural gas storage
+- 
+ $9,955,464 
+ $9,955,464 
+Net Renewable Program (Revenues)/Expenses 
+- 
+- 
+- 
+Coal rail car lease
+- 
+$3,568,992 
+$3,568,992 
+Start-up costs for Purchase Power Agreements
+- 
+ $6,215,791 
+ $6,215,791 
+Coal quality penalties and premiums
+- 
+$(70,918)
+$(70,918)
+Rail car shortfall/liquidated damages costs 
+- 
+- 
+- 
+Natural gas (gains)/losses on resales
+- 
+ $2,221,699 
+ $2,221,699 
+Corporate overhead and labor
+- 
+ $3,618,108 
+ $3,618,108 
+FCR over/under-balance carrying costs
+- 
+- 
+- 
+Income Qualified Discount (IQD) program costs
+- 
+- 
+- 
+Natural gas hedging gains/losses
+- 
+- 
+- 
+Total RTP Fuel Credit
+$1,085,720,026 
+$1,414,620,485 
+$328,900,459
+
+Q.IF STAFF’S RECOMMENDATIONS HAD BEEN IN PLACE DURING 2023 – 2025 WHAT WOULD HAVE BEEN THE IMPACT ON CURRENT (FCR-27) FUEL RATES?
+A.The additional $329 million of RTP revenues allocated to fuel revenues would have eliminated a $322 million under collected fuel balance. The current FCR-27 rate would have been lower resulting in a decrease in customer bills of approximately $1.35 per month. 
+Q.WHAT ARE STAFF’S OTHER RECOMMENDATIONS?
+A.In addition to the recommendations in Table 1, Staff also recommends the Commission order additional monthly informational filing requirements and modifications of the minimum filing requirements historic/projected (“MFRH/MFRP”) in future FCR proceedings, as follows: 
+1) Monthly RTP Reporting: Staff recommends monthly fuel reporting include sufficient detail on RTP fuel credit rate, mega-watt hour (“MWh”) sales, RTP fuel revenues compared to the average non-RTP fuel rates. The monthly fuel report filed by the Company under Docket 3382 should include a new separate line item in Retail Fuel Revenues section showing RTP sales (MWhs) and RTP revenues. The Company should file a corresponding separate report to show the calculation of RTP revenues credited to fuel revenues, starting no later than January 1, 2027. 
+
+2) Monthly FT reporting: Staff recommends monthly fuel reporting on FT and natural gas storage costs incurred, new contracts signed, and updated status on the Company’s efforts to remarket excess gas capacity.  The Company should file this information starting no later than January 1, 2027.
+
+3) Modified FCR MFRH/MFRP related to reported costs currently excluded from the RTP fuel credit: Staff recommends monitoring and reporting related to the omitted cost categories as part of the MFRH and MFRP in future FCRs. 
+
+4) Modified FCR MFRH related to Coal Pricing in the RTP Fuel Credit: The RTP fuel credit does not use the delivered price of coal, when the Company calculates the RTP fuel credit. Staff recommends the Company provide support for its marginal pricing and coal inventory management decisions.
+
+These recommendations are discussed in more detail in the sections that follow.  
+RTP Fuel Credit Methodology Background
+Economic Development and Large Loads
+Q.WHAT LED STAFF TO INVESTIGATE THE RTP FUEL CREDIT METHODOLOGY IN THE FCR-27 PROCEEDING?
+A.Staff recognized that RTP customer load is growing significantly and the dollars allocated to fuel revenues would also grow significantly. Given this RTP revenue growth, it was critical to confirm the RTP Fuel Credit Methodology accurately assigns RTP revenues to fuel revenues. 
+In Docket No. 56765 (FCR-27) Staff’s evaluation indicated the current RTP Fuel Credit Methodology does not allocate sufficient RTP revenues to fuel revenues. Based on Staff’s findings, a settlement was reached in FCR-27 to investigate and address Staff’s concerns in this docket. 
+RTP Tariff
+Q.WHAT IS THE COMPANY’S RTP LOAD GROWTH FORECAST?    
+A.The Company acknowledged the growth in new economic development load will mainly be based on RTP pricing. Table 3 shows the growth expected in the RTP portion of overall GPC retail load.
+Table 3: RTP Energy Requirements (MWh) 
+Year
+RTP
+GPC 
+Total 
+RTP % 
+2023 (Historic)
+…………….
+…………….
+20%
+2024 (Historic)
+…………….
+…………….
+20%
+2025 (Historic)
+…………….
+…………….
+21%
+2026 (Projected)
+…………….
+…………….
+…%
+2027 (Projected)
+…………….
+…………….
+…%
+2028 (Projected)
+…………….
+…………….
+…%
+2029 (Projected)
+…………….
+…………….
+…%
+2030 (Projected)
+…………….
+…………….
+…%
+2031 (Projected)
+…………….
+…………….
+…%
+
+The table shows that as time goes on, RTP requirements are expected to become an even greater portion of the overall Company energy requirements, and in fact, the Company’s FCR-27 projection shows that by April 2029, RTP requirements will represent almost …% of the total company requirements in a single month. This large increase in RTP requirements reinforces the need to ensure the RTP fuel credit calculation is as accurate as possible. 
+Q.PROVIDE A BRIEF OVERVIEW OF THE COMPANY’S RTP TARIFF AND REVENUES.
+A.RTP customers may be charged based on a two-part rate structure. Each RTP customer may have a Customer Baseline Load (“CBL”), for which the customer is charged based on standard tariffs. For energy usage above the CBL, the customers pay an hourly RTP price that varies based on market conditions.  If the customer’s actual usage falls below its CBL, the customer receives a credit based on the RTP price for the amount of usage below the CBL. 
+Q.HOW ARE RTP REVENUES ASSIGNED TO FUEL REVENUES? 
+A.The Company’s allocation of RTP revenues to fuel revenues is referred to as the RTP Fuel credit.  In the 2010 rate case, the Company proposed a change to the RTP fuel credit from the prior methodology that had been in use at the time:
+[T]he Company is also proposing to change its accounting methodology for crediting the Fuel Cost Recovery (“FCR”) account from RTP usage.  At present RTP credits the fuel account at current FCR rates.  The Company is proposing to use an average hourly marginal replacement fuel cost to credit the fuel account. This average hourly marginal fuel cost will be based on all Georgia Power generating units running in each hour plus power pool purchases or deliveries in each hour.
+Despite the 2010 testimony stating that the accounting methodology for crediting the FCR account from RTP usage will be based on all Georgia Power generating units running in each hour plus power pool purchases or deliveries in each hour, the Company’s RTP fuel crediting methodology does not account for all Company generating unit and purchase fuel costs that are charged to the fuel cost recovery account.
+Q.HOW DO HISTORICAL RTP FUEL CREDITS COMPARE TO AVERAGE FUEL COST FOR THE SYSTEM?
+A.Table 4 compares the average RTP fuel credit to the average fuel cost incurred by month through the historic period (January 2023-December 2025).
+Table 4: RTP Fuel Credit vs. Avg. Fuel Cost $/MWh 
+
+The average RTP fuel credit was materially less than the average fuel cost in nearly every month of the historic period, and on average, the RTP fuel credit was approximately $9/MWh less than the average fuel cost each year. Staff recommends ongoing monthly fuel reporting include sufficient detail on RTP fuel credit rate, mega-watt hour (“MWh”) sales, RTP fuel revenues compared to the average non-RTP fuel rates.  
+
+   RTP Fuel Credit Methodology Review
+
+Q.HOW IS THE REMAINDER OF YOUR TESTIMONY ORGANIZED? 
+A.Staff’s testimony addresses the Company’s proposals for issues related to Take-or-Pay Contracts and Natural Gas Firm Transportation first.  Staff next discusses the other costs that are recovered from fuel revenues but are not included in the Company’s RTP fuel credit methodology calculation. Staff then discusses recommendations related to marginal coal pricing and coal inventory management. Finally, Staff addresses potential rate case impacts that relate to this investigation.
+Take or Pay Contracts
+Q.EXPLAIN STAFF’S CONCERN REGARDING NON-DISPATCHABLE PPA CONTRACTS? 
+A.Staff is concerned the current RTP Fuel Credit Methodology does not include the costs of non-dispatchable PPA contracts, also referred to as Take or Pay contracts, in the calculation of RTP revenues credited to the fuel revenues. This results in less RTP revenue being credited to fuel revenues. The Company recognized this is a problem in this proceeding, and in testimony recommended either excluding both the energy and the costs of non-dispatchable PPAs from the RTP Fuel Credit calculation (Option 1) or including both the energy and the costs associated with non-dispatchable PPAs in the calculation (Option 2). 
+Q.WHAT IS STAFF’S RECOMMENDATION? 
+A.Staff recommends Option 2, which includes both the energy (MWhs) and costs (dollars) associated with all non-dispatchable PPAs in the Fuel Credit Methodology. This is consistent with the 2010 rate case proposal, which assumed that all Georgia power unit and purchase costs would be included in the calculation. 
+Option 1, on the other hand, would exclude the costs and energy of all non-dispatchable PPAs, which would not be consistent with the 2010 rate case protocol. Option 2 treats RTP sales in a consistent manner with non-RTP sales and is the most appropriate way to allocate RTP revenues to fuel revenues considering the hourly cost of all generation and purchases required to serve that load. 
+Q.WHY DOES STAFF OPPOSE THE COMPANY’S OPTION 1?
+A.Option 1 is inconsistent with Staff’s guidelines. All costs should be included when calculating the amount of RTP revenue to allocate to fuel revenues. Option 1 omits non-dispatchable costs from the calculation when the energy from these non-dispatchable resources serve all customers.
+Q.WHY DID THE COMPANY FAVOR OPTION 1?
+A.The Company testified that Option 1 was in line with the Commission’s original intent for marginal fuel cost recovery. The Company also stated this in its direct testimony stating:
+The first option is to exclude both the costs and the output from non-dispatchable PPAs in the RTP fuel credit calculation. This is consistent with an approach that the RTP fuel credit should be derived from marginal replacement fuel costs.
+
+In the 2010 rate case, the Commission approved Georgia Power’s proposal to record RTP fuel revenues based on the average marginal replacement fuel costs (rather than the embedded FCR rate) on an hourly basis. This method appropriately records more RTP revenues to fuel when marginal fuel prices are high and less when they are low, which mirrors the concepts behind the RTP rates and better tracks the RTP revenues collected with the marginal fuel costs being incurred. 
+Q.DOES THE COMPANY’S CURRENT RTP FUEL CREDIT METHODOLOGY USE AN ACCURATE MARGINAL PRICE TO CALCULATE FUEL CREDIT?
+A.No. Had the Company wanted to use an accurate “marginal” cost RTP Fuel Cost Credit methodology, the Company should have proposed the associated interchange energy rate (“AIER”) for use as the RTP fuel credit methodology. The AIER is widely used by the Company to determine marginal cost in many other circumstances. The Company uses the AIER rate to price energy transactions between affiliates, to price the value of battery charge and discharge on the system, and the Company has proposed use of the AIER rate to price certain customer programs, such as the Clean and Renewable Energy Subscription Customer Identified Resources (“CARES CIR”) program.  Given the wide application of AIER by the Company it would be reasonable to use AIER to calculate the amount of RTP revenue to allocate to fuel revenues. 
+Q.HAVE YOU BEEN ABLE TO ESTIMATE THE IMPACTS ASSOCIATED WITH THE COMPANY’S TREATMENT OF TAKE-OR-PAY CONTRACTS?
+A.Yes. The Company provided settlement data for 2025, which showed that approximately 9.8 million MWh of non-dispatchable generation was included in the RTP fuel credit calculation, while the Company reported that $486 million in associated costs were excluded from the RTP fuel credit calculation. By including MWhs and omitting dollars from take-or-pay contracts in RTP Fuel Credit calculation the Company unreasonably suppressed the amount RTP revenues credited to fuel revenues.
+Table 5 compares actual RTP revenues credited to fuel revenues for 2023 – 2025 and the RTP revenues that would have been credited to fuel revenues using Company Option 2, which assumes all non-dispatchable PPA costs and MWhs are included in the calculation.  
+Table 5:  Comparison of Fuel Credit Methods (Staff Estimate) 
+Historic 2023-2025 (Calendar Year)
+
+ 
+RTP Fuel Credit
+GPC Option 2
+Delta
+ 
+Current Method
+Add Take-or-Pay Costs
+Shortfall
+2023
+…………….
+…………….
+$69,780,970
+2024
+…………….
+…………….
+$74,278,059
+2025
+…………….
+…………….
+$76,395,242
+Total
+ $1,085,720,026 
+ $1,306,174,298 
+$220,454,272
+The Company’s current RTP Fuel Credit methodology resulted in an under-allocation of $70 million, $74 million and $76 million of RTP revenues to fuel revenues for the years 2023, 2024 and 2025, respectively. Note that Staff’s review was limited to the data the Company provided, which Staff found to be incomplete, and therefore, these results may actually under-estimate the total impact. Table 6 provides a similar comparison but on a projected basis from 2026 to 2031. 
+Table 6:  Comparison of Fuel Credit Methods
+Projected 2026-2031 (Calendar Year) 
+
+ 
+RTP Fuel Credit
+GPC Option 2
+Delta
+ 
+Current Method
+Add Take-or-Pay Costs
+Shortfall
+2026
+…………….
+…………….
+ $125,870,149 
+2027
+…………….
+…………….
+ $168,584,073 
+2028
+…………….
+…………….
+ $235,346,380 
+2029
+…………….
+…………….
+ $310,361,061 
+2030
+…………….
+…………….
+ $374,891,320 
+2031
+…………….
+…………….
+ $399,271,411 
+These projected results indicate that the under-allocation of RTP revenues to fuel revenues is expected to grow over time compared to the historical period, if the current RTP Fuel Credit methodology is not modified as recommended by Staff.
+Q.PLEASE SUMMARIZE STAFF’S RECOMMENDATION FOR THE TREATMENT OF TAKE-OR-PAY CONTRACTS IN THE RTP FUEL CREDIT METHODOLOGY.
+A.Staff recommends the RTP Fuel Credit Methodology be modified to include both the costs and the energy associated with take-or-pay contracts in the hourly calculation (the Company’s Option 2). These costs are incurred to serve all customers at all times and should be included when the Company calculates the amount of RTP revenues credited to fuel revenues.  
+Natural Gas Firm Transportation and Storage
+Q.WHAT IS STAFF’S CONCERN REGARDING NATURAL GAS FT COSTS AND NATURAL GAS STORAGE COSTS IN THE RTP FUEL CREDIT METHODOLOGY?
+A.Natural gas FT and storage costs are fixed costs the Company pays to ensure natural gas is deliverable via various pipelines and from storage facilities to ensure generating unit reliability.  These costs are labeled “fixed” because they generally do not change with the volume of natural gas consumed to generate energy. Staff’s investigation noted that RTP customer load occurs in both high and low load hours, making it reasonable that RTP revenues be allocated to the fuel revenues to address the natural gas FT and storage costs. 
+Q.HAS THE COMPANY ACKNOWLEDGED STAFF’S CONCERNS?
+A.Yes, partially. GPC acknowledged Staff’s concerns and recommended a change. The Company proposed that only new FT costs be shared and allocated on a winter 1-CP basis. The Company’s proposal does not address the allocation of RTP revenues to fuel revenues to cover existing FT cost. Therefore, the Company’s proposal to allocate new FT costs is only a partial solution and adds undue complexity to the RTP fuel credit methodology.
+Q.ARE THERE FUNDAMENTAL ISSUES ASSOCIATED WITH THE COMPANY’S PROPOSAL? 
+A.Yes. The Company has asserted that a portion of the revenue paid by RTP customers that is currently credited to base revenues is intended to cover some FT costs. This raises the possibility of double recovery because all FT costs are indisputably charged to and recovered from fuel revenues. Absent a modification to the RTP Fuel Methodology, there is a risk that the Company may recover a portion of its FT costs twice.  
+To eliminate this risk, Staff recommends that the RTP Fuel Credit Methodology be modified so that all FT costs, both existing and new, are allocated across all customers on the basis of monthly energy consumption. Because the FCR tariff rate is an energy-based rate, allocating FT costs on an energy basis is consistent with the manner in which fuel costs are recovered.  This is also consistent with how FT costs have been recovered from non-RTP customers over the past 15 years. Staff’s proposal ensures that all FT costs and all associated FT revenue recovery occurs entirely within the same accounting mechanism, the FCR, thereby eliminating the potential for double recovery.  
+Staff further recommends existing and new FT costs not be assigned separately and that different allocation methodologies not be applied to existing and new customers. Maintaining separate methodologies would perpetuate the current situation in which certain FT costs and their associated revenue recovery are divided between base and fuel revenue mechanisms, creating unnecessary complexity and increasing the risk of cost misallocation and double recovery.  
+Q.DO YOU HAVE CONCERNS ABOUT THE COMPANY’S 1-CP PROPOSAL? 
+A.Yes.  The Company noted in testimony that in Docket No. 56765, PIA Staff presented results of a calculation that used a 1-CP allocation of FT costs, which the Company agreed with. As a preliminary matter, in FCR-27 Staff relied on the summer peak 1-CP allocation simply for illustration purposes to demonstrate the magnitude of the FT issue that needed further consideration. First, 1-CP is inconsistent with how FT and storage cost have been allocated to non-RTP customers for the past 15 years. The Company currently allocates fixed FT cost entirely to non-RTP customers based on energy consumption. This same approach should be used to allocate all (existing and new) FT to all customers (non-RTP and RTP). It was not Staff’s intention at the time, nor does Staff recommend now, use of a 1-CP allocation approach for RTP cost allocation. 
+Furthermore, the Company also argues that capital substitution collections occur in nearly every hour to help cover fixed costs, and the Company charges certain cost components to RTP customers such as reliability capacity costs over approximately 50 hours a year, and transmission costs over approximately 300 hours a year.  It is clear that fixed cost recovery and reliability are not issues limited to a single 1-CP winter hour. FT is necessary for all hours across each month in order to reliably serve customers.   
+Q.HAVE YOU ESTIMATED THE FT COST ALLOCATED UNDER STAFF’S PROPOSED METHODOLOGY? 
+A.Yes. Table 7 provides RTP revenue allocation to fuel revenues based on a monthly energy allocation for the 2023-2025 period assuming all existing FT and storage costs are included in the calculation. 
+Table 7: RTP Allocation of Historical FT and Natural Gas Storage Costs 
+(2023-2025) 
+
+Calendar Year 
+Existing
+RTP Allocation on MWh
+2023
+$0
+……………
+2024
+$0
+……………
+2025
+$0
+……………
+Total
+$0
+……………
+
+Based on Staff’s methodology, an additional $93 million would have been allocated to fuel revenues over the 3-year historic period putting downward pressure on fuel rates. Table 8 below is a summary of Staff’s proposed allocation of monthly FT on monthly energy for forecast years 2026-2028.
+ Table 8: RTP Allocation of Forecasted FT and Natural Gas Storage Costs 
+Calendar Year 
+RTP Allocation on MWh
+2026
+……………
+2027
+……………
+2028
+……………
+Total
+……………
+Q.PLEASE SUMMARIZE STAFF’S RECOMMENDATION?
+A.Staff recommends the Company’s RTP fuel credit methodology allocate all natural gas FT and storage costs on a monthly basis, without distinguishing between existing and new fixed FT costs. Staff recommends the allocation be performed monthly and all FT costs be allocated on an energy basis to all customers (both RTP and non-RTP), consistent with the current treatment of existing FT costs for non-RTP customers. Staff’s methodology appropriately assigns responsibility for fixed FT across all customers in all months and avoids the additional complexity of establishing a threshold for “new FT” or requiring an ongoing determination of the allocation between organic and new large load.  Both existing and new fixed FT are procured to ensure that generating plants serving all customers always have sufficient fuel to operate and produce power. 
+If the Commission prefers a demand allocator, or separate treatment of existing and new FT for allocation purposes, Staff recommends that all FT costs no longer be recovered through the FCR mechanism. Instead, these costs should be recovered through base rates to provide full transparency and ensure that costs and revenues are matched within the same recovery mechanism.
+Q.DO YOU RECOMMEND ANY FT RELATED REPORTING REQUIREMENTS?
+A.Yes. Staff recommends monthly fuel reporting on FT and natural gas storage costs incurred, new contracts signed, and updated status on the Company’s efforts to remarket excess gas capacity. The Company should file this information starting no later than January 1, 2027.
+Other Costs
+Q.DID THE COMPANY IDENTIFY ANY OTHER COSTS THAT ARE NOT INCLUDED IN RTP FUEL CREDIT METHODOLOGY CALCULATION ?
+A.Yes. The Company identified a number of other costs that are recovered from fuel revenues that are not currently included in the RTP Fuel Credit Methodology calculation. Staff‘s  recommendations for some of these costs are contained in this section. Table 9 provides an estimate of the breakdown of the costs incurred by the Company, that were not included in the Company’s RTP fuel credit calculation and resulted in these costs being allocated entirely to the non-RTP customers during the historic period of 2023 to 2025 without offsetting revenue from RTP sales.
+Table 9: Costs Not Addressed the RTP Fuel Credit Methodology 
+Cost Categories
+ 2023 
+ 2024 
+2025
+Natural gas firm transportation
+……………
+……………
+……………
+Natural gas storage
+……………
+……………
+……………
+Natural gas hedging gains/losses
+$125,452,642 
+$114,485,201 
+ $ 33,624,570 
+Natural gas (gains)/losses on resales
+……………
+……………
+……………
+Coal quality penalties and premiums
+……………
+……………
+……………
+Coal rail car lease
+……………
+……………
+……………
+Rail car shortfall/liquidated damages costs 
+……………
+……………
+……………
+Start-up costs for Purchase Power Agreements (PPAs)
+……………
+……………
+……………
+Energy costs associated with non-dispatchable PPAs
+……………
+……………
+……………
+FCR over/under-balance carrying costs
+$85,170,004 
+$67,176,525 
+ $ 32,162,634 
+Income Qualified Discount (IQD) program costs
+……………
+……………
+……………
+Net Renewable Program (Revenues)/Expenses 
+……………
+……………
+……………
+Corporate overhead and labor
+ $5,823,840 
+ $5,912,128 
+ $ 5,683,474 
+Total Company Costs
+$740,969,011 
+$824,063,892 
+ $732,060,350 
+
+To be clear, these are total costs incurred by the Company. Only a portion of these costs would be credited to fuel revenues under Staff’s recommendations as shown in Tables 2, 5 and 7. Staff recommends continued monitoring and additional reporting related to these omitted cost categories as part of the MFRH and MFRP in future FCRs.  
+Q.STAFF HAS ALREADY MADE CERTAIN RECOMMENDATIONS. PLEASE PROVIDE A SUMMARY OF THESE RECOMMENDATIONS. 
+A.Table 10 provides a summary of these items. 
+Table 10: FT, Storage, Non-Dispatchable PPA, Renewable Recommendations
+Category of Fixed Costs
+GPC Recommendation
+Staff Recommendation
+Energy costs non-dispatchable PPAs 
+GPC Option 1 or 2, Option 1 preferred
+Option 2
+Natural gas FT costs (New)
+Include, allocate on a 1 winter CP 
+Include, allocate on MWH
+Natural gas FT costs (Existing)
+Exclude from RTP credit calculation
+
+Natural gas storage
+Exclude from RTP credit calculation
+
+Non-subscription renewable program expenses
+Over/Under determined in base rates per FCR-27 stipulation
+Q.HOW HAS STAFF CONSIDERED ITS GUIDELINES IN ADDRESSING THE REMAINING COSTS?
+A.Staff’s first guideline reflect the principle that fuel-related costs should be matched with corresponding fuel revenues to recover those costs. The second and third guidelines state that costs recovered through the fuel clause should be recovered from all customers and allocated based on energy usage (MWhs). The Company broadly addressed the idea that some costs are fuel related and some are not at hearing. 
+Staff addresses the remaining costs with a similar logic, differentiating between fuel related costs and non-fuel related costs, or costs that are primarily the result of Commission policy. 
+Q.WHAT COSTS DID STAFF ASSESS AS FUEL RELATED?
+A.The following table includes costs that are fuel related.  The costs are influenced either by the amount of fuel procured or the type of fuel procured and therefore are appropriately assigned to all customers.  
+Table 11: Fuel Related Fixed Cost Recommendations
+Category of Fixed Costs
+GPC Recommendation
+Staff Recommendation
+Coal rail car leases
+Excluded from RTP credit calculation
+Include and assign on MWH
+Start-up costs for Purchased Power Agreements (PPAs)
+Excluded from RTP credit calculation
+Include and assign on MWH
+Coal quality penalties and premiums
+Excluded from RTP credit calculation
+Include and assign on MWH
+Coal rail car shortfall/ liquidated damages costs
+Excluded from RTP credit calculation
+Include and assign on MWH
+Natural gas gains/losses on resales
+Excluded from RTP credit calculation
+Include and assign on MWH
+Consistent with Staff’s guidelines, these costs should be allocated monthly, based on monthly energy across all customers.
+Q.DOES STAFF CONSIDER CORPORATE OVERHEAD A FUEL OR POLICY RELATED COST?
+A.Staff recommends that Corporate Overhead costs be included in RTP Fuel Credit calculation, as it is a fuel-related cost and follows procurement. The following table summarizes Staff’s recommendation.
+Table 12: Corporate Overhead Recommendations
+Category of Fixed Costs
+GPC Recommendation
+Staff Recommendation
+Corporate overhead and labor 
+Excluded from RTP credit calculation
+Include and assign on MWH
+Q.WHAT COSTS DID STAFF IDENTIFY AS POLICY-RELATED RATHER THAN FUEL RELATED?
+A.Staff acknowledges that other costs recovered from fuel revenues are primarily policy-related or could otherwise be considered independent of fuel procurement or dispatch processes. These categories include over/under balance carrying costs, income qualified discount programs, and natural gas hedging gains and losses. It may be reasonable to allocate the three remaining costs in Table 13 to all customers on an energy basis. However these are policy related matters and, Staff makes no recommendation at this time. 
+Table 13: Policy-Related Recommendations
+Category of Fixed Costs
+GPC Recommendation
+Staff Recommendation
+FCR over/under-balance carrying costs
+Excluded from RTP credit calculation
+Policy Related (No Recommendation)
+Income Qualified Discount (IQD) 
+Excluded from RTP credit calculation
+
+Natural gas hedging gains/losses
+Excluded from RTP credit calculation
+
+
+Marginal Coal Pricing and Coal Inventory Management
+Q.HAS STAFF IDENTIFIED ISSUES CONCERNING MARGINAL COAL PRICING AND COAL INVENTORY MANAGEMENT? 
+A.Yes. In FCR-27, Staff investigated marginal fuel costs, referred to as Marginal Replacement Fuel Costs, that the Company uses in the RTP Fuel Credit calculation. If Marginal Replacement Fuel Costs are understated this could result in a shortfall of RTP revenues credited to fuel revenues. Staff submitted numerous discovery requests in both FCR-27 and this proceeding to investigate this issue. Staff considers this to be an important matter that warrants continued monitoring in future fuel proceedings. 
+Also, in FCR-27, Staff identified instances of the Company adjusting the cost of coal or coal transportation in dispatching coal units to encourage fuel consumption and burn down excess coal inventory. These adjusted costs were used by the Company in the RTP Fuel Credit calculation. This could result in an under-allocation of RTP revenues to fuel revenues. 
+Q.WHAT IS STAFF’S RECOMMENDATION REGARDING MARGINAL COAL PRICING AND COAL INVENTORY MANAGEMENT?
+A.At this time, Staff recommends that additional review of these issues be performed in future FCR proceedings. To facilitate that review, Staff recommends that the following additional minimum filing requirements be adopted for future fuel proceedings:
+1) Marginal Coal Pricing - Staff recommends the Company provide support for its marginal coal pricing in a format consistent with what was provided in response to STF-JKA-2-5 Attachment B for each month of the historic period (Docket No. 57171, RTP investigation). 
+
+2) Coal Inventory Management – Staff recommends the Company provide information consistent with what was provided in response to STF-JKA-7-1 for each month of the historic period (Docket No. 56765, FCR-27). In that response, the Company provided presentations and other information from the Company’s monthly coal inventory management meetings showing the monthly schedule of projected burns for Plants Bowen and Scherer. Also, to the extent that the Company makes dispatch pricing adjustments such as lowering the assumed cost of coal to burn down excess coal inventory, Staff recommends the Company provide workpapers showing those adjustments for any month in which that occurred during the historical period. 
+Rate Case Considerations
+Q.DID THE COMPANY ASSERT THAT CHANGING THE RTP FUEL CREDIT METHODOLOGY COULD HAVE AN IMPACT ON BASE RATES?
+A.Yes. However, since the fuel costs are completely the responsibility of ratepayers and the Company has no financial exposure, it is critical to get the RTP fuel credit methodology correct. Any impact to base rates would be a natural consequence of revising the methodology to accurately match costs and cost recovery in the same mechanism. The direction and magnitude of any future impact would need to be determined in a base rate case. Staff reviewed the 2023 – 2025 Annual Surveillance Review filings and concluded the Company would have had the financial capability to absorb additional RTP revenues credited to fuel revenues while maintaining its targeted Return on Equity (“ROE”). 
+Q.DOES THIS CONCLUDE YOUR TESTIMONY?
+A.Yes it does.
+BEFORE THE
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN THE MATTER OF: RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+DOCKET NO. 57171
+
+
+EXHIBIT
+
+
+STF-NHW-1
+
+
+Summary of Educational and Professional Experience of Tom J. Newsome
+
+
+Mr. Newsome received a Bachelor of Chemical Engineering with certificates in Pulp & Paper and Polymers from the Georgia Institute of Technology in June 1986.  In 1994, Mr. Newsome passed both required examinations and received a professional engineering license (PE) from the State of North Carolina. Mr. Newsome received a Master of Science in Business Economics and a Master of Science in Finance from Georgia State University in August 1996 and June 1997, respectively. Mr. Newsome is the recipient of the George J. Malanos Graduate Award for Academic Excellence for completing the finance program with a 4.0 grade-point average. In 2003, Mr. Newsome received Chartered Financial Analyst (CFA) designation from the CFA Institute after successfully completing three six-hour examinations on security analysis and portfolio management.
+
+After graduation from Georgia Tech, Mr. Newsome worked as plant/process engineer for Shaw Industries, a carpet manufacturer. In April 1988, Mr. Newsome joined Weatherly, Inc., engineering and construction firm specializing in fertilizer plants, as a process engineer. Mr. Newsome’s primary responsibilities were process design and plant start-ups, including start-ups in Korea and India. Mr. Newsome joined Midrex Direction Reduction Corp., an applied research, engineering and construction firm with proprietary iron ore processing plant technology in March 1993 as a process engineer. Mr. Newsome duties were similar to those at Weatherly, including assisting in the start-up of the world’s largest Direct Reduction Iron plant in India.
+
+Following graduation from graduate school at Georgia State, Mr. Newsome joined Georgia Gulf Corporation in 1997 as a corporate development analyst. While at Georgia Gulf, Mr. Newsome performed financial analysis and modeling for natural gas purchasing/hedging program, developed a “make-or-buy” model for methanol business, performed financial modeling for an acquisition, and calculated and summarized the financial performance of prior capital investments. In 1999, Mr. Newsome joined FMV Opinions, Inc. as a business valuation analyst and valued private companies for gift and estate tax, transactional and management planning purposes.
+
+Mr. Newsome joined the Georgia Public Service Commission (“Commission”) in January 2005 as a Financial Analyst/Economist. Mr. Newsome was promoted to Director of Utility Finance in 2008.
+
+Mr. Newsome has testified in twenty-eight Georgia Power Company (“Company” or “Georgia Power”) proceedings before the Commission.  Mr. Newsome’s most recent testimony was in Docket 44280 Storm Damage Recovery. Prior to that, Mr. Newsome testified in Docket 56765 Fuel Cost Recovery (FCR-27). Prior to that, Mr. Newsome testified in Dockets 56298 and 56310 relating to the Company’s 2029-2031 All Source RTP and Supplemental Capacity Resources.  Prior to that, Mr. Newsome testified in Dockets 56002 and 56003 related to the Company’s 2025 IRP. Prior to that, Mr. Newsome testified in Docket 55378 in 2023 IRP Update. Prior to that, Mr. Newsome testified in Docket 29849 in 28th Vogtle Construction Monitoring (“VCM”). Prior to that, Mr. Newsome’s testified in Docket 44902 Fuel Cost Recovery (FCR-26). Prior to that Mr. Newsome’s testified in Docket 29849 26th and 27th Vogtle Construction Monitoring (“VCM”). Prior to that Mr. Newsome testified in Docket 44160 2022 Integrated Resources Planning on supply side resources. Prior to that Mr. Newsome testified in Docket 29849 23rd Vogtle Construction Monitoring (“VCM”), 24th VCM and 25th VCM on Vogtle economics. Prior to that was testimony in 22nd VCM and in Docket 43011 Fuel Cost Recovery (FCR-25) on the Company’s hedging program and certain other issues. Prior to that Mr. Newsome’s testified in Docket 29849 20th / 21st Vogtle Construction Monitoring (“VCM”) on Vogtle economics. Prior to that Mr. Newsome’s testified in Docket 42310 Georgia Power Company’s 2019 Integrated Resource Plan on supply side and certain other issues. Prior to that testimony Mr. Newsome testified in Docket 29849 19th Vogtle Construction Monitoring (“VCM”), 18th VCM and 17th VCM on the economics of continuing Vogtle 3 and 4 construction and provided the Commission policy recommendations to protect ratepayers. Prior to testifying in the 17th VCM Mr. Newsome testified in the 2016 Integrated Resource Plan on the Company’s requested to capitalize cost for investigation of new nuclear units. Mr. Newsome’s testified in Docket No. 39638 Fuel Cost Recovery (FCR-24) on the Company’s natural gas hedging program. In Docket No. 22403, Mr. Newsome addressed Georgia Power Company’s natural gas hedging program and in Docket No. 24506 Mr. Newsome testified on the application of AFUDC accounting for calculating financing cost of capital projects. In Docket No. 27800, Certification of Plant Vogtle Expansion, Mr. Newsome addressed the sources, impact and mitigation of financial risk from the construction and operation of new nuclear units at Plant Vogtle.  Mr. Newsome testified in Docket No. 29849 concerning Georgia Power’s First Semi-annual Construction Monitoring Report on Plant Vogtle expansion.  Mr. Newsome evaluated the economic analysis performed by Georgia Power and developed Staff’s own independent economic and risk analysis of the Project. In the Second Vogtle Semi-annual hearing, Mr. Newsome testified on the Company’s proposal to change how escalation on certain project cost was calculated (Amendment 3).  In the Third Vogtle Semiannual hearing and in separate proceeding, Adoption of a Risk Sharing Mechanism, Mr. Newsome testified on Staff’s revised risk sharing mechanism for Vogtle 3 & 4.  In Docket No. 28945 Fuel Cost Recovery FCR–21, Mr. Newsome testified on seasonal rates.  Mr. Newsome also presented cost of equity testimony in Atmos Energy Corporation’s Rate Case in Docket No. 30442 and Generic Proceeding to Implement House Bill 168 (small telephone companies) in Docket No. 32235 in 2011 and 2018. Mr. Newsome provided testimony before the Commission in Georgia Power’s 2013 Base Rate Case in Docket No. 36989 on the Company’s projected cost of debt for 2014 – 2016. Mr. Newsome’s primarily responsibility, prior to presenting testimony in these dockets, has been performing analyses of the parties’ cost of equity capital positions in Docket Nos. 18638 (Atlanta Gas Light Company 2004/2005 Rate Case), 19758 (Savannah Electric and Power Company 2004 Rate Case), 20298 (Atmos Energy Corporation - Georgia Division 2005 Rate Case), 25060 (Georgia Power Co. 2007 Rate Case) and 27163 (Atmos Energy Corporation - Georgia Division 2008 Rate Case) and developing the Advisory PIA Staff’s cost of equity recommendation to the Commission.
+
+
+BEFORE THE
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN THE MATTER OF: RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+DOCKET NO. 57171
+
+
+EXHIBIT
+
+
+STF-NHW-2
+
+
+EDUCATION/CERTIFICATION
+
+M.S., Electrical Engineering, Georgia Institute of Technology, 1980
+B.S., Electrical Engineering, Purdue University, 1979
+Cooperative Education Certificate, Purdue University, 1979
+
+PROFESSIONAL AFFILIATIONS
+
+National Society of Professional Engineers
+Georgia Society of Professional Engineers
+Institute of Electrical and Electronic Engineers
+
+EXPERIENCE
+
+Since completing his Master’s program, Mr. Hayet worked for fifteen years at Energy Management Associates, now Ventyx, providing consulting services and client service support to electric utility companies for the widely used planning models, PROMOD IV and STRATEGIST.  Mr. Hayet had an instrumental role in designing some of the modeling features of those tools including the competitive market modeling logic in STRATEGIST.        
+
+In 1995, Mr. Hayet formed the utility consulting firm, Hayet Power Systems Consulting (“HPSC”), and worked for customers in the United States, and internationally in Australia, Japan, Singapore, Malaysia, the United Kingdom, and Vietnam.  Mr. Hayet provided consulting services to Public Utility Commissions, Regional Power Pools, State Energy Offices, Consumer Advocate Offices, Electric Utilities, Global Power Developers, and Industrial Companies.  Mr. Hayet’s expertise covers a number of areas including utility system planning and operations, RTO analysis, market price forecasting, Integrated Resource Planning, renewable resource evaluation, transmission planning, demand-side analysis, and economic analysis.  
+
+In 2000, Mr. Hayet also joined the consulting firm of J. Kennedy & Associates, Inc. (“Kennedy and Associates”) and assisted on projects that required utility resource planning, analysis, and software modeling expertise.  Mr. Hayet merged his firm and became a Vice-President and Principal of Kennedy and Associates in 2015.   
+
+Mr. Hayet has conducted numerous consulting studies in the areas of RTO Cost/Benefit Analysis, Renewable Resource Evaluation, Renewable Portfolio Standards Evaluation, Electric Market Price Forecasting, Generating Unit Cost/Benefit Analysis, Integrated Resource Planning, Demand-Side Management, Load Forecasting, Rate Case Analysis and Regulatory Support. 
+
+
+2000 toJ. Kennedy and Associates, Inc.   
+Present:Vice President and Principal
+
+Began in 2000 as Director of Consulting.
+Became Vice President and Principal in 2015 when Hayet Power Systems Consulting merged with J. Kennedy and Associates, Inc. 
+Managed electric related consulting projects. 
+Responsible for business development.
+Clients include Staffs of Public Utility Commissions and other State Agencies, State Energy Offices, Global Power Developers, and Industrial Groups, and large energy users.  
+
+1996 toHayet Power Systems Consulting 
+2015:President and Principal
+
+Managed electric utility related consulting projects
+Clients include Staffs of Public Utility Commissions and other State Agencies, State Energy Offices, Global Power Developers, and Industrial Groups, and large energy users.  
+Merged with J. Kennedy and Associates, Inc. in 2015
+
+1991 toEDS Utilities Division, Atlanta, GA (Now Ventyx)
+1996:Lead Consultant, PROSCREEN (Now STRATEGIST) Department
+
+Managed a client services software team that supported approximately 75 users of the STRATEGIST electric utility strategic planning software.
+Participated in the development of STRATEGIST’s competitive market modeling features and the Network Economy Interchange Module
+Provided client management direction and support, and developed new consulting business opportunities.
+Performed system planning consulting studies including integrated resource planning, DSM analysis, marketing profitability studies, optimal reserve margin analyses, etc.
+Based on experience with PROMOD IV, converted numerous PROMOD IV databases to STRATEGIST, and performed benchmark analyses of the two models. 
+
+1988 to Energy Management Associates (EMA), Atlanta, GA
+1991:Manager, Production Analysis Department 
+
+Served as Project Manager of a database modeling effort to create an integrated utility operations and generation planning database.  Database items were automatically fed into PROMOD IV. 
+Supervised and directed a staff of five software developers working with a 4GL database programming language.
+Interfaced with clients to determine system software specifications, and provide ongoing client training and support 
+
+1980 toEnergy Management Associates (EMA), Atlanta, GA
+1988:Senior Consultant, PROMOD IV Department
+
+Provided client service support to EMA’s base of over 70 electric utility customers using the PROMOD IV probabilistic production cost simulation software.
+Provided consulting services in a number of areas including generation resource planning, regulatory support, and benchmarking.
+
+
+TESTIMONY AND EXPERT WITNESS APPEARANCES
+
+Date
+Case
+Jurisdict
+Party
+Utility
+Subject
+09/98
+97-035-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Utah jurisdictional Net Power Costs, PacifiCorp Rate Case Proceeding
+07/01
+01-035-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Utah Jurisdictional Net Power costs in General Rate Case
+2001
+ER00-2854-000
+FERC
+Louisiana Public Service Commission
+Entergy
+Proposed System Agreement Modifications 
+07/02
+02-035-002
+UT
+Utah Committee for Consumer Services
+PacifiCorp 
+Special contract for industrial consumer
+2002/2003
+U-25888
+LA
+Louisiana Public Service Commission
+Entergy
+Investigation of retail issues related to the System Agreement
+2003
+U-27136 Subdocket A
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Aging gas steam-fired retirement study
+07/03
+EL01-88-000
+FERC
+Louisiana Public Service Commission
+Entergy
+Rough production cost equalization proceeding
+05/04
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Development of a large QF avoided cost methodology
+06/04
+18687-U
+18688-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power and Savannah Electric 
+2004 Integrated Resource Planning Studies
+08/04
+ER03-583-000
+FERC
+Louisiana Public Service Commission
+Entergy 
+Affiliate power purchase agreements
+11/04
+03-035-19
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Industrial customer’s request for a special economic development tariff
+11/04
+03-035-38
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Large QF proceeding.
+03/05
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Concerning PacifiCorp’s Schedule 38 avoided cost tariff and remaining unsubscribed capacity
+07/05
+03-035-14
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Concerning PacifiCorp’s Schedule 38 avoided cost proceeding
+12/05
+04-035-42
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Net power costs in General Rate Case
+04/06
+05-035-54
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Certification request to expand Blundell Geothermal Power Station.  Related to Mid-American Energy Holding’s Acquisition of PacifiCorp
+05/06
+22403-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power and Savannah Electric
+March 2006 fuel cost recovery filing
+2006
+06-35-01
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+2006 rate case, net power costs
+08/06
+U-21453
+LA
+Louisiana Public Service Commission Staff
+Entergy Gulf States
+Jurisdictional separation.
+11/06
+U-25116
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana
+Fuel adjustment clause filings
+01/07
+23540-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+November 2005 fuel cost recovery filing
+04/07
+07-035-93
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+General Rate Case
+06/07
+24505-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2007 Integrated Resource Planning 
+10/07
+U-30334
+LA
+Louisiana Public Service Commission Staff
+Cleco Power
+2008 Short-Term RFP
+04/08
+26794-U
+(FCR-20)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+2008
+6630-CE-299
+WI
+Wisconsin Industrial Energy Group, Inc.
+WEPCO
+Certification Proceeding for environmental upgrades at Oak Creek power plant
+07/08
+ER07-956
+FERC
+Louisiana Public Service Commission
+Entergy
+2006 rough production cost equalization compliance filing in the System Agreement case
+09/08
+6680-CE-180
+WI
+Wisconsin Industrial Energy Group, Inc.
+Wisconsin Power and Light
+Certification proceeding concerning Nelson-Dewey coal-fired generating unit
+11/08
+08-1511-E-GI
+WV
+West Virginia Energy Users Group
+Allegheny Power
+Fuel cost recovery filing 
+12/08
+27800-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Vogtle 3 and 4 nuclear unit certification proceeding
+2008
+08-035-35
+UT
+Utah Committee for Consumer Services
+PacifiCorp
+Chehalis Combine Cycle Power Plant based on a waiver of the RFP solicitation process certification proceeding
+07/09
+ER08-1056
+FERC
+Louisiana Public Service Commission
+Entergy
+2007 rough production cost equalization compliance filing in the System Agreement case
+07/09
+U-30975
+LA
+Louisiana Public Service Commission Staff
+SWEPCO and Cleco 
+Application to acquire the Oxbow Mine to supply Dolet Hills Power Station certification proceeding
+09/09
+E015/PA-09-526
+MN
+Large Power Intervenors
+Minnesota Power
+Request for approval to purchase Square Butte’s 500 kV DC transmission line, restructure a coal based power purchase agreement
+09/09
+09-035-23
+Direct
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2009 rate case, net power costs
+10/09
+09A-415E
+CO
+Public Utilities Commission of Colorado
+Black Hills/Colorado
+CPCN application to construct two LMS 100 natural gas combustion turbine units
+10/09
+09-035-23
+Surrebuttal
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2009 rate case, net power costs
+12/09
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+First Semi-Annual Vogtle Construction Monitoring Report
+12/09
+ER08-1224
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+2009
+09-2035-01
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2008 IRP
+01/10
+28945-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+2010
+EL09-61
+FERC
+Louisiana Public Service Commission
+Entergy
+System Agreement, individual operating company sales
+06/10
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Second Semi-Annual Vogtle Construction Monitoring Report
+12/10
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Third Semi-Annual Vogtle Construction Monitoring Report
+01/11
+ER09-1350
+Direct
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+02/11
+ER09-1350
+Cross-Answering
+FERC
+Louisiana Public Service Commission
+Entergy
+2008 production costs used to develop bandwidth payments
+04/11
+33302-U (FCR-22)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+06/11
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fourth Semi-Annual Vogtle Construction Monitoring Report
+09/11
+U-31892
+LA
+Louisiana Public Service Commission Staff
+Cleco Power
+Settlement agreement, CPCN to upgrade Madison 3 coal unit to accommodate biomass fuel
+11/11
+26550-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Reacquisition of wholesale block capacity
+11/11
+34218-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Decertification of two aging coal units, acquire PPA resources, approve IRP update
+12/11
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fifth Semi-Annual Vogtle Construction Monitoring Report
+03/12
+U-32148
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Change of Control Proceeding to move to Midwest ISO
+2012
+20000-EA-400-11
+WY
+Wyoming Industrial Energy Consumers
+Rocky Mountain Power
+Certification of environmental upgrades at Naughton 3
+05/12
+35277-U (FCR-23)
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel cost recovery filing
+05/12
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Sixth Semi-Annual Vogtle Construction Monitoring Report
+07/12
+2012-00063
+KY
+Kentucky Industrial Utility Customers, Inc.
+Big Rivers
+Environmental upgrades in compliance with MATS and CSAPR 
+09/12
+U-32275
+LA
+Louisiana Public Service Commission Staff
+Dixie Electric Member Cooperative
+Ten year power supply acquisition certification proceeding
+12/12
+EL09-61-002      Direct
+FERC
+Louisiana Public Service Commission
+Entergy
+Harm calculation, violation of System Agreement
+12/12
+U-32557
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Certification of 28 MW PPA for renewable energy capacity (RAIN waste heat) in accordance with LPSC’s Renewable Energy Pilot
+12/12
+U-29764
+LA
+Louisiana Public Service Commission Staff
+Entergy
+Retail proceeding regarding termination of cross-PPAs
+12/12
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Seventh Semi-Annual Vogtle Construction Monitoring Report
+03/13
+EL09-61-002     Cross-Answering
+FERC
+Louisiana Public Service Commission
+Entergy
+Harm calculation, violation of System Agreement
+04/13
+2012-00578
+KY
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Power Company
+Mitchell Certificate of Public Convenience and Necessity
+05/13
+36498-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2013 IRP and request to decertify over 2,000 MW of coal-fired capacity
+07/13
+U-32785
+LA
+Louisiana Public Service Commission Staff
+Entergy
+8.5 MW PPA for renewable energy capacity (Agrilectric rice hull) in accordance with LPSC’s Renewable Energy Pilot
+08/13
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighth Semi-Annual Vogtle Construction Monitoring Report
+10/13
+2013-00199
+KY
+Kentucky Industrial Utility Customers, Inc.
+Big Rivers
+Base rate case
+05/14
+13-035-184
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2014 General Rate Case, net power cost
+06/14
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Ninth/Tenth Semi-Annual Vogtle Construction Monitoring Report
+07/14
+20000-446-EA-14
+WY
+Wyoming Industrial Energy Consumers
+PacifiCorp
+2014 General Rate Case, net power cost
+08/14
+2000-447-EA-14
+WY
+Wyoming Industrial Energy Consumers
+PacifiCorp
+2014 Energy Cost Adjustment Mechanism application
+08/14
+14-035-31
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2014 Energy Balancing Adjustment application
+09/14
+ER13-432
+FERC
+Louisiana Public Service Commission
+Entergy
+Allocation of Union Pacific Settlement Agreement benefits
+10/14
+2014-00225
+KY
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Power
+Kentucky Power Company’s Fuel Adjustment Clause
+12/14
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eleventh Semi-Annual Vogtle Construction Monitoring Report
+05/15
+14-035-140
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Solar and wind capacity contribution avoided cost proceeding.
+06/15
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twelfth Semi-Annual Vogtle Construction Monitoring Report
+08/15
+15-035-03
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2015 Energy Balancing Adjustment application
+09/15
+14-035-114
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Cost and Benefits of PacifiCorp’s Net Metering Program
+11/15
+39638-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+FCR-24 Fuel Cost Recovery Proceeding
+11/15
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Thirteenth Semi-Annual Vogtle Construction Monitoring Report
+5/16
+40161
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power Company’s 2016 IRP and Application for Decertification of Plant Mitchell Units 3, 4A, and 4B, Kraft Unit 1 CT, and Intercession City CT
+6/16
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fourteenth Semi-Annual Vogtle Construction Monitoring Report
+8/16
+16-035-27
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Renewable Energy Services Contract between Rocky Mountain Power and Facebook, Inc
+8/16
+16-035-01
+UT
+Utah Office of Consumer Services
+PacifiCorp
+2016 Energy Balancing Adjustment application
+9/16
+09-035-15
+UT
+Utah Office of Consumer Services
+PacifiCorp
+EBA Pilot Evaluation Direct Testimony
+11/16
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fifteenth Semi-Annual Vogtle Construction Monitoring Report
+11/16
+09-035-15
+UT
+Utah Office of Consumer Services
+PacifiCorp
+EBA Pilot Evaluation Rebuttal Testimony
+11/16
+EL09-61-04
+FERC
+Louisiana Public Service Commission
+Entergy
+Violation of System Agreement, Phase III, Harm Calculation, Direct
+3/17
+EL09-61-04
+FERC
+Louisiana Public Service Commission
+Entergy
+Violation of System Agreement, Phase III, Harm Calculation, Rebuttal
+6/17
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Sixteenth Semi-Annual Vogtle Construction Monitoring Report
+9/17
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Direct
+11/17
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Surrebuttal
+4/18
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Response
+4/18
+17-035-39
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision to Repower Wind Facilities, Rebuttal to Response
+12/17
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Direct
+1/18
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Rebuttal
+4/18
+17-035-40
+UT
+Utah Office of Consumer Services
+PacifiCorp
+Approval of Resource Decision for New Wind and New Transmission, Second Rebuttal
+6/18
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighteenth Semi-Annual Vogtle Construction Monitoring Report
+8/18
+Cause 45052
+IN
+Indiana Coal Council
+Vectren Energy Delivery of Indiana
+Request for Approval of an 850 MW CCGT Plant
+9/18
+U-34836
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana, LLC
+Authorization to Participate in a 50 MW Solar PPA
+11/18
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Nineteenth Semi-Annual Vogtle Construction Monitoring Report
+1/19
+U-35019
+LA
+Louisiana Public Service Commission Staff
+Entergy Louisiana
+Authorization to Make Available Experimental Renewable Option and Rate Schedule RTO
+4/19
+42310-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power’s 2019 IRP Proceeding
+11/19
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty/Twenty-First Semi-Annual Vogtle Construction Monitoring Report
+5/20
+43011-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power Fuel Cost Recovery Application (FCR-25)
+6/20
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Second Semi-Annual Vogtle Construction Monitoring Report
+7/20
+17-035-61
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Approval of an Export Credit Rate for Customer Generators (Primarily Rooftop Solar)
+9/20
+20-035-04
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Utah Rate Case
+10/20
+2019-226-E
+SC
+South Carolina Office of Regulatory Services
+Dominion Energy South Carolina
+Review of DESC’s 2020 IRP
+10/20
+2019-227-E
+SC
+South Carolina Office of Regulatory Services
+Lockhart Power Company
+Review of Lockhart Power Company’s 2020 IRP
+11/20
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Third Semi-Annual Vogtle Construction Monitoring Report
+12/20
+20-035-01
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Application for Approval of the 2020 Energy Balancing Account
+2/21
+2019-224 and 225-E
+SC
+South Carolina Office of Regulatory Services
+Duke Energy Carolinas and Duke Energy Progress
+Review of Duke Energy’s 2020 IRP
+6/21
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Fourth Semi-Annual Vogtle Construction Monitoring Report
+9/21
+U-35927
+LA
+Louisiana Public Service Commission
+1803 Electric Cooperative
+Compliance with MBM Order in Conducting RFP and Acquiring Resources
+12/21
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Fifth Semi-Annual Vogtle Construction Monitoring Report
+5/22
+44160-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power’s 2022 IRP Proceeding
+6/22
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Sixth Semi-Annual Vogtle Construction Monitoring Report
+12/22
+22-035-01
+UT
+Utah Office of Consumer Services
+Rocky Mountain Power
+Application for Approval of the 2022 Energy Balancing Account
+12/22
+2022-259-E
+SC
+South Carolina Office of Regulatory Services
+Dominion Energy South Carolina, Inc.
+Mid-Period Adjustment to Increase Base Rates for the Recovery of Electric Fuel Costs
+1/23
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Seventh Semi-Annual Vogtle Construction Monitoring Report
+
+06/23
+2023-9-E
+SC
+South Carolina Office of Regulatory Services 
+Dominion Energy South Carolina, Inc.
+Review of DESC’s 2023 IRP
+7/23
+29849-U
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Twenty-Eighth Semi-Annual Vogtle Construction Monitoring Report
+
+09/23
+2023-154-E
+SC
+South Carolina Office of Regulatory Services 
+South Carolina Public Service Authority
+Review of Santee Cooper’s 2023 IRP
+11/23
+23-0735-E
+WV
+West Virginia Energy Users Group 
+Mon Power and Potomac Edison
+Expanded Net Energy Cost proceeding.
+12/23
+U-36974
+LA
+Louisiana Public Service Commission Staff 
+1803
+Calpine Capacity PPA Certification Proceeding.
+2/24
+55378
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2023 Integrated Resource Plan Update
+
+6/24
+U-37134
+LA
+Louisiana Public Service Commission Staff 
+1803
+Transmission Asset Transfer
+7/24
+2023-8-E and 2023-10-E
+LA
+South Carolina Office of Regulatory Services
+Duke Energy Progress and Duke Energy Carolinas
+Review of Triennial Integrated Resource Plan 
+12/24
+2024-00285
+KY
+Kentucky Attorney General’s Office
+
+Duke Energy Progress and Duke Energy Carolinas
+Duke Energy Kentucky desire to convert from an FRR entity to an RPM entity
+
+1/25
+24-035-01
+UT
+Utah Office of Consumer Services 
+PacifiCorp
+Application for Approval of the 2023 Energy Balancing Account 
+2/25
+2024-00195
+VA
+Old Dominion Committee for Fair Utility Rates 
+APCO
+2024 Fuel Factor Proceeding
+
+5/25
+56002
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2025 Integrated Resource Plan 
+(Supply Side Resource Plan)
+
+11/25
+56298 and 56310
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Certification of Capacity from 2029 – 2031 All-Source RFP and Supplemental Resources.
+
+2/26
+2025-230-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Carolinas, LLC and Duke Energy Progress, LLC
+Joint Application to Engage in a Business Combination (Merger)
+4/26
+56765
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Georgia Power Fuel Cost Recovery Application (FCR-27)
+9/26
+2026-9-E
+SC
+South Carolina Office of Regulatory Services 
+Dominion Energy South Carolina, Inc.
+Review of DESC’s 2026 IRP
+
+ADDITIONAL JUDICIAL PROCEEDINGS AND OTHER PROJECT INFORMATION
+1995 – 2000 - Modeled the Singapore Power Electricity System and analyzed the benefits of dispatching a new oil-fired unit within the system, BHP Power
+1995 – 2000 - Modeled the Australian National Energy Market to develop market based energy price forecasts on behalf of an Independent Power Producer in Australia, BHP Power
+1995 – 2000 - Analyzed the benefit of purchasing existing gas-fired steam turbine units within the Australian market, BHP Power
+1995 – 2000 Developed market price forecasts for South Australia as part of the evaluation of a new gas fired combined cycle unit, BHP Power
+1995 – 2000 - Modeled the Vietnam Electricity System as part of a project to develop Least Cost Expansion plans for Vietnam, EVN State Utility 
+1995 – 2000 - Assisted in the evaluation of Phu My CCGT power  plant  in Vietnam, BHP Power 
+1995 – 2000 - Assisted in the development of Market Price Forecasts in several regions of the US.  These forecasts were used as the basis for stranded cost estimates, which were filed in testimony in a number of jurisdictions across the country.
+1995 – 2000 - Conducted research regarding ISO Tariffs and Operations for the PJM Power Pool, the California ISO, and the Midwest ISO on behalf of a Japanese Research.
+1995 – 2000 - Performed research on numerous electric utility issues for 3 Japanese research organizations.  This was primarily related to deregulation issues in the US in anticipation of deregulation being introduced in Japan.
+1995 – 2000 - Critiqued the IRP filings of 5 utilities in South Carolina on behalf of the South Carolina State Energy Office
+1999 - Helped to analyze the rate structure and develop an electricity price forecast for the Metropolitan Atlanta Rapid Transit Authority (MARTA) in Atlanta, Georgia
+August 2002 – Expert Report, Civil Action No. 1:00-cv-1262 in the United Stated District Court for the Middle District of North Carolina, United States v. Duke Energy Corporation, Department of Justice
+2002 - Worked on behalf of the Utah Committee of Consumer Services to provide guidance and assist in the analysis of PacifiCorp’s 2002 Integrated Resource Plan. 
+July 2003 - Worked on behalf of the Oregon Public Utility Commission to Audit PacifiCorp’s Net Power Costs per a Settlement Agreement accepted by the Public Utility Commission of Oregon in its Order No. 01-787.  Audit report in Docket No. UE-116 filed July 2003.  
+2003 - Regulatory support to the Utah Committee of Consumer Services regarding PacifiCorp’s 2003 Utah General Rate Case Docket # 03-2035-02.  
+2004 – Assistance to the Utah Committee of Consumer Services to analyze a series of power purchase agreements and special contracts between PacifiCorp and several of its industrial customers. 
+2005 - Worked on behalf of the Utah Committee of Consumer Services to help analyze PacifiCorp’s restructuring proposals.
+2005 - Assisted the Utah Committee of Consumer Services by evaluating PacifiCorp’s 2005 IRP and assisted in writing comments that were filed with the Commission.
+2007 - Assisted the Utah Committee of Consumer Services to evaluate PacifiCorp’s 2007 IRP.
+2007 - Conducted an investigation of the Southern Company interchange accounting and fuel accounting practices on behalf of the Georgia Public Service Commission Staff (Docket 21162-U).
+2008 - Assisted the Louisiana Public Service Commission Staff with the review and evaluation of Cleco Power’s 2008 Short Term RFP and its 2010 Long-Term RFP. 
+2008 - Assisted the Utah Committee of Consumer Services by participating in a collaborative process to develop an avoided cost tariff for large QFs.
+2008 - Assisted the Louisiana Public Service Commission Staff with a rulemaking for the opportunity to implement a Renewable Portfolio Standard in Louisiana. (Docket No. R-28271 Sub-Docket B)
+April 2011 – Initial Expert Report, Civil Action No. 2:10-cv-13101-BAF-RSW, on behalf of the Department of Justice in US District Court, United States v.Detroit Edison
+June 2011 – Rebuttal Expert Report, Civil Action No. 2:10-cv-13101-BAF-RSW, on behalf of the Department of Justice in US District Court, United States Detroit Edison
+2011 - Assisted the Georgia Public Service Commission Staff to investigate the acquisition of additional coal and combustion turbine capacity currently wholesale capacity (Docket 26550).
+2012 - Assisted the Louisiana Public Service Commission Staff with a rulemaking to design Integrated Resource Planning (“IRP”) rules. (Docket No. R-30021)
+December 2013 – Expert Report, Civil action no. 4:11-cv-00077-RWS, on behalf of the Department of Justice in US District Court, United States v. Ameren Missouri. 
+
+PUBLICATIONS AND PRESENTATIONS
+
+Co-authored “Review of EPA’s Section 111 May 23, 2023 Proposed Rule for the State of South Carolina”, on behalf of South Carolina Office of Regulatory Staff, August 2023.
+Co-authored “Review of EPA’s Section 111(d) CO2 Emission Rate Goals for the State of Montana, on behalf of the Montana Large Customer Group, October 2014.
+Authored “Singapore’s Developing Power Market”, which appeared in the July/August 1999 edition of Power Value Magazine
+Co-authored “The New Energy Services Industry – Part 1”, which appeared in the January/February 1999 edition of Power Value Magazine. 
+Co-authored and Presented “Evaluation of a Large Number of Demand-Side Measures in the IRP Process: Florida Power Corporation’s Experience”, Presented at the 3rd International Energy and DSM Conference, Vancouver British Columbia, November 1994
+Co-authored “Impact of DSM Program on Delmarva’s Integrated Resource Plan”, Published in the 4th International Energy and DSM Conference Proceedings, held in Berlin, Germany, 1995
+Presentation – Law Seminars International, Electric Utility Rate Cases, Case Study of the Louisiana Public Service Commission’s Quick Start Energy Efficiency Program, March 2015.
+
+
+BEFORE THE
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN THE MATTER OF: RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+DOCKET NO. 57171
+
+
+EXHIBIT
+
+
+STF-NHW-3
+
+
+EDUCATION
+M.S. Operations Research, Georgia Institute of Technology, 2017
+B.S. Mathematics, Georgia Southern University, 2012
+
+PROFESSIONAL AFFILIATIONS
+Women’s Energy Network, Greater Atlanta Chapter – Board Member (2019 – 2023)
+Women’s Energy Network, Greater Atlanta Chapter – Member (2016 – Present)
+
+EXPERIENCE
+
+Ms. Wellborn has been working in regulated energy markets since early 2013.  She has an undergraduate degree in mathematics and graduate degree in operations research.  She started her career working at J. Kennedy and Associates, Inc., and sub-contracting to Hayet Power Systems Consulting.  For these companies, she provided critical support in the areas of production cost modeling and data analysis through 2018. Ms. Wellborn then spent nearly 3 years at Accenture, supporting its global regulated energy team within the procurement practice, helping large commercial and industrial clients manage their energy spend and energy related initiatives, as they related to regulated utility tariffs, economic dispatch, planning, and market risk (energy efficiency, green tariffs, PPA/VPPA, etc.).  Ms. Wellborn rejoined J. Kennedy and Associates in late 2021 and currently provides analytical support to clients in the areas of utility resource planning and market modeling.
+
+2021 toJ. Kennedy and Associates, Inc.
+Present: Director, Consulting (July 2025 – Present)
+Manager, Consulting (October 2021 – June 2025)
+
+Performs analysis and prepares expert witness testimony on utility planning studies and economic evaluations in review of electric utility regulatory filings. Clients include State Public Service Commissions, Industrial Users Groups, and Consumer Advocacy Groups.
+
+2019 toAccenture, LLP
+2021: Associate Manager, Global Team, Regulated (March 2021 - October 2021)
+Sourcing Specialist, International Teams Lead (March 2020 - March 2021)
+Senior Analyst, Regulated Energy Procurement (January 2019 - March 2020)
+
+As a part of Accenture Operations’ Energy Management and Procurement practice, the Regulated Energy team helps clients identify opportunities for electricity and natural gas cost savings through data analysis and deep industry experience. Clients include large industrial and commercial end-use customers with locations spread across multiple geographies and utility service territories.
+
+• Conducts tariff optimization analysis and ad hoc economic decision analysis for clients with operations and energy spend in areas served by regulated electricity and natural gas distribution utilities.
+• Leads cross functional international delivery team of 10, providing career counseling and project oversight. Supports international energy procurement functions as they relate to regulated utilities/energy markets of Australia, Southeast Asia, and Latin America.
+• Manages project assessments and economic studies as they relate to resource planning or capacity/energy market risk and dispatch pricing (renewables, time-of-use tariffs, real-time-pricing/avoided cost, PPA, VPPA, etc.)
+• Collaborates with all energy management work streams - including utility bill management, renewable energy procurement, deregulated markets competitive sourcing, market intelligence, and project management/technology development initiatives to manage customer spend end to end.
+
+2013 toJ. Kennedy and Associates, Inc.
+2019: Senior Consultant (January 2016 – January 2019)
+Consultant (March 2013 – December 2015)
+
+Responsible for conducting research, performing data analysis, developing production-cost model input assumptions and running production-cost studies, analyzing model output, and conducting related economic studies.  
+
+
+CERTIFICATIONS
+
+Energy Exemplar – Aurora Core Certification Course (March 2022)
+Energy Exemplar – PLEXOS Power Core Certification Course (June 2023)
+
+CLIENTS SERVED
+
+Georgia Public Service Commission Staff
+Kentucky Industrial Utility Customers, Inc.
+Kentucky Office of the Attorney General 
+Louisiana Public Service Commission Staff
+Ohio Energy Group
+South Carolina Office of Regulatory Staff
+Utah Office of Consumer Services
+West Virginia Energy Users Group
+Wisconsin Industrial Energy Group
+TESTIMONY AND EXPERT WITNESS APPEARANCES
+
+Date
+Case
+Jurisdict
+Party
+Utility
+Subject
+06/18
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Eighteenth Semi-Annual Vogtle Construction Monitoring Report
+
+11/18
+29849
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Nineteenth Semi-Annual Vogtle Construction Monitoring Report
+
+5/22
+44160
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2022 Integrated Resource Plan
+(Supply Side Resource Plan, Aurora)
+
+10/22
+44280
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2022 Rate Case
+(Revenue Forecast)
+8/23
+2023-9-E
+SC
+South Carolina Office of Regulatory Staff
+Dominion Energy South Carolina, Inc.
+2023 Integrated Resource Plan
+
+12/23
+2023-154-E
+SC
+South Carolina Office of Regulatory Staff
+South Carolina Public Service Authority (Santee Cooper)
+2023 Integrated Resource Plan
+
+12/23
+U-36974
+LA
+Louisiana Public Service Commission Staff
+1803 Electric Cooperative, Inc.
+Certification of a Capacity Purchase Agreement
+2/24
+55378
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2023 Integrated Resource Plan Update
+(Supply Side Resource Plan, Aurora)
+
+7/24
+2023-8-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Progress, LLC
+2023 Integrated Resource Plan
+7/24
+2023-10-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Carolinas, LLC
+2023 Integrated Resource Plan
+8/24
+24-0508-EL-ATA
+OH
+Ohio Energy Group
+Ohio Power Company
+Application of Ohio Power Company for New Tariffs Related to Data Centers and Mobile Data Centers
+11/24
+2024-00243
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Power Company
+Renewable Energy Purchase Agreement 
+12/24
+24-0611-E-T-PW
+WV
+West Virginia Energy Users Group 
+Appalachian Power Co. / Wheeling Power Co.
+Application for Approval of Revisions to Schedules LCP and IP (Data Centers)
+5/25
+56002
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+2025 Integrated Resource Plan 
+(Supply Side Resource Plan, Aurora)
+
+6/25
+2025-00045
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Utilities Co. / Louisville Gas & Electric Co.
+Application for Certificates of Public Convenience and Necessity and Site Compatibility Certificates
+11/25
+56298 & 56310
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Application for the Certification of Capacity from the 2029-2031 All-Source RFP and Capacity Supplemental Resources
+11/25
+2025-00113 2025-00114
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Utilities Co. / Louisville Gas & Electric Co.
+2025 Rate Case (Adopted Testimony of Stephen J. Baron filed August 29, 2025)
+
+11/25
+2025-00257
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Power Company
+2025 Rate Case
+2/26
+25-035-47
+UT
+Office of Consumer Services
+Rocky Mountain Power
+Proposed 2026 Protocol 
+(Jurisdictional Cost Allocation)
+2/26
+2025-230-E
+SC
+South Carolina Office of Regulatory Staff
+Duke Energy Carolinas, LLC and Duke Energy Progress, LLC
+Joint Application to Engage in a Business Combination (Merger)
+04/26
+56765
+GA
+Georgia Public Service Commission Staff
+Georgia Power
+Fuel Cost Recovery Application 
+(FCR-27)
+6/26
+25-0958-EL-AIR
+OH
+Ohio Energy Group
+Dayton Power & Light Company d/b/a AES Ohio
+Curtailable Use Reliability Benefit (“CURB”) Program
+8/26
+26-035-29
+UT
+Office of Consumer Services
+Rocky Mountain Power
+Application for Approval and Report of Sale of Washington Service Area
+
+
+REPORTS AND INDUSTRY PUBLICATIONS
+
+Date
+Title
+Author(s)
+8/23
+Review of EPA’s Section 111 May 23, 2023 Proposed Rule for the State of South Carolina
+J. Kennedy and Associates, Inc. (On behalf of the South Carolina Office of Regulatory Staff)
+7/24
+Review of Dominion Energy South Carolina, Inc.’s 2024 Integrated Resource Plan Update Docket No. 2024-9-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+1/25
+Review of Santee Cooper’s 2024 Integrated Resource Plan Update Docket No. 2024-18-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+7/25
+Review of Dominion Energy South Carolina, Inc.’s 2025 Integrated Resource Plan Update Docket No. 2025-9-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+12/25
+Review of Santee Cooper’s 2025 Integrated Resource Plan Update Docket No. 2025-18-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+2/26
+Review of Duke Energy Carolinas’ and Duke Energy Progress’ 2025 Integrated Resource Plan Update Docket Nos. 2023-8-E / 2023-10-E
+South Carolina Office of Regulatory Staff and J. Kennedy and Associates, Inc.
+ 
+
+OTHER EXPERIENCE
+
+Dates
+Case
+Jurisdict
+Party
+Utility
+Subject
+11/21
+19-035-42
+UT
+Office of Consumer Services
+Rocky Mountain Power
+Multi-State Process and Jurisdictional Cost Allocation Issues  
+11/22
+22-035-01
+UT
+Office of Consumer Services
+Rocky Mountain Power
+2021 EBA
+2/23
+2022-00387
+KY
+Office of the Attorney General & Kentucky Industrial Utility Customers
+Kentucky Power Company
+Approval of a special contract with EBON International, LLC. 
+5/24
+24-035-04
+UT
+Office of Consumer Services
+Rocky Mountain Power
+Waiver of Significant Energy Resource Decision Projects 
+1/24 
+R-31106 &
+X-37717
+LA
+Louisiana Public Service Commission Staff
+Various
+Approval of Phase II Energy Efficiency Rule (Rulemaking and Transition)
+1/25
+24-035-01
+UT
+Office of Consumer Services
+Rocky Mountain Power
+2023 EBA 
+3/25
+2024-00326
+KY
+Kentucky Industrial Utility Customers
+KU/ LG&E
+2024 Joint Integrated Resource Plan (Comments)

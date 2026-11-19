@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105792,
+      "bytes": 218938,
+      "name": "Chairman Order on Motion for Extension 56298 and 56310.docx",
+      "text": "docx",
+      "text_file": "data/text/224/224535/105792.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224535/105792"
+    },
+    {
+      "attachment_id": 105793,
+      "bytes": 739989,
+      "name": "224535.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224535/105793"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER DENYING MOTION FOR EXTENSION AND CONTINUANCE",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 224535,
+  "filed_date": "2025-11-14",
+  "harvested": "2026-11-19",
+  "received_date": "2025-11-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=224535"
+}

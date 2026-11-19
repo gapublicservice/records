@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110378,
+      "bytes": 2381424,
+      "name": "dkt_56003_dsm_2026_q3.zip",
+      "text": "zip (3 read, 1 not read)",
+      "text_file": "data/text/229/229456/110378.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229456/110378"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 56003 DSM Report for 2026 Q3",
+  "dockets": [
+    56003
+  ],
+  "document_id": 229456,
+  "filed_date": "2026-11-16",
+  "harvested": "2026-11-19",
+  "received_date": "2026-11-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229456"
+}

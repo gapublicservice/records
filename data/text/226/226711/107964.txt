@@ -1,0 +1,230 @@
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-2.docx =====
+STF-PIA-21-2
+
+Question: 
+
+Please refer to STF-PIA-18-2 response. Provide a breakdown or threats to show threat target. (e.g. operations, customer accounts, GPC financial records, etc.)
+
+Response:
+
+The Company does not label cyber incident data based on presumed or known target, but rather by threat type. For example, phishing, identity attack, malware etc.
+
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-5 Attachments A-D PUBLIC DISCLOSURE.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-1.docx =====
+STF-PIA-21-1
+
+Question: 
+
+Please refer to STF-PIA-18-1 Attachment.
+
+Cybersecurity responses are below.
+
+a.Please provide the scale on which the lower left ‘Assessment roll up’ is based.
+b.What is the maximum?
+c.How is this figure related to the ‘Summary’ in the upper left?
+d.What is the meaning of Med and Low in the lower left figure?
+e.How are the lower left and lower right figures related? Is the scale the same?
+f.Is this a monthly or annual report?
+g.Is the self-assessment done by an outside vender or by GPC?
+
+Response:
+
+Maturity is based on a scale from 0-1000.
+The maximum score is 1000.
+Summary quadrant lists the high-level business units without scores. The roll-up shows the scores with industry benchmarks broken out by business units. 
+Med and Low refers to the categorization of BES Cyber Systems (Medium Impact and Low Impact) and level of afforded protection under the North American Electric Reliability Corporation (“NERC”) Critical Infrastructure Protection (“CIP”) Standards program. 
+The right figure is an average of the seven business units from the left figure assessed with the industry average.  
+This is conducted at a minimum on a tri-annual basis or as requested by the internal business partners.
+These assessments are conducted by outside cybersecurity consultants.
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21 Verification - Grubb (56002).pdf =====
+
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-4.docx =====
+STF-PIA-21-4
+
+Question: 
+
+Please refer to STF-PIA-18-6, STF-PIA-18-7 and STF-PIA-13b responses. Even if the physical security threat or breaches and did not ‘require Georgia Power to alter its physical security threat posture’, provide the requested information. (thefts, vandalism, trespass, etc.) In addition, provide the trend in each over the last five years 2021-2025. Provide the same for known drone activity (STF-PIA-15).
+
+Response:
+
+2025 Georgia Power Physical Security Incidents by Month:
+
+ Month
+Prop Damage/Vandalism
+Suspicious Activity
+Theft
+Trespass
+Drones
+January
+2
+0
+2
+1
+0
+February
+2
+0
+3
+1
+0
+March 
+2
+1
+6
+1
+0
+April
+3
+3
+7
+2
+0
+May
+2
+0
+3
+2
+0
+June
+3
+1
+1
+1
+0
+July 
+1
+2
+1
+0
+0
+August 
+0
+1
+2
+0
+0
+September
+4
+1
+1
+1
+0
+October 
+1
+2
+1
+0
+0
+November
+1
+1
+0
+1
+0
+December
+1
+0
+2
+1
+0
+
+Georgia Power  has observed a downward trend in reported physical security incidents since 2021. This reduction is attributable to the continued enhancement of the Company’s security posture, including investments in physical security infrastructure, expanded monitoring and detection capabilities, and the implementation of risk-based security protocols. Additionally, strengthened coordination with law enforcement and industry partners has contributed to improved incident prevention and response. Collectively, these efforts have contributed to a measurable reduction in both the frequency and severity of security breaches across Georgia Power facilities.
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-5.docx =====
+STF-PIA-21-5
+
+Question: 
+
+Please refer to STF-PIA-18-9 Attachment B response. Since E-ISAC and MS- ISAC among others that were previously funded by the Federal government and are no longer available to the Commission at no charge, provide these annual and monthly reports on an on-going basis.
+
+Response:
+
+The Company does not have access to MS-ISAC reporting directly. 
+
+The Company has provided the 2025 E-ISAC Open-Source Intelligence Year in Review and the most recent Quarterly reports shared at TLP: Green. See STF-PIA-21-5 Attachments A-D TRADE SECRET.  
+
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-7.docx =====
+STF-PIA-21-7
+
+Question: 
+
+Please refer to STF-PIA-23 response. Despite the last time of the response, has the war in Iran necessitated any change in the focus of Company’s actions?
+
+Response:
+
+While Georgia Power is not currently aware of any targeted activity toward the Company, Georgia Power activated a heightened state of awareness in response to the conflict and implemented the following measures:
+Expanded targeted threat hunting focused on Iranianaligned tactics, techniques, and procedures.
+Lowered alerting and reporting thresholds across Security Operations to increase sensitivity to early indicators of malicious activity.
+Close coordination with industry peers, government partners, and commercial intelligence providers to maintain shared situational awareness and preparedness.
+Focused review of external assets, including validation of internetconnected devices and thirdparty dependencies.
+
+Georgia Power maintained this elevated posture for several weeks, then resumed normal operations once active conflict lessened and negotiations restarted.
+
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-3.docx =====
+STF-PIA-21-3
+
+Question: 
+
+Please refer to STF-PIA-18-4, STF-PIA-18-5, and STF-PIA-18-8 responses.
+a.Even if there is no formal notification of correspondence, does the Company maintain any record of these informal contacts and information sharing?
+b.If so, how is it broken down and how does the Company use the information?
+c.If not, why?
+
+Response:
+
+Yes. Correspondence varies based on the subject matter and applicable business unit and may occur via phone call, virtual meeting, or inperson meeting. For meetings, the Company typically retains calendar invitation records, which include the meeting agenda and list of attendees. 
+
+Informal communication logs related to cyber threat intelligence are retained using various applications and mediums. They are appropriately labeled using the Traffic Light Protocol (“TLP”) for cyber threat information sharing. These trade secrets are protected under bilateral and multilateral non-disclosure agreements, carrying the TLP marking of Amber+Strict, which prohibits external disclosure.
+
+The retained information is maintained in forms appropriate to the nature of the communication and is used to support the Company’s physical and cyber security operations. This includes: 
+maintaining situational awareness; 
+coordinating and sharing information with internal stakeholders and applicable external agencies; 
+aligning roles and responsibilities in response to evolving conditions affecting the electric sector and critical infrastructure environment; 
+assessing, adjusting, and validating the Company’s physical security posture; 
+proactively identifying previously unknown cyber threats within Company data; 
+establishing an internal knowledge base of threat actor techniques; and
+modeling real-world threats during tabletop exercises.
+
+Not applicable.
+
+===== DKT 56002 STF-PIA-21 PD/STF-PIA-21-6.docx =====
+STF-PIA-21-6
+
+Question: 
+
+Please refer to STF-PIA-18-10 and STF-PIA-11b response. Provide a copy of the Company internal standards and guidelines for governing and enforcing cybersecurity risks.
+
+Response:
+
+ The documents requested contain sensitive security control details, architectural information, and implementation guidance that constitute proprietary trade secrets. Disclosure of this information could materially increase cybersecurity risk by providing threat actors insight into the Company’s internal defensive posture and control environments, which would be detrimental to the protection of critical infrastructure.
+
+To be responsive to this request while appropriately safeguarding sensitive information, the Company is providing an index of internal cybersecurity requirements and standards that govern secure use of technology across the enterprise. 
+
+Application Security Requirement
+Architecture Review Board Criteria Requirement
+Company-Owned Mobile Device Requirement
+Cyber Security Stack Requirement
+End User Technology Acquisition Requirement
+Enterprise Account Administration Requirement
+International Travel Computing Requirement
+Network Security Requirement
+Network Zoning and Placement Requirement
+Password Construction and Protection Requirement
+Public Key Infrastructure (PKI) Requirement
+Secure Access and Authentication Requirement
+Security Risk Management Requirement
+System Component Management Requirement
+Technology Encryption Requirement
+Third-Party Security Requirement
+Vulnerability & Patch Management Requirement
+Wireless LAN Security Requirement
+Workstation Administrative Account Requirement

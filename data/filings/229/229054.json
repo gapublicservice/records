@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109971,
+      "bytes": 216969,
+      "name": "dkt_44280_nuclear_uprates_summary.zip",
+      "text": "zip (3 read)",
+      "text_file": "data/text/229/229054/109971.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229054/109971"
+    },
+    {
+      "attachment_id": 109972,
+      "bytes": 905653,
+      "name": "229054.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229054/109972.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229054/109972"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Georgia Power Nuclear Uprates Summary",
+  "dockets": [
+    44280
+  ],
+  "document_id": 229054,
+  "filed_date": "2026-10-06",
+  "harvested": "2026-11-19",
+  "received_date": "2026-10-06",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229054"
+}

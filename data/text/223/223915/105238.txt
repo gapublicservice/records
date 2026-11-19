@@ -1,0 +1,2487 @@
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-21 Attachment.pdf =====
+                                                                                   STF-PIA-32-21 Attachment
+
+
+                       U.S. DEPARTMENT OF TRANSPORTATION                         ORDER
+                         FEDERAL AVIATION ADMINISTRATION                         8040.6A
+
+                                        National Policy                        Effective date:
+                                                                                09/01/2023
+SUBJ:       Unmanned Aircraft Systems (UAS) Safety Risk Management (SRM) Policy
+
+Safety Risk Management (SRM) is one of the four components of a Safety Management System
+(SMS). The objective of SRM is to provide information regarding hazards, safety risks, and safety
+risk controls to decision-makers to enhance the Federal Aviation Administration’s (FAA) ability
+to address safety risks in the National Aerospace System (NAS).
+
+The FAA has been tasked with safely integrating unmanned aircraft systems (UAS) operations in
+the NAS. This Order supplements FAA Order 8040.4, Safety Risk Management Policy by
+establishing a methodology for conducting SRM when required. This Order establishes
+governance and triage steps for all requests to operate UAS received by FAA lines of business
+(LOB) and defines SRM steps for the Aviation Safety (AVS) organization.
+
+
+Polly Trottenberg
+Acting Administrator
+
+
+Distribution: Electronic                                          Initiated By: AUS-1
+
+                                                                                                                              STF-PIA-32-21 Attachment
+
+09/01/23                                                                                                                           8040.6A
+                                                 Table of Contents
+
+
+Chapter 1. General Information............................................................................................... 1-1
+      1.     Purpose of This Order. ................................................................................................ 1-1
+      2.     Audience...................................................................................................................... 1-1
+      3.     Where to Find This Order. .......................................................................................... 1-1
+      4.     Cancellation................................................................................................................. 1-1
+      5.     Explanation of Policy Changes. .................................................................................. 1-1
+      6.     Background. ................................................................................................................ 1-1
+      7.     Scope. .......................................................................................................................... 1-2
+
+Chapter 2. Roles and Responsibilities...................................................................................... 2-3
+      1.     General. ....................................................................................................................... 2-3
+      2.     Roles and Responsibilities........................................................................................... 2-3
+      3.     LOB Coordination....................................................................................................... 2-4
+
+Chapter 3. Triggers, Governance, and Triage ........................................................................ 3-6
+      1.     SRM Triggers. ............................................................................................................. 3-6
+      2.     Governance.................................................................................................................. 3-6
+      3.     Triage Steps................................................................................................................. 3-6
+      4.     Determine SRM Process and Panel Leads. .................................................................... 3-9
+
+Chapter 4. AVS SRM Requests .............................................................................................. 4-11
+      1.     Introduction. .............................................................................................................. 4-11
+      2.     Risk Analysis/Assessment......................................................................................... 4-11
+      3.     UAS SRM Process .................................................................................................... 4-11
+
+Chapter 5. Administrative Information................................................................................. 5-17
+      1.     Distribution................................................................................................................ 5-17
+      2.     Related Publications. ................................................................................................. 5-17
+
+Appendix A. Terms and Definition ......................................................................................... A-1
+
+Appendix B. UAS Hazards, Mitigations, and Outcomes........................................................B-1
+
+Appendix C. Severity, Likelihood, and Risk Matrix ............................................................. C-1
+
+Appendix D. Safety Risk Management Documentation Template..................................... D-11
+
+
+                                                                       i
+
+                                                                                    STF-PIA-32-21 Attachment
+
+09/01/23                                                                               8040.6A
+
+
+                             Chapter 1. General Information
+
+
+1. Purpose of This Order. This Order establishes the methods by which the FAA manages
+applicants’ requests to operate unmanned aircraft systems, and how AVS performs safety risk
+management in accordance with FAA Order 8040.4, Safety Risk Management Policy. This
+Order defines the scope, roles and responsibilities, triage, governance, SRM triggers, and
+includes an outline for documenting SRM steps. This Order also clarifies responsibilities and
+describes the duties of Air Traffic Organization (ATO) and AVS to facilitate repeatable work
+processes when handling waivers. Exemption requests are currently handled per 14 CFR Part 11.
+Processes contained herein support FAA Order 8040.4, establishing a safety risk baseline with
+common hazards and mitigations, that enable the FAA to address safety risk associated with
+UAS operations in the National Airspace System in a more consistent, coordinated, and timely
+manner.
+
+2. Audience. The chapters in this document (except Chapter 4) apply to the same FAA lines of
+business as described in FAA Order 8040.4. The SRM steps in Chapter 4 only apply to AVS.
+
+3. Where to Find This Order. This Order is available on the FAA website at
+http://www.faa.gov/regulations_policies/orders_notices/
+
+4. Cancellation. This Order replaces FAA Order 8040.6, Unmanned Aircraft Systems (UAS)
+Safety Risk Management (SRM) Policy, dated October 4, 2019.
+
+5. Explanation of Policy Changes. This revision does the following:
+   a. Adds and clarifies terms and definitions in Appendix A.
+   b. Updates information in Chapter 4 providing guidance for recommended training prior to
+      a participant serving on a panel.
+   c. Updates severity and likelihood definitions in Appendix C and adds a matrix that is more
+      focused on quantitative assessments and aligns with FAA Order 8040.4.
+   d. Clarifies SRM triggers, governance and triage steps in Chapter 3 to align with FAA
+      Order 8040.4.
+
+   e. Updates UAS hazards, mitigations, and outcomes in Appendix B.
+   f. Updates the roles and responsibilities in Chapter 3 per the memorandum of agreement
+      between AVS and ATO.
+
+6. Background. The FAA’s mission is to provide the safest, most efficient aerospace system in
+the world. In support of this mission, the FAA uses a Safety Management System – the formal,
+top-down, organization-wide approach to managing safety risk and assuring the effectiveness of
+safety risk controls. It includes systematic procedures, practices, and policies for the
+management of safety risk. Safety Risk Management is one of the four components of SMS that
+enables the Agency to effectively manage safety across the NAS. As a newer entrant into the
+NAS, UAS are striving to get the quantity and depth of data needed to make better decisions, like
+that of manned aircraft. The UAS industry has experienced exponential growth as demonstrated
+
+
+                                              1-1
+
+                                                                                      STF-PIA-32-21 Attachment
+
+09/01/23                                                                                  8040.6A
+
+by the number of drone registrations, airspace authorizations, waivers, and certificated remote
+pilots, and continues to grow. The regulatory system is striving to keep up with the pace of UAS
+technology and the unique nature of hazards and mitigations in these operations. Thus, this Order
+establishes the SRM process for UAS requests and provides a generalized list of common
+hazards and possible mitigations that should be considered with each applicable assessment.
+Those involved in the identification and management of risk must evaluate the unmanned aircraft
+(UA), its associated elements (AE), the proposed operation, and the operational environment to
+identify all hazards that may be introduced or impacted by UAS operations in the NAS.
+
+7. Scope. This Order describes FAA activity from the point at which a UAS operator makes a
+request to operate in the NAS, until the FAA responds to the applicant, either granting approval
+or denying the request. The SRM process is scalable to establish a new national policy or by an
+individual assessing a waiver. This document supplements and does not supersede requirements
+contained within FAA Order 8040.4 and may be used to assess NAS changes as they pertain to
+UAS. This Order focuses on hazards that expose persons or property to harm or damage, within
+the NAS or on the ground, while the UAS is prepared for flight and during UAS operations.
+Ensuring hazards are identified and sufficient mitigations are in place helps ensure the safety of
+individuals involved in flight operations, as well as nonparticipants on the ground and in the air.
+Pursuant to SMS, this Order does not address occupational safety/health issues or consider
+typical workplace hazards such as slips/falls, chemical exposure, hearing, or eye protection.
+
+
+                                                1-2
+
+                                                                                           STF-PIA-32-21 Attachment
+
+09/01/23                                                                                       8040.6A
+
+
+                           Chapter 2. Roles and Responsibilities
+
+
+1. General. This section defines roles and responsibilities for the FAA, as a regulator, in
+identifying hazards, assessing safety risk, and evaluating the effectiveness of proposed risk
+mitigations in support of FAA decisions regarding the operation of UAS in the NAS.
+
+2. Roles and Responsibilities.
+
+   a. Receiving Organization. This is the FAA organization that receives requests concerning a
+      UAS operation and is typically the Office of Primary Responsibility (OPR). The receiving
+      organization follows FAA Order 8040.4 and associated FAA SRM processes andensures
+      coordination with stakeholder organizations in the FAA.
+
+   b. Office of Primary Responsibility (OPR). In general, the OPR is the FAAorganization with
+      oversight responsibility for the regulation(s) from which the applicant is requesting an exemption
+      or waiver. In the case of multiple OPRs, each OPR evaluates the portion they oversee and
+      coordinates with the other OPRs.
+       (1) UAS Program/Project Leads. The UAS Program/Project Leads are appointed by and
+           generally reside within the OPR. They will:
+           (a) Follow the current SRM processes and apply the appropriate line of business
+               SRM process to assess safety risk associated with the UAS operational approval.
+           (b) Coordinate with applicable stakeholders in accordance with (IAW) this Order.
+           (c) Facilitate the SRM process or identify an SRM Panel facilitator within the
+               appropriate LOB, if necessary.
+           (d) Ensure the SRM process is properly documented IAW the appropriate LOB
+               process. The panel facilitator or a designee may write the SRM document. The
+               FAA may also use the operators’ safety risk assessment if they feel it has
+               identified all relevant hazards and accurately captured the risk level. In either
+               case, the document must be coordinated with the OPR(s).
+           (e) Communicate with the applicant regarding the FAA response to requests to
+               ensure seamless coordination between FAA offices.
+           (f) Brief the appropriate management level or executive(s) when SRM decisions need
+               to be elevated.
+   c. Risk Acceptor(s). The risk acceptor is a management official, or officials, in the FAA OPR(s)
+      with authority for overseeing the proposed UAS operation. The risk acceptor(s) decides
+      whether the predicted residual risk is acceptable. The risk acceptor(s) seeks to understand the
+      predicted residual risk associated with the proposed operation and may choose to accept that
+      safety risk by approving the operation.
+   d. The Safety Analyst or Team. FAA subject matter experts (SMEs) selected by the OPR to
+      participate in the safety risk assessment as a panel member. Each organization within the FAA
+      with regulatory oversight responsibility for the regulation(s) associated with the request must
+
+
+                                                  2-3
+
+                                                                                       STF-PIA-32-21 Attachment
+
+09/01/23                                                                                   8040.6A
+
+       have SME participation throughout the safety risk assessment. SME responsibilities include:
+       (1) Considering whether the mitigation strategy is sufficient, to ensure that the predicted
+           residual risk is not exceeded.
+       (2) Identifying hazards that are introduced or affected by the proposed UAS operation.
+       (3) Assisting with the safety risk analysis and/or verifying that the applicant’s analysis is
+           complete and accurate.
+       (4) Providing a clear and accurate picture of safety risk associated with approval of the
+           UAS request.
+       (5) Substantiating severity and likelihood determinations by documenting the rationale used.
+       (6) Providing rationale for disagreement with the SRM Panel’s assessment (dissenting
+           opinion) where appropriate.
+
+3. LOB Coordination. In general, the primary stakeholders for UAS requests are Flight
+Standards Service (FS) and Aircraft Certification Service (AIR) in AVS, and Mission Support
+Services (AJV) in the ATO. The Services/Offices (S/O) are often the OPR, conduct SRM or
+request facilitation from UAS Integration (AUS-430), and serve as the risk acceptor for
+regulations within their purview. To ensure a thorough and well-rounded safety analysis, other
+AVS S/Os and FAA LOBs may be invited to serve as SMEs. AVS and ATO responsibilities are
+further described below:
+
+   a. Aviation Safety (AVS). AVS is the OPR responsible for approving mitigations that rely
+      on aircraft systems, third-party systems, or operator procedures and training, where the
+      operator/proponent retains responsibility for collision avoidance.
+
+       (1) Flight Standards Service (FS)/Aircraft Certification Service (AIR)/Office of
+           Aerospace Medicine (AAM). FS, AIR, and AAM each conduct SRM and serve as the
+           risk acceptor when a UAS request pertains to the regulations that S/O oversees. They
+           ensure coordination across FAA organizations prior to providing a response to the
+           applicant, as necessary. As the OPR and risk acceptor, they use accepted data in the
+           following order: analytical, empirical, and lastly judgmental to determine whether
+           mitigations are sufficient. To ensure a thorough and well-rounded safety analysis,
+           other AVS S/Os and FAA LOBs may be invited to serve as SMEs.
+
+       (2) Office of Rulemaking (ARM). ARM is not a risk acceptor. They receive and manage
+           the review and coordination of UAS rules and exemptions.
+
+       (3) Unmanned Aircraft Systems Integration Office (AUS). AUS is not a risk acceptor and
+           has the following responsibilities:
+
+           (a) Safety and Integration Division (AUS-400). AUS-400 supports FAA offices by
+               evaluating UAS operational requests and assisting with SRM in coordination with
+               the OPR. When a project involves multiple organizations, AUS supports intra-
+               agency coordination as outlined in FAA Order 8040.4. When a request is made
+
+
+                                                2-4
+
+                                                                                     STF-PIA-32-21 Attachment
+
+09/01/23                                                                                 8040.6A
+
+              through a partnership program, AUS-400 will assign an AUS Project Manager
+              (PM) to facilitate a “one FAA voice” philosophy.
+
+           (b) Program Manager (PM). The AUS PM manages coordination across FAA
+               organizations for any UAS requests through established partnerships. The AUS
+               PM engages with stakeholders and assists in finding solutions for technical issues.
+
+   b. Air Traffic Organization (ATO). ATO is the OPR responsible for approving
+      mitigations that promote the safe, orderly, and expeditious flow of air traffic, including
+      mandatory services required for the purpose of preventing collision between known
+      aircraft and Air Traffic Control (ATC) requirements within controlled airspace.
+
+   c. Air Traffic Safety Oversight Service (AOV). AOV supports AVS and FAA missions
+      through independent oversight of the ATO’s provision of air traffic services using risk-
+      based, data-supported surveillance methods to monitor the safety of the NAS. AOV must
+      approve controls that are designed to mitigate or eliminate initial or current high-risk
+      hazards before ATO can implement the change. AOV supports ATO SRM Panels.
+
+   d. Security and Hazardous Materials Safety (ASH). ASH conducts SRM to assess the
+      safety risk for UAS requests that may include hazardous materials. ASH might also be
+      asked to participate as a SME in AVS or ATO-led SRM activities.
+
+
+                                               2-5
+
+                                                                                      STF-PIA-32-21 Attachment
+
+09/01/23                                                                                  8040.6A
+
+
+                      Chapter 3. Triggers, Governance, and Triage
+
+
+1. SRM Triggers. There are two basic triggers for applying SRM. The first is the discovery of
+potential hazards or ineffective controls from the Safety Assurance process, e.g., safety issues.
+The second is a Planned Change, e.g., new regulations.
+
+Regulations serve as safety risk controls. Requests for relief from applicable regulations,
+waivers, and exemptions, must be evaluated to determine if gaps in regulations, standards,
+procedures, and guidelines would require planned changes to address the shortfall. FAA
+organizations with product/service provider oversight responsibility must apply the concepts of
+SRM to decisions that may lead to the initiation of regulatory changes through rulemaking.
+Doing so ensures that regulations address hazards in the aerospace system and provide
+boundaries on the acceptability of the design and performance of products and services.
+Regulations and subsequent oversight activities are part of a systematic strategy of risk control.
+
+The FAA as a regulator does not own the systems or operations, rather the product/service
+providers own and control their operations. Within the limits of the regulator’s authority, the
+regulator may apply controls to product/service provider activities and operations. These controls
+are promulgated through regulations, standards, procedures, guidelines, etc.
+
+Since regulations are risk controls, requests for relief from applicable regulations (e.g., waivers,
+exemptions) must be evaluated to determine if gaps in regulations, standards, procedures, and
+guidelines would require planned changes to address the shortfall. Operational approvals such as
+waivers may be granted if existing policy and established controls are sufficient in addressing the
+potential hazard without the need for further SRM.
+
+
+2. Governance. UAS Program/Project Leads must apply the following governance model and
+triage steps (Figure A) to help ensure timely coordination across FAA organizations, consistent
+application of SRM, if required, and uniformity of FAA responses to applicants for UAS
+requests. For additional details regarding roles and responsibilities, see Chapter 2.
+
+If a proposed UAS operation does not result in a new change it will be filtered through existing
+processes. In cases in which the proposed operations may require the development of new
+policies, SRM must be applied. SRM will be conducted IAW the applicable SRM Order(s) (this
+Order, FAA Order 8040.4, and/or the ATO SMS Manual). The Triage Steps (Figure A) help the
+UAS Program/Project Leads determine which process applies. Chapter 4 of this Order identifies
+how AVS meets requirements for situations in which FAA Order 8040.4 applies.
+
+
+3. Triage Steps. When an applicant requests a waiver or an exemption, a new rule is proposed or
+a change to a rule is proposed, the receiving UAS Program/Project Leads must answer the following
+questions (Figure A) to ensure appropriate coordination and handling of the request.
+
+
+                                                3-6
+
+                                                                                     STF-PIA-32-21 Attachment
+
+09/01/23                                                                                 8040.6A
+
+
+                                      Figure A - Triage Steps
+
+
+Triage Steps:
+
+   a. Does the planned change control, generate, or affect an aviation hazard, e.g., was a
+      hazard identified because of an SRM trigger, e.g., a precursor or planned change to
+      the NAS?
+
+      If yes: SRM is required and proceed to paragraph b.
+      If no: SRM is not required. Document the rationale as to why no new hazards are
+      introduced and no known hazards are affected, or why the safety risk associated with the
+      previously approved operation is still valid.
+
+   b. Has the associated safety risk been previously assessed and verified?
+      Risk is a result of a hazard. The safety analyst or team needs to determine if the safety
+      risk(s), or if the safety hazard(s) associated with the proposed operation have been
+      previously assessed.
+
+      The UAS Program/Project Leads review and assess the operation to identify any gaps not
+      satisfied by existing policies. If there are questions concerning previously assessed
+      mitigations by another LOB, the UAS Program/Project Lead will coordinate with the other
+      LOB. The UAS Program/Project Leads determine whether existing controls exist to
+      address the safety risk.
+
+
+                                               3-7
+
+                                                                                      STF-PIA-32-21 Attachment
+
+09/01/23                                                                                  8040.6A
+
+
+      If yes: proceed to paragraph c.
+              • If the hazards associated with a proposed operation have been previously
+                 assessed, the analyst should consider whether the severity and likelihood is
+                 impacted by other factors, e.g., system state. If they are not, no SRM is required.
+                 The analysis and reason for not performing a full SRM must be documented.
+      If no: SRM is required.
+              • If the hazards associated with the proposed operation have not been previously
+                 assessed and verified, and adequate controls do not exist to address the safety
+                 risk, SRM is required. If some, but not all, of the hazards have been previously
+                 assessed and verified, SRM is required on the differences/changes to the NAS.
+
+   c. Are there differences/changes from the precedent-setting approval?
+
+      When safety risks associated with a proposal are not addressed by existing controls, the
+      request must undergo SRM analysis. The resulting safety risk assessment may require
+      new controls for that type of operation, which should inform updates to the applicable
+      regulations, standards, procedures, approvals, guidelines, etc. If the proposed operation is
+      only partially covered by existing controls, then a risk assessment is only required on the
+      differences.
+
+      After determining if the gap will be addressed through changes to widely applicable
+      policies or if the proposal must be evaluated based on specifics to the request, the UAS
+      Program/Project Leads determine the applicable SRM process. Note: When some
+      operations are approved for experimental reasons with a very limited scope, they should
+      be addressed on an individual basis. After identifying new controls within the applicable
+      process, additional safety analysis must be performed to ensure that no new hazards have
+      been introduced or that existing safety risk controls have not been compromised based on
+      the proposed safety risk controls.
+
+      If yes: SRM is required on the differences and changes.
+      If no: SRM is not required. Document the rationale and proceed to paragraph d.
+
+
+   d. Is the safety hazard associated with the previously approved operation still valid (if
+      applicable)?
+
+      The UAS Program/Project Leads consider the validity of existing governing policies.
+      Factors such as technological advances, changes in the acceptable risk level, and
+      improved operational experience may impact the validity of the previously evaluated
+      operations. The safety risk identified for a previously evaluated type of operation may no
+      longer be valid if the monitoring results indicate increased safety risk or inaccurate safety
+      risk predictions. The goal is to have an accurate understanding of safety risk when
+      deciding whether existing policies are sufficient.
+
+
+                                               3-8
+
+                                                                                               STF-PIA-32-21 Attachment
+
+09/01/23                                                                                           8040.6A
+
+        (1) Safety risk analyses for previously evaluated operations simply provide a starting
+            point for the rationale that the safety risk associated with a given request for
+            appropriate action is controlled to a level of safety required by the existing processes.
+
+        (2) Previous approvals do not eliminate the need for continuous monitoring of UAS
+            related safety risk, e.g., Safety Assurance functions, or the potential need for updating
+            established controls. The need to re-apply SRM based on UAS-related occurrence
+            reports is at the discretion of FAA management (refer to “SRM Triggers” at the
+            beginning of this chapter). Continuous monitoring and continuous improvement of
+            UAS-related safety risk (e.g., collecting and reviewing occurrence reports, precursor
+            data, and employee reporting) must be conducted IAW FAA Order 8000.369 and
+            FAA Order 8040.4, SRM and Safety Assurance Processes, as well as the monitoring
+            plan of each approved safety risk assessment. In the case of a UAS request renewal,
+            e.g., annual UAS events, synchronized UAS lightshow performances, or previously
+            approved UAS operations in a new geographic location, SRM needs only to be
+            applied to changes within the environment, operation, and/or mitigation strategy. If it
+            is determined that a safety risk assessment is not required, the rationale for that
+            decision must be documented. After the rationale has been documented and all
+            stakeholders have been consulted, the OPR may process the request for appropriate
+            action in accordance with the OPR process. Decision-makers can compare safety
+            assurance and monitoring data to the safety risk guidelines on the risk matrix to
+            understand whether action is needed for risk to remain at acceptable levels.
+
+        If no: Continue with the SRM process, e.g., assess further.
+        If yes: SRM is not required. Document the rationale as to why no new hazards are
+        introduced and no known hazards are affected, or why the safety risk associated with the
+        previously approved operation is still valid.
+
+
+4. Determine SRM Process and Panel Leads. If SRM is required:
+    a. AVS and ATO understand that timely forthright communications will be key to
+    accomplishing these efforts. AVS and ATO will remain committed to ensuring an efficient
+    flow of necessary information and maintaining open lines of communication. Based on the
+    criteria outlined below, determine which SRM processes and which LOB will lead, AVS,
+    ATO, or both. 1
+
+    (1) AVS is responsible for conducting SRM using, this process, 8040.4 or any S/O approved
+        process when mitigations rely on aircraft systems, third-party systems, or operator
+        procedures and training, where the operator/proponent retains responsibility for collision
+        avoidance are required to be assessed. These include but are not limited to the following:
+        (a) Onboard detect and avoid (DAA) technology solutions
+        (b) Airframe-based solutions
+
+1
+ Note SRMs can be conducted separately with each LOB assessing their appropriate mitigations, but there is
+nothing that would restrict both LOBs from working together on a SRM assessment if both LOBs agree on which
+LOB leads and which process to use.
+
+
+                                                     3-9
+
+                                                                                       STF-PIA-32-21 Attachment
+
+09/01/23                                                                                   8040.6A
+
+      (c) Pilot requirements and qualifications
+      (d) Chase plane – Chase plane aircraft performance requirements and characteristics to
+          meet pilot requirements of §91.113
+      (e) Ground-based DAA technologies that are new entrant technology and are non-NAS
+          systems
+      (f) Operational use of NAS-based information by the operator
+      (g) Pilot procedures
+      (h) Assessment of the radio frequency interference risks associated with the proposed
+          spectrum (as identified by ATO), ensuring the applicant proposes acceptable
+          mitigations (with concurrence from ATO if the risk could affect NAS systems)
+          necessary to address the risks
+
+   (2) ATO is responsible for conducting SRM using the ATO SMS Manual when mitigations
+       that promote the safe, orderly, and expeditious flow of air traffic, including mandatory
+       services required for the purpose of preventing collision between known aircraft and
+       ATC requirements within controlled airspace are required to be assessed. These include
+       but are not limited to the following:
+       (a) Ground-based DAA technologies that are, or will have the potential to interact with,
+           NAS systems or will interact with or are defined as NAS Data
+       (b) Navigation technologies that are, or will interact with, NAS systems
+       (c) As it relates to air traffic service requirements in controlled airspace, or air traffic
+           policy to include air traffic procedures:
+           1) Communication with air traffic
+           2) Procedures to provide separation service between the unmanned aircraft and any
+               other aircraft
+           3) ATC clearance
+       (d) Charting provided by the FAA
+       (e) Operational use of NAS-based information by the operator
+       (f) Evaluation of radio frequency spectrum for compliance and compatibility with
+           spectrum allocations and identify the interference risks associated with the proposed
+           spectrum
+       (g) ATC provided, or third-party services required by the FAA to prevent collision
+           between aircraft in controlled airspace
+       (h) Aircraft equipage that interacts with ATC secondary surveillance systems
+
+
+                                               3-10
+
+                                                                                           STF-PIA-32-21 Attachment
+
+09/01/23                                                                                        8040.6A
+
+
+                                Chapter 4. AVS SRM Requests
+
+
+1. Introduction. The steps in this chapter apply to UAS actions in AVS’s purview as noted in
+Chapter 3, Section 4. The safety risk assessment will provide this information so that they may
+determine whether the residual risk level is acceptable or not. Taking a holistic approach to the
+UA and its associated elements to risk analysis means accounting for the strengths and gaps of
+each mitigation layer and understanding the totality of all the measures are sufficient to maintain
+an acceptable level of safety. The SRM process and resulting documentation provide the risk
+acceptors with a clear and accurate picture of the safety risk, informing their decision to grant
+approval or deny a request.
+
+2. Risk Analysis/Assessment. AVS may accept the applicant’s risk analysis or perform a risk
+assessment using an SRM process. If the applicant’s risk analysis is accepted, this indicates AVS
+concurrence. Once the applicant’s risk analysis is accepted or an SRM Panel is completed, the
+analysis is documented and maintained in accordance with FAA Order 8040.4. Appendix D,
+Safety Risk Management Template may be used as a sample to outline the topics for
+documenting the risk analysis. The UAS industry and data sources continue to evolve, therefore
+a safety analyst or team should use the best available data and SMEs to make their
+determinations and document the rationale. This chapter expands on, but does not supersede, the
+information contained within FAA Order 8040.4. Questions regarding FAA Order 8040.4 should
+be directed to the AVS Safety Management and Research Planning Division (AVP-300).
+
+3. UAS SRM Process. A thorough understanding of the safety risk components requires an
+examination of the factors that increase or decrease the likelihood of system events, e.g., identify and
+document hazards, analyze and assess potential risks, and develop appropriate mitigation strategies.
+
+    a. Identify Safety Analyst or Team. Depending on the request under consideration, the safety
+       risk analysis may be conducted by an individual or a team. It is important that the individual
+       analyst or team members conducting the analysis have the appropriate subject matter expertise
+       and SMS training. It is imperative that all necessary AVS and FAA stakeholder
+       organizations are involved. The safety analyst or team reviews the application package and
+       other available information to determine the level of safety. Each analyst or team member
+       must complete the AVS SMS SRM Overview course prior to participating on an AVS
+       UAS SRM Panel for the first time, and again when the course is updated. The current
+       course, FAA Safety Risk Management Overview (FAA27000023), may be found in the
+       FAA’s Learning Management System.
+
+    b. System Analysis. The applicant provides the technical and operational information needed for
+       the safety analyst or team to verify or perform SRM. The following
+       information/documentation may be provided by the UAS applicant:
+
+        (1) Concept of Operations (CONOPS) describes the operational scenarios, environment, risk
+            assessment, and safety case. It includes a description of each hazard and mitigation,
+            operational procedures and manuals, and test documentation or flight time. The applicant’s
+            submission should contain:
+
+
+                                                  4-11
+
+                                                                                                     STF-PIA-32-21 Attachment
+
+09/01/23                                                                                                  8040.6A
+
+             (a) determined risk levels
+             (b) identified hazards
+             (c) potential effects before mitigations
+             (d) mitigation with rationale
+             (e) a statement of how each mitigation is expected to reduce the severity, and
+                 likelihood of the risk’s effect
+             (f) test results or modeling to validate the mitigations (if available)
+             (g) determined severity category (Table C-1)
+             (h) determined likelihood value expressed in scientific notation, e.g., 1x10-9, Table C-
+                 2
+             (i) determined level of predicted residual risk and rationale, after mitigations
+
+         (2) The safety analyst or team reviews the CONOPS, risk assessment, and/or safety case, or
+             other risk assessment tool, to ensure completeness and accuracy. Additional hazards that
+             were not originally outlined in the applicant’s documentation may be identified by the
+             analyst or team. The analyst, team, or facilitator documents the system assessment
+             with information pertaining to at least the following elements of the operation:
+             (a) Aircraft and its Associated Elements – Identify characteristics of the UAS that
+                 have the potential to affect the severity and/or the likelihood of the risk.
+                 1) Examples of characteristics may include equipment, size, aircraft weight,
+                      payload weight, speed, composition, configuration, software assurance,
+                      contingency features, airworthiness, camera/visual components, sensors,
+                      maintenance procedures, applicable limitations, command, control,
+                      communications (C3) link, DAA, etc. 2
+
+             (b) Airman/Operator – Identify specifics pertaining to the airman/operator
+                 (responsible person), Part 137 agriculture operator, Part 135 air carrier certificate
+                 holder, etc., that have the potential to affect the severity and/or likelihood of the
+                 risk. Examples include other crew members, experience, certification, required
+                 training, pilot’s location, Visual Observers (VOs), safety culture, track record,
+                 procedures, contingency actions, training manuals, training curriculum, pilot
+                 intervention, applicable limitations, etc. Identify the number of aircraft being
+                 managed by a single pilot or crew. Note the expected effect on pilot/crew
+                 workload of failures that require an alteration in the management of these aircraft
+                 and what mitigations are available to handle any changes in workload.
+
+             (c) Airspace/Operating Environment – The NAS is a shared resource, and therefore
+                 all users must adapt their ways of operating so that the airspace remains safe as
+                 new entrants emerge. The FAA recognizes that unmanned aircraft operations
+                 typically take advantage of lower altitudes where the airspace may be less
+                 congested, and perhaps a safer area to incorporate UAS operations, representing
+                 an efficiency gain in the NAS. Consideration should include how the airspace and
+                 environment are being used for the request, e.g., class of airspace, traffic density,
+2
+ Note: Detect-and-Avoid (DAA) is not an ATC separation standard nor an alternate means of achieving ATC
+separation responsibilities. DAA systems provide surveillance, alerting, and maneuver guidance that are critical to
+unmanned aircraft systems’ (UAS) ability to maintain separation from hazards such as manned aircraft and other
+unmanned aircraft.
+
+
+                                                       4-12
+
+                                                                                                 STF-PIA-32-21 Attachment
+
+09/01/23                                                                                             8040.6A
+
+                 speed of other traffic, complexity of airspace, adjacent airspace, altitude of
+                 operations, communication with ATC, UAS Traffic Management (UTM),
+                 awareness of other operators, applicable limitations, types of manned and
+                 unmanned aircraft the UA may encounter, etc. Other considerations may include
+                 how elements of the operating environment have the potential to affect the
+                 severity and/or likelihood of the risk. For example, population density, prevailing
+                 or possible weather conditions, season of operation, time of day, proximity to
+                 airports, type of operations at nearby airports and in the area (jet, piston,
+                 rotorcraft, skydiving, glider, etc.), terrain, structures, duration of the operation,
+                 other UAS operations in the area, number of operations planned per day,
+                 applicable limitations, lateral and vertical boundaries of operating area, carriage
+                 of hazardous materials (HAZMAT), security issues, etc. 3
+
+        (3) When an application does not provide adequate information, a Request for
+            Information (RFI) may be sent to the applicant to ask for information to complete the
+            safety risk assessment.
+
+    c. Identify Hazards, Risks, Causes, Effects and Outcomes. During this step, the SRM
+       analyst or team must identify hazards, risk levels, causes, effects, and outcomes. A hazard
+       is a condition that could foreseeably cause or contribute to an aircraft accident. When
+       analysis reveals that a condition could cause damage to an aircraft or injury to a person,
+       regardless of the severity, it should be assumed that the condition could cause an accident
+       and therefore meets the definition of a hazard. Hazard is a constant, and risk is a result of
+       the hazard. Risk may be mitigated or eliminated, meaning risk needs management, e.g.,
+       Safety Risk Management.
+       (1) The safety analyst or team must identify and document the causes of the hazards using
+            information from the applicant, common hazards listed in Appendix B, and the system
+            assessment. Hazards controlled by the rule being relieved must be assessed. The safety
+            analyst or team must also identify and document the causes of the risk. The list of
+            hazards in Appendix B is a starting point, and all hazards applicable to the operation
+            must be identified and recorded. Refer to the list below for UAS hazards with the
+            worst credible outcome. For exemptions, 14 CFR §11.81 requires that an alternative to
+            compliance not adversely affect safety or provide a level of safety at least equal to that
+            provided by the rule being relieved. A Certificate of Waiver (CoW) or Certificate of
+            Authorization (COA) authorizing relief from regulations may be issued if the UAS
+            operation can be conducted with an equivalent level of safety under the terms of the
+            CoW/COA.
+            (a) Collision between an UAS and a manned aircraft in the air
+            (b) Collision between two or more UAS
+            (c) Collision between a UAS and person on the ground or a moving vehicle
+            (d) Collision between a UAS and critical infrastructure on the ground
+            (e) Collision between a UAS and terrain (CFIT)
+            (f) Near Midair Collision (NMAC) between UAS and a manned aircraft in the air
+            (g) Manned aircraft making an evasive maneuver to avoid UA (proximity from UA
+
+3
+ Note: Carriage or transport of HAZMAT, and/or security matters may require participation by the FAA’s Office of
+Security and Hazardous Materials Safety (ASH).
+
+
+                                                     4-13
+
+                                                                                        STF-PIA-32-21 Attachment
+
+09/01/23                                                                                    8040.6A
+
+              remains greater than 500 feet)
+          (h) Collision between UAS component(s) and persons and/or property
+          (i) Collision between package/cargo and persons and/or property
+      (2) The safety analyst or team must also consider less severe outcomes. Less severe outcomes
+          may have higher likelihoods and a higher risk level than hazards with catastrophic
+          outcomes and lower likelihoods. These less severe outcomes must also be assessed and
+          documented during the safety risk analysis. For example, NMAC without evasive
+          action between a manned aircraft and a UAS may not result as catastrophic, but it may be
+          more likely to occur, thus raising the residual risk level. Some less severe hazards include
+          but are not limited to:
+          (a) Technical Issue with UAS
+          (b) Deterioration of external systems supporting the UAS operation
+          (c) Human Error
+          (d) Adverse operating conditions
+          (e) Unable to Detect and Avoid
+
+   d. Analyze Safety Risk. During this step, the safety analyst or team must determine the initial
+      risk levels expected with the proposed UAS operation, new regulation, or modification to a
+      regulation. The initial risk is based upon the proposed operation including applicant controls
+      and existing controls, the new regulation, or change to the regulation. Existing controls are
+      always looked at prior to determining credible outcomes. Existing controls are verified
+      controls and may be provided by the FAA or by the applicant. For initial risk, the safety
+      analyst or team relies upon information provided by FAA stakeholders or the UAS applicants,
+      e.g., the system assessment, and their own FAA SMEs to determine the severity and
+      likelihood of the hazard’s outcomes. The safety analyst or team’s rationale for how they
+      arrived at their determination is just as important as the severity and likelihood. The Severity
+      and Likelihood definitions (Appendix C, Table C-1 and Table C-2, respectively) and Risk
+      Matrix (Appendix C, Figure C-1) are used to better define the safety impact of the proposed
+      UAS operation and to ensure consistency of term usage.
+
+      (1) Severity – The potential consequences or impact of a hazard’s effect in terms of
+          degree of loss or harm. Refer to Appendix C Table C-1: Severity Definitions.
+          (a) What are the credible outcomes for severity? (e.g., catastrophic, hazardous, major,
+              minor, minimal)
+          (b) Why? (e.g., data, line of thought, expertise, rationale for how the safety analyst or
+              team arrived at the determination)
+          (c) How do existing controls and additional mitigations change the aircraft,
+              airman/operator, or airspace/operating environment, such that the severity is
+              reduced?
+
+      (2) Likelihood – The estimated probability of frequency, in quantitative or qualitative
+          terms, of the outcome(s) associated with a risk. Refer to Appendix C Table C-2:
+          Likelihood Definitions. New sources of data and the findings from various research
+          efforts have validated a mathematical basis for the many variables in UAS operations.
+          This is enabling the FAA to turn to an emerging quantitative framework that
+          minimizes the use of subjective assumptions. When sufficient empirical data exists,
+
+
+                                               4-14
+
+                                                                                         STF-PIA-32-21 Attachment
+
+09/01/23                                                                                      8040.6A
+
+           statistical probabilities should be used, e.g., airspace and ground density data.
+           (a) What is the likelihood of each hazard’s credible outcome? (e.g., frequent,
+               infrequent, extremely infrequent, remote, extremely remote, improbable, extremely
+               improbable)
+           (b) Why? (e.g., data, research, line of thought, expertise, rationale for how the safety
+               analysis or team arrived at their determination)
+           (c) How do mitigations change the aircraft, pilot, airspace/operating environment, such
+               that the likelihood is reduced?
+
+   e. Validity of Mitigations. The safety analyst or team must consider the validity of mitigations
+      presented by the applicant or FAA stakeholders as part of the layered approach to mitigating
+      risk. What evidence does the FAA have that the mitigations are effective (e.g., test data, third-
+      party verification)? How are the mitigations dependent on each other? How much credit should
+      be given for the mitigations? Is there asingle point failure? This information must be included
+      in the SRM documentation.
+
+   f.   Assess Safety Risk. A risk matrix provides a visual depiction of the safety risk levels and
+        enables prioritization in the control of the hazards. Appendix C, Figure C-1: Risk Matrix
+        General Aviation is the risk matrix used during this step. The safety analyst or team uses the
+        determined severity and likelihood to plot the initial risk level on the risk matrix. The safety
+        analyst or team documents the initial risk level(s), the rationale of how the severity and
+        likelihood were determined, and compares the level(s) against the risk acceptance criteria.
+
+   g. Additional Safety Risk Controls and Residual Safety Risk. During this step, the safety
+      analyst or team assesses the need for additional controls (e.g., conditions and limitations in
+      exemptions and special provisions in waivers) to reduce the risk of the operation to an
+      acceptable level. Conditions and limitations and special provisions are intended to document
+      specific safety risk controls presented by the FAA. Further analysis is performed to ensure
+      that the UAS operation’s mitigations do not introduce new hazards, impact existing
+      hazards, or compromise existing safety risk controls. The safety analyst or team must record
+      a description of the additional safety risk controls that were considered prior to analyzing and
+      assessing the residual safety risk. The safety analyst or team documents the new severities,
+      likelihoods, rationale, and residual risk level on the risk matrix with the additional safety risk
+      controls considered.
+
+   h. Safety Risk Acceptance. Once the assessment is complete and the findings and
+      alternatives/proposals for safety risk mitigations/controls are documented, the results are
+      delivered to the appropriate management official within the OPR. The OPR is responsible
+      for obtaining necessary approval(s) and safety risk acceptance(s). The appropriate
+      management officials either accept the safety risk associated with the identified hazard(s)
+      within their purview or send the assessment back to the panel for additional analysis or
+      identification of additional proposed alternatives for safety risk mitigations/controls. Risk
+      acceptance is a management decision. However, the risk acceptor cannot modify the risk
+      levels determined by the SRM team. Hazards may also be identified through the Safety
+      Assurance functions used to monitor the aerospace system. In these situations, it is
+      necessary to determine whether continued operation is acceptable (and for how long) while
+
+
+                                                 4-15
+
+                                                                                           STF-PIA-32-21 Attachment
+
+09/01/23                                                                                       8040.6A
+
+       new safety risk controls are introduced. If an existing hazard is identified and the operation
+       is allowed to continue, any risk associated with the hazard is inherently accepted by
+       management officials and/or the FAA.
+
+   i. Safety Performance Monitoring and Hazard Tracking. When the safety risk assessment
+      is complete, residual risks must be tracked and monitored in accordance with FAA Order
+      8040.4 for medium and high residual risk levels. Per the monitoring plan, safety
+      performance monitoring is conducted to verify the risk assessment and the safety controls.
+      The safety analyst or team provides a description of the data to be collected, at specific intervals
+      for a specific duration, defines safety performance targets for each hazard, and provides the
+      point of contact (POC) responsible. The safety performance targets are used to verify the
+      predicted residual risklevels.
+
+
+                    Initial
+                                                         UAS Safety Risk Acceptance
+               Safety Risk Level
+                    High Risk                      Associate Administrator for Aviation Safety
+                                                       Division or appropriate office manager
+                  Medium Risk                 (e.g., the appropriate management official within AVS
+                                              who has the positional responsibility and authority for
+                                                         the issue or change being assessed)
+                    Low Risk
+
+                             Figure B – UAS Safety Risk Acceptance
+
+   (1) Safety Risk Documentation. Once SRM is completed, the information must be documented in
+       accordance with FAA Order 8040.4.
+
+   (2) Safety Performance Monitoring. Per the monitoring plan, safety performance monitoring is
+       conducted to verify the risk assessment and the safety controls.
+
+
+                                                 4-16
+
+                                                                                    STF-PIA-32-21 Attachment
+
+09/01/23                                                                                8040.6A
+
+
+                          Chapter 5. Administrative Information
+
+
+1. Distribution. This order is distributed to all offices in Washington Headquarters, regions,
+and centers, with distribution to all field offices and facilities of the applicable FAA
+organizations (identified in Chapter 1, subparagraph 2).
+
+2. Related Publications. This Order is consistent with the latest versions of the following
+aviation safety documents in effect at the time the Order was published:
+   a. FAA Order 8040.4, Safety Risk Management Policy
+   b. FAA Order VS 8000.367, Aviation Safety (AVSSMS) Safety Management System
+      Requirements
+   c. FAA Order 8000.368, Flight Standards Service Oversight
+   d. FAA Order 8000.369, Safety Management System
+   e. FAA Order 1100.154, Delegations of Authority
+   f. FAA Order JO 1000.37, Air Traffic Organization Safety Management System
+   g. Air Traffic Organization Safety Management System (ATO SMS) Manual
+
+
+                                              5-17
+
+                                                                                      STF-PIA-32-21 Attachment
+
+09/01/23                                                                                 8040.6A
+                                                                                       Appendix A
+
+                             Appendix A. Terms and Definition
+
+
+1. Air Traffic Control (ATC) – A service operated by appropriate authority to promote the
+safety, orderly, and expeditious flow of air traffic.
+2. Accident – An unplanned event or series of events that results in death, injury, or damage to,
+or loss of, equipment or property.
+
+   a. (Manned) Aircraft Accident – An occurrence associated with the operation of an
+      aircraft that takes place between the time any person boards the aircraft with the intention
+      of flight and all such persons have disembarked, and in which any person suffers death or
+      serious injury, or in which the aircraft receives substantial damage.
+
+   b. Unmanned Aircraft Accident An occurrence associated with the operation of any
+      public or civil unmanned aircraft system that takes place between the time that the system
+      is activated with the purpose of flight and the time that the system is deactivated at the
+      conclusion of its mission, in which:
+      (1) Any person suffers death or serious injury; or
+      (2) The aircraft holds an airworthiness certificate and sustains substantial damage.
+      UAS accidents are defined in 14 CFR §107.9 Accident Reporting and by the National
+      Transportation Safety Board (NTSB) in 49 CFR §830.
+
+3. Analysis – The process of identifying a question or issue to be addressed, examining the
+issue, investigating the results, interpreting the results, and possibly making a recommendation.
+Analysis typically involves using scientific or mathematical methods for evaluation.
+
+4. Assessment – The process of measuring or judging the value or level of something.
+
+5. Common Cause Failure – A failure that occurs when a single fault results in the
+corresponding failure of multiple system components or functions. See Single Point Failure.
+
+6. Control – See Risk Control, Safety Risk Control. The terms Control, Mitigation, and Safety
+Risk Control are used synonymously.
+
+7. Critical Infrastructure – Systems and assets, whether physical or virtual, so vital to the
+United States that the incapacity or destruction of such systems and assets would have a
+debilitating impact on security, national economic security, national public health or safety, or
+any combination of those matters. USA Patriot Act of 2001 (42 U.S.C. 5195c(e))
+
+8. Existing Control – A mitigation already in place that prevents or reduces the hazard’s
+likelihood or mitigates its effects. A control can only be considered existing if it has been
+validated and verified with objective evidence.
+
+9. Hazard – A condition that could foreseeably cause or contribute to an aircraft accident.
+Whenever analysis reveals that a condition could cause damage to an aircraft or injury to a
+
+
+                                                A-1
+
+                                                                                           STF-PIA-32-21 Attachment
+
+09/01/23                                                                                      8040.6A
+                                                                                            Appendix A
+person, regardless of the severity, it should be assumed that the condition could cause an
+accident and therefore meets the definition of a hazard. See FAA SRM Guidance for the
+technical definition.
+
+10. Incident – An occurrence other than an accident that affects or could affect the safety of
+operations.
+
+11. Likelihood – The chance of a hazard and an effect at a specific level of severity. See FAA
+SRM Guidance FAA SRM Guidance for the technical definition.
+
+12. Mitigation – A means to reduce or eliminate the effects of hazards. See Safety Risk Control.
+The terms Control, Mitigation, and Safety Risk Control are used synonymously.
+
+13. Monitoring – Tracking and keeping information under systematic review.
+
+14. National Aerospace System (NAS) – A complex system that is composed of airspace,
+airports, aircraft, pilots, air navigation facilities, and air traffic control facilities; communication,
+navigation, and surveillance services and supporting technologies and systems; operating rules,
+regulations, policies, and procedures; and people who implement, sustain, or operate the system
+components.
+
+15. Office of Primary Responsibility (OPR) – The organization that manages and tracks the
+issue or change through closure. Their responsibilities include leading and managing the safety
+risk assessment, identifying the appropriate management officials to accept safety risk and
+approve mitigations, coordinating any necessary approvals and safety risk acceptance decisions,
+and coordinating with the HIRMT Oversight Team to enter results and decisions into HIRMT, as
+required.
+
+16. Outcome – The potential undesirable result of a hazard or the ill effects potentially resulting
+from exposure to a hazard. A specific system state and sequence of events supported by data and
+expert opinion that clearly describes the outcome. The term implies that it is reasonable to expect
+the assumed combination of conditions may occur within the operational lifetime of the system.
+Note: Other terms used in risk management as substitutes for outcome include consequence,
+effect, and result.
+
+17. Risk Acceptance – See Safety Risk Acceptance. The terms Risk Acceptance and Safety
+Risk Acceptance are used synonymously.
+
+18. Risk Control – An action used to reduce or eliminate the risk severity and/or likelihood, by
+applying engineering and/or administrative controls, and can be anything that mitigates or
+lessens the risk. Risk mitigation is synonymous with risk control. See also existing control.
+Safety risk controls necessary to mitigate an unacceptable risk should be mandatory, measurable,
+and monitored for effectiveness.
+
+19. Risk Matrix – Table depicting the various levels of severity and likelihood as they relate to
+the levels of risk (e.g., low, medium, or high). Risk matrices may be color-coded, red, green or
+
+
+                                                  A-2
+
+                                                                                      STF-PIA-32-21 Attachment
+
+09/01/23                                                                                8040.6A
+                                                                                      Appendix A
+yellow.
+
+20. Safety Assurance – Processes within the SMS that function systematically to ensure the
+performance and effectiveness of safety risk controls and that the organization meets or exceeds
+its safety objectives through the collection, analysis, and assessment of information.
+
+21. Safety Management System (SMS) - The formal, top-down, organization-wide approach to
+managing safety risk and assuring the effectiveness of safety risk controls. It includes systematic
+procedures, practices, and policies for the management of safety risk.
+
+22. Safety Performance Target – A measurable goal used to verify the predicted residual safety
+risk of a hazard’s effect.
+
+23. Safety Risk – The composite of predicted severity and likelihood of the potential effect of a
+hazard. See FAA SRM Guidance for the technical definition.
+   a. Types of Safety Risk
+      (1) Initial Risk – The severity and likelihood of the risk when it is first identified and
+          assessed, including the effects of pre-existing risk controls in the current system.
+      (2) Residual Risk – The remaining predicted severity and likelihood that exists after all
+          selected safety risk control techniques have been implemented.
+   b. Levels of Safety Risk
+      (1) High Risk – Severity and likelihood map to the red cells in the risk matrix (in
+          Appendix 789 C). This safety risk requires mitigation, tracking, and monitoring, and
+          it can only be accepted at the 790 highest level of management within LOBs and Staff
+          Offices (see Chapter 2, paragraph 3, Safety Risk Acceptance).
+      (2) Medium Risk – Severity and likelihood map to the yellow cells in the risk matrix (in
+          Appendix C). Although this safety risk is acceptable without additional mitigation,
+          tracking and monitoring are required. However, it is desirable to achieve the lowest
+          practicable risk levels (factoring in the principles of appropriate resource
+          management).
+      (3) Low Risk – Severity and likelihood map to the green cells in the risk matrix (in
+          Appendix C). This safety risk is acceptable without restriction or limitation; hazards
+          are not required to be actively managed, but they must be documented and reported if
+          a safety risk assessment has been performed.
+
+24. Safety Risk Acceptance – The decision by the appropriate management official to authorize
+the operation without additional safety risk mitigation.
+
+25. Safety Risk Analysis – The first three steps of the SRM process (analyze the system,
+identify hazards, and analyze safety risk).
+
+26. Safety Risk Assessment – The first four steps of the SRM process (analyze the system,
+identify hazards, analyze safety risk, and assess safety risk).
+
+27. Safety Risk Control – A means to reduce or eliminate the effects of hazards. The terms
+
+
+                                               A-3
+
+                                                                                     STF-PIA-32-21 Attachment
+
+09/01/23                                                                               8040.6A
+                                                                                     Appendix A
+Control, Mitigation, and Safety Risk Control are used synonymously.
+
+28. Safety Risk Management (SRM) – A process within the SMS composed of describing the
+system; identifying the hazards; and analyzing, assessing, and controlling safety risk.
+
+29. Safety Risk Management (SRM) document – Thoroughly describes the safety analysis for
+a proposed NAS change. This document serves as a safety analysis for a given proposed change
+and documents evidence to support that the proposed change to the system is acceptable from a
+safety risk perspective. It is maintained by the organization responsible for the change for the
+lifecycle of the system or change.
+
+30. Safety Risk Management (SRM) Team/Panel – A SRM Team, or Panel, will conduct the
+safety risk assessment in accordance with the current version of FAA Order 8040.4 by following
+the 5-Step SRM Process, or whichever method was decided on for the assessment. The SRM
+Team may be composed of representatives and stakeholders from multiple LOBs throughout the
+FAA, as well as external organizations.
+
+31. Severity – The consequence or impact of a hazard’s effect or outcome in terms of the degree
+of loss or harm.
+
+32. Single-Point Failure – An element of a system or operation for which no backup (e.g.,
+redundancy) exists. Single-pilot operations are an exception. The failure of an item that would
+result in the failure of the system and is not compensated for by redundancy or an alternative
+operational procedure. See Common Cause Failure.
+
+33. System – An integrated set of constituent elements that are combined in an operational or
+support environment to accomplish a defined objective. These elements include people,
+hardware, software, firmware, information, procedures, facilities, services, and other support
+facets.
+
+
+                                               A-4
+
+                                                                                                                                STF-PIA-32-21 Attachment
+
+          09/01/23                                                                                                                8040.6A
+                                                                                                                                Appendix B
+                                  Appendix B. UAS Hazards, Mitigations, and Outcomes
+
+
+          This list of common hazards is a starting point. All hazards applicable to the operation must be
+          identified and documented.
+
+Hazards            Hazard Definition    Causes (if applicable)     Mitigations5                              Outcomes6
+
+
+Technical Issue    Malfunction of any •      Motor failure          •   Competent applicant/operator         •    Collision between UAS and a
+with UAS           technical component                                                                            manned aircraft in the air
+                   of the UAS, which
+                                       •     Software failure       •   UAS manufactured by competent or
+                   causes a deviation  •     Hardware failure           proven entity                        •    Collision between two or more
+                                                                    •   UAS maintained by competent or            UAS
+                   from planned        •     Lost Link
+                   operations.                                          proven entity                        •    Collision between a UAS and
+                                       •     GPS Failure
+                                                                                                                  person on the ground or a moving
+                                                                    •   UAS developed to authority
+                                        •    Communications
+                                                                        recognized design standards               vehicle
+                                             failure
+                                                                    •   C2/3 link performance appropriate    •    Collision between a UAS and
+                                        •    Flyaway                                                              critical infrastructure on the
+                                                                    •   Preflight checks of UAS
+                                        •    Geofence failure                                                     ground
+                                                                    •   Operational procedures validated
+                                                                                                             •
+                                        •    Ground station failure                                               Collision between a UAS and
+                                                                    •   Remote crew trained and current           terrain (CFIT)
+                                        •    Battery/power failure
+                                                                    •   Safe recovery from technical issue   •    NMAC between UAS and a
+                                        •    Avionics failure
+                                                                    •   Methods to reduce kinetic energy          manned aircraft in the air
+                                        •    UA leaves planned
+                                             route                  •   Ground population density            •    Manned aircraft making an
+                                                                                                                  evasive maneuver to avoid UA
+                                        •    Failure of C2/3 change •   Emergency response plan in place
+                                                                                                                  (proximity from UA remains
+                                             over                   •   Reduce effects of ground impact           greater than 500 feet)
+                                        •    Package delivery       •   Technical containment in place and   •    Collision between UAS
+                                             system failure             effective                                 component(s) and persons and/or
+                                                                   •    Parachute or frangible aircraft           property
+                                                                                                             •    Collision between package/cargo
+                                                                                                                  and persons and/or property
+
+Deterioration of   Malfunction of any •      ADS-B signal          •    Procedures are in place to handle the •   Collision between UAS and a
+external systems   component that is not     degradation                deterioration of external systems         manned aircraft in the air
+supporting the     a part of the UAS but                                supporting the UAS operation
+UAS operation      supports safe
+                                         •   GPS signal                                                       •   Collision between two or more
+                   operations.
+                                             degradation           •    UAS is designed to manage the             UAS
+                                        •    UAS Traffic                deterioration of external systems     •   Collision between a UAS and
+                                             Management (UTM)           supporting the UAS operation              person on the ground or a moving
+                                             failure               •    External services supporting the UAS      vehicle
+                                        •    Package delivery           operation are adequate to the         •   Collision between a UAS and
+                                             system failure             operation                                 critical infrastructure on the
+                                                                                                                  ground
+                                                                                                             •    Collision between a UAS and
+                                                                                                                  terrain (CFIT)
+                                                                                                             •    NMAC between UAS and a
+                                                                                                                  manned aircraft in the air
+                                                                                                             •    Manned aircraft making an
+                                                                                                                  evasive maneuver to avoid UA
+                                                                                                                  (proximity from UA remains
+                                                                                                                  greater than 500 feet)
+                                                                                                             •    Collision between UAS
+                                                                                                                  component(s) and persons and/or
+                                                                                                                  property
+                                                                                                             •    Collision between package/cargo
+                                                                                                                  and persons and/or property
+
+
+                                                                           B-1
+
+                                                                                                                                STF-PIA-32-21 Attachment
+
+        09/01/23                                                                                                                  8040.6A
+                                                                                                                                Appendix B
+Human Error   A person's mistake •        Pilot errors             •   Operational procedures are defined, •      Collision between UAS and a
+              rather than the failure                                  validated, and adhered to                  manned aircraft in the air
+              of a machine, which
+                                      •   Maintenance errors
+              causes a deviation      •   Preflight planning       •   Remote crew trained and current and •      Collision between two or more
+                                          errors                       able to control abnormal situation         UAS
+              from planned
+              operations.             •   Mission and route        •   Multi-crew coordination                •   Collision between a UAS and
+                                          planning errors          •   Remote crew fit to operate                 person on the ground or a moving
+                                                                                                                  vehicle
+                                     •    Cargo loading errors     •   Automate protection of the flight
+                                                                       envelope from human error              •   Collision between a UAS and
+                                     •    Flight into unplanned
+                                                                                                                  critical infrastructure on the
+                                          weather                  •   Safe recovery from human error
+                                                                                                                  ground
+                                     •    Package delivery         •   A human factors evaluation has been
+                                                                                                              •   Collision between a UAS and
+                                          system failure               performed and the human machine
+                                                                                                                  terrain (CFIT)
+                                     •    Misloading of                interaction (HMI) found appropriate to
+                                                                       the mission.                           •   NMAC between UAS and a
+                                          cargo/package
+                                                                                                                  manned aircraft in the air
+                                                                   •   Crew resource management practices
+                                                                                                             •    Manned aircraft making an
+                                                                                                                  evasive maneuver to avoid UA
+                                                                                                                  (proximity from UA remains
+                                                                                                                  greater than 500 feet)
+                                                                                                             •    Collision between UAS
+                                                                                                                  component(s) and persons and/or
+                                                                                                                  property
+                                                                                                             •    Collision between package/cargo
+                                                                                                                  and persons and/or property
+
+
+Adverse       Operating into or      •    Unforecasted weather     •   Operational procedures are defined, •      Collision between UAS and a
+Operating     within conditions that                                   validated and adhered to                   manned aircraft in the air
+Conditions    the UAS was not
+                                     •    Reduced visibility
+              intended to, which     •    Climate and              •   The remote crew is trained to identify •   Collision between two or more
+                                          topography unique            critical environmental conditions and      UAS
+              causes a deviation
+                                          weather e.g., volcanic       to avoid them                          •   Collision between a UAS and
+              from planned
+              operations.                 ash                      •   Environmental conditions for safe          person on the ground or a moving
+                                     •    Package Delivery             operations are defined, measurable         vehicle
+                                          System Failure               and adhered to                         •   Collision between a UAS and
+                                                                   •   UAS designed and qualified for             critical infrastructure on the
+                                                                       adverse environmental conditions           ground
+                                                                                                             •    Collision between a UAS and
+                                                                                                                  terrain (CFIT)
+                                                                                                             •    NMAC between UAS and a
+                                                                                                                  manned aircraft in the air
+                                                                                                             •    Manned aircraft making an
+                                                                                                                  evasive maneuver to avoid UA
+                                                                                                                  (proximity from UA remains
+                                                                                                                  greater than 500 feet)
+                                                                                                             •    Collision between UAS
+                                                                                                                  component(s) and persons and/or
+                                                                                                                  property
+                                                                                                             •    Collision between package/cargo
+                                                                                                                  and persons and/or property
+
+
+                                                                          B-2
+
+                                                                                                                                        STF-PIA-32-21 Attachment
+
+         09/01/23                                                                                                                         8040.6A
+                                                                                                                                        Appendix B
+Unable to Detect Beyond Visual Line       •     Transponder failure    •      Visual Observers (VOs)                •     Collision between UAS and a
+and Avoid        of Sight (BVLOS)                                             (communication between pilot and            manned aircraft in the air
+                 operations and the
+                                          •     Communication failure
+                                                between VOs                   observers)                            •     Collision between two or more
+                 design of the UAS
+                 give the aircraft a      •     Traffic conflicts;     •      Detect and avoid (DAA) system               UAS
+                 limited ability to             helicopter             •      Airspace of operation and adjacent    •     NMAC between UAS and a
+                 sense intruding                routes/uncharted              airspace                                    manned aircraft in the air,
+                 aircraft and yield             landing surfaces       •      Time of day                           •     Manned aircraft making an
+                 right of way as          •     Inability to comply    •      Operating restrictions                      evasive maneuver to avoid UA
+                 required by 14 CFR             with 14 CFR                                                               (proximity from UA remains
+                 Parts §91.113 and              Parts §91.113
+                                                                       •      Restricting operations within certain
+                                                                                                                          greater than 500 feet)
+                 §107.37                                                      boundaries or airspace volumes
+                                                and §107.37                                                         •     A collision between a UAS and
+                                          •     Low altitude, General
+                                                                       •      Restricting operational flight time
+                                                                                                                          terrain (CFIT)
+                                                Aviation (GA)          •      Low altitude
+                                                                                                                    •     Collision between UAS
+                                                operations             •      ATC separation services                     component(s) and persons and/or
+                                          •     Manned aircraft unable •      Traffic Alert and Collision Avoidance       property
+                                                to see UA (due to the         System (TCAS)                         •     Collision between package/cargo
+                                                small size of the UA) •       Proximity to structures                     and persons and/or property
+                                          •     Pilot and crew errors •       Unmanned aircraft systems traffic
+                                          •     UA maneuverability            management (UTM)
+                                                (due to UA
+                                                performance
+                                                limitations)
+
+
+         5
+             This column includes any mitigation known or expected to reduce the severity and/or likelihood of the hazard’s effect.
+
+         6
+           A Hazard with a Low Severity level could become a Medium Severity if it occurs frequently. A Hazard with a Catastrophic Severity Level could
+         be a Low Risk if it almost never happens (extremely remote).
+
+
+                                                                                 B-3
+
+                                                                                                                        STF-PIA-32-21 Attachment
+
+09/01/23                                                                                                                   8040.6A
+                                                                                                                         Appendix C
+                           Appendix C. Severity, Likelihood, and Risk Matrix
+
+
+The following SRM Table and Figures are used by AVS when conducting SRM.
+
+
+                                               Table C-1 Severity Definitions*
+
+Additional notes for Table C-1: Severity Definitions
+* Excludes commercial space flight vehicles, crew, and participants
+    UAS are not currently carrying passengers and it is not possible to predict which types of crewed aircraft a UAS will encounter with
+    absolute certainty. Panel members should use available data to determine if the UA would be most likely to encounter aircraft with
+    one to two people, or three or more onboard and the likelihood of a fatality to all onboard when determining when the airborne risk is
+    catastrophic or hazardous. Typically, in class G airspace under 400’, an UAS is likely to encounter GA aircraft so a collision could be
+    considered hazardous as they typically carry one to two passengers.
+
+
+                                             Table C-2 Likelihood Definitions*
+*Note: Likelihood Definitions are in flight hours
+
+
+                                                                  C-1
+
+                                              STF-PIA-32-21 Attachment
+
+09/01/23                                        8040.6A
+                                              Appendix C
+
+
+           Table C-3 Likelihood Definitions
+
+
+                        C-2
+
+                                                                                     STF-PIA-32-21 Attachment
+
+09/01/23                                                                               8040.6A
+                                                                                     Appendix C
+Risk Matrix General Aviation
+
+Analysts should use the General Aviation (GA) table to accurately reflect the type of operation
+and potential safety effects of the hazard assessed. GA guidelines are intended to establish the
+minimum standard for certain aviation segments or combinations of segments. This includes, but
+is not limited to, all 14 CFR Part 91 operations, aircraft operated under Part 135, and small for-
+hire operations such as those conducted under Parts 107, 133, and 137.
+
+
+                            Figure C-1: Risk Matrix General Aviation
+
+
+                                               C-3
+
+                                                                                STF-PIA-32-21 Attachment
+
+09/01/23                                                                           8040.6A
+                                                                                 Appendix D
+           Appendix D. Safety Risk Management Documentation Template
+
+
+The SRM template is used to document the assessment and streamline the coordination process.
+The template helps ensure consistency and standardization of the SRM document.
+
+1. Introduction
+
+       1.1 Overview of the Operation
+
+       1.2 Description of the Trigger That Resulted in the SRM Analysis
+
+2. System Analysis
+
+       2.1 Aircraft
+
+       2.2 Airman/Operator
+
+       2.3 Airspace/Operating Environment
+
+3. Identify Hazards and Outcomes
+
+4. Analyze the Safety Risk(s)
+
+       4.1 Evaluation of Existing Controls
+
+       4.2 FAA Order 8040.6 Severity and Likelihood Analysis
+
+       4.3 Risk levels with Proponent Mitigations
+
+5. Assess Safety Risk
+
+6. Additional Safety Risk Controls and Residual Risk
+
+7. Safety Performance Monitoring and Hazard Tracking
+
+       7.1 Dissentions
+
+8. SRM Safety Analyst/Team Members
+
+9. Risk Acceptance
+
+
+                                             D-1
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-24.docx =====
+STF-PIA-32-24
+
+Question: 
+
+How will drone inspection data be integrated into Georgia Power’s existing asset management systems and maintenance planning workflows?
+
+Response:
+
+Drone inspection data will be handled in the same way as other aerial inspection data already collected by Georgia Power. Information gathered from the SwissDrones platform will be transferred into existing enterprise asset management and maintenance planning systems, where it can be combined with data from ground crews, manned aircraft, and small UAS.
+This ensures that the data is consistent, traceable, and actionable within the Company’s established workflows. The addition of SwissDrones simply provides another data source to enhance visibility and support maintenance planning, without requiring changes to the underlying systems already in place.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-28.docx =====
+STF-PIA-32-28
+
+Question:
+ 
+Is the Company dependent on any proprietary software, AI models, or maintenance services provided exclusively by SwissDrones? If so, how will vendor lock-in risks be mitigated?
+
+Response:
+
+The Company is not dependent on any proprietary software, AI models, or exclusive maintenance services provided by SwissDrones. The platform operates using standard aviation practices and commercially available support resources, ensuring flexibility and avoiding vendor lock-in. Southern Company Services staffs two factory-certified personnel to perform system maintenance, which provides in-house capability rather than dependency, helping control costs and maintain operational continuity.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32 Affidavit.pdf =====
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-6.docx =====
+STF-PIA-32-6
+
+Question: 
+
+Has Georgia Power, Southern Company or any other entity on behalf of the Company or Southern Company, determined that the SwissDrones platform will be cost effective and the best choice for transmission line inspection? If so, please provide. If not, please explain.
+
+Response:
+
+Yes. Based on historical data and industry experience, the SwissDrones SDO 50 platform has been determined to be cost-effective in the right application. Its value lies in serving as one tool among many in Southern Company’s inspection portfolio. Smaller quadrotor drones remain well-suited for localized tasks, while manned aircraft continue to serve certain large-area needs. The SDO 50 fills a niche where mobilizing a manned aircraft would be cost-prohibitive, yet routine quadrotor flights lack the necessary range and endurance.
+The platform also offers efficiencies by carrying multiple sensors in a single flight, reducing the need for repeat sorties. At the same time, these operations are part of broader research and development initiatives that demonstrate responsible use of advanced UAS technology. This visibility with the FAA is important for securing future approvals that could enable even greater cost savings and inspection efficiencies across the system.
+Together, these factors make the SDO 50 the best available choice for routine BVLOS linear infrastructure patrols at scale, while continuing to complement—not replace—other proven inspection methods.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-9.docx =====
+STF-PIA-32-9
+
+Question: 
+
+Does use of SwissDrones technology result in additional costs or savings associated with liability insurance? If so, please identify.
+
+Response:
+
+The SwissDrones platform does not introduce additional liability insurance costs beyond what is already standard for aerial operations. 
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-2.docx =====
+STF-PIA-32-2
+
+Question: 
+
+Please provide a copy of any contracts available to Georgia Power associated with, or related to, SwissDrones.
+
+Response:
+
+Southern Company Services procured the two SwissDrones pursuant to purchase orders with SwissDrones and Phoenix Air Unmanned. Please see STF-PIA-32-2 Attachment A and STF-PIA-32-2 Attachment B for copies of the relevant purchase orders with SwissDrones and Phoenix Air Unmanned, respectively. Note that the SwissDrone that was purchased from Phoenix Air Unmanned is the first item in the purchase order included as STF-PIA-32-2 Attachment B.
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-27.docx =====
+STF-PIA-32-27
+
+Question: 
+
+What contingencies are in place if the SwissDrones platform fails to perform as expected? Please describe fallback strategies.
+
+Response:
+
+If the SwissDrones platform is unavailable or fails to perform as expected, Southern Company maintains multiple alternative aerial inspection capabilities. These include a fleet of smaller unmanned systems already in active use across the enterprise, as well as internal and contracted manned aviation resources when appropriate. In addition, the Company continually evaluates emerging technologies and stays current on industry trends to ensure that reliable, cost-effective alternatives are available. This layered approach provides resiliency and ensures inspection missions can continue without disruption, regardless of individual platform performance.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-10.docx =====
+STF-PIA-32-10
+
+Question: 
+
+Does Georgia Power have an estimate of the number of drones that will be in service? If so, please provide the projections, by year, through 2030.
+
+Response:
+
+Southern Company currently does not maintain long-term projections for the number of SwissDrones aircraft that may be in service through 2030. Drone technology evolves rapidly, and new systems are continually coming to market that may prove more cost-effective or better suited for future missions.
+For now, the Company operates two SwissDrones aircraft under FAA Exemption No. 24432, with the focus on building safe and repeatable BVLOS patrol capabilities. These aircraft are being treated as part of a broader research and development effort to validate operational concepts, demonstrate cost efficiencies, and inform future fleet decisions.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-23.docx =====
+STF-PIA-32-23
+
+Question: 
+
+Has the Company engaged with employee unions or labor representatives regarding the impact of drone adoption on workforce roles and responsibilities?
+
+Response:
+
+No formal engagement with employee unions or labor representatives has been necessary at this stage, as the adoption of SwissDrones is not intended to replace existing inspection roles. As explained in the Company’s responses to STF-PIA-32-6, STF-PIA-32-8, and STF-PIA-32-22, the platform is designed to complement current methods.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-13.docx =====
+STF-PIA-32-13
+
+Question: 
+
+What are Georgia Power’s projected annual capital costs for 2025 through 2028? Please itemize to the extent possible.
+
+Response:
+
+Please see the Company’s responses to STF-PIA-32-10 and STF-PIA-32-12.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-4.docx =====
+STF-PIA-32-4
+
+Question: 
+
+What alternative drone technologies or vendors were considered? Please provide a list and summarize their comparative evaluation.
+
+Response:
+
+Southern Company employs a variety of smaller quadrotor UAS for visual line of sight inspections across the system. These aircraft are well-suited for localized work but are not designed for routine, long-range BVLOS patrols of transmission corridors.
+For that niche use case, the SwissDrones SDO 50 is the only platform authorized under FAA Exemption No. 24432. Its endurance, payload capacity, and FAA-approved safety case make it uniquely capable of meeting both regulatory and operational requirements. No other commercially available system met both the performance and regulatory criteria necessary for BVLOS linear infrastructure patrols at scale.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-26.docx =====
+STF-PIA-32-26
+
+Question: 
+
+Will SwissDrones operate autonomously or require manual oversight for navigation and data analysis? Please clarify roles and responsibilities.
+
+Response:
+
+SwissDrones operations will not be autonomous. All flights are conducted under the direct oversight of a certified remote pilot, as required by federal regulation. While flight paths can be pre-programmed to ensure consistent route execution, the aircraft does not make independent decisions and remains under continuous human supervision. Data analysis is performed separately through established workflows and not by the aircraft itself.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-17.docx =====
+STF-PIA-32-17
+
+Question: 
+
+Has the Company, or Southern Company, developed a cost-benefit analysis? If so, please provide. If not, please identify and quantify the expected costs and benefits.
+
+Response:
+
+No formal cost-benefit analysis has been performed specific to the SwissDrones platform. Please see the Company’s responses to STF-PIA-32-8 and STF-PIA-32-16 for the explanation of expected costs and benefits associated with the use of SwissDrones aircraft.
+
+
+===== DKT 44280 STF-PIA-32 PD/DRSUM_44280_STF-PIA-32 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    September 10, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+44280
+STF-PIA-32
+1
+COMPLETE
+NONE
+44280
+STF-PIA-32
+2
+COMPLETE
+TRADE SECRET
+44280
+STF-PIA-32
+3
+COMPLETE
+NONE
+44280
+STF-PIA-32
+4
+COMPLETE
+NONE
+44280
+STF-PIA-32
+5
+COMPLETE
+NONE
+44280
+STF-PIA-32
+6
+COMPLETE
+NONE
+44280
+STF-PIA-32
+7
+COMPLETE
+NONE
+44280
+STF-PIA-32
+8
+COMPLETE
+NONE
+44280
+STF-PIA-32
+9
+COMPLETE
+NONE
+44280
+STF-PIA-32
+10
+COMPLETE
+NONE
+44280
+STF-PIA-32
+11
+COMPLETE
+NONE
+44280
+STF-PIA-32
+12
+COMPLETE
+NONE
+44280
+STF-PIA-32
+13
+COMPLETE
+NONE
+44280
+STF-PIA-32
+14
+COMPLETE
+NONE
+44280
+STF-PIA-32
+15
+COMPLETE
+NONE
+44280
+STF-PIA-32
+16
+COMPLETE
+NONE
+44280
+STF-PIA-32
+17
+COMPLETE
+NONE
+44280
+STF-PIA-32
+18
+COMPLETE
+NONE
+44280
+STF-PIA-32
+19
+COMPLETE
+NONE
+44280
+STF-PIA-32
+20
+COMPLETE
+NONE
+44280
+STF-PIA-32
+21
+COMPLETE
+NONE
+44280
+STF-PIA-32
+22
+COMPLETE
+NONE
+44280
+STF-PIA-32
+23
+COMPLETE
+NONE
+44280
+STF-PIA-32
+24
+COMPLETE
+NONE
+44280
+STF-PIA-32
+25
+COMPLETE
+NONE
+44280
+STF-PIA-32
+26
+COMPLETE
+NONE
+44280
+STF-PIA-32
+27
+COMPLETE
+NONE
+44280
+STF-PIA-32
+28
+COMPLETE
+NONE
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-8.docx =====
+STF-PIA-32-8
+
+Question: 
+
+Please identify the functionality and use cases for SwissDrones.
+
+Response:
+
+The SwissDrones SDO 50 is used to support a variety of inspection and survey needs across Southern Company’s transmission system. Its primary function is routine BVLOS patrols of transmission corridors, where its endurance makes it possible to cover long distances efficiently. The aircraft is also capable of carrying Light Detection and Ranging (“LiDAR”) payloads, which are used for engineering surveys and vegetation management assessments. Following severe weather, the platform can be deployed for post-storm damage assessments, giving rapid visibility into the condition of infrastructure and helping to prioritize restoration efforts. In addition, the aircraft can be utilized for large-area surveys, collecting high-quality imagery and sensor data across broad geographies. These capabilities make the SwissDrones platform a complementary tool within the Company’s inspection portfolio, alongside smaller UAS and manned aircraft.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-11.docx =====
+STF-PIA-32-11
+
+Question: 
+
+Please provide the Company’s schedule for adopting the use of the SwissDrones technology.
+
+Response:
+Southern Company is preparing the systems for operational use, with initial deployment planned for transmission line patrols, LiDAR surveys, post-storm assessments, and large-area surveys. These use cases are already established within Southern Company’s inspection programs, and the SwissDrones platform is intended to supplement existing small UAS and manned aircraft operations.
+The adoption schedule is tied to readiness milestones such as system integration, pilot training, and coordination with FAA oversight. Once these steps are complete, the aircraft will be integrated into a routine inspection cadence. 
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-21.docx =====
+STF-PIA-32-21
+
+Question: 
+
+What safety assessments or risk analyses have been conducted related to the use of SwissDrones? Please provide documentation.
+
+Response:
+Safety assessments for the SwissDrones platform have been conducted under the FAA’s Safety Risk Management (“SRM”) framework, in accordance with FAA Order 8040.6A, which is provided in STF-PIA-32-21 Attachment. In addition, the SwissDrones platform and its associated BVLOS operations were validated by the FAA through two separate multi-day SRM Panels (“SRMPs”). These panels included FAA safety specialists and focused on exemptions from § 91.113 (right-of-way rules) as well as from other applicable Part 91 operating rules. Each panel evaluated system architecture, command and control link performance, airspace integration mitigations, and operational risk controls, with FAA guidance provided throughout the SRM development process.
+Together, these assessments represent the highest level of federal safety review available for unmanned BVLOS utility operations. The FAA’s grant of Exemption No. 24432 reflects the successful outcome of these analyses and the conclusion that the SwissDrones platform can be operated safely in its intended niche use case.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-16.docx =====
+STF-PIA-32-16
+
+Question: 
+
+Has the Company, or Southern Company, identified cost savings associated with adoption of the SwissDrones technology? If so, please quantify and provide such savings.
+
+Response:
+
+Yes, the adoption of the SwissDrones platform is expected to produce cost savings when compared to traditional aerial inspection methods. Industry benchmarks indicate that comparable drone inspection flights typically cost in the range of $200–$350 per mile, depending on the type of data collected. By comparison, mobilizing manned aircraft for similar missions can cost upwards of $600 per mile, particularly when specialized payloads such as LiDAR are required.
+While the exact savings will vary by mission type, inspection mileage, and payload requirements, the use of SwissDrones reduces reliance on higher-cost manned aircraft deployments and allows multiple sensor packages to be flown in a single sortie, creating both direct cost efficiencies and indirect operational benefits.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-20.docx =====
+STF-PIA-32-20
+
+Question: 
+
+Is the use of SwissDrones in compliance with all cybersecurity, data privacy, and critical infrastructure protection regulations? Please detail the controls in place.
+
+Response:
+
+Yes. The SwissDrones platform complies with all applicable cybersecurity, data privacy, and critical infrastructure protection regulations.
+The aircraft itself does not connect to public networks and relies on an isolated flight control system, which minimizes exposure to cyber risk. Data collected during flights is stored and managed within Southern Company’s existing enterprise systems, where it is subject to the same cybersecurity and critical infrastructure protection protocols that govern all operational data. These include restricted access controls, secure storage, and compliance with federal and state requirements.
+As a result, the SwissDrones platform functions strictly as a data-collection tool, while cybersecurity, privacy, and infrastructure protection are ensured through Southern Company’s established enterprise-level controls.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-3.docx =====
+STF-PIA-32-3
+
+Question: 
+
+Was a competitive procurement process used in selecting SwissDrones? If not, please explain why not.
+
+Response:
+
+A traditional competitive procurement process was not used. The selected aircraft, the SwissDrones SDO 50, is the only platform authorized under Southern Company’s FAA Exemption No. 24432 for routine beyond visual line of slight (“BVLOS”) linear infrastructure inspections. Because this exemption is precedent-setting in the utility sector and tailored specifically to the SDO 50, the decision to procure the aircraft was based on regulatory alignment and the need to maintain continuity of operations. The SDO 50 represents a niche capability that supports research, development, and safe integration of advanced uncrewed aircraft systems (“UAS”) across Southern Company’s inspection programs.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-5.docx =====
+STF-PIA-32-5
+
+Question: 
+
+Was any pilot or demonstration project conducted before selecting SwissDrones? If so, please provide results, findings, and lessons learned.
+
+Response:
+
+Yes. Prior to the FAA’s issuance of Exemption No. 24432, the agency required aircraft Familiarization and Operational Suitability Evaluations over Southern Company infrastructure. These evaluations were conducted in October 2022 and February 2023 and provided the FAA with direct performance and safety data from the SwissDrones platform. The results supported the FAA’s determination that the aircraft was appropriate for commercial BVLOS operations in support of utility infrastructure.
+Purchase of the system did not occur until after the FAA had formally reviewed and approved the aircraft for this use case. This ensured Southern Company only invested in a platform with a federally validated safety case.
+In addition, the SwissDrones SDO 50 had previously undergone extensive evaluation as part of the Xcel Energy BVLOS Capital Project, one of the earliest federally recognized initiatives to test long-range BVLOS inspection concepts. Lessons learned from that national program—including endurance, detect-and-avoid strategies, and corridor patrol efficiencies—directly informed Southern Company’s approach.
+Together, these efforts demonstrated that the SDO 50 was both operationally suitable and aligned with FAA regulatory requirements, supporting its selection for this specialized role.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-15.docx =====
+STF-PIA-32-15
+
+Question: 
+
+What are Georgia Power’s projected annual O&M costs for 2025 through 2028? Please itemize to the extent possible.
+
+Response:
+
+Please see the Company’s responses to STF-PIA-32-10 and STF-PIA-32-14.
+
+The depreciation of SwissDrones assets managed by Southern Company Services is allocated among the operating companies, with Georgia Power's share of the depreciation costs estimated at $26,000 for 2025 and $51,000 each year from 2026 to 2028, which will be recorded to O&M expense.
+
+Please note that these figures only represent the depreciation allocation and do not include other potential O&M costs. The projected Operations and Maintenance (O&M) costs for Georgia Power's SwissDrones operations from 2025 to 2028 are demand-driven and will fluctuate based on the inspection mileage assigned to Georgia Power compared to other Southern Company operating companies.
+
+  
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-22.docx =====
+STF-PIA-32-22
+
+Question: 
+
+Will the use of drones replace any existing inspection jobs currently performed by employees or contractors? If so, please quantify and explain the workforce transition plan, if available.
+
+Response:
+
+The platform is intended to complement, not replace, existing inspection methods. It provides an additional tool for situations where long-range BVLOS patrols or multi-sensor data collection can create efficiencies, while traditional ground crews, manned aircraft, and small UAS will continue to play critical roles in inspection activities.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-25.docx =====
+STF-PIA-32-25
+
+Question: 
+
+What key performance indicators (KPIs) will be used to evaluate the effectiveness of SwissDrones once deployed?
+
+Response:
+
+The effectiveness of the SwissDrones platform will be evaluated through certain practical measures. Cost efficiency will be tracked by comparing the cost per mile of inspection flights against other available methods, such as manned helicopters or smaller drones. This provides a clear baseline for whether the platform is delivering value.
+Safety will also be a central measure. By using unmanned systems in place of manned aircraft for certain patrols, the Company reduces the number of hours flight crews are exposed to higher-risk environments. Tracking these avoided risk exposures demonstrates one of the primary benefits of the program.
+Operational resiliency is another area of focus. The ability to quickly deploy SwissDrones after storms or other events and collect inspection data in a timely manner will be an important indicator of success. Together, these measures will show whether the platform is meeting expectations and providing benefits across cost, safety, and reliability.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-18.docx =====
+STF-PIA-32-18
+
+Question: 
+
+Has the Company received all necessary FAA and state regulatory approvals for the use of SwissDrones? Please provide documentation or status updates.
+
+Response:
+
+Yes. Please see STF-PIA-32-18 Attachment for Southern Company’s FAA approvals for the use of the SwissDrones platform under Exemption No. 24432.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-19.docx =====
+STF-PIA-32-19
+
+Question: 
+
+How does the Company plan to comply with current and anticipated FAA regulations related to beyond visual line of sight (BVLOS) operations?
+
+Response:
+
+Southern Company currently conducts BVLOS operations under FAA Exemption No. 24432, which establishes the conditions and limitations for the safe use of the SwissDrones platform. Compliance is maintained through adherence to FAA-approved procedures, crew training requirements, and operational safeguards such as electronic observers, controlled-access areas, and coordination with other airspace users.
+Looking ahead, Southern Company is actively engaged with the FAA and industry partners to help shape the anticipated BVLOS rulemaking. Southern Company’s strategy is to maintain compliance with all current regulatory requirements while also participating in research, development, and policy discussions that will inform future standards. This approach ensures that Southern Company remains aligned with federal oversight as regulations evolve over time.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-2 Attachments A-B PUBLIC DISCLOSURE.docx =====
+
+
+STF-PIA-32-2 Attachments A-B have been redacted in their entirety.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-7.docx =====
+STF-PIA-32-7
+
+Question: 
+
+Has Georgia Power or Southern Company identified an AI modeling platform for use in conjunction with SwissDrones, to analyze data?
+
+Response:
+
+Vendor vetting for AI modeling platforms is ongoing as Southern Company evaluates the best tools to support infrastructure inspection and data analysis. These systems are designed to process imagery and inspection data after collection and are independent of SwissDrones’ aerial operations.
+The role of the SwissDrones platform is to provide a safe and efficient means of capturing high-quality data at scale. The application of AI for analysis is a parallel initiative that will ultimately enhance inspection efficiency and decision-making, regardless of the aircraft used.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-18 Attachment.pdf =====
+                                                                                                   STF-PIA-32-18 Attachment
+
+
+                                                Aviation Safety                   800 Independence Ave
+                                                                                  Washington, DC 20591
+
+
+August 21, 2025
+
+
+                                                         Exemption No. 24432
+                                                         Regulatory Docket No. FAA-2025-1860
+
+
+Mr. Harry Benson Nuttall
+Director Aerial Services
+Southern Company
+30 Ivan Allen Jr Boulevard NW
+Atlanta, GA 30308
+
+Dear Mr. Nuttall:
+
+This letter is to inform you that the Federal Aviation Administration (FAA) has granted your
+request for an exemption. This letter transmits the FAA’s decision, explains the FAA’s basis, and
+provides the conditions and limitations of the exemption, including the date it ends.
+
+The Basis for the FAA’s Decision
+
+By letters dated March 27, 2025 1, and April 30, 2025 2, you petitioned the FAA on behalf of
+Southern Company (Southern) for an amendment to Exemption No. 22932. That exemption from
+§§ 61.3(a)(1)(i), 61.3(c)(1), 61.23(a)(2), 91.7(a), 91.113(b), 91.119(c), 91.121, 91.151(b),
+91.403(b), 91.405(a), 91.407(a)(1), 91.409(a)(1), 91.409(a)(2), 91.417(a), and 91.417(b) of
+Title 14, Code of Federal Regulations (14 CFR) allows Southern to operate the SwissDrones
+SDO 50 V2 and V3 unmanned aircraft systems (UAS) for the purposes of linear infrastructure
+operations. The amendment you request would allow Southern to: increase the operational
+altitude; operate across the full lateral extent of a right-of-way (ROW); and use of local
+Automatic Dependent Surveillance-Broadcast (ADS-B) surveillance systems and onboard ADS-
+B In equipment, replacing the subscription-based national feeds.
+
+
+1 The FAA issued Exemption No. 22932A, in response to Southern Company’s amendment request to conduct
+
+operations for purposes of research and development (R&D), crew training, familiarization flights and Operational
+Suitability Evaluations (OSE), available at https://www.regulations.gov/document/FAA-2024-1959-0005.
+2
+  The FAA separated this amendment request into another docket (Docket No. FAA-2025-1860) due to differences
+in the requested operations.
+
+AFS-26-00374-E
+
+                                                                                     STF-PIA-32-18 Attachment
+
+
+                                                                                                  2
+
+Materially Similar Decisions
+
+The FAA has issued a grant of exemption in circumstances similar in material respects to those
+presented in your petition. In Grant of Exemption No. 20973B 3, the FAA found that a grant of
+exemption was in the public interest, that the proposed operations’ UAS safety features and the
+limitations under which the Exemption Holder would operate were sufficient mitigations that
+ensured the proposed linear infrastructure inspection operations would not adversely affect
+safety.
+
+Having reviewed your reasons for requesting an exemption, I find that:
+
+•   They are similar in all material respects to relief previously requested in Grant of Exemption
+    No. 20973B;
+
+•   The reasons stated by the FAA for Exemption No. 20973B also apply to the situation
+    presented in your petition; and
+
+•   A grant of exemption is in the public interest.
+
+Petition for Exemption
+
+Southern Company asserts their current Grant of Exemption No. 22932 requires them to utilize a
+subscription-based surveillance feed from FAA national sensor networks, including ADS-B
+NextGen, ASSC, ASDE-X surface data, En Route and terminal radars, and Wide Area
+Multilateration systems, all of which correspond to the requirements found in Grant of
+Exemption No. 20973B. Southern Company asserts that these surveillance methods are deployed
+in the context of shielded operations which leverage the protection of terrain and infrastructure,
+further reducing low-altitude manned aircraft traffic that can, in most cases, be contrary to
+regulations. Southern Company proposes to modernize the surveillance requirements, previously
+required by Grant of Exemption Nos. 22932 and 20973B, by replacing data sources that will
+soon be discontinued with functionally equivalent tools already in use. Southern Company states
+that they do not propose to eliminate airspace surveillance or weaken its risk mitigations.
+Southern Company proposes to utilize a locally deployed ADS-B surveillance network that
+receives and displays cooperative aircraft positions in real-time within the operational corridor
+that consists of an onboard ADS-B system (uAvionix PingRX Pro) that will be installed on the
+UAS. Southern Company states this system will provide direct traffic awareness during flight.
+
+The FAA’s Analysis
+
+The FAA notes that while Southern Company’s petition request is not identical to
+Exemption No. 20973B, it is substantially similar. In Grant of Exemption No. 20973B, the FAA
+determined that electronic observers (EO) must use a situational awareness tool that provides
+
+3 Exemption No. 20973B, issued to Phoenix Air Unmanned, LLC, available at
+
+https://www.regulations.gov/document/FAA-2023-1827-0027
+
+AFS-26-00374-E
+
+                                                                                      STF-PIA-32-18 Attachment
+
+
+                                                                                                  3
+
+surveillance in real-time and the components of which included local and FAA National
+Airspace System (NAS)-wide surveillance sensors, data processing with alerting algorithms and
+system health monitoring as well as visualization display software. The FAA determined that
+those feeds included ADS-B NextGen surveillance network; the Airport Surface Surveillance
+Capability (ASSC) and Airport Surface Detection Equipment, Model X (ASDE-X) surface data;
+En Route and terminal radars; and the Wide Area Multilateration systems. Those feeds combined
+an aircraft’s positioning source, aircraft avionics, and ground infrastructure to create an accurate
+surveillance interface between cooperative aircraft (ADS-B equipped) and Air Traffic Control
+(ATC), which provide EO’s with the exact location of equipped aircraft as well as its spatial
+relationship to other aircraft. Further, the software was capable of highlighting potential
+incursions at different distances for EO awareness. Finally, the FAA found that the Detect and
+Avoid (DAA) altering algorithms in Grant of Exemption No. 20973B were compliant with the
+Terminal Radar Control Area (TRCA) DAA MOPS and based on well clear criteria for UAS.
+
+In Grant of Exemption No. 20973, the FAA rationalized that the proposed DAA technology was
+an acceptable situational awareness tool and that there are no current certification standards for
+situational awareness tools. Regarding Southern Company’s proposed situational awareness tool,
+the uAvionix PingRX Pro, the FAA again acknowledges there are no certification standards for
+situational awareness tools. While there are no established standards for this DAA technology,
+this situational awareness tool accompanied with the requirements for the operator to remain in a
+shielded environment as referenced in Condition and Limitation Nos. 21, 26, and 37, the FAA
+finds that the uAvionix PingRX Pro is an acceptable situational awareness tool for operations
+under this exemption.
+
+Part of the requirement for the situational awareness tool in Grant of Exemption No. 20973B was
+that the tool must use subscription-based surveillance data feeds from the FAA’s national sensor
+networks such as ADS-B NextGen surveillance network, the Airport Surface Surveillance
+Capability (ASSC) and ASDE-X surface data, En Route and terminal radars and the Wide area
+multiliterate systems and augment them with locally deployed infrastructure including Local
+ADS-B sensors, Ground primary radars and UAS GCS telemetry radar. Since Southern
+Company will utilize an ADS-B In system that does not receive data feeds from the FAA’s
+national sensor networks, the FAA revised Condition and Limitation No. 43 to remove that
+requirement.
+
+Because the operator in Grant of Exemption No. 20973 used a situational awareness tool that
+was ground-based, the FAA revised Condition and Limitation No. 43 to require that the UAs
+must have an onboard ADS-B In system installed, providing the aircraft with direct traffic
+awareness during flight operations. The FAA revised Condition and Limitation No. 43 in this
+exemption to require that operations must utilize locally deployed ADS-B surveillance networks
+that receive and display cooperative, accurate, and real-time aircraft positions within the
+operational corridor.
+
+Condition and Limitation No. 21 was updated and included in Phoenix Air Unmanned, LLC
+(PAU) Exemption No. 20973B. This condition and limitation outlines the operational
+environment for BVLOS UAS operations with SwissDrones SDO 50 V2 and V3. It permits
+
+AFS-26-00374-E
+
+                                                                                    STF-PIA-32-18 Attachment
+
+
+                                                                                                  4
+
+operations in Class G airspace, over sparsely populated areas, over pre-planned paths avoiding
+obstacles, with flights up to 100 feet above overhead infrastructure, 200 feet above ground-
+based/underground assets, within full ROW lateral boundaries, and not exceeding 400 feet AGL.
+The FAA is incorporating this same Condition and Limitation into this exemption as requested in
+Southern Company’s petition.
+
+Southern's operations mirror PAU's, using identical UAS for linear infrastructure inspections in
+shielded environments. As a utility operator, Southern inspects its Southeast network, akin to
+PAU's utility contracts. The FAA's amendment to PAU's 20973B exemption applies here:
+mitigations like shielding, EO monitoring with ADS-B, Class G restrictions below 400 feet
+AGL, and NOTAMs sufficiently mitigate risks for expanded parameters. The analysis included
+in PAU's exemption discussed an unmitigated collision risk of 2.2 × 10⁻⁸, with zero well-clear
+losses over 287.4 BVLOS hours. Southern has operated 150+ hours under Exemption No. 22932.
+Southern did not report any incidents during this period. Additionally, their operations primarily
+take place in rural areas, reflecting less risk than operations in more populated areas. Core
+mitigations remain in this exemption, including EO surveillance (updated to local ADS-
+B/onboard PingRX Pro), employing a shielding technique whereby the existence of
+infrastructure lines encourages other low-flying aircraft to avoid the area, and well-clear
+enforcement. Further, Southern's utility ownership enhances coordination.
+
+As such, Condition and Limitation No. 21 is amended to enhance Southern's capabilities: 200-
+foot AGL improves sensor efficacy for underground pipelines (e.g., methane detection), reducing
+false negatives. Additionally, full ROW access simplifies paths and minimizes maneuvers and
+obstacle risks in 100-300-foot corridors.
+
+The FAA believes it is in the public interest to allow the use of the uAvionix PingRX Pro to
+provide detect functions, as enabling its use helps the FAA to gain valuable insight into
+developing effective operational mitigations to better ensure safety and inform the development
+of appropriate standards. Additional public interest benefits include enabling proactive
+inspections, preventing failures, outages, and environmental risks like gas leaks, averting
+disruptions, and societal costs. UAS lowers expenses and emissions by replacing manned
+operations, as supported by the FAA's IPP Final Report (2021) showing public approval for
+efficient, low-disturbance inspections.
+
+The FAA’s Decision
+
+The FAA has determined that good cause exists for not publishing a summary of the petition in
+the Federal Register. The FAA has determined that good cause exists because the requested
+exemption would not set a precedent and any delay in acting on this petition would be
+detrimental to Southern.
+
+Under the authority contained in 49 U.S.C. §§ 106(f), 40113, 44701, and 44807, which the FAA
+Administrator has delegated to me, I hereby grant Southern Company an exemption from
+14 CFR §§ 61.3(a)(1)(i), 61.3(c)(1), 61.23(a)(2), 91.7(a), 91.113(b), 91.119(c), 91.121,
+91.151(b), 91.403(b), 91.405(a), 91.407(a)(1), 91.409(a)(1), 91.409(a)(2), 91.417(a), and
+
+AFS-26-00374-E
+
+                                                                                    STF-PIA-32-18 Attachment
+
+
+                                                                                                5
+
+91.417(b) to the extent necessary to allow Southern Company to conduct linear infrastructure
+inspections subject to the conditions and limitations described below.
+
+Conditions and Limitations
+
+In this grant of exemption, Southern Company is hereinafter referred to as “the Operator.”
+
+General:
+
+       1. Operations authorized by this exemption are limited to the SwissDrones SDO 50 V2
+          and the SDO 50 V3 unmanned aircraft systems (UAS) conducted by the Operator and
+          are limited to linear infrastructure operations. The aircrafts maximum takeoff weight
+          (MTOW) must not exceed 191.8 pounds (lbs.). Proposed operations of any other UAs
+          require a new petition or a petition to amend this grant.
+
+       2. This exemption and all documents needed to operate the UAS and conduct its
+          operations in accordance with the conditions and limitations stated in this grant of
+          exemption, are hereinafter referred to as the operating documents. The Operator must
+          follow the procedures as outlined in its operating documents. The operating
+          documents, the applicable Federal Communications Commission (FCC) license, and
+          a copy of this exemption must be accessible to the PIC at the control station during all
+          UAS operations that occur under this exemption. They must be made available to the
+          Administrator upon request. Where a discrepancy exists between the conditions and
+          limitations in this exemption and the procedures outlined in any of the
+          aforementioned documents, the most restrictive provision must be followed.
+
+       3. The Operator may update or revise its operating documents. It is the Operator’s
+          responsibility to track such revisions and present updated and revised documents to
+          the Administrator or any law enforcement official upon request. The Operator must
+          also present the most current documents if petitioning for extension of or amendment
+          to this grant of exemption. If the Operator determines that any update or revision
+          would affect the Operator’s ability to comply with any requirement of this exemption,
+          then the Operator must petition for an amendment to its grant of exemption. If
+          questions arise regarding updates or revisions to the operating documents, the
+          Operator may contact the FAA’s Flight Standards Service, Emerging Technologies
+          Division General Aviation and Commercial Branch, (AFS-750), 800 Independence
+          Avenue SW, Washington, DC 20591. Telephone: 202-267-1100, Email: 9-AVS-AFS-
+          750-Correspondence@faa.gov.
+
+       4. The PIC and electronic observer (EO) must present his or her remote pilot certificate,
+          Title 14, Code of Federal Regulations (14 CFR) Part 61 certificate or part 61 pilot
+          knowledge test results (as applicable), proof of current flight review (as applicable),
+          and photo identification if requested from: an authorized representative of the
+          Administrator; an authorized representative of the National Transportation Safety
+
+
+AFS-26-00374-E
+
+                                                                                      STF-PIA-32-18 Attachment
+
+
+                                                                                                   6
+
+          Board (NTSB); any Federal, State, or local law enforcement officer; and any
+          authorized representative of the Transportation Security Administration (TSA).
+
+       5. The operator must report all accidents and incidents to the Flight Standards District
+          Office (FSDO) having jurisdiction over the area of the demonstration operation, to
+          law enforcement as required by local law, and National Transportation Safety Board
+          (NTSB) if the occurrence meets the criteria stated in 49 CFR Part 830. All
+          documentation and equipment associated with the operation shall be preserved and
+          presented to the examining authorities at their request.
+
+UAS:
+
+       6. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+          aircraft is in a condition for safe flight. The pre-flight inspection must account for all
+          potential discrepancies, such as inoperable components, items, or equipment. If the
+          inspection reveals a condition that affects the safe operation of the UAS, the aircraft
+          is prohibited from operating until the necessary maintenance has been performed, and
+          the aircraft is found to be in a condition for safe flight.
+
+       7. The operator must follow the original equipment manufacturers (OEM) operating
+          limitations, maintenance, service bulletins, overhaul, replacement, inspection, and life
+          limit requirements for the UAS and its components as well as operator supplemental
+          manuals.
+
+       8. Maintenance must be performed by qualified individuals who have been trained by
+          the manufacturer in proper techniques and procedures for these UAS and all
+          maintenance must be recorded in the aircraft records including a brief description of
+          the work performed, date of completion and the name of the person performing the
+          work.
+
+       9. Any maintenance or alterations that affect the UAS operation or flight characteristics,
+          such as replacement of a flight critical component, must undergo a functional
+          operational check test flight prior to conducting further operations under this
+          exemption. Functional operational check flights must be conducted in visual line of
+          sight by a PIC and other personnel required to conduct the functional operational
+          check test (such as a mechanic or technician) and must remain at least 500 ft. from all
+          other people. The functional operational check flight must be conducted in such a
+          manner to not pose an undue hazard to persons and property. The operator must
+          permit the FAA Administrator and his representative to observe functional test flights
+          upon the request.
+
+       10. The PIC is prohibited from beginning a flight unless, considering wind and forecast
+           weather conditions, there is enough available fuel for the UA to conduct the intended
+           operation with sufficient reserves such that the PIC can land the UA without posing
+
+
+AFS-26-00374-E
+
+                                                                                       STF-PIA-32-18 Attachment
+
+
+                                                                                                     7
+
+           an undue risk to aircraft or people and property on the ground, or the reserve power
+           recommended by the manufacturer, if greater, is satisfied.
+
+       11. All altitude must be reported in ft. Above Ground Level (AGL).
+
+Qualifications, certifications and training:
+
+       12. The PIC has final responsibility and authority for the safe operation and flight of the
+           aircraft in accordance with relevant regulations and company policies and procedures.
+           Executes vehicle commands through the ground control station and monitors system
+           health status information. Responsible for flight conduct and contingency
+           management. Their qualifications must include:
+
+           a. Successful completion of the operator’s training program for PICs;
+           b. Hold a remote Pilot Certificate with a small UAS rating issued in accordance with
+              14 CFR Part 107 and be in compliance with § 107.65;
+           c. Pass either a sport, recreational, or private pilot FAA airman knowledge test
+              before acting as PIC, or, in the alternative, hold any part 61 pilot certificate (other
+              than a student pilot certificate) and meet the flight review requirements of
+              § 61.56; and
+           d. Hold at least a third-class medical certificate.
+
+       13. The PIC may not conduct the operation if the PIC knows or has reason to know of
+           any medical condition that would make the PIC unable to meet the requirements for
+           at least a third-class medical certificate or is taking medicine or receiving treatment
+           for a medical condition that results in the PIC being unable to meet the requirements
+           for at least a third-class medical certificate.
+
+       14. Each EO must hold a valid remote pilot certificate with a small UAS rating issued
+           under part 107 and be in compliance with § 107.65.
+
+       15. Each visual observer (VO) and EO must satisfactorily complete the operator's training
+           and qualification program before conducting operations under this exemption.
+
+       16. The PIC must demonstrate to the operator that they are able to operate the UA safely,
+           including fluency in conducting evasive and emergency maneuvers and maintaining
+           appropriate distances from people, vessels, vehicles, and structures.
+
+       17. Each VO and EO must comply with the following vision requirements:
+
+           a. Each VO must have adequate visual abilities that enable them to see the UA
+              clearly, recognize terrain and obstructions, and see and avoid aerial or ground
+              hazards and other aircraft without undue hesitation. Each VO must be able to
+              establish and maintain by unaided vision, except vision that is corrected by the
+
+
+AFS-26-00374-E
+
+                                                                                       STF-PIA-32-18 Attachment
+
+
+                                                                                                   8
+
+             use of corrective lenses, a normal field of vision allowing them to see all potential
+             hazards without hesitation.
+          b. Each EO must have adequate visual abilities that enable them to observe the
+             electronic display which displays the airspace awareness as described in the
+             petition.
+
+      18. The VO and EO and any other direct participant may not participate in the operation
+          if they know or have reason to know of any physical or mental condition that would
+          interfere with the safe operation of the aircraft.
+
+      19. The PIC is prohibited from initiating a flight unless all direct participants are fit for
+          duty, are at their stations, and are committed to being at their stations for the duration
+          of the flight.
+
+      20. All training operations must be conducted only during dedicated training sessions for
+          the petitioner’s employees and must be conducted in accordance with the operating
+          training program described in operator’s training program.
+
+Operating environment:
+
+      21. Operations conducted under this exemption are authorized in the National Airspace
+          System (NAS). The operations must occur:
+
+          a. In Class G airspace;
+          b. In sparsely populated areas;
+          c. Over pre-planned flight paths designed to avoid any known obstacles;
+          d. Over linear infrastructure with right-of-way, except for takeoff and landing; and
+          e. Within 100 ft. above overhead infrastructure (powerlines) being inspected;
+          f. Within 200 ft. above ground-based and underground infrastructure (e.g.,
+             pipelines, canals, and railroads) being inspected;
+          g. Within the lateral boundaries of the right-of-way; and
+          h. In no case higher than 400 ft. AGL.
+
+      22. Beyond visual line of sight (BVLOS) operations must be beyond the following
+          distances from the airport reference point (ARP) of a public use airport, heliport,
+          gliderport, or seaport listed in the Digital - Chart Supplement (d-CS), Chart
+          Supplement of the U.S. Government Flight Information Publications:
+
+          a. 5 nautical miles (NM) from an airport having an operational control tower;
+          b. 3 NM from an airport having a published instrument flight procedure, but not
+             having an operational control tower;
+          c. 2 NM from an airport not having a published instrument flight procedure or an
+             operational control tower; and
+          d. 2 NM from a heliport.
+
+
+AFS-26-00374-E
+
+                                                                                     STF-PIA-32-18 Attachment
+
+
+                                                                                                  9
+
+      23. This exemption does not authorize flight within UAS flight restricted areas. It is the
+          operator’s responsibility to ensure that proposed UAS operating area does not enter a
+          UAS flight restricted areas as described under § 99.7, Temporary Flight Restriction
+          (TFR), Special Security Instruction (SSI) Location and contact information for the
+          TFR SSI is provided in the relevant Notice to Airmen (NOTAM) and depicted on the
+          FAA website: https://udds-faa.opendata.arcgis.com. Anyone seeking to enter a TFR
+          SSI must request permission and receive advance authorization via the contacts listed
+          on the website (https://udds-faa.opendata.arcgis.com).
+
+      24. The UA may not be operated less than 500 ft. below or less than 2,000 ft. horizontally
+          from a cloud or when visibility is less than 3 statute miles (SM) from the PIC.
+
+      25. Operations are limited to daytime, visual flight rules (VFR) conditions, and when
+          weather is within the UA system limitations described in the operating documents.
+
+      26. The PIC may conduct BVLOS operations whereby when the UA is not within the
+          visual line of sight (VLOS) of the PIC, the UA is monitored by electronic means by
+          one of the two EOs and is reliant on the infrastructure to shield the operations.
+          Shielded Operations are defined as operations conducted in the radial airspace
+          surrounding an obstruction or infrastructure in which a manned aircraft is not
+          expected to operate. In such situations, under § 91.113 the PIC is operating the
+          aircraft and is, therefore, responsible for maintaining vigilance so as to avoid and
+          remain clear of other aircraft.
+
+      27. The PIC must brief all participants involved in the operation on safety of flight,
+          hazards, risks, mitigations, and the contents of this exemption.
+
+      28. Except in emergency situations, the SDO 50 V2 and the SDO 50 V3 must be in flown
+          in automatic mode for BVLOS operations.
+
+      29. Operational area boundaries, obstacles and other ground risks must be identified,
+          located and factored into the flight planning.
+
+      30. Prior to conducting operations under this Exemption, the PIC must determine all
+          control links used for the operation have signal that is strong enough to control the
+          UA at the maximum planned distance for the operation.
+
+      31. The PIC must prepare for a lost Command and Control (C2) link by programing lost
+          link procedures so that the UAS will remain within the operational corridor and
+          proceed to a pre-determined landing area. This contingency procedure must avoid
+          unexpected turn-around and altitude changes and must provide the PIC with sufficient
+          time to communicate with FAA’s Air Traffic Control (ATC), if necessary.
+
+      32. The operator must employ an outreach strategy and coordinate with other potentially
+          affected aircraft operators prior to conducting any BVLOS operations. In addition, the
+
+AFS-26-00374-E
+
+                                                                                      STF-PIA-32-18 Attachment
+
+
+                                                                                                   10
+
+         operator must coordinate with other utilities whose assets intersect the UA’s flight
+         path to ensure they will not be conducting operations in the same area.
+
+      33. Prior to conducting operations under this exemption, a NOTAM must be filed by
+          contacting the NOTAM Flight Service Station at 1-877-4-US-NTMS (1-877-487-
+          6867) not more than 72 hours in advance, but not less than 24 hours prior to the
+          operation.
+
+      34. Beyond visual line of sight operations may proceed without limitation of time or
+          distance so long as the aircraft has been proven to be reliable, durable, and fit-for-
+          purpose; the C2 link is maintained; and the PIC could effectively move the aircraft
+          out of the way of known traffic.
+
+      35. The PIC must be accessible by the FAA, via phone number provided in NOTAM for
+          direct real-time communication and coordination purposes for the duration of UAS
+          operations.
+
+      36. Air Traffic Control may delay, limit, prohibit, or terminate UAS operations when it
+          has concerns regarding the safety of manned aircraft operations in the area.
+
+      37. The PIC must ensure the UA remains well clear and gives way to all other aviation
+          operations and activities at all times except as it relates to uncooperative traffic when
+          relying on shielded operations. Well clear means 2000 ft. horizontally and 250 ft.
+          vertically from other aircraft. Operations must not cause hazard to persons or property
+          on the surface or in the air. If at any time safety of human beings or property on the
+          surface or in the air is in jeopardy, the PIC must cease operations.
+
+      38. For all BVLOS operations, the UA must be equipped and operated with an anti-
+          collision light. While BVLOS operations are limited to daytime operations under this
+          exemption, the anti-collision light must meet the standard of visibility for at least 3
+          SM between the beginning of evening civil twilight and the end of morning civil
+          twilight.
+
+      39. Operations over occupied roadways are limited to those roadways with a flow rate of
+          770 cars per hour or fewer. Roadways with greater than 770 cars/hour must be
+          crossed within VLOS of the PIC. In such cases, overflight of people and vehicular
+          traffic is prohibited. All roads must be crossed in minimal time necessary to safely
+          complete a flight.
+
+      40. Sustained flights over people, vessels, vehicles, structures and roadways are
+          prohibited. Only transient flights are permitted over people, vessels, vehicles,
+          structures and roadways within the utility right-of-way.
+
+      41. Transient flight over open air assemblies of people is prohibited.
+
+
+AFS-26-00374-E
+
+                                                                                     STF-PIA-32-18 Attachment
+
+
+                                                                                                11
+
+       42. When conducting VLOS operations, the UA must remain within the visual line of
+           sight of the PIC. VLOS means the PIC must be able to, with natural unaided vision
+           except for corrective lenses, see the UA and determine its orientation, height above
+           the surface, and direction of flight. The UA must be conspicuous to be obvious within
+           the VLOS area. VOs must be used as an operational mitigation; however, the PIC
+           must be able to see the UA throughout the flight.
+
+       43. All operations must utilize the services of at least one VO for VLOS operations and at
+           least two EO for BVLOS operations. EOs must use a situational awareness tool that
+           provides surveillance capability of the UA airspace in real-time. Additionally,
+           operations must utilize locally deployed ADS-B surveillance networks that receive
+           and display cooperative aircraft positions in real-time within the operational corridor.
+           The UA must have an onboard ADS-B In system installed providing the aircraft with
+           direct traffic awareness during flight operations. EOs and VOs must scan their area of
+           responsibility and immediately notify the PIC when they observe any hazard to safety
+           of flight. The PIC still retains the overall responsibility to avoid other aircraft.
+
+       44. All crew, including the PIC, EOs and VOs, must maintain two-way voice
+           communications with each other during operations. If communication occurs by
+           electronic device: the device must be continuous full-duplex; the PIC must be able to
+           use the device hands-free; and the PIC must ensure that there is a reliable back-up
+           communication method. Electronic messaging or texting is not permitted during flight
+           operations. During operations, no person on whom the PIC relies for safe conduct of
+           the operation may engage in communications not relevant to the operation.
+
+Reporting:
+
+       45. The operator must report operational data for the prior month to the FAA by the 10th
+           of each month, including the number of times the UA transgresses the lateral or
+           vertical boundaries of the flight corridor. These reports must be made on the form
+           entitled, Unmanned Aircraft System (UAS) Monthly Flight Report, Unmanned
+           Aircraft System (UAS) Basic Specifications Report, Unmanned Aircraft System (UAS)
+           Corrective Maintenance Report, and Unmanned Aircraft System (UAS) Flight
+           Anomaly Report (OMB Form No. pending). Forms must be submitted to the FAA via
+           Aeronautical Data Exchange at https://adx.faa.gov.
+
+Failure to comply with any of the above conditions and limitations may result in the immediate
+suspension or rescission of this exemption.
+
+
+AFS-26-00374-E
+
+                                                                                 STF-PIA-32-18 Attachment
+
+
+                                                                                              12
+
+The Effect of the FAA’s Decision
+
+This exemption terminates on August 31, 2027, unless sooner superseded or rescinded.
+
+To request an extension or amendment to this exemption, please submit your request by using
+the Regulatory Docket No. FAA-2025-1860 (http://www.regulations.gov). In addition, you
+should submit your request for extension or amendment no later than 120 days prior to the
+expiration listed above, or the date you need the amendment, respectively.
+
+Any extension or amendment request must meet the requirements of § 11.81.
+
+
+Sincerely,
+
+
+/s/
+Hugh Thomas
+Acting Deputy Executive Director, Flight Standards Service
+
+
+AFS-26-00374-E
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-14.docx =====
+STF-PIA-32-14
+
+Question: 
+
+What O&M costs have been incurred through June 30, 2025 by Georgia Power? Please itemize to the extent possible.
+
+Response:
+
+No operations and maintenance (O&M) costs related to the SwissDrones platform have been incurred by Georgia Power through June 30, 2025. The systems are not yet in service, and all preparation activities remain under Southern Company Services. Accordingly, there are no costs allocated to Georgia Power through June 30, 2025.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-1.docx =====
+STF-PIA-32-1
+
+Question: 
+
+Was Georgia Power involved in the decision to select SwissDrones? If so, please describe Georgia Power’s role.
+
+Response:
+
+Aircraft procurement was completed by Southern Company Services, which purchases all aircraft on behalf of all the operating companies of Southern Company. Georgia Power participates in the Southern Company Aerial Operations Governance Committee, which is responsible for standardization and oversight of system-wide aviation operations. While Georgia Power does not have final authority on purchasing decisions, the Company is involved in the decision-making process by providing feedback.
+
+
+===== DKT 44280 STF-PIA-32 PD/STF-PIA-32-12.docx =====
+STF-PIA-32-12
+
+Question: 
+
+What capital costs have been incurred through June 30, 2025 Georgia Power? Please itemize to the extent possible.
+
+Response:
+
+No capital costs have been incurred by Georgia Power through June 30, 2025. The SwissDrones aircraft were purchased directly by Southern Company Services. The systems are not yet in service, and all preparation activities remain under Southern Company Services. Accordingly, there are no costs allocated to Georgia Power through June 30, 2025.

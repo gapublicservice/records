@@ -1,0 +1,30 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110214,
+      "name": "57243 Order on Petitioner's TS Motion.pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229350/110214"
+    },
+    {
+      "attachment_id": 110215,
+      "bytes": 96366,
+      "name": "COS - Sustainable Newton v. VoltaGrid.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229350/110215.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229350/110215"
+    }
+  ],
+  "company": "Hearing Officer",
+  "description": "ORDER ON PETITIONERS’ MOTION CHALLENGING TRADE SECRET DESIGNATIONS AND FOR ACCESS TO TRADE SECRET INFORMATION",
+  "dockets": [
+    57243
+  ],
+  "document_id": 229350,
+  "filed_date": "2026-11-04",
+  "harvested": "2026-11-19",
+  "received_date": "2026-11-04",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229350"
+}

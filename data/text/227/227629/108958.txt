@@ -1,0 +1,792 @@
+===== GPC RTP Direct Testimony (Dkt. No. 57171)/DKT 57171 - RTP Investigation Direct Testimony - COS.pdf =====
+
+
+===== GPC RTP Direct Testimony (Dkt. No. 57171)/DKT 57171 - RTP Investigation Direct Testimony - Transmittal.pdf =====
+
+
+===== GPC RTP Direct Testimony (Dkt. No. 57171)/GPC RTP Direct Testimony (Dkt. No. 57171).docx =====
+STATE OF GEORGIA
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+In Re:
+Georgia Power Company’s)
+RTP RevenueCredit)Docket No. 57171
+And Allocation Methodology)
+
+
+DIRECT TESTIMONY OF
+DR. ROSS BEPPLER, LEE EVANS, AND BRANDON LOONEY
+IN SUPPORT OF GEORGIA POWER COMPANY’S 
+RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY 
+
+
+AUGUST 14, 2026
+
+DIRECT TESTIMONY OF
+
+DR. ROSS BEPPLER, LEE EVANS, AND BRANDON LOONEY
+ON BEHALF OF GEORGIA POWER COMPANY
+
+IN SUPPORT OF GEORGIA POWER’S RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+GPSC DOCKET NO. 57171
+ 
+I.INTRODUCTION
+Q.PLEASE STATE YOUR NAME, TITLE, AND BUSINESS ADDRESS.
+A.Ross Cannon Beppler, PhD. I am the Pricing Design Manager for Georgia Power Company (“Georgia Power” or the “Company”). My business address is 241 Ralph McGill Boulevard, N.E., Atlanta, Georgia 30308. 
+A.Lee Evans. I am the Director of Pricing and Rates for Georgia Power. My business address is 241 Ralph McGill Boulevard, Atlanta, Georgia 30308.
+A.Michael “Brandon” Looney. I am the Director of Demand Planning and Analysis for Southern Company Services (“SCS”). My business address is 600 North 18th Street, Birmingham, Alabama 35203.
+Q.DR. BEPPLER, PLEASE SUMMARIZE YOUR EDUCATION AND PROFESSIONAL EXPERIENCE.
+A.I began my academic studies at Clemson University, earning a Bachelor of Science in Electrical Engineering in 2014. Following this, I pursued a PhD in Energy and Environmental Policy from the Georgia Institute of Technology, which I completed in 2019. During my doctoral studies, I gained experience interning at the National Renewable Energy Laboratory, and at the Georgia Public Service Commission (“Commission”). From March 2018 to December 2019, I worked as a Quantitative Analyst with Demand Side Analytics, where I focused on data-driven insights on demand-side programs and technologies.
+In 2019, I joined SCS as an analyst in the Planning and Regulatory Support organization. In 2022, I advanced to the role of Demand Analysis Manager. Beginning in January 2024, I served as the Load Flexibility and Analysis Manager, where I was responsible for design and evaluation of load flexibility programs and complimentary economic analysis. I began my current role as Pricing Design Manager for Georgia Power in September 2025, where I lead the development and implementation of new rates and prices and ensure the portfolio of pricing products meets the needs of our customers and the Company. 
+Q.DR. BEPPLER, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE COMMISSION?
+A.Yes. I testified before Commission in Docket No. 56002, Georgia Power’s 2025 Integrated Resource Plan (“IRP”).
+Q.MR. EVANS, PLEASE SUMMARIZE YOUR EDUCATIONAL AND PROFESSIONAL EXPERIENCE.
+A.I received a Bachelor of Science degree in Financial Management from Clemson University and a Master of Science degree in Finance from Georgia State University. I have also served as an Adjunct Instructor of Finance for the University of West Florida and am a Certified Public Accountant licensed in Georgia. I have been employed for the past 19 years by Georgia Power and the Southern Company system in a variety of pricing, costing, and analysis capacities. My responsibilities include administering the Company’s Rates, Rules, and Regulations as well as overseeing the billing operations for our largest Commercial and Industrial customers. I am responsible for administering the Georgia Territorial Electric Service Act of 1973, as it applies to Georgia Power. Additionally, I direct the Company’s development and implementation of new tariffs to meet our customers’ current and evolving energy needs.
+Q.MR. EVANS, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS COMMISSION?
+A.Yes. I testified before the Commission in Docket No. 44160, Georgia Power’s 2022 IRP; in Docket No. 44280, Georgia Power’s 2022 Rate Case; in Docket No. 55378, Georgia Power’s 2023 IRP Update; in Docket No. 56298, Georgia Power’s Certification of the 2029-2031 All-Source Capacity Request for Proposals (“RFP”); in Docket No. 56310, Georgia Power’s Certification of Supplemental Resources for 2028-2031 Capacity, and most recently on rebuttal in Docket No. 56765, Georgia Power’s Fuel Cost Recovery (“FCR-27”) Application.
+Q.MR. LOONEY, PLEASE SUMMARIZE YOUR EDUCATION AND PROFESSIONAL EXPERIENCE.
+A.I graduated from the University of Alabama in 2003 with a Bachelor of Science degree in Mechanical Engineering. I began my career at SCS in the Engineering and Construction Services organization. During this time, I completed my Master of Business Administration from the University of Alabama at Birmingham and received my Professional Engineering License from the state of Alabama. I moved to Research and Environmental Affairs in 2007 as a Research Engineer responsible for environmental control technology with a focus on compliance with the Mercury and Air Toxics Standards (“MATS”). In 2012, I became the Environmental Controls Research Manager responsible for Southern Company’s technology research portfolio for air, land, and water pollutants. 
+In 2013, I transitioned to Southern Company’s System Planning organization, where I held various leadership positions in several departments including Asset Management, Renewable Generation Development, and Asset and Environmental Planning. In 2019, my responsibilities expanded to include Reliability Planning including the Reserve Margin Study as well as the evaluation for the Company’s numerous RFPs. In these roles, I have supported each Georgia Power IRP dating back to 2016, as well as several certification filings. Recently, I have transitioned from System Planning to lead the Company’s Demand Planning and Analysis function.
+Q.MR. LOONEY, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE COMMISSION?
+A.Yes. I testified before the Commission in Georgia Power’s 2025 IRP proceedings in Docket No. 56002, the CARES 2023 Utility Scale Renewable Power Purchase Agreement (“PPA”) Certification proceeding in Docket No. 56181, the Winter 2027/2028 BESS Certification proceeding in Docket No. 56258, and the All-Source RFP and Supplemental Resources Certification proceeding in Docket Nos. 56298 and 56310. I most recently testified in the CARES 2023 Utility Scale Renewable PPA Supplemental Certification proceeding in Docket No. 56181 and the CARES 2025 Certification proceeding in Docket No. 57154.
+Q.WHAT IS THE PURPOSE OF THE PANEL’S TESTIMONY?
+A.Our testimony explains Georgia Power’s Real Time Pricing (“RTP”) Revenue Credit and Allocation Methodology, consistent with the Commission’s Order Adopting Stipulation in the Company’s FCR-27 Application, Docket No. 56765, and as agreed to by the Company, Public Interest Advocacy Staff (“PIA Staff”) and the Stipulating Parties. 
+Q.PLEASE SUMMARIZE YOUR DIRECT TESTIMONY.
+A.Our direct testimony provides a brief overview of Georgia Power’s RTP rates, including the key components, before introducing the Company’s RTP revenue credit methodology. We detail the relevant history and updates pertinent to the current RTP fuel accounting methodology. Our testimony next explains how certain revenues are recorded between fuel and base, and the appropriateness of that framework. Finally, we address concerns raised by PIA Staff and other intervenors during the FCR-27 proceeding and the July 28, 2026, RTP Technical Conference related to firm transportation (“FT”) and non-dispatchable purchase power agreements (“PPAs”) and identify potential modifications to the fuel credit methodology.
+Q.HOW IS YOUR TESTIMONY ORGANIZED?
+A.Our testimony is organized as follows:
+Section II provides an introduction and overview of the Company’s RTP rates; 
+Section III discusses the history and relevant changes to the RTP rates and fuel accounting methodology; and
+Section IV explains the Company’s current RTP fuel revenue credit methodology and discusses potential modifications.
+II.OVERVIEW OF RTP RATES
+Q.WHAT IS THE PHILOSOPHY AND INTENT OF RTP RATES?
+A.RTP rates are a collection of tariffs that provide eligible customers the option to take on price risk in exchange for potential cost savings. The Company provides participating customers an hourly price that reflects its expectation of the marginal cost of electricity. Since electricity cannot be stored to a sufficient degree, during some constrained periods, prices can reach extremely high levels. Customers can make economic decisions with their business operations and choose to buy or reduce consumption during these periods. RTP is not intended to instantaneously capture the average or total cost of an RTP customer’s load in its entirety. Rather, the intent of RTP is to represent the marginal cost of making marginal changes in demand. 
+Any revenue collected from incremental load in excess of the total marginal cost to serve that load will benefit the existing customer base. The total marginal cost to serve incremental load can be reliably and accurately calculated using the cost of peaking capacity, priced against demand during peak periods, and the marginal production cost of the system in all hours. This analytical approach is known as the peaker methodology, which represents the total capacity and energy cost to serve demand from an optimal resource mix and provides a proper basis for the Company’s RTP rates. 
+Q.PLEASE DESCRIBE GEORGIA POWER’S RTP RATES. 
+A.Georgia Power’s RTP tariffs are two-part rate structures that blend standard embedded rates with a marginal cost-based rate. The standard embedded rate is applied to the Customer Baseline Load (“CBL”), while the RTP rate is assessed to incremental load and reflects hourly marginal costs. The standard embedded rate collects variable and fixed costs incurred by the Company while the RTP rate represents the costs that change alongside variations in load. Figure 1 below provides an illustration of the two-part RTP structure:
+Figure 1: RTP Structure
+
+Because RTP rates are derived from marginal costs, they send economically efficient price signals to participating customers—encouraging usage when the marginal unit cost is lower and discouraging usage when that cost increases. These price signals are provided to participating customers either daily under the RTP-DA tariff or hourly under the RTP-HA tariff. 
+Q.WHO IS ELIGIBLE TO PARTICIPATE IN RTP?
+A.The Company’s RTP tariffs are available to commercial and industrial customers with a minimum demand of 250 kilowatts (“kW”) (RTP-DA) or 5 megawatts (“MW”) (RTP-HA). Currently, there are approximately 2,300 customers on RTP-DA and 170 on RTP-HA.
+Q.WHAT ARE THE COMPONENTS OF THE RTP RATE?
+A.The five components of the RTP rate are: 
+Lambda – the marginal cost of the last system resource used to serve the last increment of system load. Lambda is the largest component in RTP prices, amounting to 75-80% of the average annual RTP price and is found in the price every hour of the year. This is the component of RTP from which fuel revenues are extracted and thus the component most relevant to this docket. 
+Losses (RTP-DA Only) – the physical electric losses incurred between the bulk transmission system and the customer.  
+Recovery Factor – accounts for the Company’s forecasting risk since RTP prices are based on a forecasted marginal cost and are not trued-up. It provides a contribution to other fixed costs above marginal cost. 
+Transmission Cost – reflects the marginal transmission capital costs. The transmission cost is designed to trigger in approximately 300 hours in a normal weather year and corresponds to periods when system loads approach the forecasted annual peak load. It also includes a temperature element that reflects the load carrying capability of the transmission system. 
+Reliability Capacity Cost – reflects the marginal value of generation capacity. This component is designed to trigger in approximately 50 hours of a weather normal year and corresponds to periods when system load approaches the forecasted annual peak load.
+Q.HOW DO THE COMPANY’S RTP RATES SEND PRICE SIGNALS TO PARTICIPATING CUSTOMERS?
+A.Hourly price signals are accessible to participating customers through the Company’s EnergyDirect tool. For RTP-DA customers, RTP prices are posted by 4:00 pm every day for the next day. For RTP-HA customers, prices are posted every hour for the next hour.
+Q.WHAT ARE THE BENEFITS OF THE COMPANY’S RTP RATES? 
+A.RTP rates enable customers to use electricity efficiently and economically by providing a price signal that reflects the marginal cost of producing or reducing energy. Customers may increase usage when it is least costly to produce and respond to high prices by reducing load during peak periods. This load response is incorporated into the Company’s planning process through a combination of a reduction to forecasted load and a demand side option. To the extent customers do not adjust their usage based on the price signals communicated, they always face a price reflecting the hourly marginal cost.  
+Access to marginal cost-based rates makes RTP a driver of new economic activity and has been an important tool in attracting incremental load to the state. Importantly, as new projects are evaluated, the Company ensures that the expected revenues more than cover the incremental costs to serve new load. Revenues in excess of the incremental cost put downward pressure on rates for all customers.  
+III.HISTORY OF RTP AND THE REVENUE FUEL CREDIT METHODOLOGY
+Q.WHEN WERE THE RTP RATES INTRODUCED?
+A.The Company began offering RTP rates when the Commission approved Georgia Power’s experimental Real Time Pricing Tariff, Rate Schedule RTP-X, to operate as a two-year pilot program on June 19, 1992. RTP rates became a permanent rate offering in July 1994 when the Commission approved Georgia Power’s Real Time Pricing-Day Ahead Tariff, Rate Schedule RTP-DA-1.  
+Q.WHEN WERE THE RTP OFFERINGS MODIFIED TO EMPLOY THE CURRENT RTP FUEL CREDIT METHODOLOGY?
+A.The Company’s RTP offerings were modified in the 2010 base rate case to employ the current accounting methodology for crediting the FCR account from RTP revenue. Prior to that, the standard FCR rate was used to divide RTP revenues between fuel and base. 
+Q.WHAT CHANGE DID THE COMMISSION APPROVE TO THE RTP FUEL CREDIT METHODOLOGY AT THAT TIME?
+A.In the 2010 rate case, the Commission approved Georgia Power’s proposal to record RTP fuel revenues based on the average marginal replacement fuel costs (rather than the embedded FCR rate) on an hourly basis. This method appropriately records more RTP revenues to fuel when marginal fuel prices are high and less when they are low, which mirrors the concepts behind the RTP rates and better tracks the RTP revenues collected with the marginal fuel costs being incurred. Notably, the implementation of this revised accounting method did not affect the RTP prices paid by customers but rather more appropriately records the revenues received from RTP customers between fuel and base.
+Q.WHY DID THE COMPANY PROPOSE THIS CHANGE?
+A.The Company proposed this accounting change to the RTP fuel credit methodology (1) in response to fuel prices becoming increasingly volatile, growing fuel balance over/under-recoveries and extended amortization periods; (2) to better mirror the overall RTP rate; and (3) to more quickly reflect changes in fuel costs incurred by the Company. As discussed above, the intent of the RTP rate has always been to assess the marginal cost associated with marginal changes in demand. It makes sense that the amount recorded to fuel would reflect the same philosophy and intent. 
+The revised methodology aligns fuel revenues and expenses especially during periods of fuel price volatility. The RTP hourly price can vary significantly depending on marginal replacement fuel costs while the FCR rate remains constant, which can create deviations between costs incurred and amounts credited to the fuel and base accounts. By relying on a fixed rate to record RTP revenues to the fuel account, the previous accounting method did not credit the proper amounts of fuel revenues in the same period in which those costs were incurred. 
+Q.DID THIS CHANGE IN METHODOLOGY AFFECT RTP PRICES?
+A.No. The RTP fuel credit methodology change in 2010 did not impact RTP prices. This accounting change only affected how RTP revenues were recorded as between fuel and base.
+Q.DID THIS CHANGE IN FUEL CREDIT METHODOLOGY HAVE AN IMPACT ON BASE RATES?
+A.Yes. Because the change in methodology altered how RTP revenues were divided between fuel and base, more revenues were estimated to be included in base rates in 2011. As an indicator of the impact of the accounting methodology change, the base revenue contribution forecasted in 2011 increased by 45 million dollars, which had the effect of lowering the overall revenue requirement increase by the same amount. 
+Q.WOULD CHANGING THE METHODOLOGY FOLLOWING THIS INVESTIGATION CHANGE BASE RATE REVENUE?
+A.Yes. 
+IV.RTP FUEL CREDIT METHODOLOGY
+Current Methodology
+Q.PLEASE DESCRIBE THE CURRENT RTP FUEL CREDIT METHODOLOGY.
+A.For the incremental load priced at RTP, the revenues based on an average hourly marginal replacement fuel cost are recorded to the fuel account. This average hourly marginal replacement fuel cost is based on all Georgia Power generating units running in each hour plus Georgia Power’s share of pool sales or purchases. For the CBL portion of RTP customer load, fuel costs are billed and revenues are collected as applicable at the underlying FCR rate. 
+Q.ARE ALL FUEL EXPENSES THAT ARE RECOVERED THROUGH THE FUEL CLAUSE CAPTURED IN THE RTP FUEL CREDIT CALCULATION?
+A.No. The RTP fuel credit is based on marginal replacement fuel costs as the RTP rate reflects the marginal cost of serving incremental load. This does not incorporate fixed fuel costs, which do not vary with changes in demand. Fixed fuel costs are costs that the Company will incur regardless of changes in RTP incremental load and thus cannot be increased or avoided through changes in load priced at RTP. A contribution to fixed costs is made through the capital substitution component as discussed further below. 
+Q.CAN YOU GIVE EXAMPLES OF THESE FIXED COSTS?
+A.Yes. In the FCR-27 docket, fixed fuel costs related to non-dispatchable PPAs, existing unit FT costs, and FT costs associated with new generation being added to serve large loads and organic growth were identified as examples of fuel expenses not included in the RTP fuel credit calculation.
+Q.WHAT ARE NON-DISPATCHABLE PPAS?
+A.Non-dispatchable PPAs are those contracts in which the Company has an obligation to pay for the output of the resource when energy is produced regardless of the system’s need or current cost position. These have also been referred to as take-or-pay contracts. These are distinguished from dispatchable PPAs in which the Company can control the output of the resource in response to changes in the marginal costs of the resource or load on the system. The Company’s renewable PPAs including solar, wind, and biomass are currently structured as non-dispatchable. The execution and certification of non-dispatchable PPAs and their associated costs are not driven by large load growth. 
+Q.WHAT COSTS ARE INCLUDED IN EXISTING FT?
+A.Firm Transportation costs are monthly pipeline capacity reservation payments that ensure gas pipeline transportation availability to existing Georgia Power units during all periods. These costs do not include any variable pipeline transportation costs or commodity costs, which are dependent on delivery volume, priced on a volumetric basis, and captured in the marginal replacement fuel costs used in the RTP fuel credit. 
+Q.HOW IS THAT DIFFERENT FROM NEW FT COSTS?
+A.New FT costs are those payments that Georgia Power incurs to ensure gas availability for new or future generation that is in the Company’s plans. The Company is distinguishing new FT from existing FT in recognition that the growth of large load customers is a primary driver of new FT costs and they may need to be treated differently. As with the non-dispatchable PPAs, existing FT costs are not driven by large load growth.
+Q.IF THESE FIXED COSTS ARE NOT INCLUDED IN THE RTP FUEL CREDIT CALCULATION, DOES THAT MEAN THAT RTP CUSTOMERS ARE NOT CONTRIBUTING TO THESE FIXED COSTS? 
+A.No. The RTP price charged to incremental load in all hours has a component, lambda, which is the marginal cost of the marginal unit on the system. In nearly all hours, the marginal running cost is greater than the average running cost of the system, which means that in virtually all periods, RTP incremental load is contributing to fixed costs. The Company has referred to this as the capital substitution component. Further, the CBL portion of an RTP customer’s load captures the fully embedded base and FCR rate, which directly includes the fixed costs.  
+Q.YOU PREVIOUSLY MENTIONED A CAPITAL SUBSTITUTION COMPONENT, CAN YOU ELABORATE?
+A.Yes. The difference between lambda and the recorded fuel revenue covers two pieces: generation variable O&M and capital substitution. The capital substitution contribution, which is applied to base rates, covers additional fixed costs above the reliability capacity cost associated with resources that support lower fuel costs, including capital costs for baseload or intermediate generation and FT. 
+Q.WHAT IS THE MAGNITUDE OF THAT CAPITAL SUBSTITUTION COMPONENT? 
+A.The amount will vary from year to year based on the spread between the marginal and average running costs of the system and the volume of load that is priced at RTP. The Company performed an analysis based on 2025 actual data and the capital substitution contribution for 2025 was $264 million. 
+Review and Revision to Fuel Credit Methodology
+Q.WHY IS THE COMMISSION REVIEWING THE COMPANY’S RTP FUEL CREDIT AND REVENUE ALLOCATION METHODOLOGY?
+A.Over the past 16 years since the current RTP fuel credit methodology was established, the system has evolved in both the types of fuel expenses incurred and the magnitude of loads served through RTP offerings. In the FCR-27 proceeding, in light of the increase in large load customers served on Georgia Power’s RTP offerings and to ensure such customers pay their share of costs, PIA Staff and intervenors questioned whether the RTP revenues were appropriately allocated between fuel and base rates and recommended the Commission undertake an additional review of the RTP fuel credit and revenue allocation methodology. As demonstrated in the Stipulation ultimately approved in Docket No. 56765, the Company supported and agreed to this subsequent review.
+Q.DO LARGE LOAD CUSTOMERS PAY FOR THEIR COSTS?
+A.Yes. Per the Company’s revised rules and regulations approved by the Commission in 2025, Georgia Power has committed to protect existing customers from bearing any of the costs of adding these large customers. The Company’s approach ensures not only that large load customers pay for their costs but also that all customers benefit from adding them to the system. As previously noted, when revenues exceed the incremental cost to serve, it creates downward pressure on rates for all other customers. These benefits enabled the Company to freeze base rates through 2028 and ensure the incremental revenue from large load customers has downward pressure of at least $102 per year for the typical residential customer using an average of 1,000 kWh per month for years 2029, 2030, and 2031. 
+Q.IF LARGE LOAD CUSTOMERS PAY FOR THEIR COSTS, WHY IS THE RTP FUEL CREDIT METHODOLOGY BEING CHALLENGED?
+A.The revenues Georgia Power receives from large load customers pay for the costs the Company incurs to serve them. The question raised in FCR-27 and continued in this proceeding is whether those RTP revenues are appropriately being divided between fuel and base. 
+Q.IS THE COMPANY PROPOSING ANY MODIFICATIONS TO ITS FUEL COST RECOVERY IN THIS PROCEEDING?
+A.Yes. The Company proposes that the costs of new FT attributable to large load customers be fully recovered from those customers and not borne by non-large load customers in the FCR clause. Following the conclusion of the FCR-27 case, the Company reviewed its current RTP fuel credit methodology, conducted an RTP Technical Conference where it received feedback from PIA Staff and intervenors, and determined that this modification was appropriate to align with the intent of the fuel credit methodology.
+ Q.WHAT MECHANISM WOULD THE COMPANY USE TO ALLOCATE THESE NEW FT COSTS?
+A.In their FCR-27 testimony filed in Docket No. 56765, PIA Staff showed a 1-CP (coincident peak) allocation of FT costs. The Company agrees with this approach but proposes using a winter CP and basing the allocation on the share of organic versus large load demand growth. This approach is consistent with the capacity need that drove the incremental generation resources and the allocation in the large load cost model. 
+Q.WERE THERE OTHER ITEMS RAISED DURING THE FCR PROCEEDING AND THE TECHNICAL CONFERENCE THAT WARRANT FURTHER DISCUSSION?
+A.Yes. PIA Staff and intervenors have expressed concern regarding the treatment of non-dispatchable PPAs in the RTP fuel credit calculation. Such a change to the treatment of non-dispatchable PPAs will impact the fuel allocation for all RTP incremental load, including non-large load commercial and industrial customers. 
+Q.DESCRIBE THE CURRENT TREATMENT OF NON-DISPATCHABLE PPAS IN THE RTP FUEL CREDIT CALCULATION. 
+A.As approved, the RTP fuel credit rate is derived from the marginal replacement fuel costs of all Georgia Power units. Although there are some units, such as the non-dispatchable PPAs, which do not have marginal replacement fuel costs, the output of those units is included in the denominator of the RTP fuel credit rate calculation.  
+Q.WHAT OPTIONS ARE AVAILABLE TO ADDRESS THEIR CONCERN? 
+A.There are two potential options to address their concern. The first option is to exclude both the costs and the output from non-dispatchable PPAs in the RTP fuel credit calculation. This is consistent with an approach that the RTP fuel credit should be derived from marginal replacement fuel costs. Removing non-dispatchable PPA output (MWh) from the denominator of the RTP fuel credit calculation will increase the RTP fuel credit rate and thus the recording of all RTP revenues to the fuel clause. However, this approach is not based on all Georgia Power generating units running, as originally approved. The second option is to include both the costs and the MWh from non-dispatchable PPAs in the RTP fuel credit calculation. This would break from the marginal fuel cost-based approach approved and in place since 2010 but also result in a larger allocation of RTP revenues to the fuel clause. 
+V.CONCLUSION
+Q.DOES THIS CONCLUDE YOUR TESTIMONY? 
+A.Yes. 
+
+===== GPC RTP Direct Testimony (Dkt. No. 57171)/GPC RTP Direct Testimony (Dkt. No. 57171).pdf =====
+                             STATE OF GEORGIA
+
+                               BEFORE THE
+                GEORGIA PUBLIC SERVICE COMMISSION
+In Re:
+
+Georgia Power Company’s              )
+RTP Revenue Credit                   )          Docket No. 57171
+And Allocation Methodology           )
+
+
+                         DIRECT TESTIMONY OF
+
+         DR. ROSS BEPPLER, LEE EVANS, AND BRANDON LOONEY
+
+              IN SUPPORT OF GEORGIA POWER COMPANY’S
+
+         RTP REVENUE CREDIT AND ALLOCATION METHODOLOGY
+
+
+                              AUGUST 14, 2026
+
+                                  DIRECT TESTIMONY OF
+
+             DR. ROSS BEPPLER, LEE EVANS, AND BRANDON LOONEY
+
+                    ON BEHALF OF GEORGIA POWER COMPANY
+
+          IN SUPPORT OF GEORGIA POWER’S RTP REVENUE CREDIT AND
+                        ALLOCATION METHODOLOGY
+                           GPSC DOCKET NO. 57171
+
+
+                                    I.      INTRODUCTION
+
+ 1   Q.    PLEASE STATE YOUR NAME, TITLE, AND BUSINESS ADDRESS.
+
+ 2   A.    Ross Cannon Beppler, PhD. I am the Pricing Design Manager for Georgia Power
+ 3         Company (“Georgia Power” or the “Company”). My business address is 241 Ralph
+ 4         McGill Boulevard, N.E., Atlanta, Georgia 30308.
+
+ 5   A.    Lee Evans. I am the Director of Pricing and Rates for Georgia Power. My business
+ 6         address is 241 Ralph McGill Boulevard, Atlanta, Georgia 30308.
+
+ 7   A.    Michael “Brandon” Looney. I am the Director of Demand Planning and Analysis
+ 8         for Southern Company Services (“SCS”). My business address is 600 North 18th
+ 9         Street, Birmingham, Alabama 35203.
+
+10   Q.    DR. BEPPLER, PLEASE SUMMARIZE YOUR EDUCATION AND
+11         PROFESSIONAL EXPERIENCE.
+
+12   A.    I began my academic studies at Clemson University, earning a Bachelor of Science
+13         in Electrical Engineering in 2014. Following this, I pursued a PhD in Energy and
+14         Environmental Policy from the Georgia Institute of Technology, which I completed
+15         in 2019. During my doctoral studies, I gained experience interning at the National
+16         Renewable Energy Laboratory, and at the Georgia Public Service Commission
+17         (“Commission”). From March 2018 to December 2019, I worked as a Quantitative
+
+
+                  Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                 On behalf of Georgia Power Company
+                                           Docket No. 57171
+                                              Page 2 of 18
+
+ 1        Analyst with Demand Side Analytics, where I focused on data-driven insights on
+ 2        demand-side programs and technologies.
+
+ 3        In 2019, I joined SCS as an analyst in the Planning and Regulatory Support
+ 4        organization. In 2022, I advanced to the role of Demand Analysis Manager.
+ 5        Beginning in January 2024, I served as the Load Flexibility and Analysis Manager,
+ 6        where I was responsible for design and evaluation of load flexibility programs and
+ 7        complimentary economic analysis. I began my current role as Pricing Design
+ 8        Manager for Georgia Power in September 2025, where I lead the development and
+ 9        implementation of new rates and prices and ensure the portfolio of pricing products
+10        meets the needs of our customers and the Company.
+
+11   Q.   DR. BEPPLER, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE
+12        COMMISSION?
+
+13   A.   Yes. I testified before Commission in Docket No. 56002, Georgia Power’s 2025
+14        Integrated Resource Plan (“IRP”).
+
+15   Q.   MR. EVANS, PLEASE SUMMARIZE YOUR EDUCATIONAL AND
+16        PROFESSIONAL EXPERIENCE.
+
+17   A.   I received a Bachelor of Science degree in Financial Management from Clemson
+18        University and a Master of Science degree in Finance from Georgia State
+19        University. I have also served as an Adjunct Instructor of Finance for the University
+20        of West Florida and am a Certified Public Accountant licensed in Georgia. I have
+21        been employed for the past 19 years by Georgia Power and the Southern Company
+22        system in a variety of pricing, costing, and analysis capacities. My responsibilities
+23        include administering the Company’s Rates, Rules, and Regulations as well as
+24        overseeing the billing operations for our largest Commercial and Industrial
+25        customers. I am responsible for administering the Georgia Territorial Electric
+26        Service Act of 1973, as it applies to Georgia Power. Additionally, I direct the
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 3 of 18
+
+ 1        Company’s development and implementation of new tariffs to meet our customers’
+ 2        current and evolving energy needs.
+
+ 3   Q.   MR. EVANS, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS
+ 4        COMMISSION?
+
+ 5   A.   Yes. I testified before the Commission in Docket No. 44160, Georgia Power’s 2022
+ 6        IRP; in Docket No. 44280, Georgia Power’s 2022 Rate Case; in Docket No. 55378,
+ 7        Georgia Power’s 2023 IRP Update; in Docket No. 56298, Georgia Power’s
+ 8        Certification of the 2029-2031 All-Source Capacity Request for Proposals (“RFP”);
+ 9        in Docket No. 56310, Georgia Power’s Certification of Supplemental Resources
+10        for 2028-2031 Capacity, and most recently on rebuttal in Docket No. 56765,
+11        Georgia Power’s Fuel Cost Recovery (“FCR-27”) Application.
+
+12   Q.   MR. LOONEY, PLEASE SUMMARIZE YOUR EDUCATION AND
+13        PROFESSIONAL EXPERIENCE.
+
+14   A.   I graduated from the University of Alabama in 2003 with a Bachelor of Science
+15        degree in Mechanical Engineering. I began my career at SCS in the Engineering
+16        and Construction Services organization. During this time, I completed my Master
+17        of Business Administration from the University of Alabama at Birmingham and
+18        received my Professional Engineering License from the state of Alabama. I moved
+19        to Research and Environmental Affairs in 2007 as a Research Engineer responsible
+20        for environmental control technology with a focus on compliance with the Mercury
+21        and Air Toxics Standards (“MATS”). In 2012, I became the Environmental
+22        Controls Research Manager responsible for Southern Company’s technology
+23        research portfolio for air, land, and water pollutants.
+
+24        In 2013, I transitioned to Southern Company’s System Planning organization,
+25        where I held various leadership positions in several departments including Asset
+26        Management, Renewable Generation Development, and Asset and Environmental
+27        Planning. In 2019, my responsibilities expanded to include Reliability Planning
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 4 of 18
+
+ 1           including the Reserve Margin Study as well as the evaluation for the Company’s
+ 2           numerous RFPs. In these roles, I have supported each Georgia Power IRP dating
+ 3           back to 2016, as well as several certification filings. Recently, I have transitioned
+ 4           from System Planning to lead the Company’s Demand Planning and Analysis
+ 5           function.
+
+ 6   Q.      MR. LOONEY, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE
+ 7           COMMISSION?
+
+ 8   A.      Yes. I testified before the Commission in Georgia Power’s 2025 IRP proceedings
+ 9           in Docket No. 56002, the CARES 2023 Utility Scale Renewable Power Purchase
+10           Agreement (“PPA”) Certification proceeding in Docket No. 56181, the Winter
+11           2027/2028 BESS Certification proceeding in Docket No. 56258, and the All-Source
+12           RFP and Supplemental Resources Certification proceeding in Docket Nos. 56298
+13           and 56310. I most recently testified in the CARES 2023 Utility Scale Renewable
+14           PPA Supplemental Certification proceeding in Docket No. 56181 and the CARES
+15           2025 Certification proceeding in Docket No. 57154.
+
+16   Q.      WHAT IS THE PURPOSE OF THE PANEL’S TESTIMONY?
+
+17   A.      Our testimony explains Georgia Power’s Real Time Pricing (“RTP”) Revenue
+18           Credit and Allocation Methodology, consistent with the Commission’s Order
+19           Adopting Stipulation in the Company’s FCR-27 Application, Docket No. 56765,
+20           and as agreed to by the Company, Public Interest Advocacy Staff (“PIA Staff”) and
+21           the Stipulating Parties.1
+
+22   Q.      PLEASE SUMMARIZE YOUR DIRECT TESTIMONY.
+
+23   A.      Our direct testimony provides a brief overview of Georgia Power’s RTP rates,
+24           including the key components, before introducing the Company’s RTP revenue
+
+
+     1
+      The FCR-27 Stipulation was filed on May 12, 2026, and was subsequently updated to include the Georgia
+     Association of Manufacturers, Resource Supply Management, and MARTA as Stipulating Parties.
+
+                     Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                    On behalf of Georgia Power Company
+                                              Docket No. 57171
+                                                 Page 5 of 18
+
+ 1        credit methodology. We detail the relevant history and updates pertinent to the
+ 2        current RTP fuel accounting methodology. Our testimony next explains how
+ 3        certain revenues are recorded between fuel and base, and the appropriateness of
+ 4        that framework. Finally, we address concerns raised by PIA Staff and other
+ 5        intervenors during the FCR-27 proceeding and the July 28, 2026, RTP Technical
+ 6        Conference related to firm transportation (“FT”) and non-dispatchable purchase
+ 7        power agreements (“PPAs”) and identify potential modifications to the fuel credit
+ 8        methodology.
+
+ 9   Q.   HOW IS YOUR TESTIMONY ORGANIZED?
+
+10   A.   Our testimony is organized as follows:
+
+11           •   Section II provides an introduction and overview of the Company’s RTP
+12               rates;
+13           •   Section III discusses the history and relevant changes to the RTP rates and
+14               fuel accounting methodology; and
+15           •   Section IV explains the Company’s current RTP fuel revenue credit
+16               methodology and discusses potential modifications.
+
+17                          II.     OVERVIEW OF RTP RATES
+
+18   Q.   WHAT IS THE PHILOSOPHY AND INTENT OF RTP RATES?
+
+19   A.   RTP rates are a collection of tariffs that provide eligible customers the option to
+20        take on price risk in exchange for potential cost savings. The Company provides
+21        participating customers an hourly price that reflects its expectation of the marginal
+22        cost of electricity. Since electricity cannot be stored to a sufficient degree, during
+23        some constrained periods, prices can reach extremely high levels. Customers can
+24        make economic decisions with their business operations and choose to buy or
+25        reduce consumption during these periods. RTP is not intended to instantaneously
+26        capture the average or total cost of an RTP customer’s load in its entirety. Rather,
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 6 of 18
+
+ 1          the intent of RTP is to represent the marginal cost of making marginal changes in
+ 2          demand.
+
+ 3          Any revenue collected from incremental load in excess of the total marginal cost to
+ 4          serve that load will benefit the existing customer base. The total marginal cost to
+ 5          serve incremental load can be reliably and accurately calculated using the cost of
+ 6          peaking capacity, priced against demand during peak periods, and the marginal
+ 7          production cost of the system in all hours. This analytical approach is known as the
+ 8          peaker methodology, which represents the total capacity and energy cost to serve
+ 9          demand from an optimal resource mix and provides a proper basis for the
+10          Company’s RTP rates.
+
+11   Q.     PLEASE DESCRIBE GEORGIA POWER’S RTP RATES.
+
+12   A.     Georgia Power’s RTP tariffs are two-part rate structures that blend standard
+13          embedded rates with a marginal cost-based rate.2 The standard embedded rate is
+14          applied to the Customer Baseline Load (“CBL”), while the RTP rate is assessed to
+15          incremental load and reflects hourly marginal costs. The standard embedded rate
+16          collects variable and fixed costs incurred by the Company while the RTP rate
+17          represents the costs that change alongside variations in load. Figure 1 below
+18          provides an illustration of the two-part RTP structure:
+
+
+     2
+      Georgia Power’s RTP rates include RTP Day Ahead (“RTP-DA”), RTP Hour Ahead (“RTP-HA”) Time of
+     Use – Supplier Choice – Monthly Access Charge (“TOU-SC MAC”), and Electric Arc Furnace (“EAF”).
+
+                    Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                   On behalf of Georgia Power Company
+                                             Docket No. 57171
+                                                Page 7 of 18
+
+ 1                                      Figure 1: RTP Structure
+
+
+ 2        Because RTP rates are derived from marginal costs, they send economically
+ 3        efficient price signals to participating customers—encouraging usage when the
+ 4        marginal unit cost is lower and discouraging usage when that cost increases. These
+ 5        price signals are provided to participating customers either daily under the RTP-
+ 6        DA tariff or hourly under the RTP-HA tariff.
+
+ 7   Q.   WHO IS ELIGIBLE TO PARTICIPATE IN RTP?
+
+ 8   A.   The Company’s RTP tariffs are available to commercial and industrial customers
+ 9        with a minimum demand of 250 kilowatts (“kW”) (RTP-DA) or 5 megawatts
+10        (“MW”) (RTP-HA). Currently, there are approximately 2,300 customers on RTP-
+11        DA and 170 on RTP-HA.
+
+12   Q.   WHAT ARE THE COMPONENTS OF THE RTP RATE?
+
+13   A.   The five components of the RTP rate are:
+14        (1) Lambda – the marginal cost of the last system resource used to serve the last
+15           increment of system load. Lambda is the largest component in RTP prices,
+16           amounting to 75-80% of the average annual RTP price and is found in the price
+17           every hour of the year. This is the component of RTP from which fuel revenues
+18           are extracted and thus the component most relevant to this docket.
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 8 of 18
+
+ 1        (2) Losses (RTP-DA Only) – the physical electric losses incurred between the bulk
+ 2           transmission system and the customer.
+ 3        (3) Recovery Factor – accounts for the Company’s forecasting risk since RTP
+ 4           prices are based on a forecasted marginal cost and are not trued-up. It provides
+ 5           a contribution to other fixed costs above marginal cost.
+ 6        (4) Transmission Cost – reflects the marginal transmission capital costs. The
+ 7           transmission cost is designed to trigger in approximately 300 hours in a normal
+ 8           weather year and corresponds to periods when system loads approach the
+ 9           forecasted annual peak load. It also includes a temperature element that reflects
+10           the load carrying capability of the transmission system.
+11        (5) Reliability Capacity Cost – reflects the marginal value of generation capacity.
+12           This component is designed to trigger in approximately 50 hours of a weather
+13           normal year and corresponds to periods when system load approaches the
+14           forecasted annual peak load.
+
+15   Q.   HOW DO THE COMPANY’S RTP RATES SEND PRICE SIGNALS TO
+16        PARTICIPATING CUSTOMERS?
+
+17   A.   Hourly price signals are accessible to participating customers through the
+18        Company’s EnergyDirect tool. For RTP-DA customers, RTP prices are posted by
+19        4:00 pm every day for the next day. For RTP-HA customers, prices are posted every
+20        hour for the next hour.
+
+21   Q.   WHAT ARE THE BENEFITS OF THE COMPANY’S RTP RATES?
+
+22   A.   RTP rates enable customers to use electricity efficiently and economically by
+23        providing a price signal that reflects the marginal cost of producing or reducing
+24        energy. Customers may increase usage when it is least costly to produce and
+25        respond to high prices by reducing load during peak periods. This load response is
+26        incorporated into the Company’s planning process through a combination of a
+27        reduction to forecasted load and a demand side option. To the extent customers do
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 9 of 18
+
+ 1        not adjust their usage based on the price signals communicated, they always face a
+ 2        price reflecting the hourly marginal cost.
+
+ 3        Access to marginal cost-based rates makes RTP a driver of new economic activity
+ 4        and has been an important tool in attracting incremental load to the state.
+ 5        Importantly, as new projects are evaluated, the Company ensures that the expected
+ 6        revenues more than cover the incremental costs to serve new load. Revenues in
+ 7        excess of the incremental cost put downward pressure on rates for all customers.
+
+ 8         III.     HISTORY OF RTP AND THE REVENUE FUEL CREDIT
+ 9                                METHODOLOGY
+
+10   Q.   WHEN WERE THE RTP RATES INTRODUCED?
+
+11   A.   The Company began offering RTP rates when the Commission approved Georgia
+12        Power’s experimental Real Time Pricing Tariff, Rate Schedule RTP-X, to operate
+13        as a two-year pilot program on June 19, 1992. RTP rates became a permanent rate
+14        offering in July 1994 when the Commission approved Georgia Power’s Real Time
+15        Pricing-Day Ahead Tariff, Rate Schedule RTP-DA-1.
+
+16   Q.   WHEN WERE THE RTP OFFERINGS MODIFIED TO EMPLOY THE
+17        CURRENT RTP FUEL CREDIT METHODOLOGY?
+
+18   A.   The Company’s RTP offerings were modified in the 2010 base rate case to employ
+19        the current accounting methodology for crediting the FCR account from RTP
+20        revenue. Prior to that, the standard FCR rate was used to divide RTP revenues
+21        between fuel and base.
+
+22   Q.   WHAT CHANGE DID THE COMMISSION APPROVE TO THE RTP
+23        FUEL CREDIT METHODOLOGY AT THAT TIME?
+
+24   A.   In the 2010 rate case, the Commission approved Georgia Power’s proposal to
+25        record RTP fuel revenues based on the average marginal replacement fuel costs
+26        (rather than the embedded FCR rate) on an hourly basis. This method appropriately
+
+
+                  Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                 On behalf of Georgia Power Company
+                                           Docket No. 57171
+                                              Page 10 of 18
+
+ 1        records more RTP revenues to fuel when marginal fuel prices are high and less
+ 2        when they are low, which mirrors the concepts behind the RTP rates and better
+ 3        tracks the RTP revenues collected with the marginal fuel costs being incurred.
+ 4        Notably, the implementation of this revised accounting method did not affect the
+ 5        RTP prices paid by customers but rather more appropriately records the revenues
+ 6        received from RTP customers between fuel and base.
+
+ 7   Q.   WHY DID THE COMPANY PROPOSE THIS CHANGE?
+
+ 8   A.   The Company proposed this accounting change to the RTP fuel credit methodology
+ 9        (1) in response to fuel prices becoming increasingly volatile, growing fuel balance
+10        over/under-recoveries and extended amortization periods; (2) to better mirror the
+11        overall RTP rate; and (3) to more quickly reflect changes in fuel costs incurred by
+12        the Company. As discussed above, the intent of the RTP rate has always been to
+13        assess the marginal cost associated with marginal changes in demand. It makes
+14        sense that the amount recorded to fuel would reflect the same philosophy and intent.
+
+15        The revised methodology aligns fuel revenues and expenses especially during
+16        periods of fuel price volatility. The RTP hourly price can vary significantly
+17        depending on marginal replacement fuel costs while the FCR rate remains constant,
+18        which can create deviations between costs incurred and amounts credited to the fuel
+19        and base accounts. By relying on a fixed rate to record RTP revenues to the fuel
+20        account, the previous accounting method did not credit the proper amounts of fuel
+21        revenues in the same period in which those costs were incurred.
+
+22   Q.   DID THIS CHANGE IN METHODOLOGY AFFECT RTP PRICES?
+
+23   A.   No. The RTP fuel credit methodology change in 2010 did not impact RTP prices.
+24        This accounting change only affected how RTP revenues were recorded as between
+25        fuel and base.
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 11 of 18
+
+ 1   Q.    DID THIS CHANGE IN FUEL CREDIT METHODOLOGY HAVE AN
+ 2         IMPACT ON BASE RATES?
+
+ 3   A.    Yes. Because the change in methodology altered how RTP revenues were divided
+ 4         between fuel and base, more revenues were estimated to be included in base rates
+ 5         in 2011. As an indicator of the impact of the accounting methodology change, the
+ 6         base revenue contribution forecasted in 2011 increased by 45 million dollars, which
+ 7         had the effect of lowering the overall revenue requirement increase by the same
+ 8         amount.
+
+ 9   Q.    WOULD CHANGING THE METHODOLOGY FOLLOWING THIS
+10         INVESTIGATION CHANGE BASE RATE REVENUE?
+
+11   A.    Yes.
+
+12                    IV.      RTP FUEL CREDIT METHODOLOGY
+
+13   Current Methodology
+
+14   Q.    PLEASE       DESCRIBE          THE       CURRENT          RTP       FUEL     CREDIT
+15         METHODOLOGY.
+
+16   A.    For the incremental load priced at RTP, the revenues based on an average hourly
+17         marginal replacement fuel cost are recorded to the fuel account. This average hourly
+18         marginal replacement fuel cost is based on all Georgia Power generating units
+19         running in each hour plus Georgia Power’s share of pool sales or purchases. For
+20         the CBL portion of RTP customer load, fuel costs are billed and revenues are
+21         collected as applicable at the underlying FCR rate.
+
+
+                  Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                 On behalf of Georgia Power Company
+                                           Docket No. 57171
+                                              Page 12 of 18
+
+ 1   Q.   ARE ALL FUEL EXPENSES THAT ARE RECOVERED THROUGH THE
+ 2        FUEL      CLAUSE        CAPTURED           IN     THE      RTP      FUEL     CREDIT
+ 3        CALCULATION?
+
+ 4   A.   No. The RTP fuel credit is based on marginal replacement fuel costs as the RTP
+ 5        rate reflects the marginal cost of serving incremental load. This does not incorporate
+ 6        fixed fuel costs, which do not vary with changes in demand. Fixed fuel costs are
+ 7        costs that the Company will incur regardless of changes in RTP incremental load
+ 8        and thus cannot be increased or avoided through changes in load priced at RTP. A
+ 9        contribution to fixed costs is made through the capital substitution component as
+10        discussed further below.
+
+11   Q.   CAN YOU GIVE EXAMPLES OF THESE FIXED COSTS?
+
+12   A.   Yes. In the FCR-27 docket, fixed fuel costs related to non-dispatchable PPAs,
+13        existing unit FT costs, and FT costs associated with new generation being added to
+14        serve large loads and organic growth were identified as examples of fuel expenses
+15        not included in the RTP fuel credit calculation.
+
+16   Q.   WHAT ARE NON-DISPATCHABLE PPAS?
+
+17   A.   Non-dispatchable PPAs are those contracts in which the Company has an obligation
+18        to pay for the output of the resource when energy is produced regardless of the
+19        system’s need or current cost position. These have also been referred to as take-or-
+20        pay contracts. These are distinguished from dispatchable PPAs in which the
+21        Company can control the output of the resource in response to changes in the
+22        marginal costs of the resource or load on the system. The Company’s renewable
+23        PPAs including solar, wind, and biomass are currently structured as non-
+24        dispatchable. The execution and certification of non-dispatchable PPAs and their
+25        associated costs are not driven by large load growth.
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 13 of 18
+
+ 1   Q.   WHAT COSTS ARE INCLUDED IN EXISTING FT?
+
+ 2   A.   Firm Transportation costs are monthly pipeline capacity reservation payments that
+ 3        ensure gas pipeline transportation availability to existing Georgia Power units
+ 4        during all periods. These costs do not include any variable pipeline transportation
+ 5        costs or commodity costs, which are dependent on delivery volume, priced on a
+ 6        volumetric basis, and captured in the marginal replacement fuel costs used in the
+ 7        RTP fuel credit.
+
+ 8   Q.   HOW IS THAT DIFFERENT FROM NEW FT COSTS?
+
+ 9   A.   New FT costs are those payments that Georgia Power incurs to ensure gas
+10        availability for new or future generation that is in the Company’s plans. The
+11        Company is distinguishing new FT from existing FT in recognition that the growth
+12        of large load customers is a primary driver of new FT costs and they may need to
+13        be treated differently. As with the non-dispatchable PPAs, existing FT costs are not
+14        driven by large load growth.
+
+15   Q.   IF THESE FIXED COSTS ARE NOT INCLUDED IN THE RTP FUEL
+16        CREDIT CALCULATION, DOES THAT MEAN THAT RTP CUSTOMERS
+17        ARE NOT CONTRIBUTING TO THESE FIXED COSTS?
+
+18   A.   No. The RTP price charged to incremental load in all hours has a component,
+19        lambda, which is the marginal cost of the marginal unit on the system. In nearly all
+20        hours, the marginal running cost is greater than the average running cost of the
+21        system, which means that in virtually all periods, RTP incremental load is
+22        contributing to fixed costs. The Company has referred to this as the capital
+23        substitution component. Further, the CBL portion of an RTP customer’s load
+24        captures the fully embedded base and FCR rate, which directly includes the fixed
+25        costs.
+
+
+                   Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                  On behalf of Georgia Power Company
+                                            Docket No. 57171
+                                               Page 14 of 18
+
+ 1   Q.    YOU     PREVIOUSLY           MENTIONED           A    CAPITAL        SUBSTITUTION
+ 2         COMPONENT, CAN YOU ELABORATE?
+
+ 3   A.    Yes. The difference between lambda and the recorded fuel revenue covers two
+ 4         pieces: generation variable O&M and capital substitution. The capital substitution
+ 5         contribution, which is applied to base rates, covers additional fixed costs above the
+ 6         reliability capacity cost associated with resources that support lower fuel costs,
+ 7         including capital costs for baseload or intermediate generation and FT.
+
+ 8   Q.    WHAT IS THE MAGNITUDE OF THAT CAPITAL SUBSTITUTION
+ 9         COMPONENT?
+
+10   A.    The amount will vary from year to year based on the spread between the marginal
+11         and average running costs of the system and the volume of load that is priced at
+12         RTP. The Company performed an analysis based on 2025 actual data and the capital
+13         substitution contribution for 2025 was $264 million.
+
+14   Review and Revision to Fuel Credit Methodology
+
+15   Q.    WHY IS THE COMMISSION REVIEWING THE COMPANY’S RTP FUEL
+16         CREDIT AND REVENUE ALLOCATION METHODOLOGY?
+
+17   A.    Over the past 16 years since the current RTP fuel credit methodology was
+18         established, the system has evolved in both the types of fuel expenses incurred and
+19         the magnitude of loads served through RTP offerings. In the FCR-27 proceeding,
+20         in light of the increase in large load customers served on Georgia Power’s RTP
+21         offerings and to ensure such customers pay their share of costs, PIA Staff and
+22         intervenors questioned whether the RTP revenues were appropriately allocated
+23         between fuel and base rates and recommended the Commission undertake an
+24         additional review of the RTP fuel credit and revenue allocation methodology. As
+25         demonstrated in the Stipulation ultimately approved in Docket No. 56765, the
+26         Company supported and agreed to this subsequent review.
+
+
+                  Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                 On behalf of Georgia Power Company
+                                           Docket No. 57171
+                                              Page 15 of 18
+
+ 1   Q.      DO LARGE LOAD CUSTOMERS PAY FOR THEIR COSTS?
+
+ 2   A.      Yes. Per the Company’s revised rules and regulations approved by the Commission
+ 3           in 2025,3 Georgia Power has committed to protect existing customers from bearing
+ 4           any of the costs of adding these large customers. The Company’s approach ensures
+ 5           not only that large load customers pay for their costs but also that all customers
+ 6           benefit from adding them to the system. As previously noted, when revenues
+ 7           exceed the incremental cost to serve, it creates downward pressure on rates for all
+ 8           other customers. These benefits enabled the Company to freeze base rates through
+ 9           2028 and ensure the incremental revenue from large load customers has downward
+10           pressure of at least $102 per year for the typical residential customer using an
+11           average of 1,000 kWh per month for years 2029, 2030, and 2031.
+
+12   Q.      IF LARGE LOAD CUSTOMERS PAY FOR THEIR COSTS, WHY IS THE
+13           RTP FUEL CREDIT METHODOLOGY BEING CHALLENGED?
+
+14   A.      The revenues Georgia Power receives from large load customers pay for the costs
+15           the Company incurs to serve them. The question raised in FCR-27 and continued
+16           in this proceeding is whether those RTP revenues are appropriately being divided
+17           between fuel and base.
+
+18   Q.      IS THE COMPANY PROPOSING ANY MODIFICATIONS TO ITS FUEL
+19           COST RECOVERY IN THIS PROCEEDING?
+
+20   A.      Yes. The Company proposes that the costs of new FT attributable to large load
+21           customers be fully recovered from those customers and not borne by non-large load
+22           customers in the FCR clause. Following the conclusion of the FCR-27 case, the
+23           Company reviewed its current RTP fuel credit methodology, conducted an RTP
+24           Technical Conference where it received feedback from PIA Staff and intervenors,
+
+
+     3
+       See Order Approving Revisions to Georgia Power Company’s Rules and Regulations, Docket No. 44280
+     (Jan. 28, 2025): Order on Georgia Power Company’s Revision to Rules and Regulations Tariff Compliance
+     Filing, Docket No. 44280 (Apr. 17, 2025).
+
+                     Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                    On behalf of Georgia Power Company
+                                              Docket No. 57171
+                                                 Page 16 of 18
+
+ 1        and determined that this modification was appropriate to align with the intent of the
+ 2        fuel credit methodology.
+
+ 3   Q.   WHAT MECHANISM WOULD THE COMPANY USE TO ALLOCATE
+ 4        THESE NEW FT COSTS?
+
+ 5   A.   In their FCR-27 testimony filed in Docket No. 56765, PIA Staff showed a 1-CP
+ 6        (coincident peak) allocation of FT costs. The Company agrees with this approach
+ 7        but proposes using a winter CP and basing the allocation on the share of organic
+ 8        versus large load demand growth. This approach is consistent with the capacity
+ 9        need that drove the incremental generation resources and the allocation in the large
+10        load cost model.
+
+11   Q.   WERE      THERE        OTHER        ITEMS       RAISED       DURING          THE    FCR
+12        PROCEEDING           AND      THE      TECHNICAL           CONFERENCE              THAT
+13        WARRANT FURTHER DISCUSSION?
+
+14   A.   Yes. PIA Staff and intervenors have expressed concern regarding the treatment of
+15        non-dispatchable PPAs in the RTP fuel credit calculation. Such a change to the
+16        treatment of non-dispatchable PPAs will impact the fuel allocation for all RTP
+17        incremental load, including non-large load commercial and industrial customers.
+
+18   Q.   DESCRIBE THE CURRENT TREATMENT OF NON-DISPATCHABLE
+19        PPAS IN THE RTP FUEL CREDIT CALCULATION.
+
+20   A.   As approved, the RTP fuel credit rate is derived from the marginal replacement fuel
+21        costs of all Georgia Power units. Although there are some units, such as the non-
+22        dispatchable PPAs, which do not have marginal replacement fuel costs, the output
+23        of those units is included in the denominator of the RTP fuel credit rate calculation.
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 17 of 18
+
+ 1   Q.   WHAT OPTIONS ARE AVAILABLE TO ADDRESS THEIR CONCERN?
+
+ 2   A.   There are two potential options to address their concern. The first option is to
+ 3        exclude both the costs and the output from non-dispatchable PPAs in the RTP fuel
+ 4        credit calculation. This is consistent with an approach that the RTP fuel credit
+ 5        should be derived from marginal replacement fuel costs. Removing non-
+ 6        dispatchable PPA output (MWh) from the denominator of the RTP fuel credit
+ 7        calculation will increase the RTP fuel credit rate and thus the recording of all RTP
+ 8        revenues to the fuel clause. However, this approach is not based on all Georgia
+ 9        Power generating units running, as originally approved. The second option is to
+10        include both the costs and the MWh from non-dispatchable PPAs in the RTP fuel
+11        credit calculation. This would break from the marginal fuel cost-based approach
+12        approved and in place since 2010 but also result in a larger allocation of RTP
+13        revenues to the fuel clause.
+
+14                                  V.       CONCLUSION
+
+15   Q.   DOES THIS CONCLUDE YOUR TESTIMONY?
+
+16   A.   Yes.
+
+
+                 Direct Testimony of Dr. Ross Beppler, Lee Evans, and Brandon Looney
+                                On behalf of Georgia Power Company
+                                          Docket No. 57171
+                                             Page 18 of 18

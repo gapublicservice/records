@@ -1,0 +1,67 @@
+===== DKT 56002 & 56003 STF-PIA-8 PD/DRSUM 56002 & 56003 STF-PIA-8 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      April 4, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-PIA-8
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-8
+2
+COMPLETE
+TRADE SECRET
+`
+
+===== DKT 56002 & 56003 STF-PIA-8 PD/STF-PIA-8 Verification.pdf =====
+
+
+===== DKT 56002 & 56003 STF-PIA-8 PD/STF-PIA-8-1.docx =====
+STF-PIA-8-1
+Question:
+Please refer to “Section 7.2: Modeling the Portfolio” of the Budget 2025 Load and Energy Forecast 2025 to 2044 of Technical Appendix Volume 1, which reads “The procedure described in Section 7.2.1 is repeated 100,000 times. Then, these 100,000 load iterations get ranked for each year in order to calculate load percentiles, which helps the Company to understand the load range and compare the likelihood of load outcomes for the portfolio.”
+a. Provide, with formulas intact and all data sources linked and included, the Excel workbooks used to implement the large load forecast model analysis.
+b. Describe, in detail, the process by which each load iteration gets ranked for each year.
+c. Provide the raw data depicting each of these load iterations including each of the three random numbers being drawn for success/failure, metered/announced ratio, and delay in COD for each iteration.
+Response:
+Please refer to “Budget 2025 Load Realization Model TRADE SECRET.xlsx” provided to Commission Staff on January 31, 2025, in the Technical Appendix Volume 1, Load and Energy Forecast, Forecast Models, Load Realization Model workpapers folder. Please note that for the Model tab in this spreadsheet to work properly, the @RISK Excel add-in must be installed.  
+Ranking of the 100,000 load iterations and calculation of load percentiles are performed by RiskPercentile() functions in Cell DO128 through ID128 and Cell DO132 through ID132 on the “Model” tab of the “Budget 2025 Load Realization Model TRADE SECRET.xlsx” workpaper.
+The 100,000 load iterations, including random numbers drawn for success/failure, metered/announced ratio, and delay, are handled by the @Risk add-on and not exported or stored.
+
+===== DKT 56002 & 56003 STF-PIA-8 PD/STF-PIA-8-2.docx =====
+STF-PIA-8-2
+Question:
+Please refer to “Section 7.3: Triangular Distribution” of Budget 2025 Load and Energy Forecast 2025 to 2044 of Technical Appendix Volume 1, where it reads, “In the case of metered versus announced uncertainty, a represents the minimum metered/announced ratio, b represents maximum metered/announced ratio and c represents the most likely metered/announced ratio.”
+a. Describe, in detail, how the Company calculated the least, most likely, and greatest metered-to-announced ratio for each customer class and segment. Provide any data, evidence, or analysis that the Company consulted in determining these values.
+b. Provide historical data over the past 10 years for large loads in Georgia, including projects that ultimately were not completed. For each anticipated large load, include announced load, announced date of service, actual date of service, and metered peak load by quarter.
+c. List all other probability distributions that the Company tested for the model described in Section 7. 
+Response:
+The least, most likely, and greatest metered-to-announced ratios were based on informed judgement by subject matter experts within the Company as historical data is still very limited.
+
+Historical data for large load projects started in Q4 2023 as large load projects had not been formally defined and tracked prior to the 2023 IRP Update.
+
+Announced load and announced date of service for anticipated large load projects as well as projects that ultimately were not completed can be found in STF-PIA-8-2 Attachments A-D TRADE SECRET, which include the Large Load Economic Development Reports for each quarter in 2024 as follows:
+
+Attachment
+Report
+STF-PIA-8-2 Attachment A TRADE SECRET
+Q1 2024 Large Load Economic Development Report
+STF-PIA-8-2 Attachment B TRADE SECRET
+Q2 2024 Large Load Economic Development Report
+STF-PIA-8-2 Attachment C TRADE SECRET
+Q3 2024 Large Load Economic Development Report
+STF-PIA-8-2 Attachment D TRADE SECRET
+Q4 2024 Large Load Economic Development Report
+
+For actual date of service and metered peak load by quarter of large load projects that are currently in service, please refer to STF-PIA-8-2 Attachment E TRADE SECRET. 
+
+Normal distribution and Lognormal distribution were considered for the model but eventually ruled out for reasons discussed in “Section 7.3: Triangular Distribution” of Budget 2025 Load and Energy Forecast in Technical Appendix Volume 1.

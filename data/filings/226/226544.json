@@ -1,0 +1,33 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 107825,
+      "bytes": 391019,
+      "name": "FCR-27 and SCR Stipulation (executed).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/226/226544/107825.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226544/107825"
+    },
+    {
+      "attachment_id": 107826,
+      "bytes": 214186,
+      "name": "56765 44280 FCR-27 SCR Stipulation Cover Letter.docx",
+      "text": "docx",
+      "text_file": "data/text/226/226544/107826.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226544/107826"
+    }
+  ],
+  "company": "Staff",
+  "description": "Stipulation Between Public Interest Advocacy Staff and Georgia Power Company",
+  "dockets": [
+    44280,
+    56765
+  ],
+  "document_id": 226544,
+  "filed_date": "2026-05-12",
+  "harvested": "2026-11-19",
+  "received_date": "2026-05-12",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=226544"
+}

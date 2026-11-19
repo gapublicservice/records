@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105077,
+      "bytes": 226467,
+      "name": "DN56298 DN56310 Proposed Fee Order.docx",
+      "text": "docx",
+      "text_file": "data/text/223/223791/105077.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223791/105077"
+    },
+    {
+      "attachment_id": 105078,
+      "bytes": 920628,
+      "name": "223791.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223791/105078"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ESTABLISHING FEE",
+  "dockets": [
+    56298,
+    56310
+  ],
+  "document_id": 223791,
+  "filed_date": "2025-08-22",
+  "harvested": "2026-11-19",
+  "received_date": "2025-08-22",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223791"
+}

@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 109738,
+      "bytes": 669301,
+      "name": "voltagrids_mot__to_dismiss_for_filing.zip",
+      "text": "zip (3 read, 1 not read)",
+      "text_file": "data/text/228/228806/109738.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228806/109738"
+    },
+    {
+      "attachment_id": 109743,
+      "bytes": 59948,
+      "name": "vg.Sallie Tanner filing Ltr - Motion to Dismiss.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228806/109743.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228806/109743"
+    }
+  ],
+  "company": "VoltaGrid, LLC",
+  "description": "VoltaGrid, LLC's Motion to Dismiss and Brief in Support (w/Exhibit)",
+  "dockets": [
+    57243
+  ],
+  "document_id": 228806,
+  "filed_date": "2026-09-16",
+  "harvested": "2026-11-19",
+  "received_date": "2026-09-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=228806"
+}

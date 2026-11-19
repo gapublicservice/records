@@ -1,0 +1,288 @@
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-3 PUBLIC DISCLOSURE.docx =====
+STF-JKA-8-3
+
+Question: 
+
+The Company provided BOS and Pool purchases for each hour in July 2025 in “STF-JKA-1-4 Attachment B Supplemental TRADE SECRET.xlsx”
+
+a. Please confirm that the Pool Purchase total provided for July 2025 is approximately $xxxxxx xxxxxx.
+b. Please confirm that the Pool Purchase total provided for July 2025 in STF-JKA-3-2 ATTACH A shows $xxxxxxxxxxxx for July.
+c. Please reconcile the difference between these values.
+
+Response:
+
+Confirmed.
+
+Confirmed.
+
+Please see STF-JKA-8-3 Attachment for reconciliation.
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-8 Attachment PUBLIC DISCLOSURE.docx =====
+PUBLIC DISCLOSURE
+
+
+STF-JKA-8-8 Attachment has been redacted in its entirety.
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-8.docx =====
+STF-JKA-8-8
+
+Question: 
+
+Provide a step-by-step description of the process used to translate the Aurora hourly forecast to RTP fuel credit for FCR-27 projection period.  Provide all intermediary workpapers used to make a determination of forecasted fuel revenues associated with RTP load.
+Response:
+
+The Company uses the Aurora production cost model hourly simulation results to forecast the Real Time Pricing (“RTP”) fuel credit rate for the projected test period. The process produces an hourly fuel credit rate ($/MWh) representing the average marginal replacement fuel cost credited to the fuel cost recovery (“FCR”) balance for each hour of the projection period.
+The methodology underlying this forecast is consistent with the RTP fuel credit methodology approved by the Commission in Docket No. 31958 (Georgia Power’s 2010 Base Rate Case), which credits the fuel account at the average hourly marginal replacement fuel cost based on all Georgia Power generating units running in each hour plus power pool purchases or deliveries in each hour.
+RTP Fuel Credit Formula
+The RTP fuel credit rate is calculated as follows:
+
+This is estimated using Aurora outputs with the following formula:
+
+Fuel Credit  =  
+Total Fuel Cost  +  Total Emission Cost  +  (Market Sales + Market Purchases) × BOS Lambda
+
+Total Resource Output  +  Market Sales  +  Market Purchases
+Where:
+Total Fuel Cost = sum of hourly fuel costs ($) for all GPC portfolio resources from the Aurora hourly simulation
+Total Emission Cost = sum of hourly emission costs ($) for all GPC portfolio resources from the Aurora hourly simulation
+Market Sales = hourly pool/market sales (MWh) from the Aurora hourly simulation for the GPC portfolio
+Market Purchases = hourly pool/market purchases (MWh) from the Aurora hourly simulation for the GPC portfolio
+Resource Output = total hourly GPC resource output (MWh) from the Aurora hourly simulation
+BOS Lambda = the final bottom-of-stack system lambda ($/MWh) from the same Aurora simulation case, representing the marginal cost of the last unit dispatched to serve system load (excluding off-system sales)
+
+The RTP Fuel Credit components are matched with the forecast formula as follows:
+GPC BOS unit cost = Total Fuel Cost + Total Emission Cost
+Pool Purchases = Market Purchases (MWh)
+Pool Sales = Market Sales (MWh)
+Generation = Resource Output
+Market components (MWh) are multiplied by BOS lambda ($/MWh) to estimate the cost in the numerator.
+
+Step-by-Step Process:
+Step 1: Identify the Aurora Simulation Case
+The RTP fuel credit forecast for the FCR-27 projected test period uses the approved 2026 Energy Budget (“EBUD”) Aurora hourly simulation case. This is the same Aurora simulation used to develop the system lambdas, generation dispatch, fuel costs, and other components of the FCR-27 filing.
+Step 2: Extract Hourly Generation and Cost Data from Aurora
+A SQL query is executed against the Aurora hourly results database to extract the data elements required for the fuel credit calculation. The query joins two Aurora output tables — PortfolioResourcesHour1 (which contains hourly fuel and emission costs by resource) and PortfolioSummaryHour1 (which contains hourly market sales, market purchases, and total resource output) — filtered to the GPC portfolio.
+The SQL query text is:
+Select PortfolioResourcesHour1.Time_Period,   PortfolioResourcesHour1.Portfolio_Name,   Sum(PortfolioResourcesHour1.Total_Fuel_Cost) * 1000 As Total_Fuel_Cost,   Sum(PortfolioResourcesHour1.Total_Emission_Cost) * 1000 As Total_Emission_Cost,   PortfolioSummaryHour1.Time_Period, PortfolioSummaryHour1.Portfolio_Name,   PortfolioSummaryHour1.Market_Sales_Output_Total,   PortfolioSummaryHour1.Market_Purchases_Output_Total,   PortfolioSummaryHour1.Resource_Output_Total From PortfolioResourcesHour1 Inner Join PortfolioSummaryHour1 On   PortfolioResourcesHour1.Time_Period = PortfolioSummaryHour1.Time_Period Where PortfolioSummaryHour1.Portfolio_Name = 'GPC' And   PortfolioResourcesHour1.Portfolio_Name = 'GPC' Group By PortfolioResourcesHour1.Time_Period,   PortfolioResourcesHour1.Portfolio_Name, PortfolioSummaryHour1.Time_Period,   PortfolioSummaryHour1.Portfolio_Name,   PortfolioSummaryHour1.Market_Sales_Output_Total,   PortfolioSummaryHour1.Market_Purchases_Output_Total,   PortfolioSummaryHour1.Resource_Output_Total
+The query returns one row per hour with the following fields:
+Field
+Description
+Units
+Time_Period
+Hour identifier (e.g., 2026_01_01 Hr 01)
+—
+Total_Fuel_Cost
+Sum of fuel costs for all GPC resources in the hour
+$
+Total_Emission_Cost
+Sum of emission costs for all GPC resources in the hour
+$
+Market_Sales_Output_Total
+GPC market/pool sales in the hour
+MWh
+Market_Purchases_Output_Total
+GPC market/pool purchases in the hour
+MWh
+Resource_Output_Total
+Total GPC resource output in the hour
+MWh
+ 
+Step 3: Obtain Final BOS Lambdas
+The BOS (bottom-of-stack) lambdas used in the fuel credit calculation are the final BOS lambdas produced from the same Energy Budget Aurora run. These hourly values represent the system marginal cost and are used in the formula to value market sales and purchases at their marginal cost contribution.
+These are the same BOS lambdas used in the RTP price forecast for development of FCR-27 budget.
+Step 4: Populate the Fuel Credit Calculation Workbook
+The calculation workbook, provided as STF-JKA-8-8 Attachment, contains the following worksheets:
+Worksheet
+Contents
+_Query_Fuel Credit Calc
+Raw Aurora query results (pasted from CSV export)
+BOS Lambda
+10 years of hourly BOS lambdas from the source file
+Total_Fuel_Cost
+Hourly fuel costs parsed from query data
+Total_Emission_Cost
+Hourly emission costs parsed from query data
+Market_Sales_Output_Total
+Hourly market sales (MWh) parsed from query data
+Market_Purchases_Output_Total
+Hourly market purchases (MWh) parsed from query data
+Resource_Output_Total
+Hourly resource output (MWh) parsed from query data
+Fuel Credit – CPT
+Calculated hourly fuel credit rate ($/MWh) in Central Prevailing Time
+Fuel Credit – EPT
+Fuel credit rate converted to Eastern Prevailing Time
+ 
+The workbook is populated as follows:
+The sorted Aurora query results (from Step 2) are pasted into the _Query_Fuel Credit Calc worksheet.
+The workbook formulas automatically parse the query data into the individual component worksheets (Total_Fuel_Cost, Total_Emission_Cost, Market_Sales_Output_Total, Market_Purchases_Output_Total, Resource_Output_Total).
+The 10 years of final adjusted BOS lambdas (from Step 3) are copied as values into the BOS Lambda worksheet.
+The Fuel Credit – CPT worksheet automatically calculates the hourly fuel credit rate using the formula described above.
+The Fuel Credit – EPT worksheet converts the CPT results to Eastern Prevailing Time by applying the appropriate one-hour time shift to align with Georgia Power's billing time convention.
+Step 5: Derivation of RTP Fuel Revenues
+The hourly RTP fuel credit rates, in conjunction with projected RTP load (MWh), are used to determine the total forecasted RTP fuel revenues credited to the FCR balance for the projected test period.
+Monthly RTP Fuel Revenue ($) = Monthly Average Fuel Credit Rate ($/MWh) × Monthly RTP Incremental Load (MWh) x Loss Expansion Factor
+The monthly and annual totals of these forecasted fuel revenues are incorporated into the FCR-27 Budget filed by the Company in MFRP-1.
+Intermediary Workpapers
+Attachment STF-JKA-8-8 provides the intermediary workpapers that were used in the determination of forecasted fuel revenues associated with RTP load for the FCR-27 projected period.
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-7.docx =====
+STF-JKA-8-7
+
+Question:
+
+For the historic period and projected period provide the Company’s fuel revenues by hour broken down into the following components:
+
+RTP-DA
+RTP-HA
+FCR-TOU
+FCR
+Total GPC Fuel Revenues
+
+To the extent that the MWhs from Q5 above and the Revenues provided in response to this Q6 do not reconcile, please provide all components required on an energy or revenues basis to reconcile.
+
+
+Response:
+
+The incremental RTP-DA fuel revenues are provided in STF-JKA-8-7 Attachment. The hourly values are derived by multiplying the RTP-DA incremental load (kWh) by the RTP fuel credit for the respective service level (secondary, primary, or transmission) to arrive at the incremental RTP-DA fuel revenues by service level on an hourly basis. The total RTP-DA fuel revenues by hour are located in Column T in the attachment. As previously mentioned, incremental RTP fuel revenues are recorded in the Company’s general ledger based on an as billed basis and therefore, the total incremental RTP fuel revenues by hour for a given month in this response will not match the monthly accounting basis provided in the Company’s response to STF-JKA-3-4.  
+
+Projected incremental RTP-DA fuel revenues are not available on an hourly basis and are calculated on a monthly basis. The projected incremental RTP-DA fuel revenues by month are provided in the Company’s response to STF-JKA-3-1.  
+
+The incremental RTP-HA fuel revenues are provided in STF-JKA-8-7 Attachment. The hourly values are derived by multiplying the RTP-HA incremental load (kWh) by the RTP fuel credit for the respective service level (secondary, primary, or transmission) to arrive at the incremental RTP-HA fuel revenues by service level on an hourly basis. The total RTP-HA fuel revenues by hour are located in Column T in the attachment. As previously mentioned, incremental RTP fuel revenues are recorded in the Company’s general ledger based on an as billed basis and therefore, the total incremental RTP fuel revenues by hour for a given month in this response will not match the monthly accounting basis provided in the Company’s response to STF-JKA-3-4. 
+
+Projected incremental RTP-HA fuel revenues are not available on an hourly basis and are calculated on a monthly basis.  The projected incremental RTP-HA fuel revenues by month are provided in the Company’s response to STF-JKA-3-1.  
+
+The Company’s fuel revenues are not broken down hourly by fuel tariff.
+
+The Company’s fuel revenues are not broken down hourly by fuel tariff.
+
+Total GPC fuel revenues are recorded in the Company’s general ledger on a monthly basis and therefore, not available on an hourly basis.  
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-1 Attachment PUBLIC DISCLOSURE.docx =====
+PUBLIC DISCLOSURE
+
+
+STF-JKA-8-1 Attachment has been redacted in its entirety.
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-6.docx =====
+STF-JKA-8-6
+
+Question:
+
+For the historic period and projected period provide the Company’s load forecast (MW), by hour broken down into the following components:
+
+RTP-DA
+RTP-HA
+FCR-TOU
+FCR
+Total GPC Load
+Other
+
+
+Response:
+
+Please see the Company’s response to STF-JKA-3-8 for RTP-DA actual incremental loads over the historical period. The Company does not have an hourly forecast broken out by RTP-DA. Please see STF-JKA-8-6 Attachment A for the monthly incremental RTP-DA load forecast. 
+
+Please see the Company’s response to STF-JKA-3-8 for RTP-HA actual incremental loads over the historical period. The Company does not have an hourly forecast broken out by RTP-HA. Please see STF-JKA-8-6 Attachment A for the monthly incremental RTP-HA load forecast.  
+
+The Company’s load forecast is not broken down hourly by fuel tariff. 
+
+The Company’s load forecast is not broken down hourly by fuel tariff.
+
+Please see STF-JKA-8-6 Attachment B for the hourly Georgia Power retail load for the historical period. Please see STF-JKA-8-6 Attachment C for the Company's hourly retail load forecast for the projected period. 
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-2 PUBLIC DISCLOSURE.docx =====
+STF-JKA-8-2
+
+Question: 
+
+The following seeks data that will be used to compare the system average supply rate and the RTP fuel credit rate on an hourly basis for 744 hours in July 2025.
+
+a. See the attached template spreadsheet, Tab = “Template A Supply v RTP.” Please provide the hourly Supply Cost, MWHs, and $/MWH, and the hourly RTP Cost, MWHs and $/MWHs as indicated in columns F through K for each hour in July 2025. Note in supplying this data, ensure that the total supply cost for July 2025 reconciles to the total in MFRH-2 TS.xlsx without hedging or adjustments, which equals xxxxxxxxxxxx, and the total RTP credit ($) for the month should reconcile to the total provided in STF-JKA-3-4 ATTACHMENT, which equals xxxxxxxxxx.
+b. See the attached spreadsheet, Tab = “B1 – Supply Breakdown.” For each hour of July 2025, provide a breakdown of the supply cost components and the MWh components. Provide the values by components as shown in columns E through AJ for costs and columns AK through BP for MWHs. Also, see the note about the treatment of the Firm Transportation costs.
+c. See the attached spreadsheet, Tab = “B2 – RTP Credit.” For each hour of July 2025, provide a breakdown of the RTP fuel credit cost (BOS + Pool) components and the MWh components used to derive the RTP credit rate. Provide the values by components as shown in columns E through AJ for costs and columns AK through BP for MWHs, matching the same categories as used for the supply costs, but adjusting and leaving blank and components that are not relevant for comparison purposes. Staff has included July 28, 2025, hour 17 as example, requesting the BOS, Pool Purchase, and Pool Sale $ and MWh be derived and reconciled to match.
+Response:
+
+Total Supply Cost provided in MFRH-2, which represents the monthly fuel costs recorded in the Company’s general ledger, is not available on an hourly basis as the Company does not record or calculate its actual fuel expenses on an hourly basis. Hourly data is only available on the basis of replacement fuel costs. The hourly RTP fuel credit is provided for 
+
+
+July 2025 in the Company’s response to STF-JKA-8-1. While the RTP fuel revenues are calculated on an hourly basis, the revenues are recorded in the Company’s general ledger based on an as billed basis and therefore, will not match the monthly accounting basis provided in the Company’s response to STF-JKA-3-4.  
+
+Please see the Company’s response to STF-JKA-8-1. Hourly replacement fuel cost provided in STF-JKA-8-1 will not tie to MFRH-2, which contains actual fuel expenses, including FT costs, recorded on a contracted (embedded) cost that is only available on a monthly basis as explained in the response to subpart (a) above. Please see MFRH-12 for the monthly accounting of FT costs by plant.
+
+Please see the Company’s response to STF-JKA-8-1. 
+ 
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8 Affidavit.pdf =====
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-1.docx =====
+STF-JKA-8-1
+
+Question:
+
+Refer to the Joint Stipulation filed in this docket. See paragraph 6 which states that “the Company shall provide Commission Staff, within 45 days of the date of the order adopting this Stipulation, complete hourly RTP generation and dispatch data including cost and energy (MWhs) for the historical period…”  Please provide a sample of the data and format for July 2025 with the data provided in csv or database format, such that all the data is provided with consistent unique identifiers for date/hour and unique identifiers for all provided cost and generation data by unit or load group.  Provide a complete index or description of all short-hand naming conventions or database entries to the extent such are required to decode the provided data.
+
+Response:
+
+Please see STF-JKA-8-1 Attachment. 
+
+The ‘Term descriptions’ tab provides a glossary of terms and labels used throughout the attachment. 
+
+The ‘Resources’ tab provides an index of how each resource is treated for the RTP fuel credit calculation. The default treatment for a given resource is to include fuel and emissions costs in the calculation. The resources identified as “Composite Cost” are dispatchable PPAs for which full variable dispatch costs, including variable operations and maintenance costs and fuel handling, are included in the calculation. The resources identified as “Zero Marginal Replacement Fuel Cost” are non-dispatchable PPAs, which are included at zero cost in the calculation. 
+
+The ‘Details’ tab provides generation and cost data for each resource by unit by hour. 
+
+The ‘Hourly Summary’ tab provides a summary of total generation and cost data for each hour. Rows 1-6 provide two examples (hours) tying the details to the hourly summary. 
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-5 PUBLIC DISCLOSURE.docx =====
+STF-JKA-8-5
+
+Question: 
+
+Refer to the Company’s response to STF-JKA-3-5 with the hourly derived RTP-DA and RTP-HA rates.
+a. For each hour with an RTP-HA reliability charge, please provide the derivation of the annual capacity cost and the scaler used to determine the assessed rate.
+b. For example, refer to RTP-HA price for 6/29/2023 HE 16 and HE 17 with RTP-HA price xxxxxxxc/kWh and xxxxxxxc/kWh respectively. Please provide the underlying cost of capacity and the methodology used to determine the rate assessed.
+c. For example, refer to RTP-DA price for 6/29/2023 HE 16 and HE 17 with RTP-DA price xxxxxxx/kWh and xxxxxxxc/kWh respectively. Please provide the underlying cost of capacity and the methodology used to determine the rate assessed.
+
+Response:
+
+Please see STF-JKA-8-5 Attachment.
+
+Please see STF-JKA-8-5 Attachment. The values provided in the question are not the RTP-HA prices but are the reliability component prices included in the RTP-HA prices.
+
+Please see STF-JKA-8-5 Attachment. The values provided in the question are not the RTP-DA prices but are the reliability component prices included in the RTP-DA prices. In addition, the HE 16 value provided in the question is incorrect. The correct value of xxxxxxxxx is available in Cell F4319 in the tab labeled ‘2023 RTP-DA’ in STF-JKA-8-5 Attachment.
+
+
+===== DKT 56765 STF-JKA-8 PD/STF-JKA-8-4.docx =====
+STF-JKA-8-4
+
+Question: 
+
+Refer to the Company’s response to STF-JKA-6-1.  For each unit, the Company has marked “YES/NO” for Setting BOS Lambda, and “YES/NO” for being Dispatchable with Marginal Replacement Fuel Costs.  This creates 4 categories of costs as summarized below.  For each category, provide a description of the resource types included in the category and explain if those units are averaged in the RTP fuel credit methodology.
+Can Set BOS Lamda = YES, Dispatchable with Marginal Replacement Fuel Costs = NO.  These appear to be solar PPAs. What other categories are included?
+Can Set BOS Lamda = NO, Dispatchable with Marginal Replacement Fuel Costs = YES.  These are nuclear and hydro units. What other categories are included?
+Can Set BOS Lamda = YES, Dispatchable with Marginal Replacement Fuel Costs = YES.  These are traditional fossil generation units (CT, CCs, Steam). What other categories are included?
+Can Set BOS Lamda = NO, Dispatchable with Marginal Replacement Fuel Costs = NO.  These include both 3rd party PPAs as well as some Company owned solar/BESS Projects. What categories are included?  
+Please confirm one category includes company owned resources with small to no marginal replacement fuel costs (Solar).  Why does the Company believe these are not dispatchable? 
+Please confirm the other category is third party PPAs, that have a fixed take-or-pay contract structure and every delivered MWh would have an imputed average $/MWh cost. Couldn’t the Company consider these costs in the RTP fuel credit methodology? 
+
+Response:
+
+The inclusion of costs of resources in the RTP fuel credit methodology is not determined by the resource type, but rather based on the dispatchability and fuel cost structure of the unit. For non-Company-owned resources, the contract or offtake arrangement dictates the determination of dispatchability and fuel costing. 
+
+Non-dispatchable PPAs. 
+
+Resources for which Georgia Power retains all the output as part of the Intercompany Interchange Contract (“IIC”) and pool settlement calculations. 
+
+Dispatchable resources with marginal replacement fuel costs. 
+
+Energy Only Qualifying Facilities (“QFs”) and Proxy QFs which are contractually entitled to deliver the entire energy output from the facility when operating.
+
+There is no marginal replacement fuel cost for these resources. They are not dispatchable as the Company cannot dictate when the facility produces power (for example, they cannot produce energy at night). 
+Under the Commission approved methodology, only marginal replacement fuel costs are included in the RTP fuel credit. As such, the Company cannot include other costs under the current methodology.

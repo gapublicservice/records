@@ -1,0 +1,1175 @@
+BEFORE THE 
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In Re:
+GEORGIA POWER COMPANY’S)Docket No. 56298
+APPLICATION FOR THE CERTIFICATION)
+OF CAPACITY FROM THE 2029-2031)
+ALL-SOURCE RFP)
+
+Georgia Power Company’s)Docket No. 56310
+APPLICATION FOR THE CERTIFICATION, )
+OF CAPACITY SUPPLEMENTAL RESOURCES)
+
+
+PUBLIC DISCLOSURE
+
+DIRECT TESTIMONY AND EXHIBITS
+
+OF
+
+ROBERT L. TROKEY
+
+DYLAN A. DRUGAN
+
+AND
+
+KARAN A. POL
+
+
+ON BEHALF OF THE 
+
+GEORGIA PUBLIC SERVICE COMMISSION
+PUBLIC INTEREST ADVOCACY STAFF
+
+NOVEMBER 12, 2025
+
+
+TABLE OF CONTENTS
+
+I.Introduction1
+II.Summary of Findings, Conclusions, and Recommendations3
+III.Summary of Company Load Forecast8
+IV.The Company’s load forecast continues to decrease in the near-term12
+V.The LRM continues to materialize  significantly lower than forecasted by the Company.22
+VI.The B2026 load forecast uses incorrect load ramps for certain customers in the load realization model, over-estimating load growth.29
+VII.Load flexibility and contract revisions may further reduce the Company forecast29
+VIII.Multiple factors justify an adjustment to the B2026 load forecast32
+IX.Conclusions & Recommendations47
+
+
+Table of Tables
+Table 1: B2026 Adjusted Summer Peak Forecast (MW)11
+Table 2: Large Load Contribution to B2026 Projected Summer Peak (%)12
+Table 3: Near-Term Peak Forecast Comparison (MW)15
+Table 4: LRM Contributions to Near-Term Summer Coincident Peak Load Reductions  from the B2025 to B2026 Forecast (MW)16
+Table 5: Class Contributions to Long-Term Summer Coincident Peak Load Growth  from the B2025 to B2026 Forecast (MW)19
+Table 6: Expected vs. Actual Materialization of LRM, Test Year 2025, Adjustment Basis23
+Table 7: Segment Analysis of Reduced Materialization for Operating Projects vs. Expectations24
+Table 8: Reported Project Delays for Data Center Projects26
+Table 9: Reported Project Removals for Data Center Projects28
+Table 10: Adjustment Scenario Impact on B2026 Forecast34
+Table 11: LRM Implied Discount Factor36
+Table 12: P1 Variable Options42
+Table 13: LRM P1 Assumption Comparison43
+Table 14: LRM Materialization Assumptions44
+
+Table of Figures
+Figure 1: B2026 Peak Forecast Summary9
+Figure 2: Summer Peak Forecast Changes13
+Figure 3: Winter Peak Forecast Changes13
+Figure 4: Summer Peak Forecast, Near-Term Changes14
+Figure 5: Winter Peak Forecast, Near-Term Changes14
+Figure 6: Changes to Load Realization Model Pipeline, Announced Load Basis (MW)20
+Figure 7: Adjustment Scenario Impact on B2026 Forecast34
+Figure 8: Summer Peak Forecast Scenarios35
+Figure 9: Winter Peak Forecast Scenarios35
+Figure 10:  Comparison of Company Capacity Expansion Request to Staff Scenario 1 by Contract Status and Associated Customer Protections38
+
+Staff Exhibit #Description
+RLT-1Resume of Robert L. Trokey
+DD-1Resume of Dylan A. Drugan
+KAP-1Resume of Karan A. Pol
+Introduction
+Q.Mr. Trokey, please state your name, TITLE, and business address.
+A.My name is Robert L. Trokey. I am the Director of the Electric Section at the Georgia Public Service Commission (“Commission” or “GPSC”). My business address is 244 Washington St. SW, Atlanta, GA 30334. 
+Q.Please state your educational background and work experience.
+A.My background and experience are provided in Exhibit RLT-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION?
+A.Yes. I have testified in prior Integrated Resource Plan (“IRP”) dockets and Rate Cases, including Docket Nos. 44160 and 44280 in 2022, Docket No. 55378 regarding the 2023 IRP Update and the most recent IRP in Docket No. 56002. 
+Q.MR. Drugan, please state your name, TITLE, and business address.
+A.My name is Dylan A. Drugan. I am a Senior Consultant with Daymark Energy Advisors, Inc. My business address is 370 Main Street, Suite 325, Worcester, Massachusetts, 01608.
+Q.Please state your educational background and work experience.
+A.My background and experience are provided in Exhibit DAD-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION?
+A.Yes. I have testified before this Commission in Docket Nos. 56002 and 56003 regarding the 2025 IRP load forecast. Further testimony experience is provided in Exhibit DAD-1.
+Q.Mr. Pol, Please state your name, TITLE, and business address.
+A.My name is Karan A. Pol. I am an Energy Consultant with Daymark Energy Advisors, Inc. My business address is 370 Main Street, Suite 325, Worcester, Massachusetts, 01608.
+Q.Please state your educational background and work experience.
+A.My education and experience are provided in Exhibit KAP-1.
+Q.HAVE YOU EVER TESTIFIED BEFORE THIS COMMISSION or other Commissions?
+A.Yes. I have testified before this Commission before in Docket No. 55378 regarding the 2023 IRP Update load forecast as well as Docket Nos. 56002 and 56003 regarding the 2025 IRP load forecast. I have also testified before the Utah Public Service Commission. Please see Exhibit KAP-1 for further discussion of my testifying experience.
+Q.ON WHOSE BEHALF ARE YOU TESTIFYING?
+A.We are testifying on behalf of the GPSC Public Interest Advocacy Staff (“Staff”). 
+Q.Please summarize the purpose of your testimony.
+A.This testimony provides Staff’s evaluation of the Budget 2026 load forecast (“B2026”) produced by the Georgia Power Company (“Georgia Power” or “Company”) for the 2029-2031 All-Source Request for Proposals (“RFP”) Certification Proceeding. This testimony addresses Staff’s analysis of the Company’s methodology and results and provides Staff’s findings and recommendations.
+Summary of Findings, Conclusions, and Recommendations
+Q.please summarize your Findings and conclusions.
+A.To date, the large load forecast and the underlying Load Realization Model (“LRM”) have not materialized as expected. In the near term, large load projects continue to materialize lower than forecasted by the Company. This lower materialization is driven primarily by the Data Center segment via diminished load materialization and project cancellations. Absent further adjustments to the underlying assumptions in the LRM to account for these factors, the Company is likely to overestimate its load and over-procure capacity resources, which would result in unnecessary higher costs to existing ratepayers.
+Given these conclusions, Staff recommends that the Commission adopt Staff’s Scenario 1 load forecast described below. This scenario minimizes the amount of risk that existing ratepayers bear by limiting the large load forecast to only projects with executed contracts. While there is still risk associated with this scenario, as nearly XX% of the load in this scenario comes from projects that are not subject to the Company’s new, modified rules and regulations approved by the Commission, it offers a reasonable mitigation of this risk relative to the Company’s filing.
+If the Commission determines that Scenario 1 is not its preferred option, Staff identified an alternative scenario. Scenario 2 provides a higher level of large load (data center) growth, but moderates this growth based on a number of modifications to the underlying assumptions in the Company’s LRM. This scenario provides a higher level of risk relative to Scenario 1, but offers a significantly lower level of risk than that presented in the Company’s B2026 base case.
+
+Q. WHAT PORTION OF THE COMPANY’S CERTIFICATION REQUEST IS BACKED BY EXECUTED CONTRACTS? 
+A. The majority of the new generation Georgia Power seeks to certify—approximately X %—is not backed by executed contracts under the new large load framework. Only about 1,900 MW is supported by such contracts. The rest is speculative and exposes customers to the risk of stranded costs if the anticipated load does not materialize.
+Q. DOES THE FRAMEWORK FOR NEW LARGE LOAD CUSTOMERS APPLY TO ALL LARGE LOAD FOR WHICH GEORGIA POWER IS REQUESTING TO SERVE? 
+A. Unfortunately, no. The framework and customer protections in it apply to only a small fraction of the proposed capacity. The majority of the new large load contracts that the Company is planning for were signed in 2023 and 2024, before the new rules and regulations went into effect. We refer to these as “legacy contracts.”  In addition to the contracts under the new rules and regulations and the legacy contracts, the Company is also planning to serve speculative new large load customers that have not yet, and may never, actually sign contracts and receive electric service.
+Q. WHY ARE THESE DISTINCTIONS IMPORTANT FOR CUSTOMER PROTECTION?
+A. Legacy large load contracts do not include the same termination penalties or minimum bill provisions as the new contracts. These are also shorter-term contracts and allow customers to leave the system without penalty. If these customers reduce or terminate their load, this could result in underutilized assets or stranded assets. Georgia Power’s revenues could fall short, leaving a potentially significant amount of costs to be covered by remaining ratepayers. 
+Building capacity for potential large load customers that have not yet, and may never, sign a contract or receive electric service from Georgia Power is even more speculative and more problematic. There is no way to collect costs from a potential customer if it never signed a contract and never materialized.
+Q. WHAT HAPPENS IF THE COMMISSION CERTIFIES THESE PROJECTS WITHOUT RESTRICTIONS?
+A. If the Commission grants certification as requested, and load does not materialize as projected by the Company, the ability to disallow future cost recovery will be limited. While we are not attorneys, our understanding from Staff attorneys is that resources that have been certified cannot be disallowed on the basis of reasonableness unless the project exceeds the certified cost. While some prudence disallowances are still available, such disallowances would be limited to whether a project was executed competently, even if it turns out the project was never needed.
+Q. CAN YOU GIVE AN EXAMPLE OF HOW THIS COULD HARM CUSTOMERS?
+A. Yes. Suppose the Commission certifies the projects based on the Company’s forecast, and Georgia Power begins construction. If the market shifts or the Company’s forecasted large load does not materialize, the Company will still seek to recover those costs. Without executed contracts under the new large load framework, there is no guarantee those costs will not be passed on to existing customers. The Commission’s ability to prevent this impact to existing ratepayers is severely constrained once certification is granted.
+Q. HAS GEORGIA POWER COMMITTED TO SHIELDING EXISTING CUSTOMERS FROM THIS RISK?
+A. No. It is Staff’s understanding that Georgia Power has not guaranteed that costs associated with unmaterialized load would not be passed on to existing customers. Though asked multiple times in hearing, the Company has either not explicitly made this commitment, or objected to a response.
+In hearing, the Company noted that the new rules and regulations approved by the Commission, which include the option to assess minimum monthly bills against large load customers, provide a “higher level of protection” for non-large load customers by ensuring a certain level of cost recovery. However, load growth not covered under these new rules and regulations, whether under an older contract structure or lacking a contract at all, would provide lesser protections.
+Q. WHAT IS STAFF’S RECOMMENDATION REGARDING THE COMPANY’S CERTIFICATION REQUESTS?
+A. Staff recommends that the Commission only certify generation, and authorize associated transmission investments, which are backed by executed contracts, whether under the new large load rules or those executed prior to the implementation of these rules (“legacy contracts”). This ensures that customers are protected from speculative investment risk.
+Q. ARE THERE ALTERNATIVE APPROACHES IF THE COMMISSION WANTS TO PRESERVE FLEXIBILITY?
+A. Yes. If the Commission wishes to allow certification beyond contracted load, it should do so only if Georgia Power agrees to two conditions: 
+First, Georgia Power will not seek cost recovery until the associated load materializes. 
+Second, the Company will not recover financing costs incurred during any delay in construction or incremental capital cost due to the delay from a lack of signed contracts. 
+This approach allows the Company to pursue opportunities while ensuring it bears the risk and protects Georgia Power’s other customers if those opportunities do not materialize.
+Q.please provide an overview of your testimony.
+A.In the testimony below, Staff summarizes the Company’s B2026 large load forecast and discusses how the forecast has evolved since the 2023 IRP Update. Staff examines how the forecast has decreased in the near-term and the drivers of these reductions, namely diminished load materialization and project removals from the Data Center segment. Staff provides multiple adjustments to the Company’s B2026 Load Realization Model, offering two alternate scenarios for the Commission’s consideration.
+Summary of Company Load Forecast 
+Q.Please summarize the company’s filed load forecast.
+A.From 2025 through 2031, the Company’s peak load forecast is projected to grow at 7.7% compounded annually, reaching 26,979 MW in the Summer and 25,065 MW in the Winter, as shown in Figure 1 below. This growth represents a 56% increase relative to the forecasted peak in 2025.
+In 2024, the Company reported an actual summer peak of 16,555 MW and winter peak of 16,458 MW. The forecasted summer peak for 2025 is 17,288 MW, representing a 4.4% increase relative to 2024 actuals. The forecasted winter peak for 2025 is 16,063 MW, representing a 2.4% decrease relative to 2024 actuals. 
+The forecast period extends through 2045 and the compound annual growth rate moderates down to approximately 3% for the entire forecast period, 2025 through 2045. In 2045, projected growth represents more than an 80% increase relative to 2025 forecasted peak.
+Figure 1: B2026 Peak Forecast Summary
+
+Q.Please summarize the methodology underpinning the company’s Load forecast.
+A.The Company’s load forecast consists of two core pieces: the historically informed “organic” load forecast and the probabilistic large load forecast. The organic load forecast uses multiple techniques to produce a customer class-based energy forecast which is then converted to a peak load forecast. The large load forecast uses a probabilistic model, the LRM, to produce external adjustments to both the energy and peak load forecasts to account for Commercial projects greater than 115 megawatts (“MW”) and Industrial projects greater than 45 MW. Additionally, the Company makes several other adjustments to its energy and peak load forecasts to account for growth in electric vehicles, Behind-The-Meter (“BTM”) solar, Demand-Side Management (“DSM”), and industrial cogeneration. 
+Q.Has the company’s load forecast changed since the 2025 irp proceeding?
+A.Yes. While the structure of the load forecast is generally similar to the forecast submitted in the 2025 IRP proceeding, the Company has updated both the Organic and Large Load forecasts with the most recent available information. The direction and magnitude of these changes vary depending on the specific customer class. Further details are provided in Section IV below. 
+Q.Please explain the key drivers of PROJECTED load growth in the COMPANy’S b2026 forecast FILED IN THIS DOCKET.
+A.The primary driver that overwhelmingly impacts projected load growth comes from the Large Commercial class (comprising XX% of cumulative growth in the Summer season), followed by the Organic Commercial class (XX%) and the Organic Residential class (X%) as shown in Table 1 below.  Given that nearly all Large Commercial projects in the LRM are comprised of data center customers (more than 99% on an announced load basis), the Large Commercial class will be referred to as the Data Center class or as Large Data Centers throughout this testimony. , Organic Commercial load growth is attributed to electric vehicles and non-large load data centers, referring to data centers less than 115 MW. As such, the Company projects that Data Centers will constitute anywhere from ~XX% up to ~ XX % of cumulative load growth from 2025 through 2045. 
+Table 1: B2026 Adjusted Summer Peak Forecast (MW)
+Year
+Org. Res
+Org. Com
+Org. Ind
+Gov.
+Light.
+MARTA
+DSM
+Large Data Centers
+Large Ind.
+Peak
+2025
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+17,288
+2026
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+18,151
+2027
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+19,796
+2028
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+22,101
+2029
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+24,229
+2030
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+25,845
+2031
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+26,979
+2032
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+27,554
+2033
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+28,007
+2034
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+28,312
+2035
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+28,499
+2036
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+28,588
+2037
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+28,820
+2038
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+29,043
+2039
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+29,273
+2040
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+29,414
+2041
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+29,671
+2042
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+29,900
+2043
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+30,261
+2044
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+30,732
+2045
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+31,221
+CAGR
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+3.00%
+Cum. Growth
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+13,933
+% of Total  
+Cum. Growth
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+100%
+The Company’s projected Large Data Center load rapidly begins to materialize during the time period in which the All-Source RFP seeks to add capacity resources. By 2029, the Large Data Center class represents XX% of peak load as shown in Table 2 below. Given that the forecasted load for the Data Center class provides such a large contribution to the Company’s forecasted peak, it is critically important to confirm the accuracy of the forecasted Data Center load to avoid over-procuring resources in the RFP that would be stranded if the projected load were not to materialize. 
+Table 2: Large Load Contribution to B2026 Projected Summer Peak (%)
+Year
+Large Data Centers
+Large Ind
+Peak
+2025
+XXXX
+XXXX
+100%
+2026
+XXXX
+XXXX
+100%
+2027
+XXXX
+XXXX
+100%
+2028
+XXXX
+XXXX
+100%
+2029
+XXXX
+XXXX
+100%
+2030
+XXXX
+XXXX
+100%
+2031
+XXXX
+XXXX
+100%
+The Company’s load forecast continues to decrease in the near-term
+Q.How has the Company’s load forecast CHANGed since the 2023 IRP update?
+A.Since the 2023 IRP Update, the Company increased its peak load projections significantly, changed how it evaluates the large load realization model, and adopted new rules and regulations for large load customers over 100 MW. The Company’s load forecast changes since the 2023 IRP Update are shown in Figure 2 and Figure 3 below.
+Figure 2: Summer Peak Forecast Changes
+
+Figure 3: Winter Peak Forecast Changes
+
+From the 2023 IRP Update to the February 2025 forecast, the Company showed a significant increase in long-term projected growth. However, this long-term increase was offset with a near-term decrease in load. This near term decrease is more evident in Figures 4 and 5 below.
+Figure 4: Summer Peak Forecast, Near-Term Changes
+
+Figure 5: Winter Peak Forecast, Near-Term Changes
+
+As shown in Table 3 below, the Company’s near-term forecast has generally decreased since the 2023 IRP Update, with the magnitude of the decrease dependent upon the referenced forecast vintage. Table 3 shows that relative to the 2023 IRP Update, the B2026 forecast is meaningfully reduced in the years 2025 through 2027, with this reduction exceeding 1,000 MW in Winter of 2027. This is significant because the Company’s near-term forecast, which should have a higher degree of confidence, has progressively declined with each new load forecast. If this pattern were to continue this would suggest the forecasted peak load for 2029 - 2031 would come in lower than currently projected by Georgia Power.
+Table 3: Near-Term Peak Forecast Comparison (MW)
+
+Summer
+Winter
+Year
+2023 IRP Update
+B2025
+Feb. 2025
+B2026
+B2026 Reduction vs. 
+2023 IRP Update
+2023 IRP Update
+B2025
+Feb. 2025
+B2026
+B2026 Reduction vs. 
+2023 IRP Update
+2025
+17,383
+17,802
+17,737
+17,288
+-94
+  15,947 
+16,264
+     16,199 
+  16,063 
+116
+2026
+18,804
+18,770
+18,459
+18,151
+-652
+17,256
+  16,892 
+     16,580 
+  16,617 
+-639
+2027
+20,633
+20,552
+20,000
+19,796
+-837
+  18,928 
+  18,334 
+     17,782 
+  17,507 
+-1,421
+Q.What are the drivers of the near-Term reductions in THE b2026 Load Forecast?
+A.Through 2029, load reductions in the B2026 load forecast are primarily driven by reductions to the large load forecast, as shown in Table 4. Other factors contributing to the decrease include reductions to the Organic Residential and Industrial classes as well as a near-term reduction to the Organic Commercial forecast. 
+Table 4: LRM Contributions to Near-Term Summer Coincident Peak Load Reductions from the B2025 to B2026 Forecast (MW)
+
+Large Data Centers
+Large Industrial 
+
+Year
+MW
+% Net Peak 
+Reduction
+MW
+% Net Peak 
+Reduction
+Net Peak Reduction
+2025
+ (169)
+33%
+    (52)
+10%
+             (514)
+2026
+ (418)
+68%
+    (81)
+13%
+             (619)
+2027
+ (467)
+62%
+ (122)
+16%
+             (755)
+2028
+ (223)
+35%
+ (185)
+29%
+             (629)
+2029
+     52 
+-13%
+ (187)
+48%
+             (392)
+The Company explains that the large load forecast is growing “slower than the previous version due to more stringent risk adjustment assumptions.” The Company is referring to the rubric introduced in the Company’s Rebuttal testimony during the 2025 IRP Proceeding, which provides a framework to assign probabilities to the likelihood of a project signing a contract with the Company (“P2”) within the LRM. Prior to this rubric, the Company did not have a clear framework to assign these P2 values. This modification resulted in a reduction to the large load forecast overall.
+Reductions to the Large Load forecast were also driven by a new classification system for Data Center projects specifically, which differentiated the likelihood of load materialization based on the type of customer. This system, also introduced in the Company’s Rebuttal testimony during the prior IRP proceeding, assumes that prospective customers with demonstrated experience developing Data Centers (“Hyperscalers”) should be expected to materialize at a higher percentage of their announced load compared to those who have less experience or do not have secured tenants for their Data Centers (“Developers”). These changes to the Large Load forecast specifically reduced the Large Commercial forecast. 
+The Organic Industrial forecast continues to decrease, growing at 1.21% CAGR in the B2026 forecast, compared to 1.7% in the February 2025 Sensitivity and 2.2% in the B2025 Forecast. Reductions in Organic Industrial sales are driven primarily by changes to the Industrial Production Index, a key independent variable in the econometric model.
+The Organic Commercial forecast decreased in the near-term through 2028 while increasing slightly in the years beyond. Long-term growth is driven by an increase in the energy intensity of customers, particularly driven by growth in the size of data center customers.
+The organic B2026 Residential forecast has shifted downward, growing at 1.12% CAGR, compared to the 1.28% projects in the B2025 and February 2025 forecasts. The Company explains that “[a]most all the forecasted change in residential sales is due to slower growth in the Average Use forecast…[The Customer forecast is]  projected to have the same average growth rate…” This suggests that customers are growing as expected, but these customers are using less electricity per capita. It is not immediately clear whether this is driven by increased energy efficiency across residential appliances, customer reactions to changes in power prices, or other changes in customer behavior.
+Q.What are the Drivers of Changes in the long-term growth in the b2026 load forecast?
+A.As shown in Table 5 below, the changes between the B2025 and B2026 load forecasts beyond forecast year 2029 are driven primarily by growth in the Large Data Center forecast.
+Table 5: Class Contributions to Long-Term Summer Coincident Peak Load Growth from the B2025 to B2026 Forecast (MW)
+
+Organic, Cogen, and DSM
+Large Data Centers
+Large Industrial 
+
+Year
+MW
+% Net Peak 
+Growth
+MW
+% Net Peak 
+Growth
+MW
+% Net 
+Peak Growth
+Net Peak 
+Growth
+2030
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+                   4 
+2031
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               426 
+2032
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               659 
+2033
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               739 
+2034
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               762 
+2035
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               709 
+2036
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               649 
+2037
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               614 
+2038
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               631 
+2039
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               598 
+2040
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               575 
+2041
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               452 
+2042
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               281 
+2043
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               231 
+2044
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+               218 
+Even with the Company’s changes to LRM assumptions, which had a mitigating effect on growth to a degree, the Company’s overall large load forecast continues to grow in the long-term, with Data Center customers representing more than 90% of the projects added to the LRM  in 2025, on an announced load basis, though the rate of growth between LRM vintages has slowly diminished, as shown in Figure 6. 
+Figure 6: Changes to Load Realization Model Pipeline, Announced Load Basis (MW)
+
+Q.Please summarize your conclusions regarding the near-term reductions IN the company’s load forecast.
+A.The Company’s near-term forecast shows a consistent decrease in each latest forecast vintage. If the Company continues to reduce its near-term forecast with every iteration, the Company would be regularly over-estimating its load forecast, resulting in an over procurement of resources. This over-estimation is driven primarily by the large load forecast, particularly the Large Data Center class. 
+If this trend continues in the future, the likelihood of the Company over-procuring resources increases. If minimum billing terms and other protections from new rules and regulations that are placed in the contracts of large load customers do not sufficiently protect against this risk, existing customers are likely to bear the cost of over-procurement. As mentioned above, only a fraction of the generation requested in the Certification filing is backed by contracts under the Company’s new rules and regulations.
+The LRM continues to materialize significantly lower than forecasted by the Company.
+Q.Has the Large Load Forecast materializED as expected so far?
+A.No. The materialization of large loads has been lower than forecasted by the Company. In spite of the most recent LRM being finalized in August of 2025, the LRM continues to overestimate materialization, as shown in Table 6 below. 
+As of July 31, the Company had only seen XXXX MW of peak load from large load projects materialize. The greater point of concern is that the model cannot accurately forecast growth six months out, even when including the latest updates to the model’s underlying assumptions, as evidenced by the large difference in materialization for every forecast vintage prior to the B2026 forecast, as shown in Table 6. Based on the 2025 actuals, the model does not exhibit reasonable accuracy. 
+Table 6: Expected vs. Actual Materialization of LRM, Test Year 2025, Adjustment Basis
+
+Year
+2023 IRP Update
+B2025
+Feb. 2025
+B2026
+A
+Customer Announced Load (MW)
+XXXX
+XXXX
+XXXX
+XXXX
+B
+Company Expected Load Adjustment (MW)
+XXXX 
+XXXX 
+XXXX 
+XXXX 
+C
+Actual Load (MW) - July 31, 2025
+XXXX
+XXXX
+XXXX
+XXXX
+D=B/A
+Company Expected Materialization (%)
+XX
+XX
+XX
+XX
+E=C/A
+Actual Materialization (%)
+XX
+XX
+XX
+XX
+F=D-E
+Difference (% points)
+29%
+14%
+13%
+3%
+G=B/C-1
+Error Rate Relative to Actuals (%)
+454%
+126%
+84%
+16%
+Consider the February 2025 forecast specifically. This vintage overestimated actual load in 2025 by XXXX MW, representing an overestimation of 84% relative to actuals. This error rate increases the further the forecast horizon, with error rates exceeding 100% when forecasting more than one year ahead, as shown by the B2025 and 2023 IRP Update error rates.
+Q.Is a specific Industry driving this over-estimation?
+A.Yes. The lower materialization is driven primarily by Data Center customers, as shown in Table 7 below. While the sample size is small, based on in-service projects, the Clean Energy Tech and Manufacturing sectors materialize above X%, but the Data Center sector materializes at only XX%. This is lower than the materialization rate expected in 2024, showing a deterioration of the ability for data center customers to meet their announced load expectations. 
+As the Company’s aggregate expected materialization ranges from XX% to XX% in 2025, as shown in Table 6, the Clean Energy Tech and Manufacturing segments are performing as expected, while the Data Center segment is significantly underperforming. This is of significant concern as this segment represents nearly 80% of the announced load in 2025.
+Table 7: Segment Analysis of Reduced Materialization for Operating Projects vs. Expectations
+Segment
+Project Count
+Actual Peak Demand, 2025
+Announced Load,
+EOY 2025
+Actual Materialization
+Clean Energy Tech, Operating
+2
+XX
+186
+XX
+Data Center, Operating
+4
+XX
+612
+XX
+Manufacturing, Operating
+2
+XX
+72
+XX
+Cancelled/Delayed Projects
+3
+XX
+53
+XX
+Total
+11
+XX
+923
+XX
+Q.Why are data centers materializing lower than expected?
+A.The Data Center segment is primarily underperforming expectations due to a mixture of lower materialization rates, project cancellations, and delays. Lower materialization is the primary driver of this underperformance, referring to operating projects using lower levels of peak demand (MW) than forecasted in a given year along their submitted load ramp. 
+As demonstrated in Table 7, XX% of the Data Center load that was expected in the B2026 model, accounting for project cancellations and delays as of August 2025, failed to materialize. This suggests that, while Data Center projects are providing load ramps for every forecast year, projects in operation are failing to materialize at the level expected. This does not represent a delay in the in-service date, but specifically a lower level of load materialization. 
+Of the 53 MW of cancelled/delayed projects for 2025, all of them are Data Centers. As such, in addition to the diminished materialization of operating Data Centers, this segment is also demonstrating a unique tendency to be cancelled or delayed. This behavior illustrates the speculative nature of the data center industry.
+Q.Is the Data Center segment more impacted by project Cancellations or Project delays?
+A.The Data Center segment is more impacted by project cancellations than project delays. In the context of the LRM, the Company’s assumptions used for the Project Delay variable are more reasonable than those used for Project Success. 
+Since the 2023 IRP Update, 33 Data Center projects with 11,332 MW of announced load have been removed from the pipeline, representing ~55% of all project removals, and ~65% of announced load removed. Through this time, a total of 135 Data Center projects have entered the large load pipeline. As such, 24% of Data Center projects that entered the LRM have been removed with an average of 5 Data Center projects exiting the pipeline each quarter. This demonstrates a significant trend of project removals to date. It is unclear whether the Company’s model accounts for this level of project removal.
+By contrast, Data Centers do not show a clear tendency to delay beyond the assumptions used in the LRM. The LRM assumes that all projects are delayed along a distribution of XXXXX months. As shown in Table 8, the average delay for Data Center projects remains within the bounds of the distribution assumed by the Company. While the upper and lower bounds appear to be insufficient at capturing the variability of project delays, it is unclear that modifying these assumptions would meaningfully impact the aggregate results of the model. While testing a modification of these assumptions may be worthwhile, Staff did not pursue this line of analysis, due to the alignment of average results with the Company’s base assumption. 
+Table 8: Reported Project Delays for Data Center Projects
+Report
+Average
+Min
+Max
+Q1'24
+8
+(12)
+24
+Q2'24
+9
+(12)
+27
+Q3'24
+4
+(15)
+30
+Q4'24
+9
+3
+36
+Q1'25
+5
+(12)
+27
+Q2'25
+18
+(9)
+37
+Project Average
+7
+(14)
+30
+Load Weighted Average
+6
+(15)
+29
+Q.Why are Data Center Projects being removed so frequently?
+A.Data Center project removals are primarily driven by project cancellations, demonstrating that prospective customers are either deciding not to pursue a project in Georgia at this time or pursuing a different project in a different state. This behavior is best captured by the Project Success assumptions in the LRM, which constitute the P1 (Georgia is selected as the location of a project), P2 (Georgia Power is selected as the preferred service provider), and P3 (project reaches commercial operation) variables.
+Table 9 provides a summary of removed Data Center Projects, demonstrating that Project Cancellations are the primary contributor to Data Center removals, representing 48% of Data Center removals. Staff interprets this reasoning for project removal as relevant to the P1 variable. This category is followed by “No GPC Offer Made,” which Staff interprets as a contracting issue related to the P2 variable, and “Project Delayed Indefinitely,” which Staff interprets as a strategic business decision related to the P1 variable. The remaining categories, while not directly relevant to a specific Project Success variable, could be interpreted as relevant to the P3 variable. 
+Table 9: Reported Project Removals for Data Center Projects
+Removal Reason
+Issue
+Staff Identified Relevant Variable
+Project Count
+Share of Removed Data Center Projects
+Share of All Data Center Projects
+No GPC Offer Made
+Contracting
+P2
+9
+27%
+7%
+Project Cancelled
+Strategic
+P1
+16
+48%
+12%
+See Note
+Project Size
+N/A
+1
+3%
+1%
+Project Delayed Indefinitely
+Strategic
+P1
+4
+12%
+3%
+Falls below Large Load Threshold
+Project Size
+N/A
+3
+9%
+2%
+Total Removed
+ 
+ 
+33
+100%
+24%
+All Data Center Projects Considered in LRM
+ 
+135
+ 
+ 100%
+Acknowledging that the “P1” project success assumption reflects a project’s propensity to select the state of Georgia to pursue a project, a “Project Cancellation” is best captured by the P1 variable. A prospective customer’s strategic decision to stop pursuing a project in Georgia, whether through a cancellation or indefinite delay are not appropriately captured in the P2 or P3 variables. 
+ Q.Please summarize your conclusions regarding the LRM materializing lower than forecasted by the company.
+A.The Company’s large load forecast is materializing lower than anticipated. This diminished materialization is due to Data Center customers failing to materialize as expected, driven primarily by lower levels of load materialization and project removals. It is clear that the LRM needs further modifications to improve its performance, with a specific focus on the Data Center segment.
+The B2026 load forecast uses incorrect load ramps for certain customers in the load realization model, over-estimating load growth. 
+Q.Are there any clear errors in the company’s LRM?
+A.Yes. Staff has identified that certain projects in the B2026 LRM do not reflect the load ramps specified in their contracts, resulting in an overestimation of load. These errors are discussed more thoroughly in Section VIII.
+Q.Do you have any conclusions regarding the errors in the LRM?
+A.Yes. The Company’s load forecast should reflect the most recent information available, including the accurate load ramps of all Large Load customers. To this end, the Company should update the LRM to accurately reflect this information.
+Load flexibility and contract revisions may further reduce the Company forecast
+Q.Please explain how load flexibility may further impact the Company’s large load forecast.
+A.Load flexibility and curtailments during peak hours may significantly mitigate the peak impact of large load customers, particularly for Data Center projects. A recent study by Tyler H. Norris, Tim Profeta, Dalia Patino-Echeverri, Adam Cowie-Haskell at Duke University suggests that a 1% curtailment could enable load addition equivalent to 20% of peak load. For the Southern Company Balancing Authority, the report estimated 6,400 MW of load growth enabled with 0.25% curtailment. 
+The application of large load flexibility is beginning to deploy on the market. A 96 MW data center in Virginia, scheduled to open in 2026, is committed to providing flexible operation via the Electric Power Research Institute’s (“EPRI”) “DC Flex” initiative. Acknowledging that the Company also participates in the EPRI DC Flex initiative, via Southern Company, the Company may have further understanding of how load flexibility could enable large load growth in Georgia that is not currently available on the record.
+A load flexibility program sponsored by the Company could enable significant growth of large load customers while mitigating the peak impacts of this growth, providing a more cost-efficient means of facilitating economic development in Georgia. Such a program could be administered through existing demand response provisions, new terms specifically for large load customers via the new commission approved rules and regulations, or some other pathways.
+Q.Has the Company considered load flexibility in its large load forecast?
+A.Staff’s understanding is that the Company has not considered the impact of load flexibility on its load forecast. Without considering load flexibility programs that may be available to large loads in the future, the Company may be overestimating large load growth and the amount of capacity needed to serve these large load customers. The Company explains that it has “held discussions on the … potential impact load flexibility could have with prospective large load customers.” However, the Company has not clearly demonstrated that this has been considered directly in its load forecast.
+Q.Please explain how LOAD REDUCTIONS may impact the Company’s large load forecast.
+A.The opportunity for load reductions could significantly reduce the demand from large load customers, resulting in diminished materialization of the large load forecast. If multiple large load projects exercise this option, the Company’s large load forecast may materialize lower than forecasted.
+The Company allows customers who are 100 MW or greater, following the execution of a contract, a one-time option to reduce their peak load during “a specified period,” modifying the projects load forecast into the future. When asked how the Company accounts for this load reduction risk in the LRM, the Company did not directly respond to the question beyond explaining that load forecasts would be modified as load ramps are modified.
+Multiple factors justify an adjustment to the B2026 load forecast
+Q.Do you have any concerns that warrant adjustments to the Company’s load forecast?
+A.Yes. Based on our discussion above, the following concerns are clear:
+Changes in the B2026 forecast, relative to the 2025 IRP proceeding forecast, are primarily driven by the LRM,
+The LRM continues to be revised downward in the near-term, 
+The LRM is materializing lower than forecasted by the Company,
+The LRM is increasingly inaccurate at longer time horizons, tending to overestimate load in greater magnitude,
+This overestimation is primarily driven by Data Center projects,  
+Uncertainty in the Data Center pipeline is driven primarily by projects materializing lower than expected and project removals, and
+Adjustments to the LRM are necessary to better reflect the actual performance of the large load pipeline, as evidenced by the quarterly large load economic development reports and the actual operation of large load projects on the system.
+Furthermore, the Company’s LRM exhibits clear errors in the load ramps of certain projects. Considering these concerns holistically, the B2026 exhibits an overestimation bias driven by the LRM, requiring an adjustment of the model to account for both identified errors, as well as the factors that might be leading to the overestimation of large load in the LRM. 
+As such, the LRM represents a large source of uncertainty for the Company’s load forecast. This uncertainty is primarily driven by Data Center customers which are not materializing as projected. The LRM requires proactive adjustment to reflect the actual materialization of these projects.
+Q.Please expLain the Adjustments you are proposing.
+A.Staff offers two options for the Commission to consider, all of which relate to adjustments to the large load forecast produced by the LRM:
+Contracts Only
+The LRM would be limited to only include projects under a Contract for Electric Service (CES). A contract provides the highest level of certainty. This scenario applies all existing assumptions offered by the Company. This scenario may also be modified to include any additional large load contracts under the new rules and regulations that are executed by March 16, 2026.
+Adjustments for Errors, Site Control, and Uniform Materialization Assumptions
+The LRM would be modified in multiple ways. Projects with clear errors in their load ramps would be modified to reflect their most recent project information. Projects that do not exhibit full site control, referring to a clear purchase or lease of land, would be discounted to reflect a lower P1 value. Finally, all load materialization assumptions would be modified to be uniform at XXXX XXXX.
+Q.Please demonstrate the impacts of these adjustments on the b2026 load forecast.
+A.Within the window of the All-Source RFP (2029-2031), the scenarios identified above reduce the Company’s proposed forecast by ~2,000 MW and up to ~4,500 MW, as demonstrated in Figure 7 below.
+Figure 7: Adjustment Scenario Impact on B2026 Forecast
+ 
+The numerical impact in key years of these scenarios is summarized in Table 10 below.
+Table 10: Adjustment Scenario Impact on B2026 Forecast
+Scenario
+2028
+2029
+2030
+2031
+…
+2044
+Scenario 1
+ (1,673)
+ (2,809)
+ (3,781)
+ (4,506)
+
+ (5,327)
+Scenario 2
+ (1,544)
+ (2,074)
+ (2,453)
+ (2,742)
+
+ (2,990)
+On a system peak basis, these scenarios are compared against the B2026 forecast in Figure 8 and Figure 9 below. 
+Figure 8: Summer Peak Forecast Scenarios
+ 
+Figure 9: Winter Peak Forecast Scenarios
+ 
+The adjustments above were calculated based on the outputs of the LRM. However, the simulated outputs were adjusted to account for load profiles. Lacking the specific software used by the Company to develop this adjustment, Staff used a “discount factor,” based on the relationship between the simulated results of the B2026 LRM and the final adjustment applied to the load forecast. This discount factor calculation is presented in Table 11 below. 
+Table 11: LRM Implied Discount Factor
+Year
+LRM Output
+Peak Adjustment
+Implied Discount Factor
+2025
+XXXX
+XXXX
+66%
+2026
+XXXX
+XXXX
+78%
+2027
+XXXX
+XXXX
+77%
+2028
+XXXX
+XXXX
+85%
+2029
+XXXX
+XXXX
+91%
+2030
+XXXX
+XXXX
+92%
+2031
+XXXX
+XXXX
+95%
+2032
+XXXX
+XXXX
+96%
+2033
+XXXX
+XXXX
+96%
+2034
+XXXX
+XXXX
+96%
+2035
+XXXX
+XXXX
+96%
+2036
+XXXX
+XXXX
+96%
+2037
+XXXX
+XXXX
+96%
+2038
+XXXX
+XXXX
+96%
+2039
+XXXX
+XXXX
+96%
+2040
+XXXX
+XXXX
+96%
+2041
+XXXX
+XXXX
+96%
+2042
+XXXX
+XXXX
+96%
+2043
+XXXX
+XXXX
+95%
+2044
+XXXX
+XXXX
+95%
+Q.Which scenario is staff’s preferred scenario?
+A.We recommend Staff Scenario 1. The biggest risk to non-large load customers in this proceeding is the Company spending money on capacity for speculative load. If the Data Center load does not materialize on time or does not materialize at all, non-large load customers would become the backstop and burdened by the costs of the unnecessary capacity. 
+Scenario 1 restricts the LRM to projects with signed Contracts for Electric Service, which makes it the option with the least risk to existing customers. Under this scenario, the Company would not start spending money on new capacity until it had a contract to back that capacity. Scenario 1 would reduce the capacity cost of the Company’s proposal by approximately $17.5 billion. Given the restriction to projects with contracts only, Staff does not propose any adjustments to the underlying assumptions in the LRM in this scenario.
+Q.IS scenario 1 rISK fREE FOR EXISTING CUSTOMERS?
+A.No. Even Scenario 1 is not risk free to existing customers. Scenario 1 includes both contracts under the new rules and regulations as well as legacy large load contracts which were signed before 2025. While the large load contracts under the new rules are designed to protect existing customers from bearing any of the costs of adding new large customers, the majority of the load under contract are legacy contracts, which offer far fewer protections. 
+As shown in Figure 10, only ~21% of the requested load increase is covered under the new rules and regulations approved by the Commission, while the remaining 79% offer far fewer protections to existing ratepayers. Many of the legacy contracts contributing to load in 2031 are already covered by prior procurements. The remaining uncovered legacy contracts have shorter terms and lack the minimum bill, security, and termination payment provisions of the new contracts, showing a higher level of risk to existing ratepayers. Most of the Company’s capacity expansion request consists of entirely speculative load growth that is not covered by any contracts, representing nearly 70% of the request.
+Figure 10:  Comparison of Company Capacity Expansion Request to Staff Scenario 1 by Contract Status and Associated Customer Protections
+ 
+Q.Why would the Commission consider adopting scenario 2?
+A.The Company views the new Data Center market as an opportunity for economic development. However, it is an opportunity that comes with risk. The Commission’s decision to select Scenario 2 depends on its tolerance for more uncertainty in the materialization of the LRM (and more risk to existing customers) by including more speculative or otherwise uncertain projects. 
+Q.How does increasing the amount of capacity the company is certified to build increase the risk to existing customers?
+A.When the Commission certifies new generation, the Company begins incurring costs to build or otherwise acquire it. As more speculative new generation is built and more costs are incurred, there is a risk that the large load customers needed to cover those costs will not materialize. If the large load customers do not materialize, the Company may still seek recovery of the costs incurred for the excess capacity (or for the abandoned or delayed projects) from other customers, as they have done in this proceeding, with a request to recover development costs of projects that are not approved by the Commission from ratepayers. Depending on the circumstances, the Commission’s ability to deny such a request may be limited. 
+Q.DO PROTECTIONS BUILT INTO NEW LARGE LOAD CONTRACTS FULLY PROTECT OTHER CUSTOMER CLASSES FROM RISK ASSOCIATED WITH LARGE LOAD NOT MATERIALIZING?
+A.No. It could turn out that the Company is not able to fully mitigate costs associated with load materializing below their forecast, with risk still present beyond the protections offered by the new rules and regulations. Many potential mitigation measures will present associated costs, especially if the Company intends to cancel or delay a project for which they have already incurred significant costs. 
+Staff understands the mitigation strategies available to the Company to include the following:
+Electing not to replace or renew PPAs after expiration,
+Cancelling capital spending on Company-owned proposals, and
+Adding new large load contracts to replace any early terminations or diminished materialization. 
+Each of these strategies may present associated costs. The PPA expiration strategy requires the Company to continue any charges and fees associated with the contract for its duration. Cancellation of capital spending will present costs associated with any construction completed up to the point of cancellation, referring to the recovery of CWIP and any financing costs that were prudently incurred. Finally, the addition of new contracts would require ratepayers to pay for any excess capacity costs until the point of load actually materializing.
+As such, the Company is planning to employ mitigation measures for both contracts that do not materialize, as well as those that terminate early. At least in regard to contracts that do not materialize, the Commission’s ability to disallow any of these costs is limited to situations of imprudence, fraud, concealment, or failure to disclose a material fact. Even for contracts that terminate early, the Company still retains the ability to seek recovery from existing customers. In other words, the Company’s mitigation is limited and may not be sufficient to protect ratepayers if multiple large load customers terminate early. Potentially, every single forecasted Data Center MW could need to be mitigated.
+Q.Please Describe scenario 2 in more detail.
+A.Scenario 2 allows the Company more flexibility to address longer development and procurement timelines associated with large load projects, but it also further increases the risk to existing customers by allowing the Company to incur more costs than Scenario 1. Roughly speaking, the additional capacity cost of Scenario 2 over Scenario 1 is $5.0 billion in capital investment by Georgia Power.
+However, Scenario 2 still poses less risk for existing customers than the Company’s request. Site control assumptions are moderated down to reflect lower levels of commitment to siting in Georgia, as evidenced by significant project removals. The higher materialization assumptions for data centers are moderated down to be equivalent to all other industries. Finally, load ramps for projects are corrected to reflect those specified in the contracts of each project.
+Q.Please describe the adjustment for the P1 Probability in scenario 2.
+A.Regarding the P1 adjustment, the Company generally assigns a 50% probability for customers who do not possess site control and 100% probability for those with site control. Under this structure, customers that own a site are treated the same as those who only have an option/purchase and sale agreement, or even just a letter of intent, as demonstrated in Table 12 below. Furthermore, projects with absolutely no site control are provided a 50% likelihood of selecting the state of Georgia. As such, the Company does not differentiate the P1 values based on stages of ownership.
+Table 12: P1 Variable Options
+Ownership Description
+P1 Assumption
+Owns the site
+100%
+Option/Purchase and Sales Agreement: Holds an option to purchase or lease the site
+100%
+LOI: Holds a binding easement or license granting rights to develop and operate on the site
+100%
+No site control
+50%
+This lack of differentiation is in stark contrast to how the Company treats its P2 variable. In February 2025, the Company revealed a structured rubric to assign P2 values based on how a project progresses through the contract development process. The P2 rubric considers that projects that are earlier on in the development process should be discounted in their likelihood to succeed.
+The P1 variable assumes that an option or letter of intent demonstrates the same level of commitment to development as a project with outright ownership of a site. Further details regarding project-level site control are provided in Table 13, along with Staff’s recommended adjustments. Generally, Staff recommends that the Company apply a more disciplined approach to assigning P1 probabilities which recognizes that outright ownership of land should not reflect the same likelihood of project success as an option or intent to control. 
+Table 13: LRM P1 Assumption Comparison
+GPC Site Control Description
+Staff Short Name
+GPC P1
+Staff P1
+Industrial project - site specific information not provided
+No Site Control
+50%
+25%
+Industrial project - site specific information provided
+Partial Site Control
+100%
+50%
+ Full Site Control: Project demonstrates outright Ownership or Lease of site; or Lease of site; 
+Full Site Control
+100%
+100%
+Can not confirm site control 
+No Site Control
+50%
+25%
+ii. Option/Purchase and Sale agreement: Project demonstrates an option to purchase or lease the site; 
+Partial Site Control
+100%
+50%
+iv. No Site Control 
+No Site Control
+50%
+25%
+iii. Intent to Control: Projects holds a binding easement or license granting rights to develop and operate on site; or 
+Partial Site Control
+100%
+50%
+Q.Please describe the adjustment for load materialization in scenario 2.
+A.The adjustment to the materialization assumptions sets all materialization assumptions uniformly along a XXXXXXXXXXX distribution. This assumption recognizes that the Company does not have sufficient data of operating large loads to inform any differentiation between customer segments. Lacking this information, the Company has no data to justify any differentiation between industry segments. 
+As it stands, the materialization assumptions for all segments in the LRM remain the same as those introduced in the February 2025 sensitivity, summarized in Table 14 below. Typically, all Large Industrial and Commercial segments are expected to materialize along a XXXXXXXXXXXX distribution. However, materialization assumptions vary significantly for Data Centers, with assumptions for Hyperscalers and Colocators generally being higher than those for other industry segments. 
+Table 14: LRM Materialization Assumptions
+Segment
+Low
+Mid
+High
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+As discussed in Table 7, the Data Center segment specifically is materializing lower than other customer segments. Given this history, there is no clear justification to expect that the Data Center segment, in aggregate, would materialize at a higher level than other segments. As such, Staff recommends that the Company maintain uniform materialization assumptions, at XXXXXXXXXXXX, unless data demonstrates that this segment is materializing differently.
+Acknowledging that the Data Center segment has materialized at a rate lower than other industries, as discussed in Table 7, assigning a materialization rate that is lower than other industry segments may be appropriate. However, Staff is electing to offer a more conservative adjustment to recognize that the behavior of these customers may evolve in the future.
+Q.Please describe the adjustment for load ramp errors in scenario 2.
+A.Multiple projects are input into the B2026 LRM with errors in the announced load ramp. This scenario’s reduction on the large load forecast ranges from 1 MW in 2025 up to ~220 MW in 2034. 
+Projects with load ramps that differ from their contracts are summarized in the list below:
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been delayed, resulting in a ~200 MW reduction in years 2027 and 2028.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been delayed, resulting in a reduction of ~100 MW in 2026.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load Ramp for this data center has been delayed, resulting in a reduction of ~100 MW in 2027 and ~50 MW in 2028.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been delayed, resulting in a reduction of ~100 MW in 2026 and 2027 as well as a reduction of ~50 MW in 2028.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been accelerated in the near term, resulting in an increase of ~50 MW in the near term. However long-term max load has been reduced by ~50 MW, reducing max load in years 2028 through 2037.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been delayed, resulting in a reduction of ~150 MW in 2026 and ~100 MW in 2027.
+XXXXXXXXXXXX XXXXXXXXXXXX: Load ramp for this data center has been delayed/modified, resulting in a reduction of ~100 MW in 2027 and ~41 MW in 2029. 
+Staff corrected the load ramps for these customers in its recommended scenario. In addition to these projects with differences in contracted load ramps, two projects are also inaccurately input into the LRM:
+XXXXXXXXXXXX XXXXXX: This data center only has 50% of its load under contract, while the remaining 50% are under a request for service. Staff treated each portion of load as a separate project in the LRM, applying the relevant assumptions for projects under a Request for Service for 50% of the load, while leaving the other 50% under its current treatment. 
+XXXXXXXXXXXX XXXXXXXXXXXX XXX: This data center had ~33% of its load reduced in its contract. Staff adjusted the load ramp of this project to follow the originally stated load ramp schedule, but cap out at the new max load. 
+Q.DoES your proposed adjustments preclude any further adjustments by you or another intervening party?
+A.No, not necessarily. The adjustments proposed in this testimony specifically address concerns regarding the LRM and its treatment of Data Center projects. 
+Conclusions & Recommendations
+Q.Please summarize your conclusions.
+A.The Company’s LRM is based on speculative assumptions, creating unreasonable risk to existing ratepayers if forecasted load from data centers does not materialize. To date, the large load forecast and the underlying LRM have not materialized as expected, underscoring the speculative nature of the model’s underlying assumptions. In the near term, large load projects continue to materialize lower than forecasted by the Company. This underperformance is driven primarily by the Data Center segment via diminished load materialization and project cancellations. Absent further adjustments to the underlying assumptions in the LRM to account for these factors, the Company is likely to overestimate its load and over-procure capacity resources, resulting in greater risk and potentially higher costs to existing ratepayers. The most reasonable approach to forecasting large load is to limit predictions to those customers who have executed contracts for electric service with the Company.
+In addition to modifying the Company’s load forecast, there are a number of uncertainties that may further mitigate the peak impact of large load projects. The most significant of these uncertainties is the impact of load flexibility. The Company has not demonstrated how load flexibility may impact its large load forecast. Further exploration of how load flexibility could impact peak demand at various curtailments level and the pathways through which such a program could be administered is necessary to promote the cost efficient integration of large load customers.
+Q.please summarize your recommendations.
+A.Given the discussion and conclusions above, Staff provides the following recommendations:
+Staff recommends the Commission require the Company to adopt the adjustments and model modification provided in Staff Scenario 1. This scenario minimizes the amount of risk that existing ratepayers bear by limiting the large load forecast to only projects with executed contracts. While there is still risk associated with this scenario, as most (nearly 80%) of the load in this scenario comes from projects that are not subject to the new rules and regulations approved by the Commission, it offers a reasonable mitigation of this risk relative to the Company’s filing.
+If the Commission determines that Scenario 1 is not its preferred option, Staff has provided Scenario 2 to the Commission as a lower-risk alternative to Georgia Power’s request. Scenario 2 provides a higher level of large load growth, but moderates this growth based on a number of modifications to the underlying assumptions in the LRM. This scenario provides a higher level of risk relative to Scenario 1, but offers a significantly lower level of risk than that presented in the Company’s B2026 base case.
+Staff recommends the Commission to require the Company to provide a report by February 15, 2026, proposing a structure, potential administrative pathway, and estimated system impact of a load flexibility program in this docket by February 15, 2026. The report should include the following:
+Program Structure: A description of the load flexibility program including the types of customers eligible for the offering, the extent of curtailments that could be applied to these customers, and how prospective customers would be incentivized to participate in this offering. Incentives could include a variety of mechanisms including priority interconnection.
+Administrative Pathway: The mechanism by which the Company will offer the load flexibility offering to large load customers. Staff recognizes that the new rules and regulations approved by the Commission allow the Company to require a wide variety of terms and conditions upon large load customers. This pathway offers the Company a means to develop a load flexibility offering rapidly. However, Staff recognizes that the optimal pathway may vary. As such, the Company should explain the various administrative pathways available for a large load flexibility offering, and any costs or benefits associated with these pathways.
+Estimated System Impact: The capacity headroom enabled by a load flexibility program and any resulting cost savings. The system impact analysis should consider the level of curtailment, the number of curtailable hours per year, and the types of customers requested to curtail, producing an analysis of how many additional large load projects could be enabled without procuring additional capacity resources.
+Q.Does this conclude Staff’s testimony?
+A.Yes.

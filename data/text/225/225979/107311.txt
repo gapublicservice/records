@@ -1,0 +1,697 @@
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-1.docx =====
+STF-PIA-18-1
+
+Question: 
+
+Does the Company or Southern Company utilize any cybersecurity self- assessment frameworks (e.g., NIST Cybersecurity Framework (CSF), DOE Cybersecurity Capability Maturity Model (C2M2), or other)?
+a.If yes, when were these frameworks first implemented?
+b.Please provide a summary of the most recent evaluation results.
+
+Response:
+
+Yes. Georgia Power adopted the NIST Cyber Security Framework (CSF) version 2.0 to conduct self-assessments across its lines of business starting in 2024. Previously, the Company used the Department of Energy (“DOE”) C2M2 framework from 2012-2024.
+
+Please see STF-PIA-18-1 Attachment, which lists the GPC Self-Assessments performed with the maturity assessed and the industry average.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-24.docx =====
+STF-PIA-18-24
+
+Question: 
+
+Has Georgia Power implemented any cost-saving measures in its cybersecurity program without compromising security posture? Provide examples and outcomes.
+
+Response:
+
+Georgia Power has consistently pursued cost savings and cost avoidance related to cybersecurity. Savings were achieved through contract renegotiation, tool consolidation, and automation. Notable examples include transitioning from physical multifactor authentication tokens to secure software-based solutions and implementing a Security Orchestration and Automation Response (“SOAR”) platform in the Security Operations Center to streamline incident response actions. These initiatives have resulted in measurable financial benefits while maintaining robust protection against cyber threats and ensuring compliance with regulatory standards. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-2 PUBLIC DISCLOSURE.docx =====
+PUBLIC DISCLOSURE
+
+STF-PIA-18-2
+
+Question: 
+
+Identify the number of cyber threats directed at the Company, by month, during the past year (2025).
+
+Response:
+Modern security platforms generate extremely large volumes of low-level telemetry, automated detections, and benign anomalies; without technical context, raw event counts can create the false impression of increased compromise or instability even when security posture is strong.
+
+  
+Jan 
+Feb 
+Mar
+Apr 
+May 
+Jun 
+Jul 
+Aug 
+Sep 
+Oct 
+Nov 
+Dec 
+Cyber events 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-5.docx =====
+STF-PIA-18-5
+
+Question: 
+
+Provide copies of all cybersecurity-related notifications or information shared with GBI, CISA, CRISP, E-ISAC, U.S. Government agencies, or other relevant entities in 2025.
+
+Response:
+
+The Company has none to report because Georgia Power did not issue any formal notifications. Information shared between Georgia Power and these agencies is typically informal and not exchanged in writing. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-19.docx =====
+STF-PIA-18-19
+
+Question: 
+
+Has Georgia Power conducted any third-party audits or independent assessments to validate that security spending aligns with risk exposure? If yes, provide summaries of findings and recommendations.
+
+Response:
+
+Based on Internal Audit records available as of February 25, 2026, Internal Audit’s cybersecurity governance work included limited review of cybersecurity spend in the context of strategy but did not formally validate alignment of spending to risk exposure. Georgia Power has not identified a third-party or other independent spend-to-risk validation assessment. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-22.docx =====
+STF-PIA-18-22
+
+Question: 
+
+What percentage of the overall IT budget is allocated to cybersecurity each year for the past five years?
+
+Response:
+
+Percentage GPC Cyber Budget to GPC Technology Organization Budget 
+2021 
+7% 
+2022 
+2% 
+2023 
+5% 
+2024 
+6% 
+2025 
+8% 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-16.docx =====
+STF-PIA-18-16
+
+Question: 
+
+What sources of cyber threat intelligence does Georgia Power rely on? How is this intelligence integrated into operational defenses?
+
+Response:
+
+Commercial Paid Sources 
+CrowdStrike 
+Dragos 
+RecordedFuture 
+Flashpoint 
+GreyNoise 
+Proofpoint 
+Palo Alto Networks Unit42 
+Feedly 
+
+US Government 
+CyberSentry (DHS/CISA) 
+Energy Threat Analysis Center (Office of CESER, Dept of Energy) 
+FBI Reporting 
+iJC3 Network Defense Advisories (Office of the CIO, Dept of Energy) 
+Joint Cyber Defense Collaborative (JCDC) (DHS/CISA) 
+
+Information Sharing and Analysis Centers (ISACs) 
+Electricity ISAC (E-ISAC) 
+Oil and Natural Gas ISAC 
+Downstream Natural Gas ISAC 
+Communication ISAC 
+National Defense ISAC 
+Cybersecurity Risk Information Sharing Program (CRISP) via E-ISAC 
+ 
+ 
+Intelligence information is integrated through both manual and automated processes. 
+The manual processes are performed by intelligence analysts through the analysis, summarization, and application of threat intelligence to specific business, technology, and human risks at Georgia Power. This is accomplished via internal cyber threat briefings, operational intelligence reports, newsletters from open sources, and threat actor assessments. 
+The automated processes extract cyber threat indicators and tactics from report feeds, push those data points to correlative systems that search for evidence that a particular threat has been seen by Georgia Power, and invoke response playbooks to investigate the apparent indicators of risk. Certain types of data are also put into security controls for proactive blocking of threat activity. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-9.docx =====
+STF-PIA-18-9
+
+Question: 
+
+Provide all security-related notifications, updates, and status reports—including executive summaries, presentations, and/or slides—presented to executives in 2025 that address cyber or physical security.
+
+Response:
+
+Please see STF-PIA-18-9 Attachments A and B. These attachments have been fully redacted as release of sensitive information has the potential to harm the physical security or cybersecurity of the bulk-power system.
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-12.docx =====
+STF-PIA-18-12
+
+Question: 
+
+What performance goals has Georgia Power adopted to ensure continuity of essential services while managing cybersecurity risk?
+
+Response:
+
+Georgia Power does not consider its business continuity plans to be “goals.” Rather, ensuring continuity of essential services are part of the cybersecurity risk program requirements that are overseen by a Georgia Power executive. These program requirements are designed to cover “all hazards,” which apply to cyber disruptions, especially as considered for Power Delivery and/or Customer Care Operations. 
+Business continuity plans identify the personnel, procedures, resources, and technical requirements needed to recover and restore business processes. 
+
+A business continuity plan is required for each business-critical process. All business units are encouraged to develop business continuity plans for other business processes to promote a culture of resilience. 
+All business continuity plans are documented and maintained in an application approved for use and supported by the Enterprise Resilience department. 
+All business continuity plans have an assigned primary and back-up plan owner. The plan owner(s) is responsible for ensuring plan development, maintenance, and testing. If updates are necessary, the plan owner(s) will communicate any changes to key stakeholders in the plan(s). 
+Business continuity plans are typically designed to contain the following components, as applicable: 
+The names and description of the business-critical process to be recovered. 
+Any strategies and/or specific tasks necessary to ensure the continuation of that process until normal business operations are restored. 
+Contact information for all stakeholders who should be notified in the event the plan is activated (this includes employees and third parties). 
+All Tier 0, 1, or 2 technology assets (applications and/or infrastructure) needed to support business critical processes and Technology Organization contacts for the related Asset Recovery Plans.
+Alternate work locations and needs (e.g. supplies, equipment) identified.  
+Electronic copies of critical documents (e.g. procedures, guidelines, recovery tasks). 
+A pandemic plan.
+Each Business Assurance Council (BAC) member (which includes the Incident Support Team (IST) leaders) will annually review their list of business-critical processes; and 
+Leadership of each business unit that has a business-critical process is required to ensure that a business continuity plan is in place, and that it is annually reviewed and exercised (e.g. tabletops, walkthroughs, workshops). 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-3.docx =====
+STF-PIA-18-3
+
+Question: 
+
+Were there any confirmed cyber breaches in 2025? If yes, for each incident:
+a.Describe immediate mitigation actions taken.
+b.Describe longer-term corrective measures implemented.
+
+Response:
+
+Georgia Power experienced one confirmed cyber event in 2025 that arose from phishing and email compromise.  The event was detected by the Company’s security controls and incident responders quickly disabled the impacted employee account and terminated active sessions.  The employee was counseled about recognizing phishing emails. Longer term mitigation included new phish-resistant authentication mechanisms that mitigate advisory-in-the-middle attacks. 
+Other vendors have reported confirmed cyber events through compromise of the vendors’ systems or accounts that resulted in potential exposure of Georgia Power data hosted in the vendor systems. Promptly upon notice from such vendors, the Company and other responders took action to minimize the impacts of any such exposure of Georgia Power data on behalf of the Company, its employees, and Georgia Power customers. Such steps included requiring the vendors to take corrective action, as well as to verify or certify that the exploit or vulnerability was mitigated before further exchanges of data. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-14.docx =====
+STF-PIA-18-14
+
+Question: 
+
+Please provide an update on current and potential impacts of artificial intelligence on Georgia Power’s operations. Are there any recent findings or case studies regarding malicious use of AI?
+
+Response:
+
+Artificial Intelligence (“AI”) is affecting Georgia Power in two primary ways: (1) improving operations and (2) driving new demand. On operations, Georgia Power reports ongoing grid modernization using innovative technologies and a data driven reliability approach, with help from increased use of advanced analytics. Separately, AI is a major driver of load growth via data centers, with public reporting noting large capacity needs to serve that demand.  
+
+Georgia Power’s cybersecurity organization maintains continuous monitoring for threats that could affect utility infrastructure and business operations, recognizing that adversaries are increasingly using AI to scale social engineering and automate cyber activity against critical infrastructure operators. At the same time, we view AI as a dual use capability, it can strengthen defensive outcomes (e.g., faster detection and response), while also enabling attackers to increase speed, scale, and sophistication, requiring disciplined governance and ongoing control enhancements. Based on the Company’s current monitoring and controls, Georgia Power has not discovered or reported any material AI driven incidents impacting operations at this time, and Georgia Power will continue to adjust the Company’s detection and response posture as the threat environment evolves. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-15.docx =====
+STF-PIA-18-15
+
+Question: 
+
+What does Georgia Power identify as the greatest challenges in improving cybersecurity and physical security practices across critical infrastructure?
+
+Response:
+
+Georgia Power identifies its greatest challenges in improving cybersecurity and physical security practices across critical infrastructure lie in keeping pace with rapidly evolving and increasingly sophisticated threat landscape. For example, the evolving threat of drones used against the electric sector remains a challenge to address due to the lack of state law that deems it illegal for drones to operate near or over critical infrastructure. Further, the pace at which threats are escalating has fundamentally changed due to the proliferation of AI and the speed at which attacks can be launched. In addition, supply chain risks present challenges for maintaining the cyber and physical security of critical infrastructure as many supply chain components are imported from overseas, which makes it difficult to track foreign entities that may exert control over or have another beneficial interest in a supplier or the supplier’s products. The Company must continuously assess and respond to emerging physical and cyber threats identified through the Electricity Information Sharing and Analysis Center (E-ISAC) and other industry information sharing programs. This dynamic environment requires ongoing adjustments to protective strategies as well as a multi-layered security approach to ensure continued resilience.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-17.docx =====
+STF-PIA-18-17
+
+Question: 
+
+How does Georgia Power determine the appropriate level of investment in cybersecurity and physical security measures?
+a.What benchmarks or industry standards are used to guide spending decisions?
+b.How does the Company evaluate cost-effectiveness of security controls?
+Response:
+
+Georgia Power complies with all applicable NERC Critical Infrastructure Protection (“CIP”) Reliability Standard requirements and has strategically implemented a layered approach to both physical and cyber security that are based on industry standards for the electric sector. The Company continuously evaluates evolving physical and cyber threats, identified through the Electricity Information Sharing and Analysis Center (“E-ISAC”) and other industry information sharing programs, and has implemented corresponding resiliency measures to mitigate any potential vulnerabilities. 
+Georgia Power evaluates the costeffectiveness of its security controls by ensuring that all implemented measures align with applicable NERC CIP Reliability Standards and support the Company’s layered security approach.
+Security controls are designed to deter, detect, delay, and protect critical assets, ensuring that investments directly support risk reduction and operational resilience.
+Georgia Power determines the appropriate level of security investment using a risk-based approach anchored to reliability standards, with oversight structures that drive prioritization and accountability. Georgia Power utilizes a “defense in depth” strategy led by a centralized Cybersecurity organization, intended to reduce risk through layered controls rather than reliance on any single measure.  
+
+Primary benchmarks include NERC CIP (including applicable physical security requirements for BES assets) and NIST CSF 2.0 as an enterprise risk framework to assess and prioritize cybersecurity outcomes; NIST also provides mapping guidance between CSF and NERC CIP to support maturity beyond minimum compliance. 
+ 
+Georgia Power evaluates the cost effectiveness of cybersecurity investments through a risk-based prioritization model and formal budget oversight. Investments are sized and sequenced based on the credible threat environment, asset criticality, and potential operational impact (including reliability and safety), ensuring the highest risk exposures are addressed first. This approach aligns with Georgia Power’s publicly described risk based, “defense in depth” strategy and enterprise accountability for protecting critical infrastructure. Budget discipline is enforced through portfolio level governance (e.g., a budget governance committee) that reviews and prioritizes security requests to confirm: (1) the investment is tied to a defined risk and business outcome and (2) it complements existing layered controls rather than duplicating capability.  
+For information on the Company’s Cybersecurity and Risk Management profile, see STF-PIA-18-17 Attachment.pdf
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-21.docx =====
+STF-PIA-18-21
+
+Question: 
+
+How have these costs changed year-over-year, and what factors drove increases or decreases?
+
+Response:
+
+Georgia Power’s annual expenditures on cybersecurity programs have varied over the five-year period, reflecting both changes in accounting treatment and a strategic expansion of cybersecurity initiatives. Overall, expenditures increased both in total and as a share of the IT budget (from 2–7 percent in early years to approximately 8 percent in 2025). These increases reflect the Company’s ongoing commitment to maintaining robust cybersecurity capabilities and ensuring alignment with industry best practices and regulatory expectations. 
+
+The increase in cybersecurity spending beginning in 2024 is primarily associated with the expansion of cybersecurity activities across the enterprise. Contributing factors include: 
+Broader implementation of cybersecurity technologies such as network segmentation, advanced monitoring, and system hardening; 
+Growth in cybersecurity staffing to support continuous operations and new platforms; 
+Use of third-party service providers for assessments and managed security support; and 
+Additional resources devoted to regulatory compliance and employee awareness programs.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-7.docx =====
+STF-PIA-18-7
+
+Question: 
+
+Were there any confirmed physical security breaches in 2025? If yes, for each incident:
+a.Describe immediate mitigation actions taken.
+b.Describe longer-term corrective measures implemented.
+
+Response:
+
+Georgia Power did not have any significant, confirmed physical security breaches in 2025. The Company continues to be targeted for low level and opportunistic criminal activity such as theft (e.g., copper and tools), vandalism (graffiti), and trespassing (vagrancy) at a rate consistent with energy sector benchmarks.
+Georgia Power utilizes a comprehensive defense‑in‑depth physical security strategy to protect its facilities, assets, and critical infrastructure. This strategy aligns with industry best practices and is designed to secure, monitor, detect, deter, delay, and respond to potential threats in a manner consistent with regulatory expectations and the Company’s corporate security standards. For all reported securityrelated incidents, the Company follows its established physical security response protocols to ensure the safety of employees and the protection of Company assets.
+Immediate mitigation measures may vary depending on the incident but typically include one or more of the following:
+Deployment or increased frequency of security patrols
+Enhanced situational awareness measures and employee training
+Rapid deployment of mobile camera solutions or other temporary monitoring assets
+When longer‑term enhancements are warranted, Georgia Power implements corrective and preventative measures aligned with industry benchmarks and internal risk assessments. These may include:
+Enhanced perimeter fencing and accesscontrol improvements 
+Upgraded or expanded lighting systems to deter unauthorized activity 
+Installation of permanent, networked camera systems with integration into centralized monitoring 
+Additional sitespecific infrastructure hardening measures when supported by risk evaluation.
+The Company continuously evaluates emerging threats, operational needs, and lessons learned to ensure that its physical security measures remain effective and protective.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-6.docx =====
+STF-PIA-18-6
+
+Question: 
+
+Identify the number of physical security threats directed at the Company, by month, during the past year (2025).
+
+Response:
+
+There were no credible or actionable physical security threats received during 2025 that required Georgia Power to alter its physical security threat posture. Georgia Power remains a potential target of a wide range of threat actors, which require the physical security team to remain proactive and vigilant. In doing so, the Company considers and monitors broader threats associated to the energy sector on a national scope, arising from wider geopolitical concerns involving our nation. Georgia Power evaluates the potential implications for the Company in order to better position physical security assets around the state. In monitoring and collaborating with industry peers; local, state, and federal law enforcement agencies; and governmental or regulatory entities within the energy sector, Georgia Power continuously looks at ways to enhance the Company’s overall security posture from an industry-wide holistic perspective regarding persistent and evolving threats.
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-20.docx =====
+STF-PIA-18-20
+
+Question: 
+
+What was Georgia Power’s total annual expenditure on cybersecurity programs for each of the past five years (2021–2025)? Break down costs by major categories (e.g., personnel, technology, training, compliance, incident response).
+
+Response:
+
+Cyber GPC Actuals ($M) 
+Non-Fuel O&M  
+Capital+ Non-Fuel O&M +Other income and deductions 
+
+2021 
+2022 
+2023 
+2024 
+2025 
+Technology 
+ $      2.08  
+ $      1.04  
+ $      1.48  
+ $      5.70  
+ $   11.90  
+Personnel 
+ $      1.90  
+ $      1.55  
+ $      2.78  
+ $      6.40  
+ $      8.11  
+Meals, Travel, Training 
+ $      0.08  
+ $      0.06  
+ $      0.14  
+ $      1.38  
+ $      0.63  
+Outside Services 
+ $      1.03  
+ $      0.95  
+ $      1.40  
+ $      5.12  
+ $      4.38  
+Depreciation 
+ $      0.41  
+ $          -    
+ $          -    
+ $      2.54  
+ $      3.14  
+Departmental Expenses 
+ $      0.16  
+ $      0.02  
+ $      0.07  
+ $      0.01  
+ $      0.00  
+Materials 
+ $      0.04  
+ $      1.36  
+ $    (0.06) 
+ $      6.36  
+ $      7.58  
+Departmental Overheads 
+ $      0.03  
+ $    (0.56) 
+ $    (0.02) 
+ $      3.27  
+ $      3.00  
+Other Expenses 
+ $          -    
+ $          -    
+ $          -    
+ $      0.01  
+ $          -    
+Total  
+ $      5.72  
+ $      4.42  
+ $      5.77  
+ $   30.79  
+ $   38.74  
+Accounting Treatment: 
+Depreciation was recorded at the Southern Company corporate level for fiscal years 2022–2023. Beginning in 2024, depreciation and other corporate level costs were incorporated into Georgia Power’s cybersecurity totals. As a result, data prior to 2023 are not fully comparable to post-2023 data. 
+Scope of Reported Data: 
+Pre-2023 expenditures reflect Non-Fuel Operations and Maintenance (“O&M”) costs only. Starting in 2024, reported figures encompass Capital, Non-Fuel O&M, and Other Income and Deductions, contributing to the observed increase in total expenditures. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-9 Attachment B PUBLIC DISCLOSURE.pdf =====
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE                                                                  STF-PIA-18-9 Attachment B PD.pdf
+
+
+                    Southern Company Physical Security Intelligence Unit
+                            Monthly Report – Georgia Power Company
+                                                 April 29, 2025
+                                     Information Cutoff: April 28, 2025, at 1200
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE                                                                  STF-PIA-18-9 Attachment B PD.pdf
+
+
+                    Southern Company Physical Security Intelligence Unit
+                            Monthly Report – Georgia Power Company
+                                                 March 27, 2025
+                                     Information Cutoff: March 24, 2025, at 1200
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+PUBLIC DISCLOSURE   STF-PIA-18-9 Attachment B PD.pdf
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-4.docx =====
+STF-PIA-18-4
+
+Question: 
+
+Provide copies of all E-ISAC Bulletins in which the Company or Southern Company issued cybersecurity notifications in 2025.
+
+Response:
+
+The Company has none to report because Georgia Power did not issue any formal notifications.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-13.docx =====
+STF-PIA-18-13
+
+Question: 
+
+How does Georgia Power maintain records of security threats?
+a.How is this information organized (e.g., benchmarks, goals, metrics)?
+b.What categories and subcategories are used for cyber and physical security information? 
+For example, using E-ISAC subcategories:
+Cybersecurity: Malware, Ransomware, Threats, Phishing, Scanning, Initial Access, Others.
+Physical Security: Ballistic Damage, Vandalism, Intrusion, Theft, Assault, Suspicious Activity, Surveillance, Threats (online, phone, in person), Others.
+
+Response:
+
+Georgia Power employs an internal case‑management system to document, classify, and maintain records of all reported security‑related incidents, as well as all credible and actionable security threats directed at the Company. The information is organized through defined metrics to support consistent tracking, reporting, and compliance review. For physical security matters, incident records are categorized under established classifications, including Financial Integrity / Fraud, Property Damage, Suspicious Activity, Theft, Trespass, Workplace Violence, and Other.
+
+Georgia Power maintains comprehensive records of both cyber and physical security threats through centralized systems managed by our Security Operations Center (SOC) and Corporate Security teams. Records are compiled from internal monitoring tools, incident reports, and external intelligence sources and are retained according to corporate policy and regulatory requirements. All records are maintained in secure, access-controlled systems to ensure integrity and traceability. Data is analyzed regularly to identify trends, inform risk assessments, and guide continuous improvement in Georgia Power’s protective posture. 
+Organization of Information:
+ Security threat data is organized using standardized benchmarks, goals, and metrics aligned to industry frameworks (e.g., NIST 800 series, NIST CSF). Information is tracked in incident management platforms and dashboards that categorize events by type, severity, and resolution status. Metrics include detection rates, response times, and mitigation effectiveness, (Mean Time To Detect (MTTD), Mean Time To Assign (MTTA),  Mean Time To Contain (MTTC)). 
+Categories and Subcategories: 
+Georgia Power classifies threat information into two primary domains—Cybersecurity and Physical Security—with subcategories modeled on NIST guidance: 
+Cybersecurity: 
+Malware 
+Ransomware 
+Identity attacks 
+Phishing 
+Scanning/Reconnaissance 
+Other Emerging Threats 
+
+Physical Security: 
+Financial Integrity
+Fraud
+Property Damage
+Suspicious Activity
+Theft
+Trespass
+Workplace Violence
+Other
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-18.docx =====
+STF-PIA-18-18
+
+Question: 
+
+What processes are in place to prevent unnecessary duplication of cybersecurity tools or services?
+
+Response:
+
+Georgia Power’s Cybersecurity Organization applies a structured governance framework to prevent unnecessary duplication of cybersecurity tools and services. Proposed security solutions are reviewed through an Architectural Review Board (“ARB”) prior to implementation to confirm architectural fit, alignment with existing capabilities, and a validated business use case. In addition, as a centralized Cybersecurity Architecture function, the ARB reviews all security products for appropriateness, overlap, and operational readiness. 
+
+Financial discipline is reinforced through a Budget Governance Committee, which reviews and prioritizes cybersecurity investments to ensure consolidation where possible and alignment with enterprise standards. Together, these controls provide layered oversight that limits tool proliferation, promotes efficient use of resources, and ensures cybersecurity investments are deliberate, coordinated, and risk driven. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-9 Attachment A PUBLIC DISCLOSURE.docx =====
+
+
+This file has been redacted in its entirety.
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-17 Attachment.pdf =====
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-23.docx =====
+STF-PIA-18-23
+
+Question: 
+
+How does Georgia Power forecast future cybersecurity spending? What assumptions or risk scenarios inform these projections?
+
+Response:
+
+Georgia Power forecasts cybersecurity expenditures as part of its broader information technology and corporate risk management planning process. Forecasts are developed annually and refined through the Company’s multiyear budgeting cycle in coordination with Southern Company Services. 
+
+Projected spending levels are informed by: 
+Expected technology lifecycle upgrades and system modernization needs; 
+Anticipated regulatory and compliance requirements; 
+Industry benchmarks and evolving best practices; 
+Enterprise risk assessments that consider emerging cyber threats and operational resilience objectives; and 
+Workforce planning to maintain appropriate security staffing and expertise. 
+
+Cybersecurity budgets are reviewed and adjusted periodically to reflect changes in threat environment, business operations, and regulatory guidance. Forecasts are not based on specific threat events but on prudent planning assumptions consistent with maintaining a robust and adaptive cybersecurity posture. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/DRSUM 56002 & 56003 STF-PIA-18 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:        March 23, 2026
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-PIA-18
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+2
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-PIA-18
+3
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+4
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+5
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+6
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+7
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+8
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+9
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-PIA-18
+10
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+11
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+12
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+13
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+14
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+15
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+16
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+17
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+18
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+19
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+20
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+21
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+22
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+23
+COMPLETE
+NONE
+56002 & 56003
+STF-PIA-18
+24
+COMPLETE
+NONE
+`
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18 Verification_Executed.pdf =====
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-10.docx =====
+STF-PIA-18-10
+
+Question: 
+
+How does senior management communicate and oversee policies and procedures for assessing cybersecurity risks to organizational missions and business functions?
+
+Response:
+
+Georgia Power has established internal standards and guidelines for governing and enforcing cybersecurity risks. These standards are developed in partnership with subject matter experts from across the business to ensure that each operational department can manage risk while maintaining critical business functions. 
+
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-8.docx =====
+STF-PIA-18-8
+
+Question: 
+
+Provide copies of all physical security notifications or information shared with GBI, GA Emergency Management and Homeland Security, CISA, E- ISAC, U.S. Government agencies, or other relevant entities in 2025.
+
+Response:
+
+The Company communicates with local, state, and federal partners both proactively and on an as needed basis. Governmental organizations provide industry relevant news and information to the Company through many of these organizations. Georgia Power engages with the mentioned government partners to stay up to date on current and future physical security threats and vulnerabilities. However, there are no physical copies of any notifications or information shared to provide in response to this question. 
+
+===== DKT 56002 & 56003 STF-PIA-18 PD/STF-PIA-18-11.docx =====
+STF-PIA-18-11
+
+Question: 
+
+How does Georgia Power define and assess:
+a.Overall enterprise risk?
+b.Cybersecurity-specific risk?
+
+Response:
+
+On an annual basis, the Southern Company Technology Organization performs an annual review of its Risk Profile, which includes cybersecurity risk. The organization includes various sub risks such as nation-state or criminal attacks. The cybersecurity sub risks are evaluated based on their impact, likelihood, controllability, and velocity of the event happening. 
+Georgia Power has established internal standards and guidelines, which are used for defining, governing, and enforcing cybersecurity risks. These standards are developed in partnership with subject matter experts from across the business to ensure they manage risk while maintaining critical business functions.

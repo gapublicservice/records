@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108958,
+      "bytes": 773850,
+      "name": "gpc_rtp_direct_testimony_dkt__no__57171.zip",
+      "text": "zip (4 read)",
+      "text_file": "data/text/227/227629/108958.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227629/108958"
+    },
+    {
+      "attachment_id": 108972,
+      "bytes": 42213,
+      "name": "DKT 57171 - RTP Investigation Direct Testimony - Transmittal.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227629/108972.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227629/108972"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's RTP Direct Testimony",
+  "dockets": [
+    57171
+  ],
+  "document_id": 227629,
+  "filed_date": "2026-08-14",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227629"
+}

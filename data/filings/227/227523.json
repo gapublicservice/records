@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108801,
+      "bytes": 1469671,
+      "name": "dkt_44280_charge_it_2026_q2.zip",
+      "text": "zip (3 read, 1 not read)",
+      "text_file": "data/text/227/227523/108801.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227523/108801"
+    },
+    {
+      "attachment_id": 108802,
+      "bytes": 33510,
+      "name": "2026 Q2 Charge It EV Rider Cover Ltr (1).docx",
+      "text": "docx",
+      "text_file": "data/text/227/227523/108802.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227523/108802"
+    },
+    {
+      "attachment_id": 108810,
+      "bytes": 46745,
+      "name": "2026 Q2 Charge It EV Rider Cover Ltr (1).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227523/108810.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227523/108810"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Charge It Electric Vehicle Rider Report for 2026 Q2",
+  "dockets": [
+    44280
+  ],
+  "document_id": 227523,
+  "filed_date": "2026-08-07",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-07",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227523"
+}

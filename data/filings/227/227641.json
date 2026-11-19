@@ -1,0 +1,41 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108981,
+      "bytes": 2565559,
+      "name": "dkt_56003_dsm_2026_q2.zip",
+      "text": "zip (3 read, 1 not read)",
+      "text_file": "data/text/227/227641/108981.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227641/108981"
+    },
+    {
+      "attachment_id": 108982,
+      "bytes": 41215,
+      "name": "DSM PSC Q2 2026 Cover Letter.docx",
+      "text": "docx",
+      "text_file": "data/text/227/227641/108982.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227641/108982"
+    },
+    {
+      "attachment_id": 108983,
+      "bytes": 48441,
+      "name": "DSM PSC Q2 2026 Cover Letter.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227641/108983.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227641/108983"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DSM 2026 Q2",
+  "dockets": [
+    56003
+  ],
+  "document_id": 227641,
+  "filed_date": "2026-08-17",
+  "harvested": "2026-11-19",
+  "received_date": "2026-08-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227641"
+}

@@ -1,0 +1,229 @@
+===== DKT 57171 STF-JKA-1/STF-JKA-1-2.docx =====
+STF-JKA-1-2
+
+Question: 
+
+Refer to the Company’s CARES CIR tariff “CARES CR-1” which includes a sharing and accounting of credits in the fuel cost recovery process.
+
+a.Please explain how the CARES CIR tariff will be tracked in the FCR. Will this be considered a renewable program?
+b.Provide a breakdown of all components of costs and benefits that will be associated with this program and flow through the FCR (e.g. bid fees, administrative fees, PPA costs, subscription revenues, etc.)
+c.Provide all workpapers, calculations, and methodology descriptions that were used in the development/demonstration of the approved CARES CR-1 tariff, and the determination of the estimated revenues/costs that were assigned to customers and to the fuel cost recovery balance during the projected FCR-27 period or beyond.
+
+Response:
+
+The CARES CIR program is a renewable energy procurement program that allows customers to subscribe to the clean energy attributes from renewable resources they choose for their subscription.
+The table below, agreed to by Commission Staff on July 17, 2026, illustrates how the components of the CARES CR-1 tariff will be booked in accordance with the Commission’s Order in Docket No. 56765.
+
+Subscription Component
+Revenue Category
+PPA Supply Cost
+Fuel
+Transmission Upgrade Cost
+Base
+Additional Sum
+Base
+Integration Cost (currently $0)
+Fuel
+Administrative Fee
+Base
+Optional Community Benefit Adder
+TBD by GPC & Staff
+
+
+Subscription Component
+Cost Category
+Avoided Cost Credit
+Fuel
+Program Administration
+Base
+
+Please see STF-JKA-1-2 Attachment A for a description of the revenues and costs associated with the procurement of renewable resources through the RFP process. Please see STF-JKA-1-2 Attachment B for a description of the revenues and costs associated with a renewable subscription program. 
+As CIR is an optional program with no assumed participation, no forward-looking estimates of costs and revenues were projected in FCR-27.
+
+===== DKT 57171 STF-JKA-1/STF-JKA-1-1.docx =====
+STF-JKA-1-1
+
+Question: 
+
+Refer to the Company’s CARES CIR tariff “CARES CR-1” which includes definition:
+Hourly CIR Credit = Georgia Power’s hourly operating costs of Hr. incremental generation per kWh. Hourly CIR Credits will be applied according to the customer’s subscription level and consistent with the CARES CIR Mo. calculation set forth above. For customers subscribing to a CARES DG project, the Hourly CIR Credit Hr, will be adjusted to account for avoided transmission losses. If the Hourly CIR Credit Hr, in an hour exceeds the CARES CIR Price, Georgia Power will implement a shared savings approach under which: (i) participating customers under the applicable CARES CIR program will receive 75% of the excess credit; and (ii) all retail customers will receive 25% of the excess credit through the fuel cost recovery process.
+a.Please describe how the Company derives the hourly CIR Credit and the definition of the “hourly operating costs of incremental generation per kWh” and why that methodology is reasonable for purposes of the CARES CIR program.
+b.Please explain how this rate methodology compares to the RTP rate charged to customers, and show an example for every hour in July 2025 comparing the components that built up the CARES CIR rate compared to the RTP rate charged to customers.
+c.Please explain how this rate compares to the RTP fuel credit methodology, and show an example for every hour in July 2025 comparing the components that built up the CARES CIR rate compared to the RTP fuel credit methodology.
+d.Please explain how this rate compares to the Company’s AIER rate, and show an example for every hour in July 2025 comparing the components that built up the CARES CIR rate compared to the Company’s AIER rate.
+
+Response:
+
+The Company uses the actual hourly Associated Interchange Energy Rate (“AIER”) for the hourly operating costs of incremental generation per kilowatt hour (“kWh”). Consistent with the Company’s other subscription programs that offer an avoided energy credit to subscribing customers such as C&I REDI, CRSP, and CARES, AIER is used as the hourly energy credit for determining the bill credit for subscribing customers. However, as noted in the CR-1 tariff, when the hourly AIER value exceeds the subscription price, subscribing customers only receive 75% of the incremental avoided energy credit above the subscription price. For example, if the subscription price is $0.06/kWh and the hourly AIER is $0.07/kWh, then CIR subscribers would receive an avoided energy credit of $0.0675/kWh for that particular hour. Conversely, in C&I REDI, CRSP, and CARES, a subscribing customer would receive an avoided energy credit of $0.07/kWh.
+Providing an avoided energy credit based on AIER is an appropriate credit as it represents the value that the energy from the subscribed renewable resource provides to the grid.
+
+The Real Time Pricing (“RTP”) price is made up of various components, as described in the Company’s responses to STF-JKA-1-5 and STF-JKA-1-6 in Docket No. 56765. The system lambda portion of the RTP price signal is based on day ahead or hour ahead projections, while AIER is based on actual system lambda settlement.
+
+There were no customers enrolled in CIR in July 2025; therefore, there was no CIR subscription price calculated. As such, it is not possible to compare RTP prices and CIR prices for the month of July 2025. As outlined in the CR-1 tariff, specific power purchase agreement (“PPA”) prices, transmission upgrade costs (applicable for Utility Scale projects only), and additional sum amounts are the components used to calculate the CIR subscription price. This information will not be known until resources are contracted and certified by the GPSC. There are currently no renewable projects under contract for the CIR program.
+
+The RTP fuel credit calculation is described in the Company’s response to STF-JKA-1-4 in Docket No. 56765, which is based on all Georgia Power generating units running in each hour plus pool purchases or deliveries. AIER is based on actual system lambda settlement.
+
+Since it is estimated that no CIR projects will be online for at least 2 to 3 years, there were no customers enrolled in CIR in July 2025. Therefore, there was no CIR subscription price calculated. Please see the response to subpart (a) above for how the avoided energy credit would be calculated.
+
+Please see the responses to subparts (a) and (b) above.
+
+===== DKT 57171 STF-JKA-1/STF-JKA-1-2 Attachment B.docx =====
+
+Revenues
+Subscription price paid by subscribing customers
+Power Purchase Agreement (“PPA”) price (FUEL)
+Covers PPA costs that flow through fuel.  Therefore, revenue from subscribing customers should also be booked to fuel to cover the PPA costs.
+Levelized Transmission (BASE)
+Covers Transmission interconnection and delivery upgrades caused by the renewable projects supplying the subscription.
+This component of the subscription revenue is booked as base revenue to effectively offset an increase in revenue requirements caused by the Transmission upgrades.  This accounting should remain unchanged.
+Levelized additional sum (BASE)
+Covers the additional sum allowed.
+These revenues are booked as base revenues to cover the additional sum amounts related to the PPAs.  This accounting should remain unchanged.
+Renewable integration cost ($0) (FUEL)
+The integration cost is currently $0.
+If the integration costs change from $0, these revenues should be booked to fuel to offset the increase in production costs that materialize through normal system dispatch related to managing renewable variability. 
+Administrative Fee (DEFERRED)
+The Admin Fee ($0.25/MWh for CARES US, $0.75/MWh for CARES DG, $0.35/MWh for CARES US CIR, and $0.85/MWh for CARES DG CIR) covers the labor to administer the subscription program.  Prior to Fuel case stipulation, these revenues were booked to fuel since the costs to administer the subscription program were also booked to fuel.  Following the fuel case, the revenues collected through the Admin Fee should be captured as part of the over/under deferral.
+Optional community adder fee (BASE)
+There are currently no customers offering to pay this incremental fee.  If a customer decides to pay this fee, it would most likely be booked as a base revenue to cover any costs associated with activities by GPC to expand program offerings to low to moderate income (“LMI”) customers.
+
+Costs
+Avoided cost credit (FUEL)
+The avoided cost credit is associated with the offsetting reduction to avoided costs that the renewable PPAs provide.  The avoided cost credit should continue to be booked to fuel.
+Further, in the Customer Identified Resource (“CIR”) program, when avoided costs exceed the subscription price, retail customers (non-subscribers) will receive 25% of the benefit.  Since this is a fuel-related benefit, it should continue to flow through the fuel clause.
+Program administration (DEFERRED)
+The labor costs and other program-related costs associated with implementing the subscription program were historically booked to fuel.  Moving forward, the costs will be captured as part of the over/under deferral.
+
+Subscription Component
+Revenue Category
+PPA Supply Cost
+Fuel
+Transmission Upgrade Cost
+Base
+Additional Sum
+Base
+Integration Cost (currently $0)
+Fuel
+Administrative Fee
+Base
+Optional Community Benefit Adder
+TBD by GPC & Staff
+
+
+Subscription Component
+Cost Category
+Avoided Cost Credit
+Fuel
+Program Administration
+Base
+
+
+===== DKT 57171 STF-JKA-1/STF-JKA-1-2 Attachment A.docx =====
+Utility Scale
+Revenues
+Category
+Bid Fee
+Monthly O/U
+Winner's Fee
+Monthly O/U
+Assignment Fee
+Monthly O/U
+Change of Control
+Monthly O/U
+Estoppel Request
+Monthly O/U
+Bid Security
+Fuel
+Liquidated Damages
+Fuel
+Termination Payment
+Fuel
+
+
+Costs
+Category
+Evaluation Team labor
+Monthly O/U
+Independent Evaluator
+Monthly O/U
+External Legal
+Monthly O/U
+External Consultants
+Monthly O/U
+PSC Certification
+Monthly O/U
+Power Clerk
+Monthly O/U
+
+Revenues
+Bid Fee (required) – fees paid by each bidder to cover some of the Independent Evaluator (“IE”) costs as well as the Company’s cost to evaluate bid submissions. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Winner’s Fee (required) – Fees paid by each winning bidder awarded a PPA to defray costs related to certification process and remaining IE and RFP evaluation costs. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Assignment Fee (occasional) – these fees offset labor costs to handle the review, preparation, and execution of a PPA assignment.  These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Change in Control (occasional) – these fees offset labor costs to handle the review, preparation, and execution of a change in control of a PPA. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Estoppel Request (occasional) – these fees offset labor costs associated with the review, preparation, and execution of an estoppel request. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Bid Security (occasional) – When drawn upon, Bid Security offsets the costs related to GPC having to contract with a higher-priced PPA if a bidder walks away before signing an executable PPA. Since PPA payments are booked to fuel, Bid Security collected should also be booked to fuel to offset higher PPA payments.
+Liquidated Damages (occasional) – Liquidated damages/delay damages should be booked to fuel since they offset the incremental cost of system generation to replace the missing energy expected from the PPA if the Facility does not achieve commercial operation when intended and replacement energy is needed.
+Termination Payment (occasional) – Termination payments/Performance security should be booked to fuel since they represent the costs of replacement energy if a PPA is terminated.
+Costs
+Evaluation Team labor (US procurement and other Departments including internal legal) - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Independent Evaluator charges - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+External legal - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Consultant charges (Build Transfer Agreement or Asset Purchase Agreement diligence review; occasional) - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Certification costs – GPC must pay the GPSC a fee for certification proceedings.  These costs are determined by the Commission Staff, result from RFP implementation, and should be included in the monthly over/under calculation because of the FCR stipulation.
+PowerClerk - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+
+Distributed Generation
+Revenues
+Category
+Bid Fee
+Monthly O/U
+Winner's Fee
+Monthly O/U
+Amendment Fee
+Monthly O/U
+Assignment Fee
+Monthly O/U
+Change of Control
+Monthly O/U
+Estoppel Request
+Monthly O/U
+Liquidated Damages
+Fuel
+Termination Payment
+Fuel
+
+
+Costs
+Category
+Evaluation Team labor
+Monthly O/U
+Independent Evaluator
+Monthly O/U
+External Legal
+Monthly O/U
+External Consultants
+Monthly O/U
+PSC Certification
+Monthly O/U
+Power Clerk
+Monthly O/U
+
+Revenues
+Bid Fee (required) – fees paid by each bidder to cover some of the IE costs as well as Company’s cost to evaluate bid submissions. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Winner’s Fee (required) – Fees paid by each winning bidder awarded a PPA to defray costs related to certification process and remaining IE and evaluation costs. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Interconnection Study Fee – This fee offsets the labor costs to study interconnections for projects. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Amendment Fee (occasional) - these fees offset labor costs to handle the review, preparation, and execution of a PPA contract amendments. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Assignment Fee (occasional) - these fees offset labor costs to handle the review, preparation, and execution of a PPA assignments. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Change of Control (occasional) - these fees offset labor costs to handle the review, preparation, and execution of a change in control of a PPA. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Estoppel Request (occasional) – these fees offset labor costs associated with the review, preparation, and execution of an estoppel. These fees are revenues resulting from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Liquidated Damages (occasional) - Liquidated damages/delay damages should be booked to fuel since they offset the incremental cost of system generation to replace the missing energy expected from the PPA if the Facility does not achieve commercial operation when intended and replacement energy is needed.
+Termination Fee (occasional) - Termination payments/Performance security should be booked to fuel since they represent the costs of replacement energy if a PPA is terminated.
+Costs
+Evaluation Team labor (DG procurement and other Departments including internal legal) - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Independent Evaluator charges - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+External legal - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation.
+Certification costs – GPC must pay the GPSC a fee for certification proceedings.  If these occur for DG projects, then these costs are determined by the Commission Staff, result from RFP implementation, and should be included in the monthly over/under calculation because of the FCR stipulation.
+PowerClerk - These costs result from RFP administration and should be included in the monthly over/under calculation because of the FCR stipulation
+
+
+===== DKT 57171 STF-JKA-1/STF-JKA-1 Affidavit.pdf =====

@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 108552,
+      "bytes": 879241,
+      "name": "227315.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227315/108552"
+    },
+    {
+      "attachment_id": 108553,
+      "bytes": 214105,
+      "name": "56298 Order Approving Consent to Change of Control (1).docx",
+      "text": "docx",
+      "text_file": "data/text/227/227315/108553.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227315/108553"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER APPROVING CHANGE OF CONTROL FOR MID-GEORGIA COGEN",
+  "dockets": [
+    56298
+  ],
+  "document_id": 227315,
+  "filed_date": "2026-07-23",
+  "harvested": "2026-11-19",
+  "received_date": "2026-07-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=227315"
+}

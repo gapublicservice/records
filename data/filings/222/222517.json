@@ -1,0 +1,33 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 103634,
+      "bytes": 326579,
+      "name": "56002 & 56003.Barber Kaduk Bower Exhibits.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222517/103634.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222517/103634"
+    },
+    {
+      "attachment_id": 103635,
+      "bytes": 1333161,
+      "name": "56002 & 56003.Barber-Kaduk- Bower Renewable Staff Direct Testimony.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/222/222517/103635.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222517/103635"
+    }
+  ],
+  "company": "Staff",
+  "description": "DIRECT TESTIMONY AND EXHIBITS OF JAMIE BARBER, JOHN KADUK, AND JEFFREY D. BOWER",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 222517,
+  "filed_date": "2025-05-05",
+  "harvested": "2026-11-19",
+  "received_date": "2025-05-05",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=222517"
+}

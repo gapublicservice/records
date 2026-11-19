@@ -1,0 +1,32 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110002,
+      "bytes": 238824,
+      "name": "DN 56002-56003 2026 Hatch EPU Order.docx",
+      "text": "docx",
+      "text_file": "data/text/229/229080/110002.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229080/110002"
+    },
+    {
+      "attachment_id": 110003,
+      "bytes": 954215,
+      "name": "229080.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229080/110003"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER APPROVING GEORGIA POWER COMPANY’S APPLICATION FOR APPROVAL OF THE 2026 PLANT HATCH 1-2 NUCLEAR EXTENDED POWER UPRATES (“EPU”)",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 229080,
+  "filed_date": "2026-10-09",
+  "harvested": "2026-11-19",
+  "received_date": "2026-10-09",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229080"
+}

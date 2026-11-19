@@ -1,0 +1,30 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 105188,
+      "name": "56002 56003 Order Denying SELC Motion Challenging GPC's Trade Secret Assertions tb.docx",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223869/105188"
+    },
+    {
+      "attachment_id": 105189,
+      "bytes": 1604247,
+      "name": "223869.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223869/105189"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER DENYING SOUTHERN ENVIROMENTAL LAW CENTER’S MOTION CHALLENGING TRADE SECRET ASSERTIONS",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 223869,
+  "filed_date": "2025-09-04",
+  "harvested": "2026-11-19",
+  "received_date": "2025-09-04",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=223869"
+}
