@@ -115,6 +115,30 @@ def read_text(rec: dict) -> str:
     return "\n".join(parts)
 
 
+def file_status(rec: dict) -> dict:
+    """Whether the Commission offers a file for this filing that anyone can download.
+
+    state: "available" (at least one public file), "none" (the Commission lists no
+    file), "confidential" (every listed file carries a trade-secret marker) or
+    "unconfirmed" (public files are listed but our last download attempt failed).
+    public: attachment ids of the public files. Trade-secret files are never stored.
+    """
+    atts = rec.get("attachments") or []
+    public = [a for a in atts if not a.get("trade_secret_marked")]
+    conf = len(atts) - len(public)
+    failed = [a for a in public if str(a.get("text") or "").startswith("download failed")]
+    if not atts:
+        state = "none"
+    elif not public:
+        state = "confidential"
+    elif len(failed) == len(public):
+        state = "unconfirmed"
+    else:
+        state = "available"
+    return {"state": state, "public": [a["attachment_id"] for a in public if a not in failed],
+            "confidential": conf}
+
+
 def own_units(rec: dict) -> dict[str, str]:
     """Units this filing's own filer, title or docket points to, with the reason."""
     out: dict[str, str] = {}
@@ -198,6 +222,7 @@ def build() -> tuple[list[dict], dict]:
             "units": sorted(tags), "unit_reasons": tags,
             "committees": sorted({COMMITTEE[u] for u in tags if u in COMMITTEE}),
             "disagreement": dis, **pl,
+            "files": file_status(r),
         }
         index.append(row)
         for d in row["dockets"]:

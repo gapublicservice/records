@@ -28,5 +28,17 @@ class TagsTest(unittest.TestCase):
         self.assertEqual(pl["regions_in_text"], ["Coastal"])
 
 
+    def test_file_status(self):
+        from harvester.tags import file_status
+        self.assertEqual(file_status({"attachments": []})["state"], "none")
+        ts = {"attachment_id": 1, "trade_secret_marked": True}
+        self.assertEqual(file_status({"attachments": [ts]})["state"], "confidential")
+        bad = {"attachment_id": 2, "trade_secret_marked": False, "text": "download failed: URLError"}
+        self.assertEqual(file_status({"attachments": [bad]})["state"], "unconfirmed")
+        ok = {"attachment_id": 3, "trade_secret_marked": False, "text": "not read yet"}
+        st = file_status({"attachments": [ok, ts]})
+        self.assertEqual((st["state"], st["public"], st["confidential"]), ("available", [3], 1))
+
+
 if __name__ == "__main__":
     unittest.main()

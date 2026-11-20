@@ -34,6 +34,50 @@ CLIMATE_LINE = ""
 
 e = html.escape
 
+PSC_FILE = "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/{doc}/{att}"
+# Plain, general reasons a filing has no file to download. They describe the kind of
+# entry, never the party, and they must stay the same in the page and in SEARCH_JS.
+FILE_NOTES = {
+    "none": ("No file posted",
+             "The Commission's page for this entry doesn't list a file to download. Some entries "
+             "are notices or record-only entries, and sometimes a file is added later."),
+    "confidential": ("Confidential",
+                     "Every file listed for this entry is marked as a trade secret, which the "
+                     "Commission keeps out of public view, so there is nothing public to download. "
+                     "When a public version is filed, it usually appears as its own entry."),
+    "unconfirmed": ("File not reached",
+                    "The Commission lists a file here, but our last attempt to download it failed. "
+                    "That is often temporary and the record tries again. The Commission's own page "
+                    "may still offer it."),
+    "more_confidential": ("{n} confidential",
+                          "This entry also lists {n} file{s} marked as a trade secret. Those are kept "
+                          "out of public view and can't be downloaded."),
+}
+STATE_CODE = {"available": 0, "none": 1, "confidential": 2, "unconfirmed": 3}
+
+
+def _why(label: str, text: str) -> str:
+    return (f'<button type="button" class="file no" aria-label="{e(label)}: why">{e(label)}'
+            f'<span class="why" role="tooltip">{e(text)}</span></button>')
+
+
+def file_marker(doc_id: int, files: dict | None) -> str:
+    """The download line under a filing: a link to the file, or why there isn't one."""
+    if not files:
+        return ""
+    state, public, conf = files["state"], files.get("public") or [], files.get("confidential", 0)
+    if state == "available":
+        if len(public) == 1:
+            out = (f'<a class="file ok" href="{PSC_FILE.format(doc=doc_id, att=public[0])}">'
+                   'Download file</a>')
+        else:
+            out = f'<a class="file ok" href="{PSC_DOC}{doc_id}">{len(public)} files to download</a>'
+        if conf:
+            lab, txt = FILE_NOTES["more_confidential"]
+            out += _why(lab.format(n=conf), txt.format(n=conf, s="" if conf == 1 else "s"))
+        return out
+    return _why(*FILE_NOTES[state])
+
 
 def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
     up = "../" * depth
@@ -58,7 +102,9 @@ def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -
 <p><strong>{e(INDEPENDENCE)}</strong></p>
 <p>{e(SPONSOR)} Records are copied each night from the Commission's public site; each one links to the original.</p>
 <p class="mono">Built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
-</div></footer></body></html>
+</div></footer>
+<script>document.addEventListener('click',function(v){{var b=v.target.closest('.file.no');document.querySelectorAll('.file.no.open').forEach(function(x){{if(x!==b)x.classList.remove('open')}});if(b)b.classList.toggle('open')}});document.addEventListener('keydown',function(v){{if(v.key==='Escape')document.querySelectorAll('.file.no.open').forEach(function(x){{x.classList.remove('open')}})}});</script>
+</body></html>
 """
 
 
@@ -78,7 +124,7 @@ def filing_row(r: dict, depth: int, show_docket: bool = True) -> str:
     if show_docket:
         cells.append(f"<td>{dk}</td>")
     cells.append(f'<td>{e(r.get("company") or "No filer named")}</td>')
-    cells.append(f'<td><a href="{PSC_DOC}{r["document_id"]}">{e((r.get("description") or "").strip() or "(no description)")}</a><br>{tags}</td>')
+    cells.append(f'<td><a href="{PSC_DOC}{r["document_id"]}">{e((r.get("description") or "").strip() or "(no description)")}</a><br>{file_marker(r["document_id"], r.get("files"))}{tags}</td>')
     return "<tr>" + "".join(cells) + "</tr>"
 
 
@@ -107,8 +153,15 @@ def build_search_data(rows):
                         r["dockets"], (r.get("description") or "").strip(),
                         [units.index(u) for u in r["units"]],
                         [regions.index(g) for g in r["regions"]],
-                        r["counties_in_title"], 1 if r["disagreement"] else 0])
-    return {"units": units, "regions": regions, "filings": compact}
+                        r["counties_in_title"], 1 if r["disagreement"] else 0,
+                        file_compact(r.get("files"))])
+    return {"units": units, "regions": regions, "notes": FILE_NOTES, "filings": compact}
+
+
+def file_compact(files: dict | None) -> list:
+    if not files:
+        return []
+    return [STATE_CODE[files["state"]], files.get("public") or [], files.get("confidential", 0)]
 
 
 SEARCH_JS = r"""
@@ -121,34 +174,47 @@ SEARCH_JS = r"""
  const years=[...new Set(F.map(f=>f[1].slice(0,4)).filter(Boolean))].sort().reverse();
  $('#year').innerHTML='<option value="">Any year</option>'+years.map(y=>'<option>'+y+'</option>').join('');
  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+ const N=D.notes, ST=['available','none','confidential','unconfirmed'];
+ const why=(l,t)=>'<button type="button" class="file no" aria-label="'+esc(l)+': why">'+esc(l)+'<span class="why" role="tooltip">'+esc(t)+'</span></button>';
+ function file(f){
+  const x=f[9]; if(!x||!x.length)return '';
+  const st=ST[x[0]], pub=x[1], conf=x[2];
+  if(st!=='available')return why(N[st][0],N[st][1]);
+  let o=pub.length===1?'<a class="file ok" href="https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/'+f[0]+'/'+pub[0]+'">Download file</a>'
+   :'<a class="file ok" href="https://psc.ga.gov/search/facts-document/?documentId='+f[0]+'">'+pub.length+' files to download</a>';
+  if(conf)o+=why(N.more_confidential[0].replace('{n}',conf),N.more_confidential[1].replace('{n}',conf).replace('{s}',conf===1?'':'s'));
+  return o;
+ }
+ if($('#hasfile'))$('#hasfile').addEventListener('change',()=>run());
  let shown=0, hits=[];
  function row(f){
   const dk=f[3].map(d=>'<a class="mono" href="docket/'+d+'/">'+d+'</a>').join(' ')||'<span class="muted">none</span>';
   let tags=f[5].map(i=>'<span class="tag">'+esc(U[i])+'</span>').join('')+f[7].map(c=>'<span class="tag">'+esc(c)+' County</span>').join('');
   if(f[8]) tags+='<span class="tag dis">disagreement</span>';
-  return '<tr><td class="mono">'+esc(f[1])+'</td><td>'+dk+'</td><td>'+esc(f[2]||'No filer named')+'</td><td><a href="https://psc.ga.gov/search/facts-document/?documentId='+f[0]+'">'+esc(f[4]||'(no description)')+'</a><br>'+tags+'</td></tr>';
+  return '<tr><td class="mono">'+esc(f[1])+'</td><td>'+dk+'</td><td>'+esc(f[2]||'No filer named')+'</td><td><a href="https://psc.ga.gov/search/facts-document/?documentId='+f[0]+'">'+esc(f[4]||'(no description)')+'</a><br>'+file(f)+tags+'</td></tr>';
  }
  function run(){
   const q=$('#q').value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-  const u=$('#unit').value, g=$('#region').value, y=$('#year').value, dis=$('#dis').checked;
+  const u=$('#unit').value, g=$('#region').value, y=$('#year').value, dis=$('#dis').checked, hf=$('#hasfile')&&$('#hasfile').checked;
   hits=F.filter(f=>{
    if(u!==''&&!f[5].includes(+u))return false;
    if(g!==''&&!f[6].includes(+g))return false;
    if(y&&!f[1].startsWith(y))return false;
    if(dis&&!f[8])return false;
+   if(hf&&!(f[9]&&f[9][0]===0))return false;
    if(!q.length)return true;
    const hay=(f[2]+' '+f[4]+' '+f[3].join(' ')+' '+f[7].join(' ')+' '+f[0]).toLowerCase();
    return q.every(w=>hay.includes(w));
   });
   shown=0; $('#rows').innerHTML=''; more();
   $('#count').textContent=hits.length.toLocaleString()+' filing'+(hits.length===1?'':'s');
-  const p=new URLSearchParams(); if($('#q').value)p.set('q',$('#q').value); if(u)p.set('unit',U[u]); if(g)p.set('region',G[g]); if(y)p.set('year',y); if(dis)p.set('dis','1');
+  const p=new URLSearchParams(); if($('#q').value)p.set('q',$('#q').value); if(u)p.set('unit',U[u]); if(g)p.set('region',G[g]); if(y)p.set('year',y); if(dis)p.set('dis','1'); if(hf)p.set('file','1');
   history.replaceState(null,'',p.toString()?'?'+p:location.pathname);
  }
  function more(){const next=hits.slice(shown,shown+100);$('#rows').insertAdjacentHTML('beforeend',next.map(row).join(''));shown+=next.length;$('#more').style.display=shown<hits.length?'':'none'}
  const P=new URLSearchParams(location.search);
  if(P.get('q'))$('#q').value=P.get('q'); if(P.get('unit'))$('#unit').value=U.indexOf(P.get('unit')); if(P.get('region'))$('#region').value=G.indexOf(P.get('region'));
- if(P.get('year'))$('#year').value=P.get('year'); if(P.get('dis'))$('#dis').checked=true;
+ if(P.get('year'))$('#year').value=P.get('year'); if(P.get('dis'))$('#dis').checked=true; if(P.get('file')&&$('#hasfile'))$('#hasfile').checked=true;
  let t; $('#q').addEventListener('input',()=>{clearTimeout(t);t=setTimeout(run,150)});
  ['#unit','#region','#year','#dis'].forEach(s=>$(s).addEventListener('change',run));
  $('#more').addEventListener('click',more); run();
@@ -191,7 +257,7 @@ def build():
 {stats}
 <div class="search"><input id="q" type="search" placeholder="Search filer, title, docket or county" aria-label="Search">
 <select id="unit" aria-label="Staff unit"></select><select id="region" aria-label="Region"></select><select id="year" aria-label="Year"></select></div>
-<div class="row2"><label><input type="checkbox" id="dis"> Only filings that object, oppose or ask for rehearing</label><span id="count" class="mono"></span></div>
+<div class="row2"><label><input type="checkbox" id="dis"> Only filings that object, oppose or ask for rehearing</label><label><input type="checkbox" id="hasfile"> Only filings with a file to download</label><span id="count" class="mono"></span></div>
 <table class="wide"><thead><tr><th>Filed</th><th>Docket</th><th>Filer</th><th>Filing</th></tr></thead><tbody id="rows"></tbody></table>
 <button id="more" class="more">Show 100 more</button>
 <noscript><p>Search needs JavaScript. Browse by <a href="dockets.html">docket</a> instead.</p></noscript>
@@ -233,6 +299,16 @@ def build():
                  ("Committee", ", ".join(v["committees"]) or "not tagged")]
         if v.get("regions"):
             facts.append(("Regions named in filing titles", ", ".join(f"{g} ({n})" for g, n in v["regions"].items())))
+        fst = collections.Counter((r.get("files") or {}).get("state") for r in fs)
+        if fs and any(fst):
+            bits = [f"{fst['available']:,} of {len(fs):,} filings have a file to download"]
+            if fst["confidential"]:
+                bits.append(f"{fst['confidential']:,} confidential")
+            if fst["none"]:
+                bits.append(f"{fst['none']:,} with no file posted")
+            if fst["unconfirmed"]:
+                bits.append(f"{fst['unconfirmed']:,} not reached on our last try")
+            facts.append(("Files", "; ".join(bits)))
         if v["disagreeing_filers"]:
             facts.append(("Parties that filed a disagreement", "; ".join(v["disagreeing_filers"])))
         stat = "".join(f"<tr><th>{e(k)}</th><td>{e(x)}</td></tr>" for k, x in facts)
@@ -290,6 +366,8 @@ def build():
 <p>Every tag is a written rule applied to what the Commission published, and each carries the rule that set it. <strong>Staff unit and committee</strong> follow the Commission's own 2025 annual report. <strong>Counties</strong> are those a filing's title names. <strong>Disagreement</strong> means a filing's own title objects, opposes, complains, protests, takes exceptions, appeals, asks for rehearing or moves to compel, dismiss or strike. None of this is a judgment about who is right.</p>
 <h2>How to check a record</h2>
 <p>Every filing links to the Commission's own page. Each stored file carries a SHA-256 fingerprint of the file as downloaded, so anyone can download the original and confirm it is the same. Each Friday five records chosen at random are checked by hand against the Commission's pages, and the result is posted in the record.</p>
+<h2>Files and downloads</h2>
+<p>Each filing shows whether the Commission offers a file anyone can download. <strong>Download file</strong> goes straight to the file on the Commission's site; when there are several, the link opens the Commission's page that lists them. When there is nothing to download, the marker says why in general terms: no file was posted, every file listed is marked as a trade secret, or our last attempt to reach the file failed. Hover over the marker, or tap it on a phone, to read the reason. Trade-secret files are never downloaded or stored here.</p>
 <p>This archive shows what the Commission posted. It does not show that what a filing says is true.</p>"""
     (OUT / "about.html").write_text(page("About", body, "about"))
     n = sum(1 for _ in OUT.rglob("*.html"))
