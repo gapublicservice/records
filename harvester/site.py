@@ -295,7 +295,8 @@ def front_tickers(events: list[dict], dockets: dict, today: str) -> str:
         title = re.sub(r"\s*\d{1,2}-\d{1,2}(-\d{2,4})?$", "", ev["title"])
         title = re.sub(r"^(docket\s*(no\.?|#|nos\.?)?\s*[\d,\s&and]+[\s:-]*)", "", title, flags=re.I).strip()
         dk = "".join(f'<a class="mono" href="docket/{d}/">{d}</a> ' for d in ev["dockets"])
-        what = "" if kind == title else f' {e(_short(title, 70))}'
+        plain = ev["kind"] in ("session", "committee") or kind.lower() == title.lower()
+        what = "" if plain else f' {e(_short(title, 70))}'
         up.append(f'<b>{e(_day(ev["date"], True))}</b> <span class="muted">{e(ev["time"])}</span> '
                   f'<a href="{e(ev["url"])}">{e(kind)}</a> {dk}{what}')
     hot = sorted(((k, v) for k, v in dockets.items() if v.get("contested")),
