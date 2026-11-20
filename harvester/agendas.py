@@ -37,7 +37,7 @@ MAX_BYTES = 15 * 1024 * 1024
 _FILE = re.compile(r'<a\b[^>]*href="((?:https://psc\.ga\.gov)?/site/assets/files/\d+/([^"/?#]+\.(?:docx?|pdf)))"',
                    re.I)
 _DOCKET_CTX = re.compile(r"docket\s*(?:nos?\.?|numbers?|#)?\s*:?\s*((?:\d{4,5}(?:\s*-\s*[A-Z])?[\s,;&]*(?:and\s*)?)+)", re.I)
-_FIVE = re.compile(r"(?<!\d)(\d{5})(?!\d)")
+_NUM = re.compile(r"(?<!\d)(\d{4,5})(?!\d)")  # older dockets have four digits
 
 
 def agenda_files(page: str) -> list[dict]:
@@ -115,12 +115,12 @@ def dockets_in(text: str) -> list[dict]:
     lines = [re.sub(r"\s+", " ", l).strip() for l in text.replace("\r", "\n").split("\n")]
     for i, line in enumerate(lines):
         for m in _DOCKET_CTX.finditer(line):
-            for num in _FIVE.findall(m.group(1)):
+            for num in _NUM.findall(m.group(1)):
                 d = int(num)
-                if 10000 <= d <= 99999 and d not in items:
+                if 1000 <= d <= 99999 and not 1990 <= d <= 2039 and d not in items:
                     # the item often runs onto the next line; keep up to 240 characters
                     nxt = lines[i + 1] if i + 1 < len(lines) else ""
-                    joins = (len(line) <= 100 or line.endswith(":")) and nxt and not re.match(r"(\d+|[A-Za-z]|[ivx]+)[.)]\s|docket", nxt, re.I)
+                    joins = (len(line) <= 100 or line.endswith(":")) and nxt and not re.match(r"\(?(\d+|[A-Za-z]|[ivx]+)[.)]\s|[A-Z]{1,2}-?\d{1,2}\.\s|docket", nxt, re.I)
                     ctx = f"{line} {nxt}" if joins else line
                     items[d] = ctx[:240].rstrip()
     return [{"docket": d, "line": items[d]} for d in sorted(items)]

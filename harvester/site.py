@@ -477,7 +477,7 @@ def _agenda_line(line: str, nums: set[int], dockets: dict, seen: set) -> str:
             seen.add(d)
             idattr = f' id="d{d}"'
         return f'<a class="mono dk"{idattr} href="{href}">{d}</a>'
-    txt = re.sub(r"(?<!\d)(\d{5})(?!\d)", sub, txt)
+    txt = re.sub(r"(?<!\d)(\d{4,5})(?!\d)", sub, txt)
     if _is_heading(line):
         return f'<p class="ag-h">{txt}</p>'
     cls = "ag-item" if _ENUM.match(line) else "ag-p"
@@ -511,6 +511,11 @@ def agenda_paragraphs(lines: list[str]) -> list[str]:
     return out
 
 
+def _item_text(line: str) -> str:
+    """An agenda line without its item number and docket number: 'QX Ground, LLC; GUFPA Case No. ...'."""
+    return re.sub(r"^.*?docket\s*(?:nos?\.?|numbers?|#)?\s*[\d,\s&and-]*[:.]?\s*", "", line, count=1, flags=re.I) or line
+
+
 def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
     kind = KIND_LABEL.get(ev["kind"], "Meeting")
     d = dt.date.fromisoformat(ev["date"])
@@ -531,7 +536,7 @@ def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
         parts.append(head + f'<div class="agenda">{body}</div>')
     dk_list = "".join(
         f'<li><a class="mono" href="{("../../docket/" + str(n) + "/") if str(n) in dockets else PSC_DOCKET + str(n)}">{n}</a> '
-        f'{e(_short(docket_title([], str(n)) or line, 110))}</li>' for n, line in sorted(all_items.items()))
+        f'{e(_short(docket_title([], str(n)) or _item_text(line), 110))}</li>' for n, line in sorted(all_items.items()))
     read = ev.get("read") or checked
     return f"""<div class="kicker"><a href="../../calendar.html">Commission calendar</a></div>
 <h1>{e(kind)}, {e(f"{d:%b} {d.day}, {d.year}")}</h1>
