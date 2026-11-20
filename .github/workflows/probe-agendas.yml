@@ -1,0 +1,32 @@
+name: Probe agenda pages
+
+# Read-only. Fetches the Commission's agenda pages, prints their agenda links
+# and keeps the raw pages as a run artifact so the parser can be built on them.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Space-separated addresses (psc.ga.gov only)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          URLS: ${{ inputs.urls }}
+        run: |
+          for u in $URLS; do case "$u" in https://psc.ga.gov/*) ;; *) echo "skipping $u"; exit 1;; esac; done
+          python scripts/probe_agendas.py pages $URLS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: agenda-pages
+          path: pages
