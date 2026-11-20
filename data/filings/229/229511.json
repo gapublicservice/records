@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110567,
+      "bytes": 374991,
+      "fetched": "2026-11-20T08:27:05+00:00",
+      "name": "dkt_3382_fcr_over_under_oct_2026_pd.zip",
+      "sha256": "5f1428ca87a6c31b1395eba740a368f115f788d7acc4c5fa258090329d99289f",
+      "text": "zip (3 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229511/110567.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229511/110567"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 3382 FCR Over Under Report for October 2026",
+  "dockets": [
+    3382
+  ],
+  "document_id": 229511,
+  "filed_date": "2026-11-19",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229511"
+}

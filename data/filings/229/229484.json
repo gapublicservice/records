@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110427,
+      "bytes": 293718,
+      "fetched": "2026-11-20T08:26:14+00:00",
+      "name": "docket_16193_quarterly_usf_deposit_11162026.zip",
+      "sha256": "faf054d6bd6168f45fe1d49328ff6c2ee6dc3e05cb289c2334e5abfb61b2b26d",
+      "text": "zip (1 read, 1 not read)",
+      "text_file": "data/text/229/229484/110427.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229484/110427"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Quarterly USF Deposits",
+  "dockets": [
+    16193
+  ],
+  "document_id": 229484,
+  "filed_date": "2026-11-16",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229484"
+}

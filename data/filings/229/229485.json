@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110428,
+      "bytes": 48482,
+      "fetched": "2026-11-20T08:26:16+00:00",
+      "name": "dn_12897_october_2026_report.zip",
+      "sha256": "73b5d5f655f26b0b4490080ba15be65156f03b5f1915de97173732228dca2437",
+      "text": "zip (1 read, 2 not read)",
+      "text_file": "data/text/229/229485/110428.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229485/110428"
+    }
+  ],
+  "company": "HopeWorks",
+  "description": "HopeWorks DN12897 October 2026 Report",
+  "dockets": [
+    12897
+  ],
+  "document_id": 229485,
+  "filed_date": "2026-11-17",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229485"
+}

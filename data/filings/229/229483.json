@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110426,
+      "bytes": 333098,
+      "fetched": "2026-11-20T08:26:13+00:00",
+      "name": "dkt_11949_plant_perf_-_september_2026.zip",
+      "sha256": "3e3a2719ba3ffc33ef86884dfe9f93515cc629b218cc1a15f1255b0b9e35f0d3",
+      "text": "zip (3 read)",
+      "text_file": "data/text/229/229483/110426.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229483/110426"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 11949 Plant Performance Monitoring Report for September 2026",
+  "dockets": [
+    11949
+  ],
+  "document_id": 229483,
+  "filed_date": "2026-11-16",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229483"
+}

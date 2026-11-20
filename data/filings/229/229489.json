@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110431,
+      "bytes": 208957,
+      "fetched": "2026-11-20T08:26:23+00:00",
+      "name": "57451 Coastal EMC Order.docx",
+      "sha256": "ec79ff73c08fb697b206d10bf08968637c1104b90c85460cefa1d250484d1715",
+      "text": "docx",
+      "text_file": "data/text/229/229489/110431.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229489/110431"
+    },
+    {
+      "attachment_id": 110432,
+      "bytes": 1080653,
+      "fetched": "2026-11-20T08:26:25+00:00",
+      "name": "229489.pdf",
+      "sha256": "2d9031440240727a13644c1ec3f6d856ae409754115ae813bd2dc2688753584f",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229489/110432"
+    }
+  ],
+  "company": "GPSC",
+  "description": "Order Approving Request for Financing Authority",
+  "dockets": [
+    57451
+  ],
+  "document_id": 229489,
+  "filed_date": "2026-11-18",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229489"
+}

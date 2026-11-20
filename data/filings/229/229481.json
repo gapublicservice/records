@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110424,
+      "bytes": 867023,
+      "fetched": "2026-11-20T08:26:09+00:00",
+      "name": "dkt_55378_lg_load_econ_dev_report_q3_2026_pd.zip",
+      "sha256": "e962ca809f99e228db16e1b3e214ea84c8ce9505d1fa5fe01db36104c388179a",
+      "text": "zip (4 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229481/110424.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229481/110424"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 55378 Large Load Economic Development Report for Q3 2026",
+  "dockets": [
+    55378
+  ],
+  "document_id": 229481,
+  "filed_date": "2026-11-16",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229481"
+}

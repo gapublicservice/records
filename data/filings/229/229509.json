@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110565,
+      "bytes": 277501,
+      "fetched": "2026-11-20T08:27:01+00:00",
+      "name": "public_ga_psc_cegc_docket_15295_monthly_service_quality_measures_submission.pdf",
+      "sha256": "032f6f10ad48c1da472cb806d962e6fc15cdc4c1a1240e5791071c2ad08c7516",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229509/110565.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229509/110565"
+    }
+  ],
+  "company": "Constellation NewEnergy-Gas Division, LLC",
+  "description": "Constellation’s Service Quality Measures Report",
+  "dockets": [
+    15296
+  ],
+  "document_id": 229509,
+  "filed_date": "2026-11-19",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229509"
+}

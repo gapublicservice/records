@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110559,
+      "bytes": 212790,
+      "fetched": "2026-11-20T08:26:42+00:00",
+      "name": "Docket 57371 - Nelson-Ball Ground Telephone Tariff Revision 11-17-2026 ORDER.docx",
+      "sha256": "5e9f75a938456c77cb9022f7dc147f6e1da45f428195e43b0a892bba0dc58af2",
+      "text": "docx",
+      "text_file": "data/text/229/229497/110559.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229497/110559"
+    },
+    {
+      "attachment_id": 110560,
+      "bytes": 437677,
+      "fetched": "2026-11-20T08:26:44+00:00",
+      "name": "229497.pdf",
+      "sha256": "273d03e470f2781277006cf380e67dec6be43449549562762dab0d67badbd03b",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229497/110560"
+    }
+  ],
+  "company": "GPSC",
+  "description": "GENERAL EXCHANGE TARIFF",
+  "dockets": [
+    57371
+  ],
+  "document_id": 229497,
+  "filed_date": "2026-11-18",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229497"
+}

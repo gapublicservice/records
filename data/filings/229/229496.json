@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110556,
+      "bytes": 212791,
+      "fetched": "2026-11-20T08:26:39+00:00",
+      "name": "Docket 57370 - Camden Telephone Tariff Revision ORDER 11-17-2026.docx",
+      "sha256": "65aaa85e554cf248c16b1d9eb23d50b2cf985e3644c53240eb3c47cc8e63abd0",
+      "text": "docx",
+      "text_file": "data/text/229/229496/110556.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229496/110556"
+    },
+    {
+      "attachment_id": 110557,
+      "bytes": 447035,
+      "fetched": "2026-11-20T08:26:41+00:00",
+      "name": "229496.pdf",
+      "sha256": "57552ebb6b000b1f86e9144ff8a1ad0dee939af155af5d9df1f5cbc132aa1814",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229496/110557"
+    }
+  ],
+  "company": "GPSC",
+  "description": "GENERAL EXCHANGE TARIFF Order",
+  "dockets": [
+    57370
+  ],
+  "document_id": 229496,
+  "filed_date": "2026-11-18",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229496"
+}

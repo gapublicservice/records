@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110430,
+      "bytes": 439762,
+      "fetched": "2026-11-20T08:26:21+00:00",
+      "name": "dkt_44160_community_solar_q3_2026.zip",
+      "sha256": "1835086faa6ae94d949e592fb5195b165df72d05b570af91638c51227037c7bf",
+      "text": "zip (2 read, 1 not read)",
+      "text_file": "data/text/229/229487/110430.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229487/110430"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44160 Community Solar Report for Q3 2026",
+  "dockets": [
+    44160
+  ],
+  "document_id": 229487,
+  "filed_date": "2026-11-17",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229487"
+}

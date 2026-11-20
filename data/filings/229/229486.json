@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110429,
+      "bytes": 96520,
+      "fetched": "2026-11-20T08:26:18+00:00",
+      "name": "docket_43510_white_county_usf_noc_11172026.docx",
+      "sha256": "8ff8d83fc3d2109c094cce7edd8856e6741431431ac3ea67cc1bffcac60a71d4",
+      "text": "docx",
+      "text_file": "data/text/229/229486/110429.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229486/110429"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "White County Notice of Completion",
+  "dockets": [
+    43510
+  ],
+  "document_id": 229486,
+  "filed_date": "2026-11-17",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229486"
+}

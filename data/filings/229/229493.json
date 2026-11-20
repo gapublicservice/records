@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110553,
+      "bytes": 385985,
+      "fetched": "2026-11-20T08:26:33+00:00",
+      "name": "stream_usf_annual_report_public_disclosure_2026_signed_kc.pdf",
+      "sha256": "1a360e9eac9444e8a1be333092f8a99271624923f3fe3d8905bd76188a7c01d7",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229493/110553.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229493/110553"
+    }
+  ],
+  "company": "Stream Georgia Gas SPE, LLC",
+  "description": "Stream Georgia Gas SPE, LLC’s 2026 USF Annual Unclaimed Customer Deposits",
+  "dockets": [
+    15326
+  ],
+  "document_id": 229493,
+  "filed_date": "2026-11-18",
+  "harvested": "2026-11-20",
+  "received_date": "2026-11-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229493"
+}
