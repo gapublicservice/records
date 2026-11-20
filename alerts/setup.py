@@ -7,10 +7,6 @@
   python -m alerts.setup page --api URL [--publish]
                                       add or update the page at /follow/ with
                                       the follow page from follow/follow-page.html
-  python -m alerts.setup darklogo [--apply]
-                                      show the theme's "Logo for dark mode"
-                                      setting; with --apply, upload the white
-                                      logo and set it there (only if it's empty)
 
 Prints ids and the admin host only, never the key or member addresses.
 """
@@ -18,13 +14,10 @@ from __future__ import annotations
 
 import argparse
 import re
-import urllib.error
 import urllib.parse
-import urllib.request
-import uuid
 from pathlib import Path
 
-from alerts.ghost import API, Ghost, token
+from alerts.ghost import Ghost
 
 NAME = "Docket alerts"
 DESCRIPTION = ("A short email the morning after new filings land in a docket you follow "
@@ -32,8 +25,6 @@ DESCRIPTION = ("A short email the morning after new filings land in a docket you
 PAGE_SLUG = "follow"
 PAGE_TITLE = "Follow a docket"
 PAGE_FILE = Path(__file__).resolve().parent.parent / "follow" / "follow-page.html"
-DARK_KEY = "logo_for_dark_mode"
-DARK_LOGO = Path(__file__).resolve().parent.parent / "site" / "brand" / "public-service-logo-white-1200.png"
 
 
 def newsletter(g: Ghost) -> None:
@@ -76,56 +67,15 @@ def page(g: Ghost, api: str, publish: bool) -> None:
     print(f"page: id={out['id']} slug={out['slug']} status={out['status']} url={out.get('url')}")
 
 
-def upload_image(g: Ghost, path: Path) -> str:
-    boundary = uuid.uuid4().hex
-    body = b"".join([
-        f"--{boundary}\r\n".encode(),
-        f'Content-Disposition: form-data; name="file"; filename="{path.name}"\r\n'.encode(),
-        b"Content-Type: image/png\r\n\r\n", path.read_bytes(), b"\r\n",
-        f"--{boundary}\r\n".encode(),
-        b'Content-Disposition: form-data; name="purpose"\r\n\r\nimage\r\n',
-        f"--{boundary}--\r\n".encode(),
-    ])
-    req = urllib.request.Request(f"{g.url}{API}/images/upload/", method="POST", data=body, headers={
-        "Authorization": f"Ghost {token(g.key)}", "Accept-Version": "v6.0",
-        "Content-Type": f"multipart/form-data; boundary={boundary}"})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            import json
-            return json.loads(r.read())["images"][0]["url"]
-    except urllib.error.HTTPError as err:
-        raise SystemExit(f"Ghost said {err.code} to the image upload: {err.read().decode(errors='replace')[:300]}")
-
-
-def darklogo(g: Ghost, apply: bool) -> None:
-    settings = g.call("GET", "/custom_theme_settings/")["custom_theme_settings"]
-    have = next((x for x in settings if x["key"] == DARK_KEY), None)
-    if have is None:
-        raise SystemExit(f"the active theme has no '{DARK_KEY}' setting")
-    print(f"{DARK_KEY} now: {have.get('value')!r}")
-    if not apply:
-        return
-    if have.get("value") and DARK_LOGO.stem not in have["value"]:
-        raise SystemExit("already set to another image; left as it is")
-    url = upload_image(g, DARK_LOGO)
-    print(f"uploaded: {url}")
-    out = [{"key": x["key"], "value": (url if x["key"] == DARK_KEY else x.get("value"))} for x in settings]
-    done = g.call("PUT", "/custom_theme_settings/", {"custom_theme_settings": out})["custom_theme_settings"]
-    print(f"{DARK_KEY} set: {next(x for x in done if x['key'] == DARK_KEY).get('value')!r}")
-
-
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("what", choices=["newsletter", "page", "darklogo"])
+    ap.add_argument("what", choices=["newsletter", "page"])
     ap.add_argument("--api", default="")
     ap.add_argument("--publish", action="store_true")
-    ap.add_argument("--apply", action="store_true")
     a = ap.parse_args()
     g = Ghost()
     if a.what == "newsletter":
         newsletter(g)
-    elif a.what == "darklogo":
-        darklogo(g, a.apply)
     else:
         page(g, a.api, a.publish)
 
