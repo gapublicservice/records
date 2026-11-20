@@ -27,3 +27,11 @@ jobs:
           curl -s -L -o /dev/null -w "%{http_code} %{url_effective}\n" "$S/members/api/session"
           echo "site's signing keys:"
           curl -s -L "$S/members/.well-known/jwks.json" | head -c 120; echo
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Who follows what (label counts only)
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+        run: python -m alerts.follows
