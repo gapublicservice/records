@@ -413,6 +413,18 @@ def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
             f'<td>{link}{(" " + dk) if dk else ""}</td><td>{ag}</td>' + (f'<td class="cal-add">{adds}</td>' if add else "") + '</tr>')
 
 
+def older_agendas(agendas: dict, before: str) -> str:
+    """Every earlier meeting whose agenda we have as a linked page, newest first."""
+    rows = sorted(((ev["date"], url, ev) for url, ev in agendas.items()
+                   if ev["date"] < before and has_agenda_text(ev)), reverse=True)
+    if not rows:
+        return ""
+    items = "".join(f'<li><span class="mono">{e(d)}</span> <a href="agenda/{e(agenda_slug(u))}/">'
+                    f'{e(KIND_LABEL.get(ev["kind"], "Meeting"))}</a> '
+                    f'<span class="muted">{len(ev.get("dockets") or [])} dockets</span></li>' for d, u, ev in rows)
+    return f'<h2>Earlier agendas</h2><ul class="ag-dockets">{items}</ul>'
+
+
 def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | None) -> str:
     known = set(load_known_dockets())
     links = ics.subscribe_links()
@@ -444,7 +456,8 @@ def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | N
 <h2>Coming up</h2>
 {upcoming}
 <h2>Last 60 days</h2>
-<table class="wide cal"><thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th></tr></thead><tbody>{past_rows}</tbody></table>"""
+<table class="wide cal"><thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th></tr></thead><tbody>{past_rows}</tbody></table>
+{older_agendas(agendas, recent)}"""
 
 
 _KNOWN: list = []
