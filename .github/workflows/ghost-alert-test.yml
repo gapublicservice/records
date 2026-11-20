@@ -1,0 +1,39 @@
+name: Ghost alert test
+
+# One-off, run by hand. Checks that a docket alert can go to one Ghost label
+# and nobody else. Needs two repository secrets that only the owner sets:
+# GHOST_ADMIN_KEY (a custom integration's Admin API key) and
+# GHOST_TEST_MEMBER (the one member address the test may email).
+on:
+  workflow_dispatch:
+    inputs:
+      send:
+        description: "Send the one test email (leave off for a dry run)"
+        type: boolean
+        default: false
+      docket:
+        description: "Docket to use in the test email"
+        default: "56002"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run the test
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+          GHOST_TEST_MEMBER: ${{ secrets.GHOST_TEST_MEMBER }}
+          DOCKET: ${{ inputs.docket }}
+          SEND: ${{ inputs.send }}
+        run: |
+          echo "::add-mask::$GHOST_TEST_MEMBER"
+          if [ "$SEND" = "true" ]; then python -m alerts.test_send --docket "$DOCKET" --send
+          else python -m alerts.test_send --docket "$DOCKET"; fi
