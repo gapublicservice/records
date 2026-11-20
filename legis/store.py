@@ -46,9 +46,16 @@ def load_bill(session: str, slug: str) -> dict | None:
     return json.loads(p.read_text()) if p.exists() else None
 
 
-def write_json(p: Path, obj) -> None:
+def write_text(p: Path, text: str) -> None:
+    """Write to a .part file, then swap it in, so a run stopped midway never leaves half a file."""
     p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(obj, indent=1, ensure_ascii=False, sort_keys=False) + "\n")
+    tmp = p.with_name(p.name + ".part")
+    tmp.write_text(text)
+    os.replace(tmp, p)
+
+
+def write_json(p: Path, obj) -> None:
+    write_text(p, json.dumps(obj, indent=1, ensure_ascii=False, sort_keys=False) + "\n")
 
 
 def diff_fields(old: dict | None, new: dict) -> list[str]:

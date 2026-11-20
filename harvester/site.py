@@ -100,7 +100,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
     up = "../" * depth
     nav = [("index.html", "Search", "search"), ("dockets.html", "Dockets", "dockets"),
            ("calendar.html", "Calendar", "calendar"), ("today.html", "Last night", "today"),
-           ("regions.html", "Regions", "regions"),
+           ("regions.html", "Regions", "regions"), ("legislature/index.html", "Legislature", "legislature"),
            ("about.html", "About", "about")]
     links = "".join(f'<a href="{up}{h}" class="{"on" if k == on else ""}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html>

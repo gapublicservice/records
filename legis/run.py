@@ -46,7 +46,7 @@ def capture_text(bill: dict) -> list[dict]:
             print(f'  {bill["key"]}: version {v["doc_id"]} not read ({type(e).__name__})', file=sys.stderr)
             continue
         p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text(textdiff.clean(raw))
+        store.write_text(p, textdiff.clean(raw))
     full = [v for v in versions if not store.is_floor_amendment(v)
             and store.version_path(session, sl, v["doc_id"]).exists()]
     pairs = list(zip(full, full[1:]))
