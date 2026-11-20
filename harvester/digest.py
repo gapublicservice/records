@@ -89,6 +89,14 @@ def build(day: str, friday: bool) -> str:
     out += ["", "## New filings", ""]
     out += [f"- {line(r)}" for r in sorted(new, key=lambda r: r["document_id"])] or ["- None."]
 
+    from .tags import disagreement
+    dis = [(r, disagreement(r)) for r in new]
+    dis = [(r, d) for r, d in dis if d]
+    out += ["", "## New disagreements", "",
+            "Filings whose own title objects to, opposes or asks to reverse another position. "
+            "A rule on the title, not a judgment."]
+    out += [f"- {line(r)} ({', '.join(d)})" for r, d in dis] or ["- None tonight."]
+
     out += ["", "## New flags", ""]
     if new_flagged:
         for r, f in new_flagged:
