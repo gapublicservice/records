@@ -1,0 +1,140 @@
+{
+ "ActVetoNumber": null,
+ "Authors": {
+  "Sponsorship": [
+   {
+    "Id": 274557,
+    "MemberDescription": "Kendrick, Dar'shun 95th",
+    "MemberId": 770,
+    "Sequence": 1,
+    "Type": "HouseAuthor"
+   }
+  ]
+ },
+ "Caption": "Income tax; workforce-ready graduates employed in high-tech full-time jobs in rural counties; provide tax credit",
+ "Committees": {
+  "CommitteeListing": [
+   {
+    "Code": "W&M",
+    "Id": 101,
+    "Name": "Ways & Means",
+    "Type": "House"
+   }
+  ]
+ },
+ "DocumentType": "HB",
+ "Id": 69287,
+ "LatestVersion": {
+  "Description": "LC 44 3498S/hs",
+  "Id": 244341,
+  "LegislationId": 69287,
+  "Url": "https://www.legis.ga.gov/api/legislation/document/20252026/244341",
+  "Version": 6
+ },
+ "LegislationType": "GEN",
+ "Number": 7,
+ "Session": {
+  "IsDefault": true,
+  "Id": 1033,
+  "Description": "2025-2026 Regular Session",
+  "Library": "20252026"
+ },
+ "Status": {
+  "Code": "HCFR",
+  "Date": "2026-02-26 10:20:27",
+  "Description": "House Committee Favorably Reported By Substitute",
+  "Id": 39,
+  "AmSub": "SUB",
+  "StatusListingId": 339256
+ },
+ "Suffix": null,
+ "Footnotes": null,
+ "Sponsor": {
+  "Id": null,
+  "MemberDescription": null,
+  "MemberId": null,
+  "Sequence": null,
+  "Type": null
+ },
+ "StatusHistory": {
+  "StatusListing": [
+   {
+    "Code": "HCFR",
+    "Date": "2026-02-26 10:20:27",
+    "Description": "House Committee Favorably Reported By Substitute",
+    "Id": 39,
+    "AmSub": "SUB",
+    "StatusListingId": 339256
+   },
+   {
+    "Code": "HRECM",
+    "Date": "2025-04-04 14:54:39",
+    "Description": "House Withdrawn, Recommitted",
+    "Id": 50,
+    "AmSub": null,
+    "StatusListingId": 332712
+   },
+   {
+    "Code": "HCFR",
+    "Date": "2025-03-03 18:32:53",
+    "Description": "House Committee Favorably Reported By Substitute",
+    "Id": 39,
+    "AmSub": "SUB",
+    "StatusListingId": 326331
+   },
+   {
+    "Code": "HSR",
+    "Date": "2025-01-15 10:15:29",
+    "Description": "House Second Readers",
+    "Id": 34,
+    "AmSub": null,
+    "StatusListingId": 320173
+   },
+   {
+    "Code": "HFR",
+    "Date": "2025-01-14 11:42:48",
+    "Description": "House First Readers",
+    "Id": 33,
+    "AmSub": null,
+    "StatusListingId": 320061
+   },
+   {
+    "Code": "HH",
+    "Date": "2025-01-13 13:04:00",
+    "Description": "House Hopper",
+    "Id": 40,
+    "AmSub": null,
+    "StatusListingId": 319993
+   }
+  ]
+ },
+ "Summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to the imposition, rate, computation, exemptions, and credits relative to income taxes, so as to provide for a tax credit for workforce-ready graduates employed in high-tech full-time jobs in rural counties in this state; to require the Department of Labor to establish certain criteria; to provide for conditions and limitations; to provide for definitions; to provide for rules and regulations and forms; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes. ",
+ "Versions": {
+  "DocumentDescription": [
+   {
+    "Description": "LC 44 3498S/hs",
+    "Id": 244341,
+    "LegislationId": 69287,
+    "Url": "https://www.legis.ga.gov/api/legislation/document/20252026/244341",
+    "Version": 6
+   },
+   {
+    "Description": "LC 50 1191S/hs",
+    "Id": 234987,
+    "LegislationId": 69287,
+    "Url": "https://www.legis.ga.gov/api/legislation/document/20252026/234987",
+    "Version": 4
+   },
+   {
+    "Description": "LC 59 0033/a",
+    "Id": 229743,
+    "LegislationId": 69287,
+    "Url": "https://www.legis.ga.gov/api/legislation/document/20252026/229743",
+    "Version": 2
+   }
+  ]
+ },
+ "Votes": {
+  "VoteListing": []
+ }
+}
