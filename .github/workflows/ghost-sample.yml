@@ -1,0 +1,30 @@
+name: Ghost sample copy
+
+# Run by hand. "apply" puts placeholder sample posts and the "Start here" lead
+# on gapublicservice.org so the home page shows its real layout; "remove" takes
+# them down again. Uses the GHOST_ADMIN_KEY secret. Sends no email.
+on:
+  workflow_dispatch:
+    inputs:
+      what:
+        description: "apply or remove"
+        type: choice
+        options: [apply, remove]
+
+permissions:
+  contents: read
+
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+          WHAT: ${{ inputs.what }}
+        run: python -m ghost_sample.sample "$WHAT"
