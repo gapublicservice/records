@@ -14,6 +14,7 @@ import collections
 import datetime as dt
 import html
 import json
+import re
 import shutil
 from pathlib import Path
 
@@ -79,7 +80,22 @@ def file_marker(doc_id: int, files: dict | None) -> str:
     return _why(*FILE_NOTES[state])
 
 
+# Links that leave the site (the Commission's pages and files, the public
+# repo) open in a new tab, so the record stays open behind them. The site's
+# own navigation stays in the same tab. Applied to the finished page, so it
+# also covers the links the search script builds.
+_EXTERNAL = re.compile(r'<a (?![^>]*target=)([^>]*?)href="https://')
+
+
+def external_new_tab(markup: str) -> str:
+    return _EXTERNAL.sub(r'<a \1target="_blank" rel="noopener" href="https://', markup)
+
+
 def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
+    return external_new_tab(_page(title, body, on, depth, extra_head))
+
+
+def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
     up = "../" * depth
     nav = [("index.html", "Search", "search"), ("dockets.html", "Dockets", "dockets"),
            ("today.html", "Last night", "today"), ("regions.html", "Regions", "regions"),

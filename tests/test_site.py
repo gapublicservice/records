@@ -31,3 +31,11 @@ class SiteTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_external_links_open_in_new_tab():
+    from harvester.site import external_new_tab
+    out = external_new_tab('<a href="https://psc.ga.gov/x">a</a> <a href="dockets.html">b</a> \'<a class="file ok" href="https://services.psc.ga.gov/y">c</a>\'')
+    assert out.count('target="_blank" rel="noopener"') == 2
+    assert '<a href="dockets.html">' in out
+    assert external_new_tab(out) == out
