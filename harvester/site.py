@@ -79,7 +79,17 @@ def filing_row(r: dict, depth: int, show_docket: bool = True) -> str:
     return "<tr>" + "".join(cells) + "</tr>"
 
 
-def docket_title(rows: list[dict]) -> str:
+def docket_meta(d) -> dict:
+    p = DATA / "dockets" / f"{d}.json"
+    return json.loads(p.read_text()) if p.exists() else {}
+
+
+def docket_title(rows: list[dict], d=None) -> str:
+    meta = docket_meta(d) if d is not None else {}
+    if meta.get("title"):
+        return meta["title"]
+    if not rows:
+        return ""
     dated = sorted((r for r in rows if r.get("filed_date")), key=lambda r: (r["filed_date"], r["document_id"]))
     first = dated[0] if dated else rows[0]
     return (first.get("description") or "").strip()
@@ -183,7 +193,7 @@ def build():
 
     # Docket list
     def dk_line(d, v):
-        title = docket_title(by_docket.get(int(d), [])) if by_docket.get(int(d)) else ""
+        title = docket_title(by_docket.get(int(d), []), d)
         badge = '<span class="tag dis">contested</span>' if v["contested"] else ""
         regs = "".join(f'<span class="tag">{e(g)}</span>' for g in v.get("regions", {}))
         return (f'<tr><td><a class="mono" href="docket/{d}/">{d}</a></td><td>{e(title[:160])}<br>{badge}'
@@ -193,7 +203,7 @@ def build():
     con_rows = "".join(dk_line(d, v) for d, v in ordered if v["contested"])
     all_rows = "".join(dk_line(d, v) for d, v in ordered)
     body = f"""<div class="kicker">Dockets</div><h1>{len(dockets):,} dockets</h1>
-<p class="lede">Each docket is a case or proceeding at the Commission. A docket's title here is the title of its earliest filing in the record.</p>
+<p class="lede">Each docket is a case or proceeding at the Commission. Titles are the Commission's own; where its page hasn't been read yet, the title shown is that of the docket's earliest filing in the record.</p>
 <h2>Contested dockets</h2>
 <p class="muted">Two or more different parties, other than the Commission and its hearing officers, have each filed something whose own title objects, opposes, complains, asks for rehearing or moves to compel, dismiss or strike. A rule on filing titles, not a judgment about who is right.</p>
 <table class="wide"><thead><tr><th>Docket</th><th>Title and tags</th><th class="num">Filings</th><th>Last filed</th></tr></thead><tbody>{con_rows}</tbody></table>
@@ -204,8 +214,13 @@ def build():
     # One page per docket
     for d, v in dockets.items():
         fs = sorted(by_docket.get(int(d), []), key=lambda r: (r.get("filed_date") or "", r["document_id"]), reverse=True)
-        title = docket_title(fs) if fs else ""
-        facts = [("Filings in the record", f"{v['filings']:,}"),
+        title = docket_title(fs, d)
+        meta = docket_meta(d)
+        facts = []
+        if meta:
+            facts += [("Industry (Commission's label)", meta.get("industry") or ""),
+                      ("Opened", meta.get("date") or ""), ("Status", meta.get("status") or "")]
+        facts += [("Filings in the record", f"{v['filings']:,}"),
                  ("First and last filed", f"{v['first_filed'] or '?'} to {v['last_filed'] or '?'}"),
                  ("Staff unit", ", ".join(v["units"]) or "not tagged"),
                  ("Committee", ", ".join(v["committees"]) or "not tagged")]

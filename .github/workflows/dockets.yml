@@ -1,0 +1,34 @@
+name: Docket titles
+
+# Stores each docket's own title, industry, date and status from its PSC page.
+on:
+  workflow_dispatch:
+    inputs:
+      refresh_open:
+        description: "Also recheck open dockets not checked in 7 days"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "0 13 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  dockets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s tests -t .
+      - run: python -m harvester.dockets ${{ (inputs.refresh_open || github.event_name == 'schedule') && '--refresh-open' || '' }}
+      - name: Save to the record
+        if: always()
+        run: scripts/save.sh "Docket titles" nightly
