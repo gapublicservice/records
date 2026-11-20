@@ -1,0 +1,75 @@
+{
+ "key": "HR 1164",
+ "slug": "hr1164",
+ "session": "2025_26",
+ "legislation_id": 72651,
+ "page": "https://www.legis.ga.gov/legislation/72651",
+ "document_type": "HR",
+ "number": 1164,
+ "legislation_type": "PRIV",
+ "caption": "Barr, Roberta Ravold; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Roberta Ravold Barr; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:44:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240977,
+   "label": "LC 129 0802/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240977"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:58+00:00",
+  "version:240977": "2026-11-20T19:56:58+00:00",
+  "status:40": "2026-11-20T19:56:58+00:00",
+  "status:33": "2026-11-20T19:56:58+00:00",
+  "status:48": "2026-11-20T19:56:58+00:00"
+ },
+ "updated": "2026-11-20T19:56:58+00:00"
+}

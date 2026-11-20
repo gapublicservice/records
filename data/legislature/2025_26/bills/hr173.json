@@ -1,0 +1,68 @@
+{
+ "key": "HR 173",
+ "slug": "hr173",
+ "session": "2025_26",
+ "legislation_id": 69921,
+ "page": "https://www.legis.ga.gov/legislation/69921",
+ "document_type": "HR",
+ "number": 173,
+ "legislation_type": "PRIV",
+ "caption": "Newton, Charles G., IV.; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Charles G. Newton IV on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:07:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:05",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231290,
+   "label": "LC 112 2880/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231290"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:44+00:00",
+  "version:231290": "2026-11-20T19:34:44+00:00",
+  "status:40": "2026-11-20T19:34:44+00:00",
+  "status:33": "2026-11-20T19:34:44+00:00",
+  "status:48": "2026-11-20T19:34:44+00:00"
+ },
+ "updated": "2026-11-20T19:34:44+00:00"
+}

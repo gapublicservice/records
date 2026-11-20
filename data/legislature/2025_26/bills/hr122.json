@@ -1,0 +1,82 @@
+{
+ "key": "HR 122",
+ "slug": "hr122",
+ "session": "2025_26",
+ "legislation_id": 69741,
+ "page": "https://www.legis.ga.gov/legislation/69741",
+ "document_type": "HR",
+ "number": 122,
+ "legislation_type": "PRIV",
+ "caption": "Mitchell, Reverend Dr. Homer Lee, Sr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Reverend Dr. Homer Lee Mitchell Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:35:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T11:51:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T11:51:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230838,
+   "label": "LC 129 0091/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:37+00:00",
+  "version:230838": "2026-11-20T19:33:37+00:00",
+  "status:40": "2026-11-20T19:33:37+00:00",
+  "status:33": "2026-11-20T19:33:37+00:00",
+  "status:48": "2026-11-20T19:33:37+00:00"
+ },
+ "updated": "2026-11-20T19:33:37+00:00"
+}

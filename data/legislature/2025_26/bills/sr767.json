@@ -1,0 +1,68 @@
+{
+ "key": "SR 767",
+ "slug": "sr767",
+ "session": "2025_26",
+ "legislation_id": 73179,
+ "page": "https://www.legis.ga.gov/legislation/73179",
+ "document_type": "SR",
+ "number": 767,
+ "legislation_type": "PRIV",
+ "caption": "Shearouse, Celeste Coleman; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Celeste Coleman Shearouse; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T11:47:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-17T12:16:30",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242508,
+   "label": "Read and adopted LC 129 1102",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242508"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:08:18+00:00",
+  "version:242508": "2026-11-20T21:08:18+00:00",
+  "status:67": "2026-11-20T21:08:18+00:00",
+  "status:66": "2026-11-20T21:08:18+00:00"
+ },
+ "updated": "2026-11-20T21:08:18+00:00"
+}

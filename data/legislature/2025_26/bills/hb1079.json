@@ -1,0 +1,102 @@
+{
+ "key": "HB 1079",
+ "slug": "hb1079",
+ "session": "2025_26",
+ "legislation_id": 72505,
+ "page": "https://www.legis.ga.gov/legislation/72505",
+ "document_type": "HB",
+ "number": 1079,
+ "legislation_type": "GEN",
+ "caption": "Income tax; credits for rehabilitation of historic structures; revise expiration and transferability",
+ "summary": "A BILL to be entitled an Act to amend Code Section 48-7-29.8 of the Official Code of Georgia Annotated, relating to tax credits for the rehabilitation of historic structures, so as to revise expiration and transferability; to provide for reversion and reporting; to provide for construction; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:37:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240631,
+   "label": "LC 44 3313/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240631"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:08:19+00:00",
+  "version:240631": "2026-11-20T19:08:19+00:00",
+  "status:40": "2026-11-20T19:08:19+00:00",
+  "status:33": "2026-11-20T19:08:19+00:00",
+  "status:34": "2026-11-20T19:08:19+00:00"
+ },
+ "updated": "2026-11-20T19:08:19+00:00"
+}

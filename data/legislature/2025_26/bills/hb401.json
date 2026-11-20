@@ -1,0 +1,102 @@
+{
+ "key": "HB 401",
+ "slug": "hb401",
+ "session": "2025_26",
+ "legislation_id": 70203,
+ "page": "https://www.legis.ga.gov/legislation/70203",
+ "document_type": "HB",
+ "number": 401,
+ "legislation_type": "GEN",
+ "caption": "Insurance; prohibit insurers from considering advertising costs when making or using insurance rates",
+ "summary": "A BILL to be entitled an Act to amend Chapter 9 of Title 33 of the Official Code of Georgia Annotated, relating to regulation of rates, underwriting rules, and related organizations, so as to prohibit insurers from considering advertising costs when making or using insurance rates; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:19:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T10:44:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T09:42:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232072,
+   "label": "LC 52 0723/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232072"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:35:58+00:00",
+  "version:232072": "2026-11-20T18:35:58+00:00",
+  "status:40": "2026-11-20T18:35:58+00:00",
+  "status:33": "2026-11-20T18:35:58+00:00",
+  "status:34": "2026-11-20T18:35:58+00:00"
+ },
+ "updated": "2026-11-20T18:35:58+00:00"
+}

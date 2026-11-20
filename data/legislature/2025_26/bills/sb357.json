@@ -1,0 +1,69 @@
+{
+ "key": "SB 357",
+ "slug": "sb357",
+ "session": "2025_26",
+ "legislation_id": 71624,
+ "page": "https://www.legis.ga.gov/legislation/71624",
+ "document_type": "SB",
+ "number": 357,
+ "legislation_type": "GEN",
+ "caption": "Elections and Primaries; challenge the qualifications of a person applying to register to vote or any person whose name appears on the list of electors; provide",
+ "summary": "A BILL to be entitled an Act to 4 amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide for challenging the qualifications of a person applying to register to vote or any person whose name appears on the list of electors; to provide for grounds;  to provide for required documentation relating to such challenges; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T11:40:37",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-27T10:21:55",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237102,
+   "label": "As introduced LC 47 3615",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237102"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:35+00:00",
+  "version:237102": "2026-11-20T20:37:35+00:00",
+  "status:67": "2026-11-20T20:37:35+00:00",
+  "status:3": "2026-11-20T20:37:35+00:00"
+ },
+ "updated": "2026-11-20T20:37:35+00:00"
+}

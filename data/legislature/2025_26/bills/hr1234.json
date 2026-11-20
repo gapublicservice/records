@@ -1,0 +1,96 @@
+{
+ "key": "HR 1234",
+ "slug": "hr1234",
+ "session": "2025_26",
+ "legislation_id": 72859,
+ "page": "https://www.legis.ga.gov/legislation/72859",
+ "document_type": "HR",
+ "number": 1234,
+ "legislation_type": "PRIV",
+ "caption": "Profound Autism Day; March 17, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 17, 2026, as Profound Autism Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:20:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:43",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241552,
+   "label": "LC 129 0884/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241552"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:29+00:00",
+  "version:241552": "2026-11-20T19:58:29+00:00",
+  "status:40": "2026-11-20T19:58:29+00:00",
+  "status:33": "2026-11-20T19:58:29+00:00",
+  "status:48": "2026-11-20T19:58:29+00:00"
+ },
+ "updated": "2026-11-20T19:58:29+00:00"
+}

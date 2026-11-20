@@ -1,0 +1,82 @@
+{
+ "key": "HR 1198",
+ "slug": "hr1198",
+ "session": "2025_26",
+ "legislation_id": 72761,
+ "page": "https://www.legis.ga.gov/legislation/72761",
+ "document_type": "HR",
+ "number": 1198,
+ "legislation_type": "PRIV",
+ "caption": "High, Mother Essie Lee Harden; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mother Essie Lee Harden High; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-02T13:29:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T14:03:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T14:03:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241241,
+   "label": "LC 129 0866/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241241"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:41+00:00",
+  "version:241241": "2026-11-20T19:57:41+00:00",
+  "status:40": "2026-11-20T19:57:41+00:00",
+  "status:33": "2026-11-20T19:57:41+00:00",
+  "status:48": "2026-11-20T19:57:41+00:00"
+ },
+ "updated": "2026-11-20T19:57:41+00:00"
+}

@@ -1,0 +1,75 @@
+{
+ "key": "HR 1380",
+ "slug": "hr1380",
+ "session": "2025_26",
+ "legislation_id": 73311,
+ "page": "https://www.legis.ga.gov/legislation/73311",
+ "document_type": "HR",
+ "number": 1380,
+ "legislation_type": "PRIV",
+ "caption": "Statesboro-Bulloch County Day at the capitol; February 18, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 18, 2026, as Statesboro-Bulloch County Day at the capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:14:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242896,
+   "label": "LC 129 1099/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242896"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:12+00:00",
+  "version:242896": "2026-11-20T20:02:12+00:00",
+  "status:40": "2026-11-20T20:02:12+00:00",
+  "status:33": "2026-11-20T20:02:12+00:00",
+  "status:48": "2026-11-20T20:02:12+00:00"
+ },
+ "updated": "2026-11-20T20:02:12+00:00"
+}

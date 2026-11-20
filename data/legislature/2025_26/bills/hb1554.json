@@ -1,0 +1,88 @@
+{
+ "key": "HB 1554",
+ "slug": "hb1554",
+ "session": "2025_26",
+ "legislation_id": 74099,
+ "page": "https://www.legis.ga.gov/legislation/74099",
+ "document_type": "HB",
+ "number": 1554,
+ "legislation_type": "GEN",
+ "caption": "Collateral Protection Insurance Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 24 of Title 33 of the O.C.G.A., relating to insurance generally, so as to provide for collateral protection insurance; to provide for related matters; to provide for a short title; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-16T11:37:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T10:32:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T10:08:20",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245944,
+   "label": "LC 46 1509/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245944"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:27:46+00:00",
+  "version:245944": "2026-11-20T19:27:46+00:00",
+  "status:40": "2026-11-20T19:27:46+00:00",
+  "status:33": "2026-11-20T19:27:46+00:00",
+  "status:34": "2026-11-20T19:27:46+00:00"
+ },
+ "updated": "2026-11-20T19:27:46+00:00"
+}

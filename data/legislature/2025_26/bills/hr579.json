@@ -1,0 +1,61 @@
+{
+ "key": "HR 579",
+ "slug": "hr579",
+ "session": "2025_26",
+ "legislation_id": 71325,
+ "page": "https://www.legis.ga.gov/legislation/71325",
+ "document_type": "HR",
+ "number": 579,
+ "legislation_type": "PRIV",
+ "caption": "Purser, Lilla Lee; commend",
+ "summary": "A RESOLUTION commending and congratulating Lilla Lee Purser; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:52:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:22:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:22:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235955,
+   "label": "LC 112 3312/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235955"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:42+00:00",
+  "version:235955": "2026-11-20T19:43:42+00:00",
+  "status:40": "2026-11-20T19:43:42+00:00",
+  "status:33": "2026-11-20T19:43:42+00:00",
+  "status:48": "2026-11-20T19:43:42+00:00"
+ },
+ "updated": "2026-11-20T19:43:42+00:00"
+}

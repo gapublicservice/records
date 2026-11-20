@@ -1,0 +1,68 @@
+{
+ "key": "HR 1920",
+ "slug": "hr1920",
+ "session": "2025_26",
+ "legislation_id": 74468,
+ "page": "https://www.legis.ga.gov/legislation/74468",
+ "document_type": "HR",
+ "number": 1920,
+ "legislation_type": "PRIV",
+ "caption": "Legal externs for the 2026 regular session of the General Assembly of Georgia; commend",
+ "summary": "A RESOLUTION commending the legal externs for the 2026 regular session of the General Assembly of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:46:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247564,
+   "label": "LC 112 4009/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247564"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:53+00:00",
+  "version:247564": "2026-11-20T20:13:53+00:00",
+  "status:40": "2026-11-20T20:13:53+00:00",
+  "status:33": "2026-11-20T20:13:53+00:00",
+  "status:48": "2026-11-20T20:13:53+00:00"
+ },
+ "updated": "2026-11-20T20:13:53+00:00"
+}

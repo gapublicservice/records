@@ -1,0 +1,61 @@
+{
+ "key": "HR 594",
+ "slug": "hr594",
+ "session": "2025_26",
+ "legislation_id": 71363,
+ "page": "https://www.legis.ga.gov/legislation/71363",
+ "document_type": "HR",
+ "number": 594,
+ "legislation_type": "PRIV",
+ "caption": "Beecher, David Lamar, Sr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of David Lamar Beecher, Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:00:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:21:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:21:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236099,
+   "label": "LC 129 0346/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236099"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:02+00:00",
+  "version:236099": "2026-11-20T19:44:02+00:00",
+  "status:40": "2026-11-20T19:44:02+00:00",
+  "status:33": "2026-11-20T19:44:02+00:00",
+  "status:48": "2026-11-20T19:44:02+00:00"
+ },
+ "updated": "2026-11-20T19:44:02+00:00"
+}

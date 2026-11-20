@@ -1,0 +1,89 @@
+{
+ "key": "HR 762",
+ "slug": "hr762",
+ "session": "2025_26",
+ "legislation_id": 71740,
+ "page": "https://www.legis.ga.gov/legislation/71740",
+ "document_type": "HR",
+ "number": 762,
+ "legislation_type": "PRIV",
+ "caption": "Atlanta Apartment Association; 50th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending the Atlanta Apartment Association upon its 50th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:43:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237641,
+   "label": "LC 112 3514/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237641"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:59+00:00",
+  "version:237641": "2026-11-20T19:47:59+00:00",
+  "status:40": "2026-11-20T19:47:59+00:00",
+  "status:33": "2026-11-20T19:47:59+00:00",
+  "status:48": "2026-11-20T19:47:59+00:00"
+ },
+ "updated": "2026-11-20T19:47:59+00:00"
+}

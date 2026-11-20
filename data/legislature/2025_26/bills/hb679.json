@@ -1,0 +1,102 @@
+{
+ "key": "HB 679",
+ "slug": "hb679",
+ "session": "2025_26",
+ "legislation_id": 70981,
+ "page": "https://www.legis.ga.gov/legislation/70981",
+ "document_type": "HB",
+ "number": 679,
+ "legislation_type": "GEN",
+ "caption": "End Rental Price-Fixing Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 13 of the Official Code of Georgia Annotated, relating to illegal and void contracts generally, so as to prohibit certain agreements involving rental price-fixing as unenforceable contracts in general restraint of trade with respect to residential rental properties; to provide for a criminal penalty; to provide for statutory construction; to provide for a short title; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T14:45:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234445,
+   "label": "LC 60 0109/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234445"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:48+00:00",
+  "version:234445": "2026-11-20T18:48:48+00:00",
+  "status:40": "2026-11-20T18:48:48+00:00",
+  "status:33": "2026-11-20T18:48:48+00:00",
+  "status:34": "2026-11-20T18:48:48+00:00"
+ },
+ "updated": "2026-11-20T18:48:48+00:00"
+}

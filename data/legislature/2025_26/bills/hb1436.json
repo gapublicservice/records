@@ -1,0 +1,109 @@
+{
+ "key": "HB 1436",
+ "slug": "hb1436",
+ "session": "2025_26",
+ "legislation_id": 73555,
+ "page": "https://www.legis.ga.gov/legislation/73555",
+ "document_type": "HB",
+ "number": 1436,
+ "legislation_type": "GEN",
+ "caption": "Georgia Keep Violent Criminals Off Our Streets Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 6 of Title 17 of the Official Code of Georgia Annotated, relating to general provisions relative to bonds and recognizances, so as to prohibit the distribution of funds to local government agencies that substantially limit cash bail conditions for certain offenses; to provide for a short title; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T13:44:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244546,
+   "label": "LC 63 0135S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244546"
+  },
+  {
+   "doc_id": 243784,
+   "label": "LC 48 1734/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243784"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:03+00:00",
+  "version:244546": "2026-11-20T19:23:03+00:00",
+  "version:243784": "2026-11-20T19:23:03+00:00",
+  "status:40": "2026-11-20T19:23:03+00:00",
+  "status:33": "2026-11-20T19:23:03+00:00",
+  "status:34": "2026-11-20T19:23:03+00:00",
+  "status:39": "2026-11-20T19:23:03+00:00"
+ },
+ "updated": "2026-11-20T19:23:03+00:00"
+}

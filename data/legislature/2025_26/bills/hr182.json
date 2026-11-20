@@ -1,0 +1,89 @@
+{
+ "key": "HR 182",
+ "slug": "hr182",
+ "session": "2025_26",
+ "legislation_id": 69995,
+ "page": "https://www.legis.ga.gov/legislation/69995",
+ "document_type": "HR",
+ "number": 182,
+ "legislation_type": "PRIV",
+ "caption": "Graziano, Retired Master Sergeant Louis C.; commend",
+ "summary": "A RESOLUTION commending and congratulating Retired Master Sergeant Louis C. Graziano; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-05T12:06:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T12:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T12:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231497,
+   "label": "LC 112 2875/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231497"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:56+00:00",
+  "version:231497": "2026-11-20T19:34:56+00:00",
+  "status:40": "2026-11-20T19:34:56+00:00",
+  "status:33": "2026-11-20T19:34:56+00:00",
+  "status:48": "2026-11-20T19:34:56+00:00"
+ },
+ "updated": "2026-11-20T19:34:56+00:00"
+}

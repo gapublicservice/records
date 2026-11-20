@@ -1,0 +1,96 @@
+{
+ "key": "HR 1988",
+ "slug": "hr1988",
+ "session": "2025_26",
+ "legislation_id": 74559,
+ "page": "https://www.legis.ga.gov/legislation/74559",
+ "document_type": "HR",
+ "number": 1988,
+ "legislation_type": "PRIV",
+ "caption": "Chronic federal deficit spending as a root cause of inflation and long-term economic instability; recognize",
+ "summary": "A RESOLUTION recognizing chronic federal deficit spending as a root cause of inflation and long-term economic instability; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:04:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247977,
+   "label": "LC 112 4086/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247977"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:22+00:00",
+  "version:247977": "2026-11-20T20:15:22+00:00",
+  "status:40": "2026-11-20T20:15:22+00:00",
+  "status:33": "2026-11-20T20:15:22+00:00",
+  "status:48": "2026-11-20T20:15:22+00:00"
+ },
+ "updated": "2026-11-20T20:15:22+00:00"
+}

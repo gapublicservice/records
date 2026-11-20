@@ -1,0 +1,95 @@
+{
+ "key": "HB 1318",
+ "slug": "hb1318",
+ "session": "2025_26",
+ "legislation_id": 73247,
+ "page": "https://www.legis.ga.gov/legislation/73247",
+ "document_type": "HB",
+ "number": 1318,
+ "legislation_type": "GEN",
+ "caption": "Labor and industrial relations; actuarial study on state based paid family and medical leave insurance program; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 34 of the O.C.G.A., relating to labor and industrial relations, so as to provide for an actuarial study on state based paid family and medical leave insurance program; to provide for related matters; to provide for legislative findings and legislative purpose; to provide for a contingent effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T10:45:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242732,
+   "label": "LC 52 1013/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242732"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:58+00:00",
+  "version:242732": "2026-11-20T19:18:58+00:00",
+  "status:40": "2026-11-20T19:18:58+00:00",
+  "status:33": "2026-11-20T19:18:58+00:00",
+  "status:34": "2026-11-20T19:18:58+00:00",
+  "status:39": "2026-11-20T19:18:58+00:00"
+ },
+ "updated": "2026-11-20T19:18:58+00:00"
+}

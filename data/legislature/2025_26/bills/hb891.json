@@ -1,0 +1,109 @@
+{
+ "key": "HB 891",
+ "slug": "hb891",
+ "session": "2025_26",
+ "legislation_id": 71921,
+ "page": "https://www.legis.ga.gov/legislation/71921",
+ "document_type": "HB",
+ "number": 891,
+ "legislation_type": "GEN",
+ "caption": "Georgia State Employees' Pension and Savings; increase the benefits payable for service after July 1, 2026",
+ "summary": "A BILL to be entitled an Act to amend Article 10 of Chapter 2 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia State Employees' Pension and Savings Plan, so as to increase the benefits payable for service after July 1, 2026; to provide for an increase to employee contributions; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:51:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238368,
+   "label": "LC 56 0413/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238368"
+  },
+  {
+   "doc_id": 238627,
+   "label": "Auditor's Certification LC 56 0413",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238627"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:30+00:00",
+  "version:238368": "2026-11-20T18:58:30+00:00",
+  "version:238627": "2026-11-20T18:58:30+00:00",
+  "status:40": "2026-11-20T18:58:30+00:00",
+  "status:33": "2026-11-20T18:58:30+00:00",
+  "status:34": "2026-11-20T18:58:30+00:00"
+ },
+ "updated": "2026-11-20T18:58:30+00:00"
+}

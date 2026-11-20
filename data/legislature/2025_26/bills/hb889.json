@@ -1,0 +1,102 @@
+{
+ "key": "HB 889",
+ "slug": "hb889",
+ "session": "2025_26",
+ "legislation_id": 71917,
+ "page": "https://www.legis.ga.gov/legislation/71917",
+ "document_type": "HB",
+ "number": 889,
+ "legislation_type": "GEN",
+ "caption": "Law enforcement officers and agencies; certain federal agents to clearly identify themselves while in the performance of their duties; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 35 of the Code of Georgia Annotated, relating to general provisions regarding law enforcement officers and agencies, so as to provide for certain federal agents to clearly identify themselves while in the performance of their duties; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:25:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238357,
+   "label": "LC 56 0402/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238357"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:28+00:00",
+  "version:238357": "2026-11-20T18:58:28+00:00",
+  "status:40": "2026-11-20T18:58:28+00:00",
+  "status:33": "2026-11-20T18:58:28+00:00",
+  "status:34": "2026-11-20T18:58:28+00:00"
+ },
+ "updated": "2026-11-20T18:58:28+00:00"
+}

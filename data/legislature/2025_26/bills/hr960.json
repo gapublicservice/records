@@ -1,0 +1,68 @@
+{
+ "key": "HR 960",
+ "slug": "hr960",
+ "session": "2025_26",
+ "legislation_id": 72089,
+ "page": "https://www.legis.ga.gov/legislation/72089",
+ "document_type": "HR",
+ "number": 960,
+ "legislation_type": "PRIV",
+ "caption": "Tarlano, Nancy Nell Spires; honor",
+ "summary": "A RESOLUTION honoring Nancy Nell Spires Tarlano; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:41:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239410,
+   "label": "LC 112 3665/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239410"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:20+00:00",
+  "version:239410": "2026-11-20T19:52:20+00:00",
+  "status:40": "2026-11-20T19:52:20+00:00",
+  "status:33": "2026-11-20T19:52:20+00:00",
+  "status:48": "2026-11-20T19:52:20+00:00"
+ },
+ "updated": "2026-11-20T19:52:20+00:00"
+}

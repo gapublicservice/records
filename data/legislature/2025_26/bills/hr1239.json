@@ -1,0 +1,96 @@
+{
+ "key": "HR 1239",
+ "slug": "hr1239",
+ "session": "2025_26",
+ "legislation_id": 72864,
+ "page": "https://www.legis.ga.gov/legislation/72864",
+ "document_type": "HR",
+ "number": 1239,
+ "legislation_type": "PRIV",
+ "caption": "SkillsUSA Georgia; commend",
+ "summary": "A RESOLUTION recognizing and congratulating SkillsUSA Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:23:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241559,
+   "label": "LC 129 0909/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241559"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:35+00:00",
+  "version:241559": "2026-11-20T19:58:35+00:00",
+  "status:40": "2026-11-20T19:58:35+00:00",
+  "status:33": "2026-11-20T19:58:35+00:00",
+  "status:48": "2026-11-20T19:58:35+00:00"
+ },
+ "updated": "2026-11-20T19:58:35+00:00"
+}

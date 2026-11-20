@@ -1,0 +1,89 @@
+{
+ "key": "HR 1785",
+ "slug": "hr1785",
+ "session": "2025_26",
+ "legislation_id": 74248,
+ "page": "https://www.legis.ga.gov/legislation/74248",
+ "document_type": "HR",
+ "number": 1785,
+ "legislation_type": "PRIV",
+ "caption": "Harbison, Senator Ed; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Senator Ed Harbison on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:48:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:41:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:41:34",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246461,
+   "label": "LC 112 3951/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246461"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:02+00:00",
+  "version:246461": "2026-11-20T20:11:02+00:00",
+  "status:40": "2026-11-20T20:11:02+00:00",
+  "status:33": "2026-11-20T20:11:02+00:00",
+  "status:48": "2026-11-20T20:11:02+00:00"
+ },
+ "updated": "2026-11-20T20:11:02+00:00"
+}

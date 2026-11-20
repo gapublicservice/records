@@ -1,0 +1,61 @@
+{
+ "key": "HR 329",
+ "slug": "hr329",
+ "session": "2025_26",
+ "legislation_id": 70619,
+ "page": "https://www.legis.ga.gov/legislation/70619",
+ "document_type": "HR",
+ "number": 329,
+ "legislation_type": "PRIV",
+ "caption": "Rutland, Guy Jehue, Jr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Guy Jehue Rutland Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:23:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T13:46:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T13:46:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233302,
+   "label": "LC 112 2873/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233302"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:12+00:00",
+  "version:233302": "2026-11-20T19:38:12+00:00",
+  "status:40": "2026-11-20T19:38:12+00:00",
+  "status:33": "2026-11-20T19:38:12+00:00",
+  "status:48": "2026-11-20T19:38:12+00:00"
+ },
+ "updated": "2026-11-20T19:38:12+00:00"
+}

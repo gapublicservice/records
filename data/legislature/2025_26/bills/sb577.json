@@ -1,0 +1,81 @@
+{
+ "key": "SB 577",
+ "slug": "sb577",
+ "session": "2025_26",
+ "legislation_id": 73615,
+ "page": "https://www.legis.ga.gov/legislation/73615",
+ "document_type": "SB",
+ "number": 577,
+ "legislation_type": "GEN",
+ "caption": "\"Coordinated PFAS Remediation Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 12 and 50 of the Official Code of Georgia Annotated, relating to conservation and natural resources and state government, respectively, so as to reserve to the state certain PFAS claims; to provide for enforcement of such claims by the division; to provide for definitions; to provide for statutory construction; to provide for the receipt and administration of lawsuit and settlement proceeds by the Georgia Environmental Finance Authority; to provide for reporting; to provide for a short title; to provide for legislative findings and intent; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Natural Resources and the Environment",
+   "id": 139
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T08:54:02",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:09:30",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243953,
+   "label": "As Introduced LC 60 0307",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243953"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:47:44+00:00",
+  "version:243953": "2026-11-20T20:47:44+00:00",
+  "status:67": "2026-11-20T20:47:44+00:00",
+  "status:3": "2026-11-20T20:47:44+00:00"
+ },
+ "updated": "2026-11-20T20:47:44+00:00"
+}

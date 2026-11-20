@@ -1,0 +1,68 @@
+{
+ "key": "HR 76",
+ "slug": "hr76",
+ "session": "2025_26",
+ "legislation_id": 69609,
+ "page": "https://www.legis.ga.gov/legislation/69609",
+ "document_type": "HR",
+ "number": 76,
+ "legislation_type": "PRIV",
+ "caption": "Gibbs, Joey; commend",
+ "summary": "A RESOLUTION recognizing and commending Joey Gibbs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:13:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T13:53:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T13:53:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230547,
+   "label": "LC 129 0047/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230547"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:27+00:00",
+  "version:230547": "2026-11-20T19:32:27+00:00",
+  "status:40": "2026-11-20T19:32:27+00:00",
+  "status:33": "2026-11-20T19:32:27+00:00",
+  "status:48": "2026-11-20T19:32:27+00:00"
+ },
+ "updated": "2026-11-20T19:32:27+00:00"
+}

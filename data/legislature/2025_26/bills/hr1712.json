@@ -1,0 +1,61 @@
+{
+ "key": "HR 1712",
+ "slug": "hr1712",
+ "session": "2025_26",
+ "legislation_id": 74128,
+ "page": "https://www.legis.ga.gov/legislation/74128",
+ "document_type": "HR",
+ "number": 1712,
+ "legislation_type": "PRIV",
+ "caption": "Lay, Nasir Shakur; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Nasir Shakur Lay; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5071,
+   "name": "Baker, Sylvia Wayfer 64th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:56:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246056,
+   "label": "LC 112 3929/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246056"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:28+00:00",
+  "version:246056": "2026-11-20T20:09:28+00:00",
+  "status:40": "2026-11-20T20:09:28+00:00",
+  "status:33": "2026-11-20T20:09:28+00:00",
+  "status:48": "2026-11-20T20:09:28+00:00"
+ },
+ "updated": "2026-11-20T20:09:28+00:00"
+}

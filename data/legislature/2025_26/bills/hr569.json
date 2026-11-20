@@ -1,0 +1,89 @@
+{
+ "key": "HR 569",
+ "slug": "hr569",
+ "session": "2025_26",
+ "legislation_id": 71315,
+ "page": "https://www.legis.ga.gov/legislation/71315",
+ "document_type": "HR",
+ "number": 569,
+ "legislation_type": "PRIV",
+ "caption": "Shaw, Dorothy Sanders; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dorothy Sanders Shaw; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:49:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:17:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:17:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235937,
+   "label": "LC 112 3298/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235937"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:30+00:00",
+  "version:235937": "2026-11-20T19:43:30+00:00",
+  "status:40": "2026-11-20T19:43:30+00:00",
+  "status:33": "2026-11-20T19:43:30+00:00",
+  "status:48": "2026-11-20T19:43:30+00:00"
+ },
+ "updated": "2026-11-20T19:43:30+00:00"
+}

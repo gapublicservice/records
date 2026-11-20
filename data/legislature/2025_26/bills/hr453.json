@@ -1,0 +1,96 @@
+{
+ "key": "HR 453",
+ "slug": "hr453",
+ "session": "2025_26",
+ "legislation_id": 71037,
+ "page": "https://www.legis.ga.gov/legislation/71037",
+ "document_type": "HR",
+ "number": 453,
+ "legislation_type": "PRIV",
+ "caption": "Howard, Artward, Jr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Artward Howard Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:09:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:55:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T12:55:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234649,
+   "label": "LC 112 3162/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234649"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:55+00:00",
+  "version:234649": "2026-11-20T19:40:55+00:00",
+  "status:40": "2026-11-20T19:40:55+00:00",
+  "status:33": "2026-11-20T19:40:55+00:00",
+  "status:48": "2026-11-20T19:40:55+00:00"
+ },
+ "updated": "2026-11-20T19:40:55+00:00"
+}

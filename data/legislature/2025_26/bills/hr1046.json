@@ -1,0 +1,81 @@
+{
+ "key": "HR 1046",
+ "slug": "hr1046",
+ "session": "2025_26",
+ "legislation_id": 72348,
+ "page": "https://www.legis.ga.gov/legislation/72348",
+ "document_type": "HR",
+ "number": 1046,
+ "legislation_type": "CA",
+ "caption": "Property; common interest ownership structure; provisions - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that any property owner in a condominium, property owners' development, or similar common interest ownership structure shall have standing to bring an action to challenge the unauthorized possession of other property located within the same condominium, property owners' development, or other common ownership interest structure; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T11:34:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T10:49:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240157,
+   "label": "LC 60 0220/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240157"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:17+00:00",
+  "version:240157": "2026-11-20T19:54:17+00:00",
+  "status:40": "2026-11-20T19:54:17+00:00",
+  "status:33": "2026-11-20T19:54:17+00:00",
+  "status:34": "2026-11-20T19:54:17+00:00",
+  "status:39": "2026-11-20T19:54:17+00:00"
+ },
+ "updated": "2026-11-20T19:54:17+00:00"
+}

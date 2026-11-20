@@ -1,0 +1,82 @@
+{
+ "key": "SR 889",
+ "slug": "sr889",
+ "session": "2025_26",
+ "legislation_id": 73769,
+ "page": "https://www.legis.ga.gov/legislation/73769",
+ "document_type": "SR",
+ "number": 889,
+ "legislation_type": "PRIV",
+ "caption": "Civil Air Patrol; recognize",
+ "summary": "A RESOLUTION recognizing the Civil Air Patrol for their service to the citizens of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T09:36:37",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-04T11:33:03",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244590,
+   "label": "Read and adopted LC 112 3768",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244590"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:06+00:00",
+  "version:244590": "2026-11-20T21:11:06+00:00",
+  "status:67": "2026-11-20T21:11:06+00:00",
+  "status:66": "2026-11-20T21:11:06+00:00"
+ },
+ "updated": "2026-11-20T21:11:06+00:00"
+}

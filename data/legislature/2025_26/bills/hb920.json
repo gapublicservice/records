@@ -1,0 +1,102 @@
+{
+ "key": "HB 920",
+ "slug": "hb920",
+ "session": "2025_26",
+ "legislation_id": 72052,
+ "page": "https://www.legis.ga.gov/legislation/72052",
+ "document_type": "HB",
+ "number": 920,
+ "legislation_type": "GEN",
+ "caption": "Hate-Free Heroes Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 35 of the Official Code of Georgia Annotated, relating to employment and training of peace officers, so as to prohibit individuals who have been members of hate groups from serving in law enforcement and the organized militia under certain circumstances; to provide for definitions; to provide for enforcement and screening; to provide for appeals; to provide for public reporting; to provide for related matters; to provide for a short title; to provide for legislative findings; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5052,
+   "name": "Sampson, David 153rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T20:52:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238997,
+   "label": "LC 60 0157/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238997"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:43+00:00",
+  "version:238997": "2026-11-20T19:01:43+00:00",
+  "status:40": "2026-11-20T19:01:43+00:00",
+  "status:33": "2026-11-20T19:01:43+00:00",
+  "status:34": "2026-11-20T19:01:43+00:00"
+ },
+ "updated": "2026-11-20T19:01:43+00:00"
+}

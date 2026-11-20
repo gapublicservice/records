@@ -1,0 +1,110 @@
+{
+ "key": "SR 43",
+ "slug": "sr43",
+ "session": "2025_26",
+ "legislation_id": 69528,
+ "page": "https://www.legis.ga.gov/legislation/69528",
+ "document_type": "SR",
+ "number": 43,
+ "legislation_type": "PRIV",
+ "caption": "Kia Day; recognize January 28, 2025",
+ "summary": "A RESOLUTION commending Kia's vehicle manufacturing and impact on the state and recognizing January 28, 2025, as Kia Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:13:12",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T11:12:10",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230315,
+   "label": "Read and adopted LC 112 2735",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230315"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:18+00:00",
+  "version:230315": "2026-11-20T20:51:18+00:00",
+  "status:67": "2026-11-20T20:51:18+00:00",
+  "status:66": "2026-11-20T20:51:18+00:00"
+ },
+ "updated": "2026-11-20T20:51:18+00:00"
+}

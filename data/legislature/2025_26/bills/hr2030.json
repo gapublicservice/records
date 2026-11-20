@@ -1,0 +1,68 @@
+{
+ "key": "HR 2030",
+ "slug": "hr2030",
+ "session": "2025_26",
+ "legislation_id": 74645,
+ "page": "https://www.legis.ga.gov/legislation/74645",
+ "document_type": "HR",
+ "number": 2030,
+ "legislation_type": "PRIV",
+ "caption": "Cochran, Elect Lady Mary Frances; faithful service; commend",
+ "summary": "A RESOLUTION honoring Elect Lady Mary Frances Cochran for her faithful service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:19:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248390,
+   "label": "LC 112 4193/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248390"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:30+00:00",
+  "version:248390": "2026-11-20T20:16:30+00:00",
+  "status:40": "2026-11-20T20:16:30+00:00",
+  "status:33": "2026-11-20T20:16:30+00:00",
+  "status:48": "2026-11-20T20:16:30+00:00"
+ },
+ "updated": "2026-11-20T20:16:30+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HB 362",
+ "slug": "hb362",
+ "session": "2025_26",
+ "legislation_id": 70124,
+ "page": "https://www.legis.ga.gov/legislation/70124",
+ "document_type": "HB",
+ "number": 362,
+ "legislation_type": "LOC",
+ "caption": "Bryan County; ad valorem tax; educational purposes; provide homestead exemption",
+ "summary": "A BILL to be entitled an Act to provide a homestead exemption from Bryan County school district ad valorem taxes for educational purposes in an amount equal to the amount by which the current year assessed value of a homestead exceeds the adjusted base year assessed value of such homestead; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for applicability; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:47:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231915,
+   "label": "LC 47 3246/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231915"
+  },
+  {
+   "doc_id": 231946,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231946"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:34:12+00:00",
+  "version:231915": "2026-11-20T18:34:12+00:00",
+  "version:231946": "2026-11-20T18:34:12+00:00",
+  "status:40": "2026-11-20T18:34:12+00:00",
+  "status:33": "2026-11-20T18:34:12+00:00",
+  "status:34": "2026-11-20T18:34:12+00:00"
+ },
+ "updated": "2026-11-20T18:34:12+00:00"
+}

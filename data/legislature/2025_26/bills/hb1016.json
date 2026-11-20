@@ -1,0 +1,88 @@
+{
+ "key": "HB 1016",
+ "slug": "hb1016",
+ "session": "2025_26",
+ "legislation_id": 72344,
+ "page": "https://www.legis.ga.gov/legislation/72344",
+ "document_type": "HB",
+ "number": 1016,
+ "legislation_type": "GEN",
+ "caption": "Magistrate courts; expand existing remedies regarding unauthorized possession of real property",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 10 of Title 15, Article 2 of Chapter 7 of Title 16, and Article 2 of Chapter 11 of Title 44 of the Official Code of Georgia Annotated, relating to general provisions relative to magistrate courts, criminal trespass and damage to property, and proceedings against intruders, respectively, so as to expand existing remedies regarding the unauthorized possession of real property; to require that any person subject to removal or arrest for the unauthorized possession of real property be given 30 calendar days to present a counteraffidavit prior to any such removal or arrest; to provide for legislative findings and intent; to provide for definitions; to make conforming changes; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T11:33:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T10:49:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245196,
+   "label": "LC 61 0434S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245196"
+  },
+  {
+   "doc_id": 240154,
+   "label": "LC 60 0218/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240154"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:02+00:00",
+  "version:245196": "2026-11-20T19:06:02+00:00",
+  "version:240154": "2026-11-20T19:06:02+00:00",
+  "status:40": "2026-11-20T19:06:02+00:00",
+  "status:33": "2026-11-20T19:06:02+00:00",
+  "status:34": "2026-11-20T19:06:02+00:00",
+  "status:39": "2026-11-20T19:06:02+00:00"
+ },
+ "updated": "2026-11-20T19:06:02+00:00"
+}

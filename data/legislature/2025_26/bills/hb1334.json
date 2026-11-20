@@ -1,0 +1,102 @@
+{
+ "key": "HB 1334",
+ "slug": "hb1334",
+ "session": "2025_26",
+ "legislation_id": 73271,
+ "page": "https://www.legis.ga.gov/legislation/73271",
+ "document_type": "HB",
+ "number": 1334,
+ "legislation_type": "GEN",
+ "caption": "Georgia-Africa and Caribbean Trade Commission; create",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 50 of the Official Code of Georgia Annotated, relating to commissions and other agencies, so as to create the Georgia-Africa and Caribbean Trade Commission; to provide for members and purpose of the commission; to provide for annual reporting; to create a fund for commission expenses; to provide for legislative findings and intent; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Economic Development & Tourism",
+   "id": 144
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:10:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T12:23:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242812,
+   "label": "LC 59 0342/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242812"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:29+00:00",
+  "version:242812": "2026-11-20T19:19:29+00:00",
+  "status:40": "2026-11-20T19:19:29+00:00",
+  "status:33": "2026-11-20T19:19:29+00:00",
+  "status:34": "2026-11-20T19:19:29+00:00"
+ },
+ "updated": "2026-11-20T19:19:29+00:00"
+}

@@ -1,0 +1,129 @@
+{
+ "key": "HB 140",
+ "slug": "hb140",
+ "session": "2025_26",
+ "legislation_id": 69562,
+ "page": "https://www.legis.ga.gov/legislation/69562",
+ "document_type": "HB",
+ "number": 140,
+ "legislation_type": "GEN",
+ "caption": "End Local Taxation by Citation Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 81 of Title 36 of the Official Code of Georgia Annotated, relating to local government budgets and audits, so as to cap the amount of funds derived from court fines or forfeiture action that local governments may use as part of their yearly budgets; to provide that any funds collected in excess of such cap shall escheat to the state; to supersede any conflicting home rule powers of local governments; to provide for applicability; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-28T11:00:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-29T10:46:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T09:44:49",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-13T09:44:51",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-01-29T10:38:23",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240813,
+   "label": "LC 47 3928S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240813"
+  },
+  {
+   "doc_id": 232386,
+   "label": "LC 47 3297S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232386"
+  },
+  {
+   "doc_id": 230430,
+   "label": "LC 47 3180/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230430"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:22:53+00:00",
+  "version:240813": "2026-11-20T18:22:53+00:00",
+  "version:232386": "2026-11-20T18:22:53+00:00",
+  "version:230430": "2026-11-20T18:22:53+00:00",
+  "status:40": "2026-11-20T18:22:53+00:00",
+  "status:33": "2026-11-20T18:22:53+00:00",
+  "status:34": "2026-11-20T18:22:53+00:00",
+  "status:39": "2026-11-20T18:22:53+00:00",
+  "status:50": "2026-11-20T18:22:53+00:00"
+ },
+ "updated": "2026-11-20T18:22:53+00:00"
+}

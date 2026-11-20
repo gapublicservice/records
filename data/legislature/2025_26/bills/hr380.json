@@ -1,0 +1,82 @@
+{
+ "key": "HR 380",
+ "slug": "hr380",
+ "session": "2025_26",
+ "legislation_id": 70762,
+ "page": "https://www.legis.ga.gov/legislation/70762",
+ "document_type": "HR",
+ "number": 380,
+ "legislation_type": "PRIV",
+ "caption": "Gant, James and Patricia; retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending James and Patricia Gant upon their retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:41:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:25:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233707,
+   "label": "LC 129 0182/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233707"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:17+00:00",
+  "version:233707": "2026-11-20T19:39:17+00:00",
+  "status:40": "2026-11-20T19:39:17+00:00",
+  "status:33": "2026-11-20T19:39:17+00:00",
+  "status:48": "2026-11-20T19:39:17+00:00"
+ },
+ "updated": "2026-11-20T19:39:17+00:00"
+}

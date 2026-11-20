@@ -1,0 +1,61 @@
+{
+ "key": "HR 1227",
+ "slug": "hr1227",
+ "session": "2025_26",
+ "legislation_id": 72852,
+ "page": "https://www.legis.ga.gov/legislation/72852",
+ "document_type": "HR",
+ "number": 1227,
+ "legislation_type": "PRIV",
+ "caption": "Lazzara, Dr. Gasper; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Gasper Lazzara; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:18:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:41",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241544,
+   "label": "LC 129 0873/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241544"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:20+00:00",
+  "version:241544": "2026-11-20T19:58:20+00:00",
+  "status:40": "2026-11-20T19:58:20+00:00",
+  "status:33": "2026-11-20T19:58:20+00:00",
+  "status:48": "2026-11-20T19:58:20+00:00"
+ },
+ "updated": "2026-11-20T19:58:20+00:00"
+}

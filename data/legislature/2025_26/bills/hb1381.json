@@ -1,0 +1,105 @@
+{
+ "key": "HB 1381",
+ "slug": "hb1381",
+ "session": "2025_26",
+ "legislation_id": 73370,
+ "page": "https://www.legis.ga.gov/legislation/73370",
+ "document_type": "HB",
+ "number": 1381,
+ "legislation_type": "GEN",
+ "caption": "Public utilities; require grid modernization assessments to be filed with integrated resources plans",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3A of Title 46 of the Official Code of Georgia Annotated, relating to integrated resource planning, so as to require grid modernization assessments to be filed with integrated resources plans; to require justification for new transmission construction instead of utilizing certain new technologies; to provide for the recovery of costs; to provide for the recovery of certain savings related to new technologies; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:42:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243121,
+   "label": "LC 56 0586/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243121"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:09+00:00",
+  "version:243121": "2026-11-20T19:21:09+00:00",
+  "status:40": "2026-11-20T19:21:09+00:00",
+  "status:33": "2026-11-20T19:21:09+00:00",
+  "status:34": "2026-11-20T19:21:09+00:00"
+ },
+ "updated": "2026-11-20T19:21:09+00:00"
+}

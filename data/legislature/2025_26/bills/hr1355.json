@@ -1,0 +1,89 @@
+{
+ "key": "HR 1355",
+ "slug": "hr1355",
+ "session": "2025_26",
+ "legislation_id": 73214,
+ "page": "https://www.legis.ga.gov/legislation/73214",
+ "document_type": "HR",
+ "number": 1355,
+ "legislation_type": "PRIV",
+ "caption": "First Senior Center of Georgia; commend",
+ "summary": "A RESOLUTION recognizing the First Senior Center of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:04:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242628,
+   "label": "LC 129 1107/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242628"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:37+00:00",
+  "version:242628": "2026-11-20T20:01:37+00:00",
+  "status:40": "2026-11-20T20:01:37+00:00",
+  "status:33": "2026-11-20T20:01:37+00:00",
+  "status:48": "2026-11-20T20:01:37+00:00"
+ },
+ "updated": "2026-11-20T20:01:37+00:00"
+}

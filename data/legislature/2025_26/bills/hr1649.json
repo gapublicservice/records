@@ -1,0 +1,67 @@
+{
+ "key": "HR 1649",
+ "slug": "hr1649",
+ "session": "2025_26",
+ "legislation_id": 73992,
+ "page": "https://www.legis.ga.gov/legislation/73992",
+ "document_type": "HR",
+ "number": 1649,
+ "legislation_type": "GEN",
+ "caption": "Sheriff Russell Tanner Memorial Highway; Johnson County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Sheriff Russell Tanner and dedicating a road in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-09T14:00:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-10T10:28:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T10:05:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245559,
+   "label": "LC 39 5048/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245559"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:07+00:00",
+  "version:245559": "2026-11-20T20:08:07+00:00",
+  "status:40": "2026-11-20T20:08:07+00:00",
+  "status:33": "2026-11-20T20:08:07+00:00",
+  "status:34": "2026-11-20T20:08:07+00:00"
+ },
+ "updated": "2026-11-20T20:08:07+00:00"
+}

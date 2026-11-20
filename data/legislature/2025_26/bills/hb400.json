@@ -1,0 +1,116 @@
+{
+ "key": "HB 400",
+ "slug": "hb400",
+ "session": "2025_26",
+ "legislation_id": 70201,
+ "page": "https://www.legis.ga.gov/legislation/70201",
+ "document_type": "HB",
+ "number": 400,
+ "legislation_type": "GEN",
+ "caption": "Community Housing Options Increase Cost Efficiency (CHOICE) Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 12, 32, and 50 of the Official Code of Georgia Annotated, relating to conservation and natural resources, highways, bridges, and ferries, and state government, respectively, so as to provide for a system whereby certain local governments may seek certifications from the Department of Community Affairs upon the enactment of certain policies that can be used to receive priority in grant and loan applications submitted to state agencies; to provide for statutory construction; to provide that the Georgia Environmental Finance Authority give priority to certified local governments when awarding grants and loans; to provide definitions; to provide exceptions; to provide for related matters; to provide a short title; to provide legislative findings; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:19:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T10:44:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T09:42:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T09:31:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244331,
+   "label": "LC 47 4124S.hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244331"
+  },
+  {
+   "doc_id": 232070,
+   "label": "LC 55 0477/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232070"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:35:56+00:00",
+  "version:244331": "2026-11-20T18:35:56+00:00",
+  "version:232070": "2026-11-20T18:35:56+00:00",
+  "status:40": "2026-11-20T18:35:56+00:00",
+  "status:33": "2026-11-20T18:35:56+00:00",
+  "status:34": "2026-11-20T18:35:56+00:00",
+  "status:39": "2026-11-20T18:35:56+00:00"
+ },
+ "updated": "2026-11-20T18:35:56+00:00"
+}

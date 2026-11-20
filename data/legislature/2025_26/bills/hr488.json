@@ -1,0 +1,96 @@
+{
+ "key": "HR 488",
+ "slug": "hr488",
+ "session": "2025_26",
+ "legislation_id": 71143,
+ "page": "https://www.legis.ga.gov/legislation/71143",
+ "document_type": "HR",
+ "number": 488,
+ "legislation_type": "PRIV",
+ "caption": "Southwest Georgia Area Health Education Center; commend",
+ "summary": "A RESOLUTION commending the Southwest Georgia Area Health Education Center; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4969,
+   "name": "Yearta, Bill 152nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T13:25:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T14:11:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T14:11:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235147,
+   "label": "LC 112 3249/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235147"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:42+00:00",
+  "version:235147": "2026-11-20T19:41:42+00:00",
+  "status:40": "2026-11-20T19:41:42+00:00",
+  "status:33": "2026-11-20T19:41:42+00:00",
+  "status:48": "2026-11-20T19:41:42+00:00"
+ },
+ "updated": "2026-11-20T19:41:42+00:00"
+}

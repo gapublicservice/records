@@ -1,0 +1,82 @@
+{
+ "key": "SR 964",
+ "slug": "sr964",
+ "session": "2025_26",
+ "legislation_id": 74135,
+ "page": "https://www.legis.ga.gov/legislation/74135",
+ "document_type": "SR",
+ "number": 964,
+ "legislation_type": "PRIV",
+ "caption": "Headd, Reverend Avery; recognize",
+ "summary": "A RESOLUTION recognizing and commending Reverend Avery Headd on the occasion of his 31st pastoral anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:58:26",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-18T11:34:49",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246006,
+   "label": "Read and adopted LC 129 1361",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246006"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:12:49+00:00",
+  "version:246006": "2026-11-20T21:12:49+00:00",
+  "status:67": "2026-11-20T21:12:49+00:00",
+  "status:66": "2026-11-20T21:12:49+00:00"
+ },
+ "updated": "2026-11-20T21:12:49+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1021",
+ "slug": "hr1021",
+ "session": "2025_26",
+ "legislation_id": 72228,
+ "page": "https://www.legis.ga.gov/legislation/72228",
+ "document_type": "HR",
+ "number": 1021,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Association of Broadcasters Day; January 26, 2026; recognize",
+ "summary": "A RESOLUTION recognizing January 26, 2026, as Georgia Association of Broadcasters Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-14T13:08:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-14T13:22:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-14T13:22:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239859,
+   "label": "LC 129 0600/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239859"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:46+00:00",
+  "version:239859": "2026-11-20T19:53:46+00:00",
+  "status:40": "2026-11-20T19:53:46+00:00",
+  "status:33": "2026-11-20T19:53:46+00:00",
+  "status:48": "2026-11-20T19:53:46+00:00"
+ },
+ "updated": "2026-11-20T19:53:46+00:00"
+}

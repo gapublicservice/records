@@ -1,0 +1,89 @@
+{
+ "key": "HR 1546",
+ "slug": "hr1546",
+ "session": "2025_26",
+ "legislation_id": 73816,
+ "page": "https://www.legis.ga.gov/legislation/73816",
+ "document_type": "HR",
+ "number": 1546,
+ "legislation_type": "PRIV",
+ "caption": "Latin American Association; LAA Day; March 10, 2026; recognize",
+ "summary": "A RESOLUTION commending the Latin American Association and recognizing March 10, 2026, as LAA Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:58:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244809,
+   "label": "LC 129 9043/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244809"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:53+00:00",
+  "version:244809": "2026-11-20T20:05:53+00:00",
+  "status:40": "2026-11-20T20:05:53+00:00",
+  "status:33": "2026-11-20T20:05:53+00:00",
+  "status:48": "2026-11-20T20:05:53+00:00"
+ },
+ "updated": "2026-11-20T20:05:53+00:00"
+}

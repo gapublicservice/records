@@ -1,0 +1,81 @@
+{
+ "key": "HB 707",
+ "slug": "hb707",
+ "session": "2025_26",
+ "legislation_id": 71075,
+ "page": "https://www.legis.ga.gov/legislation/71075",
+ "document_type": "HB",
+ "number": 707,
+ "legislation_type": "GEN",
+ "caption": "Landlord and tenant; limitations on rent increases for seniors and veterans; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 44 of the Official Code of Georgia Annotated, relating to landlord and tenant, so as to provide for limitations on rent increases for seniors and veterans; to provide for definitions; to provide for defense in dispossessory actions; to provide for an automatic repeal; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T12:40:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234816,
+   "label": "LC 47 3478/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234816"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:43+00:00",
+  "version:234816": "2026-11-20T18:49:43+00:00",
+  "status:40": "2026-11-20T18:49:43+00:00",
+  "status:33": "2026-11-20T18:49:43+00:00",
+  "status:34": "2026-11-20T18:49:43+00:00"
+ },
+ "updated": "2026-11-20T18:49:43+00:00"
+}

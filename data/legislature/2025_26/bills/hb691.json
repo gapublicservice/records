@@ -1,0 +1,116 @@
+{
+ "key": "HB 691",
+ "slug": "hb691",
+ "session": "2025_26",
+ "legislation_id": 71031,
+ "page": "https://www.legis.ga.gov/legislation/71031",
+ "document_type": "HB",
+ "number": 691,
+ "legislation_type": "GEN",
+ "caption": "Georgia Emergency Management and Homeland Security Agency; create Georgia Resilience Office",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to emergency management, so as to provide for the creation of the Georgia Resilience Office under the Georgia Emergency Management and Homeland Security Agency; to provide for a board of directors;  to provide for the purpose, membership, and duties of such board; to provide for reports; to provide for the hiring of staff; to provide for compensation and funding; to provide for definitions; to provide for related matters; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T11:43:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:41:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:18",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235028,
+   "label": "LC 56 0369S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235028"
+  },
+  {
+   "doc_id": 234623,
+   "label": "LC 56 0353/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234623"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:09+00:00",
+  "version:235028": "2026-11-20T18:49:09+00:00",
+  "version:234623": "2026-11-20T18:49:09+00:00",
+  "status:40": "2026-11-20T18:49:09+00:00",
+  "status:33": "2026-11-20T18:49:09+00:00",
+  "status:34": "2026-11-20T18:49:09+00:00",
+  "status:39": "2026-11-20T18:49:09+00:00",
+  "status:50": "2026-11-20T18:49:09+00:00"
+ },
+ "updated": "2026-11-20T18:49:09+00:00"
+}

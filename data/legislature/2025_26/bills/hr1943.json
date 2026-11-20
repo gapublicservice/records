@@ -1,0 +1,67 @@
+{
+ "key": "HR 1943",
+ "slug": "hr1943",
+ "session": "2025_26",
+ "legislation_id": 74491,
+ "page": "https://www.legis.ga.gov/legislation/74491",
+ "document_type": "HR",
+ "number": 1943,
+ "legislation_type": "GEN",
+ "caption": "Mayor Nancy Denson Interchange; Clarke County; dedicate",
+ "summary": "A RESOLUTION recognizing the Honorable Nancy Denson and dedicating an interchange in her honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:58:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247542,
+   "label": "LC 39 5112/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247542"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:22+00:00",
+  "version:247542": "2026-11-20T20:14:22+00:00",
+  "status:40": "2026-11-20T20:14:22+00:00",
+  "status:33": "2026-11-20T20:14:22+00:00",
+  "status:34": "2026-11-20T20:14:22+00:00"
+ },
+ "updated": "2026-11-20T20:14:22+00:00"
+}

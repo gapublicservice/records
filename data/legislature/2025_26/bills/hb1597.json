@@ -1,0 +1,95 @@
+{
+ "key": "HB 1597",
+ "slug": "hb1597",
+ "session": "2025_26",
+ "legislation_id": 74373,
+ "page": "https://www.legis.ga.gov/legislation/74373",
+ "document_type": "HB",
+ "number": 1597,
+ "legislation_type": "GEN",
+ "caption": "Georgia Dream Expansion and Housing Affordability Act of 2026; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 50 of the Official Code of Georgia Annotated, relating to the Department of Community Affairs, so as to provide for maximum loan amounts for certain home buying assistance programs; to provide for loan structure and forgiveness; to provide for certain qualifications for eligibility; to provide for certain minimum fund allocation; to provide for definitions; to provide for a short title; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "State Planning & Community Affairs",
+   "id": 111
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-23T15:05:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T10:44:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T10:21:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247099,
+   "label": "LC 62 0506/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247099"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:29:57+00:00",
+  "version:247099": "2026-11-20T19:29:57+00:00",
+  "status:40": "2026-11-20T19:29:57+00:00",
+  "status:33": "2026-11-20T19:29:57+00:00",
+  "status:34": "2026-11-20T19:29:57+00:00"
+ },
+ "updated": "2026-11-20T19:29:57+00:00"
+}

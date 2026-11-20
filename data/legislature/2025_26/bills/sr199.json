@@ -1,0 +1,61 @@
+{
+ "key": "SR 199",
+ "slug": "sr199",
+ "session": "2025_26",
+ "legislation_id": 70383,
+ "page": "https://www.legis.ga.gov/legislation/70383",
+ "document_type": "SR",
+ "number": 199,
+ "legislation_type": "PRIV",
+ "caption": "Peach County School System; congratulate",
+ "summary": "A RESOLUTION congratulating the Peach County School System upon its 100th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T13:52:51",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-19T12:02:34",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232610,
+   "label": "Read and adopted LC 129 0160",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232610"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:54:44+00:00",
+  "version:232610": "2026-11-20T20:54:44+00:00",
+  "status:67": "2026-11-20T20:54:44+00:00",
+  "status:66": "2026-11-20T20:54:44+00:00"
+ },
+ "updated": "2026-11-20T20:54:44+00:00"
+}

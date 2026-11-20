@@ -1,0 +1,81 @@
+{
+ "key": "SB 405",
+ "slug": "sb405",
+ "session": "2025_26",
+ "legislation_id": 72254,
+ "page": "https://www.legis.ga.gov/legislation/72254",
+ "document_type": "SB",
+ "number": 405,
+ "legislation_type": "GEN",
+ "caption": "Magistrate Court; the maximum amount of civil claims that can be tried in magistrate court; increase",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-10-2 of the Official Code of Georgia Annotated, relating to general jurisdiction and authority of magistrate to act, so as to increase the maximum amount of civil claims that can be tried in magistrate court; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:40:15",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-16T09:04:41",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-02-06T09:36:05",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2026-02-09T10:11:45",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239922,
+   "label": "As Introduced LC 49 2501",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239922"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:39:24+00:00",
+  "version:239922": "2026-11-20T20:39:24+00:00",
+  "status:67": "2026-11-20T20:39:24+00:00",
+  "status:3": "2026-11-20T20:39:24+00:00",
+  "status:8": "2026-11-20T20:39:24+00:00",
+  "status:10": "2026-11-20T20:39:24+00:00",
+  "status:64": "2026-11-20T20:39:24+00:00"
+ },
+ "updated": "2026-11-20T20:39:24+00:00"
+}

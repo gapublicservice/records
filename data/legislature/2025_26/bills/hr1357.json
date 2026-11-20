@@ -1,0 +1,61 @@
+{
+ "key": "HR 1357",
+ "slug": "hr1357",
+ "session": "2025_26",
+ "legislation_id": 73216,
+ "page": "https://www.legis.ga.gov/legislation/73216",
+ "document_type": "HR",
+ "number": 1357,
+ "legislation_type": "PRIV",
+ "caption": "Thompson, Kenan; commend",
+ "summary": "A RESOLUTION recognizing and commending Kenan Thompson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:05:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242632,
+   "label": "LC 129 1084/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242632"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:40+00:00",
+  "version:242632": "2026-11-20T20:01:40+00:00",
+  "status:40": "2026-11-20T20:01:40+00:00",
+  "status:33": "2026-11-20T20:01:40+00:00",
+  "status:48": "2026-11-20T20:01:40+00:00"
+ },
+ "updated": "2026-11-20T20:01:40+00:00"
+}

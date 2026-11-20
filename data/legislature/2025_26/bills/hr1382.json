@@ -1,0 +1,89 @@
+{
+ "key": "HR 1382",
+ "slug": "hr1382",
+ "session": "2025_26",
+ "legislation_id": 73313,
+ "page": "https://www.legis.ga.gov/legislation/73313",
+ "document_type": "HR",
+ "number": 1382,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Runs on Trucking Day; March 18, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 18, 2026, as Georgia Runs on Trucking Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:15:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242905,
+   "label": "LC 129 1091/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242905"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:15+00:00",
+  "version:242905": "2026-11-20T20:02:15+00:00",
+  "status:40": "2026-11-20T20:02:15+00:00",
+  "status:33": "2026-11-20T20:02:15+00:00",
+  "status:48": "2026-11-20T20:02:15+00:00"
+ },
+ "updated": "2026-11-20T20:02:15+00:00"
+}

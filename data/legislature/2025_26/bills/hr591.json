@@ -1,0 +1,95 @@
+{
+ "key": "HR 591",
+ "slug": "hr591",
+ "session": "2025_26",
+ "legislation_id": 71353,
+ "page": "https://www.legis.ga.gov/legislation/71353",
+ "document_type": "HR",
+ "number": 591,
+ "legislation_type": "PRIV",
+ "caption": "Black Midwives Day; March 14, 2025; recognize",
+ "summary": "A RESOLUTION recognizing March 14, 2025, as Black Midwives Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-13T11:41:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T13:29:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T10:25:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236045,
+   "label": "LC 112 3355/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236045"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:58+00:00",
+  "version:236045": "2026-11-20T19:43:58+00:00",
+  "status:40": "2026-11-20T19:43:58+00:00",
+  "status:33": "2026-11-20T19:43:58+00:00",
+  "status:34": "2026-11-20T19:43:58+00:00"
+ },
+ "updated": "2026-11-20T19:43:58+00:00"
+}

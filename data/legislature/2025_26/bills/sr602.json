@@ -1,0 +1,61 @@
+{
+ "key": "SR 602",
+ "slug": "sr602",
+ "session": "2025_26",
+ "legislation_id": 72397,
+ "page": "https://www.legis.ga.gov/legislation/72397",
+ "document_type": "SR",
+ "number": 602,
+ "legislation_type": "PRIV",
+ "caption": "Herrell, Joann; recognize",
+ "summary": "A RESOLUTION recognizing and commending Joann Herrell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:55:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T11:48:57",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240255,
+   "label": "Read and adopted LC 129 0652",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240255"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:30+00:00",
+  "version:240255": "2026-11-20T21:04:30+00:00",
+  "status:67": "2026-11-20T21:04:30+00:00",
+  "status:66": "2026-11-20T21:04:30+00:00"
+ },
+ "updated": "2026-11-20T21:04:30+00:00"
+}

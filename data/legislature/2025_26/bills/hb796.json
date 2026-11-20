@@ -1,0 +1,81 @@
+{
+ "key": "HB 796",
+ "slug": "hb796",
+ "session": "2025_26",
+ "legislation_id": 71421,
+ "page": "https://www.legis.ga.gov/legislation/71421",
+ "document_type": "HB",
+ "number": 796,
+ "legislation_type": "GEN",
+ "caption": "Education; revise QBE program weights based on recommendations of the 2015 Education Reform Commission",
+ "summary": "A BILL to be entitled an Act to amend Part 4 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to financing under the \"Quality Basic Education Act,\" so as to revise QBE program weights based on recommendations of the 2015 Education Reform Commission; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-18T14:34:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T10:31:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T09:34:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236315,
+   "label": "LC 61 0230/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236315"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:13+00:00",
+  "version:236315": "2026-11-20T18:54:13+00:00",
+  "status:40": "2026-11-20T18:54:13+00:00",
+  "status:33": "2026-11-20T18:54:13+00:00",
+  "status:34": "2026-11-20T18:54:13+00:00"
+ },
+ "updated": "2026-11-20T18:54:13+00:00"
+}

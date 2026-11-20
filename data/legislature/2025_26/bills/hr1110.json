@@ -1,0 +1,81 @@
+{
+ "key": "HR 1110",
+ "slug": "hr1110",
+ "session": "2025_26",
+ "legislation_id": 72495,
+ "page": "https://www.legis.ga.gov/legislation/72495",
+ "document_type": "HR",
+ "number": 1110,
+ "legislation_type": "NP",
+ "caption": "General Assembly; support enactment of legislation to establish and maintain a comprehensive electronic inpatient psychiatric bed registry; urge",
+ "summary": "A RESOLUTION urging the General Assembly to support the enactment of legislation to establish and maintain a comprehensive electronic inpatient psychiatric bed registry in Georgia as provided in the proposed bill described herein; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:24:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240598,
+   "label": "LC 46 1277/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240598"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:46+00:00",
+  "version:240598": "2026-11-20T19:55:46+00:00",
+  "status:40": "2026-11-20T19:55:46+00:00",
+  "status:33": "2026-11-20T19:55:46+00:00",
+  "status:34": "2026-11-20T19:55:46+00:00"
+ },
+ "updated": "2026-11-20T19:55:46+00:00"
+}

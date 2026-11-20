@@ -1,0 +1,88 @@
+{
+ "key": "SB 320",
+ "slug": "sb320",
+ "session": "2025_26",
+ "legislation_id": 71106,
+ "page": "https://www.legis.ga.gov/legislation/71106",
+ "document_type": "SB",
+ "number": 320,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Civil Rights Act of 2025\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 8, 10, 34, 35, 45, and 50 of the O.C.G.A., relating to buildings and housing, commerce and trade, labor and industrial relations, law enforcement officers and agencies, public officers and employees, and state government, respectively, so as to provide comprehensive state civil rights laws protecting individuals from discrimination in housing, public accommodations, and employment on the basis of race, color, religion, sex, sexual orientation, gender identity, age, disability, familial status, or national origin;  to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T15:59:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-04T10:13:18",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234927,
+   "label": "As introduced LC 48 1564",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234927"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:35:57+00:00",
+  "version:234927": "2026-11-20T20:35:57+00:00",
+  "status:67": "2026-11-20T20:35:57+00:00",
+  "status:3": "2026-11-20T20:35:57+00:00"
+ },
+ "updated": "2026-11-20T20:35:57+00:00"
+}

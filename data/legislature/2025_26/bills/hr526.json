@@ -1,0 +1,61 @@
+{
+ "key": "HR 526",
+ "slug": "hr526",
+ "session": "2025_26",
+ "legislation_id": 71209,
+ "page": "https://www.legis.ga.gov/legislation/71209",
+ "document_type": "HR",
+ "number": 526,
+ "legislation_type": "PRIV",
+ "caption": "Buie, Jerry Jerome; retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Jerry Jerome Buie upon his retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T13:33:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T14:06:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T14:06:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235444,
+   "label": "LC 129 0287/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235444"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:31+00:00",
+  "version:235444": "2026-11-20T19:42:31+00:00",
+  "status:40": "2026-11-20T19:42:31+00:00",
+  "status:33": "2026-11-20T19:42:31+00:00",
+  "status:48": "2026-11-20T19:42:31+00:00"
+ },
+ "updated": "2026-11-20T19:42:31+00:00"
+}

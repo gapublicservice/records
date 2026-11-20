@@ -1,0 +1,68 @@
+{
+ "key": "HR 1068",
+ "slug": "hr1068",
+ "session": "2025_26",
+ "legislation_id": 72417,
+ "page": "https://www.legis.ga.gov/legislation/72417",
+ "document_type": "HR",
+ "number": 1068,
+ "legislation_type": "PRIV",
+ "caption": "Shen Yun Performing Arts; commend",
+ "summary": "A RESOLUTION recognizing and commending Shen Yun Performing Arts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:18:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240345,
+   "label": "LC 129 0659/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240345"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:53+00:00",
+  "version:240345": "2026-11-20T19:54:53+00:00",
+  "status:40": "2026-11-20T19:54:53+00:00",
+  "status:33": "2026-11-20T19:54:53+00:00",
+  "status:48": "2026-11-20T19:54:53+00:00"
+ },
+ "updated": "2026-11-20T19:54:53+00:00"
+}

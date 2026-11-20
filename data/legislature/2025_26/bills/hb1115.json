@@ -1,0 +1,95 @@
+{
+ "key": "HB 1115",
+ "slug": "hb1115",
+ "session": "2025_26",
+ "legislation_id": 72643,
+ "page": "https://www.legis.ga.gov/legislation/72643",
+ "document_type": "HB",
+ "number": 1115,
+ "legislation_type": "GEN",
+ "caption": "End Home Poaching Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of specialized land transactions, so as to prohibit institutional investors and other enterprises from obtaining, owning, or possessing an interest in more than 2,000 single-family residences; to provide a private cause of action against a residential home poacher that obtains, owns, or possesses an interest in more than 2,000 single-family residences; to provide an effective date; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:11:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240948,
+   "label": "LC 59 0276/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240948"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:50+00:00",
+  "version:240948": "2026-11-20T19:09:50+00:00",
+  "status:40": "2026-11-20T19:09:50+00:00",
+  "status:33": "2026-11-20T19:09:50+00:00",
+  "status:34": "2026-11-20T19:09:50+00:00"
+ },
+ "updated": "2026-11-20T19:09:50+00:00"
+}

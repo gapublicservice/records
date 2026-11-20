@@ -1,0 +1,89 @@
+{
+ "key": "HR 1518",
+ "slug": "hr1518",
+ "session": "2025_26",
+ "legislation_id": 73750,
+ "page": "https://www.legis.ga.gov/legislation/73750",
+ "document_type": "HR",
+ "number": 1518,
+ "legislation_type": "PRIV",
+ "caption": "Civil Air Patrol; service to the citizens of Georgia; commend",
+ "summary": "A RESOLUTION recognizing the Civil Air Patrol for their service to the citizens of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:23:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T15:14:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T15:14:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244439,
+   "label": "LC 112 3758/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244439"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:17+00:00",
+  "version:244439": "2026-11-20T20:05:17+00:00",
+  "status:40": "2026-11-20T20:05:17+00:00",
+  "status:33": "2026-11-20T20:05:17+00:00",
+  "status:48": "2026-11-20T20:05:17+00:00"
+ },
+ "updated": "2026-11-20T20:05:17+00:00"
+}

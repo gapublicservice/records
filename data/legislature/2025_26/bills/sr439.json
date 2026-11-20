@@ -1,0 +1,60 @@
+{
+ "key": "SR 439",
+ "slug": "sr439",
+ "session": "2025_26",
+ "legislation_id": 71546,
+ "page": "https://www.legis.ga.gov/legislation/71546",
+ "document_type": "SR",
+ "number": 439,
+ "legislation_type": "GEN",
+ "caption": "Senator Sheila McNeill Memorial Highway; Camden County; dedicate",
+ "summary": "A RESOLUTION honoring the life of the Honorable Sheila M. McNeill and dedicating a road in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T15:55:16",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-21T10:11:35",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236801,
+   "label": "As introduced LC 39 4769",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236801"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:00:27+00:00",
+  "version:236801": "2026-11-20T21:00:27+00:00",
+  "status:67": "2026-11-20T21:00:27+00:00",
+  "status:3": "2026-11-20T21:00:27+00:00"
+ },
+ "updated": "2026-11-20T21:00:27+00:00"
+}

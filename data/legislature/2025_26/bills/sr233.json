@@ -1,0 +1,61 @@
+{
+ "key": "SR 233",
+ "slug": "sr233",
+ "session": "2025_26",
+ "legislation_id": 70595,
+ "page": "https://www.legis.ga.gov/legislation/70595",
+ "document_type": "SR",
+ "number": 233,
+ "legislation_type": "PRIV",
+ "caption": "City of Savannah and Mayor Van R. Johnson; commend",
+ "summary": "A RESOLUTION commending the City of Savannah and Mayor Van R. Johnson on the Mayor on the Move: Healthy Savannah Kids Club; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T11:23:25",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-21T09:55:26",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233219,
+   "label": "Read and adopted LC 112 3030",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233219"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:55:33+00:00",
+  "version:233219": "2026-11-20T20:55:33+00:00",
+  "status:67": "2026-11-20T20:55:33+00:00",
+  "status:66": "2026-11-20T20:55:33+00:00"
+ },
+ "updated": "2026-11-20T20:55:33+00:00"
+}

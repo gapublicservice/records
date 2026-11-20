@@ -1,0 +1,61 @@
+{
+ "key": "HR 2081",
+ "slug": "hr2081",
+ "session": "2025_26",
+ "legislation_id": 74682,
+ "page": "https://www.legis.ga.gov/legislation/74682",
+ "document_type": "HR",
+ "number": 2081,
+ "legislation_type": "PRIV",
+ "caption": "Scott, Ms. Tonia Louise; honoring the life and legacy; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Ms. Tonia Louise Scott; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:46:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248588,
+   "label": "LC 112 4200/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248588"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:41+00:00",
+  "version:248588": "2026-11-20T20:17:41+00:00",
+  "status:40": "2026-11-20T20:17:41+00:00",
+  "status:33": "2026-11-20T20:17:41+00:00",
+  "status:48": "2026-11-20T20:17:41+00:00"
+ },
+ "updated": "2026-11-20T20:17:41+00:00"
+}

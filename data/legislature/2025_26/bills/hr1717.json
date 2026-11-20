@@ -1,0 +1,96 @@
+{
+ "key": "HR 1717",
+ "slug": "hr1717",
+ "session": "2025_26",
+ "legislation_id": 74133,
+ "page": "https://www.legis.ga.gov/legislation/74133",
+ "document_type": "HR",
+ "number": 1717,
+ "legislation_type": "PRIV",
+ "caption": "Clayton County Day; March 26, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 26, 2026, as Clayton County Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:58:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246063,
+   "label": "LC 129 1379/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246063"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:34+00:00",
+  "version:246063": "2026-11-20T20:09:34+00:00",
+  "status:40": "2026-11-20T20:09:34+00:00",
+  "status:33": "2026-11-20T20:09:34+00:00",
+  "status:48": "2026-11-20T20:09:34+00:00"
+ },
+ "updated": "2026-11-20T20:09:34+00:00"
+}

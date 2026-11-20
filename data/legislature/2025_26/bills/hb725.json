@@ -1,0 +1,102 @@
+{
+ "key": "HB 725",
+ "slug": "hb725",
+ "session": "2025_26",
+ "legislation_id": 71134,
+ "page": "https://www.legis.ga.gov/legislation/71134",
+ "document_type": "HB",
+ "number": 725,
+ "legislation_type": "GEN",
+ "caption": "Property; certain rental agreements; provide landlord duties",
+ "summary": "A BILL to be entitled an Act to amend Code Section 44-7-13 of the Official Code of Georgia Annotated, relating to landlord's duties as to repairs and improvements, so as to provide for landlord duties regarding certain rental agreements; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T12:41:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T10:44:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-10T13:15:27",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235107,
+   "label": "LC 48 1519/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235107"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:50:29+00:00",
+  "version:235107": "2026-11-20T18:50:29+00:00",
+  "status:40": "2026-11-20T18:50:29+00:00",
+  "status:33": "2026-11-20T18:50:29+00:00",
+  "status:34": "2026-11-20T18:50:29+00:00"
+ },
+ "updated": "2026-11-20T18:50:29+00:00"
+}

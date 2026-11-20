@@ -1,0 +1,68 @@
+{
+ "key": "HR 1625",
+ "slug": "hr1625",
+ "session": "2025_26",
+ "legislation_id": 73960,
+ "page": "https://www.legis.ga.gov/legislation/73960",
+ "document_type": "HR",
+ "number": 1625,
+ "legislation_type": "PRIV",
+ "caption": "Graziano, Retired Master Sergeant Louis C.; commend",
+ "summary": "A RESOLUTION commending and congratulating Retired Master Sergeant Louis C. Graziano; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:09:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245408,
+   "label": "LC 112 3820/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245408"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:35+00:00",
+  "version:245408": "2026-11-20T20:07:35+00:00",
+  "status:40": "2026-11-20T20:07:35+00:00",
+  "status:33": "2026-11-20T20:07:35+00:00",
+  "status:48": "2026-11-20T20:07:35+00:00"
+ },
+ "updated": "2026-11-20T20:07:35+00:00"
+}

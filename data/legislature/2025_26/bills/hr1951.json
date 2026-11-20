@@ -1,0 +1,95 @@
+{
+ "key": "HR 1951",
+ "slug": "hr1951",
+ "session": "2025_26",
+ "legislation_id": 74518,
+ "page": "https://www.legis.ga.gov/legislation/74518",
+ "document_type": "HR",
+ "number": 1951,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on MARTA Governance, Financial Accountability, and Regional Transit Oversight; create",
+ "summary": "A RESOLUTION creating the House Study Committee on MARTA Governance, Financial Accountability, and Regional Transit Oversight; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-27T13:57:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T10:29:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T10:22:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247869,
+   "label": "LC 39 5130/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247869"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:33+00:00",
+  "version:247869": "2026-11-20T20:14:33+00:00",
+  "status:40": "2026-11-20T20:14:33+00:00",
+  "status:33": "2026-11-20T20:14:33+00:00",
+  "status:34": "2026-11-20T20:14:33+00:00"
+ },
+ "updated": "2026-11-20T20:14:33+00:00"
+}

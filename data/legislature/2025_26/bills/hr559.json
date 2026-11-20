@@ -1,0 +1,81 @@
+{
+ "key": "HR 559",
+ "slug": "hr559",
+ "session": "2025_26",
+ "legislation_id": 71266,
+ "page": "https://www.legis.ga.gov/legislation/71266",
+ "document_type": "HR",
+ "number": 559,
+ "legislation_type": "GEN",
+ "caption": "Ruby and Loy Grogan Memorial Intersection; Forsyth County; dedicate",
+ "summary": "A RESOLUTION honoring the lives of Mrs. Ruby Floyd Grogan and Mr. Loy James Grogan and dedicating an intersection in their memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 808,
+   "name": "Ballinger, Mandi 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-10T14:07:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T13:57:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T09:02:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235762,
+   "label": "LC 39 4726/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235762"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:17+00:00",
+  "version:235762": "2026-11-20T19:43:17+00:00",
+  "status:40": "2026-11-20T19:43:17+00:00",
+  "status:33": "2026-11-20T19:43:17+00:00",
+  "status:34": "2026-11-20T19:43:17+00:00"
+ },
+ "updated": "2026-11-20T19:43:17+00:00"
+}

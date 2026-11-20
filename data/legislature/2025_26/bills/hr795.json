@@ -1,0 +1,61 @@
+{
+ "key": "HR 795",
+ "slug": "hr795",
+ "session": "2025_26",
+ "legislation_id": 71772,
+ "page": "https://www.legis.ga.gov/legislation/71772",
+ "document_type": "HR",
+ "number": 795,
+ "legislation_type": "PRIV",
+ "caption": "Grant, Lewis; commend",
+ "summary": "A RESOLUTION recognizing and commending Lewis Grant; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:56:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237637,
+   "label": "LC 129 0376/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237637"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:42+00:00",
+  "version:237637": "2026-11-20T19:48:42+00:00",
+  "status:40": "2026-11-20T19:48:42+00:00",
+  "status:33": "2026-11-20T19:48:42+00:00",
+  "status:48": "2026-11-20T19:48:42+00:00"
+ },
+ "updated": "2026-11-20T19:48:42+00:00"
+}

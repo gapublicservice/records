@@ -1,0 +1,60 @@
+{
+ "key": "SB 290",
+ "slug": "sb290",
+ "session": "2025_26",
+ "legislation_id": 70914,
+ "page": "https://www.legis.ga.gov/legislation/70914",
+ "document_type": "SB",
+ "number": 290,
+ "legislation_type": "GEN",
+ "caption": "Health; certification of community health workers; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to provide for the certification of community health workers; to provide for definitions; to provide for the establishment of the Georgia Community Health Worker Certification Committee; to provide for membership, powers, and duties of the committee; to provide for related matters; to provide for an effective date conditioned on appropriations; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T16:53:22",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:32:39",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234214,
+   "label": "As Introduced LC 52 0799",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234214"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:34:47+00:00",
+  "version:234214": "2026-11-20T20:34:47+00:00",
+  "status:67": "2026-11-20T20:34:47+00:00",
+  "status:3": "2026-11-20T20:34:47+00:00"
+ },
+ "updated": "2026-11-20T20:34:47+00:00"
+}

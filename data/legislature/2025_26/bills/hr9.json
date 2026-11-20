@@ -1,0 +1,67 @@
+{
+ "key": "HR 9",
+ "slug": "hr9",
+ "session": "2025_26",
+ "legislation_id": 69315,
+ "page": "https://www.legis.ga.gov/legislation/69315",
+ "document_type": "HR",
+ "number": 9,
+ "legislation_type": "CA",
+ "caption": "General Assembly; create Safe Drinking Water and Toxic Enforcement Fund; authorize - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to provide that revenue derived from the regulation of safe drinking water and toxic enforcement may be dedicated for certain purposes and not deposited into the general fund; to authorize the General Assembly to create the Safe Drinking Water and Toxic Enforcement Fund; to provide that such funds shall not lapse; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:52:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229810,
+   "label": "LC 28 0643/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229810"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:40+00:00",
+  "version:229810": "2026-11-20T19:30:40+00:00",
+  "status:40": "2026-11-20T19:30:40+00:00",
+  "status:33": "2026-11-20T19:30:40+00:00",
+  "status:34": "2026-11-20T19:30:40+00:00"
+ },
+ "updated": "2026-11-20T19:30:40+00:00"
+}

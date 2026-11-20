@@ -1,0 +1,75 @@
+{
+ "key": "HR 1341",
+ "slug": "hr1341",
+ "session": "2025_26",
+ "legislation_id": 73155,
+ "page": "https://www.legis.ga.gov/legislation/73155",
+ "document_type": "HR",
+ "number": 1341,
+ "legislation_type": "PRIV",
+ "caption": "F. DuBois Bowman Day; 02/11/26; F. DuBois Bowman; inauguration as the 13th President of Morehouse College; recognize",
+ "summary": "A RESOLUTION commending F. DuBois Bowman on his inauguration as the 13th President of Morehouse College and recognizing February 11, 2026, as F. DuBois Bowman Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:48:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242412,
+   "label": "LC 129 1066/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242412"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:15+00:00",
+  "version:242412": "2026-11-20T20:01:15+00:00",
+  "status:40": "2026-11-20T20:01:15+00:00",
+  "status:33": "2026-11-20T20:01:15+00:00",
+  "status:48": "2026-11-20T20:01:15+00:00"
+ },
+ "updated": "2026-11-20T20:01:15+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 663",
+ "slug": "hb663",
+ "session": "2025_26",
+ "legislation_id": 70948,
+ "page": "https://www.legis.ga.gov/legislation/70948",
+ "document_type": "HB",
+ "number": 663,
+ "legislation_type": "GEN",
+ "caption": "Conservation and natural resources; fee for motor vehicle emissions inspections; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 12-9-46 of the Official Code of Georgia Annotated, relating to powers and duties of Board of Natural Resources, designation of commissioner or director as board's agent, and power and duties of director, so as to revise provisions relating to the fee for motor vehicle emissions inspections; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T12:11:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T09:31:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244312,
+   "label": "LC 39 4980S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244312"
+  },
+  {
+   "doc_id": 234353,
+   "label": "LC 39 4655/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234353"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:17+00:00",
+  "version:244312": "2026-11-20T18:48:17+00:00",
+  "version:234353": "2026-11-20T18:48:17+00:00",
+  "status:40": "2026-11-20T18:48:17+00:00",
+  "status:33": "2026-11-20T18:48:17+00:00",
+  "status:34": "2026-11-20T18:48:17+00:00",
+  "status:39": "2026-11-20T18:48:17+00:00"
+ },
+ "updated": "2026-11-20T18:48:17+00:00"
+}

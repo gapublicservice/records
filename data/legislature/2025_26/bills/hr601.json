@@ -1,0 +1,89 @@
+{
+ "key": "HR 601",
+ "slug": "hr601",
+ "session": "2025_26",
+ "legislation_id": 71370,
+ "page": "https://www.legis.ga.gov/legislation/71370",
+ "document_type": "HR",
+ "number": 601,
+ "legislation_type": "PRIV",
+ "caption": "Support for increased awareness of stomach cancer; recognize",
+ "summary": "A RESOLUTION expressing support for increased awareness of stomach cancer; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:02:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:21:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:21:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236102,
+   "label": "LC 112 3346/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236102"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:11+00:00",
+  "version:236102": "2026-11-20T19:44:11+00:00",
+  "status:40": "2026-11-20T19:44:11+00:00",
+  "status:33": "2026-11-20T19:44:11+00:00",
+  "status:48": "2026-11-20T19:44:11+00:00"
+ },
+ "updated": "2026-11-20T19:44:11+00:00"
+}

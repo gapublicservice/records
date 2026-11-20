@@ -1,0 +1,109 @@
+{
+ "key": "HB 1206",
+ "slug": "hb1206",
+ "session": "2025_26",
+ "legislation_id": 72882,
+ "page": "https://www.legis.ga.gov/legislation/72882",
+ "document_type": "HB",
+ "number": 1206,
+ "legislation_type": "GEN",
+ "caption": "Education; require local boards of education and other public school governing bodies to consider total cost of ownership and related factors when purchasing school technology devices",
+ "summary": "A BILL to be entitled an Act to amend Article 19 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to instructional materials and content relative to elementary and secondary education, so as to require local boards of education and other public school governing bodies to consider the total cost of ownership and related factors when purchasing school technology devices; to provide for reports; to provide definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T11:18:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244544,
+   "label": "LC 49 2727S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244544"
+  },
+  {
+   "doc_id": 241641,
+   "label": "LC 61 0314/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241641"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:02+00:00",
+  "version:244544": "2026-11-20T19:14:02+00:00",
+  "version:241641": "2026-11-20T19:14:02+00:00",
+  "status:40": "2026-11-20T19:14:02+00:00",
+  "status:33": "2026-11-20T19:14:02+00:00",
+  "status:34": "2026-11-20T19:14:02+00:00",
+  "status:39": "2026-11-20T19:14:02+00:00"
+ },
+ "updated": "2026-11-20T19:14:02+00:00"
+}

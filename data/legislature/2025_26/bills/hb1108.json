@@ -1,0 +1,83 @@
+{
+ "key": "HB 1108",
+ "slug": "hb1108",
+ "session": "2025_26",
+ "legislation_id": 72627,
+ "page": "https://www.legis.ga.gov/legislation/72627",
+ "document_type": "HB",
+ "number": 1108,
+ "legislation_type": "GEN",
+ "caption": "Elections; state-wide uniform system of voting equipment; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to revise provisions related to the state-wide uniform system of voting equipment; to transfer responsibility for the certification and selection of such system from the Secretary of State to the State Election Board; to provide that such system shall use hand marked and hand counted paper ballots; to provide for the use of ballot marking devices by voters precluded from using hand marked ballots; to provide for the use of the same equipment in municipal elections; to make conforming changes to provisions related to scanning absentee ballots; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5092,
+   "name": "Fincher, Bill 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:20:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240914,
+   "label": "LC 47 3849/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240914"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:28+00:00",
+  "version:240914": "2026-11-20T19:09:28+00:00",
+  "status:40": "2026-11-20T19:09:28+00:00",
+  "status:33": "2026-11-20T19:09:28+00:00",
+  "status:34": "2026-11-20T19:09:28+00:00"
+ },
+ "updated": "2026-11-20T19:09:28+00:00"
+}

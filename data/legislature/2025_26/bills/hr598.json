@@ -1,0 +1,89 @@
+{
+ "key": "HR 598",
+ "slug": "hr598",
+ "session": "2025_26",
+ "legislation_id": 71367,
+ "page": "https://www.legis.ga.gov/legislation/71367",
+ "document_type": "HR",
+ "number": 598,
+ "legislation_type": "PRIV",
+ "caption": "Timoteo, Kristen; Georgia Library Service's 2024 Library Employee of the Year; commend",
+ "summary": "A RESOLUTION commending Kristen Timoteo, the Georgia Public Library Service's 2024 Library Employee of the Year; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:01:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:21:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:21:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236119,
+   "label": "LC 129 0192/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236119"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:07+00:00",
+  "version:236119": "2026-11-20T19:44:07+00:00",
+  "status:40": "2026-11-20T19:44:07+00:00",
+  "status:33": "2026-11-20T19:44:07+00:00",
+  "status:48": "2026-11-20T19:44:07+00:00"
+ },
+ "updated": "2026-11-20T19:44:07+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "HR 523",
+ "slug": "hr523",
+ "session": "2025_26",
+ "legislation_id": 71206,
+ "page": "https://www.legis.ga.gov/legislation/71206",
+ "document_type": "HR",
+ "number": 523,
+ "legislation_type": "PRIV",
+ "caption": "The Links, Incorporated; Georgia Links Day At The Capitol; March 10, 2025; recognize",
+ "summary": "A RESOLUTION commending The Links, Incorporated and recognizing March 10, 2025, as the Georgia Links Day At The Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T13:32:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T14:06:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T14:06:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235441,
+   "label": "LC 112 3295/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235441"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:28+00:00",
+  "version:235441": "2026-11-20T19:42:28+00:00",
+  "status:40": "2026-11-20T19:42:28+00:00",
+  "status:33": "2026-11-20T19:42:28+00:00",
+  "status:48": "2026-11-20T19:42:28+00:00"
+ },
+ "updated": "2026-11-20T19:42:28+00:00"
+}

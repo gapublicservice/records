@@ -1,0 +1,109 @@
+{
+ "key": "SB 426",
+ "slug": "sb426",
+ "session": "2025_26",
+ "legislation_id": 72470,
+ "page": "https://www.legis.ga.gov/legislation/72470",
+ "document_type": "SB",
+ "number": 426,
+ "legislation_type": "GEN",
+ "caption": "Education; high school students seeking a high school diploma to achieve a minimum score of 70 percent on the United States Citizenship Civics Test; require",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to require high school students seeking a high school diploma and individuals seeking a state approved high school equivalency (HSE) diploma to achieve a minimum score of 70 percent on the United States Citizenship Civics Test for the purpose of being eligible to receive a high school diploma or a state approved high school equivalency (HSE) diploma; to provide for multiple attempts; to provide for certification of scores; to provide for legislative findings; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Education and Youth",
+   "id": 120
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T16:09:44",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T10:09:36",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240438,
+   "label": "As Introduced LC 49 2513",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240438"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:40:17+00:00",
+  "version:240438": "2026-11-20T20:40:17+00:00",
+  "status:67": "2026-11-20T20:40:17+00:00",
+  "status:3": "2026-11-20T20:40:17+00:00"
+ },
+ "updated": "2026-11-20T20:40:17+00:00"
+}

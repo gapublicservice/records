@@ -1,0 +1,82 @@
+{
+ "key": "HR 1165",
+ "slug": "hr1165",
+ "session": "2025_26",
+ "legislation_id": 72652,
+ "page": "https://www.legis.ga.gov/legislation/72652",
+ "document_type": "HR",
+ "number": 1165,
+ "legislation_type": "PRIV",
+ "caption": "Alpha Kappa Alpha Sorority Incorporated Day at the State Capitol; 03/02/26; recognize",
+ "summary": "A RESOLUTION recognizing March 2, 2026, as Alpha Kappa Alpha Sorority, Incorporated, Day at the State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:44:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240979,
+   "label": "LC 129 0826/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240979"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:59+00:00",
+  "version:240979": "2026-11-20T19:56:59+00:00",
+  "status:40": "2026-11-20T19:56:59+00:00",
+  "status:33": "2026-11-20T19:56:59+00:00",
+  "status:48": "2026-11-20T19:56:59+00:00"
+ },
+ "updated": "2026-11-20T19:56:59+00:00"
+}

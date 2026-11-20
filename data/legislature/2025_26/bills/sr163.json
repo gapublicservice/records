@@ -1,0 +1,54 @@
+{
+ "key": "SR 163",
+ "slug": "sr163",
+ "session": "2025_26",
+ "legislation_id": 70164,
+ "page": "https://www.legis.ga.gov/legislation/70164",
+ "document_type": "SR",
+ "number": 163,
+ "legislation_type": "PRIV",
+ "caption": "Owens, Amy; recognize",
+ "summary": "A RESOLUTION recognizing and commending Amy Owens, recipient of the RN of the Year award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:41:53",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-11T11:24:13",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231886,
+   "label": "Read and adopted LC 112 2947",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231886"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:54:00+00:00",
+  "version:231886": "2026-11-20T20:54:00+00:00",
+  "status:67": "2026-11-20T20:54:00+00:00",
+  "status:66": "2026-11-20T20:54:00+00:00"
+ },
+ "updated": "2026-11-20T20:54:00+00:00"
+}

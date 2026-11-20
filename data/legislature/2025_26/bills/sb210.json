@@ -1,0 +1,67 @@
+{
+ "key": "SB 210",
+ "slug": "sb210",
+ "session": "2025_26",
+ "legislation_id": 70510,
+ "page": "https://www.legis.ga.gov/legislation/70510",
+ "document_type": "SB",
+ "number": 210,
+ "legislation_type": "LOC",
+ "caption": "Board of Commissioners of Douglas County; filling of vacancies on the board of commissioners; change provisions",
+ "summary": "A BILL to be entitled an Act to amend an Act creating the Board of Commissioners of Douglas County, approved February 15, 1952 (Ga. L. 1952, p. 2703), as amended, particularly by an Act approved February 25, 1991 (Ga. L. 1991, p. 3501), so as to change provisions relating to filling of vacancies on the board of commissioners; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:02:43",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T10:31:44",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232953,
+   "label": "As introduced LC 44 3047",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232953"
+  },
+  {
+   "doc_id": 233075,
+   "label": "SB 210 Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233075"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:31:00+00:00",
+  "version:232953": "2026-11-20T20:31:00+00:00",
+  "version:233075": "2026-11-20T20:31:00+00:00",
+  "status:67": "2026-11-20T20:31:00+00:00",
+  "status:3": "2026-11-20T20:31:00+00:00"
+ },
+ "updated": "2026-11-20T20:31:00+00:00"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "HB 1590",
+ "slug": "hb1590",
+ "session": "2025_26",
+ "legislation_id": 74315,
+ "page": "https://www.legis.ga.gov/legislation/74315",
+ "document_type": "HB",
+ "number": 1590,
+ "legislation_type": "LOC",
+ "caption": "Telfair County; county officers; ineligible to hold office under certain conditions; repeal amendment",
+ "summary": "A BILL to be entitled an Act to repeal the amendment to the Constitution of Georgia providing that the county officers of Telfair County shall be ineligible to hold office under certain conditions; to provide for legislative intent; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-20T10:32:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T10:21:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T10:24:50",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246852,
+   "label": "LC 47 3930/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246852"
+  },
+  {
+   "doc_id": 246869,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246869"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:29:43+00:00",
+  "version:246852": "2026-11-20T19:29:43+00:00",
+  "version:246869": "2026-11-20T19:29:43+00:00",
+  "status:40": "2026-11-20T19:29:43+00:00",
+  "status:33": "2026-11-20T19:29:43+00:00",
+  "status:34": "2026-11-20T19:29:43+00:00"
+ },
+ "updated": "2026-11-20T19:29:43+00:00"
+}

@@ -1,0 +1,116 @@
+{
+ "key": "HR 752",
+ "slug": "hr752",
+ "session": "2025_26",
+ "legislation_id": 71721,
+ "page": "https://www.legis.ga.gov/legislation/71721",
+ "document_type": "HR",
+ "number": 752,
+ "legislation_type": "NP",
+ "caption": "Joint Study Committee on Cosmetology and Barbering Education; create",
+ "summary": "A RESOLUTION creating the Joint Study Committee on Cosmetology and Barbering Education; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T11:15:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-28T09:56:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T10:12:40",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T08:57:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243660,
+   "label": "LC 56 0631S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243660"
+  },
+  {
+   "doc_id": 237514,
+   "label": "LC 61 0223/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237514"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:45+00:00",
+  "version:243660": "2026-11-20T19:47:45+00:00",
+  "version:237514": "2026-11-20T19:47:45+00:00",
+  "status:40": "2026-11-20T19:47:45+00:00",
+  "status:33": "2026-11-20T19:47:45+00:00",
+  "status:34": "2026-11-20T19:47:45+00:00",
+  "status:39": "2026-11-20T19:47:45+00:00"
+ },
+ "updated": "2026-11-20T19:47:45+00:00"
+}

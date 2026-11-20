@@ -1,0 +1,68 @@
+{
+ "key": "HR 1535",
+ "slug": "hr1535",
+ "session": "2025_26",
+ "legislation_id": 73805,
+ "page": "https://www.legis.ga.gov/legislation/73805",
+ "document_type": "HR",
+ "number": 1535,
+ "legislation_type": "PRIV",
+ "caption": "Okafor; Dr. Ego; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dr. Ego Okafor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:53:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244807,
+   "label": "LC 112 3801/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244807"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:39+00:00",
+  "version:244807": "2026-11-20T20:05:39+00:00",
+  "status:40": "2026-11-20T20:05:39+00:00",
+  "status:33": "2026-11-20T20:05:39+00:00",
+  "status:48": "2026-11-20T20:05:39+00:00"
+ },
+ "updated": "2026-11-20T20:05:39+00:00"
+}

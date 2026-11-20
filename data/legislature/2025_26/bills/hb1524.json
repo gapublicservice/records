@@ -1,0 +1,109 @@
+{
+ "key": "HB 1524",
+ "slug": "hb1524",
+ "session": "2025_26",
+ "legislation_id": 73974,
+ "page": "https://www.legis.ga.gov/legislation/73974",
+ "document_type": "HB",
+ "number": 1524,
+ "legislation_type": "LOC",
+ "caption": "Gwinnett County; school district ad valorem tax; provide homestead exemption",
+ "summary": "A BILL to be entitled an Act to provide a homestead exemption from Gwinnett County school district ad valorem taxes for educational purposes in the amount of 50 percent of the assessed value of the homestead for certain residents of that school district who are 65 years of age but less than 70 years of age and in the amount of the full assessed value of the homestead for certain residents of that school district who are 70 years of age or older; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for applicability; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:22:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-09T13:52:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-10T09:34:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245413,
+   "label": "LC 61 0347/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245413"
+  },
+  {
+   "doc_id": 245432,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245432"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:25:59+00:00",
+  "version:245413": "2026-11-20T19:25:59+00:00",
+  "version:245432": "2026-11-20T19:25:59+00:00",
+  "status:40": "2026-11-20T19:25:59+00:00",
+  "status:33": "2026-11-20T19:25:59+00:00",
+  "status:34": "2026-11-20T19:25:59+00:00"
+ },
+ "updated": "2026-11-20T19:25:59+00:00"
+}

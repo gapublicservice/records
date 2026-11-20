@@ -1,0 +1,82 @@
+{
+ "key": "HR 621",
+ "slug": "hr621",
+ "session": "2025_26",
+ "legislation_id": 71441,
+ "page": "https://www.legis.ga.gov/legislation/71441",
+ "document_type": "HR",
+ "number": 621,
+ "legislation_type": "PRIV",
+ "caption": "Rosa T. Beard Debutante Club; 60th Cotillion; commend",
+ "summary": "A RESOLUTION recognizing and commending the Rosa T. Beard Debutante Club on its 60th Cotillion; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T16:32:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T17:00:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-18T17:00:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236442,
+   "label": "LC 112 3420/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236442"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:37+00:00",
+  "version:236442": "2026-11-20T19:44:37+00:00",
+  "status:40": "2026-11-20T19:44:37+00:00",
+  "status:33": "2026-11-20T19:44:37+00:00",
+  "status:48": "2026-11-20T19:44:37+00:00"
+ },
+ "updated": "2026-11-20T19:44:37+00:00"
+}

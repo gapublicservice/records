@@ -1,0 +1,123 @@
+{
+ "key": "HR 29",
+ "slug": "hr29",
+ "session": "2025_26",
+ "legislation_id": 69378,
+ "page": "https://www.legis.ga.gov/legislation/69378",
+ "document_type": "HR",
+ "number": 29,
+ "legislation_type": "CA",
+ "caption": "General Assembly; appropriation of funds received from certain legal judgments or settlements; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide for the appropriation of funds received from certain legal judgments or settlements; to revise the disposition of excess, changed, or unanticipated federal funding allocated to the state; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-15T12:16:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T10:28:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-17T09:22:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-27T10:25:01",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234256,
+   "label": "LC 56 0340S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234256"
+  },
+  {
+   "doc_id": 229989,
+   "label": "LC 56 0226/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229989"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:13+00:00",
+  "version:234256": "2026-11-20T19:31:13+00:00",
+  "version:229989": "2026-11-20T19:31:13+00:00",
+  "status:40": "2026-11-20T19:31:13+00:00",
+  "status:33": "2026-11-20T19:31:13+00:00",
+  "status:34": "2026-11-20T19:31:13+00:00",
+  "status:39": "2026-11-20T19:31:13+00:00",
+  "status:50": "2026-11-20T19:31:13+00:00"
+ },
+ "updated": "2026-11-20T19:31:13+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 23",
+ "slug": "hb23",
+ "session": "2025_26",
+ "legislation_id": 69303,
+ "page": "https://www.legis.ga.gov/legislation/69303",
+ "document_type": "HB",
+ "number": 23,
+ "legislation_type": "GEN",
+ "caption": "Student Success and Progress Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to educational programs under the \"Quality Basic Education Act,\" so as to require schools to provide progress reports to parents or legal guardians of students in the early intervention program; to require the Department of Education to collaborate with the Professional Standards Commission to improve and update professional development opportunities for teachers that specifically relate to supporting limited-English-proficient students; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:34:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-11T11:49:24",
+   "code": "HWREC",
+   "action": "House Withdrawn Bill/Res Consideration",
+   "id": 114
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232021,
+   "label": "HB 23 - withdrawn",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232021"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:49+00:00",
+  "version:232021": "2026-11-20T18:16:49+00:00",
+  "status:40": "2026-11-20T18:16:49+00:00",
+  "status:33": "2026-11-20T18:16:49+00:00",
+  "status:34": "2026-11-20T18:16:49+00:00",
+  "status:114": "2026-11-20T18:16:49+00:00"
+ },
+ "updated": "2026-11-20T18:16:49+00:00"
+}

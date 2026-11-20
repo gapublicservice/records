@@ -1,0 +1,96 @@
+{
+ "key": "SR 1025",
+ "slug": "sr1025",
+ "session": "2025_26",
+ "legislation_id": 74409,
+ "page": "https://www.legis.ga.gov/legislation/74409",
+ "document_type": "SR",
+ "number": 1025,
+ "legislation_type": "PRIV",
+ "caption": "Gable, Phillip Cortez; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Phillip Cortez Gable; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5093,
+   "name": "McNeel, Steven 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T10:32:31",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-27T11:21:54",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247347,
+   "label": "Read and adopted LC 112 4013",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247347"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:11+00:00",
+  "version:247347": "2026-11-20T21:14:11+00:00",
+  "status:67": "2026-11-20T21:14:11+00:00",
+  "status:66": "2026-11-20T21:14:11+00:00"
+ },
+ "updated": "2026-11-20T21:14:11+00:00"
+}

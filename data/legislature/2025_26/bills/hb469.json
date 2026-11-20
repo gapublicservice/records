@@ -1,0 +1,102 @@
+{
+ "key": "HB 469",
+ "slug": "hb469",
+ "session": "2025_26",
+ "legislation_id": 70381,
+ "page": "https://www.legis.ga.gov/legislation/70381",
+ "document_type": "HB",
+ "number": 469,
+ "legislation_type": "GEN",
+ "caption": "True Campus Safety Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to carrying and possession of firearms, so as to repeal certain provisions allowing personnel to carry weapons within school safety zones and at school functions; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T13:49:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232613,
+   "label": "LC 61 0076/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232613"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:39:27+00:00",
+  "version:232613": "2026-11-20T18:39:27+00:00",
+  "status:40": "2026-11-20T18:39:27+00:00",
+  "status:33": "2026-11-20T18:39:27+00:00",
+  "status:34": "2026-11-20T18:39:27+00:00"
+ },
+ "updated": "2026-11-20T18:39:27+00:00"
+}

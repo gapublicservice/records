@@ -1,0 +1,81 @@
+{
+ "key": "HB 1400",
+ "slug": "hb1400",
+ "session": "2025_26",
+ "legislation_id": 73442,
+ "page": "https://www.legis.ga.gov/legislation/73442",
+ "document_type": "HB",
+ "number": 1400,
+ "legislation_type": "GEN",
+ "caption": "Georgia Artist-Promoter Fair Practices Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other trade practices, so as to provide for written disclosures relating to certain fees and performance terms; to provide for a rebuttable presumption; to provide for itemized receipts; to provide for certain notices; to provide for rescinding of certain fees; to prohibit retaliation; to provide for certain exemptions; to provide for a safe harbor; to provide for enforcement; to provide for a short title; to provide for definitions; to provide for severability; to provide for related matters; to provide for legislative findings; to provide for legislative intent; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T12:42:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243317,
+   "label": "LC 62 0388/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243317"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:48+00:00",
+  "version:243317": "2026-11-20T19:21:48+00:00",
+  "status:40": "2026-11-20T19:21:48+00:00",
+  "status:33": "2026-11-20T19:21:48+00:00",
+  "status:34": "2026-11-20T19:21:48+00:00"
+ },
+ "updated": "2026-11-20T19:21:48+00:00"
+}

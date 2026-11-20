@@ -1,0 +1,68 @@
+{
+ "key": "HR 939",
+ "slug": "hr939",
+ "session": "2025_26",
+ "legislation_id": 72043,
+ "page": "https://www.legis.ga.gov/legislation/72043",
+ "document_type": "HR",
+ "number": 939,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Lauren; 2025 Georgia Scholar; DeKalb County School District; commend",
+ "summary": "A RESOLUTION congratulating DeKalb County School District 2025 Georgia Scholar Lauren Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:57:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:41",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238950,
+   "label": "LC 112 3658/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238950"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:52+00:00",
+  "version:238950": "2026-11-20T19:51:52+00:00",
+  "status:40": "2026-11-20T19:51:52+00:00",
+  "status:33": "2026-11-20T19:51:52+00:00",
+  "status:48": "2026-11-20T19:51:52+00:00"
+ },
+ "updated": "2026-11-20T19:51:52+00:00"
+}

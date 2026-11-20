@@ -1,0 +1,89 @@
+{
+ "key": "HR 1122",
+ "slug": "hr1122",
+ "session": "2025_26",
+ "legislation_id": 72542,
+ "page": "https://www.legis.ga.gov/legislation/72542",
+ "document_type": "HR",
+ "number": 1122,
+ "legislation_type": "PRIV",
+ "caption": "The Thiokol Chemical Corporation explosion of 1971; memorializing the victims; condolences",
+ "summary": "A RESOLUTION memorializing the victims of the Thiokol Chemical Corporation explosion of 1971; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:37:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240708,
+   "label": "LC 129 0760/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240708"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:04+00:00",
+  "version:240708": "2026-11-20T19:56:04+00:00",
+  "status:40": "2026-11-20T19:56:04+00:00",
+  "status:33": "2026-11-20T19:56:04+00:00",
+  "status:48": "2026-11-20T19:56:04+00:00"
+ },
+ "updated": "2026-11-20T19:56:04+00:00"
+}

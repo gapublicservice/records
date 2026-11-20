@@ -1,0 +1,96 @@
+{
+ "key": "HR 1640",
+ "slug": "hr1640",
+ "session": "2025_26",
+ "legislation_id": 73977,
+ "page": "https://www.legis.ga.gov/legislation/73977",
+ "document_type": "HR",
+ "number": 1640,
+ "legislation_type": "PRIV",
+ "caption": "Reheis, Harold Franklin; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Harold Franklin Reheis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T10:22:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T23:00:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T23:22:05",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245527,
+   "label": "LC 112 3871/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245527"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:55+00:00",
+  "version:245527": "2026-11-20T20:07:55+00:00",
+  "status:33": "2026-11-20T20:07:55+00:00",
+  "status:40": "2026-11-20T20:07:55+00:00",
+  "status:48": "2026-11-20T20:07:55+00:00"
+ },
+ "updated": "2026-11-20T20:07:55+00:00"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "HB 1287",
+ "slug": "hb1287",
+ "session": "2025_26",
+ "legislation_id": 73136,
+ "page": "https://www.legis.ga.gov/legislation/73136",
+ "document_type": "HB",
+ "number": 1287,
+ "legislation_type": "GEN",
+ "caption": "Transportation, Department of; selection of commissioner; revise method",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 2 of Title 32 of the Official Code of Georgia Annotated, relating to officers of the Department of Transportation, so as to revise the method for selection of the position of commissioner; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-11T12:35:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T10:53:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T09:58:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242388,
+   "label": "LC 39 9008/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242388"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:17:42+00:00",
+  "version:242388": "2026-11-20T19:17:42+00:00",
+  "status:40": "2026-11-20T19:17:42+00:00",
+  "status:33": "2026-11-20T19:17:42+00:00",
+  "status:34": "2026-11-20T19:17:42+00:00"
+ },
+ "updated": "2026-11-20T19:17:42+00:00"
+}

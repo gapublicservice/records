@@ -1,0 +1,61 @@
+{
+ "key": "SR 603",
+ "slug": "sr603",
+ "session": "2025_26",
+ "legislation_id": 72396,
+ "page": "https://www.legis.ga.gov/legislation/72396",
+ "document_type": "SR",
+ "number": 603,
+ "legislation_type": "PRIV",
+ "caption": "Boggs, Mary Sprayberry Hatcher; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mary Sprayberry Hatcher Boggs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:54:12",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T11:49:06",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240256,
+   "label": "Read and adopted LC 129 0744",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240256"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:32+00:00",
+  "version:240256": "2026-11-20T21:04:32+00:00",
+  "status:67": "2026-11-20T21:04:32+00:00",
+  "status:66": "2026-11-20T21:04:32+00:00"
+ },
+ "updated": "2026-11-20T21:04:32+00:00"
+}

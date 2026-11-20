@@ -1,0 +1,95 @@
+{
+ "key": "HR 1052",
+ "slug": "hr1052",
+ "session": "2025_26",
+ "legislation_id": 72380,
+ "page": "https://www.legis.ga.gov/legislation/72380",
+ "document_type": "HR",
+ "number": 1052,
+ "legislation_type": "NP",
+ "caption": "Prader-Willi Syndrome Awareness Day; express support for State designation",
+ "summary": "A RESOLUTION expressing support for the designation of a State Prader-Willi Syndrome Awareness Day to raise awareness of and promote research on the disorder; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:51:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-16T10:27:32",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240247,
+   "label": "LC 112 3696/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240247"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:33+00:00",
+  "version:240247": "2026-11-20T19:54:33+00:00",
+  "status:40": "2026-11-20T19:54:33+00:00",
+  "status:33": "2026-11-20T19:54:33+00:00",
+  "status:34": "2026-11-20T19:54:33+00:00",
+  "status:39": "2026-11-20T19:54:33+00:00"
+ },
+ "updated": "2026-11-20T19:54:33+00:00"
+}

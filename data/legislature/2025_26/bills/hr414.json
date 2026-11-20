@@ -1,0 +1,96 @@
+{
+ "key": "HR 414",
+ "slug": "hr414",
+ "session": "2025_26",
+ "legislation_id": 70877,
+ "page": "https://www.legis.ga.gov/legislation/70877",
+ "document_type": "HR",
+ "number": 414,
+ "legislation_type": "PRIV",
+ "caption": "Duluth Fall Festival; commend",
+ "summary": "A RESOLUTION commending the Duluth Fall Festival; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:36:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234109,
+   "label": "LC 112 3178/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234109"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:01+00:00",
+  "version:234109": "2026-11-20T19:40:01+00:00",
+  "status:40": "2026-11-20T19:40:01+00:00",
+  "status:33": "2026-11-20T19:40:01+00:00",
+  "status:48": "2026-11-20T19:40:01+00:00"
+ },
+ "updated": "2026-11-20T19:40:01+00:00"
+}

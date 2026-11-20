@@ -1,0 +1,109 @@
+{
+ "key": "HB 1348",
+ "slug": "hb1348",
+ "session": "2025_26",
+ "legislation_id": 73290,
+ "page": "https://www.legis.ga.gov/legislation/73290",
+ "document_type": "HB",
+ "number": 1348,
+ "legislation_type": "GEN",
+ "caption": "Civil practice; compensation for receivers; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 9 of the Official Code of Georgia Annotated, relating to receivers relative to civil practice, so as to provide for compensation for receivers; to provide for a cap on compensation; to make conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:48:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T08:57:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243602,
+   "label": "LC 49 2718S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243602"
+  },
+  {
+   "doc_id": 242834,
+   "label": "LC 49 2655/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242834"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:00+00:00",
+  "version:243602": "2026-11-20T19:20:00+00:00",
+  "version:242834": "2026-11-20T19:20:00+00:00",
+  "status:40": "2026-11-20T19:20:00+00:00",
+  "status:33": "2026-11-20T19:20:00+00:00",
+  "status:34": "2026-11-20T19:20:00+00:00",
+  "status:39": "2026-11-20T19:20:00+00:00"
+ },
+ "updated": "2026-11-20T19:20:00+00:00"
+}

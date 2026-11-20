@@ -1,0 +1,82 @@
+{
+ "key": "SR 128",
+ "slug": "sr128",
+ "session": "2025_26",
+ "legislation_id": 69880,
+ "page": "https://www.legis.ga.gov/legislation/69880",
+ "document_type": "SR",
+ "number": 128,
+ "legislation_type": "PRIV",
+ "caption": "Early Childhood Education Day; recognize February 12, 2025",
+ "summary": "A RESOLUTION recognizing February 12, 2025, as Early Childhood Education Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T12:01:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-05T11:24:38",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231193,
+   "label": "Read and adopted LC 112 2819",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231193"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:53:12+00:00",
+  "version:231193": "2026-11-20T20:53:12+00:00",
+  "status:67": "2026-11-20T20:53:12+00:00",
+  "status:66": "2026-11-20T20:53:12+00:00"
+ },
+ "updated": "2026-11-20T20:53:12+00:00"
+}

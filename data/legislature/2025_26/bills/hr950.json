@@ -1,0 +1,74 @@
+{
+ "key": "HR 950",
+ "slug": "hr950",
+ "session": "2025_26",
+ "legislation_id": 72068,
+ "page": "https://www.legis.ga.gov/legislation/72068",
+ "document_type": "HR",
+ "number": 950,
+ "legislation_type": "PRIV",
+ "caption": "Foster Parent Appreciation Month; May 2025; recognize",
+ "summary": "A RESOLUTION recognizing May 2025 as Foster Parent Appreciation Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Juvenile",
+   "id": 203
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:51:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239276,
+   "label": "LC 112 3611/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239276"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:07+00:00",
+  "version:239276": "2026-11-20T19:52:07+00:00",
+  "status:40": "2026-11-20T19:52:07+00:00",
+  "status:33": "2026-11-20T19:52:07+00:00",
+  "status:34": "2026-11-20T19:52:07+00:00"
+ },
+ "updated": "2026-11-20T19:52:07+00:00"
+}

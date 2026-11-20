@@ -1,0 +1,75 @@
+{
+ "key": "HR 1014",
+ "slug": "hr1014",
+ "session": "2025_26",
+ "legislation_id": 72221,
+ "page": "https://www.legis.ga.gov/legislation/72221",
+ "document_type": "HR",
+ "number": 1014,
+ "legislation_type": "PRIV",
+ "caption": "Stevens, Bishop Dr. Eddie Lee; commend",
+ "summary": "A RESOLUTION recognizing and commending Bishop Dr. Eddie Lee Stevens; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-14T12:59:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-14T13:22:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-14T13:22:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239849,
+   "label": "LC 129 0585/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239849"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:37+00:00",
+  "version:239849": "2026-11-20T19:53:37+00:00",
+  "status:40": "2026-11-20T19:53:37+00:00",
+  "status:33": "2026-11-20T19:53:37+00:00",
+  "status:48": "2026-11-20T19:53:37+00:00"
+ },
+ "updated": "2026-11-20T19:53:37+00:00"
+}

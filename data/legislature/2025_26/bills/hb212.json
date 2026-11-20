@@ -1,0 +1,102 @@
+{
+ "key": "HB 212",
+ "slug": "hb212",
+ "session": "2025_26",
+ "legislation_id": 69727,
+ "page": "https://www.legis.ga.gov/legislation/69727",
+ "document_type": "HB",
+ "number": 212,
+ "legislation_type": "GEN",
+ "caption": "Clean Energy Production Tax Credit Act; enact",
+ "summary": "A BILL To be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemption, and credits for income taxes, so as to create a tax credit for the production of clean energy; to provide for the calculation of credit amounts; to provide for definitions; to provide for terms and conditions; to provide for transferability; to require the Environmental Protection Division to annually publish greenhouse gas emission rates for purposes of such tax credit; to provide for rules and regulations; to provide for a short title; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:12:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230853,
+   "label": "LC 50 0988/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230853"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:41+00:00",
+  "version:230853": "2026-11-20T18:26:41+00:00",
+  "status:40": "2026-11-20T18:26:41+00:00",
+  "status:33": "2026-11-20T18:26:41+00:00",
+  "status:34": "2026-11-20T18:26:41+00:00"
+ },
+ "updated": "2026-11-20T18:26:41+00:00"
+}

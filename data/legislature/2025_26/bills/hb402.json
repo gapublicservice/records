@@ -1,0 +1,112 @@
+{
+ "key": "HB 402",
+ "slug": "hb402",
+ "session": "2025_26",
+ "legislation_id": 70204,
+ "page": "https://www.legis.ga.gov/legislation/70204",
+ "document_type": "HB",
+ "number": 402,
+ "legislation_type": "GEN",
+ "caption": "Public Service Commission; establishment of renewable energy sources and renewable energy portfolio standard goals for electric service providers; provide",
+ "summary": "A BILL to be entitled an Act to amend Titles 46 and 50 of the Official Code of Georgia Annotated, relating to public utilities and public transportation and state government, respectively, so as to provide for the establishment of renewable energy sources and renewable energy portfolio standard goals by the Public Service Commission for electric service providers; to provide for the inclusion of existing or planned renewable energy resources in integrated resource plans; to authorize the Georgia Environmental Finance Authority to finance and perform certain duties in connection with projects relating to renewable energy facilities; to provide for limited liability; to revise and provide for definitions; to provide for rules and regulations; to provide legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:20:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T10:44:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T09:42:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-13T12:17:31",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232073,
+   "label": "LC 55 0476/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232073"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "psc",
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:35:59+00:00",
+  "version:232073": "2026-11-20T18:35:59+00:00",
+  "status:40": "2026-11-20T18:35:59+00:00",
+  "status:33": "2026-11-20T18:35:59+00:00",
+  "status:34": "2026-11-20T18:35:59+00:00",
+  "status:50": "2026-11-20T18:35:59+00:00"
+ },
+ "updated": "2026-11-20T18:35:59+00:00"
+}

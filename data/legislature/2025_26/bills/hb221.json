@@ -1,0 +1,95 @@
+{
+ "key": "HB 221",
+ "slug": "hb221",
+ "session": "2025_26",
+ "legislation_id": 69774,
+ "page": "https://www.legis.ga.gov/legislation/69774",
+ "document_type": "HB",
+ "number": 221,
+ "legislation_type": "GEN",
+ "caption": "Education; equal athletic opportunities for public school students; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to provide for equal athletic opportunities for public school students; to provide for a cause of action; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-03T11:42:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T10:44:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T09:56:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230988,
+   "label": "LC 49 2175/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230988"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:27:03+00:00",
+  "version:230988": "2026-11-20T18:27:03+00:00",
+  "status:40": "2026-11-20T18:27:03+00:00",
+  "status:33": "2026-11-20T18:27:03+00:00",
+  "status:34": "2026-11-20T18:27:03+00:00"
+ },
+ "updated": "2026-11-20T18:27:03+00:00"
+}

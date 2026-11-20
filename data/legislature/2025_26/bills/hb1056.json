@@ -1,0 +1,109 @@
+{
+ "key": "HB 1056",
+ "slug": "hb1056",
+ "session": "2025_26",
+ "legislation_id": 72481,
+ "page": "https://www.legis.ga.gov/legislation/72481",
+ "document_type": "HB",
+ "number": 1056,
+ "legislation_type": "GEN",
+ "caption": "Education; replace term auto-injectable epinephrine with epinephrine and consolidate provisions relating to epinephrine and schools",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to student health in elementary and secondary education, so as to replace the term \"auto-injectable epinephrine\" with \"epinephrine\" and to consolidate provisions relating to epinephrine and schools; to revise a definition; to make conforming changes; to amend Chapter 4 of Title 26 and Chapter 1 of Title 35 of the Official Code of Georgia Annotated, relating to pharmacists and pharmacies and general provisions relative to health, respectively, so as to replace the term \"auto-injectable epinephrine\" with \"epinephrine\" and make conforming changes; to revise a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T10:42:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240534,
+   "label": "LC 49 2534/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240534"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:20+00:00",
+  "version:240534": "2026-11-20T19:07:20+00:00",
+  "status:40": "2026-11-20T19:07:20+00:00",
+  "status:33": "2026-11-20T19:07:20+00:00",
+  "status:34": "2026-11-20T19:07:20+00:00",
+  "status:39": "2026-11-20T19:07:20+00:00"
+ },
+ "updated": "2026-11-20T19:07:20+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "SB 416",
+ "slug": "sb416",
+ "session": "2025_26",
+ "legislation_id": 72322,
+ "page": "https://www.legis.ga.gov/legislation/72322",
+ "document_type": "SB",
+ "number": 416,
+ "legislation_type": "GEN",
+ "caption": "\"Stop Online Booking Scams Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to the \"Fair Business Practices Act of 1975,\" so as to prohibit third-party hotel booking websites from misrepresenting their affiliations with hotels; to designate such misrepresentation as an unlawful, unfair, and deceptive trade practice; to provide for definitions; to provide for statutory construction; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Economic Development and Tourism",
+   "id": 165
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T13:19:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-27T13:05:43",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240077,
+   "label": "As introduced LC 59 0212",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240077"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:39:52+00:00",
+  "version:240077": "2026-11-20T20:39:52+00:00",
+  "status:67": "2026-11-20T20:39:52+00:00",
+  "status:3": "2026-11-20T20:39:52+00:00"
+ },
+ "updated": "2026-11-20T20:39:52+00:00"
+}

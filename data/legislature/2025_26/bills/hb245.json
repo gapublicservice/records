@@ -1,0 +1,102 @@
+{
+ "key": "HB 245",
+ "slug": "hb245",
+ "session": "2025_26",
+ "legislation_id": 69850,
+ "page": "https://www.legis.ga.gov/legislation/69850",
+ "document_type": "HB",
+ "number": 245,
+ "legislation_type": "GEN",
+ "caption": "Georgia Educational Opportunity Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the \"Quality Basic Education Act,\" so as to add a program for students living in poverty to the table of quality basic education instructional programs with weights and student-teacher ratios; to provide for definitions; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:05:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231145,
+   "label": "LC 49 2157/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231145"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:23+00:00",
+  "version:231145": "2026-11-20T18:28:23+00:00",
+  "status:40": "2026-11-20T18:28:23+00:00",
+  "status:33": "2026-11-20T18:28:23+00:00",
+  "status:34": "2026-11-20T18:28:23+00:00"
+ },
+ "updated": "2026-11-20T18:28:23+00:00"
+}

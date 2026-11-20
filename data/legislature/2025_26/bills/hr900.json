@@ -1,0 +1,89 @@
+{
+ "key": "HR 900",
+ "slug": "hr900",
+ "session": "2025_26",
+ "legislation_id": 71959,
+ "page": "https://www.legis.ga.gov/legislation/71959",
+ "document_type": "HR",
+ "number": 900,
+ "legislation_type": "PRIV",
+ "caption": "Cross, Andre Anthony, Jr.; commend",
+ "summary": "A RESOLUTION recognizing and commending Andre Anthony Cross Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T19:26:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T19:49:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T19:49:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238481,
+   "label": "LC 129 0455/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238481"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:02+00:00",
+  "version:238481": "2026-11-20T19:51:02+00:00",
+  "status:40": "2026-11-20T19:51:02+00:00",
+  "status:33": "2026-11-20T19:51:02+00:00",
+  "status:48": "2026-11-20T19:51:02+00:00"
+ },
+ "updated": "2026-11-20T19:51:02+00:00"
+}

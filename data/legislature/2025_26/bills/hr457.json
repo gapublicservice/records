@@ -1,0 +1,61 @@
+{
+ "key": "HR 457",
+ "slug": "hr457",
+ "session": "2025_26",
+ "legislation_id": 71041,
+ "page": "https://www.legis.ga.gov/legislation/71041",
+ "document_type": "HR",
+ "number": 457,
+ "legislation_type": "PRIV",
+ "caption": "Jamil, Kito; commend",
+ "summary": "A RESOLUTION recognizing and commending Kito Jamil; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:10:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:55:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T12:55:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234665,
+   "label": "LC 112 3222/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234665"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:01+00:00",
+  "version:234665": "2026-11-20T19:41:01+00:00",
+  "status:40": "2026-11-20T19:41:01+00:00",
+  "status:33": "2026-11-20T19:41:01+00:00",
+  "status:48": "2026-11-20T19:41:01+00:00"
+ },
+ "updated": "2026-11-20T19:41:01+00:00"
+}

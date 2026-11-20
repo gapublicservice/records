@@ -1,0 +1,67 @@
+{
+ "key": "HR 660",
+ "slug": "hr660",
+ "session": "2025_26",
+ "legislation_id": 71507,
+ "page": "https://www.legis.ga.gov/legislation/71507",
+ "document_type": "HR",
+ "number": 660,
+ "legislation_type": "GEN",
+ "caption": "Lamar Hudgins Intersection; Dougherty County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Lamar Hudgins and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T12:51:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236681,
+   "label": "LC 39 4754/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236681"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:28+00:00",
+  "version:236681": "2026-11-20T19:45:28+00:00",
+  "status:40": "2026-11-20T19:45:28+00:00",
+  "status:33": "2026-11-20T19:45:28+00:00",
+  "status:34": "2026-11-20T19:45:28+00:00"
+ },
+ "updated": "2026-11-20T19:45:28+00:00"
+}

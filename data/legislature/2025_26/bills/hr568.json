@@ -1,0 +1,96 @@
+{
+ "key": "HR 568",
+ "slug": "hr568",
+ "session": "2025_26",
+ "legislation_id": 71314,
+ "page": "https://www.legis.ga.gov/legislation/71314",
+ "document_type": "HR",
+ "number": 568,
+ "legislation_type": "PRIV",
+ "caption": "Atlanta Jewish Film Festival; 25 years of artistic and cultural excellence; recognize",
+ "summary": "A RESOLUTION commending the Atlanta Jewish Film Festival for 25 years of artistic and cultural excellence; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:49:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:17:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:17:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235933,
+   "label": "LC 112 3268/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235933"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:29+00:00",
+  "version:235933": "2026-11-20T19:43:29+00:00",
+  "status:40": "2026-11-20T19:43:29+00:00",
+  "status:33": "2026-11-20T19:43:29+00:00",
+  "status:48": "2026-11-20T19:43:29+00:00"
+ },
+ "updated": "2026-11-20T19:43:29+00:00"
+}

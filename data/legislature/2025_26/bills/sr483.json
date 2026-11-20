@@ -1,0 +1,60 @@
+{
+ "key": "SR 483",
+ "slug": "sr483",
+ "session": "2025_26",
+ "legislation_id": 71730,
+ "page": "https://www.legis.ga.gov/legislation/71730",
+ "document_type": "SR",
+ "number": 483,
+ "legislation_type": "CA",
+ "caption": "Right to Register and Vote; conviction of a felony involving moral turpitude as an exception; remove - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to remove a conviction of a felony involving moral turpitude as an exception to the right to register and vote; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T12:12:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T10:16:19",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237529,
+   "label": "As introduced LC 48 1388",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237529"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:01:47+00:00",
+  "version:237529": "2026-11-20T21:01:47+00:00",
+  "status:67": "2026-11-20T21:01:47+00:00",
+  "status:3": "2026-11-20T21:01:47+00:00"
+ },
+ "updated": "2026-11-20T21:01:47+00:00"
+}

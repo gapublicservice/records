@@ -1,0 +1,95 @@
+{
+ "key": "HB 902",
+ "slug": "hb902",
+ "session": "2025_26",
+ "legislation_id": 71975,
+ "page": "https://www.legis.ga.gov/legislation/71975",
+ "document_type": "HB",
+ "number": 902,
+ "legislation_type": "GEN",
+ "caption": "Insurance; transparency and accountability in rates and rate regulation after enactment of tort reform law; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to provide for transparency and accountability in insurance rates and rate regulation after the enactment of tort reform law; to provide for definitions; to provide for examinations and hearings; to provide for the publication of certain information; to extend the time for data collection and analysis related to tort reform law; to provide for findings on savings from tort reform law; to provide for the publication of reports; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T11:51:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238742,
+   "label": "LC 52 0851/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238742"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:11+00:00",
+  "version:238742": "2026-11-20T19:01:11+00:00",
+  "status:40": "2026-11-20T19:01:11+00:00",
+  "status:33": "2026-11-20T19:01:11+00:00",
+  "status:34": "2026-11-20T19:01:11+00:00"
+ },
+ "updated": "2026-11-20T19:01:11+00:00"
+}

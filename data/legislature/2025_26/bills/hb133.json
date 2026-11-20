@@ -1,0 +1,123 @@
+{
+ "key": "HB 133",
+ "slug": "hb133",
+ "session": "2025_26",
+ "legislation_id": 69532,
+ "page": "https://www.legis.ga.gov/legislation/69532",
+ "document_type": "HB",
+ "number": 133,
+ "legislation_type": "GEN",
+ "caption": "Student Character Development Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Subpart 2 of Part 1 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to compulsory attendance, so as to provide for public school students to be permitted to attend courses in religious moral instruction provided by a person or organization independently of a public school, subject to certain conditions; to provide for such conditions; to provide for students to receive academic credit for such courses; to require local education agencies to adopt certain policies; to prohibit students who participate in such courses from being counted as absent from school; to provide for responsibilities of the Department of Education; to provide for definitions; to provide for a short title; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:28:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235322,
+   "label": "LC 49 2330S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235322"
+  },
+  {
+   "doc_id": 230374,
+   "label": "LC 49 2137/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230374"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:22:29+00:00",
+  "version:235322": "2026-11-20T18:22:29+00:00",
+  "version:230374": "2026-11-20T18:22:29+00:00",
+  "status:40": "2026-11-20T18:22:29+00:00",
+  "status:33": "2026-11-20T18:22:29+00:00",
+  "status:34": "2026-11-20T18:22:29+00:00",
+  "status:39": "2026-11-20T18:22:29+00:00",
+  "status:50": "2026-11-20T18:22:29+00:00"
+ },
+ "updated": "2026-11-20T18:22:29+00:00"
+}

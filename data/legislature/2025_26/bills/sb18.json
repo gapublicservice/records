@@ -1,0 +1,144 @@
+{
+ "key": "SB 18",
+ "slug": "sb18",
+ "session": "2025_26",
+ "legislation_id": 69403,
+ "page": "https://www.legis.ga.gov/legislation/69403",
+ "document_type": "SB",
+ "number": 18,
+ "legislation_type": "GEN",
+ "caption": "State Officials; daily expense accounts; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 45-7-4 of the Official Code of Georgia Annotated, relating to annual salaries of certain state officials and cost-of-living adjustments, so as to revise provisions related to daily expense accounts of members of the General Assembly; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 13
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T10:42:06",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-17T10:07:34",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230033,
+   "label": "As introduced LC 47 3212",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230033"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:20:07+00:00",
+  "version:230033": "2026-11-20T20:20:07+00:00",
+  "status:67": "2026-11-20T20:20:07+00:00",
+  "status:3": "2026-11-20T20:20:07+00:00"
+ },
+ "updated": "2026-11-20T20:20:07+00:00"
+}

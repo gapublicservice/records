@@ -1,0 +1,122 @@
+{
+ "key": "HB 237",
+ "slug": "hb237",
+ "session": "2025_26",
+ "legislation_id": 69842,
+ "page": "https://www.legis.ga.gov/legislation/69842",
+ "document_type": "HB",
+ "number": 237,
+ "legislation_type": "GEN",
+ "caption": "Evidence; admissibility of creative or artistic expression evidence at trial; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 24 of the Official Code of Georgia Annotated, relating to relevant evidence and its limits, so as to provide for the admissibility of creative or artistic expression evidence at trial; to provide for a definition; to provide for the presumption of inadmissibility; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:03:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T12:07:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-03T09:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235078,
+   "label": "LC 48 1568S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235078"
+  },
+  {
+   "doc_id": 231151,
+   "label": "LC 48 1428/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231151"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:01+00:00",
+  "version:235078": "2026-11-20T18:28:01+00:00",
+  "version:231151": "2026-11-20T18:28:01+00:00",
+  "status:40": "2026-11-20T18:28:01+00:00",
+  "status:33": "2026-11-20T18:28:01+00:00",
+  "status:34": "2026-11-20T18:28:01+00:00",
+  "status:39": "2026-11-20T18:28:01+00:00",
+  "status:50": "2026-11-20T18:28:01+00:00"
+ },
+ "updated": "2026-11-20T18:28:01+00:00"
+}

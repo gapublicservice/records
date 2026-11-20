@@ -1,0 +1,61 @@
+{
+ "key": "HR 506",
+ "slug": "hr506",
+ "session": "2025_26",
+ "legislation_id": 71175,
+ "page": "https://www.legis.ga.gov/legislation/71175",
+ "document_type": "HR",
+ "number": 506,
+ "legislation_type": "PRIV",
+ "caption": "Cohen's of Alma; 100th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Cohen's of Alma on its 100th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T19:18:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T19:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T19:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235273,
+   "label": "LC 129 0236/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235273"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:05+00:00",
+  "version:235273": "2026-11-20T19:42:05+00:00",
+  "status:40": "2026-11-20T19:42:05+00:00",
+  "status:33": "2026-11-20T19:42:05+00:00",
+  "status:48": "2026-11-20T19:42:05+00:00"
+ },
+ "updated": "2026-11-20T19:42:05+00:00"
+}

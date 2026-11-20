@@ -1,0 +1,81 @@
+{
+ "key": "HB 1433",
+ "slug": "hb1433",
+ "session": "2025_26",
+ "legislation_id": 73545,
+ "page": "https://www.legis.ga.gov/legislation/73545",
+ "document_type": "HB",
+ "number": 1433,
+ "legislation_type": "GEN",
+ "caption": "Courts; make certain acts of the unauthorized practice of law felonies and to provide for penalties",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 19 of Title 15 of the Official Code of Georgia Annotated, relating to the regulation of practice of law, so as to make certain acts of the unauthorized practice of law felonies and to provide for penalties therefore; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T12:00:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-04T11:42:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243747,
+   "label": "LC 49 2657/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243747"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:51+00:00",
+  "version:243747": "2026-11-20T19:22:51+00:00",
+  "status:40": "2026-11-20T19:22:51+00:00",
+  "status:33": "2026-11-20T19:22:51+00:00",
+  "status:34": "2026-11-20T19:22:51+00:00",
+  "status:39": "2026-11-20T19:22:51+00:00"
+ },
+ "updated": "2026-11-20T19:22:51+00:00"
+}

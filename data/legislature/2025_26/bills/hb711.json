@@ -1,0 +1,81 @@
+{
+ "key": "HB 711",
+ "slug": "hb711",
+ "session": "2025_26",
+ "legislation_id": 71094,
+ "page": "https://www.legis.ga.gov/legislation/71094",
+ "document_type": "HB",
+ "number": 711,
+ "legislation_type": "GEN",
+ "caption": "Georgia Firearms and Weapons Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to offenses against public order and safety, so as to prohibit the possession of devices which attach to firearms to produce rapid fire; to revise and add definitions; to provide for punishment; to provide for exceptions; to provide for conforming changes; to amend Code Section 15-11-2 of the Official Code of Georgia Annotated, relating to definitions relative to the juvenile code, so as to revise a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T14:52:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234891,
+   "label": "LC 56 0242/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234891"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:51+00:00",
+  "version:234891": "2026-11-20T18:49:51+00:00",
+  "status:40": "2026-11-20T18:49:51+00:00",
+  "status:33": "2026-11-20T18:49:51+00:00",
+  "status:34": "2026-11-20T18:49:51+00:00"
+ },
+ "updated": "2026-11-20T18:49:51+00:00"
+}

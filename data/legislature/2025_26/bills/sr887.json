@@ -1,0 +1,60 @@
+{
+ "key": "SR 887",
+ "slug": "sr887",
+ "session": "2025_26",
+ "legislation_id": 73767,
+ "page": "https://www.legis.ga.gov/legislation/73767",
+ "document_type": "SR",
+ "number": 887,
+ "legislation_type": "GEN",
+ "caption": "Dr. J. Larry Boss Old Town Highway; Carroll County; dedicate",
+ "summary": "A RESOLUTION recognizing Dr. James Larry Boss and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-02T15:17:26",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-03T13:12:41",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244521,
+   "label": "As Introduced LC 39 4988",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244521"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:03+00:00",
+  "version:244521": "2026-11-20T21:11:03+00:00",
+  "status:67": "2026-11-20T21:11:03+00:00",
+  "status:3": "2026-11-20T21:11:03+00:00"
+ },
+ "updated": "2026-11-20T21:11:03+00:00"
+}

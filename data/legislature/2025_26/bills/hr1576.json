@@ -1,0 +1,61 @@
+{
+ "key": "HR 1576",
+ "slug": "hr1576",
+ "session": "2025_26",
+ "legislation_id": 73850,
+ "page": "https://www.legis.ga.gov/legislation/73850",
+ "document_type": "HR",
+ "number": 1576,
+ "legislation_type": "PRIV",
+ "caption": "De'Souza, Aziah; commend",
+ "summary": "A RESOLUTION recognizing and commending Aziah De'Souza; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:06:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244836,
+   "label": "LC 129 1306/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244836"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:31+00:00",
+  "version:244836": "2026-11-20T20:06:31+00:00",
+  "status:40": "2026-11-20T20:06:31+00:00",
+  "status:33": "2026-11-20T20:06:31+00:00",
+  "status:48": "2026-11-20T20:06:31+00:00"
+ },
+ "updated": "2026-11-20T20:06:31+00:00"
+}

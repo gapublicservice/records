@@ -1,0 +1,205 @@
+{
+ "key": "SB 64",
+ "slug": "sb64",
+ "session": "2025_26",
+ "legislation_id": 69700,
+ "page": "https://www.legis.ga.gov/legislation/69700",
+ "document_type": "SB",
+ "number": 64,
+ "legislation_type": "GEN",
+ "caption": "Local Government and State Government; certain transactions between government entities and certain foreign persons; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Titles 36 and 50 of the Official Code of Georgia Annotated, relating to local government and state government, respectively, so as to prohibit certain transactions between government entities and certain foreign persons; to prohibit government entities from purchasing or acquiring foreign unmanned aircraft systems; to prohibit the use of state funds in connection with such unmanned aircraft systems; to prohibit government entities from operating such unmanned aircraft systems; to prohibit foreign adversaries from submitting a proposal for a contract with a state agency for goods or services; to revise and provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 13
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 14
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T15:45:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-30T10:17:22",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-06T09:50:05",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-02-10T10:18:06",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2025-02-28T10:33:46",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  },
+  {
+   "date": "2025-03-03T12:34:46",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-03-06T18:13:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  },
+  {
+   "date": "2026-01-12T11:17:41",
+   "code": "STT",
+   "action": "Senate Taken from Table",
+   "id": 76
+  },
+  {
+   "date": "2026-01-12T11:19:45",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230752,
+   "label": "As introduced LC 55 0433",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230752"
+  },
+  {
+   "doc_id": 234729,
+   "label": "Committee sub LC 55 0577S",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234729"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:22:42+00:00",
+  "version:230752": "2026-11-20T20:22:42+00:00",
+  "version:234729": "2026-11-20T20:22:42+00:00",
+  "status:67": "2026-11-20T20:22:42+00:00",
+  "status:3": "2026-11-20T20:22:42+00:00",
+  "status:8": "2026-11-20T20:22:42+00:00",
+  "status:10": "2026-11-20T20:22:42+00:00",
+  "status:103": "2026-11-20T20:22:42+00:00",
+  "status:64": "2026-11-20T20:22:42+00:00",
+  "status:76": "2026-11-20T20:22:42+00:00"
+ },
+ "updated": "2026-11-20T20:22:42+00:00"
+}

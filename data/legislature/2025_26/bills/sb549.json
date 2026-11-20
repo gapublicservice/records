@@ -1,0 +1,88 @@
+{
+ "key": "SB 549",
+ "slug": "sb549",
+ "session": "2025_26",
+ "legislation_id": 73514,
+ "page": "https://www.legis.ga.gov/legislation/73514",
+ "document_type": "SB",
+ "number": 549,
+ "legislation_type": "GEN",
+ "caption": "Law Enforcement Officers and Agencies; covered governmental entities from providing funding or resources in support of the operation of immigration detention centers; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 35 of the Official Code of Georgia Annotated, relating to general provisions regarding law enforcement officers and agencies, so as to prohibit covered governmental entities from providing funding or resources in support of the operation of immigration detention centers; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Interstate Cooperation",
+   "id": 79
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-23T13:51:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-24T10:06:46",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243564,
+   "label": "As introduced LC 44 3461",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243564"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:46:00+00:00",
+  "version:243564": "2026-11-20T20:46:00+00:00",
+  "status:67": "2026-11-20T20:46:00+00:00",
+  "status:3": "2026-11-20T20:46:00+00:00"
+ },
+ "updated": "2026-11-20T20:46:00+00:00"
+}

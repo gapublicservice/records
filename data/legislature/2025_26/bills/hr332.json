@@ -1,0 +1,68 @@
+{
+ "key": "HR 332",
+ "slug": "hr332",
+ "session": "2025_26",
+ "legislation_id": 70622,
+ "page": "https://www.legis.ga.gov/legislation/70622",
+ "document_type": "HR",
+ "number": 332,
+ "legislation_type": "PRIV",
+ "caption": "Ringgold High School JROTC Tiger Guard drill team; commend",
+ "summary": "A RESOLUTION recognizing and commending the Ringgold High School JROTC Tiger Guard drill team; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:23:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T13:46:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T13:46:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233306,
+   "label": "LC 129 0109/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233306"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:15+00:00",
+  "version:233306": "2026-11-20T19:38:15+00:00",
+  "status:40": "2026-11-20T19:38:15+00:00",
+  "status:33": "2026-11-20T19:38:15+00:00",
+  "status:48": "2026-11-20T19:38:15+00:00"
+ },
+ "updated": "2026-11-20T19:38:15+00:00"
+}

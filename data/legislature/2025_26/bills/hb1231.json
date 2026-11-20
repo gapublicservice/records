@@ -1,0 +1,95 @@
+{
+ "key": "HB 1231",
+ "slug": "hb1231",
+ "session": "2025_26",
+ "legislation_id": 72952,
+ "page": "https://www.legis.ga.gov/legislation/72952",
+ "document_type": "HB",
+ "number": 1231,
+ "legislation_type": "GEN",
+ "caption": "Education; teachers shall not be required to supervise students during their duty-free lunch period or planning period except in cases of extreme emergency; provide",
+ "summary": "A BILL to be entitled an Act to amend Subpart 2 of Part 6 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to conditions of employment, so as to provide that teachers shall not be required to supervise students during their duty-free lunch period or planning period except in cases of extreme emergency; to require that teachers who supervise students during their duty-free lunch period or planning period are compensated in cases other than an extreme emergency; to provide that requirements related to duty-free lunch periods and planning periods for teachers shall not be subject to waiver; to provide for definitions; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T10:37:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241854,
+   "label": "LC 61 0352/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241854"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:58+00:00",
+  "version:241854": "2026-11-20T19:14:58+00:00",
+  "status:40": "2026-11-20T19:14:58+00:00",
+  "status:33": "2026-11-20T19:14:58+00:00",
+  "status:34": "2026-11-20T19:14:58+00:00"
+ },
+ "updated": "2026-11-20T19:14:58+00:00"
+}

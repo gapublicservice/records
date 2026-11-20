@@ -1,0 +1,96 @@
+{
+ "key": "HR 610",
+ "slug": "hr610",
+ "session": "2025_26",
+ "legislation_id": 71379,
+ "page": "https://www.legis.ga.gov/legislation/71379",
+ "document_type": "HR",
+ "number": 610,
+ "legislation_type": "PRIV",
+ "caption": "Roberts, Delane; occasion of her retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Delane Roberts on the occasion of her retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:05:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:27:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:27:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236120,
+   "label": "LC 112 3276/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236120"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:22+00:00",
+  "version:236120": "2026-11-20T19:44:22+00:00",
+  "status:40": "2026-11-20T19:44:22+00:00",
+  "status:33": "2026-11-20T19:44:22+00:00",
+  "status:48": "2026-11-20T19:44:22+00:00"
+ },
+ "updated": "2026-11-20T19:44:22+00:00"
+}

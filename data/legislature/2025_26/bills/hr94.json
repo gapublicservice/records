@@ -1,0 +1,75 @@
+{
+ "key": "HR 94",
+ "slug": "hr94",
+ "session": "2025_26",
+ "legislation_id": 69627,
+ "page": "https://www.legis.ga.gov/legislation/69627",
+ "document_type": "HR",
+ "number": 94,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Arts Day in Georgia; February 2, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 2, 2025, as Georgia Arts Day in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:21:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T14:02:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T14:02:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230555,
+   "label": "LC 112 2757/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230555"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:51+00:00",
+  "version:230555": "2026-11-20T19:32:51+00:00",
+  "status:40": "2026-11-20T19:32:51+00:00",
+  "status:33": "2026-11-20T19:32:51+00:00",
+  "status:48": "2026-11-20T19:32:51+00:00"
+ },
+ "updated": "2026-11-20T19:32:51+00:00"
+}

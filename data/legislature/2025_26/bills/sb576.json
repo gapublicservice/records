@@ -1,0 +1,88 @@
+{
+ "key": "SB 576",
+ "slug": "sb576",
+ "session": "2025_26",
+ "legislation_id": 73611,
+ "page": "https://www.legis.ga.gov/legislation/73611",
+ "document_type": "SB",
+ "number": 576,
+ "legislation_type": "GEN",
+ "caption": "Ad Valorem Taxation; assessment of tangible real property used for community housing provider properties; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to general provisions relative to ad valorem taxation of property, so as to provide for assessment of tangible real property used for community housing provider properties; to provide for supporting affidavits; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Finance",
+   "id": 138
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T15:16:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-25T10:15:04",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-03T12:49:49",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-03-04T10:37:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244560,
+   "label": "Committee Sub LC 59 0403S",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244560"
+  },
+  {
+   "doc_id": 243896,
+   "label": "As Introduced LC 44 3319",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243896"
+  },
+  {
+   "doc_id": 244556,
+   "label": "Fiscal Note",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244556"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:47:43+00:00",
+  "version:244560": "2026-11-20T20:47:43+00:00",
+  "version:243896": "2026-11-20T20:47:43+00:00",
+  "version:244556": "2026-11-20T20:47:43+00:00",
+  "status:67": "2026-11-20T20:47:43+00:00",
+  "status:3": "2026-11-20T20:47:43+00:00",
+  "status:8": "2026-11-20T20:47:43+00:00",
+  "status:10": "2026-11-20T20:47:43+00:00"
+ },
+ "updated": "2026-11-20T20:47:43+00:00"
+}

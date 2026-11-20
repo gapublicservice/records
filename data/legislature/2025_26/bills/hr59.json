@@ -1,0 +1,96 @@
+{
+ "key": "HR 59",
+ "slug": "hr59",
+ "session": "2025_26",
+ "legislation_id": 69519,
+ "page": "https://www.legis.ga.gov/legislation/69519",
+ "document_type": "HR",
+ "number": 59,
+ "legislation_type": "PRIV",
+ "caption": "Celebrating the 20th Anniversary of Korean American Day at the state capitol; recognize",
+ "summary": "A RESOLUTION recognizing and celebrating the 20th Anniversary of Korean American Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:35:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230343,
+   "label": "LC 112 2746/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230343"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:02+00:00",
+  "version:230343": "2026-11-20T19:32:02+00:00",
+  "status:40": "2026-11-20T19:32:02+00:00",
+  "status:33": "2026-11-20T19:32:02+00:00",
+  "status:48": "2026-11-20T19:32:02+00:00"
+ },
+ "updated": "2026-11-20T19:32:02+00:00"
+}

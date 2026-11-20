@@ -1,0 +1,89 @@
+{
+ "key": "HR 312",
+ "slug": "hr312",
+ "session": "2025_26",
+ "legislation_id": 70537,
+ "page": "https://www.legis.ga.gov/legislation/70537",
+ "document_type": "HR",
+ "number": 312,
+ "legislation_type": "PRIV",
+ "caption": "Greenwood, Collie; commend",
+ "summary": "A RESOLUTION recognizing and commending Collie Greenwood; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:51:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233049,
+   "label": "LC 112 2987/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233049"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:49+00:00",
+  "version:233049": "2026-11-20T19:37:49+00:00",
+  "status:40": "2026-11-20T19:37:49+00:00",
+  "status:33": "2026-11-20T19:37:49+00:00",
+  "status:48": "2026-11-20T19:37:49+00:00"
+ },
+ "updated": "2026-11-20T19:37:49+00:00"
+}

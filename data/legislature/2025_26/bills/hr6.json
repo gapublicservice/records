@@ -1,0 +1,74 @@
+{
+ "key": "HR 6",
+ "slug": "hr6",
+ "session": "2025_26",
+ "legislation_id": 69278,
+ "page": "https://www.legis.ga.gov/legislation/69278",
+ "document_type": "HR",
+ "number": 6,
+ "legislation_type": "CA",
+ "caption": "General Assembly; more than one Seed-Capital Fund; provide by law - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to authorize the General Assembly to provide by law for more than one Seed-Capital Fund; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T12:51:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229748,
+   "label": "LC 50 0942/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229748"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:30+00:00",
+  "version:229748": "2026-11-20T19:30:30+00:00",
+  "status:40": "2026-11-20T19:30:30+00:00",
+  "status:33": "2026-11-20T19:30:30+00:00",
+  "status:34": "2026-11-20T19:30:30+00:00"
+ },
+ "updated": "2026-11-20T19:30:30+00:00"
+}

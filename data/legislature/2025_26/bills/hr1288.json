@@ -1,0 +1,89 @@
+{
+ "key": "HR 1288",
+ "slug": "hr1288",
+ "session": "2025_26",
+ "legislation_id": 73038,
+ "page": "https://www.legis.ga.gov/legislation/73038",
+ "document_type": "HR",
+ "number": 1288,
+ "legislation_type": "PRIV",
+ "caption": "Mirzakulova, Dr. Ekaterina; commend",
+ "summary": "A RESOLUTION commending and congratulating Dr. Ekaterina Mirzakulova; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:02:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T13:20:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T13:20:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242074,
+   "label": "LC 129 0815/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242074"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:45+00:00",
+  "version:242074": "2026-11-20T19:59:45+00:00",
+  "status:40": "2026-11-20T19:59:45+00:00",
+  "status:33": "2026-11-20T19:59:45+00:00",
+  "status:48": "2026-11-20T19:59:45+00:00"
+ },
+ "updated": "2026-11-20T19:59:45+00:00"
+}

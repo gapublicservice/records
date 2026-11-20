@@ -1,0 +1,75 @@
+{
+ "key": "HR 982",
+ "slug": "hr982",
+ "session": "2025_26",
+ "legislation_id": 72111,
+ "page": "https://www.legis.ga.gov/legislation/72111",
+ "document_type": "HR",
+ "number": 982,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Rachel; Model High School's STAR Teacher; commend",
+ "summary": "A RESOLUTION commending Rachel Jones, Model High School's 2025 STAR Teacher; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:57:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239431,
+   "label": "LC 112 3646/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239431"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:48+00:00",
+  "version:239431": "2026-11-20T19:52:48+00:00",
+  "status:40": "2026-11-20T19:52:48+00:00",
+  "status:33": "2026-11-20T19:52:48+00:00",
+  "status:48": "2026-11-20T19:52:48+00:00"
+ },
+ "updated": "2026-11-20T19:52:48+00:00"
+}

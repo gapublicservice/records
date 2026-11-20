@@ -1,0 +1,89 @@
+{
+ "key": "HR 983",
+ "slug": "hr983",
+ "session": "2025_26",
+ "legislation_id": 72118,
+ "page": "https://www.legis.ga.gov/legislation/72118",
+ "document_type": "HR",
+ "number": 983,
+ "legislation_type": "PRIV",
+ "caption": "Green, Judge Reuben; condolences",
+ "summary": "A RESOLUTION recognizing and honoring the life and legacy of Judge Reuben Green; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T10:00:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239387,
+   "label": "LC 112 3597/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239387"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:49+00:00",
+  "version:239387": "2026-11-20T19:52:49+00:00",
+  "status:40": "2026-11-20T19:52:49+00:00",
+  "status:33": "2026-11-20T19:52:49+00:00",
+  "status:48": "2026-11-20T19:52:49+00:00"
+ },
+ "updated": "2026-11-20T19:52:49+00:00"
+}

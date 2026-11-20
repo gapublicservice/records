@@ -1,0 +1,116 @@
+{
+ "key": "HB 556",
+ "slug": "hb556",
+ "session": "2025_26",
+ "legislation_id": 70606,
+ "page": "https://www.legis.ga.gov/legislation/70606",
+ "document_type": "HB",
+ "number": 556,
+ "legislation_type": "GEN",
+ "caption": "Watercraft; boat liveries and education courses; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 52-7-8.3 of the Official Code of Georgia Annotated, relating to operation of watercraft, identification, and operation by minors, so as to provide for boat liveries and education courses; to provide for a penalty; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Game, Fish & Parks",
+   "id": 91
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:40:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-27T10:59:22",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234295,
+   "label": "LC 44 3123S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234295"
+  },
+  {
+   "doc_id": 233267,
+   "label": "LC 44 3073/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233267"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:00+00:00",
+  "version:234295": "2026-11-20T18:43:00+00:00",
+  "version:233267": "2026-11-20T18:43:00+00:00",
+  "status:40": "2026-11-20T18:43:00+00:00",
+  "status:33": "2026-11-20T18:43:00+00:00",
+  "status:34": "2026-11-20T18:43:00+00:00",
+  "status:39": "2026-11-20T18:43:00+00:00",
+  "status:50": "2026-11-20T18:43:00+00:00"
+ },
+ "updated": "2026-11-20T18:43:00+00:00"
+}

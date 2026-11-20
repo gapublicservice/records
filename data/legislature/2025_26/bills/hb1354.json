@@ -1,0 +1,95 @@
+{
+ "key": "HB 1354",
+ "slug": "hb1354",
+ "session": "2025_26",
+ "legislation_id": 73329,
+ "page": "https://www.legis.ga.gov/legislation/73329",
+ "document_type": "HB",
+ "number": 1354,
+ "legislation_type": "GEN",
+ "caption": "Surprise Billing Consumer Protection Act; require certain health insurers providing a network plan to approve credentialing applications within a certain time frame",
+ "summary": "A BILL to be entitled an Act to amend Chapter 20E of Title 33 of the Official Code of Georgia Annotated, the \"Surprise Billing Consumer Protection Act,\" so as to require certain health insurers providing a network plan to approve credentialing applications within a certain time frame; to provide for the Department of Insurance to establish a standardized credentialing application; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T10:42:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-25T10:17:32",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243966,
+   "label": "LC 52 1060S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243966"
+  },
+  {
+   "doc_id": 243002,
+   "label": "LC 52 1011/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243002"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:11+00:00",
+  "version:243966": "2026-11-20T19:20:11+00:00",
+  "version:243002": "2026-11-20T19:20:11+00:00",
+  "status:40": "2026-11-20T19:20:11+00:00",
+  "status:33": "2026-11-20T19:20:11+00:00",
+  "status:34": "2026-11-20T19:20:11+00:00",
+  "status:39": "2026-11-20T19:20:11+00:00"
+ },
+ "updated": "2026-11-20T19:20:11+00:00"
+}

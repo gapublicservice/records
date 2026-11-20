@@ -1,0 +1,61 @@
+{
+ "key": "HR 910",
+ "slug": "hr910",
+ "session": "2025_26",
+ "legislation_id": 72013,
+ "page": "https://www.legis.ga.gov/legislation/72013",
+ "document_type": "HR",
+ "number": 910,
+ "legislation_type": "PRIV",
+ "caption": "Hanberry, Mrs. Lee Ellen; 90th birthday; commend",
+ "summary": "A RESOLUTION honoring and celebrating the 90th birthday of Mrs. Lee Ellen Hanberry; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:45:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:36",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238947,
+   "label": "LC 112 3610/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238947"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:15+00:00",
+  "version:238947": "2026-11-20T19:51:15+00:00",
+  "status:40": "2026-11-20T19:51:15+00:00",
+  "status:33": "2026-11-20T19:51:15+00:00",
+  "status:48": "2026-11-20T19:51:15+00:00"
+ },
+ "updated": "2026-11-20T19:51:15+00:00"
+}

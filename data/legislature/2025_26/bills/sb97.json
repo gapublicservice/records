@@ -1,0 +1,60 @@
+{
+ "key": "SB 97",
+ "slug": "sb97",
+ "session": "2025_26",
+ "legislation_id": 69918,
+ "page": "https://www.legis.ga.gov/legislation/69918",
+ "document_type": "SB",
+ "number": 97,
+ "legislation_type": "GEN",
+ "caption": "Eavesdropping; limitations regarding the use of electronic monitoring devices; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 16-11-62 of the Official Code of Georgia Annotated, relating to eavesdropping, surveillance, or intercepting communication which invades privacy of another, and divulging private message, so as to provide for limitations regarding the use of electronic monitoring devices; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:05:58",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-05T10:10:38",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231265,
+   "label": "As introduced LC 49 2166",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231265"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:24:40+00:00",
+  "version:231265": "2026-11-20T20:24:40+00:00",
+  "status:67": "2026-11-20T20:24:40+00:00",
+  "status:3": "2026-11-20T20:24:40+00:00"
+ },
+ "updated": "2026-11-20T20:24:40+00:00"
+}

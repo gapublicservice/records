@@ -1,0 +1,89 @@
+{
+ "key": "HR 369",
+ "slug": "hr369",
+ "session": "2025_26",
+ "legislation_id": 70751,
+ "page": "https://www.legis.ga.gov/legislation/70751",
+ "document_type": "HR",
+ "number": 369,
+ "legislation_type": "PRIV",
+ "caption": "Donehoo, Ms.; Benjamin Banneker High School; Teacher of the Year; commend",
+ "summary": "A RESOLUTION commending and congratulating Ms. Donehoo of Benjamin Banneker High School on being named Teacher of the Year; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:36:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:24:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233703,
+   "label": "LC 129 0187/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233703"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:03+00:00",
+  "version:233703": "2026-11-20T19:39:03+00:00",
+  "status:40": "2026-11-20T19:39:03+00:00",
+  "status:33": "2026-11-20T19:39:03+00:00",
+  "status:48": "2026-11-20T19:39:03+00:00"
+ },
+ "updated": "2026-11-20T19:39:03+00:00"
+}

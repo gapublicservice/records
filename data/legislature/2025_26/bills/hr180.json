@@ -1,0 +1,96 @@
+{
+ "key": "HR 180",
+ "slug": "hr180",
+ "session": "2025_26",
+ "legislation_id": 69993,
+ "page": "https://www.legis.ga.gov/legislation/69993",
+ "document_type": "HR",
+ "number": 180,
+ "legislation_type": "PRIV",
+ "caption": "Mitchell, Malcolm; Georgia Reads Coach; commend",
+ "summary": "A RESOLUTION recognizing and commending Georgia Reads Coach Malcolm Mitchell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-05T12:05:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T12:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T12:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231492,
+   "label": "LC 129 0106/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231492"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:53+00:00",
+  "version:231492": "2026-11-20T19:34:53+00:00",
+  "status:40": "2026-11-20T19:34:53+00:00",
+  "status:33": "2026-11-20T19:34:53+00:00",
+  "status:48": "2026-11-20T19:34:53+00:00"
+ },
+ "updated": "2026-11-20T19:34:53+00:00"
+}

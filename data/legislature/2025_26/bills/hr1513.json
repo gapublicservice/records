@@ -1,0 +1,96 @@
+{
+ "key": "HR 1513",
+ "slug": "hr1513",
+ "session": "2025_26",
+ "legislation_id": 73745,
+ "page": "https://www.legis.ga.gov/legislation/73745",
+ "document_type": "HR",
+ "number": 1513,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Reads Day; March 3, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 3, 2026, as Georgia Reads Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:21:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T15:14:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T15:14:28",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244426,
+   "label": "LC 129 1020/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244426"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:10+00:00",
+  "version:244426": "2026-11-20T20:05:10+00:00",
+  "status:40": "2026-11-20T20:05:10+00:00",
+  "status:33": "2026-11-20T20:05:10+00:00",
+  "status:48": "2026-11-20T20:05:10+00:00"
+ },
+ "updated": "2026-11-20T20:05:10+00:00"
+}

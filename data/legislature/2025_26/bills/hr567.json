@@ -1,0 +1,74 @@
+{
+ "key": "HR 567",
+ "slug": "hr567",
+ "session": "2025_26",
+ "legislation_id": 71303,
+ "page": "https://www.legis.ga.gov/legislation/71303",
+ "document_type": "HR",
+ "number": 567,
+ "legislation_type": "GEN",
+ "caption": "Zera D. Storey Memorial Interchange; Cook County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Zera D. Storey and dedicating an interchange in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-11T13:50:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T09:31:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-18T13:17:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235872,
+   "label": "LC 39 4440/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235872"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:27+00:00",
+  "version:235872": "2026-11-20T19:43:27+00:00",
+  "status:40": "2026-11-20T19:43:27+00:00",
+  "status:33": "2026-11-20T19:43:27+00:00",
+  "status:34": "2026-11-20T19:43:27+00:00"
+ },
+ "updated": "2026-11-20T19:43:27+00:00"
+}

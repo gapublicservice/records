@@ -1,0 +1,102 @@
+{
+ "key": "HR 1245",
+ "slug": "hr1245",
+ "session": "2025_26",
+ "legislation_id": 72904,
+ "page": "https://www.legis.ga.gov/legislation/72904",
+ "document_type": "HR",
+ "number": 1245,
+ "legislation_type": "NP",
+ "caption": "Georgia peanut industry; Georgia Peanut Month at the State Capitol; March 2026; recognize",
+ "summary": "A RESOLUTION commending the Georgia peanut industry and recognizing March 2026 as Georgia Peanut Month at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4969,
+   "name": "Yearta, Bill 152nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:06:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241712,
+   "label": "LC 129 0980/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241712"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:48+00:00",
+  "version:241712": "2026-11-20T19:58:48+00:00",
+  "status:40": "2026-11-20T19:58:48+00:00",
+  "status:33": "2026-11-20T19:58:48+00:00",
+  "status:34": "2026-11-20T19:58:48+00:00"
+ },
+ "updated": "2026-11-20T19:58:48+00:00"
+}

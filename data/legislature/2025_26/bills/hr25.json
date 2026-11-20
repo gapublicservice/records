@@ -1,0 +1,89 @@
+{
+ "key": "HR 25",
+ "slug": "hr25",
+ "session": "2025_26",
+ "legislation_id": 69366,
+ "page": "https://www.legis.ga.gov/legislation/69366",
+ "document_type": "HR",
+ "number": 25,
+ "legislation_type": "PRIV",
+ "caption": "Tamil Thai Pongal Day; January 14, 2025; recognize",
+ "summary": "A RESOLUTION recognizing January 14, 2025, as Tamil Thai Pongal Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-14T13:12:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T13:29:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-14T13:29:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229932,
+   "label": "LC 129 0013/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229932"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:06+00:00",
+  "version:229932": "2026-11-20T19:31:06+00:00",
+  "status:40": "2026-11-20T19:31:06+00:00",
+  "status:33": "2026-11-20T19:31:06+00:00",
+  "status:48": "2026-11-20T19:31:06+00:00"
+ },
+ "updated": "2026-11-20T19:31:06+00:00"
+}

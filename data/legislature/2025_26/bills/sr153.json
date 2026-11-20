@@ -1,0 +1,54 @@
+{
+ "key": "SR 153",
+ "slug": "sr153",
+ "session": "2025_26",
+ "legislation_id": 70142,
+ "page": "https://www.legis.ga.gov/legislation/70142",
+ "document_type": "SR",
+ "number": 153,
+ "legislation_type": "PRIV",
+ "caption": "Watson, Sam; recognize",
+ "summary": "A RESOLUTION recognizing and commending Sam Watson, recipient of the Engineering and Environmental Services Champion award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:26:04",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-11T11:21:26",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231836,
+   "label": "Read and adopted LC 112 2957",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231836"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:53:47+00:00",
+  "version:231836": "2026-11-20T20:53:47+00:00",
+  "status:67": "2026-11-20T20:53:47+00:00",
+  "status:66": "2026-11-20T20:53:47+00:00"
+ },
+ "updated": "2026-11-20T20:53:47+00:00"
+}

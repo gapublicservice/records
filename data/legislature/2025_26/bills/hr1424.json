@@ -1,0 +1,82 @@
+{
+ "key": "HR 1424",
+ "slug": "hr1424",
+ "session": "2025_26",
+ "legislation_id": 73449,
+ "page": "https://www.legis.ga.gov/legislation/73449",
+ "document_type": "HR",
+ "number": 1424,
+ "legislation_type": "PRIV",
+ "caption": "Wright, Bobby and Carolyn; inducted into the Chattahoochee Valley Sports Hall of Fame; commend",
+ "summary": "A RESOLUTION congratulating Bobby and Carolyn Wright upon being inducted into the Chattahoochee Valley Sports Hall of Fame; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-19T13:14:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T13:24:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T13:24:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243335,
+   "label": "LC 129 1103/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243335"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:13+00:00",
+  "version:243335": "2026-11-20T20:03:13+00:00",
+  "status:40": "2026-11-20T20:03:13+00:00",
+  "status:33": "2026-11-20T20:03:13+00:00",
+  "status:48": "2026-11-20T20:03:13+00:00"
+ },
+ "updated": "2026-11-20T20:03:13+00:00"
+}

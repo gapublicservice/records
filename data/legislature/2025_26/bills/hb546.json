@@ -1,0 +1,102 @@
+{
+ "key": "HB 546",
+ "slug": "hb546",
+ "session": "2025_26",
+ "legislation_id": 70583,
+ "page": "https://www.legis.ga.gov/legislation/70583",
+ "document_type": "HB",
+ "number": 546,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education Act; require local school systems to offer certain exams to home study students",
+ "summary": "A BILL to be entitled an Act to amend Part 15 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to miscellaneous provisions under the \"Quality Basic Education Act,\" so as to require that local school systems offer certain exams to home study students; to provide for notice requirements; to prohibit additional fees or requirements; to provide a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T10:52:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233200,
+   "label": "LC 61 0153/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233200"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:42:34+00:00",
+  "version:233200": "2026-11-20T18:42:34+00:00",
+  "status:40": "2026-11-20T18:42:34+00:00",
+  "status:33": "2026-11-20T18:42:34+00:00",
+  "status:34": "2026-11-20T18:42:34+00:00"
+ },
+ "updated": "2026-11-20T18:42:34+00:00"
+}

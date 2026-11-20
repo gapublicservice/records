@@ -1,0 +1,89 @@
+{
+ "key": "HR 36",
+ "slug": "hr36",
+ "session": "2025_26",
+ "legislation_id": 69437,
+ "page": "https://www.legis.ga.gov/legislation/69437",
+ "document_type": "HR",
+ "number": 36,
+ "legislation_type": "PRIV",
+ "caption": "Ahmaud Arbery Foundation; commend",
+ "summary": "A RESOLUTION recognizing and commending the Ahmaud Arbery Foundation; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-16T13:23:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T13:47:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T13:47:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230116,
+   "label": "LC 112 2682/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230116"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:27+00:00",
+  "version:230116": "2026-11-20T19:31:27+00:00",
+  "status:40": "2026-11-20T19:31:27+00:00",
+  "status:33": "2026-11-20T19:31:27+00:00",
+  "status:48": "2026-11-20T19:31:27+00:00"
+ },
+ "updated": "2026-11-20T19:31:27+00:00"
+}

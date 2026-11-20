@@ -1,0 +1,61 @@
+{
+ "key": "HR 1400",
+ "slug": "hr1400",
+ "session": "2025_26",
+ "legislation_id": 73394,
+ "page": "https://www.legis.ga.gov/legislation/73394",
+ "document_type": "HR",
+ "number": 1400,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Ty Lewis; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Ty Lewis Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:42:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:09:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:09:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243172,
+   "label": "LC 129 1126/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243172"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:39+00:00",
+  "version:243172": "2026-11-20T20:02:39+00:00",
+  "status:40": "2026-11-20T20:02:39+00:00",
+  "status:33": "2026-11-20T20:02:39+00:00",
+  "status:48": "2026-11-20T20:02:39+00:00"
+ },
+ "updated": "2026-11-20T20:02:39+00:00"
+}

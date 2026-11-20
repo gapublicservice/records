@@ -1,0 +1,61 @@
+{
+ "key": "HR 2082",
+ "slug": "hr2082",
+ "session": "2025_26",
+ "legislation_id": 74683,
+ "page": "https://www.legis.ga.gov/legislation/74683",
+ "document_type": "HR",
+ "number": 2082,
+ "legislation_type": "PRIV",
+ "caption": "Scott, Mrs. Thelma Crawford; honoring the life and legacy; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Mrs. Thelma Crawford Scott; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:47:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248591,
+   "label": "LC 112 4199/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248591"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:42+00:00",
+  "version:248591": "2026-11-20T20:17:42+00:00",
+  "status:40": "2026-11-20T20:17:42+00:00",
+  "status:33": "2026-11-20T20:17:42+00:00",
+  "status:48": "2026-11-20T20:17:42+00:00"
+ },
+ "updated": "2026-11-20T20:17:42+00:00"
+}

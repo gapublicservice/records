@@ -1,0 +1,109 @@
+{
+ "key": "SR 897",
+ "slug": "sr897",
+ "session": "2025_26",
+ "legislation_id": 73798,
+ "page": "https://www.legis.ga.gov/legislation/73798",
+ "document_type": "SR",
+ "number": 897,
+ "legislation_type": "GEN",
+ "caption": "Ellis Crook Highway; Coweta County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Ellis Crook and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T14:55:44",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-04T10:29:24",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244723,
+   "label": "As introduced LC 39 5017",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244723"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:17+00:00",
+  "version:244723": "2026-11-20T21:11:17+00:00",
+  "status:67": "2026-11-20T21:11:17+00:00",
+  "status:3": "2026-11-20T21:11:17+00:00"
+ },
+ "updated": "2026-11-20T21:11:17+00:00"
+}

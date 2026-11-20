@@ -1,0 +1,102 @@
+{
+ "key": "HR 30",
+ "slug": "hr30",
+ "session": "2025_26",
+ "legislation_id": 69380,
+ "page": "https://www.legis.ga.gov/legislation/69380",
+ "document_type": "HR",
+ "number": 30,
+ "legislation_type": "NP",
+ "caption": "Tax Cuts and Jobs Act of 2017; permanent extension; express support",
+ "summary": "A RESOLUTION expressing support for the permanent extension of the Tax Cuts and Jobs Act of 2017; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-15T12:20:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T10:28:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-17T09:22:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229993,
+   "label": "LC 112 2689/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229993"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:15+00:00",
+  "version:229993": "2026-11-20T19:31:15+00:00",
+  "status:40": "2026-11-20T19:31:15+00:00",
+  "status:33": "2026-11-20T19:31:15+00:00",
+  "status:34": "2026-11-20T19:31:15+00:00"
+ },
+ "updated": "2026-11-20T19:31:15+00:00"
+}

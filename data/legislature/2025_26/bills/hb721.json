@@ -1,0 +1,81 @@
+{
+ "key": "HB 721",
+ "slug": "hb721",
+ "session": "2025_26",
+ "legislation_id": 71130,
+ "page": "https://www.legis.ga.gov/legislation/71130",
+ "document_type": "HB",
+ "number": 721,
+ "legislation_type": "GEN",
+ "caption": "Motor vehicles; transportation referral service providers and ride share network services; provisions",
+ "summary": "A BILL to be entitled an Act to amend Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to ride share network services and transportation referral services, so as to provide for additional requirements upon transportation referral service providers and ride share network services relative to driver safety and hiring and the privacy of personal information for drivers and passengers; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T12:33:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T10:44:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-10T13:15:27",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235102,
+   "label": "LC 39 4715/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235102"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:50:18+00:00",
+  "version:235102": "2026-11-20T18:50:18+00:00",
+  "status:40": "2026-11-20T18:50:18+00:00",
+  "status:33": "2026-11-20T18:50:18+00:00",
+  "status:34": "2026-11-20T18:50:18+00:00"
+ },
+ "updated": "2026-11-20T18:50:18+00:00"
+}

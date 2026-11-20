@@ -1,0 +1,82 @@
+{
+ "key": "HR 1574",
+ "slug": "hr1574",
+ "session": "2025_26",
+ "legislation_id": 73848,
+ "page": "https://www.legis.ga.gov/legislation/73848",
+ "document_type": "HR",
+ "number": 1574,
+ "legislation_type": "PRIV",
+ "caption": "Hugley, House Minority Leader Carolyn Fleming; historic leadership and enduring legacy of service; recognize",
+ "summary": "A RESOLUTION honoring House Minority Leader Carolyn Fleming Hugley for her historic leadership and enduring legacy of service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:06:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244828,
+   "label": "LC 112 3808/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244828"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:29+00:00",
+  "version:244828": "2026-11-20T20:06:29+00:00",
+  "status:40": "2026-11-20T20:06:29+00:00",
+  "status:33": "2026-11-20T20:06:29+00:00",
+  "status:48": "2026-11-20T20:06:29+00:00"
+ },
+ "updated": "2026-11-20T20:06:29+00:00"
+}

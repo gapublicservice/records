@@ -1,0 +1,97 @@
+{
+ "key": "HB 702",
+ "slug": "hb702",
+ "session": "2025_26",
+ "legislation_id": 71069,
+ "page": "https://www.legis.ga.gov/legislation/71069",
+ "document_type": "HB",
+ "number": 702,
+ "legislation_type": "GEN",
+ "caption": "Representative Democracy Enforcement Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to primaries and elections generally, so as to enact the Representative Democracy Enforcement Act; to provide that direct initiative petitions petition sponsors shall be considered campaign committees pursuant to Chapter 5 of Title 21 of the Official Code of Georgia Annotated; to prohibit the use of public funds in advocating for or against direct initiative and referendum petitions; to authorize rule making; to provide for related matters; to provide for a contingent effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T11:18:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234781,
+   "label": "LC 47 3196/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234781"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:33+00:00",
+  "version:234781": "2026-11-20T18:49:33+00:00",
+  "status:40": "2026-11-20T18:49:33+00:00",
+  "status:33": "2026-11-20T18:49:33+00:00",
+  "status:34": "2026-11-20T18:49:33+00:00"
+ },
+ "updated": "2026-11-20T18:49:33+00:00"
+}

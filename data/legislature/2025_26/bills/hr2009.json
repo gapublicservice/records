@@ -1,0 +1,96 @@
+{
+ "key": "HR 2009",
+ "slug": "hr2009",
+ "session": "2025_26",
+ "legislation_id": 74584,
+ "page": "https://www.legis.ga.gov/legislation/74584",
+ "document_type": "HR",
+ "number": 2009,
+ "legislation_type": "PRIV",
+ "caption": "Hall, Danny; commend",
+ "summary": "A RESOLUTION commending Danny Hall; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5092,
+   "name": "Fincher, Bill 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T16:18:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T16:41:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T16:41:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248029,
+   "label": "LC 112 3972/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248029"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:56+00:00",
+  "version:248029": "2026-11-20T20:15:56+00:00",
+  "status:40": "2026-11-20T20:15:56+00:00",
+  "status:33": "2026-11-20T20:15:56+00:00",
+  "status:48": "2026-11-20T20:15:56+00:00"
+ },
+ "updated": "2026-11-20T20:15:56+00:00"
+}

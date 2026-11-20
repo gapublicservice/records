@@ -1,0 +1,89 @@
+{
+ "key": "HR 271",
+ "slug": "hr271",
+ "session": "2025_26",
+ "legislation_id": 70369,
+ "page": "https://www.legis.ga.gov/legislation/70369",
+ "document_type": "HR",
+ "number": 271,
+ "legislation_type": "PRIV",
+ "caption": "Kendrick, James Leroy, Jr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of James Leroy Kendrick Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:31:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232535,
+   "label": "LC 129 0045/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232535"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:55+00:00",
+  "version:232535": "2026-11-20T19:36:55+00:00",
+  "status:40": "2026-11-20T19:36:55+00:00",
+  "status:33": "2026-11-20T19:36:55+00:00",
+  "status:48": "2026-11-20T19:36:55+00:00"
+ },
+ "updated": "2026-11-20T19:36:55+00:00"
+}

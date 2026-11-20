@@ -1,0 +1,61 @@
+{
+ "key": "HR 1309",
+ "slug": "hr1309",
+ "session": "2025_26",
+ "legislation_id": 73091,
+ "page": "https://www.legis.ga.gov/legislation/73091",
+ "document_type": "HR",
+ "number": 1309,
+ "legislation_type": "PRIV",
+ "caption": "Eggleston, Rachel; recipient of the Administrator of the Year award; commend",
+ "summary": "A RESOLUTION recognizing and commending Rachel Eggleston, recipient of the Administrator of the Year award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:09:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242250,
+   "label": "LC 129 9015/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242250"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:18+00:00",
+  "version:242250": "2026-11-20T20:00:18+00:00",
+  "status:40": "2026-11-20T20:00:18+00:00",
+  "status:33": "2026-11-20T20:00:18+00:00",
+  "status:48": "2026-11-20T20:00:18+00:00"
+ },
+ "updated": "2026-11-20T20:00:18+00:00"
+}

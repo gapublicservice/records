@@ -1,0 +1,81 @@
+{
+ "key": "HB 1068",
+ "slug": "hb1068",
+ "session": "2025_26",
+ "legislation_id": 72519,
+ "page": "https://www.legis.ga.gov/legislation/72519",
+ "document_type": "HB",
+ "number": 1068,
+ "legislation_type": "GEN",
+ "caption": "Georgia Constituent Services Improvement and Accountability Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapters 1 and 4 of Title 28 of the Official Code of Georgia Annotated, relating to general provisions regarding the General Assembly and legislative services, respectively,  so as to provide for additional office expense funding; to provide for additional funding for constituent services for members of the General Assembly; to provide for the creation, staffing, funding, duties, and procedures for the Office of Constituent Services; to provide for a short title; to provide for legislative findings and intent; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:26:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240641,
+   "label": "LC 28 0700/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240641"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:47+00:00",
+  "version:240641": "2026-11-20T19:07:47+00:00",
+  "status:40": "2026-11-20T19:07:47+00:00",
+  "status:33": "2026-11-20T19:07:47+00:00",
+  "status:34": "2026-11-20T19:07:47+00:00"
+ },
+ "updated": "2026-11-20T19:07:47+00:00"
+}

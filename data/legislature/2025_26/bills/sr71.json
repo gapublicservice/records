@@ -1,0 +1,124 @@
+{
+ "key": "SR 71",
+ "slug": "sr71",
+ "session": "2025_26",
+ "legislation_id": 69708,
+ "page": "https://www.legis.ga.gov/legislation/69708",
+ "document_type": "SR",
+ "number": 71,
+ "legislation_type": "PRIV",
+ "caption": "Employees' Retirement System of Georgia; congratulate",
+ "summary": "A RESOLUTION congratulating the Employees' Retirement System of Georgia upon its 75th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 751,
+   "name": "Ginn, Frank 47th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T10:45:17",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-03T11:06:13",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230778,
+   "label": "Read and adopted LC 112 2771",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230778"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:57+00:00",
+  "version:230778": "2026-11-20T20:51:57+00:00",
+  "status:67": "2026-11-20T20:51:57+00:00",
+  "status:66": "2026-11-20T20:51:57+00:00"
+ },
+ "updated": "2026-11-20T20:51:57+00:00"
+}

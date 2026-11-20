@@ -1,0 +1,88 @@
+{
+ "key": "HB 230",
+ "slug": "hb230",
+ "session": "2025_26",
+ "legislation_id": 69835,
+ "page": "https://www.legis.ga.gov/legislation/69835",
+ "document_type": "HB",
+ "number": 230,
+ "legislation_type": "GEN",
+ "caption": "Income tax; tax credit for certain expenses incurred by taxpayers that sell new construction homes to certain individuals for up to a certain price; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to provide for a tax credit for certain expenses incurred by taxpayers that sell new construction homes to an individual or related individuals for up to a certain price; to define a term; to provide for terms and conditions; to provide for the sale and transfer of tax credits; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T10:58:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231137,
+   "label": "LC 59 0030/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231137"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:27:34+00:00",
+  "version:231137": "2026-11-20T18:27:34+00:00",
+  "status:40": "2026-11-20T18:27:34+00:00",
+  "status:33": "2026-11-20T18:27:34+00:00",
+  "status:34": "2026-11-20T18:27:34+00:00"
+ },
+ "updated": "2026-11-20T18:27:34+00:00"
+}

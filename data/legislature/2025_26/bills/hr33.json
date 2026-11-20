@@ -1,0 +1,68 @@
+{
+ "key": "HR 33",
+ "slug": "hr33",
+ "session": "2025_26",
+ "legislation_id": 69434,
+ "page": "https://www.legis.ga.gov/legislation/69434",
+ "document_type": "HR",
+ "number": 33,
+ "legislation_type": "PRIV",
+ "caption": "Gilley, Gordon L.; commend",
+ "summary": "A RESOLUTION recognizing and commending Gordon L. Gilley; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-16T13:22:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T13:47:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T13:47:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230113,
+   "label": "LC 112 2686/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230113"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:23+00:00",
+  "version:230113": "2026-11-20T19:31:23+00:00",
+  "status:40": "2026-11-20T19:31:23+00:00",
+  "status:33": "2026-11-20T19:31:23+00:00",
+  "status:48": "2026-11-20T19:31:23+00:00"
+ },
+ "updated": "2026-11-20T19:31:23+00:00"
+}

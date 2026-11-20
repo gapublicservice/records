@@ -1,0 +1,88 @@
+{
+ "key": "HB 312",
+ "slug": "hb312",
+ "session": "2025_26",
+ "legislation_id": 70023,
+ "page": "https://www.legis.ga.gov/legislation/70023",
+ "document_type": "HB",
+ "number": 312,
+ "legislation_type": "GEN",
+ "caption": "Employee Empowerment and Transparency Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 8 of Title 34 of the Official Code of Georgia Annotated, relating to employment security benefits, so as to allow applicants for benefits to obtain their personnel files when their claims are contested by their former employers; to provide for definitions; to require the Department of Labor to modify the separation notice; to sanction employers who fail to timely deliver personnel files; to prohibit the admissibility of certain separation notices; to require the Commissioner of Labor to enact rules or regulations; to provide for related matters; to provide for a short title; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T10:59:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231616,
+   "label": "LC 55 0361/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231616"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:46+00:00",
+  "version:231616": "2026-11-20T18:31:46+00:00",
+  "status:40": "2026-11-20T18:31:46+00:00",
+  "status:33": "2026-11-20T18:31:46+00:00",
+  "status:34": "2026-11-20T18:31:46+00:00"
+ },
+ "updated": "2026-11-20T18:31:46+00:00"
+}

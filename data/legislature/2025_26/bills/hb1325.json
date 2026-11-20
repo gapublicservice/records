@@ -1,0 +1,102 @@
+{
+ "key": "HB 1325",
+ "slug": "hb1325",
+ "session": "2025_26",
+ "legislation_id": 73254,
+ "page": "https://www.legis.ga.gov/legislation/73254",
+ "document_type": "HB",
+ "number": 1325,
+ "legislation_type": "GEN",
+ "caption": "Education; require local boards of education to provide parents and teachers opportunities to be involved in developing and updating student codes of conduct",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-736 of the Official Code of Georgia Annotated, relating to student codes of conduct, distribution, disciplinary action for violations, and parental involvement, so as to require local boards of education to provide parents and teachers opportunities to be involved in developing and updating student codes of conduct; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T11:13:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242743,
+   "label": "LC 61 0354/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242743"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:12+00:00",
+  "version:242743": "2026-11-20T19:19:12+00:00",
+  "status:40": "2026-11-20T19:19:12+00:00",
+  "status:33": "2026-11-20T19:19:12+00:00",
+  "status:34": "2026-11-20T19:19:12+00:00"
+ },
+ "updated": "2026-11-20T19:19:12+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1257",
+ "slug": "hr1257",
+ "session": "2025_26",
+ "legislation_id": 72931,
+ "page": "https://www.legis.ga.gov/legislation/72931",
+ "document_type": "HR",
+ "number": 1257,
+ "legislation_type": "PRIV",
+ "caption": "Hodges, Herbert; 2025 Georgia Tree Farmer of the Year; commend",
+ "summary": "A RESOLUTION congratulating Herbert Hodges, the 2025 Georgia Tree Farmer of the Year; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:57:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T14:34:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T14:34:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241750,
+   "label": "LC 129 0880/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241750"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:05+00:00",
+  "version:241750": "2026-11-20T19:59:05+00:00",
+  "status:40": "2026-11-20T19:59:05+00:00",
+  "status:33": "2026-11-20T19:59:05+00:00",
+  "status:48": "2026-11-20T19:59:05+00:00"
+ },
+ "updated": "2026-11-20T19:59:05+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 555",
+ "slug": "hr555",
+ "session": "2025_26",
+ "legislation_id": 71249,
+ "page": "https://www.legis.ga.gov/legislation/71249",
+ "document_type": "HR",
+ "number": 555,
+ "legislation_type": "PRIV",
+ "caption": "Barrow, Craig and Diana; inaugural recipients of the Vince and Barbara Dooley Friends of the UGA Libraries Award; commend",
+ "summary": "A RESOLUTION congratulating and commending Craig and Diana Barrow, the inaugural recipients of the Vince and Barbara Dooley Friends of the UGA Libraries Award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T22:12:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T22:45:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T22:45:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235680,
+   "label": "LC 112 3223/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235680"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:10+00:00",
+  "version:235680": "2026-11-20T19:43:10+00:00",
+  "status:40": "2026-11-20T19:43:10+00:00",
+  "status:33": "2026-11-20T19:43:10+00:00",
+  "status:48": "2026-11-20T19:43:10+00:00"
+ },
+ "updated": "2026-11-20T19:43:10+00:00"
+}

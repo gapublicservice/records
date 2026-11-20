@@ -1,0 +1,82 @@
+{
+ "key": "HR 1407",
+ "slug": "hr1407",
+ "session": "2025_26",
+ "legislation_id": 73401,
+ "page": "https://www.legis.ga.gov/legislation/73401",
+ "document_type": "HR",
+ "number": 1407,
+ "legislation_type": "PRIV",
+ "caption": "Community Health Centers Day; February 18, 2026; commending the Georgia Primary Care Association; recognize",
+ "summary": "A RESOLUTION recognizing February 18, 2026, as Community Health Centers Day and commending the Georgia Primary Care Association; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:45:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243180,
+   "label": "LC 129 9022/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243180"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:48+00:00",
+  "version:243180": "2026-11-20T20:02:48+00:00",
+  "status:40": "2026-11-20T20:02:48+00:00",
+  "status:33": "2026-11-20T20:02:48+00:00",
+  "status:48": "2026-11-20T20:02:48+00:00"
+ },
+ "updated": "2026-11-20T20:02:48+00:00"
+}

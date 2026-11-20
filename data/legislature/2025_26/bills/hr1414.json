@@ -1,0 +1,96 @@
+{
+ "key": "HR 1414",
+ "slug": "hr1414",
+ "session": "2025_26",
+ "legislation_id": 73410,
+ "page": "https://www.legis.ga.gov/legislation/73410",
+ "document_type": "HR",
+ "number": 1414,
+ "legislation_type": "PRIV",
+ "caption": "Collinson, Andrew; commend",
+ "summary": "A RESOLUTION recognizing and commending Andrew Collinson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:49:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:26:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:26:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243191,
+   "label": "LC 129 1119/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243191"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:57+00:00",
+  "version:243191": "2026-11-20T20:02:57+00:00",
+  "status:40": "2026-11-20T20:02:57+00:00",
+  "status:33": "2026-11-20T20:02:57+00:00",
+  "status:48": "2026-11-20T20:02:57+00:00"
+ },
+ "updated": "2026-11-20T20:02:57+00:00"
+}

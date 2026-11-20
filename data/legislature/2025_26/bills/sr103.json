@@ -1,0 +1,75 @@
+{
+ "key": "SR 103",
+ "slug": "sr103",
+ "session": "2025_26",
+ "legislation_id": 69813,
+ "page": "https://www.legis.ga.gov/legislation/69813",
+ "document_type": "SR",
+ "number": 103,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Children & Youth Day; recognize March 18, 2025",
+ "summary": "A RESOLUTION celebrating the achievements and capabilities of young Georgians and recognizing March 18, 2025, as Georgia Children & Youth Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-03T14:30:00",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-04T11:38:56",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231043,
+   "label": "Read and adopted LC 112 2828",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231043"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:52:41+00:00",
+  "version:231043": "2026-11-20T20:52:41+00:00",
+  "status:67": "2026-11-20T20:52:41+00:00",
+  "status:66": "2026-11-20T20:52:41+00:00"
+ },
+ "updated": "2026-11-20T20:52:41+00:00"
+}

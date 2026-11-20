@@ -1,0 +1,89 @@
+{
+ "key": "HR 792",
+ "slug": "hr792",
+ "session": "2025_26",
+ "legislation_id": 71777,
+ "page": "https://www.legis.ga.gov/legislation/71777",
+ "document_type": "HR",
+ "number": 792,
+ "legislation_type": "PRIV",
+ "caption": "404 Day; April 4, 2025; recognize",
+ "summary": "A RESOLUTION recognizing April 4, 2025, as 404 Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:58:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237660,
+   "label": "LC 112 3484/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237660"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:38+00:00",
+  "version:237660": "2026-11-20T19:48:38+00:00",
+  "status:40": "2026-11-20T19:48:38+00:00",
+  "status:33": "2026-11-20T19:48:38+00:00",
+  "status:48": "2026-11-20T19:48:38+00:00"
+ },
+ "updated": "2026-11-20T19:48:38+00:00"
+}

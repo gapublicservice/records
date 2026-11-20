@@ -1,0 +1,75 @@
+{
+ "key": "HR 1761",
+ "slug": "hr1761",
+ "session": "2025_26",
+ "legislation_id": 74224,
+ "page": "https://www.legis.ga.gov/legislation/74224",
+ "document_type": "HR",
+ "number": 1761,
+ "legislation_type": "PRIV",
+ "caption": "Fleming Foster, Ima Jean; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Ima Jean Fleming Foster; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:40:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246474,
+   "label": "LC 129 1418/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246474"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:31+00:00",
+  "version:246474": "2026-11-20T20:10:31+00:00",
+  "status:40": "2026-11-20T20:10:31+00:00",
+  "status:33": "2026-11-20T20:10:31+00:00",
+  "status:48": "2026-11-20T20:10:31+00:00"
+ },
+ "updated": "2026-11-20T20:10:31+00:00"
+}

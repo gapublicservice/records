@@ -1,0 +1,95 @@
+{
+ "key": "HR 191",
+ "slug": "hr191",
+ "session": "2025_26",
+ "legislation_id": 70015,
+ "page": "https://www.legis.ga.gov/legislation/70015",
+ "document_type": "HR",
+ "number": 191,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Use of Local Fees to Support Affordable Housing; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Use of Local Fees to Support Affordable Housing; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T10:55:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231652,
+   "label": "LC 56 0276/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231652"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:07+00:00",
+  "version:231652": "2026-11-20T19:35:07+00:00",
+  "status:40": "2026-11-20T19:35:07+00:00",
+  "status:33": "2026-11-20T19:35:07+00:00",
+  "status:34": "2026-11-20T19:35:07+00:00"
+ },
+ "updated": "2026-11-20T19:35:07+00:00"
+}

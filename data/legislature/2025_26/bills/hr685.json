@@ -1,0 +1,95 @@
+{
+ "key": "HR 685",
+ "slug": "hr685",
+ "session": "2025_26",
+ "legislation_id": 71565,
+ "page": "https://www.legis.ga.gov/legislation/71565",
+ "document_type": "HR",
+ "number": 685,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Mental Health Workforce Development; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Mental Health Workforce Development; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-21T11:53:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T10:23:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T10:11:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236894,
+   "label": "LC 52 9002/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236894"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:13+00:00",
+  "version:236894": "2026-11-20T19:46:13+00:00",
+  "status:40": "2026-11-20T19:46:13+00:00",
+  "status:33": "2026-11-20T19:46:13+00:00",
+  "status:34": "2026-11-20T19:46:13+00:00"
+ },
+ "updated": "2026-11-20T19:46:13+00:00"
+}

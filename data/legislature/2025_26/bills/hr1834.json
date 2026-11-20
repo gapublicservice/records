@@ -1,0 +1,68 @@
+{
+ "key": "HR 1834",
+ "slug": "hr1834",
+ "session": "2025_26",
+ "legislation_id": 74336,
+ "page": "https://www.legis.ga.gov/legislation/74336",
+ "document_type": "HR",
+ "number": 1834,
+ "legislation_type": "PRIV",
+ "caption": "Cofer, Dorothy; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dorothy Cofer; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-20T13:25:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T13:36:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T13:36:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246906,
+   "label": "LC 129 1391/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246906"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:04+00:00",
+  "version:246906": "2026-11-20T20:12:04+00:00",
+  "status:40": "2026-11-20T20:12:04+00:00",
+  "status:33": "2026-11-20T20:12:04+00:00",
+  "status:48": "2026-11-20T20:12:04+00:00"
+ },
+ "updated": "2026-11-20T20:12:04+00:00"
+}

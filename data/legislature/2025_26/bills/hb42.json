@@ -1,0 +1,81 @@
+{
+ "key": "HB 42",
+ "slug": "hb42",
+ "session": "2025_26",
+ "legislation_id": 69339,
+ "page": "https://www.legis.ga.gov/legislation/69339",
+ "document_type": "HB",
+ "number": 42,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education; calculation and distribution of funds to local units of administration for student transportation programs; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 6 of Chapter 2 of Title 20 of the O.C.G.A., relating to program weights and funding requirements under Quality Basic Education, so as to revise provisions for the calculation and distribution of funds by the State Board of Education to local units of administration for student transportation programs; to require the State Board of Education to distribute to each local unit of administration up to 100 percent of projected costs of such local unit of administration's student transportation program, subject to exception; to provide for the use of vehicles in addition to school buses in student transportation programs; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:40:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T10:39:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T10:14:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229889,
+   "label": "LC 56 0223/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229889"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:46+00:00",
+  "version:229889": "2026-11-20T18:17:46+00:00",
+  "status:40": "2026-11-20T18:17:46+00:00",
+  "status:33": "2026-11-20T18:17:46+00:00",
+  "status:34": "2026-11-20T18:17:46+00:00"
+ },
+ "updated": "2026-11-20T18:17:46+00:00"
+}

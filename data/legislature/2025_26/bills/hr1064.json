@@ -1,0 +1,89 @@
+{
+ "key": "HR 1064",
+ "slug": "hr1064",
+ "session": "2025_26",
+ "legislation_id": 72413,
+ "page": "https://www.legis.ga.gov/legislation/72413",
+ "document_type": "HR",
+ "number": 1064,
+ "legislation_type": "PRIV",
+ "caption": "Callins, Dr. Keisha Reneé; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Keisha Reneé Callins; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:16:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240373,
+   "label": "LC 129 0653/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240373"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:48+00:00",
+  "version:240373": "2026-11-20T19:54:48+00:00",
+  "status:40": "2026-11-20T19:54:48+00:00",
+  "status:33": "2026-11-20T19:54:48+00:00",
+  "status:48": "2026-11-20T19:54:48+00:00"
+ },
+ "updated": "2026-11-20T19:54:48+00:00"
+}

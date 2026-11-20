@@ -1,0 +1,109 @@
+{
+ "key": "SR 191",
+ "slug": "sr191",
+ "session": "2025_26",
+ "legislation_id": 70333,
+ "page": "https://www.legis.ga.gov/legislation/70333",
+ "document_type": "SR",
+ "number": 191,
+ "legislation_type": "NP",
+ "caption": "Black Maternal Health Statistics; recognize",
+ "summary": "A RESOLUTION recognizing Black maternal health statistics; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T11:36:48",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-18T13:12:01",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232447,
+   "label": "As introduced LC 112 2988",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232447"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:54:34+00:00",
+  "version:232447": "2026-11-20T20:54:34+00:00",
+  "status:67": "2026-11-20T20:54:34+00:00",
+  "status:3": "2026-11-20T20:54:34+00:00"
+ },
+ "updated": "2026-11-20T20:54:34+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 490",
+ "slug": "hr490",
+ "session": "2025_26",
+ "legislation_id": 71145,
+ "page": "https://www.legis.ga.gov/legislation/71145",
+ "document_type": "HR",
+ "number": 490,
+ "legislation_type": "PRIV",
+ "caption": "World Coming Together To Make A Difference; commend",
+ "summary": "A RESOLUTION commending World Coming Together To Make A Difference; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T13:26:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T14:11:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T14:11:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235150,
+   "label": "LC 112 3246/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235150"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:44+00:00",
+  "version:235150": "2026-11-20T19:41:44+00:00",
+  "status:40": "2026-11-20T19:41:44+00:00",
+  "status:33": "2026-11-20T19:41:44+00:00",
+  "status:48": "2026-11-20T19:41:44+00:00"
+ },
+ "updated": "2026-11-20T19:41:44+00:00"
+}

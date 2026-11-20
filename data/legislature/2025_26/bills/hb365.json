@@ -1,0 +1,95 @@
+{
+ "key": "HB 365",
+ "slug": "hb365",
+ "session": "2025_26",
+ "legislation_id": 70127,
+ "page": "https://www.legis.ga.gov/legislation/70127",
+ "document_type": "HB",
+ "number": 365,
+ "legislation_type": "GEN",
+ "caption": "Strategic Industrial Development Enhancement (SIDE) Tax Credit Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the O.C.G.A., relating to the imposition, rate, and computation of and exemptions and credits from state income taxes, so as to create a temporary income tax credit for certain expenditures relating to projects promoting industrial infrastructure enhancement and connectivity; to provide for definitions; to provide for eligibility approval by the Department of Community Affairs; to provide for limitations upon such tax credit; to authorize the sale or transfer of unused credits; to provide for an aggregate annual limit; to provide for terms and conditions; to provide for rules and regulations; to provide for automatic repeal; to provide for related matters; to provide for a short title; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:47:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231936,
+   "label": "LC 39 4528/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231936"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:34:16+00:00",
+  "version:231936": "2026-11-20T18:34:16+00:00",
+  "status:40": "2026-11-20T18:34:16+00:00",
+  "status:33": "2026-11-20T18:34:16+00:00",
+  "status:34": "2026-11-20T18:34:16+00:00"
+ },
+ "updated": "2026-11-20T18:34:16+00:00"
+}

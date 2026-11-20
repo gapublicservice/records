@@ -1,0 +1,116 @@
+{
+ "key": "HB 512",
+ "slug": "hb512",
+ "session": "2025_26",
+ "legislation_id": 70485,
+ "page": "https://www.legis.ga.gov/legislation/70485",
+ "document_type": "HB",
+ "number": 512,
+ "legislation_type": "GEN",
+ "caption": "Property owners' associations; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 44 of the O.C.G.A., relating to regulation of specialized land transactions, so as to revise provisions related to property owners' associations; to require such associations to provide annual certificates of good standing for the payment of assessments and other charges; to require such associations to offer participation in alternative dispute resolution prior to the creation of a lien for unpaid assessments and other charges; to amend Code Section 44-14-15 of the Official Code of Georgia Annotated, relating to fee for a future conveyance and limited circumstances relative to property, so as to provide for a cross-reference; to provide for related matters; to provide for applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5001,
+   "name": "Lewis-Ward, Regina 115th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:17:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T13:24:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232916,
+   "label": "LC 50 1035/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232916"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:06+00:00",
+  "version:232916": "2026-11-20T18:41:06+00:00",
+  "status:40": "2026-11-20T18:41:06+00:00",
+  "status:33": "2026-11-20T18:41:06+00:00",
+  "status:34": "2026-11-20T18:41:06+00:00",
+  "status:39": "2026-11-20T18:41:06+00:00",
+  "status:50": "2026-11-20T18:41:06+00:00"
+ },
+ "updated": "2026-11-20T18:41:06+00:00"
+}

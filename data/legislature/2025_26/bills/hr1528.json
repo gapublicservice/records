@@ -1,0 +1,81 @@
+{
+ "key": "HR 1528",
+ "slug": "hr1528",
+ "session": "2025_26",
+ "legislation_id": 73785,
+ "page": "https://www.legis.ga.gov/legislation/73785",
+ "document_type": "HR",
+ "number": 1528,
+ "legislation_type": "NP",
+ "caption": "Joint Study Committee on Higher Education Fiscal Stewardship; create",
+ "summary": "A RESOLUTION creating the Joint Study Committee on Higher Education Fiscal Stewardship; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T12:12:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244662,
+   "label": "LC 61 0423/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244662"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:30+00:00",
+  "version:244662": "2026-11-20T20:05:30+00:00",
+  "status:40": "2026-11-20T20:05:30+00:00",
+  "status:33": "2026-11-20T20:05:30+00:00",
+  "status:34": "2026-11-20T20:05:30+00:00"
+ },
+ "updated": "2026-11-20T20:05:30+00:00"
+}

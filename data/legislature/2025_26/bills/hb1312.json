@@ -1,0 +1,81 @@
+{
+ "key": "HB 1312",
+ "slug": "hb1312",
+ "session": "2025_26",
+ "legislation_id": 73200,
+ "page": "https://www.legis.ga.gov/legislation/73200",
+ "document_type": "HB",
+ "number": 1312,
+ "legislation_type": "GEN",
+ "caption": "Desai Safety Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 4 of Chapter 11 of Title 16 and Title 19 of the Official Code of Georgia Annotated, relating to carrying and possession of firearms and domestic relations, respectively, so as to prohibit persons subject to a protective order for family violence or dating violence from possessing a firearm or ammunition; to provide for penalties; to require reporting by the court issuing such prohibition; to require the surrender or transfer of firearms or ammunition in such person's possession; to provide for petitions for return of firearms or ammunition and restoration of rights; to provide for the adoption of procedures; to provide for applicability; to provide for definitions; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T13:00:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242581,
+   "label": "LC 63 0080/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242581"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:44+00:00",
+  "version:242581": "2026-11-20T19:18:44+00:00",
+  "status:40": "2026-11-20T19:18:44+00:00",
+  "status:33": "2026-11-20T19:18:44+00:00",
+  "status:34": "2026-11-20T19:18:44+00:00"
+ },
+ "updated": "2026-11-20T19:18:44+00:00"
+}

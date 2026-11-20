@@ -1,0 +1,89 @@
+{
+ "key": "HR 2078",
+ "slug": "hr2078",
+ "session": "2025_26",
+ "legislation_id": 74679,
+ "page": "https://www.legis.ga.gov/legislation/74679",
+ "document_type": "HR",
+ "number": 2078,
+ "legislation_type": "PRIV",
+ "caption": "Barranco, John Baptist; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of John Baptist Barranco of Dunwoody, Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:43:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248596,
+   "label": "LC 112 4208/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248596"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:37+00:00",
+  "version:248596": "2026-11-20T20:17:37+00:00",
+  "status:40": "2026-11-20T20:17:37+00:00",
+  "status:33": "2026-11-20T20:17:37+00:00",
+  "status:48": "2026-11-20T20:17:37+00:00"
+ },
+ "updated": "2026-11-20T20:17:37+00:00"
+}

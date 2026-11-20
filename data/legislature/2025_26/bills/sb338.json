@@ -1,0 +1,67 @@
+{
+ "key": "SB 338",
+ "slug": "sb338",
+ "session": "2025_26",
+ "legislation_id": 71361,
+ "page": "https://www.legis.ga.gov/legislation/71361",
+ "document_type": "SB",
+ "number": 338,
+ "legislation_type": "LOC",
+ "caption": "City of Macon, City of Payne City, and Bibb County; mayor and remove such limits for commissioners; increase the term limits",
+ "summary": "A BILL to be entitled an Act to amend an Act to provide for the restructuring of the City of Macon, the City of Payne City, and Bibb County, approved April 20, 2012 (Ga. L. 2012, p. 5595), as amended, so as to increase the term limits for the mayor and remove such limits for commissioners; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-13T13:18:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T13:30:00",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236071,
+   "label": "As introduced LC 47 3557",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236071"
+  },
+  {
+   "doc_id": 236073,
+   "label": "SB 338 Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236073"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:36:44+00:00",
+  "version:236071": "2026-11-20T20:36:44+00:00",
+  "version:236073": "2026-11-20T20:36:44+00:00",
+  "status:67": "2026-11-20T20:36:44+00:00",
+  "status:3": "2026-11-20T20:36:44+00:00"
+ },
+ "updated": "2026-11-20T20:36:44+00:00"
+}

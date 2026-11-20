@@ -1,0 +1,102 @@
+{
+ "key": "HB 1072",
+ "slug": "hb1072",
+ "session": "2025_26",
+ "legislation_id": 72523,
+ "page": "https://www.legis.ga.gov/legislation/72523",
+ "document_type": "HB",
+ "number": 1072,
+ "legislation_type": "GEN",
+ "caption": "Environmental Protection Division; authorize director to investigate and consider out-of-state regulatory history when processing applications for certain permits",
+ "summary": "A BILL to be entitled an Act to amend Code Section 12-2-2 of the Official Code of Georgia Annotated, relating to Environmental Protection Division, Environmental Advisory Council, duties of council and its members and director, appeal procedures generally, permit applications, and inspections, so as to authorize the director of the Environmental Protection Division to investigate and consider out-of-state regulatory history when processing applications for certain permits; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:32:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240632,
+   "label": "LC 44 3387/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240632"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:58+00:00",
+  "version:240632": "2026-11-20T19:07:58+00:00",
+  "status:40": "2026-11-20T19:07:58+00:00",
+  "status:33": "2026-11-20T19:07:58+00:00",
+  "status:34": "2026-11-20T19:07:58+00:00"
+ },
+ "updated": "2026-11-20T19:07:58+00:00"
+}

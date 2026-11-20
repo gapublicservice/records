@@ -1,0 +1,95 @@
+{
+ "key": "HR 129",
+ "slug": "hr129",
+ "session": "2025_26",
+ "legislation_id": 69780,
+ "page": "https://www.legis.ga.gov/legislation/69780",
+ "document_type": "HR",
+ "number": 129,
+ "legislation_type": "GEN",
+ "caption": "Clark, Mr. Daryl Lee; compensate",
+ "summary": "A RESOLUTION compensating Mr. Daryl Lee Clark; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-03T11:44:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T10:44:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T09:56:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230986,
+   "label": "LC 60 0052/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230986"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:47+00:00",
+  "version:230986": "2026-11-20T19:33:47+00:00",
+  "status:40": "2026-11-20T19:33:47+00:00",
+  "status:33": "2026-11-20T19:33:47+00:00",
+  "status:34": "2026-11-20T19:33:47+00:00",
+  "status:39": "2026-11-20T19:33:47+00:00",
+  "status:50": "2026-11-20T19:33:47+00:00"
+ },
+ "updated": "2026-11-20T19:33:47+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 1225",
+ "slug": "hb1225",
+ "session": "2025_26",
+ "legislation_id": 72916,
+ "page": "https://www.legis.ga.gov/legislation/72916",
+ "document_type": "HB",
+ "number": 1225,
+ "legislation_type": "GEN",
+ "caption": "Contracts; automatic renewal provisions; provide certain consumers a pro rata refund relative to a canceled service contract in the event of a price increase",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 13 of the Official Code of Georgia Annotated, relating to automatic renewal provisions, so as to provide to certain consumers a pro rata refund relative to a canceled service contract in the event of a price increase; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:13:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241700,
+   "label": "LC 44 3397/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241700"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:45+00:00",
+  "version:241700": "2026-11-20T19:14:45+00:00",
+  "status:40": "2026-11-20T19:14:45+00:00",
+  "status:33": "2026-11-20T19:14:45+00:00",
+  "status:34": "2026-11-20T19:14:45+00:00"
+ },
+ "updated": "2026-11-20T19:14:45+00:00"
+}

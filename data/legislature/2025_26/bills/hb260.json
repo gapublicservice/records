@@ -1,0 +1,116 @@
+{
+ "key": "HB 260",
+ "slug": "hb260",
+ "session": "2025_26",
+ "legislation_id": 69873,
+ "page": "https://www.legis.ga.gov/legislation/69873",
+ "document_type": "HB",
+ "number": 260,
+ "legislation_type": "GEN",
+ "caption": "Ad valorem tax; increase amount of a state-wide homestead exemption from certain ad valorem taxes",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 2 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to property tax exemptions, so as to increase the amount of a state-wide homestead exemption from certain ad valorem taxes; to provide for related matters; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:47:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231210,
+   "label": "LC 50 1052/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231210"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:29:02+00:00",
+  "version:231210": "2026-11-20T18:29:02+00:00",
+  "status:40": "2026-11-20T18:29:02+00:00",
+  "status:33": "2026-11-20T18:29:02+00:00",
+  "status:34": "2026-11-20T18:29:02+00:00",
+  "status:39": "2026-11-20T18:29:02+00:00",
+  "status:50": "2026-11-20T18:29:02+00:00"
+ },
+ "updated": "2026-11-20T18:29:02+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HR 396",
+ "slug": "hr396",
+ "session": "2025_26",
+ "legislation_id": 70827,
+ "page": "https://www.legis.ga.gov/legislation/70827",
+ "document_type": "HR",
+ "number": 396,
+ "legislation_type": "CA",
+ "caption": "General Assembly; creation of Georgia's Children First Trust Fund; authorize - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to authorize the General Assembly to provide by law for the creation of the Georgia's Children First Trust Fund; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T12:25:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:47:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233976,
+   "label": "LC 55 0545/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233976"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:38+00:00",
+  "version:233976": "2026-11-20T19:39:38+00:00",
+  "status:40": "2026-11-20T19:39:38+00:00",
+  "status:33": "2026-11-20T19:39:38+00:00",
+  "status:34": "2026-11-20T19:39:38+00:00"
+ },
+ "updated": "2026-11-20T19:39:38+00:00"
+}

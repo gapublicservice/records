@@ -1,0 +1,95 @@
+{
+ "key": "SR 372",
+ "slug": "sr372",
+ "session": "2025_26",
+ "legislation_id": 71258,
+ "page": "https://www.legis.ga.gov/legislation/71258",
+ "document_type": "SR",
+ "number": 372,
+ "legislation_type": "NP",
+ "caption": "Stomach Cancer; increased awareness; express support",
+ "summary": "A RESOLUTION expressing support for increased awareness of stomach cancer; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-10T12:05:34",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-11T10:11:09",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235730,
+   "label": "As introduced LC 112 3331",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235730"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:58:49+00:00",
+  "version:235730": "2026-11-20T20:58:49+00:00",
+  "status:67": "2026-11-20T20:58:49+00:00",
+  "status:3": "2026-11-20T20:58:49+00:00"
+ },
+ "updated": "2026-11-20T20:58:49+00:00"
+}

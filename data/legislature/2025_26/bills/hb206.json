@@ -1,0 +1,123 @@
+{
+ "key": "HB 206",
+ "slug": "hb206",
+ "session": "2025_26",
+ "legislation_id": 69722,
+ "page": "https://www.legis.ga.gov/legislation/69722",
+ "document_type": "HB",
+ "number": 206,
+ "legislation_type": "GEN",
+ "caption": "Drug-free Postsecondary Education Act of 1990; repeal Article 2 of Chapter 1",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to repeal Article 2 of Chapter 1, the \"Drug-free Postsecondary Education Act of 1990\"; to remove provisions making students convicted of certain drug offenses ineligible for loans, scholarships, and grants; to provide that students shall not be deemed ineligible for HOPE scholarships or grants based solely on certain convictions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:10:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T10:03:54",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245221,
+   "label": "LC 49 2759S/hs",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245221"
+  },
+  {
+   "doc_id": 230850,
+   "label": "LC 61 0012/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230850"
+  },
+  {
+   "doc_id": 230891,
+   "label": "Fiscal Note LC 61 0012",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230891"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:29+00:00",
+  "version:245221": "2026-11-20T18:26:29+00:00",
+  "version:230850": "2026-11-20T18:26:29+00:00",
+  "version:230891": "2026-11-20T18:26:29+00:00",
+  "status:40": "2026-11-20T18:26:29+00:00",
+  "status:33": "2026-11-20T18:26:29+00:00",
+  "status:34": "2026-11-20T18:26:29+00:00",
+  "status:39": "2026-11-20T18:26:29+00:00"
+ },
+ "updated": "2026-11-20T18:26:29+00:00"
+}

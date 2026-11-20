@@ -1,0 +1,130 @@
+{
+ "key": "SB 117",
+ "slug": "sb117",
+ "session": "2025_26",
+ "legislation_id": 70038,
+ "page": "https://www.legis.ga.gov/legislation/70038",
+ "document_type": "SB",
+ "number": 117,
+ "legislation_type": "GEN",
+ "caption": "Public Officers and Employees; a misdemeanor offense for violations regarding complaints by public employees; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 45 of the Official Code of Georgia Annotated, relating to general provisions regarding public officers and employees, so as to provide a misdemeanor offense for violations regarding complaints by public employees; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Government Oversight",
+   "id": 130
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:12:19",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-10T10:10:41",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-27T09:52:07",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-02-28T10:36:29",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:29:59",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231589,
+   "label": "As introduced LC 46 1022",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231589"
+  },
+  {
+   "doc_id": 234250,
+   "label": "Committee Sub LC 60 0112S",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234250"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:25:40+00:00",
+  "version:231589": "2026-11-20T20:25:40+00:00",
+  "version:234250": "2026-11-20T20:25:40+00:00",
+  "status:67": "2026-11-20T20:25:40+00:00",
+  "status:3": "2026-11-20T20:25:40+00:00",
+  "status:8": "2026-11-20T20:25:40+00:00",
+  "status:10": "2026-11-20T20:25:40+00:00",
+  "status:103": "2026-11-20T20:25:40+00:00"
+ },
+ "updated": "2026-11-20T20:25:40+00:00"
+}

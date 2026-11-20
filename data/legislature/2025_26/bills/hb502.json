@@ -1,0 +1,131 @@
+{
+ "key": "HB 502",
+ "slug": "hb502",
+ "session": "2025_26",
+ "legislation_id": 70426,
+ "page": "https://www.legis.ga.gov/legislation/70426",
+ "document_type": "HB",
+ "number": 502,
+ "legislation_type": "GEN",
+ "caption": "Elections; preferential treatment during advance voting for voters accompanied by children two years of age or younger; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide for preferential treatment during advance voting to voters accompanied by children two years of age or younger; to provide for preferential treatment during certain hours on election day to voters accompanied by children two years of age or younger; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:31:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-19T08:57:45",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235308,
+   "label": "LC 47 3476S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235308"
+  },
+  {
+   "doc_id": 232723,
+   "label": "LC 47 3377/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232723"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:40:43+00:00",
+  "version:235308": "2026-11-20T18:40:43+00:00",
+  "version:232723": "2026-11-20T18:40:43+00:00",
+  "status:40": "2026-11-20T18:40:43+00:00",
+  "status:33": "2026-11-20T18:40:43+00:00",
+  "status:34": "2026-11-20T18:40:43+00:00",
+  "status:39": "2026-11-20T18:40:43+00:00",
+  "status:50": "2026-11-20T18:40:43+00:00"
+ },
+ "updated": "2026-11-20T18:40:43+00:00"
+}

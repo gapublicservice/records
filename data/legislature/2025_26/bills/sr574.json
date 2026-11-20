@@ -1,0 +1,60 @@
+{
+ "key": "SR 574",
+ "slug": "sr574",
+ "session": "2025_26",
+ "legislation_id": 72231,
+ "page": "https://www.legis.ga.gov/legislation/72231",
+ "document_type": "SR",
+ "number": 574,
+ "legislation_type": "PRIV",
+ "caption": "The Susan Jolley Foundation, the Georgia Cancer Control Consortium, and Cancer Pathways; recognize",
+ "summary": "A RESOLUTION recognizing and commending The Susan Jolley Foundation, the Georgia Cancer Control Consortium (a program of the Georgia Department of Public Health), and Cancer Pathways for their exemplary contributions to cervical cancer education and awareness in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-14T15:26:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-15T10:06:09",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239876,
+   "label": "As Introduced LC 112 3718",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239876"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:55+00:00",
+  "version:239876": "2026-11-20T21:03:55+00:00",
+  "status:67": "2026-11-20T21:03:55+00:00",
+  "status:3": "2026-11-20T21:03:55+00:00"
+ },
+ "updated": "2026-11-20T21:03:55+00:00"
+}

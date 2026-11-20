@@ -1,0 +1,61 @@
+{
+ "key": "HR 2084",
+ "slug": "hr2084",
+ "session": "2025_26",
+ "legislation_id": 74685,
+ "page": "https://www.legis.ga.gov/legislation/74685",
+ "document_type": "HR",
+ "number": 2084,
+ "legislation_type": "PRIV",
+ "caption": "Branton, Mrs. Eloise; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mrs. Eloise Branton; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:47:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:41",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248597,
+   "label": "LC 112 4197/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248597"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:45+00:00",
+  "version:248597": "2026-11-20T20:17:45+00:00",
+  "status:40": "2026-11-20T20:17:45+00:00",
+  "status:33": "2026-11-20T20:17:45+00:00",
+  "status:48": "2026-11-20T20:17:45+00:00"
+ },
+ "updated": "2026-11-20T20:17:45+00:00"
+}

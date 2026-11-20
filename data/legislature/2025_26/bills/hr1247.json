@@ -1,0 +1,68 @@
+{
+ "key": "HR 1247",
+ "slug": "hr1247",
+ "session": "2025_26",
+ "legislation_id": 72921,
+ "page": "https://www.legis.ga.gov/legislation/72921",
+ "document_type": "HR",
+ "number": 1247,
+ "legislation_type": "PRIV",
+ "caption": "Worley, Officer Brantley; commend",
+ "summary": "A RESOLUTION honoring Officer Brantley Worley; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:53:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T14:34:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T14:34:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241738,
+   "label": "LC 129 0678/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241738"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:51+00:00",
+  "version:241738": "2026-11-20T19:58:51+00:00",
+  "status:40": "2026-11-20T19:58:51+00:00",
+  "status:33": "2026-11-20T19:58:51+00:00",
+  "status:48": "2026-11-20T19:58:51+00:00"
+ },
+ "updated": "2026-11-20T19:58:51+00:00"
+}

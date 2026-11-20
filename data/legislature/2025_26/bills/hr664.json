@@ -1,0 +1,61 @@
+{
+ "key": "HR 664",
+ "slug": "hr664",
+ "session": "2025_26",
+ "legislation_id": 71517,
+ "page": "https://www.legis.ga.gov/legislation/71517",
+ "document_type": "HR",
+ "number": 664,
+ "legislation_type": "PRIV",
+ "caption": "Delegation from Wexford, Ireland; visit to the Georgia State Capitol; honor",
+ "summary": "A RESOLUTION honoring the esteemed delegation from Wexford, Ireland, upon their visit to the Georgia State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:44:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236730,
+   "label": "LC 112 3427/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236730"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:36+00:00",
+  "version:236730": "2026-11-20T19:45:36+00:00",
+  "status:40": "2026-11-20T19:45:36+00:00",
+  "status:33": "2026-11-20T19:45:36+00:00",
+  "status:48": "2026-11-20T19:45:36+00:00"
+ },
+ "updated": "2026-11-20T19:45:36+00:00"
+}

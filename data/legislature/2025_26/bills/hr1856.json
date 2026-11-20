@@ -1,0 +1,68 @@
+{
+ "key": "HR 1856",
+ "slug": "hr1856",
+ "session": "2025_26",
+ "legislation_id": 74369,
+ "page": "https://www.legis.ga.gov/legislation/74369",
+ "document_type": "HR",
+ "number": 1856,
+ "legislation_type": "PRIV",
+ "caption": "Scoy, Pamela S. Van; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Pamela S. Van Scoy; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:54:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T13:17:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T13:17:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247065,
+   "label": "LC 129 1494/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247065"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:32+00:00",
+  "version:247065": "2026-11-20T20:12:32+00:00",
+  "status:40": "2026-11-20T20:12:32+00:00",
+  "status:33": "2026-11-20T20:12:32+00:00",
+  "status:48": "2026-11-20T20:12:32+00:00"
+ },
+ "updated": "2026-11-20T20:12:32+00:00"
+}

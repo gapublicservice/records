@@ -1,0 +1,96 @@
+{
+ "key": "HR 1660",
+ "slug": "hr1660",
+ "session": "2025_26",
+ "legislation_id": 74022,
+ "page": "https://www.legis.ga.gov/legislation/74022",
+ "document_type": "HR",
+ "number": 1660,
+ "legislation_type": "PRIV",
+ "caption": "Knight, Tasso; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Tasso Knight; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-10T13:11:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-10T13:28:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-10T13:28:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245664,
+   "label": "LC 112 3845/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245664"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:21+00:00",
+  "version:245664": "2026-11-20T20:08:21+00:00",
+  "status:40": "2026-11-20T20:08:21+00:00",
+  "status:33": "2026-11-20T20:08:21+00:00",
+  "status:48": "2026-11-20T20:08:21+00:00"
+ },
+ "updated": "2026-11-20T20:08:21+00:00"
+}

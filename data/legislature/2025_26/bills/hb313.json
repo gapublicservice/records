@@ -1,0 +1,102 @@
+{
+ "key": "HB 313",
+ "slug": "hb313",
+ "session": "2025_26",
+ "legislation_id": 70024,
+ "page": "https://www.legis.ga.gov/legislation/70024",
+ "document_type": "HB",
+ "number": 313,
+ "legislation_type": "GEN",
+ "caption": "Education; authorize and require all public elementary and secondary schools to display the Ten Commandments in multiple locations",
+ "summary": "A BILL to be entitled an Act to amend Article 19A of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to American history recognition and significant documents, so as to authorize and require all public elementary and secondary schools in this state to display the Ten Commandments in multiple locations; to provide for specifications for such displays; to provide legislative findings and intent; to make conforming changes; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:01:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231620,
+   "label": "LC 49 2023/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231620"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:47+00:00",
+  "version:231620": "2026-11-20T18:31:47+00:00",
+  "status:40": "2026-11-20T18:31:47+00:00",
+  "status:33": "2026-11-20T18:31:47+00:00",
+  "status:34": "2026-11-20T18:31:47+00:00"
+ },
+ "updated": "2026-11-20T18:31:47+00:00"
+}

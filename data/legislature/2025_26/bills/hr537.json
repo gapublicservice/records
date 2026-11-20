@@ -1,0 +1,89 @@
+{
+ "key": "HR 537",
+ "slug": "hr537",
+ "session": "2025_26",
+ "legislation_id": 71228,
+ "page": "https://www.legis.ga.gov/legislation/71228",
+ "document_type": "HR",
+ "number": 537,
+ "legislation_type": "PRIV",
+ "caption": "Kim, Dr. Jung Ha; Community Resource Corporation; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Jung Ha Kim and the Community Resource Corporation; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T16:48:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T17:29:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T17:29:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235541,
+   "label": "LC 112 3307/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235541"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:46+00:00",
+  "version:235541": "2026-11-20T19:42:46+00:00",
+  "status:40": "2026-11-20T19:42:46+00:00",
+  "status:33": "2026-11-20T19:42:46+00:00",
+  "status:48": "2026-11-20T19:42:46+00:00"
+ },
+ "updated": "2026-11-20T19:42:46+00:00"
+}

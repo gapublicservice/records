@@ -1,0 +1,67 @@
+{
+ "key": "HB 93",
+ "slug": "hb93",
+ "session": "2025_26",
+ "legislation_id": 69432,
+ "page": "https://www.legis.ga.gov/legislation/69432",
+ "document_type": "HB",
+ "number": 93,
+ "legislation_type": "GEN",
+ "caption": "Tallapoosa Judicial Circuit; superior courts; provide additional judge",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-6-2 of the O.C.G.A., relating to the number of judges of superior courts, so as to provide for an additional judge of the superior courts of the Tallapoosa Judicial Circuit; to provide for related matters; to provide for effective dates; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T12:55:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230099,
+   "label": "LC 44 2916/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230099"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:20:36+00:00",
+  "version:230099": "2026-11-20T18:20:36+00:00",
+  "status:40": "2026-11-20T18:20:36+00:00",
+  "status:33": "2026-11-20T18:20:36+00:00",
+  "status:34": "2026-11-20T18:20:36+00:00"
+ },
+ "updated": "2026-11-20T18:20:36+00:00"
+}

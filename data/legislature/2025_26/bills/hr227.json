@@ -1,0 +1,89 @@
+{
+ "key": "HR 227",
+ "slug": "hr227",
+ "session": "2025_26",
+ "legislation_id": 70212,
+ "page": "https://www.legis.ga.gov/legislation/70212",
+ "document_type": "HR",
+ "number": 227,
+ "legislation_type": "PRIV",
+ "caption": "Gavalis; Joseph; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Joseph Gavalis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:55:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232104,
+   "label": "LC 112 2933/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232104"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:54+00:00",
+  "version:232104": "2026-11-20T19:35:54+00:00",
+  "status:40": "2026-11-20T19:35:54+00:00",
+  "status:33": "2026-11-20T19:35:54+00:00",
+  "status:48": "2026-11-20T19:35:54+00:00"
+ },
+ "updated": "2026-11-20T19:35:54+00:00"
+}

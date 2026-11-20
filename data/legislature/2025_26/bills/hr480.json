@@ -1,0 +1,67 @@
+{
+ "key": "HR 480",
+ "slug": "hr480",
+ "session": "2025_26",
+ "legislation_id": 71129,
+ "page": "https://www.legis.ga.gov/legislation/71129",
+ "document_type": "HR",
+ "number": 480,
+ "legislation_type": "GEN",
+ "caption": "World War II Veteran Bobby Blackwell Memorial Drive; Banks County; dedicate",
+ "summary": "A RESOLUTION honoring the life of World War II Veteran Bobby Blackwell and dedicating a road in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T12:32:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T10:44:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-10T13:15:27",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235104,
+   "label": "LC 39 4718/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235104"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:31+00:00",
+  "version:235104": "2026-11-20T19:41:31+00:00",
+  "status:40": "2026-11-20T19:41:31+00:00",
+  "status:33": "2026-11-20T19:41:31+00:00",
+  "status:34": "2026-11-20T19:41:31+00:00"
+ },
+ "updated": "2026-11-20T19:41:31+00:00"
+}

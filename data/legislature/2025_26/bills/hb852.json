@@ -1,0 +1,121 @@
+{
+ "key": "HB 852",
+ "slug": "hb852",
+ "session": "2025_26",
+ "legislation_id": 71654,
+ "page": "https://www.legis.ga.gov/legislation/71654",
+ "document_type": "HB",
+ "number": 852,
+ "legislation_type": "LOC",
+ "caption": "Athens-Clarke County; Board of Elections and Registration; reconstitute and reestablish",
+ "summary": "A BILL to be entitled an Act to reconstitute and reestablish the Athens-Clarke County Board of Elections and Registration; to provide for the powers and duties of the board; to provide for the appointment, removal, terms of office, and compensation of its members; to provide for definitions; to provide for related matters; to provide for a contingent effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T13:00:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T13:43:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T10:11:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-31T10:16:09",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-31T11:06:31",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-03-31T13:40:07",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-03-31T16:26:01",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238262,
+   "label": "LC 47 3706S/hs",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238262"
+  },
+  {
+   "doc_id": 237285,
+   "label": "LC 47 3685/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237285"
+  },
+  {
+   "doc_id": 237371,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237371"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:57:02+00:00",
+  "version:238262": "2026-11-20T18:57:02+00:00",
+  "version:237285": "2026-11-20T18:57:02+00:00",
+  "version:237371": "2026-11-20T18:57:02+00:00",
+  "status:40": "2026-11-20T18:57:02+00:00",
+  "status:33": "2026-11-20T18:57:02+00:00",
+  "status:34": "2026-11-20T18:57:02+00:00",
+  "status:39": "2026-11-20T18:57:02+00:00",
+  "status:50": "2026-11-20T18:57:02+00:00"
+ },
+ "updated": "2026-11-20T18:57:02+00:00"
+}

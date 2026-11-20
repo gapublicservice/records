@@ -1,0 +1,88 @@
+{
+ "key": "HR 1579",
+ "slug": "hr1579",
+ "session": "2025_26",
+ "legislation_id": 73859,
+ "page": "https://www.legis.ga.gov/legislation/73859",
+ "document_type": "HR",
+ "number": 1579,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Hospital/Homebound (HHB) Services and Medically Fragile Student Attendance; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Hospital/Homebound (HHB) Services and Medically Fragile Student Attendance; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:25:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244879,
+   "label": "LC 49 2714/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244879"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:35+00:00",
+  "version:244879": "2026-11-20T20:06:35+00:00",
+  "status:40": "2026-11-20T20:06:35+00:00",
+  "status:33": "2026-11-20T20:06:35+00:00",
+  "status:34": "2026-11-20T20:06:35+00:00"
+ },
+ "updated": "2026-11-20T20:06:35+00:00"
+}

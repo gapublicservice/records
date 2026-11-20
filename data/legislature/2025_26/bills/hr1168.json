@@ -1,0 +1,89 @@
+{
+ "key": "HR 1168",
+ "slug": "hr1168",
+ "session": "2025_26",
+ "legislation_id": 72655,
+ "page": "https://www.legis.ga.gov/legislation/72655",
+ "document_type": "HR",
+ "number": 1168,
+ "legislation_type": "PRIV",
+ "caption": "Sermons, Evelyn; retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Evelyn Sermons upon her retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:46:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240983,
+   "label": "LC 129 0632/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240983"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:03+00:00",
+  "version:240983": "2026-11-20T19:57:03+00:00",
+  "status:40": "2026-11-20T19:57:03+00:00",
+  "status:33": "2026-11-20T19:57:03+00:00",
+  "status:48": "2026-11-20T19:57:03+00:00"
+ },
+ "updated": "2026-11-20T19:57:03+00:00"
+}

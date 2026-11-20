@@ -1,0 +1,88 @@
+{
+ "key": "SR 378",
+ "slug": "sr378",
+ "session": "2025_26",
+ "legislation_id": 71289,
+ "page": "https://www.legis.ga.gov/legislation/71289",
+ "document_type": "SR",
+ "number": 378,
+ "legislation_type": "GEN",
+ "caption": "Jeff Foxworthy Highway; Fulton County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Jeff Foxworthy and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-11T10:25:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T10:08:28",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235834,
+   "label": "As introduced LC 39 4723",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235834"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:58:57+00:00",
+  "version:235834": "2026-11-20T20:58:57+00:00",
+  "status:67": "2026-11-20T20:58:57+00:00",
+  "status:3": "2026-11-20T20:58:57+00:00"
+ },
+ "updated": "2026-11-20T20:58:57+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1291",
+ "slug": "hr1291",
+ "session": "2025_26",
+ "legislation_id": 73041,
+ "page": "https://www.legis.ga.gov/legislation/73041",
+ "document_type": "HR",
+ "number": 1291,
+ "legislation_type": "PRIV",
+ "caption": "Pethel, Eden; commend",
+ "summary": "A RESOLUTION recognizing Eden Pethel; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:04:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T13:20:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T13:20:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242077,
+   "label": "LC 129 0843/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242077"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:49+00:00",
+  "version:242077": "2026-11-20T19:59:49+00:00",
+  "status:40": "2026-11-20T19:59:49+00:00",
+  "status:33": "2026-11-20T19:59:49+00:00",
+  "status:48": "2026-11-20T19:59:49+00:00"
+ },
+ "updated": "2026-11-20T19:59:49+00:00"
+}

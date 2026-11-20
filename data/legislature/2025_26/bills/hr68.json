@@ -1,0 +1,95 @@
+{
+ "key": "HR 68",
+ "slug": "hr68",
+ "session": "2025_26",
+ "legislation_id": 69541,
+ "page": "https://www.legis.ga.gov/legislation/69541",
+ "document_type": "HR",
+ "number": 68,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education and Full-Time Equivalent funding formulas; support revision",
+ "summary": "A RESOLUTION supporting the revision of the Quality Basic Education and Full-Time Equivalent funding formulas; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:30:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230392,
+   "label": "LC 112 2754/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230392"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:15+00:00",
+  "version:230392": "2026-11-20T19:32:15+00:00",
+  "status:40": "2026-11-20T19:32:15+00:00",
+  "status:33": "2026-11-20T19:32:15+00:00",
+  "status:34": "2026-11-20T19:32:15+00:00"
+ },
+ "updated": "2026-11-20T19:32:15+00:00"
+}

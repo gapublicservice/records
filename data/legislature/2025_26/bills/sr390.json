@@ -1,0 +1,60 @@
+{
+ "key": "SR 390",
+ "slug": "sr390",
+ "session": "2025_26",
+ "legislation_id": 71338,
+ "page": "https://www.legis.ga.gov/legislation/71338",
+ "document_type": "SR",
+ "number": 390,
+ "legislation_type": "PRIV",
+ "caption": "Walker, Carlos Rico; recognize",
+ "summary": "A RESOLUTION recognizing and commending Carlos Rico Walker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Economic Development and Tourism",
+   "id": 165
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-12T13:35:00",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T10:09:08",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235993,
+   "label": "Read and adopted LC 129 0341",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235993"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:14+00:00",
+  "version:235993": "2026-11-20T20:59:14+00:00",
+  "status:67": "2026-11-20T20:59:14+00:00",
+  "status:3": "2026-11-20T20:59:14+00:00"
+ },
+ "updated": "2026-11-20T20:59:14+00:00"
+}

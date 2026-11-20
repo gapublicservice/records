@@ -1,0 +1,89 @@
+{
+ "key": "HR 127",
+ "slug": "hr127",
+ "session": "2025_26",
+ "legislation_id": 69746,
+ "page": "https://www.legis.ga.gov/legislation/69746",
+ "document_type": "HR",
+ "number": 127,
+ "legislation_type": "PRIV",
+ "caption": "Physician Anesthesiologists Week at the state capitol; 01/26 to 02/01/25; recognize",
+ "summary": "A RESOLUTION recognizing January 26 to February 1, 2025, as Physician Anesthesiologists Week at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:37:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T11:51:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T11:51:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230847,
+   "label": "LC 112 2772/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230847"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:43+00:00",
+  "version:230847": "2026-11-20T19:33:43+00:00",
+  "status:40": "2026-11-20T19:33:43+00:00",
+  "status:33": "2026-11-20T19:33:43+00:00",
+  "status:48": "2026-11-20T19:33:43+00:00"
+ },
+ "updated": "2026-11-20T19:33:43+00:00"
+}

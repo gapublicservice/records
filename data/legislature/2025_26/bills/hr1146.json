@@ -1,0 +1,96 @@
+{
+ "key": "HR 1146",
+ "slug": "hr1146",
+ "session": "2025_26",
+ "legislation_id": 72566,
+ "page": "https://www.legis.ga.gov/legislation/72566",
+ "document_type": "HR",
+ "number": 1146,
+ "legislation_type": "PRIV",
+ "caption": "The BoykinZ; commend",
+ "summary": "A RESOLUTION recognizing and commending The BoykinZ; and for other purposes",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:47:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:54:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:54:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240702,
+   "label": "LC 129 0697/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240702"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:35+00:00",
+  "version:240702": "2026-11-20T19:56:35+00:00",
+  "status:40": "2026-11-20T19:56:35+00:00",
+  "status:33": "2026-11-20T19:56:35+00:00",
+  "status:48": "2026-11-20T19:56:35+00:00"
+ },
+ "updated": "2026-11-20T19:56:35+00:00"
+}

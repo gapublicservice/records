@@ -1,0 +1,96 @@
+{
+ "key": "HR 1133",
+ "slug": "hr1133",
+ "session": "2025_26",
+ "legislation_id": 72553,
+ "page": "https://www.legis.ga.gov/legislation/72553",
+ "document_type": "HR",
+ "number": 1133,
+ "legislation_type": "PRIV",
+ "caption": "United States Postal Service; 250th anniversary; reaffirming support for its continued public service to the American people; recognize",
+ "summary": "A RESOLUTION celebrating the 250th anniversary of the United States Postal Service and reaffirming support for its continued public service to the American people; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:42:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240727,
+   "label": "LC 112 3688/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240727"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:18+00:00",
+  "version:240727": "2026-11-20T19:56:18+00:00",
+  "status:40": "2026-11-20T19:56:18+00:00",
+  "status:33": "2026-11-20T19:56:18+00:00",
+  "status:48": "2026-11-20T19:56:18+00:00"
+ },
+ "updated": "2026-11-20T19:56:18+00:00"
+}

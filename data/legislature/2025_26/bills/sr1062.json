@@ -1,0 +1,103 @@
+{
+ "key": "SR 1062",
+ "slug": "sr1062",
+ "session": "2025_26",
+ "legislation_id": 74516,
+ "page": "https://www.legis.ga.gov/legislation/74516",
+ "document_type": "SR",
+ "number": 1062,
+ "legislation_type": "PRIV",
+ "caption": "Eck, Fallon Georgeanna; celebrate the birth",
+ "summary": "A RESOLUTION celebrating the birth of Fallon Georgeanna Eck; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5093,
+   "name": "McNeel, Steven 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T13:32:13",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-31T11:07:13",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247862,
+   "label": "Read and adopted LC 112 4092",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247862"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:59+00:00",
+  "version:247862": "2026-11-20T21:14:59+00:00",
+  "status:67": "2026-11-20T21:14:59+00:00",
+  "status:66": "2026-11-20T21:14:59+00:00"
+ },
+ "updated": "2026-11-20T21:14:59+00:00"
+}

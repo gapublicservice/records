@@ -1,0 +1,61 @@
+{
+ "key": "HR 2039",
+ "slug": "hr2039",
+ "session": "2025_26",
+ "legislation_id": 74659,
+ "page": "https://www.legis.ga.gov/legislation/74659",
+ "document_type": "HR",
+ "number": 2039,
+ "legislation_type": "PRIV",
+ "caption": "Ellis, Jelinda W.; commend",
+ "summary": "A RESOLUTION commending Jelinda W. Ellis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:22:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248408,
+   "label": "LC 112 4186/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248408"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:43+00:00",
+  "version:248408": "2026-11-20T20:16:43+00:00",
+  "status:40": "2026-11-20T20:16:43+00:00",
+  "status:33": "2026-11-20T20:16:43+00:00",
+  "status:48": "2026-11-20T20:16:43+00:00"
+ },
+ "updated": "2026-11-20T20:16:43+00:00"
+}

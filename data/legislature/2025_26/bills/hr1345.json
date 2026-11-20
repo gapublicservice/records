@@ -1,0 +1,68 @@
+{
+ "key": "HR 1345",
+ "slug": "hr1345",
+ "session": "2025_26",
+ "legislation_id": 73159,
+ "page": "https://www.legis.ga.gov/legislation/73159",
+ "document_type": "HR",
+ "number": 1345,
+ "legislation_type": "PRIV",
+ "caption": "Boynton, Nicole; commend",
+ "summary": "A RESOLUTION recognizing Nicole Boynton; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:49:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242426,
+   "label": "LC 129 1062/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242426"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:22+00:00",
+  "version:242426": "2026-11-20T20:01:22+00:00",
+  "status:40": "2026-11-20T20:01:22+00:00",
+  "status:33": "2026-11-20T20:01:22+00:00",
+  "status:48": "2026-11-20T20:01:22+00:00"
+ },
+ "updated": "2026-11-20T20:01:22+00:00"
+}

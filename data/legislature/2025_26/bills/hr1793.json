@@ -1,0 +1,102 @@
+{
+ "key": "HR 1793",
+ "slug": "hr1793",
+ "session": "2025_26",
+ "legislation_id": 74272,
+ "page": "https://www.legis.ga.gov/legislation/74272",
+ "document_type": "HR",
+ "number": 1793,
+ "legislation_type": "NP",
+ "caption": "Georgia Department of Natural Resources; establish regulations for placement of lifeguards on Georgia's public beaches during times of high occupancy; urge",
+ "summary": "A RESOLUTION urging the Georgia Department of Natural Resources to establish regulations for placement of lifeguards on Georgia's public beaches during times of high occupancy; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Economic Development & Tourism",
+   "id": 144
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-19T12:46:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T10:26:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T11:34:03",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-23T10:08:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246656,
+   "label": "LC 64 0106/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246656"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:12+00:00",
+  "version:246656": "2026-11-20T20:11:12+00:00",
+  "status:40": "2026-11-20T20:11:12+00:00",
+  "status:33": "2026-11-20T20:11:12+00:00",
+  "status:50": "2026-11-20T20:11:12+00:00",
+  "status:34": "2026-11-20T20:11:12+00:00"
+ },
+ "updated": "2026-11-20T20:11:12+00:00"
+}

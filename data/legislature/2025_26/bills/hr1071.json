@@ -1,0 +1,61 @@
+{
+ "key": "HR 1071",
+ "slug": "hr1071",
+ "session": "2025_26",
+ "legislation_id": 72420,
+ "page": "https://www.legis.ga.gov/legislation/72420",
+ "document_type": "HR",
+ "number": 1071,
+ "legislation_type": "PRIV",
+ "caption": "Harris, Dr. Twiggy L., MD; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Twiggy L. Harris, MD; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:19:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240361,
+   "label": "LC 129 0693/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240361"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:57+00:00",
+  "version:240361": "2026-11-20T19:54:57+00:00",
+  "status:40": "2026-11-20T19:54:57+00:00",
+  "status:33": "2026-11-20T19:54:57+00:00",
+  "status:48": "2026-11-20T19:54:57+00:00"
+ },
+ "updated": "2026-11-20T19:54:57+00:00"
+}

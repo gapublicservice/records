@@ -1,0 +1,102 @@
+{
+ "key": "HB 95",
+ "slug": "hb95",
+ "session": "2025_26",
+ "legislation_id": 69448,
+ "page": "https://www.legis.ga.gov/legislation/69448",
+ "document_type": "HB",
+ "number": 95,
+ "legislation_type": "GEN",
+ "caption": "Income tax; credit equal to 20 percent of the federal earned income tax credit; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to provide for an income tax credit equal to 20 percent of the federal earned income tax credit; to provide for rules and regulations; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-17T10:58:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T10:32:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T10:43:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230186,
+   "label": "LC 59 0046/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230186"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:20:42+00:00",
+  "version:230186": "2026-11-20T18:20:42+00:00",
+  "status:40": "2026-11-20T18:20:42+00:00",
+  "status:33": "2026-11-20T18:20:42+00:00",
+  "status:34": "2026-11-20T18:20:42+00:00"
+ },
+ "updated": "2026-11-20T18:20:42+00:00"
+}

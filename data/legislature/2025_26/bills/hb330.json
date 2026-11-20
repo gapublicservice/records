@@ -1,0 +1,116 @@
+{
+ "key": "HB 330",
+ "slug": "hb330",
+ "session": "2025_26",
+ "legislation_id": 70059,
+ "page": "https://www.legis.ga.gov/legislation/70059",
+ "document_type": "HB",
+ "number": 330,
+ "legislation_type": "GEN",
+ "caption": "Income tax; credits for contributions to law enforcement foundations; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to revise provisions for income tax credits for contributions to law enforcement foundations; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:44:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235298,
+   "label": "LC 50 1198S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235298"
+  },
+  {
+   "doc_id": 231679,
+   "label": "LC 39 4582/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231679"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:32:37+00:00",
+  "version:235298": "2026-11-20T18:32:37+00:00",
+  "version:231679": "2026-11-20T18:32:37+00:00",
+  "status:40": "2026-11-20T18:32:37+00:00",
+  "status:33": "2026-11-20T18:32:37+00:00",
+  "status:34": "2026-11-20T18:32:37+00:00",
+  "status:39": "2026-11-20T18:32:37+00:00",
+  "status:50": "2026-11-20T18:32:37+00:00"
+ },
+ "updated": "2026-11-20T18:32:37+00:00"
+}

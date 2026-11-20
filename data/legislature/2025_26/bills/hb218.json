@@ -1,0 +1,109 @@
+{
+ "key": "HB 218",
+ "slug": "hb218",
+ "session": "2025_26",
+ "legislation_id": 69764,
+ "page": "https://www.legis.ga.gov/legislation/69764",
+ "document_type": "HB",
+ "number": 218,
+ "legislation_type": "GEN",
+ "caption": "Health; lower the age from 50 to 18 years old at which hospitals shall offer inpatient vaccinations for the influenza virus prior to discharge",
+ "summary": "A BILL to be entitled an Act to amend Code Section 31-7-18 of the Official Code of Georgia Annotated, relating to vaccinations for influenza and pneumococcal disease for certain discharged patients, vaccinations or other measures for health care workers and other employees in hospitals, immunity from liability, and standing orders, so as to lower the age from 50 to 18 years old at which hospitals shall offer inpatient vaccinations for the influenza virus prior to discharge; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-03T10:59:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T10:44:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T09:56:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-11T10:07:06",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230917,
+   "label": "LC 46 1009/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230917"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:55+00:00",
+  "version:230917": "2026-11-20T18:26:55+00:00",
+  "status:40": "2026-11-20T18:26:55+00:00",
+  "status:33": "2026-11-20T18:26:55+00:00",
+  "status:34": "2026-11-20T18:26:55+00:00",
+  "status:39": "2026-11-20T18:26:55+00:00",
+  "status:50": "2026-11-20T18:26:55+00:00"
+ },
+ "updated": "2026-11-20T18:26:55+00:00"
+}

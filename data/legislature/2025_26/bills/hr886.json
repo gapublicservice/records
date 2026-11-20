@@ -1,0 +1,67 @@
+{
+ "key": "HR 886",
+ "slug": "hr886",
+ "session": "2025_26",
+ "legislation_id": 71944,
+ "page": "https://www.legis.ga.gov/legislation/71944",
+ "document_type": "HR",
+ "number": 886,
+ "legislation_type": "GEN",
+ "caption": "Rachel Hodge Memorial Intersection; Camden County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Ms. Rachel Hodge and dedicating an intersection in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T18:48:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T19:02:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T10:27:55",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238455,
+   "label": "LC 39 4806/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238455"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:42+00:00",
+  "version:238455": "2026-11-20T19:50:42+00:00",
+  "status:40": "2026-11-20T19:50:42+00:00",
+  "status:33": "2026-11-20T19:50:42+00:00",
+  "status:34": "2026-11-20T19:50:42+00:00"
+ },
+ "updated": "2026-11-20T19:50:42+00:00"
+}

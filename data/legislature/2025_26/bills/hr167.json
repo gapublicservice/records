@@ -1,0 +1,89 @@
+{
+ "key": "HR 167",
+ "slug": "hr167",
+ "session": "2025_26",
+ "legislation_id": 69914,
+ "page": "https://www.legis.ga.gov/legislation/69914",
+ "document_type": "HR",
+ "number": 167,
+ "legislation_type": "PRIV",
+ "caption": "Alzheimer's Awareness Day in Georgia; February 6, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 6, 2025, as Alzheimer's Awareness Day in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:04:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231284,
+   "label": "LC 112 2846/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231284"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:37+00:00",
+  "version:231284": "2026-11-20T19:34:37+00:00",
+  "status:40": "2026-11-20T19:34:37+00:00",
+  "status:33": "2026-11-20T19:34:37+00:00",
+  "status:48": "2026-11-20T19:34:37+00:00"
+ },
+ "updated": "2026-11-20T19:34:37+00:00"
+}

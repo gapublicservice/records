@@ -1,0 +1,75 @@
+{
+ "key": "HR 876",
+ "slug": "hr876",
+ "session": "2025_26",
+ "legislation_id": 71909,
+ "page": "https://www.legis.ga.gov/legislation/71909",
+ "document_type": "HR",
+ "number": 876,
+ "legislation_type": "PRIV",
+ "caption": "American History Month; July 2025; recognize",
+ "summary": "A RESOLUTION recognizing July 2025 as American History Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:13:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T14:42:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T14:42:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238337,
+   "label": "LC 112 3596/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238337"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:28+00:00",
+  "version:238337": "2026-11-20T19:50:28+00:00",
+  "status:40": "2026-11-20T19:50:28+00:00",
+  "status:33": "2026-11-20T19:50:28+00:00",
+  "status:48": "2026-11-20T19:50:28+00:00"
+ },
+ "updated": "2026-11-20T19:50:28+00:00"
+}

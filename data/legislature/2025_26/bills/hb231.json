@@ -1,0 +1,81 @@
+{
+ "key": "HB 231",
+ "slug": "hb231",
+ "session": "2025_26",
+ "legislation_id": 69836,
+ "page": "https://www.legis.ga.gov/legislation/69836",
+ "document_type": "HB",
+ "number": 231,
+ "legislation_type": "GEN",
+ "caption": "Insurance; coverage of complementary and alternative therapies under certain conditions; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance generally, so as to provide for insurance coverage of complementary and alternative therapies under certain conditions; to provide for insurance coverage of such therapies when provided by a licensed physician, acupuncturist, chiropractor, or massage therapist; to provide for an optional endorsement to cover such therapies provided by a qualified herbalist, homeopath, or naturopath when ordered by a licensed physician; to provide for rules and regulations; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T10:58:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231131,
+   "label": "LC 52 0641/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231131"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:27:36+00:00",
+  "version:231131": "2026-11-20T18:27:36+00:00",
+  "status:40": "2026-11-20T18:27:36+00:00",
+  "status:33": "2026-11-20T18:27:36+00:00",
+  "status:34": "2026-11-20T18:27:36+00:00"
+ },
+ "updated": "2026-11-20T18:27:36+00:00"
+}

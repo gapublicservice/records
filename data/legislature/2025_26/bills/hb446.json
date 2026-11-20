@@ -1,0 +1,105 @@
+{
+ "key": "HB 446",
+ "slug": "hb446",
+ "session": "2025_26",
+ "legislation_id": 70318,
+ "page": "https://www.legis.ga.gov/legislation/70318",
+ "document_type": "HB",
+ "number": 446,
+ "legislation_type": "GEN",
+ "caption": "Public Service Commission; discovery rights in proceedings; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 2 of Title 46 of the Official Code of Georgia Annotated, relating to investigations and hearings of the Public Service Commission, so as to revise provisions concerning discovery rights in proceedings before the Public Service Commission; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T10:39:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T13:44:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T10:16:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232415,
+   "label": "LC 55 0444/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232415"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "psc"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:38:16+00:00",
+  "version:232415": "2026-11-20T18:38:16+00:00",
+  "status:40": "2026-11-20T18:38:16+00:00",
+  "status:33": "2026-11-20T18:38:16+00:00",
+  "status:34": "2026-11-20T18:38:16+00:00"
+ },
+ "updated": "2026-11-20T18:38:16+00:00"
+}

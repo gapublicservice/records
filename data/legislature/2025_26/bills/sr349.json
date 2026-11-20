@@ -1,0 +1,60 @@
+{
+ "key": "SR 349",
+ "slug": "sr349",
+ "session": "2025_26",
+ "legislation_id": 71162,
+ "page": "https://www.legis.ga.gov/legislation/71162",
+ "document_type": "SR",
+ "number": 349,
+ "legislation_type": "GEN",
+ "caption": "Mary Kay Tucker Memorial Highway; Chattooga County; dedicate",
+ "summary": "A RESOLUTION honoring the life and memory of Mrs. Mary Kay Tucker and dedicating a road in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T15:05:09",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-06T10:28:13",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235191,
+   "label": "As introduced LC 39 4612",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235191"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:58:20+00:00",
+  "version:235191": "2026-11-20T20:58:20+00:00",
+  "status:67": "2026-11-20T20:58:20+00:00",
+  "status:3": "2026-11-20T20:58:20+00:00"
+ },
+ "updated": "2026-11-20T20:58:20+00:00"
+}

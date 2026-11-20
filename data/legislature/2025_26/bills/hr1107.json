@@ -1,0 +1,67 @@
+{
+ "key": "HR 1107",
+ "slug": "hr1107",
+ "session": "2025_26",
+ "legislation_id": 72492,
+ "page": "https://www.legis.ga.gov/legislation/72492",
+ "document_type": "HR",
+ "number": 1107,
+ "legislation_type": "NP",
+ "caption": "Family Restoration and Re-Entry Program; recognize and support",
+ "summary": "A RESOLUTION recognizing and supporting the Family Restoration and Re-Entry Program as a comprehensive framework for restoring families and communities; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:23:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240593,
+   "label": "LC 125 0592/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240593"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:42+00:00",
+  "version:240593": "2026-11-20T19:55:42+00:00",
+  "status:40": "2026-11-20T19:55:42+00:00",
+  "status:33": "2026-11-20T19:55:42+00:00",
+  "status:34": "2026-11-20T19:55:42+00:00"
+ },
+ "updated": "2026-11-20T19:55:42+00:00"
+}

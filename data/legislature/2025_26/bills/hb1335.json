@@ -1,0 +1,102 @@
+{
+ "key": "HB 1335",
+ "slug": "hb1335",
+ "session": "2025_26",
+ "legislation_id": 73272,
+ "page": "https://www.legis.ga.gov/legislation/73272",
+ "document_type": "HB",
+ "number": 1335,
+ "legislation_type": "GEN",
+ "caption": "Emergency management; certain longshoremen and related maritime, port, warehouse, and logistics workers to be considered essential workers; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to emergency management, so as to provide for certain longshoremen and related maritime, port, warehouse, and logistics workers to be considered essential workers; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:10:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242821,
+   "label": "LC 52 1009/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242821"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:30+00:00",
+  "version:242821": "2026-11-20T19:19:30+00:00",
+  "status:40": "2026-11-20T19:19:30+00:00",
+  "status:33": "2026-11-20T19:19:30+00:00",
+  "status:34": "2026-11-20T19:19:30+00:00"
+ },
+ "updated": "2026-11-20T19:19:30+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 912",
+ "slug": "hb912",
+ "session": "2025_26",
+ "legislation_id": 71999,
+ "page": "https://www.legis.ga.gov/legislation/71999",
+ "document_type": "HB",
+ "number": 912,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education Act; $500,000.00 in matching grants for purpose of providing home reading programs for students in kindergarten through fourth grade; provisions",
+ "summary": "A BILL to be entitled an Act to amend Part 9 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to grants for educational programs under the \"Quality Basic Education Act,\" so as to provide for up to $500,000.00 in matching grants by the State Board of Education to local units of administration for the purpose of providing home reading programs for students in kindergarten through fourth grade; to authorize the State Board of Education to receive and administer federal funds for such grants; to provide for eligibility; to require the State Board of Education to develop rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T15:58:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238818,
+   "label": "LC 60 0169/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238818"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:32+00:00",
+  "version:238818": "2026-11-20T19:01:32+00:00",
+  "status:40": "2026-11-20T19:01:32+00:00",
+  "status:33": "2026-11-20T19:01:32+00:00",
+  "status:34": "2026-11-20T19:01:32+00:00"
+ },
+ "updated": "2026-11-20T19:01:32+00:00"
+}

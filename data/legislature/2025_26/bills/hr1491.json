@@ -1,0 +1,89 @@
+{
+ "key": "HR 1491",
+ "slug": "hr1491",
+ "session": "2025_26",
+ "legislation_id": 73681,
+ "page": "https://www.legis.ga.gov/legislation/73681",
+ "document_type": "HR",
+ "number": 1491,
+ "legislation_type": "PRIV",
+ "caption": "Elaine Clark Center; commend",
+ "summary": "A RESOLUTION recognizing and commending the Elaine Clark Center; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T14:59:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T16:24:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T16:24:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244164,
+   "label": "LC 129 1231/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244164"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:42+00:00",
+  "version:244164": "2026-11-20T20:04:42+00:00",
+  "status:40": "2026-11-20T20:04:42+00:00",
+  "status:33": "2026-11-20T20:04:42+00:00",
+  "status:48": "2026-11-20T20:04:42+00:00"
+ },
+ "updated": "2026-11-20T20:04:42+00:00"
+}

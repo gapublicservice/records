@@ -1,0 +1,82 @@
+{
+ "key": "HR 709",
+ "slug": "hr709",
+ "session": "2025_26",
+ "legislation_id": 71595,
+ "page": "https://www.legis.ga.gov/legislation/71595",
+ "document_type": "HR",
+ "number": 709,
+ "legislation_type": "PRIV",
+ "caption": "Bridges, Kenneth Rogers; commend",
+ "summary": "A RESOLUTION recognizing and commending Kenneth Rogers Bridges; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-21T12:55:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T13:30:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T13:30:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236969,
+   "label": "LC 112 3463/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236969"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:47+00:00",
+  "version:236969": "2026-11-20T19:46:47+00:00",
+  "status:40": "2026-11-20T19:46:47+00:00",
+  "status:33": "2026-11-20T19:46:47+00:00",
+  "status:48": "2026-11-20T19:46:47+00:00"
+ },
+ "updated": "2026-11-20T19:46:47+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1",
+ "slug": "hr1",
+ "session": "2025_26",
+ "legislation_id": 69262,
+ "page": "https://www.legis.ga.gov/legislation/69262",
+ "document_type": "HR",
+ "number": 1,
+ "legislation_type": "NP",
+ "caption": "House of Representatives convened; notify Senate",
+ "summary": "A RESOLUTION to notify the Senate that the House of Representatives has convened; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-09T14:47:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-13T11:51:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-13T11:51:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229698,
+   "label": "LC 33 9472/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229698"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:23+00:00",
+  "version:229698": "2026-11-20T19:30:23+00:00",
+  "status:40": "2026-11-20T19:30:23+00:00",
+  "status:33": "2026-11-20T19:30:23+00:00",
+  "status:48": "2026-11-20T19:30:23+00:00"
+ },
+ "updated": "2026-11-20T19:30:23+00:00"
+}

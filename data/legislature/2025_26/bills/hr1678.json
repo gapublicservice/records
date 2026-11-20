@@ -1,0 +1,75 @@
+{
+ "key": "HR 1678",
+ "slug": "hr1678",
+ "session": "2025_26",
+ "legislation_id": 74060,
+ "page": "https://www.legis.ga.gov/legislation/74060",
+ "document_type": "HR",
+ "number": 1678,
+ "legislation_type": "PRIV",
+ "caption": "Gilbert, Brother LaDray Brandan, J.D.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Brother LaDray Brandan Gilbert, J.D.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:41:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:15:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245831,
+   "label": "LC 112 3916/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245831"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:44+00:00",
+  "version:245831": "2026-11-20T20:08:44+00:00",
+  "status:40": "2026-11-20T20:08:44+00:00",
+  "status:33": "2026-11-20T20:08:44+00:00",
+  "status:48": "2026-11-20T20:08:44+00:00"
+ },
+ "updated": "2026-11-20T20:08:44+00:00"
+}

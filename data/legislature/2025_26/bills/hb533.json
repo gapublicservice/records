@@ -1,0 +1,123 @@
+{
+ "key": "HB 533",
+ "slug": "hb533",
+ "session": "2025_26",
+ "legislation_id": 70516,
+ "page": "https://www.legis.ga.gov/legislation/70516",
+ "document_type": "HB",
+ "number": 533,
+ "legislation_type": "GEN",
+ "caption": "Wrongful Conviction Compensation Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 17 and 28 of the Official Code of Georgia Annotated, relating to criminal procedure and General Assembly, respectively, so as to allow for wrongful conviction compensation claims; to provide for a short title; to provide for notice of claims; to require administrative law judges within the Office of State Administrative Hearings to hear and evaluate such claims; to provide for the burden of proof and evidence to be considered by an administrative law judge; to require the Supreme Court of Georgia and the State Board of Pardons and Paroles to provide certain individuals with a copy of this Act; to provide for definitions; to exclude wrongful conviction compensation claims from the purview of the Claims Advisory Board; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:03:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T12:07:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235092,
+   "label": "LC 48 1570S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235092"
+  },
+  {
+   "doc_id": 232975,
+   "label": "LC 60 0088/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232975"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:59+00:00",
+  "version:235092": "2026-11-20T18:41:59+00:00",
+  "version:232975": "2026-11-20T18:41:59+00:00",
+  "status:40": "2026-11-20T18:41:59+00:00",
+  "status:33": "2026-11-20T18:41:59+00:00",
+  "status:34": "2026-11-20T18:41:59+00:00",
+  "status:39": "2026-11-20T18:41:59+00:00",
+  "status:50": "2026-11-20T18:41:59+00:00"
+ },
+ "updated": "2026-11-20T18:41:59+00:00"
+}

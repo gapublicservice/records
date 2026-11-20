@@ -1,0 +1,61 @@
+{
+ "key": "HR 1287",
+ "slug": "hr1287",
+ "session": "2025_26",
+ "legislation_id": 73037,
+ "page": "https://www.legis.ga.gov/legislation/73037",
+ "document_type": "HR",
+ "number": 1287,
+ "legislation_type": "PRIV",
+ "caption": "Moye, T. E., Jr.; commend",
+ "summary": "A RESOLUTION recognizing and commending T.E. Moye, Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:02:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T13:20:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T13:20:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242073,
+   "label": "LC 129 1033/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242073"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:44+00:00",
+  "version:242073": "2026-11-20T19:59:44+00:00",
+  "status:40": "2026-11-20T19:59:44+00:00",
+  "status:33": "2026-11-20T19:59:44+00:00",
+  "status:48": "2026-11-20T19:59:44+00:00"
+ },
+ "updated": "2026-11-20T19:59:44+00:00"
+}

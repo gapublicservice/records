@@ -1,0 +1,88 @@
+{
+ "key": "HB 1370",
+ "slug": "hb1370",
+ "session": "2025_26",
+ "legislation_id": 73351,
+ "page": "https://www.legis.ga.gov/legislation/73351",
+ "document_type": "HB",
+ "number": 1370,
+ "legislation_type": "GEN",
+ "caption": "Income tax; exclude a portion of overtime compensation and cash tips",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits for state income tax, so as to exclude a portion of overtime compensation and cash tips from taxation; to provide for reporting by employers; to provide for rules and regulations; to provide for a definition; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T11:59:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T12:03:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T09:41:06",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245187,
+   "label": "LC 44 3495S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245187"
+  },
+  {
+   "doc_id": 243062,
+   "label": "LC 44 3398/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243062"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:47+00:00",
+  "version:245187": "2026-11-20T19:20:47+00:00",
+  "version:243062": "2026-11-20T19:20:47+00:00",
+  "status:40": "2026-11-20T19:20:47+00:00",
+  "status:33": "2026-11-20T19:20:47+00:00",
+  "status:34": "2026-11-20T19:20:47+00:00",
+  "status:39": "2026-11-20T19:20:47+00:00"
+ },
+ "updated": "2026-11-20T19:20:47+00:00"
+}

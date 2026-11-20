@@ -1,0 +1,89 @@
+{
+ "key": "HR 505",
+ "slug": "hr505",
+ "session": "2025_26",
+ "legislation_id": 71174,
+ "page": "https://www.legis.ga.gov/legislation/71174",
+ "document_type": "HR",
+ "number": 505,
+ "legislation_type": "PRIV",
+ "caption": "Laotian American community in Georgia; honoring Airavata flag; commend",
+ "summary": "A RESOLUTION commending the Laotian American community in Georgia and honoring the Airavata flag; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T19:18:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T19:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T19:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235272,
+   "label": "LC 112 3255/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235272"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:04+00:00",
+  "version:235272": "2026-11-20T19:42:04+00:00",
+  "status:40": "2026-11-20T19:42:04+00:00",
+  "status:33": "2026-11-20T19:42:04+00:00",
+  "status:48": "2026-11-20T19:42:04+00:00"
+ },
+ "updated": "2026-11-20T19:42:04+00:00"
+}

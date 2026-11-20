@@ -1,0 +1,61 @@
+{
+ "key": "HR 924",
+ "slug": "hr924",
+ "session": "2025_26",
+ "legislation_id": 72028,
+ "page": "https://www.legis.ga.gov/legislation/72028",
+ "document_type": "HR",
+ "number": 924,
+ "legislation_type": "PRIV",
+ "caption": "Hunt, Eric; honor",
+ "summary": "A RESOLUTION congratulating and honoring Eric Hunt; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:51:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238967,
+   "label": "LC 112 3633/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238967"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:32+00:00",
+  "version:238967": "2026-11-20T19:51:32+00:00",
+  "status:40": "2026-11-20T19:51:32+00:00",
+  "status:33": "2026-11-20T19:51:32+00:00",
+  "status:48": "2026-11-20T19:51:32+00:00"
+ },
+ "updated": "2026-11-20T19:51:32+00:00"
+}

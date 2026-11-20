@@ -1,0 +1,102 @@
+{
+ "key": "HB 1464",
+ "slug": "hb1464",
+ "session": "2025_26",
+ "legislation_id": 73692,
+ "page": "https://www.legis.ga.gov/legislation/73692",
+ "document_type": "HB",
+ "number": 1464,
+ "legislation_type": "GEN",
+ "caption": "Labor, Department of; review and validate employment status of 1099 tax returns filed by employers on behalf of employees; establish a commission",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 34 of the Official Code of Georgia Annotated, relating to Department of Labor, so as to establish a commission to review and validate the employment status of 1099 tax returns filed by employers on behalf of employees; to provide for the commission to provide available remedies to employees impacted by an invalid filing of such tax returns; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T15:08:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T09:53:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T09:38:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244196,
+   "label": "LC 64 0083/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244196"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:53+00:00",
+  "version:244196": "2026-11-20T19:23:53+00:00",
+  "status:40": "2026-11-20T19:23:53+00:00",
+  "status:33": "2026-11-20T19:23:53+00:00",
+  "status:34": "2026-11-20T19:23:53+00:00"
+ },
+ "updated": "2026-11-20T19:23:53+00:00"
+}

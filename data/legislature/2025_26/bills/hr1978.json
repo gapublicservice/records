@@ -1,0 +1,61 @@
+{
+ "key": "HR 1978",
+ "slug": "hr1978",
+ "session": "2025_26",
+ "legislation_id": 74549,
+ "page": "https://www.legis.ga.gov/legislation/74549",
+ "document_type": "HR",
+ "number": 1978,
+ "legislation_type": "PRIV",
+ "caption": "Jackson-Gordon; Dr. Janet; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Janet Jackson-Gordon; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:00:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247956,
+   "label": "LC 112 4112/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247956"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:09+00:00",
+  "version:247956": "2026-11-20T20:15:09+00:00",
+  "status:40": "2026-11-20T20:15:09+00:00",
+  "status:33": "2026-11-20T20:15:09+00:00",
+  "status:48": "2026-11-20T20:15:09+00:00"
+ },
+ "updated": "2026-11-20T20:15:09+00:00"
+}

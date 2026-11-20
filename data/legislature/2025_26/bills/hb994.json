@@ -1,0 +1,102 @@
+{
+ "key": "HB 994",
+ "slug": "hb994",
+ "session": "2025_26",
+ "legislation_id": 72261,
+ "page": "https://www.legis.ga.gov/legislation/72261",
+ "document_type": "HB",
+ "number": 994,
+ "legislation_type": "GEN",
+ "caption": "Crimes and offenses; riot; provide for a felony penalty",
+ "summary": "A BILL to be entitled an Act to amend Code Section 16-11-30 of the Official Code of Georgia Annotated, relating to riot, so as to provide for a felony penalty; to amend Code Section 17-6-1 of the Official Code of Georgia Annotated, relating to when offenses bailable, procedure, schedule of bails, and appeal bonds, so as to include the offense of riot; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:55:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239943,
+   "label": "LC 48 1672/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239943"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:02+00:00",
+  "version:239943": "2026-11-20T19:05:02+00:00",
+  "status:40": "2026-11-20T19:05:02+00:00",
+  "status:33": "2026-11-20T19:05:02+00:00",
+  "status:34": "2026-11-20T19:05:02+00:00"
+ },
+ "updated": "2026-11-20T19:05:02+00:00"
+}

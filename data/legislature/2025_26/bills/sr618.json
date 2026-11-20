@@ -1,0 +1,82 @@
+{
+ "key": "SR 618",
+ "slug": "sr618",
+ "session": "2025_26",
+ "legislation_id": 72462,
+ "page": "https://www.legis.ga.gov/legislation/72462",
+ "document_type": "SR",
+ "number": 618,
+ "legislation_type": "PRIV",
+ "caption": "Charles, Orson; recognize",
+ "summary": "A RESOLUTION recognizing and commending Orson Charles; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T15:23:20",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T11:53:55",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240406,
+   "label": "Read and adopted LC 129 0545",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240406"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:52+00:00",
+  "version:240406": "2026-11-20T21:04:52+00:00",
+  "status:67": "2026-11-20T21:04:52+00:00",
+  "status:66": "2026-11-20T21:04:52+00:00"
+ },
+ "updated": "2026-11-20T21:04:52+00:00"
+}

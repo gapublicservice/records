@@ -1,0 +1,68 @@
+{
+ "key": "HR 933",
+ "slug": "hr933",
+ "session": "2025_26",
+ "legislation_id": 72037,
+ "page": "https://www.legis.ga.gov/legislation/72037",
+ "document_type": "HR",
+ "number": 933,
+ "legislation_type": "PRIV",
+ "caption": "Atlanta Drive GC; winning the inaugural TGL Championship; commend",
+ "summary": "A RESOLUTION congratulating Atlanta Drive GC for winning the inaugural TGL Championship; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:54:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238968,
+   "label": "LC 112 3626/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238968"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:44+00:00",
+  "version:238968": "2026-11-20T19:51:44+00:00",
+  "status:40": "2026-11-20T19:51:44+00:00",
+  "status:33": "2026-11-20T19:51:44+00:00",
+  "status:48": "2026-11-20T19:51:44+00:00"
+ },
+ "updated": "2026-11-20T19:51:44+00:00"
+}

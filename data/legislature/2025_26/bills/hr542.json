@@ -1,0 +1,96 @@
+{
+ "key": "HR 542",
+ "slug": "hr542",
+ "session": "2025_26",
+ "legislation_id": 71233,
+ "page": "https://www.legis.ga.gov/legislation/71233",
+ "document_type": "HR",
+ "number": 542,
+ "legislation_type": "PRIV",
+ "caption": "Riggs, Michele; commend",
+ "summary": "A RESOLUTION recognizing and commending Michele Riggs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T18:10:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T18:34:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T18:34:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235581,
+   "label": "LC 112 3145/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235581"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:52+00:00",
+  "version:235581": "2026-11-20T19:42:52+00:00",
+  "status:40": "2026-11-20T19:42:52+00:00",
+  "status:33": "2026-11-20T19:42:52+00:00",
+  "status:48": "2026-11-20T19:42:52+00:00"
+ },
+ "updated": "2026-11-20T19:42:52+00:00"
+}

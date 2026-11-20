@@ -1,0 +1,82 @@
+{
+ "key": "HR 1545",
+ "slug": "hr1545",
+ "session": "2025_26",
+ "legislation_id": 73815,
+ "page": "https://www.legis.ga.gov/legislation/73815",
+ "document_type": "HR",
+ "number": 1545,
+ "legislation_type": "PRIV",
+ "caption": "Cole, Jesse and Emily; Banana Ball and Bananas Foster; commend",
+ "summary": "A RESOLUTION honoring and celebrating Jesse and Emily Cole, Banana Ball, and Bananas Foster; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:57:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244804,
+   "label": "LC 112 3751/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244804"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:51+00:00",
+  "version:244804": "2026-11-20T20:05:51+00:00",
+  "status:40": "2026-11-20T20:05:51+00:00",
+  "status:33": "2026-11-20T20:05:51+00:00",
+  "status:48": "2026-11-20T20:05:51+00:00"
+ },
+ "updated": "2026-11-20T20:05:51+00:00"
+}

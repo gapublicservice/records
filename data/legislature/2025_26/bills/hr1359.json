@@ -1,0 +1,82 @@
+{
+ "key": "HR 1359",
+ "slug": "hr1359",
+ "session": "2025_26",
+ "legislation_id": 73218,
+ "page": "https://www.legis.ga.gov/legislation/73218",
+ "document_type": "HR",
+ "number": 1359,
+ "legislation_type": "PRIV",
+ "caption": "Morgan, Lisa; commend",
+ "summary": "A RESOLUTION recognizing and commending Lisa Morgan; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:07:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242637,
+   "label": "LC 129 1087/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242637"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:43+00:00",
+  "version:242637": "2026-11-20T20:01:43+00:00",
+  "status:40": "2026-11-20T20:01:43+00:00",
+  "status:33": "2026-11-20T20:01:43+00:00",
+  "status:48": "2026-11-20T20:01:43+00:00"
+ },
+ "updated": "2026-11-20T20:01:43+00:00"
+}

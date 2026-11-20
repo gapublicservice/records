@@ -1,0 +1,88 @@
+{
+ "key": "HB 1111",
+ "slug": "hb1111",
+ "session": "2025_26",
+ "legislation_id": 72630,
+ "page": "https://www.legis.ga.gov/legislation/72630",
+ "document_type": "HB",
+ "number": 1111,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; new special purpose local option sales tax dedicated to certain healthcare purposes; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use taxes, so as to provide for a new special purpose local option sales tax dedicated to certain healthcare purposes; to provide for definitions; to provide for authorization of tax and applicability; to provide for local authorization and referenda; to prohibit taxation of products ordered and delivered outside of jurisdiction; to prohibit taxation of certain construction materials; to provide for records and reports; to provide for rules and regulations; to provide for impact on other taxes; to provide for infeasibility; to provide for modification of certain healthcare purposes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:20:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240923,
+   "label": "LC 47 3887/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240923"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:34+00:00",
+  "version:240923": "2026-11-20T19:09:34+00:00",
+  "status:40": "2026-11-20T19:09:34+00:00",
+  "status:33": "2026-11-20T19:09:34+00:00",
+  "status:34": "2026-11-20T19:09:34+00:00"
+ },
+ "updated": "2026-11-20T19:09:34+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 1497",
+ "slug": "hb1497",
+ "session": "2025_26",
+ "legislation_id": 73855,
+ "page": "https://www.legis.ga.gov/legislation/73855",
+ "document_type": "HB",
+ "number": 1497,
+ "legislation_type": "GEN",
+ "caption": "Georgia Home Title Protection and Deed Fraud Prevention Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 1 of Chapter 2 of Title 44 of the Official Code of Georgia Annotated, relating to recording of deeds and other real property transactions, so as to provide for a statement form regarding the effect of quitclaim deeds; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:21:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244878,
+   "label": "LC 44 3506/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244878"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:24:59+00:00",
+  "version:244878": "2026-11-20T19:24:59+00:00",
+  "status:40": "2026-11-20T19:24:59+00:00",
+  "status:33": "2026-11-20T19:24:59+00:00",
+  "status:34": "2026-11-20T19:24:59+00:00"
+ },
+ "updated": "2026-11-20T19:24:59+00:00"
+}

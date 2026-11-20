@@ -1,0 +1,105 @@
+{
+ "key": "HB 578",
+ "slug": "hb578",
+ "session": "2025_26",
+ "legislation_id": 70665,
+ "page": "https://www.legis.ga.gov/legislation/70665",
+ "document_type": "HB",
+ "number": 578,
+ "legislation_type": "GEN",
+ "caption": "Public utilities; $1.50 increase in monthly 9-1-1 charge assessed by local governments; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia Annotated, relating to emergency telephone number 9-1-1 system, so as to provide for a $1.50 increase in the monthly 9-1-1 charge assessed by local governments; to provide for a $1.50 increase in the monthly wireless enhanced 9-1-1 charge assessed by local governments; to provide for a $1.50 increase in the prepaid 9-1-1 charge assessed by local governments; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T11:19:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T10:40:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T10:19:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233488,
+   "label": "LC 56 0324/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233488"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:56+00:00",
+  "version:233488": "2026-11-20T18:43:56+00:00",
+  "status:40": "2026-11-20T18:43:56+00:00",
+  "status:33": "2026-11-20T18:43:56+00:00",
+  "status:34": "2026-11-20T18:43:56+00:00"
+ },
+ "updated": "2026-11-20T18:43:56+00:00"
+}

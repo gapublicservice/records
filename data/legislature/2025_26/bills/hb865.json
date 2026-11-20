@@ -1,0 +1,97 @@
+{
+ "key": "HB 865",
+ "slug": "hb865",
+ "session": "2025_26",
+ "legislation_id": 71710,
+ "page": "https://www.legis.ga.gov/legislation/71710",
+ "document_type": "HB",
+ "number": 865,
+ "legislation_type": "GEN",
+ "caption": "Elections; superintendents post notices whenever their offices are closed due to a declared state of emergency; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide that local election superintendents post notices whenever their offices are closed due to a declared state of emergency; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T15:06:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T10:39:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237319,
+   "label": "LC 47 3682/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237319"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:57:45+00:00",
+  "version:237319": "2026-11-20T18:57:45+00:00",
+  "status:40": "2026-11-20T18:57:45+00:00",
+  "status:33": "2026-11-20T18:57:45+00:00",
+  "status:34": "2026-11-20T18:57:45+00:00"
+ },
+ "updated": "2026-11-20T18:57:45+00:00"
+}

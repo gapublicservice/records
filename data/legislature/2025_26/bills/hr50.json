@@ -1,0 +1,61 @@
+{
+ "key": "HR 50",
+ "slug": "hr50",
+ "session": "2025_26",
+ "legislation_id": 69492,
+ "page": "https://www.legis.ga.gov/legislation/69492",
+ "document_type": "HR",
+ "number": 50,
+ "legislation_type": "PRIV",
+ "caption": "International Holocaust Remembrance Day; January 27, 2025; recognize",
+ "summary": "A RESOLUTION recognizing January 27, 2025, as International Holocaust Remembrance Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T08:30:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:38",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230246,
+   "label": "LC 112 2706/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230246"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:49+00:00",
+  "version:230246": "2026-11-20T19:31:49+00:00",
+  "status:40": "2026-11-20T19:31:49+00:00",
+  "status:33": "2026-11-20T19:31:49+00:00",
+  "status:48": "2026-11-20T19:31:49+00:00"
+ },
+ "updated": "2026-11-20T19:31:49+00:00"
+}

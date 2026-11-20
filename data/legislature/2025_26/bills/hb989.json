@@ -1,0 +1,102 @@
+{
+ "key": "HB 989",
+ "slug": "hb989",
+ "session": "2025_26",
+ "legislation_id": 72256,
+ "page": "https://www.legis.ga.gov/legislation/72256",
+ "document_type": "HB",
+ "number": 989,
+ "legislation_type": "GEN",
+ "caption": "Education; public comment periods during meetings of local boards of education; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to local boards of education, so as to provide for public comment periods during meetings of local boards of education; to provide for public broadcasts of such meetings and public comment periods; to require local boards of education to record or broadcast public comment periods in the same manner and to the same extent as the remainder of the public portions of meetings; to provide for notice; to provide for limitations; to provide for agenda; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:53:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239936,
+   "label": "LC 49 2433/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239936"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:04:55+00:00",
+  "version:239936": "2026-11-20T19:04:55+00:00",
+  "status:40": "2026-11-20T19:04:55+00:00",
+  "status:33": "2026-11-20T19:04:55+00:00",
+  "status:34": "2026-11-20T19:04:55+00:00"
+ },
+ "updated": "2026-11-20T19:04:55+00:00"
+}

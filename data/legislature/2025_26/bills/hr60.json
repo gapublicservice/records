@@ -1,0 +1,96 @@
+{
+ "key": "HR 60",
+ "slug": "hr60",
+ "session": "2025_26",
+ "legislation_id": 69520,
+ "page": "https://www.legis.ga.gov/legislation/69520",
+ "document_type": "HR",
+ "number": 60,
+ "legislation_type": "PRIV",
+ "caption": "Firefighters Recognition Day at the state capitol; February 4, 2025; recognize",
+ "summary": "A RESOLUTION honoring and commending the firefighters of Georgia and recognizing February 4, 2025, as Firefighters Recognition Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:36:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230344,
+   "label": "LC 112 2704/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230344"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:03+00:00",
+  "version:230344": "2026-11-20T19:32:03+00:00",
+  "status:40": "2026-11-20T19:32:03+00:00",
+  "status:33": "2026-11-20T19:32:03+00:00",
+  "status:48": "2026-11-20T19:32:03+00:00"
+ },
+ "updated": "2026-11-20T19:32:03+00:00"
+}

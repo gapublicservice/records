@@ -1,0 +1,96 @@
+{
+ "key": "HR 172",
+ "slug": "hr172",
+ "session": "2025_26",
+ "legislation_id": 69920,
+ "page": "https://www.legis.ga.gov/legislation/69920",
+ "document_type": "HR",
+ "number": 172,
+ "legislation_type": "PRIV",
+ "caption": "Wear Red Day; February 7, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 7, 2025, as Wear Red Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:06:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:05",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231289,
+   "label": "LC 112 2878/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231289"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:43+00:00",
+  "version:231289": "2026-11-20T19:34:43+00:00",
+  "status:40": "2026-11-20T19:34:43+00:00",
+  "status:33": "2026-11-20T19:34:43+00:00",
+  "status:48": "2026-11-20T19:34:43+00:00"
+ },
+ "updated": "2026-11-20T19:34:43+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 48",
+ "slug": "hr48",
+ "session": "2025_26",
+ "legislation_id": 69486,
+ "page": "https://www.legis.ga.gov/legislation/69486",
+ "document_type": "HR",
+ "number": 48,
+ "legislation_type": "PRIV",
+ "caption": "Great Dane; 125th anniversary of its founding; recognize",
+ "summary": "A RESOLUTION congratulating Great Dane upon the 125th anniversary of its founding; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-17T11:41:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T12:04:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-17T12:04:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230217,
+   "label": "LC 129 0030/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230217"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:47+00:00",
+  "version:230217": "2026-11-20T19:31:47+00:00",
+  "status:40": "2026-11-20T19:31:47+00:00",
+  "status:33": "2026-11-20T19:31:47+00:00",
+  "status:48": "2026-11-20T19:31:47+00:00"
+ },
+ "updated": "2026-11-20T19:31:47+00:00"
+}

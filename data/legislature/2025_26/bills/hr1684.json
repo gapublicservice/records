@@ -1,0 +1,89 @@
+{
+ "key": "HR 1684",
+ "slug": "hr1684",
+ "session": "2025_26",
+ "legislation_id": 74066,
+ "page": "https://www.legis.ga.gov/legislation/74066",
+ "document_type": "HR",
+ "number": 1684,
+ "legislation_type": "PRIV",
+ "caption": "Hudson, Dr. Terry L., II.; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Terry L. Hudson II; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:44:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:15:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245830,
+   "label": "LC 112 3877/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245830"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:52+00:00",
+  "version:245830": "2026-11-20T20:08:52+00:00",
+  "status:40": "2026-11-20T20:08:52+00:00",
+  "status:33": "2026-11-20T20:08:52+00:00",
+  "status:48": "2026-11-20T20:08:52+00:00"
+ },
+ "updated": "2026-11-20T20:08:52+00:00"
+}

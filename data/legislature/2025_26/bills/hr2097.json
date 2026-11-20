@@ -1,0 +1,89 @@
+{
+ "key": "HR 2097",
+ "slug": "hr2097",
+ "session": "2025_26",
+ "legislation_id": 74710,
+ "page": "https://www.legis.ga.gov/legislation/74710",
+ "document_type": "HR",
+ "number": 2097,
+ "legislation_type": "PRIV",
+ "caption": "Center for Employment Opportunities Atlanta; commend",
+ "summary": "A RESOLUTION recognizing and commending the Center for Employment Opportunities Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:24:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248834,
+   "label": "LC 112 4236/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248834"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:05+00:00",
+  "version:248834": "2026-11-20T20:18:05+00:00",
+  "status:40": "2026-11-20T20:18:05+00:00",
+  "status:33": "2026-11-20T20:18:05+00:00",
+  "status:48": "2026-11-20T20:18:05+00:00"
+ },
+ "updated": "2026-11-20T20:18:05+00:00"
+}

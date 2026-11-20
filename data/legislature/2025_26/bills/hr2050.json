@@ -1,0 +1,96 @@
+{
+ "key": "HR 2050",
+ "slug": "hr2050",
+ "session": "2025_26",
+ "legislation_id": 74628,
+ "page": "https://www.legis.ga.gov/legislation/74628",
+ "document_type": "HR",
+ "number": 2050,
+ "legislation_type": "PRIV",
+ "caption": "Cooper, Ellie; recognize",
+ "summary": "A RESOLUTION recognizing and congratulating Ellie Cooper; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:14:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:59",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248420,
+   "label": "LC 129 1535/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248420"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:58+00:00",
+  "version:248420": "2026-11-20T20:16:58+00:00",
+  "status:40": "2026-11-20T20:16:58+00:00",
+  "status:33": "2026-11-20T20:16:58+00:00",
+  "status:48": "2026-11-20T20:16:58+00:00"
+ },
+ "updated": "2026-11-20T20:16:58+00:00"
+}

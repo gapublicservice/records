@@ -1,0 +1,81 @@
+{
+ "key": "HB 558",
+ "slug": "hb558",
+ "session": "2025_26",
+ "legislation_id": 70608,
+ "page": "https://www.legis.ga.gov/legislation/70608",
+ "document_type": "HB",
+ "number": 558,
+ "legislation_type": "GEN",
+ "caption": "State Board of the Technical College System of Georgia; establish adult workforce high school diploma program",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 20 of the Official Code of Georgia Annotated, relating to vocational, technical, and adult education, so as to authorize the State Board of the Technical College System of Georgia to establish the adult workforce high school diploma program; to provide for the selection of third-party providers to administer the program; to provide requirements for approved program providers; to provide for disbursement of funds to approved program providers; to provide for reporting; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:40:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233268,
+   "label": "LC 61 0142/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233268"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:04+00:00",
+  "version:233268": "2026-11-20T18:43:04+00:00",
+  "status:40": "2026-11-20T18:43:04+00:00",
+  "status:33": "2026-11-20T18:43:04+00:00",
+  "status:34": "2026-11-20T18:43:04+00:00"
+ },
+ "updated": "2026-11-20T18:43:04+00:00"
+}

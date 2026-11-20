@@ -1,0 +1,102 @@
+{
+ "key": "SB 390",
+ "slug": "sb390",
+ "session": "2025_26",
+ "legislation_id": 72173,
+ "page": "https://www.legis.ga.gov/legislation/72173",
+ "document_type": "SB",
+ "number": 390,
+ "legislation_type": "GEN",
+ "caption": "State Military; deployment of armed military forces of other states into this state without the permission of the Governor; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 1 of Chapter 2 of Title 38 of the Official Code of Georgia Annotated, relating to general provisions of state military generally, so as to prohibit the deployment of armed military forces of other states into this state without the permission of the Governor; to provide for an exception; to provide for other matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Veterans, Military, and Homeland Security",
+   "id": 137
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-13T10:39:54",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-14T10:48:58",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239720,
+   "label": "As Introduced LC 46 1330",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239720"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:44+00:00",
+  "version:239720": "2026-11-20T20:38:44+00:00",
+  "status:67": "2026-11-20T20:38:44+00:00",
+  "status:3": "2026-11-20T20:38:44+00:00"
+ },
+ "updated": "2026-11-20T20:38:44+00:00"
+}

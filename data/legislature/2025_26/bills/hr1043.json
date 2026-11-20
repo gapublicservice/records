@@ -1,0 +1,82 @@
+{
+ "key": "HR 1043",
+ "slug": "hr1043",
+ "session": "2025_26",
+ "legislation_id": 72315,
+ "page": "https://www.legis.ga.gov/legislation/72315",
+ "document_type": "HR",
+ "number": 1043,
+ "legislation_type": "PRIV",
+ "caption": "Dental Hygienists Appreciation Day; February 5, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 5, 2026, as Dental Hygienists Appreciation Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:56:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T12:42:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T12:42:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240073,
+   "label": "LC 129 0577/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240073"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:13+00:00",
+  "version:240073": "2026-11-20T19:54:13+00:00",
+  "status:40": "2026-11-20T19:54:13+00:00",
+  "status:33": "2026-11-20T19:54:13+00:00",
+  "status:48": "2026-11-20T19:54:13+00:00"
+ },
+ "updated": "2026-11-20T19:54:13+00:00"
+}

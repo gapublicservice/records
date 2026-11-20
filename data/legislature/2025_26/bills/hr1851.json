@@ -1,0 +1,96 @@
+{
+ "key": "HR 1851",
+ "slug": "hr1851",
+ "session": "2025_26",
+ "legislation_id": 74364,
+ "page": "https://www.legis.ga.gov/legislation/74364",
+ "document_type": "HR",
+ "number": 1851,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Sandra Lee; commend",
+ "summary": "A RESOLUTION recognizing and commending Sandra Lee Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:53:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T13:16:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T13:17:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247058,
+   "label": "LC 129 1436/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247058"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:26+00:00",
+  "version:247058": "2026-11-20T20:12:26+00:00",
+  "status:40": "2026-11-20T20:12:26+00:00",
+  "status:33": "2026-11-20T20:12:26+00:00",
+  "status:48": "2026-11-20T20:12:26+00:00"
+ },
+ "updated": "2026-11-20T20:12:26+00:00"
+}

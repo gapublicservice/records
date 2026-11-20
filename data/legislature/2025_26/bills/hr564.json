@@ -1,0 +1,102 @@
+{
+ "key": "HR 564",
+ "slug": "hr564",
+ "session": "2025_26",
+ "legislation_id": 71283,
+ "page": "https://www.legis.ga.gov/legislation/71283",
+ "document_type": "HR",
+ "number": 564,
+ "legislation_type": "PRIV",
+ "caption": "Mainor, Mesha; commend",
+ "summary": "A RESOLUTION recognizing and commending Mesha Mainor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-10T15:06:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T13:57:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T09:02:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235800,
+   "label": "LC 112 3311/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235800"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:23+00:00",
+  "version:235800": "2026-11-20T19:43:23+00:00",
+  "status:40": "2026-11-20T19:43:23+00:00",
+  "status:33": "2026-11-20T19:43:23+00:00",
+  "status:34": "2026-11-20T19:43:23+00:00"
+ },
+ "updated": "2026-11-20T19:43:23+00:00"
+}

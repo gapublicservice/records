@@ -1,0 +1,95 @@
+{
+ "key": "HB 795",
+ "slug": "hb795",
+ "session": "2025_26",
+ "legislation_id": 71420,
+ "page": "https://www.legis.ga.gov/legislation/71420",
+ "document_type": "HB",
+ "number": 795,
+ "legislation_type": "GEN",
+ "caption": "Public Health, Department of; establish an Infant Wellness Resource hotline service",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department of Public Health generally, so as to establish an Infant Wellness Resource hotline service; to provide for the development and dissemination of materials promoting such hotline service; to provide for the development and implementation of training for staff of such hotline service; to provide for the Department of Administrative Services to select healthcare professionals to deliver healthcare services via telehealth through such hotline service; to provide certain persons participating in the activities of such hotline service with immunity from civil and criminal liability; to authorize rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-18T14:34:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T10:31:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T09:34:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236312,
+   "label": "LC 60 0110/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236312"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:12+00:00",
+  "version:236312": "2026-11-20T18:54:12+00:00",
+  "status:40": "2026-11-20T18:54:12+00:00",
+  "status:33": "2026-11-20T18:54:12+00:00",
+  "status:34": "2026-11-20T18:54:12+00:00"
+ },
+ "updated": "2026-11-20T18:54:12+00:00"
+}

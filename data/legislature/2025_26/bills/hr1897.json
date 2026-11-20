@@ -1,0 +1,68 @@
+{
+ "key": "HR 1897",
+ "slug": "hr1897",
+ "session": "2025_26",
+ "legislation_id": 74445,
+ "page": "https://www.legis.ga.gov/legislation/74445",
+ "document_type": "HR",
+ "number": 1897,
+ "legislation_type": "PRIV",
+ "caption": "Dickerson, John Alan, Sr.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of John Alan Dickerson, Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:35:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247540,
+   "label": "LC 129 1224/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247540"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:24+00:00",
+  "version:247540": "2026-11-20T20:13:24+00:00",
+  "status:40": "2026-11-20T20:13:24+00:00",
+  "status:33": "2026-11-20T20:13:24+00:00",
+  "status:48": "2026-11-20T20:13:24+00:00"
+ },
+ "updated": "2026-11-20T20:13:24+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HB 408",
+ "slug": "hb408",
+ "session": "2025_26",
+ "legislation_id": 70249,
+ "page": "https://www.legis.ga.gov/legislation/70249",
+ "document_type": "HB",
+ "number": 408,
+ "legislation_type": "GEN",
+ "caption": "Insurance; repeal prelicensing education requirements applicable to certain licenses",
+ "summary": "A BILL to be entitled an Act to amend Chapter 23 of Title 33 of the Official Code of Georgia Annotated, relating to insurance licensing, so as to repeal prelicensing education requirements applicable to certain insurance licenses; to provide a three-day maximum on the reexamination waiting period for applicants; to make conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T11:21:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232248,
+   "label": "LC 55 0479/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232248"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:36:13+00:00",
+  "version:232248": "2026-11-20T18:36:13+00:00",
+  "status:40": "2026-11-20T18:36:13+00:00",
+  "status:33": "2026-11-20T18:36:13+00:00",
+  "status:34": "2026-11-20T18:36:13+00:00"
+ },
+ "updated": "2026-11-20T18:36:13+00:00"
+}

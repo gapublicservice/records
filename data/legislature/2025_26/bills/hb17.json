@@ -1,0 +1,95 @@
+{
+ "key": "HB 17",
+ "slug": "hb17",
+ "session": "2025_26",
+ "legislation_id": 69297,
+ "page": "https://www.legis.ga.gov/legislation/69297",
+ "document_type": "HB",
+ "number": 17,
+ "legislation_type": "GEN",
+ "caption": "Public Health, Department of; carry out projects to increase education, awareness, or diagnosis of valvular heart disease; authorize",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 31 of the Official Code of Georgia Annotated, relating to general provisions regarding health, so as to authorize the Department of Public Health to implement projects to increase education, public awareness, and diagnosis of valvular heart disease and to reduce the incidence of sudden cardiac death caused by valvular heart disease; to provide for the priority of projects targeting affected populations or addressing health disparities; to provide for coordination with other state agencies; to provide for the collection and publishing of data regarding best practices for healthcare providers; to provide for related matters; to provide for a short title; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:32:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229798,
+   "label": "LC 52 0614/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229798"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:41+00:00",
+  "version:229798": "2026-11-20T18:16:41+00:00",
+  "status:40": "2026-11-20T18:16:41+00:00",
+  "status:33": "2026-11-20T18:16:41+00:00",
+  "status:34": "2026-11-20T18:16:41+00:00"
+ },
+ "updated": "2026-11-20T18:16:41+00:00"
+}

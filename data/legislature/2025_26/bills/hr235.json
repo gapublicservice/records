@@ -1,0 +1,68 @@
+{
+ "key": "HR 235",
+ "slug": "hr235",
+ "session": "2025_26",
+ "legislation_id": 70220,
+ "page": "https://www.legis.ga.gov/legislation/70220",
+ "document_type": "HR",
+ "number": 235,
+ "legislation_type": "PRIV",
+ "caption": "Hickory Log; occasion of its 55th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Hickory Log upon the occasion of its 55th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:59:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232118,
+   "label": "LC 129 0128/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232118"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:04+00:00",
+  "version:232118": "2026-11-20T19:36:04+00:00",
+  "status:40": "2026-11-20T19:36:04+00:00",
+  "status:33": "2026-11-20T19:36:04+00:00",
+  "status:48": "2026-11-20T19:36:04+00:00"
+ },
+ "updated": "2026-11-20T19:36:04+00:00"
+}

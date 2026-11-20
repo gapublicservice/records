@@ -1,0 +1,89 @@
+{
+ "key": "HR 1485",
+ "slug": "hr1485",
+ "session": "2025_26",
+ "legislation_id": 73675,
+ "page": "https://www.legis.ga.gov/legislation/73675",
+ "document_type": "HR",
+ "number": 1485,
+ "legislation_type": "PRIV",
+ "caption": "Moore, Reagan; commend",
+ "summary": "A RESOLUTION recognizing and commending Reagan Moore; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T14:54:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T16:24:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T16:24:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244153,
+   "label": "LC 112 3737/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244153"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:34+00:00",
+  "version:244153": "2026-11-20T20:04:34+00:00",
+  "status:40": "2026-11-20T20:04:34+00:00",
+  "status:33": "2026-11-20T20:04:34+00:00",
+  "status:48": "2026-11-20T20:04:34+00:00"
+ },
+ "updated": "2026-11-20T20:04:34+00:00"
+}

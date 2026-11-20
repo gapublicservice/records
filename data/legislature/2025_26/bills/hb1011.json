@@ -1,0 +1,81 @@
+{
+ "key": "HB 1011",
+ "slug": "hb1011",
+ "session": "2025_26",
+ "legislation_id": 72318,
+ "page": "https://www.legis.ga.gov/legislation/72318",
+ "document_type": "HB",
+ "number": 1011,
+ "legislation_type": "GEN",
+ "caption": "Daren Lewis Saving Lives Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 35 of the Official Code of Georgia Annotated, relating to law enforcement officers and agencies, so as to require the adoption of written policies for conducting vehicular pursuits by law enforcement officers in residential areas; to require the establishment of pursuit review committees; to provide for duties and authority of such committees; to provide for annual reporting; to provide for training; to provide for a short title; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:57:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240067,
+   "label": "LC 39 4865/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240067"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:52+00:00",
+  "version:240067": "2026-11-20T19:05:52+00:00",
+  "status:40": "2026-11-20T19:05:52+00:00",
+  "status:33": "2026-11-20T19:05:52+00:00",
+  "status:34": "2026-11-20T19:05:52+00:00"
+ },
+ "updated": "2026-11-20T19:05:52+00:00"
+}

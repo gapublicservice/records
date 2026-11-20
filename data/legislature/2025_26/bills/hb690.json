@@ -1,0 +1,95 @@
+{
+ "key": "HB 690",
+ "slug": "hb690",
+ "session": "2025_26",
+ "legislation_id": 71025,
+ "page": "https://www.legis.ga.gov/legislation/71025",
+ "document_type": "HB",
+ "number": 690,
+ "legislation_type": "GEN",
+ "caption": "Pharmacy benefits managers; duty of care to insureds, health plans, and providers; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 64 of Title 33 of the Official Code of Georgia Annotated, relating to regulation and licensure of pharmacy benefits managers, so as to provide that such managers have a duty of care to insureds, health plans, and providers; to provide for definitions; to provide for rules and regulations; to provide for a priority of duties; to provide for a private right of action; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T11:17:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T10:43:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T09:54:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234622,
+   "label": "LC 46 1147/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234622"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:07+00:00",
+  "version:234622": "2026-11-20T18:49:07+00:00",
+  "status:40": "2026-11-20T18:49:07+00:00",
+  "status:33": "2026-11-20T18:49:07+00:00",
+  "status:34": "2026-11-20T18:49:07+00:00"
+ },
+ "updated": "2026-11-20T18:49:07+00:00"
+}

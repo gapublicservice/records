@@ -1,0 +1,89 @@
+{
+ "key": "HR 1093",
+ "slug": "hr1093",
+ "session": "2025_26",
+ "legislation_id": 72444,
+ "page": "https://www.legis.ga.gov/legislation/72444",
+ "document_type": "HR",
+ "number": 1093,
+ "legislation_type": "PRIV",
+ "caption": "The Korean-American School of Atlanta; commend",
+ "summary": "A RESOLUTION recognizing and commending The Korean-American School of Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:29:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:42:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:42:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240342,
+   "label": "LC 129 0541/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240342"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:25+00:00",
+  "version:240342": "2026-11-20T19:55:25+00:00",
+  "status:40": "2026-11-20T19:55:25+00:00",
+  "status:33": "2026-11-20T19:55:25+00:00",
+  "status:48": "2026-11-20T19:55:25+00:00"
+ },
+ "updated": "2026-11-20T19:55:25+00:00"
+}

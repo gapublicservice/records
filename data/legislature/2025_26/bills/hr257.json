@@ -1,0 +1,102 @@
+{
+ "key": "HR 257",
+ "slug": "hr257",
+ "session": "2025_26",
+ "legislation_id": 70335,
+ "page": "https://www.legis.ga.gov/legislation/70335",
+ "document_type": "HR",
+ "number": 257,
+ "legislation_type": "NP",
+ "caption": "House Special Committee on Oversight of Federal Funds; create",
+ "summary": "A RESOLUTION creating and authorizing the House Special Committee on Oversight of Federal Funds; to provide for the issuance of compulsory process to secure the attendance of witnesses or the production of documents and materials; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T11:44:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T13:44:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T10:16:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232468,
+   "label": "LC 44 2999/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232468"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:37+00:00",
+  "version:232468": "2026-11-20T19:36:37+00:00",
+  "status:40": "2026-11-20T19:36:37+00:00",
+  "status:33": "2026-11-20T19:36:37+00:00",
+  "status:34": "2026-11-20T19:36:37+00:00"
+ },
+ "updated": "2026-11-20T19:36:37+00:00"
+}

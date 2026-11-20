@@ -1,0 +1,89 @@
+{
+ "key": "HR 459",
+ "slug": "hr459",
+ "session": "2025_26",
+ "legislation_id": 71043,
+ "page": "https://www.legis.ga.gov/legislation/71043",
+ "document_type": "HR",
+ "number": 459,
+ "legislation_type": "PRIV",
+ "caption": "Brinson, Matt; commend",
+ "summary": "A RESOLUTION recognizing and commending Matt Brinson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:10:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:55:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T12:55:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234669,
+   "label": "LC 112 3219/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234669"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:03+00:00",
+  "version:234669": "2026-11-20T19:41:03+00:00",
+  "status:40": "2026-11-20T19:41:03+00:00",
+  "status:33": "2026-11-20T19:41:03+00:00",
+  "status:48": "2026-11-20T19:41:03+00:00"
+ },
+ "updated": "2026-11-20T19:41:03+00:00"
+}

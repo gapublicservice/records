@@ -1,0 +1,102 @@
+{
+ "key": "HR 1794",
+ "slug": "hr1794",
+ "session": "2025_26",
+ "legislation_id": 74273,
+ "page": "https://www.legis.ga.gov/legislation/74273",
+ "document_type": "HR",
+ "number": 1794,
+ "legislation_type": "NP",
+ "caption": "Commissioner of Insurance; conduct a comprehensive review of prescription drug pricing and identify strategies to reduce the cost of prescription medications; urge",
+ "summary": "A RESOLUTION urging the Commissioner of Insurance to conduct a comprehensive review of prescription drug pricing and identify strategies to reduce the cost of prescription medications for citizens of the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-19T12:46:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T10:26:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T10:08:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246658,
+   "label": "LC 65 0093/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246658"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:13+00:00",
+  "version:246658": "2026-11-20T20:11:13+00:00",
+  "status:40": "2026-11-20T20:11:13+00:00",
+  "status:33": "2026-11-20T20:11:13+00:00",
+  "status:34": "2026-11-20T20:11:13+00:00"
+ },
+ "updated": "2026-11-20T20:11:13+00:00"
+}

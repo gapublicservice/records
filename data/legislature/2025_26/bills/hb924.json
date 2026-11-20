@@ -1,0 +1,102 @@
+{
+ "key": "HB 924",
+ "slug": "hb924",
+ "session": "2025_26",
+ "legislation_id": 72073,
+ "page": "https://www.legis.ga.gov/legislation/72073",
+ "document_type": "HB",
+ "number": 924,
+ "legislation_type": "GEN",
+ "caption": "Legislative Retirement System; match benefit amounts payable to former and current retired legislators to benefits payable to legislators who were in office on or after January 1, 2022",
+ "summary": "A BILL to be entitled an Act to amend Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia Legislative Retirement System, so as to match the retirement benefit amounts payable to former legislators upon retirement and to currently retired legislators in retirement to those benefits which are payable upon retirement to legislators who were in office on or after January 1, 2022; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:53:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239281,
+   "label": "LC 56 0421/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239281"
+  },
+  {
+   "doc_id": 239286,
+   "label": "Auditor's Certification LC 56 0421",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239286"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:48+00:00",
+  "version:239281": "2026-11-20T19:01:48+00:00",
+  "version:239286": "2026-11-20T19:01:48+00:00",
+  "status:40": "2026-11-20T19:01:48+00:00",
+  "status:33": "2026-11-20T19:01:48+00:00",
+  "status:34": "2026-11-20T19:01:48+00:00"
+ },
+ "updated": "2026-11-20T19:01:48+00:00"
+}

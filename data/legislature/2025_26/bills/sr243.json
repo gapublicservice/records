@@ -1,0 +1,54 @@
+{
+ "key": "SR 243",
+ "slug": "sr243",
+ "session": "2025_26",
+ "legislation_id": 70704,
+ "page": "https://www.legis.ga.gov/legislation/70704",
+ "document_type": "SR",
+ "number": 243,
+ "legislation_type": "PRIV",
+ "caption": "Franklin, Reverend Lee C.; recognize",
+ "summary": "A RESOLUTION recognizing and commending the Reverend Lee C. Franklin; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-21T13:21:14",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-24T11:19:33",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233527,
+   "label": "Read and adopted LC 129 0127",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233527"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:55:47+00:00",
+  "version:233527": "2026-11-20T20:55:47+00:00",
+  "status:67": "2026-11-20T20:55:47+00:00",
+  "status:66": "2026-11-20T20:55:47+00:00"
+ },
+ "updated": "2026-11-20T20:55:47+00:00"
+}

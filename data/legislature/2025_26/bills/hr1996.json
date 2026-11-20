@@ -1,0 +1,61 @@
+{
+ "key": "HR 1996",
+ "slug": "hr1996",
+ "session": "2025_26",
+ "legislation_id": 74572,
+ "page": "https://www.legis.ga.gov/legislation/74572",
+ "document_type": "HR",
+ "number": 1996,
+ "legislation_type": "PRIV",
+ "caption": "Harrison, Mr. Henry; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mr. Henry Harrison; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:10:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:27",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247985,
+   "label": "LC 112 4103/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247985"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:34+00:00",
+  "version:247985": "2026-11-20T20:15:34+00:00",
+  "status:40": "2026-11-20T20:15:34+00:00",
+  "status:33": "2026-11-20T20:15:34+00:00",
+  "status:48": "2026-11-20T20:15:34+00:00"
+ },
+ "updated": "2026-11-20T20:15:34+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1991",
+ "slug": "hr1991",
+ "session": "2025_26",
+ "legislation_id": 74562,
+ "page": "https://www.legis.ga.gov/legislation/74562",
+ "document_type": "HR",
+ "number": 1991,
+ "legislation_type": "PRIV",
+ "caption": "Duggal, Om; commend",
+ "summary": "A RESOLUTION recognizing and commending Om Duggal; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:06:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247980,
+   "label": "LC 129 1502/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247980"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:27+00:00",
+  "version:247980": "2026-11-20T20:15:27+00:00",
+  "status:40": "2026-11-20T20:15:27+00:00",
+  "status:33": "2026-11-20T20:15:27+00:00",
+  "status:48": "2026-11-20T20:15:27+00:00"
+ },
+ "updated": "2026-11-20T20:15:27+00:00"
+}

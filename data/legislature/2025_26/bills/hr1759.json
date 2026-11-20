@@ -1,0 +1,96 @@
+{
+ "key": "HR 1759",
+ "slug": "hr1759",
+ "session": "2025_26",
+ "legislation_id": 74222,
+ "page": "https://www.legis.ga.gov/legislation/74222",
+ "document_type": "HR",
+ "number": 1759,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Department of Natural Resources' Division of State Parks & Historic Sites; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia Department of Natural Resources' Division of State Parks & Historic Sites; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:39:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246469,
+   "label": "LC 112 3971/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246469"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:28+00:00",
+  "version:246469": "2026-11-20T20:10:28+00:00",
+  "status:40": "2026-11-20T20:10:28+00:00",
+  "status:33": "2026-11-20T20:10:28+00:00",
+  "status:48": "2026-11-20T20:10:28+00:00"
+ },
+ "updated": "2026-11-20T20:10:28+00:00"
+}

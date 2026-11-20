@@ -1,0 +1,96 @@
+{
+ "key": "HR 111",
+ "slug": "hr111",
+ "session": "2025_26",
+ "legislation_id": 69686,
+ "page": "https://www.legis.ga.gov/legislation/69686",
+ "document_type": "HR",
+ "number": 111,
+ "legislation_type": "PRIV",
+ "caption": "Interfaith organizations and volunteers involved in disaster cleanup efforts; commend",
+ "summary": "A RESOLUTION recognizing and commending the interfaith organizations and volunteers involved in disaster cleanup efforts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T12:01:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-29T13:07:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T13:07:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230709,
+   "label": "LC 129 0051/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230709"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:21+00:00",
+  "version:230709": "2026-11-20T19:33:21+00:00",
+  "status:40": "2026-11-20T19:33:21+00:00",
+  "status:33": "2026-11-20T19:33:21+00:00",
+  "status:48": "2026-11-20T19:33:21+00:00"
+ },
+ "updated": "2026-11-20T19:33:21+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "HR 720",
+ "slug": "hr720",
+ "session": "2025_26",
+ "legislation_id": 71678,
+ "page": "https://www.legis.ga.gov/legislation/71678",
+ "document_type": "HR",
+ "number": 720,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Alfonzo; commend",
+ "summary": "A RESOLUTION recognizing and commending Alfonzo Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-25T14:09:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T14:52:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T14:52:59",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237278,
+   "label": "LC 129 0283/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237278"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:03+00:00",
+  "version:237278": "2026-11-20T19:47:03+00:00",
+  "status:40": "2026-11-20T19:47:03+00:00",
+  "status:33": "2026-11-20T19:47:03+00:00",
+  "status:48": "2026-11-20T19:47:03+00:00"
+ },
+ "updated": "2026-11-20T19:47:03+00:00"
+}

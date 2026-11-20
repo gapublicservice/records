@@ -1,0 +1,102 @@
+{
+ "key": "HB 1190",
+ "slug": "hb1190",
+ "session": "2025_26",
+ "legislation_id": 72839,
+ "page": "https://www.legis.ga.gov/legislation/72839",
+ "document_type": "HB",
+ "number": 1190,
+ "legislation_type": "GEN",
+ "caption": "Students and Teachers SPEAK Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to provide for the qualification and selection of students to advise the State Board of Education and local boards of education; to provide for the Georgia Teacher of the Year to be invited to advise the State Board of Education; to provide for a definition; to provide for compensation; to provide for restrictions; to provide for rules and regulations; to provide for construction; to provide for a short title; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-04T12:24:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T10:32:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T09:34:47",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241520,
+   "label": "LC 61 0218/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241520"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:13:11+00:00",
+  "version:241520": "2026-11-20T19:13:11+00:00",
+  "status:40": "2026-11-20T19:13:11+00:00",
+  "status:33": "2026-11-20T19:13:11+00:00",
+  "status:34": "2026-11-20T19:13:11+00:00"
+ },
+ "updated": "2026-11-20T19:13:11+00:00"
+}

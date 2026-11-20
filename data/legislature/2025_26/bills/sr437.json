@@ -1,0 +1,60 @@
+{
+ "key": "SR 437",
+ "slug": "sr437",
+ "session": "2025_26",
+ "legislation_id": 71544,
+ "page": "https://www.legis.ga.gov/legislation/71544",
+ "document_type": "SR",
+ "number": 437,
+ "legislation_type": "GEN",
+ "caption": "Senator Greg Dolezal Intersection; Forsyth County; dedicate",
+ "summary": "A RESOLUTION recognizing the Honorable Gregory Robert Dolezal and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T14:55:12",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-21T10:11:30",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236772,
+   "label": "As introduced LC 39 4774",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236772"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:00:24+00:00",
+  "version:236772": "2026-11-20T21:00:24+00:00",
+  "status:67": "2026-11-20T21:00:24+00:00",
+  "status:3": "2026-11-20T21:00:24+00:00"
+ },
+ "updated": "2026-11-20T21:00:24+00:00"
+}

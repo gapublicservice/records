@@ -1,0 +1,88 @@
+{
+ "key": "HB 713",
+ "slug": "hb713",
+ "session": "2025_26",
+ "legislation_id": 71096,
+ "page": "https://www.legis.ga.gov/legislation/71096",
+ "document_type": "HB",
+ "number": 713,
+ "legislation_type": "GEN",
+ "caption": "Georgia Legislative Integrity and Representation Act of 2025; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 28 of the Official Code of Georgia Annotated, relating to general provisions regarding the General Assembly, so as to provide that no rule or policy shall be enacted that limits the number of bills or resolutions which a member may file or introduce in a legislative session; to provide that no rule, policy, or procedure shall be enacted by the General Assembly that limits or obstructs the ability of members of the General Assembly to fulfill their duties under the Georgia Constitution; to provide for physical, recorded votes on certain matters; to provide for a Legislative Constitutional Counsel; to provide for appointment, qualifications, compensation, and duties; to provide a short title; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Rules",
+   "id": 109
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T14:53:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234892,
+   "label": "LC 28 5001/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234892"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:53+00:00",
+  "version:234892": "2026-11-20T18:49:53+00:00",
+  "status:40": "2026-11-20T18:49:53+00:00",
+  "status:33": "2026-11-20T18:49:53+00:00",
+  "status:34": "2026-11-20T18:49:53+00:00"
+ },
+ "updated": "2026-11-20T18:49:53+00:00"
+}

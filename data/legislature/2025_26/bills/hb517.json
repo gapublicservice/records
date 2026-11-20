@@ -1,0 +1,102 @@
+{
+ "key": "HB 517",
+ "slug": "hb517",
+ "session": "2025_26",
+ "legislation_id": 70490,
+ "page": "https://www.legis.ga.gov/legislation/70490",
+ "document_type": "HB",
+ "number": 517,
+ "legislation_type": "GEN",
+ "caption": "Student Success Support Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-154 of the Official Code of Georgia Annotated, relating to the remedial education program under the \"Quality Basic Education Act,\" so as to provide for the State Board of Education to establish a grant program for supplemental remedial education services in literacy and math for all students in kindergarten through grade 12 who attend one of the lowest performing five percent of public schools in the state; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:19:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232909,
+   "label": "LC 49 2212/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232909"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:22+00:00",
+  "version:232909": "2026-11-20T18:41:22+00:00",
+  "status:40": "2026-11-20T18:41:22+00:00",
+  "status:33": "2026-11-20T18:41:22+00:00",
+  "status:34": "2026-11-20T18:41:22+00:00"
+ },
+ "updated": "2026-11-20T18:41:22+00:00"
+}

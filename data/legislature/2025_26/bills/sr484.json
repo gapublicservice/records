@@ -1,0 +1,68 @@
+{
+ "key": "SR 484",
+ "slug": "sr484",
+ "session": "2025_26",
+ "legislation_id": 71732,
+ "page": "https://www.legis.ga.gov/legislation/71732",
+ "document_type": "SR",
+ "number": 484,
+ "legislation_type": "PRIV",
+ "caption": "Savannah State University Men's Basketball Team; congratulate",
+ "summary": "A RESOLUTION congratulating the Savannah State University men's basketball team for winning the 2025 Southern Intercollegiate Athletic Conference Basketball Tournament Championship; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T12:19:21",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T12:32:54",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237535,
+   "label": "Read and adopted LC 112 3550",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237535"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:01:48+00:00",
+  "version:237535": "2026-11-20T21:01:48+00:00",
+  "status:67": "2026-11-20T21:01:48+00:00",
+  "status:66": "2026-11-20T21:01:48+00:00"
+ },
+ "updated": "2026-11-20T21:01:48+00:00"
+}

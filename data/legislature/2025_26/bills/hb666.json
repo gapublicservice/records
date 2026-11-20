@@ -1,0 +1,95 @@
+{
+ "key": "HB 666",
+ "slug": "hb666",
+ "session": "2025_26",
+ "legislation_id": 70953,
+ "page": "https://www.legis.ga.gov/legislation/70953",
+ "document_type": "HB",
+ "number": 666,
+ "legislation_type": "GEN",
+ "caption": "Clayton Judicial Circuit; superior courts; provide for a sixth judge",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-6-2 of the Official Code of Georgia Annotated, relating to the number of judges of superior courts, so as to provide for a sixth judge of the superior courts of the Clayton Judicial Circuit; to provide for the appointment of such additional judge by the Governor; to provide for the manner of impaneling jurors; to provide for an additional court reporter for such circuit; to authorize the governing authority of the counties comprising the Clayton Judicial Circuit to provide facilities, office space, supplies, equipment, and personnel for such judges; to declare inherent authority; to provide for related matters; to provide for effective dates; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T12:52:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234370,
+   "label": "LC 47 3471/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234370"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:22+00:00",
+  "version:234370": "2026-11-20T18:48:22+00:00",
+  "status:40": "2026-11-20T18:48:22+00:00",
+  "status:33": "2026-11-20T18:48:22+00:00",
+  "status:34": "2026-11-20T18:48:22+00:00"
+ },
+ "updated": "2026-11-20T18:48:22+00:00"
+}

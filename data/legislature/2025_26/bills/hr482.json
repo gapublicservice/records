@@ -1,0 +1,75 @@
+{
+ "key": "HR 482",
+ "slug": "hr482",
+ "session": "2025_26",
+ "legislation_id": 71137,
+ "page": "https://www.legis.ga.gov/legislation/71137",
+ "document_type": "HR",
+ "number": 482,
+ "legislation_type": "PRIV",
+ "caption": "Perkins-Frazier, Esther; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Esther Perkins-Frazier; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T13:23:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T14:11:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T14:11:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235138,
+   "label": "LC 112 3205/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235138"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:34+00:00",
+  "version:235138": "2026-11-20T19:41:34+00:00",
+  "status:40": "2026-11-20T19:41:34+00:00",
+  "status:33": "2026-11-20T19:41:34+00:00",
+  "status:48": "2026-11-20T19:41:34+00:00"
+ },
+ "updated": "2026-11-20T19:41:34+00:00"
+}

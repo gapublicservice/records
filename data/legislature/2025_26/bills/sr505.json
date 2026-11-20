@@ -1,0 +1,75 @@
+{
+ "key": "SR 505",
+ "slug": "sr505",
+ "session": "2025_26",
+ "legislation_id": 71879,
+ "page": "https://www.legis.ga.gov/legislation/71879",
+ "document_type": "SR",
+ "number": 505,
+ "legislation_type": "PRIV",
+ "caption": "El-Deiry, Rhea; congratulate",
+ "summary": "A RESOLUTION congratulating Rhea El-Deiry; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-28T15:33:49",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-31T11:32:43",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238105,
+   "label": "Read and adopted LC 112 3562",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238105"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:02:18+00:00",
+  "version:238105": "2026-11-20T21:02:18+00:00",
+  "status:67": "2026-11-20T21:02:18+00:00",
+  "status:66": "2026-11-20T21:02:18+00:00"
+ },
+ "updated": "2026-11-20T21:02:18+00:00"
+}

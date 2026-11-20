@@ -1,0 +1,102 @@
+{
+ "key": "HR 206",
+ "slug": "hr206",
+ "session": "2025_26",
+ "legislation_id": 70071,
+ "page": "https://www.legis.ga.gov/legislation/70071",
+ "document_type": "HR",
+ "number": 206,
+ "legislation_type": "GEN",
+ "caption": "Veterans Memorial Drive; Fulton/Dekalb Counties; dedicate",
+ "summary": "A RESOLUTION recognizing United States military veterans and dedicating a highway in their honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:49:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231684,
+   "label": "LC 39 9002/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231684"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:27+00:00",
+  "version:231684": "2026-11-20T19:35:27+00:00",
+  "status:40": "2026-11-20T19:35:27+00:00",
+  "status:33": "2026-11-20T19:35:27+00:00",
+  "status:34": "2026-11-20T19:35:27+00:00"
+ },
+ "updated": "2026-11-20T19:35:27+00:00"
+}

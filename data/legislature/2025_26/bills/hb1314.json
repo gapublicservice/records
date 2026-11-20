@@ -1,0 +1,95 @@
+{
+ "key": "HB 1314",
+ "slug": "hb1314",
+ "session": "2025_26",
+ "legislation_id": 73204,
+ "page": "https://www.legis.ga.gov/legislation/73204",
+ "document_type": "HB",
+ "number": 1314,
+ "legislation_type": "GEN",
+ "caption": "Banking and finance; require licensees to disclose whether a transaction is reportable to a credit reporting agency",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 3 of Title 7 of the Official Code of Georgia Annotated, relating to operating procedures, so as to require licensees to disclose whether a transaction is reportable to a credit reporting agency; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T13:40:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T08:39:14",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242589,
+   "label": "LC 62 0237/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242589"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:47+00:00",
+  "version:242589": "2026-11-20T19:18:47+00:00",
+  "status:40": "2026-11-20T19:18:47+00:00",
+  "status:33": "2026-11-20T19:18:47+00:00",
+  "status:34": "2026-11-20T19:18:47+00:00",
+  "status:39": "2026-11-20T19:18:47+00:00"
+ },
+ "updated": "2026-11-20T19:18:47+00:00"
+}

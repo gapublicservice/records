@@ -1,0 +1,88 @@
+{
+ "key": "HR 120",
+ "slug": "hr120",
+ "session": "2025_26",
+ "legislation_id": 69735,
+ "page": "https://www.legis.ga.gov/legislation/69735",
+ "document_type": "HR",
+ "number": 120,
+ "legislation_type": "CA",
+ "caption": "General Assembly; extend regular legislative sessions to a maximum of 90 legislative days - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to extend regular legislative sessions to a maximum of 90 legislative days; to provide for related matters; to provide for submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:14:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230872,
+   "label": "LC 60 0057/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230872"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:32+00:00",
+  "version:230872": "2026-11-20T19:33:32+00:00",
+  "status:40": "2026-11-20T19:33:32+00:00",
+  "status:33": "2026-11-20T19:33:32+00:00",
+  "status:34": "2026-11-20T19:33:32+00:00"
+ },
+ "updated": "2026-11-20T19:33:32+00:00"
+}

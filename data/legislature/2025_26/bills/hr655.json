@@ -1,0 +1,81 @@
+{
+ "key": "HR 655",
+ "slug": "hr655",
+ "session": "2025_26",
+ "legislation_id": 71496,
+ "page": "https://www.legis.ga.gov/legislation/71496",
+ "document_type": "HR",
+ "number": 655,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Gaming in the State of Georgia; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Gaming in the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T11:18:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236636,
+   "label": "LC 28 0695/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236636"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:21+00:00",
+  "version:236636": "2026-11-20T19:45:21+00:00",
+  "status:40": "2026-11-20T19:45:21+00:00",
+  "status:33": "2026-11-20T19:45:21+00:00",
+  "status:34": "2026-11-20T19:45:21+00:00"
+ },
+ "updated": "2026-11-20T19:45:21+00:00"
+}

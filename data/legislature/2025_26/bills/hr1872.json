@@ -1,0 +1,61 @@
+{
+ "key": "HR 1872",
+ "slug": "hr1872",
+ "session": "2025_26",
+ "legislation_id": 74393,
+ "page": "https://www.legis.ga.gov/legislation/74393",
+ "document_type": "HR",
+ "number": 1872,
+ "legislation_type": "PRIV",
+ "caption": "House session assistants; 2026 regular session of the General Assembly of Georgia; commend",
+ "summary": "A RESOLUTION recognizing and commending the House session assistants for the 2026 regular session of the General Assembly of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:39:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247180,
+   "label": "LC 112 3975/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247180"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:53+00:00",
+  "version:247180": "2026-11-20T20:12:53+00:00",
+  "status:40": "2026-11-20T20:12:53+00:00",
+  "status:33": "2026-11-20T20:12:53+00:00",
+  "status:48": "2026-11-20T20:12:53+00:00"
+ },
+ "updated": "2026-11-20T20:12:53+00:00"
+}

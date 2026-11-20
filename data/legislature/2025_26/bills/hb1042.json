@@ -1,0 +1,136 @@
+{
+ "key": "HB 1042",
+ "slug": "hb1042",
+ "session": "2025_26",
+ "legislation_id": 72372,
+ "page": "https://www.legis.ga.gov/legislation/72372",
+ "document_type": "HB",
+ "number": 1042,
+ "legislation_type": "GEN",
+ "caption": "Real Estate Security and Title Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 9, 15, and 23 of the Official Code of Georgia Annotated, relating to civil practice, courts, and equity, respectively, so as to provide for certain purchasers at judicial sales to submit a credit bid; to provide for the removal of the restriction on personally identifiable information after the death of a protected person; to provide penalties; to provide for the qualification of special masters in certain quiet title actions; to provide for definitions; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:41:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-10T09:40:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-02-19T11:29:02",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-20T09:00:24",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243380,
+   "label": "LC 56 0618S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243380"
+  },
+  {
+   "doc_id": 242115,
+   "label": "LC 62 0370S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242115"
+  },
+  {
+   "doc_id": 240194,
+   "label": "LC 49 2558/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240194"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:01+00:00",
+  "version:243380": "2026-11-20T19:07:01+00:00",
+  "version:242115": "2026-11-20T19:07:01+00:00",
+  "version:240194": "2026-11-20T19:07:01+00:00",
+  "status:40": "2026-11-20T19:07:01+00:00",
+  "status:33": "2026-11-20T19:07:01+00:00",
+  "status:34": "2026-11-20T19:07:01+00:00",
+  "status:39": "2026-11-20T19:07:01+00:00",
+  "status:50": "2026-11-20T19:07:01+00:00"
+ },
+ "updated": "2026-11-20T19:07:01+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 413",
+ "slug": "hr413",
+ "session": "2025_26",
+ "legislation_id": 70876,
+ "page": "https://www.legis.ga.gov/legislation/70876",
+ "document_type": "HR",
+ "number": 413,
+ "legislation_type": "PRIV",
+ "caption": "Communities in Schools of Atlanta; commend",
+ "summary": "A RESOLUTION recognizing and commending Communities in Schools of Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:35:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234107,
+   "label": "LC 112 3061/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234107"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:00+00:00",
+  "version:234107": "2026-11-20T19:40:00+00:00",
+  "status:40": "2026-11-20T19:40:00+00:00",
+  "status:33": "2026-11-20T19:40:00+00:00",
+  "status:48": "2026-11-20T19:40:00+00:00"
+ },
+ "updated": "2026-11-20T19:40:00+00:00"
+}

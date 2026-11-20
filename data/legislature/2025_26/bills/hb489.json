@@ -1,0 +1,102 @@
+{
+ "key": "HB 489",
+ "slug": "hb489",
+ "session": "2025_26",
+ "legislation_id": 70413,
+ "page": "https://www.legis.ga.gov/legislation/70413",
+ "document_type": "HB",
+ "number": 489,
+ "legislation_type": "GEN",
+ "caption": "End Public Funding of Misinformation Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department of Public Health, so as to repeal and reserve Article 2, relating to positive alternatives for pregnancy and parenting grant program; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:28:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232712,
+   "label": "LC 46 1101/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232712"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:40:15+00:00",
+  "version:232712": "2026-11-20T18:40:15+00:00",
+  "status:40": "2026-11-20T18:40:15+00:00",
+  "status:33": "2026-11-20T18:40:15+00:00",
+  "status:34": "2026-11-20T18:40:15+00:00"
+ },
+ "updated": "2026-11-20T18:40:15+00:00"
+}

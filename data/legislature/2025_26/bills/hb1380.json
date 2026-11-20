@@ -1,0 +1,116 @@
+{
+ "key": "HB 1380",
+ "slug": "hb1380",
+ "session": "2025_26",
+ "legislation_id": 73369,
+ "page": "https://www.legis.ga.gov/legislation/73369",
+ "document_type": "HB",
+ "number": 1380,
+ "legislation_type": "GEN",
+ "caption": "Special license plates; International Symbol of Access; provide issuance to current and former members of the General Assembly for qualified applicants",
+ "summary": "A BILL to be entitled an Act to amend Code Section 40-2-74 of the Official Code of Georgia Annotated, relating to license plates for persons with disabilities, so as to provide for the issuance of special license plates that display the International Symbol of Access upon the special license plate issued to current and former members of the General Assembly for qualified applicants; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:42:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244499,
+   "label": "LC 39 5018S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244499"
+  },
+  {
+   "doc_id": 243119,
+   "label": "LC 39 4930/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243119"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:08+00:00",
+  "version:244499": "2026-11-20T19:21:08+00:00",
+  "version:243119": "2026-11-20T19:21:08+00:00",
+  "status:40": "2026-11-20T19:21:08+00:00",
+  "status:33": "2026-11-20T19:21:08+00:00",
+  "status:34": "2026-11-20T19:21:08+00:00",
+  "status:39": "2026-11-20T19:21:08+00:00"
+ },
+ "updated": "2026-11-20T19:21:08+00:00"
+}

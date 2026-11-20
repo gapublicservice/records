@@ -1,0 +1,68 @@
+{
+ "key": "HR 2058",
+ "slug": "hr2058",
+ "session": "2025_26",
+ "legislation_id": 74647,
+ "page": "https://www.legis.ga.gov/legislation/74647",
+ "document_type": "HR",
+ "number": 2058,
+ "legislation_type": "PRIV",
+ "caption": "Heritage High School girls basketball team; congratulate",
+ "summary": "A RESOLUTION congratulating the Heritage High School girls basketball team; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:20:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:08:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:08:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248428,
+   "label": "LC 112 4187/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248428"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:09+00:00",
+  "version:248428": "2026-11-20T20:17:09+00:00",
+  "status:40": "2026-11-20T20:17:09+00:00",
+  "status:33": "2026-11-20T20:17:09+00:00",
+  "status:48": "2026-11-20T20:17:09+00:00"
+ },
+ "updated": "2026-11-20T20:17:09+00:00"
+}

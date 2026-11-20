@@ -1,0 +1,108 @@
+{
+ "key": "HB 522",
+ "slug": "hb522",
+ "session": "2025_26",
+ "legislation_id": 70502,
+ "page": "https://www.legis.ga.gov/legislation/70502",
+ "document_type": "HB",
+ "number": 522,
+ "legislation_type": "GEN",
+ "caption": "Health; prohibit certain health care providers and facilities from discriminating against potential organ transplant recipients due solely to their vaccine status",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 31 of the Official Code of Georgia Annotated, relating to general provisions regarding health, so as to prohibit certain healthcare providers and facilities from discriminating against potential organ transplant recipients due solely to the vaccine status of the potential recipient; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T12:11:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-28T09:32:14",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-01-29T09:21:46",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232943,
+   "label": "LC 33 9780/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232943"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:35+00:00",
+  "version:232943": "2026-11-20T18:41:35+00:00",
+  "status:40": "2026-11-20T18:41:35+00:00",
+  "status:33": "2026-11-20T18:41:35+00:00",
+  "status:34": "2026-11-20T18:41:35+00:00",
+  "status:39": "2026-11-20T18:41:35+00:00",
+  "status:50": "2026-11-20T18:41:35+00:00"
+ },
+ "updated": "2026-11-20T18:41:35+00:00"
+}

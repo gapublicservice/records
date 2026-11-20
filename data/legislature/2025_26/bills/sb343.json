@@ -1,0 +1,74 @@
+{
+ "key": "SB 343",
+ "slug": "sb343",
+ "session": "2025_26",
+ "legislation_id": 71477,
+ "page": "https://www.legis.ga.gov/legislation/71477",
+ "document_type": "SB",
+ "number": 343,
+ "legislation_type": "GEN",
+ "caption": "Age Verification of Account Holders; providers of social media platforms from permitting a minor aged 14 years or younger to be an account holder; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Code Section 39-6-2 of the Official Code of Georgia Annotated, relating to age verification of account holders, minors, and information relating to available content censorship or moderation features, so as to prohibit providers of social media platforms from permitting a minor aged 14 years or younger to be an account holder; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Children and Families",
+   "id": 195
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-19T13:56:59",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-20T10:10:36",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236550,
+   "label": "As introduced LC 56 0265",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236550"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:36:53+00:00",
+  "version:236550": "2026-11-20T20:36:53+00:00",
+  "status:67": "2026-11-20T20:36:53+00:00",
+  "status:3": "2026-11-20T20:36:53+00:00"
+ },
+ "updated": "2026-11-20T20:36:53+00:00"
+}

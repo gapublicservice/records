@@ -1,0 +1,54 @@
+{
+ "key": "SR 456",
+ "slug": "sr456",
+ "session": "2025_26",
+ "legislation_id": 71610,
+ "page": "https://www.legis.ga.gov/legislation/71610",
+ "document_type": "SR",
+ "number": 456,
+ "legislation_type": "PRIV",
+ "caption": "Week of the Young Child; recognize April 5-11",
+ "summary": "A RESOLUTION recognizing April 5-11 as the Week of the Young Child; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-25T10:56:27",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-27T11:57:19",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237066,
+   "label": "Read and adopted LC 129 0416",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237066"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:00:56+00:00",
+  "version:237066": "2026-11-20T21:00:56+00:00",
+  "status:67": "2026-11-20T21:00:56+00:00",
+  "status:66": "2026-11-20T21:00:56+00:00"
+ },
+ "updated": "2026-11-20T21:00:56+00:00"
+}

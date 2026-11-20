@@ -1,0 +1,89 @@
+{
+ "key": "HR 1931",
+ "slug": "hr1931",
+ "session": "2025_26",
+ "legislation_id": 74479,
+ "page": "https://www.legis.ga.gov/legislation/74479",
+ "document_type": "HR",
+ "number": 1931,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Highlands College Community Impact Day; July 4, 2026; recognize",
+ "summary": "A RESOLUTION recognizing July 4, 2026, as Georgia Highlands College Community Impact Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:52:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247557,
+   "label": "LC 129 1482/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247557"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:07+00:00",
+  "version:247557": "2026-11-20T20:14:07+00:00",
+  "status:40": "2026-11-20T20:14:07+00:00",
+  "status:33": "2026-11-20T20:14:07+00:00",
+  "status:48": "2026-11-20T20:14:07+00:00"
+ },
+ "updated": "2026-11-20T20:14:07+00:00"
+}

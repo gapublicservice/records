@@ -1,0 +1,74 @@
+{
+ "key": "HB 1126",
+ "slug": "hb1126",
+ "session": "2025_26",
+ "legislation_id": 72680,
+ "page": "https://www.legis.ga.gov/legislation/72680",
+ "document_type": "HB",
+ "number": 1126,
+ "legislation_type": "GEN",
+ "caption": "Georgia Musical Investment Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits regarding income tax, so as to create an income tax credit for certain expenditures by a production company related to certain state certified productions; to provide for rules and regulations and an application process related to such income tax credit; to provide for certain conditions, procedures, and limitations; to provide for definitions; to provide a short title; to provide for related matters; to provide for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:07:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241108,
+   "label": "LC 59 0220/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241108"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:10:24+00:00",
+  "version:241108": "2026-11-20T19:10:24+00:00",
+  "status:40": "2026-11-20T19:10:24+00:00",
+  "status:33": "2026-11-20T19:10:24+00:00",
+  "status:34": "2026-11-20T19:10:24+00:00"
+ },
+ "updated": "2026-11-20T19:10:24+00:00"
+}

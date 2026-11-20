@@ -1,0 +1,97 @@
+{
+ "key": "HB 1059",
+ "slug": "hb1059",
+ "session": "2025_26",
+ "legislation_id": 72510,
+ "page": "https://www.legis.ga.gov/legislation/72510",
+ "document_type": "HB",
+ "number": 1059,
+ "legislation_type": "GEN",
+ "caption": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 46 of the Official Code of Georgia Annotated, relating to general provisions regarding public utilities and public transportation, so as to enact the \"Data Center Impact Assessment and Development Moratorium Act of 2026\"; to prohibit the construction or development of new data centers for a specified time; to establish the Data Center Impact Assessment Commission; to provide for membership, terms, meetings, and compensation of such committee; to provide an effective date; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Technology and Infrastructure Innovation",
+   "id": 200
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:22:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240599,
+   "label": "LC 64 0024/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240599"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:26+00:00",
+  "version:240599": "2026-11-20T19:07:26+00:00",
+  "status:40": "2026-11-20T19:07:26+00:00",
+  "status:33": "2026-11-20T19:07:26+00:00",
+  "status:34": "2026-11-20T19:07:26+00:00"
+ },
+ "updated": "2026-11-20T19:07:26+00:00"
+}

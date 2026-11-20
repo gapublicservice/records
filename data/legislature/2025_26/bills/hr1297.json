@@ -1,0 +1,96 @@
+{
+ "key": "HR 1297",
+ "slug": "hr1297",
+ "session": "2025_26",
+ "legislation_id": 73047,
+ "page": "https://www.legis.ga.gov/legislation/73047",
+ "document_type": "HR",
+ "number": 1297,
+ "legislation_type": "PRIV",
+ "caption": "City of McDonough, Georgia; the first annual McDonough Day at the state capitol; recognize",
+ "summary": "A RESOLUTION recognizing the City of McDonough, Georgia, upon the first annual McDonough Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5001,
+   "name": "Lewis-Ward, Regina 115th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:06:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T13:20:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T13:20:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242083,
+   "label": "LC 129 1031/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242083"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:57+00:00",
+  "version:242083": "2026-11-20T19:59:57+00:00",
+  "status:40": "2026-11-20T19:59:57+00:00",
+  "status:33": "2026-11-20T19:59:57+00:00",
+  "status:48": "2026-11-20T19:59:57+00:00"
+ },
+ "updated": "2026-11-20T19:59:57+00:00"
+}

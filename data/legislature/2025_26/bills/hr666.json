@@ -1,0 +1,89 @@
+{
+ "key": "HR 666",
+ "slug": "hr666",
+ "session": "2025_26",
+ "legislation_id": 71519,
+ "page": "https://www.legis.ga.gov/legislation/71519",
+ "document_type": "HR",
+ "number": 666,
+ "legislation_type": "PRIV",
+ "caption": "Mac, Stacia; commend",
+ "summary": "A RESOLUTION recognizing and commending Stacia Mac; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:45:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236739,
+   "label": "LC 112 3454/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236739"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:39+00:00",
+  "version:236739": "2026-11-20T19:45:39+00:00",
+  "status:40": "2026-11-20T19:45:39+00:00",
+  "status:33": "2026-11-20T19:45:39+00:00",
+  "status:48": "2026-11-20T19:45:39+00:00"
+ },
+ "updated": "2026-11-20T19:45:39+00:00"
+}

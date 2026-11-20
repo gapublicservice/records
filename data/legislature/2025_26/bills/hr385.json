@@ -1,0 +1,89 @@
+{
+ "key": "HR 385",
+ "slug": "hr385",
+ "session": "2025_26",
+ "legislation_id": 70767,
+ "page": "https://www.legis.ga.gov/legislation/70767",
+ "document_type": "HR",
+ "number": 385,
+ "legislation_type": "PRIV",
+ "caption": "Rise Augusta; recipients of the Georgia Reads Community Award; dedication to literacy advancement; commend",
+ "summary": "A RESOLUTION congratulating and commending Rise Augusta, recipient of the Georgia Reads Community Award, for its dedication to literacy advancement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:46:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:25:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233710,
+   "label": "LC 112 3132/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233710"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:24+00:00",
+  "version:233710": "2026-11-20T19:39:24+00:00",
+  "status:40": "2026-11-20T19:39:24+00:00",
+  "status:33": "2026-11-20T19:39:24+00:00",
+  "status:48": "2026-11-20T19:39:24+00:00"
+ },
+ "updated": "2026-11-20T19:39:24+00:00"
+}

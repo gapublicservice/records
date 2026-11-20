@@ -1,0 +1,75 @@
+{
+ "key": "HR 75",
+ "slug": "hr75",
+ "session": "2025_26",
+ "legislation_id": 69608,
+ "page": "https://www.legis.ga.gov/legislation/69608",
+ "document_type": "HR",
+ "number": 75,
+ "legislation_type": "PRIV",
+ "caption": "Ham, Phillip Benson, Sr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Phillip Benson Ham Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:13:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T13:53:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T13:53:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230543,
+   "label": "LC 112 2741/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230543"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:26+00:00",
+  "version:230543": "2026-11-20T19:32:26+00:00",
+  "status:40": "2026-11-20T19:32:26+00:00",
+  "status:33": "2026-11-20T19:32:26+00:00",
+  "status:48": "2026-11-20T19:32:26+00:00"
+ },
+ "updated": "2026-11-20T19:32:26+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 923",
+ "slug": "hb923",
+ "session": "2025_26",
+ "legislation_id": 72072,
+ "page": "https://www.legis.ga.gov/legislation/72072",
+ "document_type": "HB",
+ "number": 923,
+ "legislation_type": "GEN",
+ "caption": "Pharmacies; furnish patients with written informational material when dispensing certain prescription drugs; require",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 4 of Title 26 of the Official Code of Georgia Annotated, relating to pharmacies, so as to require pharmacies to furnish patients with written informational material when dispensing certain prescription drugs; to require pharmacies to provide a means to safely dispose of unused, unwanted, or expired prescription drugs; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:52:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239275,
+   "label": "LC 57 0288/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239275"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:47+00:00",
+  "version:239275": "2026-11-20T19:01:47+00:00",
+  "status:40": "2026-11-20T19:01:47+00:00",
+  "status:33": "2026-11-20T19:01:47+00:00",
+  "status:34": "2026-11-20T19:01:47+00:00"
+ },
+ "updated": "2026-11-20T19:01:47+00:00"
+}

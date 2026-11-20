@@ -1,0 +1,61 @@
+{
+ "key": "HR 344",
+ "slug": "hr344",
+ "session": "2025_26",
+ "legislation_id": 70634,
+ "page": "https://www.legis.ga.gov/legislation/70634",
+ "document_type": "HR",
+ "number": 344,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Black Republican Council; commend",
+ "summary": "A RESOLUTION recognizing the members of the Georgia Black Republican Council; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:27:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T13:54:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T13:54:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233320,
+   "label": "LC 112 3090/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233320"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:30+00:00",
+  "version:233320": "2026-11-20T19:38:30+00:00",
+  "status:40": "2026-11-20T19:38:30+00:00",
+  "status:33": "2026-11-20T19:38:30+00:00",
+  "status:48": "2026-11-20T19:38:30+00:00"
+ },
+ "updated": "2026-11-20T19:38:30+00:00"
+}

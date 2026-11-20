@@ -1,0 +1,68 @@
+{
+ "key": "HR 123",
+ "slug": "hr123",
+ "session": "2025_26",
+ "legislation_id": 69742,
+ "page": "https://www.legis.ga.gov/legislation/69742",
+ "document_type": "HR",
+ "number": 123,
+ "legislation_type": "PRIV",
+ "caption": "Girl Scout Day at the state capitol; February 4, 2025; commending Girl Scouts as a national leader in providing the best leadership development experience in the world to American girls; recognize",
+ "summary": "A RESOLUTION recognizing February 4, 2025, as Girl Scout Day at the state capitol and commending Girl Scouts as a national leader in providing the best leadership development experience in the world to American girls; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:35:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T11:51:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T11:51:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230840,
+   "label": "LC 112 2811/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230840"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:38+00:00",
+  "version:230840": "2026-11-20T19:33:38+00:00",
+  "status:40": "2026-11-20T19:33:38+00:00",
+  "status:33": "2026-11-20T19:33:38+00:00",
+  "status:48": "2026-11-20T19:33:38+00:00"
+ },
+ "updated": "2026-11-20T19:33:38+00:00"
+}

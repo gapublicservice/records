@@ -1,0 +1,68 @@
+{
+ "key": "HR 1429",
+ "slug": "hr1429",
+ "session": "2025_26",
+ "legislation_id": 73493,
+ "page": "https://www.legis.ga.gov/legislation/73493",
+ "document_type": "HR",
+ "number": 1429,
+ "legislation_type": "PRIV",
+ "caption": "Powell, Mrs. Marthelle; celebrating 95th birthday; commend",
+ "summary": "A RESOLUTION honoring and celebrating the 95th birthday of Mrs. Marthelle Powell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-20T12:36:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T13:13:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T13:13:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243508,
+   "label": "LC 129 9037/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243508"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:20+00:00",
+  "version:243508": "2026-11-20T20:03:20+00:00",
+  "status:40": "2026-11-20T20:03:20+00:00",
+  "status:33": "2026-11-20T20:03:20+00:00",
+  "status:48": "2026-11-20T20:03:20+00:00"
+ },
+ "updated": "2026-11-20T20:03:20+00:00"
+}

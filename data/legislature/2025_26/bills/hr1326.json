@@ -1,0 +1,75 @@
+{
+ "key": "HR 1326",
+ "slug": "hr1326",
+ "session": "2025_26",
+ "legislation_id": 73108,
+ "page": "https://www.legis.ga.gov/legislation/73108",
+ "document_type": "HR",
+ "number": 1326,
+ "legislation_type": "PRIV",
+ "caption": "Family and Consumer Sciences; commend",
+ "summary": "A RESOLUTION recognizing Family and Consumer Sciences; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:16:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242272,
+   "label": "LC 129 1003/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242272"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:45+00:00",
+  "version:242272": "2026-11-20T20:00:45+00:00",
+  "status:40": "2026-11-20T20:00:45+00:00",
+  "status:33": "2026-11-20T20:00:45+00:00",
+  "status:48": "2026-11-20T20:00:45+00:00"
+ },
+ "updated": "2026-11-20T20:00:45+00:00"
+}

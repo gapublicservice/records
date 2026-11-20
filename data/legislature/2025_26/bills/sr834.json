@@ -1,0 +1,547 @@
+{
+ "key": "SR 834",
+ "slug": "sr834",
+ "session": "2025_26",
+ "legislation_id": 73512,
+ "page": "https://www.legis.ga.gov/legislation/73512",
+ "document_type": "SR",
+ "number": 834,
+ "legislation_type": "PRIV",
+ "caption": "Bangladeshi Peacekeepers in United Nations Peacekeeping Operations; recognize",
+ "summary": "A RESOLUTION recognizing and commending the outstanding contributions and sacrifices of Bangladeshi peacekeepers in United Nations Peacekeeping Operations; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 13
+  },
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 14
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 15
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 16
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 17
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 18
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 19
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 20
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 21
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 22
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 23
+  },
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 24
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 25
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T13:57:01",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-24T10:07:26",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-20T08:33:58",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2026-03-23T10:21:35",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-25T16:20:00",
+   "code": "STR",
+   "action": "Senate Third Read",
+   "id": 11
+  },
+  {
+   "date": "2026-03-25T16:24:23",
+   "code": "SPA",
+   "action": "Senate Passed/Adopted",
+   "id": 99
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247592,
+   "label": "Adopted Senate",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247592"
+  },
+  {
+   "doc_id": 243547,
+   "label": "As Introduced LC 129 0943",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243547"
+  }
+ ],
+ "votes": [
+  {
+   "vote_id": 26361,
+   "chamber": "Senate",
+   "date": "2026-03-25T16:23:00",
+   "roll_call": "Senate Vote #815 - 2025-2026 Regular Session",
+   "motion": "ADOPTION",
+   "yea": 48,
+   "nay": 0,
+   "not_voting": 3,
+   "excused": 5,
+   "members": [
+    {
+     "name": "ALBERS, 56TH",
+     "member_id": 754,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANAVITARTE, 31ST",
+     "member_id": 4980,
+     "vote": "Excused"
+    },
+    {
+     "name": "ANDERSON, 24TH",
+     "member_id": 723,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANDERSON, 43RD",
+     "member_id": 807,
+     "vote": "Yea"
+    },
+    {
+     "name": "BEARDEN, 30TH",
+     "member_id": 62,
+     "vote": "Yea"
+    },
+    {
+     "name": "BRASS, 6TH",
+     "member_id": 4907,
+     "vote": "Yea"
+    },
+    {
+     "name": "BURNS, 23RD",
+     "member_id": 4979,
+     "vote": "Yea"
+    },
+    {
+     "name": "COWSERT, 46TH",
+     "member_id": 9,
+     "vote": "Yea"
+    },
+    {
+     "name": "DAVENPORT, 17TH",
+     "member_id": 10,
+     "vote": "Yea"
+    },
+    {
+     "name": "DICKERSON, 21ST",
+     "member_id": 5088,
+     "vote": "Yea"
+    },
+    {
+     "name": "DIXON, 45TH",
+     "member_id": 4982,
+     "vote": "Yea"
+    },
+    {
+     "name": "DOLEZAL, 27TH",
+     "member_id": 4925,
+     "vote": "Yea"
+    },
+    {
+     "name": "ECHOLS, 49TH",
+     "member_id": 5067,
+     "vote": "Yea"
+    },
+    {
+     "name": "GINN, 47TH",
+     "member_id": 751,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOOCH, 51ST",
+     "member_id": 752,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOODMAN, 8TH",
+     "member_id": 4977,
+     "vote": "Yea"
+    },
+    {
+     "name": "HALPERN, 39TH",
+     "member_id": 4985,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARBIN, 16TH",
+     "member_id": 850,
+     "vote": "Excused"
+    },
+    {
+     "name": "HARBISON, 15TH",
+     "member_id": 17,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARRELL, 40TH",
+     "member_id": 311,
+     "vote": "Yea"
+    },
+    {
+     "name": "HATCHETT, 50TH",
+     "member_id": 4984,
+     "vote": "Yea"
+    },
+    {
+     "name": "HICKMAN, 4TH",
+     "member_id": 4972,
+     "vote": "Yea"
+    },
+    {
+     "name": "HODGES, 3RD",
+     "member_id": 5013,
+     "vote": "Yea"
+    },
+    {
+     "name": "HOWARD, 35TH",
+     "member_id": 5090,
+     "vote": "Yea"
+    },
+    {
+     "name": "HUFSTETLER, 52ND",
+     "member_id": 838,
+     "vote": "Yea"
+    },
+    {
+     "name": "JACKSON, 41ST",
+     "member_id": 4981,
+     "vote": "Yea"
+    },
+    {
+     "name": "JAMES, 28TH",
+     "member_id": 372,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES, 10TH",
+     "member_id": 28,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES II, 22ND",
+     "member_id": 851,
+     "vote": "Excused"
+    },
+    {
+     "name": "KEMP, 38TH",
+     "member_id": 5066,
+     "vote": "Yea"
+    },
+    {
+     "name": "KIRKPATRICK, 32ND",
+     "member_id": 4910,
+     "vote": "Yea"
+    },
+    {
+     "name": "LUCAS, 26TH",
+     "member_id": 157,
+     "vote": "Yea"
+    },
+    {
+     "name": "MALLOW, 2ND",
+     "member_id": 5007,
+     "vote": "Yea"
+    },
+    {
+     "name": "MANGHAM, 55TH",
+     "member_id": 161,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCLAURIN, 14TH",
+     "member_id": 4942,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCNEEL, 18TH",
+     "member_id": 5093,
+     "vote": "Yea"
+    },
+    {
+     "name": "MERRITT, 9TH",
+     "member_id": 4978,
+     "vote": "Yea"
+    },
+    {
+     "name": "ORROCK, 36TH",
+     "member_id": 33,
+     "vote": "Yea"
+    },
+    {
+     "name": "PARENT, 44TH",
+     "member_id": 768,
+     "vote": "Yea"
+    },
+    {
+     "name": "PAYNE, 54TH",
+     "member_id": 4909,
+     "vote": "Yea"
+    },
+    {
+     "name": "RAHMAN, 5TH",
+     "member_id": 4924,
+     "vote": "Yea"
+    },
+    {
+     "name": "RHETT, 33RD",
+     "member_id": 855,
+     "vote": "Yea"
+    },
+    {
+     "name": "ROBERTSON, 29TH",
+     "member_id": 4926,
+     "vote": "Yea"
+    },
+    {
+     "name": "SETZLER, 37TH",
+     "member_id": 203,
+     "vote": "Yea"
+    },
+    {
+     "name": "SIMS, 12TH",
+     "member_id": 209,
+     "vote": "Excused"
+    },
+    {
+     "name": "STILL, 48TH",
+     "member_id": 5016,
+     "vote": "Yea"
+    },
+    {
+     "name": "STRICKLAND, 42ND",
+     "member_id": 835,
+     "vote": "Yea"
+    },
+    {
+     "name": "SUMMERS, 13TH",
+     "member_id": 4971,
+     "vote": "Yea"
+    },
+    {
+     "name": "TILLERY, 19TH",
+     "member_id": 4908,
+     "vote": "Yea"
+    },
+    {
+     "name": "WALKER, III, 20TH (PRS)",
+     "member_id": 4878,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "WATSON, 1ST",
+     "member_id": 784,
+     "vote": "Yea"
+    },
+    {
+     "name": "WATSON, 11TH",
+     "member_id": 837,
+     "vote": "Yea"
+    },
+    {
+     "name": "WICKS, 34TH",
+     "member_id": 5065,
+     "vote": "Excused"
+    },
+    {
+     "name": "WILLIAMS, 25TH",
+     "member_id": 4905,
+     "vote": "Yea"
+    }
+   ]
+  }
+ ],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:49+00:00",
+  "version:247592": "2026-11-20T21:09:49+00:00",
+  "version:243547": "2026-11-20T21:09:49+00:00",
+  "status:67": "2026-11-20T21:09:49+00:00",
+  "status:3": "2026-11-20T21:09:49+00:00",
+  "status:8": "2026-11-20T21:09:49+00:00",
+  "status:10": "2026-11-20T21:09:49+00:00",
+  "status:11": "2026-11-20T21:09:49+00:00",
+  "status:99": "2026-11-20T21:09:49+00:00"
+ },
+ "updated": "2026-11-20T21:09:49+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HB 26",
+ "slug": "hb26",
+ "session": "2025_26",
+ "legislation_id": 69306,
+ "page": "https://www.legis.ga.gov/legislation/69306",
+ "document_type": "HB",
+ "number": 26,
+ "legislation_type": "GEN",
+ "caption": "School Behavioral Mental Health Support Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 1 of Title 37 of the Official Code of Georgia Annotated, relating to the powers and duties of the Department of Behavioral Health and Developmental Disabilities regarding the governing and regulation of mental health, so as to establish a school-linked behavioral health grant program; to provide a definition; to provide criteria for determining eligible applicants; to provide for allowable activities and related expenses; to provide for data collection and outcome measurement; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:34:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229800,
+   "label": "LC 60 0037/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229800"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:53+00:00",
+  "version:229800": "2026-11-20T18:16:53+00:00",
+  "status:40": "2026-11-20T18:16:53+00:00",
+  "status:33": "2026-11-20T18:16:53+00:00",
+  "status:34": "2026-11-20T18:16:53+00:00"
+ },
+ "updated": "2026-11-20T18:16:53+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1926",
+ "slug": "hr1926",
+ "session": "2025_26",
+ "legislation_id": 74474,
+ "page": "https://www.legis.ga.gov/legislation/74474",
+ "document_type": "HR",
+ "number": 1926,
+ "legislation_type": "PRIV",
+ "caption": "Coy, Anna Lane; commend",
+ "summary": "A RESOLUTION recognizing and commending Anna Lane Coy; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:50:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247543,
+   "label": "LC 129 1492/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247543"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:01+00:00",
+  "version:247543": "2026-11-20T20:14:01+00:00",
+  "status:40": "2026-11-20T20:14:01+00:00",
+  "status:33": "2026-11-20T20:14:01+00:00",
+  "status:48": "2026-11-20T20:14:01+00:00"
+ },
+ "updated": "2026-11-20T20:14:01+00:00"
+}

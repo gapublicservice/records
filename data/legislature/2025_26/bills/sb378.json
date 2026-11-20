@@ -1,0 +1,62 @@
+{
+ "key": "SB 378",
+ "slug": "sb378",
+ "session": "2025_26",
+ "legislation_id": 72066,
+ "page": "https://www.legis.ga.gov/legislation/72066",
+ "document_type": "SB",
+ "number": 378,
+ "legislation_type": "GEN",
+ "caption": "\"Anti-Corruption Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 5 of Title 21 of the Official Code of Georgia Annotated, relating to government transparency and campaign finance, so as to prohibit leadership committees; to prohibit lobbying activities by any organization that is the beneficiary of public funds; to provide a short title; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T18:54:51",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-04T19:20:21",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239213,
+   "label": "As introduced LC 47 3720",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239213"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:18+00:00",
+  "version:239213": "2026-11-20T20:38:18+00:00",
+  "status:67": "2026-11-20T20:38:18+00:00",
+  "status:3": "2026-11-20T20:38:18+00:00"
+ },
+ "updated": "2026-11-20T20:38:18+00:00"
+}

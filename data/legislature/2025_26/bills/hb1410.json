@@ -1,0 +1,88 @@
+{
+ "key": "HB 1410",
+ "slug": "hb1410",
+ "session": "2025_26",
+ "legislation_id": 73463,
+ "page": "https://www.legis.ga.gov/legislation/73463",
+ "document_type": "HB",
+ "number": 1410,
+ "legislation_type": "GEN",
+ "caption": "Georgia Student Vision and Literacy Readiness Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 and Chapter 2A of Title 31 of the O.C.G.A., relating to elementary and secondary education and the Department of Public Health, respectively, so as to modernize vision screening and literacy readiness requirements for elementary and secondary school students; to provide for related matters; to provide for a short title; to provide for legislative findings and intent; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T10:24:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T10:36:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T10:38:40",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243403,
+   "label": "LC 52 1034/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243403"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:13+00:00",
+  "version:243403": "2026-11-20T19:22:13+00:00",
+  "status:40": "2026-11-20T19:22:13+00:00",
+  "status:33": "2026-11-20T19:22:13+00:00",
+  "status:34": "2026-11-20T19:22:13+00:00"
+ },
+ "updated": "2026-11-20T19:22:13+00:00"
+}

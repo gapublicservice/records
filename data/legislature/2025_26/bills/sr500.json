@@ -1,0 +1,68 @@
+{
+ "key": "SR 500",
+ "slug": "sr500",
+ "session": "2025_26",
+ "legislation_id": 71869,
+ "page": "https://www.legis.ga.gov/legislation/71869",
+ "document_type": "SR",
+ "number": 500,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Jamila \"Mary Ethel Dozier\"; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Jamila \"Mary Ethel Dozier\" Jones; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-28T14:47:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-31T11:32:05",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238074,
+   "label": "Read and adopted LC 112 3555",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238074"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:02:11+00:00",
+  "version:238074": "2026-11-20T21:02:11+00:00",
+  "status:67": "2026-11-20T21:02:11+00:00",
+  "status:66": "2026-11-20T21:02:11+00:00"
+ },
+ "updated": "2026-11-20T21:02:11+00:00"
+}

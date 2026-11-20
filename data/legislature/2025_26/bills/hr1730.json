@@ -1,0 +1,75 @@
+{
+ "key": "HR 1730",
+ "slug": "hr1730",
+ "session": "2025_26",
+ "legislation_id": 74147,
+ "page": "https://www.legis.ga.gov/legislation/74147",
+ "document_type": "HR",
+ "number": 1730,
+ "legislation_type": "PRIV",
+ "caption": "Lambda Theta Alpha Sorority, Inc.'s, Alpha Sigma Alumnae Chapter's Mujeres Day at the Capitol; March 18, 2026; recognize",
+ "summary": "A RESOLUTION recognizing Lambda Theta Alpha Sorority, Inc.'s, Alpha Sigma Alumnae Chapter's Mujeres Day at the Capitol on March 18, 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T14:03:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246074,
+   "label": "LC 129 1398/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246074"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:50+00:00",
+  "version:246074": "2026-11-20T20:09:50+00:00",
+  "status:40": "2026-11-20T20:09:50+00:00",
+  "status:33": "2026-11-20T20:09:50+00:00",
+  "status:48": "2026-11-20T20:09:50+00:00"
+ },
+ "updated": "2026-11-20T20:09:50+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1192",
+ "slug": "hr1192",
+ "session": "2025_26",
+ "legislation_id": 72755,
+ "page": "https://www.legis.ga.gov/legislation/72755",
+ "document_type": "HR",
+ "number": 1192,
+ "legislation_type": "PRIV",
+ "caption": "YouthBuild Day at the capitol; February 5, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 5, 2026, as YouthBuild Day at the capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-02T13:26:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T14:03:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T14:03:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241233,
+   "label": "LC 129 0855/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241233"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:34+00:00",
+  "version:241233": "2026-11-20T19:57:34+00:00",
+  "status:40": "2026-11-20T19:57:34+00:00",
+  "status:33": "2026-11-20T19:57:34+00:00",
+  "status:48": "2026-11-20T19:57:34+00:00"
+ },
+ "updated": "2026-11-20T19:57:34+00:00"
+}

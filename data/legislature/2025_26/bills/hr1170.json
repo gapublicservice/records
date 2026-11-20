@@ -1,0 +1,89 @@
+{
+ "key": "HR 1170",
+ "slug": "hr1170",
+ "session": "2025_26",
+ "legislation_id": 72657,
+ "page": "https://www.legis.ga.gov/legislation/72657",
+ "document_type": "HR",
+ "number": 1170,
+ "legislation_type": "PRIV",
+ "caption": "Omega Day at the Georgia State Capitol; February 10, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 10, 2026, as Omega Day at the Georgia State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5052,
+   "name": "Sampson, David 153rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:47:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240986,
+   "label": "LC 129 0778/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240986"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:06+00:00",
+  "version:240986": "2026-11-20T19:57:06+00:00",
+  "status:40": "2026-11-20T19:57:06+00:00",
+  "status:33": "2026-11-20T19:57:06+00:00",
+  "status:48": "2026-11-20T19:57:06+00:00"
+ },
+ "updated": "2026-11-20T19:57:06+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 309",
+ "slug": "hr309",
+ "session": "2025_26",
+ "legislation_id": 70534,
+ "page": "https://www.legis.ga.gov/legislation/70534",
+ "document_type": "HR",
+ "number": 309,
+ "legislation_type": "PRIV",
+ "caption": "Rodgers, Rilyn; commend",
+ "summary": "A RESOLUTION honoring and commending Rilyn Rodgers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:50:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233039,
+   "label": "LC 129 0185/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233039"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:45+00:00",
+  "version:233039": "2026-11-20T19:37:45+00:00",
+  "status:40": "2026-11-20T19:37:45+00:00",
+  "status:33": "2026-11-20T19:37:45+00:00",
+  "status:48": "2026-11-20T19:37:45+00:00"
+ },
+ "updated": "2026-11-20T19:37:45+00:00"
+}

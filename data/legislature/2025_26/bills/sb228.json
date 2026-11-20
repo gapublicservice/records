@@ -1,0 +1,95 @@
+{
+ "key": "SB 228",
+ "slug": "sb228",
+ "session": "2025_26",
+ "legislation_id": 70616,
+ "page": "https://www.legis.ga.gov/legislation/70616",
+ "document_type": "SB",
+ "number": 228,
+ "legislation_type": "GEN",
+ "caption": "State Depositories; State Depository Board to allow the state treasurer to invest in bitcoin; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 17 of Title 50 of the Official Code of Georgia Annotated, relating to state depositories, so as to provide for the State Depository Board to allow the state treasurer to invest in bitcoin; to require the state treasurer to develop policies and procedures for the acceptance, storage, and transacting of bitcoin by the state; to require that bitcoin received or otherwise owned by the state shall be held in accordance with such policies and procedures; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Banking and Financial Institutions",
+   "id": 74
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:12:00",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-21T09:27:12",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233273,
+   "label": "As Introduced LC 55 0509",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233273"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:32:04+00:00",
+  "version:233273": "2026-11-20T20:32:04+00:00",
+  "status:67": "2026-11-20T20:32:04+00:00",
+  "status:3": "2026-11-20T20:32:04+00:00"
+ },
+ "updated": "2026-11-20T20:32:04+00:00"
+}

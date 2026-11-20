@@ -1,0 +1,95 @@
+{
+ "key": "HR 117",
+ "slug": "hr117",
+ "session": "2025_26",
+ "legislation_id": 69732,
+ "page": "https://www.legis.ga.gov/legislation/69732",
+ "document_type": "HR",
+ "number": 117,
+ "legislation_type": "NP",
+ "caption": "House of Representatives; acknowledge inequality as a public health issue and support BIPOC communities disproportionately affected by systemic barriers",
+ "summary": "A RESOLUTION acknowledging inequality as a public health issue and  supporting BIPOC communities disproportionately affected by systemic barriers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:14:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230861,
+   "label": "LC 129 0003/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230861"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:28+00:00",
+  "version:230861": "2026-11-20T19:33:28+00:00",
+  "status:40": "2026-11-20T19:33:28+00:00",
+  "status:33": "2026-11-20T19:33:28+00:00",
+  "status:34": "2026-11-20T19:33:28+00:00"
+ },
+ "updated": "2026-11-20T19:33:28+00:00"
+}

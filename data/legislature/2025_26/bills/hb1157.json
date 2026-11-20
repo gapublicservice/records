@@ -1,0 +1,102 @@
+{
+ "key": "HB 1157",
+ "slug": "hb1157",
+ "session": "2025_26",
+ "legislation_id": 72726,
+ "page": "https://www.legis.ga.gov/legislation/72726",
+ "document_type": "HB",
+ "number": 1157,
+ "legislation_type": "GEN",
+ "caption": "Labor and industrial relations; preemption of wage and employment benefit mandates adopted by a local government entity; repeal certain provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 34 of the Official Code of Georgia Annotated, relating to minimum wage law, so as to repeal certain provisions relating to the preemption of wage and employment benefit mandates adopted by a local government entity; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T12:00:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241190,
+   "label": "LC 52 0657/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241190"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:43+00:00",
+  "version:241190": "2026-11-20T19:11:43+00:00",
+  "status:40": "2026-11-20T19:11:43+00:00",
+  "status:33": "2026-11-20T19:11:43+00:00",
+  "status:34": "2026-11-20T19:11:43+00:00"
+ },
+ "updated": "2026-11-20T19:11:43+00:00"
+}

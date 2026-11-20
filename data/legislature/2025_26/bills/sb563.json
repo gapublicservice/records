@@ -1,0 +1,81 @@
+{
+ "key": "SB 563",
+ "slug": "sb563",
+ "session": "2025_26",
+ "legislation_id": 73562,
+ "page": "https://www.legis.ga.gov/legislation/73562",
+ "document_type": "SB",
+ "number": 563,
+ "legislation_type": "GEN",
+ "caption": "\"Juvenile Second Chance Record Confidentiality Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 9 of Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to access to hearing and records relative to the juvenile code, so as to provide for the automatic sealing of files and records in certain circumstances; to provide for exceptions; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T13:47:49",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-25T10:14:10",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243779,
+   "label": "As introduced LC 48 1735",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243779"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:46:54+00:00",
+  "version:243779": "2026-11-20T20:46:54+00:00",
+  "status:67": "2026-11-20T20:46:54+00:00",
+  "status:3": "2026-11-20T20:46:54+00:00"
+ },
+ "updated": "2026-11-20T20:46:54+00:00"
+}

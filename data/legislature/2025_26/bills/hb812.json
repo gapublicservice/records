@@ -1,0 +1,123 @@
+{
+ "key": "HB 812",
+ "slug": "hb812",
+ "session": "2025_26",
+ "legislation_id": 71551,
+ "page": "https://www.legis.ga.gov/legislation/71551",
+ "document_type": "HB",
+ "number": 812,
+ "legislation_type": "GEN",
+ "caption": "Buildings and housing; revise process by which a local governing body may propose amendments to state minimum standard codes",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 1 of Chapter 2 of Title 8 of the Official Code of Georgia Annotated, relating to state building, plumbing, and electrical codes, so as to revise the process by which a local governing body may propose amendments to state minimum standard codes; to require the approval of the Department of Community Affairs for amendments to such codes; to amend Chapter 7 of Title 12 of the Official Code of Georgia Annotated, relating to control of soil erosion and sedimentation, so as to revise provisions regarding denial or nonacceptance of permits; to require local issuing authorities to provide rejected permit applicants with a written list of reasons for denial within specified time frames; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-21T10:44:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T10:23:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T10:11:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T09:31:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-06T11:29:51",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244328,
+   "label": "LC 47 4125S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244328"
+  },
+  {
+   "doc_id": 236859,
+   "label": "LC 59 0157/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236859"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:59+00:00",
+  "version:244328": "2026-11-20T18:54:59+00:00",
+  "version:236859": "2026-11-20T18:54:59+00:00",
+  "status:40": "2026-11-20T18:54:59+00:00",
+  "status:33": "2026-11-20T18:54:59+00:00",
+  "status:34": "2026-11-20T18:54:59+00:00",
+  "status:39": "2026-11-20T18:54:59+00:00",
+  "status:50": "2026-11-20T18:54:59+00:00"
+ },
+ "updated": "2026-11-20T18:54:59+00:00"
+}

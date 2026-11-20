@@ -1,0 +1,61 @@
+{
+ "key": "HR 2100",
+ "slug": "hr2100",
+ "session": "2025_26",
+ "legislation_id": 74713,
+ "page": "https://www.legis.ga.gov/legislation/74713",
+ "document_type": "HR",
+ "number": 2100,
+ "legislation_type": "PRIV",
+ "caption": "Rambert, Carolyn H.; commend",
+ "summary": "A RESOLUTION recognizing and commending Carolyn H. Rambert; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:26:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248838,
+   "label": "LC 112 4226/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:09+00:00",
+  "version:248838": "2026-11-20T20:18:09+00:00",
+  "status:40": "2026-11-20T20:18:09+00:00",
+  "status:33": "2026-11-20T20:18:09+00:00",
+  "status:48": "2026-11-20T20:18:09+00:00"
+ },
+ "updated": "2026-11-20T20:18:09+00:00"
+}

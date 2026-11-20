@@ -1,0 +1,67 @@
+{
+ "key": "HR 566",
+ "slug": "hr566",
+ "session": "2025_26",
+ "legislation_id": 71285,
+ "page": "https://www.legis.ga.gov/legislation/71285",
+ "document_type": "HR",
+ "number": 566,
+ "legislation_type": "PRIV",
+ "caption": "McBath, Congresswoman Lucy; commend",
+ "summary": "A RESOLUTION recognizing and commending Congresswoman Lucy McBath; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-10T15:06:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T13:57:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T09:02:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235803,
+   "label": "LC 112 3342/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235803"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:26+00:00",
+  "version:235803": "2026-11-20T19:43:26+00:00",
+  "status:40": "2026-11-20T19:43:26+00:00",
+  "status:33": "2026-11-20T19:43:26+00:00",
+  "status:34": "2026-11-20T19:43:26+00:00"
+ },
+ "updated": "2026-11-20T19:43:26+00:00"
+}

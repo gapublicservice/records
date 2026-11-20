@@ -1,0 +1,96 @@
+{
+ "key": "HR 142",
+ "slug": "hr142",
+ "session": "2025_26",
+ "legislation_id": 69798,
+ "page": "https://www.legis.ga.gov/legislation/69798",
+ "document_type": "HR",
+ "number": 142,
+ "legislation_type": "PRIV",
+ "caption": "Walker, Dr. Shannon; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Shannon Walker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-03T12:11:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T12:53:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T12:53:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231009,
+   "label": "LC 112 2805/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231009"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:04+00:00",
+  "version:231009": "2026-11-20T19:34:04+00:00",
+  "status:40": "2026-11-20T19:34:04+00:00",
+  "status:33": "2026-11-20T19:34:04+00:00",
+  "status:48": "2026-11-20T19:34:04+00:00"
+ },
+ "updated": "2026-11-20T19:34:04+00:00"
+}

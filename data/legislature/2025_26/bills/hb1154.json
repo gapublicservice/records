@@ -1,0 +1,102 @@
+{
+ "key": "HB 1154",
+ "slug": "hb1154",
+ "session": "2025_26",
+ "legislation_id": 72719,
+ "page": "https://www.legis.ga.gov/legislation/72719",
+ "document_type": "HB",
+ "number": 1154,
+ "legislation_type": "GEN",
+ "caption": "Criminal procedure; imposition of death penalty; include offense of trafficking of persons for labor and sexual servitude",
+ "summary": "A BILL to be entitled an Act to amend Code Section 17-10-30 of the Official Code of Georgia Annotated, relating to procedure for imposition of death penalty generally, so as to include the offense of trafficking of persons for labor or sexual servitude; to provide for related matters; to provide for applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:51:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241163,
+   "label": "LC 48 1667/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241163"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:37+00:00",
+  "version:241163": "2026-11-20T19:11:37+00:00",
+  "status:40": "2026-11-20T19:11:37+00:00",
+  "status:33": "2026-11-20T19:11:37+00:00",
+  "status:34": "2026-11-20T19:11:37+00:00"
+ },
+ "updated": "2026-11-20T19:11:37+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 2021",
+ "slug": "hr2021",
+ "session": "2025_26",
+ "legislation_id": 74626,
+ "page": "https://www.legis.ga.gov/legislation/74626",
+ "document_type": "HR",
+ "number": 2021,
+ "legislation_type": "PRIV",
+ "caption": "Terrell, Dillon; commend",
+ "summary": "A RESOLUTION commending Dillon Terrell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:13:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248397,
+   "label": "LC 112 4176/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248397"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:17+00:00",
+  "version:248397": "2026-11-20T20:16:17+00:00",
+  "status:40": "2026-11-20T20:16:17+00:00",
+  "status:33": "2026-11-20T20:16:17+00:00",
+  "status:48": "2026-11-20T20:16:17+00:00"
+ },
+ "updated": "2026-11-20T20:16:17+00:00"
+}

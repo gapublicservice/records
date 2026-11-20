@@ -1,0 +1,89 @@
+{
+ "key": "HR 26",
+ "slug": "hr26",
+ "session": "2025_26",
+ "legislation_id": 69386,
+ "page": "https://www.legis.ga.gov/legislation/69386",
+ "document_type": "HR",
+ "number": 26,
+ "legislation_type": "PRIV",
+ "caption": "Brown, Captain Matthew T.; retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Captain Matthew T. Brown upon his retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-15T13:02:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T13:12:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T13:12:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229982,
+   "label": "LC 129 0017/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229982"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:07+00:00",
+  "version:229982": "2026-11-20T19:31:07+00:00",
+  "status:40": "2026-11-20T19:31:07+00:00",
+  "status:33": "2026-11-20T19:31:07+00:00",
+  "status:48": "2026-11-20T19:31:07+00:00"
+ },
+ "updated": "2026-11-20T19:31:07+00:00"
+}

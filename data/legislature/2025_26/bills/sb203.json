@@ -1,0 +1,112 @@
+{
+ "key": "SB 203",
+ "slug": "sb203",
+ "session": "2025_26",
+ "legislation_id": 70498,
+ "page": "https://www.legis.ga.gov/legislation/70498",
+ "document_type": "SB",
+ "number": 203,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Homegrown Solar Act of 2025\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to electrical service, so as to enact the \"Georgia Homegrown Solar Act of 2025\"; to provide definitions; to allow customers of an electric utility to aggregate demand from multiple locations and subscribe to certain off-site solar facilities; to provide for nondiscriminatory interconnection of such facilities; to provide for consumer protections for customers; to allow customers to access their own meter usage and provide such usage data to authorized third parties; to provide legislative findings; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Regulated Industries and Utilities",
+   "id": 141
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:45:13",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T10:31:01",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232917,
+   "label": "As introduced LC 55 0481",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232917"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:30:32+00:00",
+  "version:232917": "2026-11-20T20:30:32+00:00",
+  "status:67": "2026-11-20T20:30:32+00:00",
+  "status:3": "2026-11-20T20:30:32+00:00"
+ },
+ "updated": "2026-11-20T20:30:32+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "SR 80",
+ "slug": "sr80",
+ "session": "2025_26",
+ "legislation_id": 69740,
+ "page": "https://www.legis.ga.gov/legislation/69740",
+ "document_type": "SR",
+ "number": 80,
+ "legislation_type": "PRIV",
+ "caption": "Kile, Robert Michael \"Mike\"; commend",
+ "summary": "A RESOLUTION commending Robert Michael \"Mike\" Kile; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:34:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-03T11:07:42",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230827,
+   "label": "Read and adopted LC 112 2718",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230827"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:52:09+00:00",
+  "version:230827": "2026-11-20T20:52:09+00:00",
+  "status:67": "2026-11-20T20:52:09+00:00",
+  "status:66": "2026-11-20T20:52:09+00:00"
+ },
+ "updated": "2026-11-20T20:52:09+00:00"
+}

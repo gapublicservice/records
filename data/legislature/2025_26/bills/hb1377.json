@@ -1,0 +1,123 @@
+{
+ "key": "HB 1377",
+ "slug": "hb1377",
+ "session": "2025_26",
+ "legislation_id": 73366,
+ "page": "https://www.legis.ga.gov/legislation/73366",
+ "document_type": "HB",
+ "number": 1377,
+ "legislation_type": "GEN",
+ "caption": "Transit SPLOST; time limits upon recalling of an election; provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 5B of Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to special districts for transit purposes sales and use tax (Transit SPLOST), so as to provide for time limits upon the recalling of an election for approval of such special sales and use tax upon failure to approve; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:40:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T15:39:00",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-03T09:52:12",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244505,
+   "label": "LC 39 5019S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244505"
+  },
+  {
+   "doc_id": 243126,
+   "label": "LC 39 4866/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243126"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:02+00:00",
+  "version:244505": "2026-11-20T19:21:02+00:00",
+  "version:243126": "2026-11-20T19:21:02+00:00",
+  "status:40": "2026-11-20T19:21:02+00:00",
+  "status:33": "2026-11-20T19:21:02+00:00",
+  "status:34": "2026-11-20T19:21:02+00:00",
+  "status:50": "2026-11-20T19:21:02+00:00",
+  "status:39": "2026-11-20T19:21:02+00:00"
+ },
+ "updated": "2026-11-20T19:21:02+00:00"
+}

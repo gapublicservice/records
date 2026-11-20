@@ -1,0 +1,61 @@
+{
+ "key": "SR 168",
+ "slug": "sr168",
+ "session": "2025_26",
+ "legislation_id": 70174,
+ "page": "https://www.legis.ga.gov/legislation/70174",
+ "document_type": "SR",
+ "number": 168,
+ "legislation_type": "PRIV",
+ "caption": "Cohen, Jeffrey; recognize",
+ "summary": "A RESOLUTION recognizing and commending Jeffrey Cohen; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T10:27:20",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-12T11:36:23",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231993,
+   "label": "Read and adopted LC 129 0141",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231993"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:54:06+00:00",
+  "version:231993": "2026-11-20T20:54:06+00:00",
+  "status:67": "2026-11-20T20:54:06+00:00",
+  "status:66": "2026-11-20T20:54:06+00:00"
+ },
+ "updated": "2026-11-20T20:54:06+00:00"
+}

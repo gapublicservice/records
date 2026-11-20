@@ -1,0 +1,60 @@
+{
+ "key": "SB 227",
+ "slug": "sb227",
+ "session": "2025_26",
+ "legislation_id": 70605,
+ "page": "https://www.legis.ga.gov/legislation/70605",
+ "document_type": "SB",
+ "number": 227,
+ "legislation_type": "GEN",
+ "caption": "Labor and Industrial Relations; protections for freelance workers; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 34 of the O.C.G.A., relating to labor and industrial relations, so as to provide protections for freelance workers; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:22:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-21T09:27:06",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233247,
+   "label": "As Introduced LC 52 0661",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233247"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:32:03+00:00",
+  "version:233247": "2026-11-20T20:32:03+00:00",
+  "status:67": "2026-11-20T20:32:03+00:00",
+  "status:3": "2026-11-20T20:32:03+00:00"
+ },
+ "updated": "2026-11-20T20:32:03+00:00"
+}

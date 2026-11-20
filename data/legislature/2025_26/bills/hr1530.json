@@ -1,0 +1,102 @@
+{
+ "key": "HR 1530",
+ "slug": "hr1530",
+ "session": "2025_26",
+ "legislation_id": 73799,
+ "page": "https://www.legis.ga.gov/legislation/73799",
+ "document_type": "HR",
+ "number": 1530,
+ "legislation_type": "CA",
+ "caption": "Ending Slavery in Georgia Amendment; propose - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to repeal the exception allowing involuntary servitude for persons convicted of crimes or contempt of court; to provide for a short title; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T14:57:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244734,
+   "label": "LC 62 0094/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244734"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:32+00:00",
+  "version:244734": "2026-11-20T20:05:32+00:00",
+  "status:40": "2026-11-20T20:05:32+00:00",
+  "status:33": "2026-11-20T20:05:32+00:00",
+  "status:34": "2026-11-20T20:05:32+00:00"
+ },
+ "updated": "2026-11-20T20:05:32+00:00"
+}

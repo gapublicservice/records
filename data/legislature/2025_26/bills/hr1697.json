@@ -1,0 +1,96 @@
+{
+ "key": "HR 1697",
+ "slug": "hr1697",
+ "session": "2025_26",
+ "legislation_id": 74079,
+ "page": "https://www.legis.ga.gov/legislation/74079",
+ "document_type": "HR",
+ "number": 1697,
+ "legislation_type": "PRIV",
+ "caption": "City of Lawrenceville; 205th anniversary; recognize",
+ "summary": "A RESOLUTION celebrating the 205th anniversary of the City of Lawrenceville; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:48:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:16:00",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245835,
+   "label": "LC 112 3889/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245835"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:09+00:00",
+  "version:245835": "2026-11-20T20:09:09+00:00",
+  "status:40": "2026-11-20T20:09:09+00:00",
+  "status:33": "2026-11-20T20:09:09+00:00",
+  "status:48": "2026-11-20T20:09:09+00:00"
+ },
+ "updated": "2026-11-20T20:09:09+00:00"
+}

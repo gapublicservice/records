@@ -1,0 +1,82 @@
+{
+ "key": "HR 2041",
+ "slug": "hr2041",
+ "session": "2025_26",
+ "legislation_id": 74661,
+ "page": "https://www.legis.ga.gov/legislation/74661",
+ "document_type": "HR",
+ "number": 2041,
+ "legislation_type": "PRIV",
+ "caption": "Woodard, Pastor Terry; outstanding service and leadership in Clayton County; commend",
+ "summary": "A RESOLUTION recognizing and commending Pastor Terry Woodard for his outstanding service and leadership in Clayton County; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:22:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248410,
+   "label": "LC 112 4157/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248410"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:46+00:00",
+  "version:248410": "2026-11-20T20:16:46+00:00",
+  "status:40": "2026-11-20T20:16:46+00:00",
+  "status:33": "2026-11-20T20:16:46+00:00",
+  "status:48": "2026-11-20T20:16:46+00:00"
+ },
+ "updated": "2026-11-20T20:16:46+00:00"
+}

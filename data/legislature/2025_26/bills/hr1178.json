@@ -1,0 +1,109 @@
+{
+ "key": "HR 1178",
+ "slug": "hr1178",
+ "session": "2025_26",
+ "legislation_id": 72727,
+ "page": "https://www.legis.ga.gov/legislation/72727",
+ "document_type": "HR",
+ "number": 1178,
+ "legislation_type": "CA",
+ "caption": "General Assembly; provide by general law for local grant and adjustment programs; authorize",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to remove the cap on benefits granted pursuant to the Homeowner's Incentive Adjustment clause; to authorize the General Assembly to provide by general law for local grant and adjustment programs; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T12:00:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-18T09:48:48",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241217,
+   "label": "LC 47 3826/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241217"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:16+00:00",
+  "version:241217": "2026-11-20T19:57:16+00:00",
+  "status:40": "2026-11-20T19:57:16+00:00",
+  "status:33": "2026-11-20T19:57:16+00:00",
+  "status:34": "2026-11-20T19:57:16+00:00",
+  "status:39": "2026-11-20T19:57:16+00:00"
+ },
+ "updated": "2026-11-20T19:57:16+00:00"
+}

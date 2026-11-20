@@ -1,0 +1,61 @@
+{
+ "key": "HR 264",
+ "slug": "hr264",
+ "session": "2025_26",
+ "legislation_id": 70361,
+ "page": "https://www.legis.ga.gov/legislation/70361",
+ "document_type": "HR",
+ "number": 264,
+ "legislation_type": "PRIV",
+ "caption": "Valentine's Day weddings; commend",
+ "summary": "A RESOLUTION celebrating this year's Valentine's Day weddings; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:28:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232526,
+   "label": "LC 112 3014/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232526"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:46+00:00",
+  "version:232526": "2026-11-20T19:36:46+00:00",
+  "status:40": "2026-11-20T19:36:46+00:00",
+  "status:33": "2026-11-20T19:36:46+00:00",
+  "status:48": "2026-11-20T19:36:46+00:00"
+ },
+ "updated": "2026-11-20T19:36:46+00:00"
+}

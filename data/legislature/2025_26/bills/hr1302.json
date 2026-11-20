@@ -1,0 +1,61 @@
+{
+ "key": "HR 1302",
+ "slug": "hr1302",
+ "session": "2025_26",
+ "legislation_id": 73084,
+ "page": "https://www.legis.ga.gov/legislation/73084",
+ "document_type": "HR",
+ "number": 1302,
+ "legislation_type": "PRIV",
+ "caption": "Yansom, Jennifer; recipient of the EDWCM Support Staff of the Year award; commend",
+ "summary": "A RESOLUTION recognizing and commending Jennifer Yansom, recipient of the EDWCM Support Staff of the Year award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:07:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242240,
+   "label": "LC 129 9012/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242240"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:08+00:00",
+  "version:242240": "2026-11-20T20:00:08+00:00",
+  "status:40": "2026-11-20T20:00:08+00:00",
+  "status:33": "2026-11-20T20:00:08+00:00",
+  "status:48": "2026-11-20T20:00:08+00:00"
+ },
+ "updated": "2026-11-20T20:00:08+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 424",
+ "slug": "hr424",
+ "session": "2025_26",
+ "legislation_id": 70888,
+ "page": "https://www.legis.ga.gov/legislation/70888",
+ "document_type": "HR",
+ "number": 424,
+ "legislation_type": "PRIV",
+ "caption": "Executive Function Day at the state capitol; March 26, 2025; recognize",
+ "summary": "A RESOLUTION recognizing March 26, 2025, as Executive Function Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:41:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:46",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234111,
+   "label": "LC 112 3052/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234111"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:15+00:00",
+  "version:234111": "2026-11-20T19:40:15+00:00",
+  "status:40": "2026-11-20T19:40:15+00:00",
+  "status:33": "2026-11-20T19:40:15+00:00",
+  "status:48": "2026-11-20T19:40:15+00:00"
+ },
+ "updated": "2026-11-20T19:40:15+00:00"
+}

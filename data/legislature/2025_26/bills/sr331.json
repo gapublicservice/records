@@ -1,0 +1,61 @@
+{
+ "key": "SR 331",
+ "slug": "sr331",
+ "session": "2025_26",
+ "legislation_id": 71099,
+ "page": "https://www.legis.ga.gov/legislation/71099",
+ "document_type": "SR",
+ "number": 331,
+ "legislation_type": "PRIV",
+ "caption": "Rutledge, Cliff; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Cliff Rutledge; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T15:40:19",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-04T10:47:44",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234912,
+   "label": "Read and adopted LC 129 0226",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234912"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:57:57+00:00",
+  "version:234912": "2026-11-20T20:57:57+00:00",
+  "status:67": "2026-11-20T20:57:57+00:00",
+  "status:66": "2026-11-20T20:57:57+00:00"
+ },
+ "updated": "2026-11-20T20:57:57+00:00"
+}

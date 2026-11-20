@@ -1,0 +1,136 @@
+{
+ "key": "HB 1232",
+ "slug": "hb1232",
+ "session": "2025_26",
+ "legislation_id": 72953,
+ "page": "https://www.legis.ga.gov/legislation/72953",
+ "document_type": "HB",
+ "number": 1232,
+ "legislation_type": "GEN",
+ "caption": "Education; certain students be excused from school for participating in certain officially sanctioned visits to the state capitol; provide",
+ "summary": "A BILL to be entitled an Act to amend Subpart 2 of Part 1 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to compulsory attendance, so as to provide that certain students be excused from school for participating in certain officially sanctioned visits to the state capitol; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T10:37:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-04T19:58:15",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245179,
+   "label": "LC 65 0087S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245179"
+  },
+  {
+   "doc_id": 244541,
+   "label": "LC 61 0445S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244541"
+  },
+  {
+   "doc_id": 241859,
+   "label": "LC 65 0050/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241859"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:59+00:00",
+  "version:245179": "2026-11-20T19:14:59+00:00",
+  "version:244541": "2026-11-20T19:14:59+00:00",
+  "version:241859": "2026-11-20T19:14:59+00:00",
+  "status:40": "2026-11-20T19:14:59+00:00",
+  "status:33": "2026-11-20T19:14:59+00:00",
+  "status:34": "2026-11-20T19:14:59+00:00",
+  "status:39": "2026-11-20T19:14:59+00:00",
+  "status:50": "2026-11-20T19:14:59+00:00"
+ },
+ "updated": "2026-11-20T19:14:59+00:00"
+}

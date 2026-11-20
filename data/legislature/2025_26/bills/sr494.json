@@ -1,0 +1,116 @@
+{
+ "key": "SR 494",
+ "slug": "sr494",
+ "session": "2025_26",
+ "legislation_id": 71850,
+ "page": "https://www.legis.ga.gov/legislation/71850",
+ "document_type": "SR",
+ "number": 494,
+ "legislation_type": "PRIV",
+ "caption": "O'Connor, Daniel; recognize",
+ "summary": "A RESOLUTION recognizing and commending Daniel O'Connor for his service in redistricting and celebrating his birthday; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-28T12:13:15",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-31T10:47:29",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237972,
+   "label": "As Introduced LC 112 3540",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237972"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:02:03+00:00",
+  "version:237972": "2026-11-20T21:02:03+00:00",
+  "status:67": "2026-11-20T21:02:03+00:00",
+  "status:3": "2026-11-20T21:02:03+00:00"
+ },
+ "updated": "2026-11-20T21:02:03+00:00"
+}

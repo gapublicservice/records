@@ -1,0 +1,89 @@
+{
+ "key": "HR 665",
+ "slug": "hr665",
+ "session": "2025_26",
+ "legislation_id": 71518,
+ "page": "https://www.legis.ga.gov/legislation/71518",
+ "document_type": "HR",
+ "number": 665,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Association of Senior Centers in honor of National Senior Center Month; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia Association of Senior Centers in honor of National Senior Center Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:44:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236736,
+   "label": "LC 112 3422/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236736"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:37+00:00",
+  "version:236736": "2026-11-20T19:45:37+00:00",
+  "status:40": "2026-11-20T19:45:37+00:00",
+  "status:33": "2026-11-20T19:45:37+00:00",
+  "status:48": "2026-11-20T19:45:37+00:00"
+ },
+ "updated": "2026-11-20T19:45:37+00:00"
+}

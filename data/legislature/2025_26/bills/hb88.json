@@ -1,0 +1,136 @@
+{
+ "key": "HB 88",
+ "slug": "hb88",
+ "session": "2025_26",
+ "legislation_id": 69427,
+ "page": "https://www.legis.ga.gov/legislation/69427",
+ "document_type": "HB",
+ "number": 88,
+ "legislation_type": "GEN",
+ "caption": "State veterinary education; biomedical technicians to be eligible for the state student loan forgiveness program; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 6A of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated, relating to state veterinary education, so as to provide for biomedical technicians to be eligible for the state student loan forgiveness program; to provide for a definition; to provide for conditions and eligibility; to provide for terms of the loan purchase agreement; to provide for cancellation; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T12:54:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-26T12:54:03",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244315,
+   "label": "LC 61 0402S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244315"
+  },
+  {
+   "doc_id": 235340,
+   "label": "LC 61 0189S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235340"
+  },
+  {
+   "doc_id": 230097,
+   "label": "LC 52 0601/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230097"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:20:14+00:00",
+  "version:244315": "2026-11-20T18:20:14+00:00",
+  "version:235340": "2026-11-20T18:20:14+00:00",
+  "version:230097": "2026-11-20T18:20:14+00:00",
+  "status:40": "2026-11-20T18:20:14+00:00",
+  "status:33": "2026-11-20T18:20:14+00:00",
+  "status:34": "2026-11-20T18:20:14+00:00",
+  "status:39": "2026-11-20T18:20:14+00:00",
+  "status:50": "2026-11-20T18:20:14+00:00"
+ },
+ "updated": "2026-11-20T18:20:14+00:00"
+}

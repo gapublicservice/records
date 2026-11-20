@@ -1,0 +1,96 @@
+{
+ "key": "HR 154",
+ "slug": "hr154",
+ "session": "2025_26",
+ "legislation_id": 69901,
+ "page": "https://www.legis.ga.gov/legislation/69901",
+ "document_type": "HR",
+ "number": 154,
+ "legislation_type": "PRIV",
+ "caption": "Morehouse School of Medicine; 50th anniversary; recognize",
+ "summary": "A RESOLUTION commending Morehouse School of Medicine upon its 50th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T12:59:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231279,
+   "label": "LC 112 2800/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231279"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:21+00:00",
+  "version:231279": "2026-11-20T19:34:21+00:00",
+  "status:40": "2026-11-20T19:34:21+00:00",
+  "status:33": "2026-11-20T19:34:21+00:00",
+  "status:48": "2026-11-20T19:34:21+00:00"
+ },
+ "updated": "2026-11-20T19:34:21+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 59",
+ "slug": "hb59",
+ "session": "2025_26",
+ "legislation_id": 69371,
+ "page": "https://www.legis.ga.gov/legislation/69371",
+ "document_type": "HB",
+ "number": 59,
+ "legislation_type": "GEN",
+ "caption": "Education; state funding for one school counselor for every 250 full-time equivalent students; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-182 of the Official Code of Georgia Annotated, relating to program weights to reflect funds for payment of salaries and benefits, maximum class size, reporting requirements, and application to specific school years, so as to provide for state funding for one school counselor for every 250 full-time equivalent students; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-15T11:59:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T10:28:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-17T09:22:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229981,
+   "label": "LC 49 2045/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229981"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:18:51+00:00",
+  "version:229981": "2026-11-20T18:18:51+00:00",
+  "status:40": "2026-11-20T18:18:51+00:00",
+  "status:33": "2026-11-20T18:18:51+00:00",
+  "status:34": "2026-11-20T18:18:51+00:00"
+ },
+ "updated": "2026-11-20T18:18:51+00:00"
+}

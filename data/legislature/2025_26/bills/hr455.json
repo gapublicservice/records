@@ -1,0 +1,68 @@
+{
+ "key": "HR 455",
+ "slug": "hr455",
+ "session": "2025_26",
+ "legislation_id": 71039,
+ "page": "https://www.legis.ga.gov/legislation/71039",
+ "document_type": "HR",
+ "number": 455,
+ "legislation_type": "PRIV",
+ "caption": "Holder, Terry; induction into the Georgia Sports Hall of Fame; commend",
+ "summary": "A RESOLUTION congratulating Terry Holder upon his induction into the Georgia Sports Hall of Fame; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:09:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:55:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T12:55:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234659,
+   "label": "LC 112 3204/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234659"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:58+00:00",
+  "version:234659": "2026-11-20T19:40:58+00:00",
+  "status:40": "2026-11-20T19:40:58+00:00",
+  "status:33": "2026-11-20T19:40:58+00:00",
+  "status:48": "2026-11-20T19:40:58+00:00"
+ },
+ "updated": "2026-11-20T19:40:58+00:00"
+}

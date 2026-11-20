@@ -1,0 +1,108 @@
+{
+ "key": "HB 560",
+ "slug": "hb560",
+ "session": "2025_26",
+ "legislation_id": 70611,
+ "page": "https://www.legis.ga.gov/legislation/70611",
+ "document_type": "HB",
+ "number": 560,
+ "legislation_type": "GEN",
+ "caption": "Joint county and municipal sales and use tax (LOST); negotiations for distribution of tax proceeds; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to joint county and municipal sales and use tax (LOST), so as to revise provisions related to negotiations for the distribution of tax proceeds; to limit the application of certain requirements with respect to absent counties; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:54:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T13:11:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:29",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-03T11:30:48",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233270,
+   "label": "LC 50 1149/a",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233270"
+  },
+  {
+   "doc_id": 233880,
+   "label": "LC 50 1176S/hs",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233880"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:07+00:00",
+  "version:233270": "2026-11-20T18:43:07+00:00",
+  "version:233880": "2026-11-20T18:43:07+00:00",
+  "status:40": "2026-11-20T18:43:07+00:00",
+  "status:33": "2026-11-20T18:43:07+00:00",
+  "status:34": "2026-11-20T18:43:07+00:00",
+  "status:39": "2026-11-20T18:43:07+00:00",
+  "status:50": "2026-11-20T18:43:07+00:00"
+ },
+ "updated": "2026-11-20T18:43:07+00:00"
+}

@@ -1,0 +1,54 @@
+{
+ "key": "SR 511",
+ "slug": "sr511",
+ "session": "2025_26",
+ "legislation_id": 71883,
+ "page": "https://www.legis.ga.gov/legislation/71883",
+ "document_type": "SR",
+ "number": 511,
+ "legislation_type": "PRIV",
+ "caption": "Willis, Michelle Taylor; recognize",
+ "summary": "A RESOLUTION recognizing and commending Michelle Taylor Willis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T10:48:56",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-02T11:13:41",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238188,
+   "label": "Read and adopted LC 112 3593",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238188"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:02:25+00:00",
+  "version:238188": "2026-11-20T21:02:25+00:00",
+  "status:67": "2026-11-20T21:02:25+00:00",
+  "status:66": "2026-11-20T21:02:25+00:00"
+ },
+ "updated": "2026-11-20T21:02:25+00:00"
+}

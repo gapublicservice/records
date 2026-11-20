@@ -1,0 +1,82 @@
+{
+ "key": "HR 2002",
+ "slug": "hr2002",
+ "session": "2025_26",
+ "legislation_id": 74576,
+ "page": "https://www.legis.ga.gov/legislation/74576",
+ "document_type": "HR",
+ "number": 2002,
+ "legislation_type": "PRIV",
+ "caption": "Smith, Howard Edward; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Howard Edward Smith; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T16:09:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T16:41:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T16:41:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248026,
+   "label": "LC 129 1517/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248026"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:44+00:00",
+  "version:248026": "2026-11-20T20:15:44+00:00",
+  "status:40": "2026-11-20T20:15:44+00:00",
+  "status:33": "2026-11-20T20:15:44+00:00",
+  "status:48": "2026-11-20T20:15:44+00:00"
+ },
+ "updated": "2026-11-20T20:15:44+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "HR 1808",
+ "slug": "hr1808",
+ "session": "2025_26",
+ "legislation_id": 74289,
+ "page": "https://www.legis.ga.gov/legislation/74289",
+ "document_type": "HR",
+ "number": 1808,
+ "legislation_type": "PRIV",
+ "caption": "Klinect, Melinda; commend",
+ "summary": "A RESOLUTION honoring the work of Melinda Klinect and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-19T14:09:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T15:02:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T15:02:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246719,
+   "label": "LC 129 1406/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246719"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:31+00:00",
+  "version:246719": "2026-11-20T20:11:31+00:00",
+  "status:40": "2026-11-20T20:11:31+00:00",
+  "status:33": "2026-11-20T20:11:31+00:00",
+  "status:48": "2026-11-20T20:11:31+00:00"
+ },
+ "updated": "2026-11-20T20:11:31+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "SB 278",
+ "slug": "sb278",
+ "session": "2025_26",
+ "legislation_id": 70921,
+ "page": "https://www.legis.ga.gov/legislation/70921",
+ "document_type": "SB",
+ "number": 278,
+ "legislation_type": "GEN",
+ "caption": "Standards, Labeling, and Adulteration of Food; corn masa flour and wet corn masa products to contain certain amounts of folic acid; require",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to standards, labeling, and adulteration of food, so as to require corn masa flour and wet corn masa products to contain certain amounts of folic acid; to provide for certain labeling requirements; to authorize rules and regulations; to provide for penalties; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Agriculture and Consumer Affairs",
+   "id": 107
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T17:27:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:31:28",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-02-26T09:55:59",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-03-03T13:24:21",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244288,
+   "label": "Committee Sub LC 60 0326S",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244288"
+  },
+  {
+   "doc_id": 234222,
+   "label": "As introduced LC 60 0085",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234222"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:34:23+00:00",
+  "version:244288": "2026-11-20T20:34:23+00:00",
+  "version:234222": "2026-11-20T20:34:23+00:00",
+  "status:67": "2026-11-20T20:34:23+00:00",
+  "status:3": "2026-11-20T20:34:23+00:00",
+  "status:8": "2026-11-20T20:34:23+00:00",
+  "status:10": "2026-11-20T20:34:23+00:00",
+  "status:64": "2026-11-20T20:34:23+00:00"
+ },
+ "updated": "2026-11-20T20:34:23+00:00"
+}

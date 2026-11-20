@@ -1,0 +1,89 @@
+{
+ "key": "SR 1014",
+ "slug": "sr1014",
+ "session": "2025_26",
+ "legislation_id": 74347,
+ "page": "https://www.legis.ga.gov/legislation/74347",
+ "document_type": "SR",
+ "number": 1014,
+ "legislation_type": "PRIV",
+ "caption": "King, Jaylan; recognize",
+ "summary": "A RESOLUTION recognizing and commending Jaylan King; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:21:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-25T12:18:35",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247011,
+   "label": "Read and adopted LC 112 3998",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247011"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:13:57+00:00",
+  "version:247011": "2026-11-20T21:13:57+00:00",
+  "status:67": "2026-11-20T21:13:57+00:00",
+  "status:66": "2026-11-20T21:13:57+00:00"
+ },
+ "updated": "2026-11-20T21:13:57+00:00"
+}

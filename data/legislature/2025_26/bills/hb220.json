@@ -1,0 +1,88 @@
+{
+ "key": "HB 220",
+ "slug": "hb220",
+ "session": "2025_26",
+ "legislation_id": 69773,
+ "page": "https://www.legis.ga.gov/legislation/69773",
+ "document_type": "HB",
+ "number": 220,
+ "legislation_type": "GEN",
+ "caption": "Insurance; insurer under a liability policy to pay a third party and the senior lienholder under certain circumstances; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 33 of the Official Code of Georgia Annotated, relating to kinds of insurance, limits of risks, and reinsurance, so as to provide for an insurer under a liability insurance policy to pay a third party and the senior lienholder under certain circumstances; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-03T11:42:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T10:44:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T09:56:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230982,
+   "label": "LC 52 0706/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230982"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:27:01+00:00",
+  "version:230982": "2026-11-20T18:27:01+00:00",
+  "status:40": "2026-11-20T18:27:01+00:00",
+  "status:33": "2026-11-20T18:27:01+00:00",
+  "status:34": "2026-11-20T18:27:01+00:00"
+ },
+ "updated": "2026-11-20T18:27:01+00:00"
+}

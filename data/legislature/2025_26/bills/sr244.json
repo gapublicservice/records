@@ -1,0 +1,67 @@
+{
+ "key": "SR 244",
+ "slug": "sr244",
+ "session": "2025_26",
+ "legislation_id": 70705,
+ "page": "https://www.legis.ga.gov/legislation/70705",
+ "document_type": "SR",
+ "number": 244,
+ "legislation_type": "NP",
+ "caption": "Equal Rights Amendment; encouraging all states to ratify",
+ "summary": "A RESOLUTION encouraging all states to ratify the Equal Rights Amendment and commending those states which have already done so; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T13:35:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-24T10:10:01",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233533,
+   "label": "As introduced LC 33 9792",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233533"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:55:48+00:00",
+  "version:233533": "2026-11-20T20:55:48+00:00",
+  "status:67": "2026-11-20T20:55:48+00:00",
+  "status:3": "2026-11-20T20:55:48+00:00"
+ },
+ "updated": "2026-11-20T20:55:48+00:00"
+}

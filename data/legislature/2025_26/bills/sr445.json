@@ -1,0 +1,74 @@
+{
+ "key": "SR 445",
+ "slug": "sr445",
+ "session": "2025_26",
+ "legislation_id": 71564,
+ "page": "https://www.legis.ga.gov/legislation/71564",
+ "document_type": "SR",
+ "number": 445,
+ "legislation_type": "NP",
+ "caption": "Department of Community Affairs; investigate the abusive practices of homeowners' associations; encourage",
+ "summary": "A RESOLUTION encouraging the Department of Community Affairs to investigate the abusive practices of homeowners' associations, particularly their impact on the elderly and other vulnerable residents in a community; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Economic Development and Tourism",
+   "id": 165
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-21T11:46:44",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-25T10:10:33",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236885,
+   "label": "As introduced LC 62 0187",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236885"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:00:37+00:00",
+  "version:236885": "2026-11-20T21:00:37+00:00",
+  "status:67": "2026-11-20T21:00:37+00:00",
+  "status:3": "2026-11-20T21:00:37+00:00"
+ },
+ "updated": "2026-11-20T21:00:37+00:00"
+}

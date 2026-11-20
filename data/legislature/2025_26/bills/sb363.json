@@ -1,0 +1,62 @@
+{
+ "key": "SB 363",
+ "slug": "sb363",
+ "session": "2025_26",
+ "legislation_id": 71729,
+ "page": "https://www.legis.ga.gov/legislation/71729",
+ "document_type": "SB",
+ "number": 363,
+ "legislation_type": "GEN",
+ "caption": "Electors; restrictions of voting rights for judicially incompetent persons; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 21-2-216 of the Official Code of Georgia Annotated, relating to qualifications of electors generally, reregistration of electors purged from list, eligibility of nonresidents who vote in presidential elections, retention of qualification for standing as elector, evidence of citizenship, and check of convicted felons and deceased persons databases, so as to provide restrictions of voting rights for judicially incompetent persons; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T12:05:25",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T10:14:47",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237523,
+   "label": "As introduced LC 48 1387",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237523"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:48+00:00",
+  "version:237523": "2026-11-20T20:37:48+00:00",
+  "status:67": "2026-11-20T20:37:48+00:00",
+  "status:3": "2026-11-20T20:37:48+00:00"
+ },
+ "updated": "2026-11-20T20:37:48+00:00"
+}

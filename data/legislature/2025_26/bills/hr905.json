@@ -1,0 +1,102 @@
+{
+ "key": "HR 905",
+ "slug": "hr905",
+ "session": "2025_26",
+ "legislation_id": 71986,
+ "page": "https://www.legis.ga.gov/legislation/71986",
+ "document_type": "HR",
+ "number": 905,
+ "legislation_type": "NP",
+ "caption": "Education, Department of; implement a public awareness campaign for grade levels K-12 regarding blockchain, cryptocurrency, and Web3; encourage",
+ "summary": "A RESOLUTION encouraging the Department of Education to implement a public awareness campaign for grade levels K-12 regarding blockchain, cryptocurrency, and Web3; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T13:05:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238762,
+   "label": "LC 62 0144/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238762"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:08+00:00",
+  "version:238762": "2026-11-20T19:51:08+00:00",
+  "status:40": "2026-11-20T19:51:08+00:00",
+  "status:33": "2026-11-20T19:51:08+00:00",
+  "status:34": "2026-11-20T19:51:08+00:00"
+ },
+ "updated": "2026-11-20T19:51:08+00:00"
+}

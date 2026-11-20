@@ -1,0 +1,95 @@
+{
+ "key": "HB 631",
+ "slug": "hb631",
+ "session": "2025_26",
+ "legislation_id": 70808,
+ "page": "https://www.legis.ga.gov/legislation/70808",
+ "document_type": "HB",
+ "number": 631,
+ "legislation_type": "GEN",
+ "caption": "Education; require minimum base salary for certified professional personnel with bachelor's degrees be based upon national average living wage",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-212 of the Official Code of Georgia Annotated, relating to salary schedules for professionals in elementary and secondary education, so as to require that the minimum base salary for certificated professional personnel with bachelor's degrees be based upon the national average living wage as determined by the State Board of Education; to provide for the calculation and publication of such national average living wage at least once every three years; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:14:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233932,
+   "label": "LC 49 2195/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233932"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:46:39+00:00",
+  "version:233932": "2026-11-20T18:46:39+00:00",
+  "status:40": "2026-11-20T18:46:39+00:00",
+  "status:33": "2026-11-20T18:46:39+00:00",
+  "status:34": "2026-11-20T18:46:39+00:00"
+ },
+ "updated": "2026-11-20T18:46:39+00:00"
+}

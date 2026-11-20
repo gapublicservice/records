@@ -1,0 +1,74 @@
+{
+ "key": "HB 930",
+ "slug": "hb930",
+ "session": "2025_26",
+ "legislation_id": 72079,
+ "page": "https://www.legis.ga.gov/legislation/72079",
+ "document_type": "HB",
+ "number": 930,
+ "legislation_type": "GEN",
+ "caption": "Income tax; refundable credit for grocery, transportation, and utility costs; provide",
+ "summary": "A BILL to be entitled an Act to amend Titles 33, 34, and 48 of the Official Code of Georgia Annotated, relating to insurance, labor and industrial relations, and revenue and taxation, respectively, so as to provide for a refundable tax credit for grocery, transportation, and utility costs; to provide for a refundable tax credit for certain workforce development training expenses; to provide for the collection and administration of such tax; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:54:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239278,
+   "label": "LC 50 1270/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239278"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:56+00:00",
+  "version:239278": "2026-11-20T19:01:56+00:00",
+  "status:40": "2026-11-20T19:01:56+00:00",
+  "status:33": "2026-11-20T19:01:56+00:00",
+  "status:34": "2026-11-20T19:01:56+00:00"
+ },
+ "updated": "2026-11-20T19:01:56+00:00"
+}

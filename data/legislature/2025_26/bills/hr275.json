@@ -1,0 +1,81 @@
+{
+ "key": "HR 275",
+ "slug": "hr275",
+ "session": "2025_26",
+ "legislation_id": 70430,
+ "page": "https://www.legis.ga.gov/legislation/70430",
+ "document_type": "HR",
+ "number": 275,
+ "legislation_type": "NP",
+ "caption": "State of Georgia; increase minimum school drop out age from 16 to 17 years old; support",
+ "summary": "A RESOLUTION supporting an increase in the minimum school drop out age from 16 to 17 years old in the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:32:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232728,
+   "label": "LC 112 2921/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232728"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:01+00:00",
+  "version:232728": "2026-11-20T19:37:01+00:00",
+  "status:40": "2026-11-20T19:37:01+00:00",
+  "status:33": "2026-11-20T19:37:01+00:00",
+  "status:34": "2026-11-20T19:37:01+00:00"
+ },
+ "updated": "2026-11-20T19:37:01+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 1399",
+ "slug": "hr1399",
+ "session": "2025_26",
+ "legislation_id": 73393,
+ "page": "https://www.legis.ga.gov/legislation/73393",
+ "document_type": "HR",
+ "number": 1399,
+ "legislation_type": "PRIV",
+ "caption": "Allen, Dr. Danny Ray; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dr. Danny Ray Allen; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:42:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:09:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:09:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243219,
+   "label": "LC 129 1164/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243219"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:37+00:00",
+  "version:243219": "2026-11-20T20:02:37+00:00",
+  "status:40": "2026-11-20T20:02:37+00:00",
+  "status:33": "2026-11-20T20:02:37+00:00",
+  "status:48": "2026-11-20T20:02:37+00:00"
+ },
+ "updated": "2026-11-20T20:02:37+00:00"
+}

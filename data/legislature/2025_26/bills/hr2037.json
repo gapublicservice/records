@@ -1,0 +1,75 @@
+{
+ "key": "HR 2037",
+ "slug": "hr2037",
+ "session": "2025_26",
+ "legislation_id": 74657,
+ "page": "https://www.legis.ga.gov/legislation/74657",
+ "document_type": "HR",
+ "number": 2037,
+ "legislation_type": "PRIV",
+ "caption": "Armstrong, Dee; induction into the Georgia Association of Broadcasters Hall of Fame; recognize",
+ "summary": "A RESOLUTION recognizing and commending Dee Armstrong upon her induction into the Georgia Association of Broadcasters Hall of Fame; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:21:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248406,
+   "label": "LC 112 4192/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248406"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:40+00:00",
+  "version:248406": "2026-11-20T20:16:40+00:00",
+  "status:40": "2026-11-20T20:16:40+00:00",
+  "status:33": "2026-11-20T20:16:40+00:00",
+  "status:48": "2026-11-20T20:16:40+00:00"
+ },
+ "updated": "2026-11-20T20:16:40+00:00"
+}

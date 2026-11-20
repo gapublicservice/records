@@ -1,0 +1,95 @@
+{
+ "key": "HB 1242",
+ "slug": "hb1242",
+ "session": "2025_26",
+ "legislation_id": 72971,
+ "page": "https://www.legis.ga.gov/legislation/72971",
+ "document_type": "HB",
+ "number": 1242,
+ "legislation_type": "GEN",
+ "caption": "Medical Freedom Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 31 of the O.C.G.A., relating to control of hazardous conditions, preventable diseases, and metabolic disorders, so as to repeal the authority of the Department of Public Health and all county boards of health to require persons to submit to vaccinations against or other measures to prevent contagious or infectious diseases; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:13:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241873,
+   "label": "LC 60 9006/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241873"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:22+00:00",
+  "version:241873": "2026-11-20T19:15:22+00:00",
+  "status:40": "2026-11-20T19:15:22+00:00",
+  "status:33": "2026-11-20T19:15:22+00:00",
+  "status:34": "2026-11-20T19:15:22+00:00"
+ },
+ "updated": "2026-11-20T19:15:22+00:00"
+}

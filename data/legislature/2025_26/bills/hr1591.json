@@ -1,0 +1,82 @@
+{
+ "key": "HR 1591",
+ "slug": "hr1591",
+ "session": "2025_26",
+ "legislation_id": 73897,
+ "page": "https://www.legis.ga.gov/legislation/73897",
+ "document_type": "HR",
+ "number": 1591,
+ "legislation_type": "PRIV",
+ "caption": "The Claxton Enterprise; commend",
+ "summary": "A RESOLUTION commending The Claxton Enterprise; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T15:30:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T16:53:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T16:53:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245083,
+   "label": "LC 112 3799/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245083"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:51+00:00",
+  "version:245083": "2026-11-20T20:06:51+00:00",
+  "status:40": "2026-11-20T20:06:51+00:00",
+  "status:33": "2026-11-20T20:06:51+00:00",
+  "status:48": "2026-11-20T20:06:51+00:00"
+ },
+ "updated": "2026-11-20T20:06:51+00:00"
+}

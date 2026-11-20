@@ -1,0 +1,89 @@
+{
+ "key": "HR 467",
+ "slug": "hr467",
+ "session": "2025_26",
+ "legislation_id": 71080,
+ "page": "https://www.legis.ga.gov/legislation/71080",
+ "document_type": "HR",
+ "number": 467,
+ "legislation_type": "PRIV",
+ "caption": "Jack and Jill of America, Inc.; commend",
+ "summary": "A RESOLUTION commending Jack and Jill of America, Inc.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T13:02:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T13:43:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T13:43:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234845,
+   "label": "LC 112 3226/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234845"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:14+00:00",
+  "version:234845": "2026-11-20T19:41:14+00:00",
+  "status:40": "2026-11-20T19:41:14+00:00",
+  "status:33": "2026-11-20T19:41:14+00:00",
+  "status:48": "2026-11-20T19:41:14+00:00"
+ },
+ "updated": "2026-11-20T19:41:14+00:00"
+}

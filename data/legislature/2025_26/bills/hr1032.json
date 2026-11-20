@@ -1,0 +1,88 @@
+{
+ "key": "HR 1032",
+ "slug": "hr1032",
+ "session": "2025_26",
+ "legislation_id": 72296,
+ "page": "https://www.legis.ga.gov/legislation/72296",
+ "document_type": "HR",
+ "number": 1032,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Raising the Minimum Wage in Georgia; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Raising the Minimum Wage in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:13:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240034,
+   "label": "LC 52 9005/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240034"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:00+00:00",
+  "version:240034": "2026-11-20T19:54:00+00:00",
+  "status:40": "2026-11-20T19:54:00+00:00",
+  "status:33": "2026-11-20T19:54:00+00:00",
+  "status:34": "2026-11-20T19:54:00+00:00"
+ },
+ "updated": "2026-11-20T19:54:00+00:00"
+}

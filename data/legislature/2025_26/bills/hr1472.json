@@ -1,0 +1,88 @@
+{
+ "key": "HR 1472",
+ "slug": "hr1472",
+ "session": "2025_26",
+ "legislation_id": 73634,
+ "page": "https://www.legis.ga.gov/legislation/73634",
+ "document_type": "HR",
+ "number": 1472,
+ "legislation_type": "CA",
+ "caption": "General Assembly; assessment and taxation of affordable housing use property; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide for assessment and taxation of affordable housing use property; to provide for definitions, methods of assessment and taxation, and conditions; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T11:55:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T12:38:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T09:38:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244045,
+   "label": "LC 44 3379/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244045"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:17+00:00",
+  "version:244045": "2026-11-20T20:04:17+00:00",
+  "status:40": "2026-11-20T20:04:17+00:00",
+  "status:33": "2026-11-20T20:04:17+00:00",
+  "status:34": "2026-11-20T20:04:17+00:00"
+ },
+ "updated": "2026-11-20T20:04:17+00:00"
+}

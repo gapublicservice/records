@@ -1,0 +1,74 @@
+{
+ "key": "HB 128",
+ "slug": "hb128",
+ "session": "2025_26",
+ "legislation_id": 69502,
+ "page": "https://www.legis.ga.gov/legislation/69502",
+ "document_type": "HB",
+ "number": 128,
+ "legislation_type": "GEN",
+ "caption": "Fair Business Practices Act of 1975; prohibit vehicle rental companies from refusing to rent or lease to individuals over the age of 25",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to the \"Fair Business Practices Act of 1975,\" so as to prohibit motor vehicle rental companies from refusing to rent or lease motor vehicles to individuals over the age of 25 based solely on the age of such individuals; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T10:56:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230269,
+   "label": "LC 55 0341/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230269"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:22:13+00:00",
+  "version:230269": "2026-11-20T18:22:13+00:00",
+  "status:40": "2026-11-20T18:22:13+00:00",
+  "status:33": "2026-11-20T18:22:13+00:00",
+  "status:34": "2026-11-20T18:22:13+00:00"
+ },
+ "updated": "2026-11-20T18:22:13+00:00"
+}

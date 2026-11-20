@@ -1,0 +1,68 @@
+{
+ "key": "HR 1035",
+ "slug": "hr1035",
+ "session": "2025_26",
+ "legislation_id": 72307,
+ "page": "https://www.legis.ga.gov/legislation/72307",
+ "document_type": "HR",
+ "number": 1035,
+ "legislation_type": "PRIV",
+ "caption": "Delva, Naomie; honoring the life and legacy; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Naomie Delva; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:52:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T12:42:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T12:42:28",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240062,
+   "label": "LC 129 0591/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240062"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:03+00:00",
+  "version:240062": "2026-11-20T19:54:03+00:00",
+  "status:40": "2026-11-20T19:54:03+00:00",
+  "status:33": "2026-11-20T19:54:03+00:00",
+  "status:48": "2026-11-20T19:54:03+00:00"
+ },
+ "updated": "2026-11-20T19:54:03+00:00"
+}

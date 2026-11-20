@@ -1,0 +1,40 @@
+{
+ "bill": "SB 34",
+ "from": {
+  "doc_id": 233805,
+  "label": "Committee Sub LC 55 0460S",
+  "version": 3,
+  "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233805"
+ },
+ "to": {
+  "doc_id": 243948,
+  "label": "Committee Sub LC 56 0584S",
+  "version": 8,
+  "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243948"
+ },
+ "summary": {
+  "words_added": 161,
+  "words_removed": 219,
+  "unchanged": false,
+  "sections_added": [],
+  "sections_dropped": [],
+  "numbers_changed": [
+   {
+    "from": [],
+    "to": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   }
+  ],
+  "code_sections_newly_touched": [],
+  "code_sections_no_longer_touched": [
+   "46-2-25",
+   "46-3-11"
+  ]
+ },
+ "html": "The Senate Committee on Regulated Industries and Utilities offered the following substitute to SB 34: <del>\n MOOT</del> <br> A BILL TO BE ENTITLED AN ACT <br> To amend Chapter 2 of Title 46 of the Official Code of Georgia Annotated, relating to the Public Service Commission, so as to <del>prohibit</del> <ins>require</ins> certain <del>costs incurred by an</del> <ins>contract terms and conditions between</ins> electric <del>utility as a result of providing electric services to commercial data centers from being included in any rates or charges of such electric utility unless such rates or charges are designed to recover such costs solely from such commercial data centers or are prorated based on electric demand;</del> <ins>utilities and large load customers;</ins> to provide for a definition; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes. <br> BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA: <br> SECTION 1. Chapter 2 of Title 46 of the Official Code of Georgia Annotated, relating to the Public Service Commission, is amended by adding a new Code section to read as follows: &quot;46-2-25.4. (a) <del>Notwithstanding the provisions of Code Section 46-3-11, no costs incurred by an electric utility, including, but not limited to, costs associated with increased fuel requirements, generation costs, and transmission costs that: (1) Are related to the provision of electric services to commercial data centers; and \n (2) Would not have been incurred but for the electric demand of such commercial data centers, shall be included in any rates or charges approved or allowed to go into effect under Code Section 46-2-25 or 46-2-26 unless such rates or charges are designed to recover such costs solely from commercial data centers or are prorated based on electric demand. (b)</del> As used in this Code section, the term <del>&#x27;commercial data center&#x27;</del> <ins>&#x27;large load customer&#x27;</ins> means <del>a facility, campus of facilities, or array of interconnected facilities in this state that is used by</del> <ins>customers with</ins> an <del>entity or other business enterprise to operate, manage, or maintain a computer, group of computers, or other organized assembly of hardware and software for the primary purpose of processing, storing, retrieving, or transmitting data and that has a</del> <ins>expected total</ins> peak demand of 100 megawatts or <del>greater.&quot;</del> <ins>greater at one or more premises located on one tract or contiguous tracts of land. (b) Each contract between an electric utility and a large load customer for the provision of electric service, entered into on or after the effective date of this Act, shall include terms and conditions designed to protect residential and retail electricity customers from costs \n associated with serving new large load customers, including, but not limited to, the following: (1) Minimum billing requirements designed to recover incremental costs associated with serving or preparing to serve a large load customer; (2) A contract term that may exceed the length of the applicable service tariff; (3) Performance and credit provisions designed to protect retail customers in the event of contract default; and (4) Termination provisions designed to protect retail customers in the event of termination of the contract for electric service.&quot;</ins> <br> SECTION 2. This Act shall become effective upon its approval by the Governor or upon its becoming law without such approval. <br> SECTION 3. All laws and parts of laws in conflict with this Act are repealed. <br>",
+ "made": "2026-11-20T20:21:04+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HB 354",
+ "slug": "hb354",
+ "session": "2025_26",
+ "legislation_id": 70116,
+ "page": "https://www.legis.ga.gov/legislation/70116",
+ "document_type": "HB",
+ "number": 354,
+ "legislation_type": "GEN",
+ "caption": "Evidence; exclude certain communications made between attorney and client when client is in a penal institution",
+ "summary": "A BILL to be entitled an Act to amend Code Section 24-5-501 of the Official Code of Georgia Annotated, relating to certain communications privileged, so as to exclude from evidence certain communications made between attorney and client when the client is in a penal institution; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:43:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231832,
+   "label": "LC 48 1440/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231832"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:45+00:00",
+  "version:231832": "2026-11-20T18:33:45+00:00",
+  "status:40": "2026-11-20T18:33:45+00:00",
+  "status:33": "2026-11-20T18:33:45+00:00",
+  "status:34": "2026-11-20T18:33:45+00:00"
+ },
+ "updated": "2026-11-20T18:33:45+00:00"
+}

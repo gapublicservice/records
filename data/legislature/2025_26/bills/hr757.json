@@ -1,0 +1,88 @@
+{
+ "key": "HR 757",
+ "slug": "hr757",
+ "session": "2025_26",
+ "legislation_id": 71733,
+ "page": "https://www.legis.ga.gov/legislation/71733",
+ "document_type": "HR",
+ "number": 757,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Civil Rights Protections; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Civil Rights Protections; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T12:36:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-28T09:56:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T10:12:40",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237562,
+   "label": "LC 48 1613/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237562"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:53+00:00",
+  "version:237562": "2026-11-20T19:47:53+00:00",
+  "status:40": "2026-11-20T19:47:53+00:00",
+  "status:33": "2026-11-20T19:47:53+00:00",
+  "status:34": "2026-11-20T19:47:53+00:00"
+ },
+ "updated": "2026-11-20T19:47:53+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1353",
+ "slug": "hr1353",
+ "session": "2025_26",
+ "legislation_id": 73210,
+ "page": "https://www.legis.ga.gov/legislation/73210",
+ "document_type": "HR",
+ "number": 1353,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Coalition Against Domestic Violence; recognize",
+ "summary": "A RESOLUTION recognizing the Georgia Coalition Against Domestic Violence; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:02:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242625,
+   "label": "LC 129 1069/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242625"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:33+00:00",
+  "version:242625": "2026-11-20T20:01:33+00:00",
+  "status:40": "2026-11-20T20:01:33+00:00",
+  "status:33": "2026-11-20T20:01:33+00:00",
+  "status:48": "2026-11-20T20:01:33+00:00"
+ },
+ "updated": "2026-11-20T20:01:33+00:00"
+}

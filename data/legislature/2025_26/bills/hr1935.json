@@ -1,0 +1,75 @@
+{
+ "key": "HR 1935",
+ "slug": "hr1935",
+ "session": "2025_26",
+ "legislation_id": 74483,
+ "page": "https://www.legis.ga.gov/legislation/74483",
+ "document_type": "HR",
+ "number": 1935,
+ "legislation_type": "PRIV",
+ "caption": "Kerce, Dr. Stephanie Dean; Georgia General Assembly Special Event Interns from Georgia State University; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Stephanie Dean Kerce and the Georgia General Assembly Special Event Interns from Georgia State University; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:55:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:12",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247572,
+   "label": "LC 129 1479/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247572"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:12+00:00",
+  "version:247572": "2026-11-20T20:14:12+00:00",
+  "status:40": "2026-11-20T20:14:12+00:00",
+  "status:33": "2026-11-20T20:14:12+00:00",
+  "status:48": "2026-11-20T20:14:12+00:00"
+ },
+ "updated": "2026-11-20T20:14:12+00:00"
+}

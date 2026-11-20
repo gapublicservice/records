@@ -1,0 +1,118 @@
+{
+ "key": "SB 270",
+ "slug": "sb270",
+ "session": "2025_26",
+ "legislation_id": 70860,
+ "page": "https://www.legis.ga.gov/legislation/70860",
+ "document_type": "SB",
+ "number": 270,
+ "legislation_type": "GEN",
+ "caption": "Elections and Primaries; rules or regulations adopted by the State Election Board prior to a general primary, general election, or runoff thereof; limit the effective date",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to limit the effective date of rules or regulations adopted by the State Election Board prior to a general primary, general election, or runoff thereof; to provide for notice of such events to candidates and the selection of poll watchers for the same; to revise certain reporting requirements related to advance voting; to revise provisions related to locations poll watchers may have access to; to provide reporting requirements for the conclusion of the computation and canvassing of the returns; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:59:19",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:30:24",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234028,
+   "label": "As introduced LC 47 3445",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234028"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:34:07+00:00",
+  "version:234028": "2026-11-20T20:34:07+00:00",
+  "status:67": "2026-11-20T20:34:07+00:00",
+  "status:3": "2026-11-20T20:34:07+00:00"
+ },
+ "updated": "2026-11-20T20:34:07+00:00"
+}

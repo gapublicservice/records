@@ -1,0 +1,88 @@
+{
+ "key": "HB 1509",
+ "slug": "hb1509",
+ "session": "2025_26",
+ "legislation_id": 73878,
+ "page": "https://www.legis.ga.gov/legislation/73878",
+ "document_type": "HB",
+ "number": 1509,
+ "legislation_type": "GEN",
+ "caption": "Local government; zoning procedures; operation of immigration detention centers; require special use permits",
+ "summary": "A BILL to be entitled an Act to amend Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning procedures applicable to counties and municipal corporations, so as to require local governments that have adopted zoning ordinances to require special use permits for the operation of immigration detention centers; to provide for definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-04T11:40:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T10:42:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-09T13:20:34",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244985,
+   "label": "LC 47 4105/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244985"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:25:27+00:00",
+  "version:244985": "2026-11-20T19:25:27+00:00",
+  "status:40": "2026-11-20T19:25:27+00:00",
+  "status:33": "2026-11-20T19:25:27+00:00",
+  "status:34": "2026-11-20T19:25:27+00:00"
+ },
+ "updated": "2026-11-20T19:25:27+00:00"
+}

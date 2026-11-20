@@ -1,0 +1,81 @@
+{
+ "key": "HB 1280",
+ "slug": "hb1280",
+ "session": "2025_26",
+ "legislation_id": 73122,
+ "page": "https://www.legis.ga.gov/legislation/73122",
+ "document_type": "HB",
+ "number": 1280,
+ "legislation_type": "GEN",
+ "caption": "Revenue and taxation; election of a county's chief appraiser; provisions",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 5 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to equalization of assessments, so as to provide for the General Assembly to allow by local Act for the election of a county's chief appraiser; to provide for the election, commission, removal, term, qualifications, vacancies, oath, duties, and compensation of such chief appraisers; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-11T10:58:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T10:53:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T09:58:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242338,
+   "label": "LC 47 4013/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242338"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:17:24+00:00",
+  "version:242338": "2026-11-20T19:17:24+00:00",
+  "status:40": "2026-11-20T19:17:24+00:00",
+  "status:33": "2026-11-20T19:17:24+00:00",
+  "status:34": "2026-11-20T19:17:24+00:00"
+ },
+ "updated": "2026-11-20T19:17:24+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 1490",
+ "slug": "hr1490",
+ "session": "2025_26",
+ "legislation_id": 73680,
+ "page": "https://www.legis.ga.gov/legislation/73680",
+ "document_type": "HR",
+ "number": 1490,
+ "legislation_type": "PRIV",
+ "caption": "City of East Point; commend",
+ "summary": "A RESOLUTION recognizing the City of East Point; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T14:59:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T16:24:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T16:24:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244161,
+   "label": "LC 129 1238/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244161"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:41+00:00",
+  "version:244161": "2026-11-20T20:04:41+00:00",
+  "status:40": "2026-11-20T20:04:41+00:00",
+  "status:33": "2026-11-20T20:04:41+00:00",
+  "status:48": "2026-11-20T20:04:41+00:00"
+ },
+ "updated": "2026-11-20T20:04:41+00:00"
+}

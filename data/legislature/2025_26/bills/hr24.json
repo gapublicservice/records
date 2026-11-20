@@ -1,0 +1,61 @@
+{
+ "key": "HR 24",
+ "slug": "hr24",
+ "session": "2025_26",
+ "legislation_id": 69365,
+ "page": "https://www.legis.ga.gov/legislation/69365",
+ "document_type": "HR",
+ "number": 24,
+ "legislation_type": "PRIV",
+ "caption": "Corporate Volunteer Council of Atlanta; commend",
+ "summary": "A RESOLUTION commending the Corporate Volunteer Council of Atlanta; and for other purposes",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-14T13:12:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T13:29:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-14T13:29:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229931,
+   "label": "LC 112 2668/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229931"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:04+00:00",
+  "version:229931": "2026-11-20T19:31:04+00:00",
+  "status:40": "2026-11-20T19:31:04+00:00",
+  "status:33": "2026-11-20T19:31:04+00:00",
+  "status:48": "2026-11-20T19:31:04+00:00"
+ },
+ "updated": "2026-11-20T19:31:04+00:00"
+}

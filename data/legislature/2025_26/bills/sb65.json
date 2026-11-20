@@ -1,0 +1,116 @@
+{
+ "key": "SB 65",
+ "slug": "sb65",
+ "session": "2025_26",
+ "legislation_id": 69709,
+ "page": "https://www.legis.ga.gov/legislation/69709",
+ "document_type": "SB",
+ "number": 65,
+ "legislation_type": "GEN",
+ "caption": "Education; mandatory kindergarten for all children prior to entering into first grade; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to provide for mandatory kindergarten for all children prior to entering into first grade; to lower the age of compulsory school attendance from six years old to five years old; to provide for related matters; to provide for contingent effectiveness; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Education and Youth",
+   "id": 120
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T10:52:15",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-03T10:05:06",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-03-03T12:41:36",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-03-04T10:22:57",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:29:08",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230775,
+   "label": "As introduced LC 49 2031",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230775"
+  },
+  {
+   "doc_id": 234792,
+   "label": "Committee sub LC 49 2324S",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234792"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:22:43+00:00",
+  "version:230775": "2026-11-20T20:22:43+00:00",
+  "version:234792": "2026-11-20T20:22:43+00:00",
+  "status:67": "2026-11-20T20:22:43+00:00",
+  "status:3": "2026-11-20T20:22:43+00:00",
+  "status:8": "2026-11-20T20:22:43+00:00",
+  "status:10": "2026-11-20T20:22:43+00:00",
+  "status:103": "2026-11-20T20:22:43+00:00"
+ },
+ "updated": "2026-11-20T20:22:43+00:00"
+}

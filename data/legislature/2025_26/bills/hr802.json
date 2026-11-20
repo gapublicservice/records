@@ -1,0 +1,96 @@
+{
+ "key": "HR 802",
+ "slug": "hr802",
+ "session": "2025_26",
+ "legislation_id": 71779,
+ "page": "https://www.legis.ga.gov/legislation/71779",
+ "document_type": "HR",
+ "number": 802,
+ "legislation_type": "PRIV",
+ "caption": "Cunningham, Lisa; commend",
+ "summary": "A RESOLUTION commending Lisa Cunningham; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:58:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237661,
+   "label": "LC 112 3516/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237661"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:51+00:00",
+  "version:237661": "2026-11-20T19:48:51+00:00",
+  "status:40": "2026-11-20T19:48:51+00:00",
+  "status:33": "2026-11-20T19:48:51+00:00",
+  "status:48": "2026-11-20T19:48:51+00:00"
+ },
+ "updated": "2026-11-20T19:48:51+00:00"
+}

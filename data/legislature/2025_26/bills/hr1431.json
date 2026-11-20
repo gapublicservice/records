@@ -1,0 +1,96 @@
+{
+ "key": "HR 1431",
+ "slug": "hr1431",
+ "session": "2025_26",
+ "legislation_id": 73495,
+ "page": "https://www.legis.ga.gov/legislation/73495",
+ "document_type": "HR",
+ "number": 1431,
+ "legislation_type": "PRIV",
+ "caption": "Lehman, Larry M.; lifetime of service and leadership in public health; commend",
+ "summary": "A RESOLUTION recognizing and commending Larry M. Lehman for his lifetime of service and leadership in public health; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-20T12:36:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T13:13:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T13:13:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243511,
+   "label": "LC 129 1169/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243511"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:22+00:00",
+  "version:243511": "2026-11-20T20:03:22+00:00",
+  "status:40": "2026-11-20T20:03:22+00:00",
+  "status:33": "2026-11-20T20:03:22+00:00",
+  "status:48": "2026-11-20T20:03:22+00:00"
+ },
+ "updated": "2026-11-20T20:03:22+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 54",
+ "slug": "hr54",
+ "session": "2025_26",
+ "legislation_id": 69514,
+ "page": "https://www.legis.ga.gov/legislation/69514",
+ "document_type": "HR",
+ "number": 54,
+ "legislation_type": "PRIV",
+ "caption": "Honoring several cities upon their designation as Georgia PlanFirst communities; commend",
+ "summary": "A RESOLUTION honoring several cities upon their designation as Georgia PlanFirst communities; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:33:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230312,
+   "label": "LC 112 2650/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230312"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:55+00:00",
+  "version:230312": "2026-11-20T19:31:55+00:00",
+  "status:40": "2026-11-20T19:31:55+00:00",
+  "status:33": "2026-11-20T19:31:55+00:00",
+  "status:48": "2026-11-20T19:31:55+00:00"
+ },
+ "updated": "2026-11-20T19:31:55+00:00"
+}

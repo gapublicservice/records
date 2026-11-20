@@ -1,0 +1,90 @@
+{
+ "key": "HB 901",
+ "slug": "hb901",
+ "session": "2025_26",
+ "legislation_id": 71974,
+ "page": "https://www.legis.ga.gov/legislation/71974",
+ "document_type": "HB",
+ "number": 901,
+ "legislation_type": "GEN",
+ "caption": "Elections; superintendent may permit any elector of the county to vote in any precinct of the county which such elector chooses under certain conditions; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 11 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to general provisions regarding preparation for and conduct of primaries and elections, so as to provide that the election superintendent of a county may permit any elector of the county to vote in any precinct of the county which such elector chooses in a primary, election, or runoff under certain conditions; to provide for certain notices; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T11:51:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238741,
+   "label": "LC 28 0694/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238741"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:08+00:00",
+  "version:238741": "2026-11-20T19:01:08+00:00",
+  "status:40": "2026-11-20T19:01:08+00:00",
+  "status:33": "2026-11-20T19:01:08+00:00",
+  "status:34": "2026-11-20T19:01:08+00:00"
+ },
+ "updated": "2026-11-20T19:01:08+00:00"
+}

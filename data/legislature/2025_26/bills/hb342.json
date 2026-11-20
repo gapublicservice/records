@@ -1,0 +1,116 @@
+{
+ "key": "HB 342",
+ "slug": "hb342",
+ "session": "2025_26",
+ "legislation_id": 70099,
+ "page": "https://www.legis.ga.gov/legislation/70099",
+ "document_type": "HB",
+ "number": 342,
+ "legislation_type": "GEN",
+ "caption": "Crimes and offenses; access to medical cannabis; repeal certain advertising restrictions on licensees",
+ "summary": "A BILL to be entitled an Act to amend Article 9 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to access to medical cannabis, so as to repeal certain advertising restrictions on licensees; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T13:41:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T13:24:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235135,
+   "label": "LC 55 0582S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235135"
+  },
+  {
+   "doc_id": 231784,
+   "label": "LC 55 0459/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231784"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:08+00:00",
+  "version:235135": "2026-11-20T18:33:08+00:00",
+  "version:231784": "2026-11-20T18:33:08+00:00",
+  "status:40": "2026-11-20T18:33:08+00:00",
+  "status:33": "2026-11-20T18:33:08+00:00",
+  "status:34": "2026-11-20T18:33:08+00:00",
+  "status:39": "2026-11-20T18:33:08+00:00",
+  "status:50": "2026-11-20T18:33:08+00:00"
+ },
+ "updated": "2026-11-20T18:33:08+00:00"
+}

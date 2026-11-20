@@ -1,0 +1,74 @@
+{
+ "key": "SB 48",
+ "slug": "sb48",
+ "session": "2025_26",
+ "legislation_id": 69602,
+ "page": "https://www.legis.ga.gov/legislation/69602",
+ "document_type": "SB",
+ "number": 48,
+ "legislation_type": "GEN",
+ "caption": "Disclosure and Dissemination of Criminal Records; a judicial procedure for purging a person's involuntary hospitalization information; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 35-3-34 of the Official Code of Georgia Annotated, relating to disclosure and dissemination of criminal records to private persons and businesses, resulting responsibility and liability of the issuing center, and provision of certain information to the FBI in conjunction with the National Instant Criminal Background Check System, so as to provide for a judicial procedure for purging a person's involuntary hospitalization information received by the center for the purpose of the National Instant Criminal Background Check System under certain circumstances; to change provisions relating to the retention of a person's involuntary hospitalization information; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-28T12:36:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T10:17:43",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230488,
+   "label": "As Introduced LC 49 2097",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230488"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:21:50+00:00",
+  "version:230488": "2026-11-20T20:21:50+00:00",
+  "status:67": "2026-11-20T20:21:50+00:00",
+  "status:3": "2026-11-20T20:21:50+00:00"
+ },
+ "updated": "2026-11-20T20:21:50+00:00"
+}

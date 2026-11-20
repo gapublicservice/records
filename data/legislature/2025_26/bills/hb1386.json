@@ -1,0 +1,109 @@
+{
+ "key": "HB 1386",
+ "slug": "hb1386",
+ "session": "2025_26",
+ "legislation_id": 73423,
+ "page": "https://www.legis.ga.gov/legislation/73423",
+ "document_type": "HB",
+ "number": 1386,
+ "legislation_type": "GEN",
+ "caption": "Local government; county development authorities for certain counties shall not operate within certain municipalities; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 62 of Title 36 of the Official Code of Georgia Annotated, relating to development authorities, so as to provide that county development authorities for certain counties shall not operate within certain municipalities; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T11:31:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:56:44",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243310,
+   "label": "LC 47 9010/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243310"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:16+00:00",
+  "version:243310": "2026-11-20T19:21:16+00:00",
+  "status:40": "2026-11-20T19:21:16+00:00",
+  "status:33": "2026-11-20T19:21:16+00:00",
+  "status:34": "2026-11-20T19:21:16+00:00",
+  "status:39": "2026-11-20T19:21:16+00:00"
+ },
+ "updated": "2026-11-20T19:21:16+00:00"
+}

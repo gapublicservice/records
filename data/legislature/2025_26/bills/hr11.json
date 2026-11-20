@@ -1,0 +1,67 @@
+{
+ "key": "HR 11",
+ "slug": "hr11",
+ "session": "2025_26",
+ "legislation_id": 69317,
+ "page": "https://www.legis.ga.gov/legislation/69317",
+ "document_type": "HR",
+ "number": 11,
+ "legislation_type": "NP",
+ "caption": "Georgia Environmental Protection Division and DeKalb County government; resolve sewage pollution and spills; urge",
+ "summary": "A RESOLUTION urging the Georgia Environmental Protection Division, the Environmental Protection Agency, and the DeKalb County government to resolve sewage pollution and spills; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:52:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229814,
+   "label": "LC 44 2907/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229814"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:43+00:00",
+  "version:229814": "2026-11-20T19:30:43+00:00",
+  "status:40": "2026-11-20T19:30:43+00:00",
+  "status:33": "2026-11-20T19:30:43+00:00",
+  "status:34": "2026-11-20T19:30:43+00:00"
+ },
+ "updated": "2026-11-20T19:30:43+00:00"
+}

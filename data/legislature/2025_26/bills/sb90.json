@@ -1,0 +1,67 @@
+{
+ "key": "SB 90",
+ "slug": "sb90",
+ "session": "2025_26",
+ "legislation_id": 69885,
+ "page": "https://www.legis.ga.gov/legislation/69885",
+ "document_type": "SB",
+ "number": 90,
+ "legislation_type": "GEN",
+ "caption": "Notaries Public; the modernization of certain legal, notarial, and court services using electronic means; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 19 of Title 15 and Article 1 of Chapter 17 of Title 45 of the O.C.G.A., relating to the regulation of the practice of law and general provisions regarding notaries public, respectively, so as to provide for the modernization of certain legal, notarial, and court services using electronic means; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Banking and Financial Institutions",
+   "id": 74
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T12:25:17",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-05T10:09:24",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231206,
+   "label": "As introduced LC 52 0714",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231206"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:24:20+00:00",
+  "version:231206": "2026-11-20T20:24:20+00:00",
+  "status:67": "2026-11-20T20:24:20+00:00",
+  "status:3": "2026-11-20T20:24:20+00:00"
+ },
+ "updated": "2026-11-20T20:24:20+00:00"
+}

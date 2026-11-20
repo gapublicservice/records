@@ -1,0 +1,102 @@
+{
+ "key": "HR 513",
+ "slug": "hr513",
+ "session": "2025_26",
+ "legislation_id": 71184,
+ "page": "https://www.legis.ga.gov/legislation/71184",
+ "document_type": "HR",
+ "number": 513,
+ "legislation_type": "NP",
+ "caption": "Congress; investigate dispersion of chemicals into the sky by aircraft; encourage",
+ "summary": "A RESOLUTION encouraging the United States Congress to investigate the dispersion of chemicals into the sky by aircraft, so as to understand the effects of such dispersion on air, soil, and water quality in the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-06T11:28:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-10T13:41:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T13:17:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235370,
+   "label": "LC 59 0135/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235370"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:14+00:00",
+  "version:235370": "2026-11-20T19:42:14+00:00",
+  "status:40": "2026-11-20T19:42:14+00:00",
+  "status:33": "2026-11-20T19:42:14+00:00",
+  "status:34": "2026-11-20T19:42:14+00:00"
+ },
+ "updated": "2026-11-20T19:42:14+00:00"
+}

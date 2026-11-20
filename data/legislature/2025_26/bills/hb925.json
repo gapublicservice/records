@@ -1,0 +1,102 @@
+{
+ "key": "HB 925",
+ "slug": "hb925",
+ "session": "2025_26",
+ "legislation_id": 72074,
+ "page": "https://www.legis.ga.gov/legislation/72074",
+ "document_type": "HB",
+ "number": 925,
+ "legislation_type": "GEN",
+ "caption": "The Georgia Maternal Health Momnibus Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 31, 33, 34, 37, 45, 48, and 49 of the O.C.G.A., relating to health, insurance, labor and industrial relations, mental health, public officers and employees, revenue and taxation, and social services, respectively, so as to enact the \"Georgia Maternal Health Momnibus Act\"; to provide for legislative findings and intent; to provide for a short title; to repeal Code Section 31-2A-19, relating to pilot program for home visitation during pregnancy and early childhood, reporting, and funding requirement; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:53:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239282,
+   "label": "LC 60 0091/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239282"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:50+00:00",
+  "version:239282": "2026-11-20T19:01:50+00:00",
+  "status:40": "2026-11-20T19:01:50+00:00",
+  "status:33": "2026-11-20T19:01:50+00:00",
+  "status:34": "2026-11-20T19:01:50+00:00"
+ },
+ "updated": "2026-11-20T19:01:50+00:00"
+}

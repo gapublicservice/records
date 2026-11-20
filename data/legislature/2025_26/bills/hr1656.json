@@ -1,0 +1,102 @@
+{
+ "key": "HR 1656",
+ "slug": "hr1656",
+ "session": "2025_26",
+ "legislation_id": 74018,
+ "page": "https://www.legis.ga.gov/legislation/74018",
+ "document_type": "HR",
+ "number": 1656,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on School Nutrition, Student Food Security, Georgia Agriculture, and Student Success; create",
+ "summary": "A RESOLUTION creating the House Study Committee on School Nutrition, Student Food Security, Georgia Agriculture, and Student Success; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-10T12:42:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T10:25:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T10:21:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245657,
+   "label": "LC 61 0471/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245657"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:16+00:00",
+  "version:245657": "2026-11-20T20:08:16+00:00",
+  "status:40": "2026-11-20T20:08:16+00:00",
+  "status:33": "2026-11-20T20:08:16+00:00",
+  "status:34": "2026-11-20T20:08:16+00:00"
+ },
+ "updated": "2026-11-20T20:08:16+00:00"
+}

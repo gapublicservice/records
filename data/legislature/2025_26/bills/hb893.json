@@ -1,0 +1,95 @@
+{
+ "key": "HB 893",
+ "slug": "hb893",
+ "session": "2025_26",
+ "legislation_id": 71926,
+ "page": "https://www.legis.ga.gov/legislation/71926",
+ "document_type": "HB",
+ "number": 893,
+ "legislation_type": "GEN",
+ "caption": "Education; replace terms charter system and charter systems with performance contract system and performance contract systems",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to replace the terms \"charter system\" and \"charter systems\" with \"performance contract system\" and \"performance contract systems,\" respectively, wherever such terms appear in the Official Code of Georgia Annotated; to provide an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T16:02:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238398,
+   "label": "LC 49 2356/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238398"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:00:52+00:00",
+  "version:238398": "2026-11-20T19:00:52+00:00",
+  "status:40": "2026-11-20T19:00:52+00:00",
+  "status:33": "2026-11-20T19:00:52+00:00",
+  "status:34": "2026-11-20T19:00:52+00:00"
+ },
+ "updated": "2026-11-20T19:00:52+00:00"
+}

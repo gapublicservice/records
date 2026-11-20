@@ -1,0 +1,83 @@
+{
+ "key": "SB 142",
+ "slug": "sb142",
+ "session": "2025_26",
+ "legislation_id": 70176,
+ "page": "https://www.legis.ga.gov/legislation/70176",
+ "document_type": "SB",
+ "number": 142,
+ "legislation_type": "GEN",
+ "caption": "Physicians; certain licensure for qualifying international medical graduates; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to medical practice relative to physicians, so as to provide for certain licensure for qualifying international medical graduates; to provide for definitions; to provide for a provisional license under certain conditions; to provide for a limited license under certain conditions; to provide for full licensure under certain conditions; to provide for rules and regulations; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Regulated Industries and Utilities",
+   "id": 141
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T10:33:59",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-12T10:12:44",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231990,
+   "label": "As introduced LC 52 0750",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231990"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:27:10+00:00",
+  "version:231990": "2026-11-20T20:27:10+00:00",
+  "status:67": "2026-11-20T20:27:10+00:00",
+  "status:3": "2026-11-20T20:27:10+00:00"
+ },
+ "updated": "2026-11-20T20:27:10+00:00"
+}

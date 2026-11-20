@@ -1,0 +1,82 @@
+{
+ "key": "SR 418",
+ "slug": "sr418",
+ "session": "2025_26",
+ "legislation_id": 71430,
+ "page": "https://www.legis.ga.gov/legislation/71430",
+ "document_type": "SR",
+ "number": 418,
+ "legislation_type": "PRIV",
+ "caption": "Buc-ee's Day; recognize March 20, 2025",
+ "summary": "A RESOLUTION recognizing March 20, 2025, as Buc-ee's Day at the Georgia State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T15:38:34",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-20T12:03:49",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236328,
+   "label": "Read and adopted LC 112 3421",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236328"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:52+00:00",
+  "version:236328": "2026-11-20T20:59:52+00:00",
+  "status:67": "2026-11-20T20:59:52+00:00",
+  "status:66": "2026-11-20T20:59:52+00:00"
+ },
+ "updated": "2026-11-20T20:59:52+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 887",
+ "slug": "hb887",
+ "session": "2025_26",
+ "legislation_id": 71915,
+ "page": "https://www.legis.ga.gov/legislation/71915",
+ "document_type": "HB",
+ "number": 887,
+ "legislation_type": "GEN",
+ "caption": "Patriots in Trades Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapters 14 and 41 of Title 43 of the Official Code of Georgia Annotated, relating to electrical contractors, plumbers, conditioned air contractors, low-voltage contractors, and utility contractors and residential and commercial general contractors, respectively, so as to revise provisions relating to the issuance of certain professional licenses based on specialties or certifications obtained during service in the military; to provide for the issuance of additional professional licenses based on such specialties or certifications; to streamline the process of identifying such specialties or certifications that qualify for the issuances of such licenses; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:24:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238354,
+   "label": "LC 55 0618/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238354"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:25+00:00",
+  "version:238354": "2026-11-20T18:58:25+00:00",
+  "status:40": "2026-11-20T18:58:25+00:00",
+  "status:33": "2026-11-20T18:58:25+00:00",
+  "status:34": "2026-11-20T18:58:25+00:00"
+ },
+ "updated": "2026-11-20T18:58:25+00:00"
+}

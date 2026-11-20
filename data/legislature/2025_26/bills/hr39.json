@@ -1,0 +1,61 @@
+{
+ "key": "HR 39",
+ "slug": "hr39",
+ "session": "2025_26",
+ "legislation_id": 69440,
+ "page": "https://www.legis.ga.gov/legislation/69440",
+ "document_type": "HR",
+ "number": 39,
+ "legislation_type": "PRIV",
+ "caption": "Fallin, William G.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of William G. Fallin; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-16T13:24:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-16T13:47:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T13:47:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230119,
+   "label": "LC 112 2670/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230119"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:31+00:00",
+  "version:230119": "2026-11-20T19:31:31+00:00",
+  "status:40": "2026-11-20T19:31:31+00:00",
+  "status:33": "2026-11-20T19:31:31+00:00",
+  "status:48": "2026-11-20T19:31:31+00:00"
+ },
+ "updated": "2026-11-20T19:31:31+00:00"
+}

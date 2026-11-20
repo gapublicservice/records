@@ -1,0 +1,102 @@
+{
+ "key": "HR 1789",
+ "slug": "hr1789",
+ "session": "2025_26",
+ "legislation_id": 74260,
+ "page": "https://www.legis.ga.gov/legislation/74260",
+ "document_type": "HR",
+ "number": 1789,
+ "legislation_type": "NP",
+ "caption": "United States Department of Education; dissolve and restore educational authority to the states; express support",
+ "summary": "A RESOLUTION expressing support for dissolving the United States Department of Education and restoring educational authority to the states; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-19T11:34:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T10:26:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T10:08:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:50",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246614,
+   "label": "LC 63 0159/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246614"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:07+00:00",
+  "version:246614": "2026-11-20T20:11:07+00:00",
+  "status:40": "2026-11-20T20:11:07+00:00",
+  "status:33": "2026-11-20T20:11:07+00:00",
+  "status:34": "2026-11-20T20:11:07+00:00",
+  "status:39": "2026-11-20T20:11:07+00:00"
+ },
+ "updated": "2026-11-20T20:11:07+00:00"
+}

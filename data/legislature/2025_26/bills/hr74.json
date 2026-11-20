@@ -1,0 +1,96 @@
+{
+ "key": "HR 74",
+ "slug": "hr74",
+ "session": "2025_26",
+ "legislation_id": 69607,
+ "page": "https://www.legis.ga.gov/legislation/69607",
+ "document_type": "HR",
+ "number": 74,
+ "legislation_type": "PRIV",
+ "caption": "Lowery, Dr. Evelyn Gibson; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dr. Evelyn Gibson Lowery; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:12:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T13:53:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T13:53:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230541,
+   "label": "LC 112 2783/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230541"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:25+00:00",
+  "version:230541": "2026-11-20T19:32:25+00:00",
+  "status:40": "2026-11-20T19:32:25+00:00",
+  "status:33": "2026-11-20T19:32:25+00:00",
+  "status:48": "2026-11-20T19:32:25+00:00"
+ },
+ "updated": "2026-11-20T19:32:25+00:00"
+}

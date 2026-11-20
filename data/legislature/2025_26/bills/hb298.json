@@ -1,0 +1,129 @@
+{
+ "key": "HB 298",
+ "slug": "hb298",
+ "session": "2025_26",
+ "legislation_id": 69972,
+ "page": "https://www.legis.ga.gov/legislation/69972",
+ "document_type": "HB",
+ "number": 298,
+ "legislation_type": "GEN",
+ "caption": "Health; requirements for nurse staffing in hospitals; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 31 of the Official Code of Georgia Annotated, relating to regulation and construction of hospitals and other health care facilities, so as to provide requirements for nurse staffing in hospitals; to provide for definitions; to require a written nurse services staffing plan; to provide for an official nurse services staffing plan; to provide for the establishment of nurse staffing committees; to provide for annual reports of staffing information to the Department of Community Health; to provide for anonymous reports and investigations of unsafe staffing conditions; to establish an advisory commission; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-05T11:38:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T10:16:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T13:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244577,
+   "label": "LC 46 1495S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244577"
+  },
+  {
+   "doc_id": 233764,
+   "label": "LC 46 1163S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233764"
+  },
+  {
+   "doc_id": 231506,
+   "label": "LC 46 9002/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231506"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:30:56+00:00",
+  "version:244577": "2026-11-20T18:30:56+00:00",
+  "version:233764": "2026-11-20T18:30:56+00:00",
+  "version:231506": "2026-11-20T18:30:56+00:00",
+  "status:40": "2026-11-20T18:30:56+00:00",
+  "status:33": "2026-11-20T18:30:56+00:00",
+  "status:34": "2026-11-20T18:30:56+00:00",
+  "status:39": "2026-11-20T18:30:56+00:00",
+  "status:50": "2026-11-20T18:30:56+00:00"
+ },
+ "updated": "2026-11-20T18:30:56+00:00"
+}

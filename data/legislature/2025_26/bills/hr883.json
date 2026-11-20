@@ -1,0 +1,116 @@
+{
+ "key": "HR 883",
+ "slug": "hr883",
+ "session": "2025_26",
+ "legislation_id": 71936,
+ "page": "https://www.legis.ga.gov/legislation/71936",
+ "document_type": "HR",
+ "number": 883,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Making Georgia the No. 1 State for Tourism; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Making Georgia the No. 1 State for Tourism; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Economic Development & Tourism",
+   "id": 144
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T17:17:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-04-04T10:26:25",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238433,
+   "label": "LC 59 0177/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238433"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:37+00:00",
+  "version:238433": "2026-11-20T19:50:37+00:00",
+  "status:40": "2026-11-20T19:50:37+00:00",
+  "status:33": "2026-11-20T19:50:37+00:00",
+  "status:34": "2026-11-20T19:50:37+00:00",
+  "status:39": "2026-11-20T19:50:37+00:00",
+  "status:50": "2026-11-20T19:50:37+00:00"
+ },
+ "updated": "2026-11-20T19:50:37+00:00"
+}

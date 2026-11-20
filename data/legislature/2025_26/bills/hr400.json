@@ -1,0 +1,109 @@
+{
+ "key": "HR 400",
+ "slug": "hr400",
+ "session": "2025_26",
+ "legislation_id": 70859,
+ "page": "https://www.legis.ga.gov/legislation/70859",
+ "document_type": "HR",
+ "number": 400,
+ "legislation_type": "CA",
+ "caption": "Georgia Keys for Heroes Amendment; provide by law - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to authorize the General Assembly to provide by law for a homestead exemption for an additional 100 percent disabled veterans' homestead exemption for the full assessed value of a homestead in certain circumstances; to authorize municipalities to seek supplementary funding to offset lost revenue from the homestead exemption; to provide for a short title; to provide for submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:56:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:47:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T10:20:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234084,
+   "label": "LC 44 3094/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234084"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:43+00:00",
+  "version:234084": "2026-11-20T19:39:43+00:00",
+  "status:40": "2026-11-20T19:39:43+00:00",
+  "status:33": "2026-11-20T19:39:43+00:00",
+  "status:34": "2026-11-20T19:39:43+00:00",
+  "status:39": "2026-11-20T19:39:43+00:00"
+ },
+ "updated": "2026-11-20T19:39:43+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HR 1888",
+ "slug": "hr1888",
+ "session": "2025_26",
+ "legislation_id": 74412,
+ "page": "https://www.legis.ga.gov/legislation/74412",
+ "document_type": "HR",
+ "number": 1888,
+ "legislation_type": "GEN",
+ "caption": "Chairman Don A. Grantham Interchange; Richmond County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Don A. Grantham and dedicating an interchange in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T10:59:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247366,
+   "label": "LC 39 5075/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247366"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:13+00:00",
+  "version:247366": "2026-11-20T20:13:13+00:00",
+  "status:40": "2026-11-20T20:13:13+00:00",
+  "status:33": "2026-11-20T20:13:13+00:00",
+  "status:34": "2026-11-20T20:13:13+00:00"
+ },
+ "updated": "2026-11-20T20:13:13+00:00"
+}

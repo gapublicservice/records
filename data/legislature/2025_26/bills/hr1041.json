@@ -1,0 +1,89 @@
+{
+ "key": "HR 1041",
+ "slug": "hr1041",
+ "session": "2025_26",
+ "legislation_id": 72313,
+ "page": "https://www.legis.ga.gov/legislation/72313",
+ "document_type": "HR",
+ "number": 1041,
+ "legislation_type": "PRIV",
+ "caption": "Roberts, Rick; outstanding public service as the Mayor of Ball Ground; commend",
+ "summary": "A RESOLUTION recognizing and commending Rick Roberts on his outstanding public service as the Mayor of Ball Ground; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5092,
+   "name": "Fincher, Bill 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:55:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T12:42:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T12:42:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240071,
+   "label": "LC 129 0530/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240071"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:11+00:00",
+  "version:240071": "2026-11-20T19:54:11+00:00",
+  "status:40": "2026-11-20T19:54:11+00:00",
+  "status:33": "2026-11-20T19:54:11+00:00",
+  "status:48": "2026-11-20T19:54:11+00:00"
+ },
+ "updated": "2026-11-20T19:54:11+00:00"
+}

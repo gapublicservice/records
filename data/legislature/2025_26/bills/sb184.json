@@ -1,0 +1,95 @@
+{
+ "key": "SB 184",
+ "slug": "sb184",
+ "session": "2025_26",
+ "legislation_id": 70385,
+ "page": "https://www.legis.ga.gov/legislation/70385",
+ "document_type": "SB",
+ "number": 184,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Anti-Squatting Act of 2025\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, so as to provide that a person must show certain documentation upon receipt of a citation for unlawful squatting; to provide for a penalty; to amend Code Section 16-9-2 of the Official Code of Georgia Annotated, relating to penalties for forgery, so as to provide for a penalty for forgery cases related to the offense of unlawful squatting; to amend Article 1 of Chapter 21 of Title 43 of the Official Code of Georgia Annotated, relating to rights, duties, and liabilities of innkeepers, so as to provide for certain guest ejectment procedures for innkeepers; to provide for an affidavit; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T13:53:40",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-19T10:27:38",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232608,
+   "label": "As introduced LC 48 1486",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232608"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:29:38+00:00",
+  "version:232608": "2026-11-20T20:29:38+00:00",
+  "status:67": "2026-11-20T20:29:38+00:00",
+  "status:3": "2026-11-20T20:29:38+00:00"
+ },
+ "updated": "2026-11-20T20:29:38+00:00"
+}

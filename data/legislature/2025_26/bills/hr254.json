@@ -1,0 +1,61 @@
+{
+ "key": "HR 254",
+ "slug": "hr254",
+ "session": "2025_26",
+ "legislation_id": 70286,
+ "page": "https://www.legis.ga.gov/legislation/70286",
+ "document_type": "HR",
+ "number": 254,
+ "legislation_type": "PRIV",
+ "caption": "Demola the Violinist; commend",
+ "summary": "A RESOLUTION recognizing and commending Demola the Violinist; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-12T12:12:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T12:22:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T12:22:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232288,
+   "label": "LC 112 2994/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232288"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:34+00:00",
+  "version:232288": "2026-11-20T19:36:34+00:00",
+  "status:40": "2026-11-20T19:36:34+00:00",
+  "status:33": "2026-11-20T19:36:34+00:00",
+  "status:48": "2026-11-20T19:36:34+00:00"
+ },
+ "updated": "2026-11-20T19:36:34+00:00"
+}

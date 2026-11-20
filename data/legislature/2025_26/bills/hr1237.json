@@ -1,0 +1,89 @@
+{
+ "key": "HR 1237",
+ "slug": "hr1237",
+ "session": "2025_26",
+ "legislation_id": 72862,
+ "page": "https://www.legis.ga.gov/legislation/72862",
+ "document_type": "HR",
+ "number": 1237,
+ "legislation_type": "PRIV",
+ "caption": "National Guard Day at the capitol; February 11, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 11, 2026, as National Guard Day at the capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:22:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241556,
+   "label": "LC 129 0885/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241556"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:33+00:00",
+  "version:241556": "2026-11-20T19:58:33+00:00",
+  "status:40": "2026-11-20T19:58:33+00:00",
+  "status:33": "2026-11-20T19:58:33+00:00",
+  "status:48": "2026-11-20T19:58:33+00:00"
+ },
+ "updated": "2026-11-20T19:58:33+00:00"
+}

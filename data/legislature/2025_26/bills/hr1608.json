@@ -1,0 +1,109 @@
+{
+ "key": "HR 1608",
+ "slug": "hr1608",
+ "session": "2025_26",
+ "legislation_id": 73925,
+ "page": "https://www.legis.ga.gov/legislation/73925",
+ "document_type": "HR",
+ "number": 1608,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Municipal Electric Franchise Fees; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Municipal Electric Franchise Fees; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-06T10:58:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-09T13:52:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-10T09:34:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-18T10:17:00",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245264,
+   "label": "LC 56 0643/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245264"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:13+00:00",
+  "version:245264": "2026-11-20T20:07:13+00:00",
+  "status:40": "2026-11-20T20:07:13+00:00",
+  "status:33": "2026-11-20T20:07:13+00:00",
+  "status:34": "2026-11-20T20:07:13+00:00",
+  "status:39": "2026-11-20T20:07:13+00:00"
+ },
+ "updated": "2026-11-20T20:07:13+00:00"
+}

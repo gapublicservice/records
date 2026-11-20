@@ -1,0 +1,95 @@
+{
+ "key": "HB 1306",
+ "slug": "hb1306",
+ "session": "2025_26",
+ "legislation_id": 73193,
+ "page": "https://www.legis.ga.gov/legislation/73193",
+ "document_type": "HB",
+ "number": 1306,
+ "legislation_type": "GEN",
+ "caption": "Transactional Gold and Silver Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 5A of Title 50 of the Official Code of Georgia Annotated, relating to the Office of State Treasurer, so as to provide for gold and silver specie as legal tender; to provide for a bullion depository; to provide for an electronic payment system; to provide for guidelines, rules and regulations; to provide for insured deposits; to prohibit social credit scoring systems; to provide for annual reports; to prohibit taxation of transactions involving gold and silver specie and legal tender; to provide for an implementation date; to provide for construction; to provide for legislative findings; to provide for definitions; to provide for a short title; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T12:57:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242578,
+   "label": "LC 62 0379/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242578"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:30+00:00",
+  "version:242578": "2026-11-20T19:18:30+00:00",
+  "status:40": "2026-11-20T19:18:30+00:00",
+  "status:33": "2026-11-20T19:18:30+00:00",
+  "status:34": "2026-11-20T19:18:30+00:00"
+ },
+ "updated": "2026-11-20T19:18:30+00:00"
+}

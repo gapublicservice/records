@@ -1,0 +1,102 @@
+{
+ "key": "HB 50",
+ "slug": "hb50",
+ "session": "2025_26",
+ "legislation_id": 69347,
+ "page": "https://www.legis.ga.gov/legislation/69347",
+ "document_type": "HB",
+ "number": 50,
+ "legislation_type": "GEN",
+ "caption": "Special license plates; Delta Sigma Theta Sorority, Inc.; establish",
+ "summary": "A BILL to be entitled an Act to amend Code Section 40-2-86 of the Official Code of Georgia Annotated, relating to license plates promoting or supporting certain agencies, funds, or nonprofit corporations with proceeds disbursed to the general fund and the agency, fund, or nonprofit corporation, so as to establish a specialty license plate honoring Delta Sigma Theta Sorority, Inc.; to provide for related matters; to provide for compliance with constitutional requirements; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:42:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T10:39:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T10:14:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229937,
+   "label": "LC 39 4437/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229937"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:57+00:00",
+  "version:229937": "2026-11-20T18:17:57+00:00",
+  "status:40": "2026-11-20T18:17:57+00:00",
+  "status:33": "2026-11-20T18:17:57+00:00",
+  "status:34": "2026-11-20T18:17:57+00:00"
+ },
+ "updated": "2026-11-20T18:17:57+00:00"
+}

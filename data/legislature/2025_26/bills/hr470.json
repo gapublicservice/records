@@ -1,0 +1,96 @@
+{
+ "key": "HR 470",
+ "slug": "hr470",
+ "session": "2025_26",
+ "legislation_id": 71083,
+ "page": "https://www.legis.ga.gov/legislation/71083",
+ "document_type": "HR",
+ "number": 470,
+ "legislation_type": "PRIV",
+ "caption": "Atuwatse, Olori, III.; commend",
+ "summary": "A RESOLUTION commending Olori Atuwatse III; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T13:03:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T13:43:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T13:43:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234848,
+   "label": "LC 112 3230/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234848"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:18+00:00",
+  "version:234848": "2026-11-20T19:41:18+00:00",
+  "status:40": "2026-11-20T19:41:18+00:00",
+  "status:33": "2026-11-20T19:41:18+00:00",
+  "status:48": "2026-11-20T19:41:18+00:00"
+ },
+ "updated": "2026-11-20T19:41:18+00:00"
+}

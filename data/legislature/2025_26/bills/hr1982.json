@@ -1,0 +1,61 @@
+{
+ "key": "HR 1982",
+ "slug": "hr1982",
+ "session": "2025_26",
+ "legislation_id": 74553,
+ "page": "https://www.legis.ga.gov/legislation/74553",
+ "document_type": "HR",
+ "number": 1982,
+ "legislation_type": "PRIV",
+ "caption": "Gayle, Mrs. Theresa; commend",
+ "summary": "A RESOLUTION commending and congratulating Mrs. Theresa Gayle; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:02:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247970,
+   "label": "LC 112 4089/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247970"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:14+00:00",
+  "version:247970": "2026-11-20T20:15:14+00:00",
+  "status:40": "2026-11-20T20:15:14+00:00",
+  "status:33": "2026-11-20T20:15:14+00:00",
+  "status:48": "2026-11-20T20:15:14+00:00"
+ },
+ "updated": "2026-11-20T20:15:14+00:00"
+}

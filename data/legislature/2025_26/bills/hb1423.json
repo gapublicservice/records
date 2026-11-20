@@ -1,0 +1,102 @@
+{
+ "key": "HB 1423",
+ "slug": "hb1423",
+ "session": "2025_26",
+ "legislation_id": 73526,
+ "page": "https://www.legis.ga.gov/legislation/73526",
+ "document_type": "HB",
+ "number": 1423,
+ "legislation_type": "GEN",
+ "caption": "Elections; SB 189; revise an effective date",
+ "summary": "A BILL to be entitled an Act to amend an Act relating to elections and primaries approved May 6, 2024 (Ga. L. 2024, p. 1028), SB 189, so as to revise an effective date; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T11:23:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243704,
+   "label": "LC 47 4048/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243704"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:34+00:00",
+  "version:243704": "2026-11-20T19:22:34+00:00",
+  "status:40": "2026-11-20T19:22:34+00:00",
+  "status:33": "2026-11-20T19:22:34+00:00",
+  "status:34": "2026-11-20T19:22:34+00:00"
+ },
+ "updated": "2026-11-20T19:22:34+00:00"
+}

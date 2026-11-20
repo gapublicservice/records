@@ -1,0 +1,88 @@
+{
+ "key": "HB 43",
+ "slug": "hb43",
+ "session": "2025_26",
+ "legislation_id": 69340,
+ "page": "https://www.legis.ga.gov/legislation/69340",
+ "document_type": "HB",
+ "number": 43,
+ "legislation_type": "GEN",
+ "caption": "Disadvantaged Community Drinking Water Assistance Program; establish",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 3 of Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to general provisions of wells and drinking water, so as to establish the Disadvantaged Community Drinking Water Assistance Program; to provide for purpose, requirements, restrictions, and priorities of the program; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:40:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T10:39:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T10:14:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229890,
+   "label": "LC 44 2908/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229890"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:47+00:00",
+  "version:229890": "2026-11-20T18:17:47+00:00",
+  "status:40": "2026-11-20T18:17:47+00:00",
+  "status:33": "2026-11-20T18:17:47+00:00",
+  "status:34": "2026-11-20T18:17:47+00:00"
+ },
+ "updated": "2026-11-20T18:17:47+00:00"
+}

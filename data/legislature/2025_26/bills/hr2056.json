@@ -1,0 +1,68 @@
+{
+ "key": "HR 2056",
+ "slug": "hr2056",
+ "session": "2025_26",
+ "legislation_id": 74641,
+ "page": "https://www.legis.ga.gov/legislation/74641",
+ "document_type": "HR",
+ "number": 2056,
+ "legislation_type": "PRIV",
+ "caption": "Melton, Sheriff Mark; commend",
+ "summary": "A RESOLUTION commending Sheriff Mark Melton; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:17:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:08:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:08:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248426,
+   "label": "LC 129 1540/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248426"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:07+00:00",
+  "version:248426": "2026-11-20T20:17:07+00:00",
+  "status:40": "2026-11-20T20:17:07+00:00",
+  "status:33": "2026-11-20T20:17:07+00:00",
+  "status:48": "2026-11-20T20:17:07+00:00"
+ },
+ "updated": "2026-11-20T20:17:07+00:00"
+}

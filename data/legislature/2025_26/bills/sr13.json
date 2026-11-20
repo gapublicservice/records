@@ -1,0 +1,68 @@
+{
+ "key": "SR 13",
+ "slug": "sr13",
+ "session": "2025_26",
+ "legislation_id": 69337,
+ "page": "https://www.legis.ga.gov/legislation/69337",
+ "document_type": "SR",
+ "number": 13,
+ "legislation_type": "PRIV",
+ "caption": "Coleman, Richard; commend",
+ "summary": "A RESOLUTION commending Richard Coleman; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:39:57",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-15T11:47:00",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229858,
+   "label": "Read and adopted LC 112 2654",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229858"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:50:35+00:00",
+  "version:229858": "2026-11-20T20:50:35+00:00",
+  "status:67": "2026-11-20T20:50:35+00:00",
+  "status:66": "2026-11-20T20:50:35+00:00"
+ },
+ "updated": "2026-11-20T20:50:35+00:00"
+}

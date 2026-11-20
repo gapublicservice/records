@@ -1,0 +1,89 @@
+{
+ "key": "HR 1134",
+ "slug": "hr1134",
+ "session": "2025_26",
+ "legislation_id": 72554,
+ "page": "https://www.legis.ga.gov/legislation/72554",
+ "document_type": "HR",
+ "number": 1134,
+ "legislation_type": "PRIV",
+ "caption": "Tucker Day at the state capitol; 05/02/26; City of Tucker; 10th anniversary; recognize",
+ "summary": "A RESOLUTION congratulating the City of Tucker upon its 10th anniversary and recognizing May 2, 2026, as Tucker Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:42:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:32:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:32:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240729,
+   "label": "LC 129 0604/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240729"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:20+00:00",
+  "version:240729": "2026-11-20T19:56:20+00:00",
+  "status:40": "2026-11-20T19:56:20+00:00",
+  "status:33": "2026-11-20T19:56:20+00:00",
+  "status:48": "2026-11-20T19:56:20+00:00"
+ },
+ "updated": "2026-11-20T19:56:20+00:00"
+}

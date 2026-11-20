@@ -1,0 +1,89 @@
+{
+ "key": "HR 2004",
+ "slug": "hr2004",
+ "session": "2025_26",
+ "legislation_id": 74578,
+ "page": "https://www.legis.ga.gov/legislation/74578",
+ "document_type": "HR",
+ "number": 2004,
+ "legislation_type": "PRIV",
+ "caption": "Haynes, Reverend Dr. Richard B.; celebrating his retirement on April 11, 2026; recognize",
+ "summary": "A RESOLUTION recognizing and commending Reverend Dr. Richard B. Haynes and celebrating his retirement on April 11, 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T16:12:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T16:41:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T16:41:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248031,
+   "label": "LC 129 1503/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248031"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:47+00:00",
+  "version:248031": "2026-11-20T20:15:47+00:00",
+  "status:40": "2026-11-20T20:15:47+00:00",
+  "status:33": "2026-11-20T20:15:47+00:00",
+  "status:48": "2026-11-20T20:15:47+00:00"
+ },
+ "updated": "2026-11-20T20:15:47+00:00"
+}

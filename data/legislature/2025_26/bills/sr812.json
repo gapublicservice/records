@@ -1,0 +1,75 @@
+{
+ "key": "SR 812",
+ "slug": "sr812",
+ "session": "2025_26",
+ "legislation_id": 73383,
+ "page": "https://www.legis.ga.gov/legislation/73383",
+ "document_type": "SR",
+ "number": 812,
+ "legislation_type": "PRIV",
+ "caption": "GreyStone Power Corporation; recognize",
+ "summary": "A RESOLUTION recognizing and commending GreyStone Power Corporation for 90 years of making life better in the communities it serves; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:26:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-19T11:33:03",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243109,
+   "label": "Read and adopted LC 129 1171",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243109"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:19+00:00",
+  "version:243109": "2026-11-20T21:09:19+00:00",
+  "status:67": "2026-11-20T21:09:19+00:00",
+  "status:66": "2026-11-20T21:09:19+00:00"
+ },
+ "updated": "2026-11-20T21:09:19+00:00"
+}

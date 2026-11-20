@@ -1,0 +1,109 @@
+{
+ "key": "HR 392",
+ "slug": "hr392",
+ "session": "2025_26",
+ "legislation_id": 70814,
+ "page": "https://www.legis.ga.gov/legislation/70814",
+ "document_type": "HR",
+ "number": 392,
+ "legislation_type": "NP",
+ "caption": "Joint Study Committee on the State Board of Registration of Used Motor Vehicle Dealers and Used Motor Vehicle Parts Dealers; create",
+ "summary": "A RESOLUTION creating the Joint Study Committee on the State Board of Registration of Used Motor Vehicle Dealers and Used Motor Vehicle Parts Dealers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:19:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T17:29:42",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233967,
+   "label": "LC 39 9003/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233967"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:32+00:00",
+  "version:233967": "2026-11-20T19:39:32+00:00",
+  "status:40": "2026-11-20T19:39:32+00:00",
+  "status:33": "2026-11-20T19:39:32+00:00",
+  "status:34": "2026-11-20T19:39:32+00:00",
+  "status:39": "2026-11-20T19:39:32+00:00",
+  "status:50": "2026-11-20T19:39:32+00:00"
+ },
+ "updated": "2026-11-20T19:39:32+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1800",
+ "slug": "hr1800",
+ "session": "2025_26",
+ "legislation_id": 74281,
+ "page": "https://www.legis.ga.gov/legislation/74281",
+ "document_type": "HR",
+ "number": 1800,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Speaker Pro Tempore Jan; extraordinary service to the State of Georgia; occasion of her retirement; recognize",
+ "summary": "A RESOLUTION recognizing and commending Speaker Pro Tempore Jan Jones for her extraordinary service to the State of Georgia upon the occasion of her retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-19T14:07:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T14:51:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T14:51:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246708,
+   "label": "LC 112 3815/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246708"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:21+00:00",
+  "version:246708": "2026-11-20T20:11:21+00:00",
+  "status:40": "2026-11-20T20:11:21+00:00",
+  "status:33": "2026-11-20T20:11:21+00:00",
+  "status:48": "2026-11-20T20:11:21+00:00"
+ },
+ "updated": "2026-11-20T20:11:21+00:00"
+}

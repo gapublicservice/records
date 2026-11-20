@@ -1,0 +1,81 @@
+{
+ "key": "HR 1047",
+ "slug": "hr1047",
+ "session": "2025_26",
+ "legislation_id": 72349,
+ "page": "https://www.legis.ga.gov/legislation/72349",
+ "document_type": "HR",
+ "number": 1047,
+ "legislation_type": "CA",
+ "caption": "State government; rate of ad valorem tax assessment of a single family residential property; provisions - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to set the rate of the ad valorem tax assessment of a single-family residential property to 100 percent of its fair market value when such property is owned by a business enterprise with an interest in at least 100 single-family residential properties within this state which are used primarily for the purpose of generating rental income; to provide for the subclassification of business enterprise property for ad valorem taxation purposes; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T11:35:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240158,
+   "label": "LC 60 0217/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240158"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:18+00:00",
+  "version:240158": "2026-11-20T19:54:18+00:00",
+  "status:40": "2026-11-20T19:54:18+00:00",
+  "status:33": "2026-11-20T19:54:18+00:00",
+  "status:34": "2026-11-20T19:54:18+00:00"
+ },
+ "updated": "2026-11-20T19:54:18+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1770",
+ "slug": "hr1770",
+ "session": "2025_26",
+ "legislation_id": 74233,
+ "page": "https://www.legis.ga.gov/legislation/74233",
+ "document_type": "HR",
+ "number": 1770,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Aniston; commend",
+ "summary": "A RESOLUTION commending and congratulating Aniston Jones; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:43:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:28:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:28:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246457,
+   "label": "LC 112 3961/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246457"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:43+00:00",
+  "version:246457": "2026-11-20T20:10:43+00:00",
+  "status:40": "2026-11-20T20:10:43+00:00",
+  "status:33": "2026-11-20T20:10:43+00:00",
+  "status:48": "2026-11-20T20:10:43+00:00"
+ },
+ "updated": "2026-11-20T20:10:43+00:00"
+}

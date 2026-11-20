@@ -1,0 +1,88 @@
+{
+ "key": "HB 1014",
+ "slug": "hb1014",
+ "session": "2025_26",
+ "legislation_id": 72321,
+ "page": "https://www.legis.ga.gov/legislation/72321",
+ "document_type": "HB",
+ "number": 1014,
+ "legislation_type": "GEN",
+ "caption": "Education; prohibit private and public primary and secondary schools from serving or selling, or allowing a third party to serve or sell, food or beverages that contain certain synthetic dyes",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to student health, so as to prohibit private and public primary and secondary schools from serving or selling, or allowing a third party to serve or sell, food or beverages that contain certain synthetic dyes; to amend Article 2 of Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to adulteration and misbranding of food, so as to prohibit the addition of specific ingredients in food and the selling any food under an invented name when it does not contain some ingredient suggested by such name or contains only an inconsiderable quantity; to provide for definitions; to provide for an exception; to provide for effective dates; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T12:08:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240064,
+   "label": "LC 46 1293/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240064"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:57+00:00",
+  "version:240064": "2026-11-20T19:05:57+00:00",
+  "status:40": "2026-11-20T19:05:57+00:00",
+  "status:33": "2026-11-20T19:05:57+00:00",
+  "status:34": "2026-11-20T19:05:57+00:00"
+ },
+ "updated": "2026-11-20T19:05:57+00:00"
+}

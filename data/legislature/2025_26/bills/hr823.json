@@ -1,0 +1,96 @@
+{
+ "key": "HR 823",
+ "slug": "hr823",
+ "session": "2025_26",
+ "legislation_id": 71814,
+ "page": "https://www.legis.ga.gov/legislation/71814",
+ "document_type": "HR",
+ "number": 823,
+ "legislation_type": "PRIV",
+ "caption": "Boggs, Chief Justice Michael P.; commend",
+ "summary": "A RESOLUTION recognizing and commending Chief Justice Michael P. Boggs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T16:28:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T17:11:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T17:11:45",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237850,
+   "label": "LC 112 3538/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237850"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:18+00:00",
+  "version:237850": "2026-11-20T19:49:18+00:00",
+  "status:40": "2026-11-20T19:49:18+00:00",
+  "status:33": "2026-11-20T19:49:18+00:00",
+  "status:48": "2026-11-20T19:49:18+00:00"
+ },
+ "updated": "2026-11-20T19:49:18+00:00"
+}

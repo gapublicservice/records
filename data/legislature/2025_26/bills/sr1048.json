@@ -1,0 +1,81 @@
+{
+ "key": "SR 1048",
+ "slug": "sr1048",
+ "session": "2025_26",
+ "legislation_id": 74494,
+ "page": "https://www.legis.ga.gov/legislation/74494",
+ "document_type": "SR",
+ "number": 1048,
+ "legislation_type": "NP",
+ "caption": "Senate Mileage Based User Fee Study Committee; create",
+ "summary": "A RESOLUTION creating the Senate Mileage Based User Fee Study Committee; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5093,
+   "name": "McNeel, Steven 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T16:41:32",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-27T10:14:34",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247594,
+   "label": "As introduced LC 39 5120",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247594"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:41+00:00",
+  "version:247594": "2026-11-20T21:14:41+00:00",
+  "status:67": "2026-11-20T21:14:41+00:00",
+  "status:3": "2026-11-20T21:14:41+00:00"
+ },
+ "updated": "2026-11-20T21:14:41+00:00"
+}

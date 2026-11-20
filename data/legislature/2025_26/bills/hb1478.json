@@ -1,0 +1,88 @@
+{
+ "key": "HB 1478",
+ "slug": "hb1478",
+ "session": "2025_26",
+ "legislation_id": 73756,
+ "page": "https://www.legis.ga.gov/legislation/73756",
+ "document_type": "HB",
+ "number": 1478,
+ "legislation_type": "GEN",
+ "caption": "Court Technology Funding Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to provide for a technology fee to be collected under certain circumstances; to provide for a short title; to provide for a purpose for such fees; to provide for imposition of additional civil filing fees and criminal penalties; to provide for adoption of county resolutions; to provide for a technology fund; to provide for technology plans; to provide for expenditure of funds collected; to preempt local Acts providing for technology fees; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:34:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T10:30:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T09:41:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244442,
+   "label": "LC 47 4128/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244442"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:24:16+00:00",
+  "version:244442": "2026-11-20T19:24:16+00:00",
+  "status:40": "2026-11-20T19:24:16+00:00",
+  "status:33": "2026-11-20T19:24:16+00:00",
+  "status:34": "2026-11-20T19:24:16+00:00"
+ },
+ "updated": "2026-11-20T19:24:16+00:00"
+}

@@ -1,0 +1,109 @@
+{
+ "key": "HB 1403",
+ "slug": "hb1403",
+ "session": "2025_26",
+ "legislation_id": 73456,
+ "page": "https://www.legis.ga.gov/legislation/73456",
+ "document_type": "HB",
+ "number": 1403,
+ "legislation_type": "GEN",
+ "caption": "Courts; service by judges, justices, court officers, and other individuals as a judge advocate in certain capacities; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 15 of the Official Code of Georgia Annotated, relating to general provisions relative to courts, so as to provide for service by judges, justices, court officers, and other individuals as a judge advocate in certain capacities; to provide for construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T10:20:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T10:36:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T10:38:40",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243400,
+   "label": "LC 49 2700/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243400"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:53+00:00",
+  "version:243400": "2026-11-20T19:21:53+00:00",
+  "status:40": "2026-11-20T19:21:53+00:00",
+  "status:33": "2026-11-20T19:21:53+00:00",
+  "status:34": "2026-11-20T19:21:53+00:00",
+  "status:39": "2026-11-20T19:21:53+00:00"
+ },
+ "updated": "2026-11-20T19:21:53+00:00"
+}

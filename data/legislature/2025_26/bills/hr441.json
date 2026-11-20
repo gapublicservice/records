@@ -1,0 +1,96 @@
+{
+ "key": "HR 441",
+ "slug": "hr441",
+ "session": "2025_26",
+ "legislation_id": 70995,
+ "page": "https://www.legis.ga.gov/legislation/70995",
+ "document_type": "HR",
+ "number": 441,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Beverage Association; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia Beverage Association; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:20:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T15:48:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T15:48:36",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234496,
+   "label": "LC 129 0172/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234496"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:39+00:00",
+  "version:234496": "2026-11-20T19:40:39+00:00",
+  "status:40": "2026-11-20T19:40:39+00:00",
+  "status:33": "2026-11-20T19:40:39+00:00",
+  "status:48": "2026-11-20T19:40:39+00:00"
+ },
+ "updated": "2026-11-20T19:40:39+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 269",
+ "slug": "hb269",
+ "session": "2025_26",
+ "legislation_id": 69930,
+ "page": "https://www.legis.ga.gov/legislation/69930",
+ "document_type": "HB",
+ "number": 269,
+ "legislation_type": "GEN",
+ "caption": "Education; revise requirements of child care learning centers and family child care learning homes",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1A of Title 20 of the Official Code of Georgia Annotated, relating to early care and learning, so as to revise the requirements of child care learning centers and family child care learning homes; to require that such centers and homes maintain commercial general liability insurance; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4969,
+   "name": "Yearta, Bill 152nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T15:12:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231342,
+   "label": "LC 55 0413/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231342"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:29:29+00:00",
+  "version:231342": "2026-11-20T18:29:29+00:00",
+  "status:40": "2026-11-20T18:29:29+00:00",
+  "status:33": "2026-11-20T18:29:29+00:00",
+  "status:34": "2026-11-20T18:29:29+00:00"
+ },
+ "updated": "2026-11-20T18:29:29+00:00"
+}

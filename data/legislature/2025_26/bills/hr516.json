@@ -1,0 +1,68 @@
+{
+ "key": "HR 516",
+ "slug": "hr516",
+ "session": "2025_26",
+ "legislation_id": 71199,
+ "page": "https://www.legis.ga.gov/legislation/71199",
+ "document_type": "HR",
+ "number": 516,
+ "legislation_type": "PRIV",
+ "caption": "Lundy, William L. \"Bill\", Jr.; 40 Years of Distinguished Legal Service; commend",
+ "summary": "A RESOLUTION commending William L. \"Bill\" Lundy, Jr. for 40 Years of Distinguished Legal Service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T13:28:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T14:06:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T14:06:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235433,
+   "label": "LC 129 0269/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235433"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:18+00:00",
+  "version:235433": "2026-11-20T19:42:18+00:00",
+  "status:40": "2026-11-20T19:42:18+00:00",
+  "status:33": "2026-11-20T19:42:18+00:00",
+  "status:48": "2026-11-20T19:42:18+00:00"
+ },
+ "updated": "2026-11-20T19:42:18+00:00"
+}

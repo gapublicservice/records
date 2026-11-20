@@ -1,0 +1,61 @@
+{
+ "key": "HR 702",
+ "slug": "hr702",
+ "session": "2025_26",
+ "legislation_id": 71588,
+ "page": "https://www.legis.ga.gov/legislation/71588",
+ "document_type": "HR",
+ "number": 702,
+ "legislation_type": "PRIV",
+ "caption": "Washington, Evetta B.; recipient of the Women on Purpose award; commend",
+ "summary": "A RESOLUTION commending Evetta B. Washington, recipient of the Women on Purpose award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-21T12:53:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T13:30:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T13:30:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236953,
+   "label": "LC 112 3474/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236953"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:38+00:00",
+  "version:236953": "2026-11-20T19:46:38+00:00",
+  "status:40": "2026-11-20T19:46:38+00:00",
+  "status:33": "2026-11-20T19:46:38+00:00",
+  "status:48": "2026-11-20T19:46:38+00:00"
+ },
+ "updated": "2026-11-20T19:46:38+00:00"
+}

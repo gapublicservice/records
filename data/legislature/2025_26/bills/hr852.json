@@ -1,0 +1,75 @@
+{
+ "key": "HR 852",
+ "slug": "hr852",
+ "session": "2025_26",
+ "legislation_id": 71862,
+ "page": "https://www.legis.ga.gov/legislation/71862",
+ "document_type": "HR",
+ "number": 852,
+ "legislation_type": "PRIV",
+ "caption": "Sarpong, Dr. Ernest Ofori; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Ernest Ofori Sarpong; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-28T12:50:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-28T13:20:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T13:21:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238009,
+   "label": "LC 112 3559/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238009"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:57+00:00",
+  "version:238009": "2026-11-20T19:49:57+00:00",
+  "status:40": "2026-11-20T19:49:57+00:00",
+  "status:33": "2026-11-20T19:49:57+00:00",
+  "status:48": "2026-11-20T19:49:57+00:00"
+ },
+ "updated": "2026-11-20T19:49:57+00:00"
+}

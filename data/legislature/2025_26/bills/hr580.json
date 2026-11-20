@@ -1,0 +1,82 @@
+{
+ "key": "HR 580",
+ "slug": "hr580",
+ "session": "2025_26",
+ "legislation_id": 71326,
+ "page": "https://www.legis.ga.gov/legislation/71326",
+ "document_type": "HR",
+ "number": 580,
+ "legislation_type": "PRIV",
+ "caption": "Stagmeier, Margaret \"Marjy\"; commend",
+ "summary": "A RESOLUTION commending Margaret \"Marjy\" Stagmeier; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:52:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:22:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:22:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235932,
+   "label": "LC 112 3286/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235932"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:44+00:00",
+  "version:235932": "2026-11-20T19:43:44+00:00",
+  "status:40": "2026-11-20T19:43:44+00:00",
+  "status:33": "2026-11-20T19:43:44+00:00",
+  "status:48": "2026-11-20T19:43:44+00:00"
+ },
+ "updated": "2026-11-20T19:43:44+00:00"
+}

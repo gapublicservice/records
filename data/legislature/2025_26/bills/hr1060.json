@@ -1,0 +1,96 @@
+{
+ "key": "HR 1060",
+ "slug": "hr1060",
+ "session": "2025_26",
+ "legislation_id": 72407,
+ "page": "https://www.legis.ga.gov/legislation/72407",
+ "document_type": "HR",
+ "number": 1060,
+ "legislation_type": "PRIV",
+ "caption": "International Holocaust Remembrance Day; January 27, 2026; recognize",
+ "summary": "A RESOLUTION honoring International Holocaust Remembrance Day on January 27, 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:13:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:46",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240354,
+   "label": "LC 129 0726/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240354"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:43+00:00",
+  "version:240354": "2026-11-20T19:54:43+00:00",
+  "status:40": "2026-11-20T19:54:43+00:00",
+  "status:33": "2026-11-20T19:54:43+00:00",
+  "status:48": "2026-11-20T19:54:43+00:00"
+ },
+ "updated": "2026-11-20T19:54:43+00:00"
+}

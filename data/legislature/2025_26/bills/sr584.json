@@ -1,0 +1,88 @@
+{
+ "key": "SR 584",
+ "slug": "sr584",
+ "session": "2025_26",
+ "legislation_id": 72325,
+ "page": "https://www.legis.ga.gov/legislation/72325",
+ "document_type": "SR",
+ "number": 584,
+ "legislation_type": "GEN",
+ "caption": "State-wide Water Management Plan; ratify amendments",
+ "summary": "A RESOLUTION to ratify amendments to a certain comprehensive state-wide water management plan; to provide for force and effect; to provide for construction; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Natural Resources and the Environment",
+   "id": 139
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-21T15:22:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-27T13:06:40",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240096,
+   "label": "As Introduced LC 60 0250",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240096"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:08+00:00",
+  "version:240096": "2026-11-20T21:04:08+00:00",
+  "status:67": "2026-11-20T21:04:08+00:00",
+  "status:3": "2026-11-20T21:04:08+00:00"
+ },
+ "updated": "2026-11-20T21:04:08+00:00"
+}

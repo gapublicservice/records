@@ -1,0 +1,68 @@
+{
+ "key": "HR 1076",
+ "slug": "hr1076",
+ "session": "2025_26",
+ "legislation_id": 72425,
+ "page": "https://www.legis.ga.gov/legislation/72425",
+ "document_type": "HR",
+ "number": 1076,
+ "legislation_type": "PRIV",
+ "caption": "Clayton Homes Waycross; commend",
+ "summary": "A RESOLUTION recognizing and commending Clayton Homes Waycross; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:21:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240378,
+   "label": "LC 129 0649/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240378"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:03+00:00",
+  "version:240378": "2026-11-20T19:55:03+00:00",
+  "status:40": "2026-11-20T19:55:03+00:00",
+  "status:33": "2026-11-20T19:55:03+00:00",
+  "status:48": "2026-11-20T19:55:03+00:00"
+ },
+ "updated": "2026-11-20T19:55:03+00:00"
+}

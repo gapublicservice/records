@@ -1,0 +1,95 @@
+{
+ "key": "HR 813",
+ "slug": "hr813",
+ "session": "2025_26",
+ "legislation_id": 71799,
+ "page": "https://www.legis.ga.gov/legislation/71799",
+ "document_type": "HR",
+ "number": 813,
+ "legislation_type": "GEN",
+ "caption": "Trooper Jimmy Cenescar Memorial Bridge; Gwinnett County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Trooper Jimmy Cenescar and dedicating a bridge in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T15:18:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T15:34:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237751,
+   "label": "LC 39 4782/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237751"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:05+00:00",
+  "version:237751": "2026-11-20T19:49:05+00:00",
+  "status:40": "2026-11-20T19:49:05+00:00",
+  "status:33": "2026-11-20T19:49:05+00:00",
+  "status:34": "2026-11-20T19:49:05+00:00"
+ },
+ "updated": "2026-11-20T19:49:05+00:00"
+}

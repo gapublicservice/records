@@ -1,0 +1,68 @@
+{
+ "key": "HR 1883",
+ "slug": "hr1883",
+ "session": "2025_26",
+ "legislation_id": 74404,
+ "page": "https://www.legis.ga.gov/legislation/74404",
+ "document_type": "HR",
+ "number": 1883,
+ "legislation_type": "PRIV",
+ "caption": "Poole, Halen Christopher; commend",
+ "summary": "A RESOLUTION commending and congratulating Halen Christopher Poole; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:42:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247169,
+   "label": "LC 129 9045/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247169"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:07+00:00",
+  "version:247169": "2026-11-20T20:13:07+00:00",
+  "status:40": "2026-11-20T20:13:07+00:00",
+  "status:33": "2026-11-20T20:13:07+00:00",
+  "status:48": "2026-11-20T20:13:07+00:00"
+ },
+ "updated": "2026-11-20T20:13:07+00:00"
+}

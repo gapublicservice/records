@@ -1,0 +1,61 @@
+{
+ "key": "HR 774",
+ "slug": "hr774",
+ "session": "2025_26",
+ "legislation_id": 71752,
+ "page": "https://www.legis.ga.gov/legislation/71752",
+ "document_type": "HR",
+ "number": 774,
+ "legislation_type": "PRIV",
+ "caption": "Lanier, Anthony M., II; commend",
+ "summary": "A RESOLUTION recognizing and commending Anthony M. Lanier II; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:49:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237652,
+   "label": "LC 112 3482/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237652"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:15+00:00",
+  "version:237652": "2026-11-20T19:48:15+00:00",
+  "status:40": "2026-11-20T19:48:15+00:00",
+  "status:33": "2026-11-20T19:48:15+00:00",
+  "status:48": "2026-11-20T19:48:15+00:00"
+ },
+ "updated": "2026-11-20T19:48:15+00:00"
+}

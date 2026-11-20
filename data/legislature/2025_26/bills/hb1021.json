@@ -1,0 +1,109 @@
+{
+ "key": "HB 1021",
+ "slug": "hb1021",
+ "session": "2025_26",
+ "legislation_id": 72351,
+ "page": "https://www.legis.ga.gov/legislation/72351",
+ "document_type": "HB",
+ "number": 1021,
+ "legislation_type": "GEN",
+ "caption": "Courts; increase amount of funds the authority is authorized to retain for administrative costs",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-21A-5 of the Official Code of Georgia Annotated, relating to retention of funds by authority, remittance to general fund of state treasury, and accumulation of interest, so as to increase the amount of funds the authority is authorized to retain for administrative costs; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:37:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-20T09:00:24",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240224,
+   "label": "LC 48 1679/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240224"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:12+00:00",
+  "version:240224": "2026-11-20T19:06:12+00:00",
+  "status:40": "2026-11-20T19:06:12+00:00",
+  "status:33": "2026-11-20T19:06:12+00:00",
+  "status:34": "2026-11-20T19:06:12+00:00",
+  "status:39": "2026-11-20T19:06:12+00:00"
+ },
+ "updated": "2026-11-20T19:06:12+00:00"
+}

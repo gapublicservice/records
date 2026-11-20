@@ -1,0 +1,96 @@
+{
+ "key": "HR 984",
+ "slug": "hr984",
+ "session": "2025_26",
+ "legislation_id": 72112,
+ "page": "https://www.legis.ga.gov/legislation/72112",
+ "document_type": "HR",
+ "number": 984,
+ "legislation_type": "PRIV",
+ "caption": "Green, Janel Jeras; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Janel Jeras Green; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:57:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239390,
+   "label": "LC 129 0497/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239390"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:50+00:00",
+  "version:239390": "2026-11-20T19:52:50+00:00",
+  "status:40": "2026-11-20T19:52:50+00:00",
+  "status:33": "2026-11-20T19:52:50+00:00",
+  "status:48": "2026-11-20T19:52:50+00:00"
+ },
+ "updated": "2026-11-20T19:52:50+00:00"
+}

@@ -1,0 +1,83 @@
+{
+ "key": "SR 131",
+ "slug": "sr131",
+ "session": "2025_26",
+ "legislation_id": 69932,
+ "page": "https://www.legis.ga.gov/legislation/69932",
+ "document_type": "SR",
+ "number": 131,
+ "legislation_type": "CA",
+ "caption": "Sports Betting and Casino Gambling Activities; operation and regulation; authorize the Georgia General Assembly - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to authorize the Georgia General Assembly to provide by law for the operation and regulation of sports betting and casino gambling activities in this state; to provide for the regulation and taxation of such activities; to provide for the allocation of revenues derived from such activities; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Regulated Industries and Utilities",
+   "id": 141
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T16:05:48",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-05T10:10:58",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231351,
+   "label": "As introduced LC 55 0439",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231351"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:53:17+00:00",
+  "version:231351": "2026-11-20T20:53:17+00:00",
+  "status:67": "2026-11-20T20:53:17+00:00",
+  "status:3": "2026-11-20T20:53:17+00:00"
+ },
+ "updated": "2026-11-20T20:53:17+00:00"
+}

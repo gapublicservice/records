@@ -1,0 +1,95 @@
+{
+ "key": "HR 1390",
+ "slug": "hr1390",
+ "session": "2025_26",
+ "legislation_id": 73298,
+ "page": "https://www.legis.ga.gov/legislation/73298",
+ "document_type": "HR",
+ "number": 1390,
+ "legislation_type": "NP",
+ "caption": "State Government; action to protect statue of Juliette Gordon Low within the Juliette Gordon Low Building; urge",
+ "summary": "A RESOLUTION urging action to protect the statue of Juliette Gordon Low within the Juliette Gordon Low Building; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T13:50:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242863,
+   "label": "LC 129 1054/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242863"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:25+00:00",
+  "version:242863": "2026-11-20T20:02:25+00:00",
+  "status:40": "2026-11-20T20:02:25+00:00",
+  "status:33": "2026-11-20T20:02:25+00:00",
+  "status:34": "2026-11-20T20:02:25+00:00"
+ },
+ "updated": "2026-11-20T20:02:25+00:00"
+}

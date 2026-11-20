@@ -1,0 +1,96 @@
+{
+ "key": "HR 1570",
+ "slug": "hr1570",
+ "session": "2025_26",
+ "legislation_id": 73844,
+ "page": "https://www.legis.ga.gov/legislation/73844",
+ "document_type": "HR",
+ "number": 1570,
+ "legislation_type": "PRIV",
+ "caption": "Obi, Juliet; commend",
+ "summary": "A RESOLUTION recognizing and commending Juliet Obi; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:05:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244808,
+   "label": "LC 112 3792/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244808"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:24+00:00",
+  "version:244808": "2026-11-20T20:06:24+00:00",
+  "status:40": "2026-11-20T20:06:24+00:00",
+  "status:33": "2026-11-20T20:06:24+00:00",
+  "status:48": "2026-11-20T20:06:24+00:00"
+ },
+ "updated": "2026-11-20T20:06:24+00:00"
+}

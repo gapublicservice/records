@@ -1,0 +1,68 @@
+{
+ "key": "HR 946",
+ "slug": "hr946",
+ "session": "2025_26",
+ "legislation_id": 72050,
+ "page": "https://www.legis.ga.gov/legislation/72050",
+ "document_type": "HR",
+ "number": 946,
+ "legislation_type": "PRIV",
+ "caption": "State of Georgia; economic leadership and recognizing the importance of transparent, informed decision making; commend",
+ "summary": "A RESOLUTION commending the State of Georgia for its economic leadership and recognizing the importance of transparent, informed decision making; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T20:00:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:43",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238972,
+   "label": "LC 112 3557/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238972"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:01+00:00",
+  "version:238972": "2026-11-20T19:52:01+00:00",
+  "status:40": "2026-11-20T19:52:01+00:00",
+  "status:33": "2026-11-20T19:52:01+00:00",
+  "status:48": "2026-11-20T19:52:01+00:00"
+ },
+ "updated": "2026-11-20T19:52:01+00:00"
+}

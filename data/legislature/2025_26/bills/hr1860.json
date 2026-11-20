@@ -1,0 +1,109 @@
+{
+ "key": "HR 1860",
+ "slug": "hr1860",
+ "session": "2025_26",
+ "legislation_id": 74380,
+ "page": "https://www.legis.ga.gov/legislation/74380",
+ "document_type": "HR",
+ "number": 1860,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Comprehensive Services and Long-term Outcomes for Individuals with Disabilities; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Comprehensive Services and Long-term Outcomes for Individuals with Disabilities; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-23T15:43:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T10:44:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T10:21:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-31T10:58:39",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247122,
+   "label": "LC 61 0489/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247122"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:37+00:00",
+  "version:247122": "2026-11-20T20:12:37+00:00",
+  "status:40": "2026-11-20T20:12:37+00:00",
+  "status:33": "2026-11-20T20:12:37+00:00",
+  "status:34": "2026-11-20T20:12:37+00:00",
+  "status:39": "2026-11-20T20:12:37+00:00"
+ },
+ "updated": "2026-11-20T20:12:37+00:00"
+}

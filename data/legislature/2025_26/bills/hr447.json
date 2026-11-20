@@ -1,0 +1,75 @@
+{
+ "key": "HR 447",
+ "slug": "hr447",
+ "session": "2025_26",
+ "legislation_id": 71001,
+ "page": "https://www.legis.ga.gov/legislation/71001",
+ "document_type": "HR",
+ "number": 447,
+ "legislation_type": "PRIV",
+ "caption": "Floyd, Nya Aaliyah; commend",
+ "summary": "A RESOLUTION recognizing and commending Nya Aaliyah Floyd; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:22:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T15:49:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T15:49:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234498,
+   "label": "LC 112 3194/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234498"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:47+00:00",
+  "version:234498": "2026-11-20T19:40:47+00:00",
+  "status:40": "2026-11-20T19:40:47+00:00",
+  "status:33": "2026-11-20T19:40:47+00:00",
+  "status:48": "2026-11-20T19:40:47+00:00"
+ },
+ "updated": "2026-11-20T19:40:47+00:00"
+}

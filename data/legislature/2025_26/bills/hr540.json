@@ -1,0 +1,88 @@
+{
+ "key": "HR 540",
+ "slug": "hr540",
+ "session": "2025_26",
+ "legislation_id": 71231,
+ "page": "https://www.legis.ga.gov/legislation/71231",
+ "document_type": "HR",
+ "number": 540,
+ "legislation_type": "NP",
+ "caption": "Congress; adopt legislation requiring Medicare program to provide for lifelong coverage of immunosuppressive drugs for liver, heart, and lung transplant recipients; urge",
+ "summary": "A RESOLUTION urging the Congress of the United States to adopt legislation requiring the Medicare program to provide for lifelong coverage of immunosuppressive drugs for liver, heart, and lung transplant recipients; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5003,
+   "name": "Henderson, Sharon 113th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-06T17:24:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-10T13:41:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T13:17:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235566,
+   "label": "LC 57 0262/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235566"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:50+00:00",
+  "version:235566": "2026-11-20T19:42:50+00:00",
+  "status:40": "2026-11-20T19:42:50+00:00",
+  "status:33": "2026-11-20T19:42:50+00:00",
+  "status:34": "2026-11-20T19:42:50+00:00"
+ },
+ "updated": "2026-11-20T19:42:50+00:00"
+}

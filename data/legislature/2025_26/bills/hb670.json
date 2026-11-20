@@ -1,0 +1,95 @@
+{
+ "key": "HB 670",
+ "slug": "hb670",
+ "session": "2025_26",
+ "legislation_id": 70965,
+ "page": "https://www.legis.ga.gov/legislation/70965",
+ "document_type": "HB",
+ "number": 670,
+ "legislation_type": "GEN",
+ "caption": "Georgia Civil Rights Act of 2025; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 8, 10, 34, 35, 45, and 50 of the O.C.G.A., relating to buildings and housing, commerce and trade, labor and industrial relations, law enforcement officers and agencies, public officers and employees, and state government, respectively, so as to provide comprehensive state civil rights laws protecting individuals from discrimination in housing, public accommodations, and employment on the basis of race, color, religion, sex, sexual orientation, age, disability, familial status, or national origin; to provide for related matters; to provide for a short title; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T13:51:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234409,
+   "label": "LC 48 1550/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234409"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:33+00:00",
+  "version:234409": "2026-11-20T18:48:33+00:00",
+  "status:40": "2026-11-20T18:48:33+00:00",
+  "status:33": "2026-11-20T18:48:33+00:00",
+  "status:34": "2026-11-20T18:48:33+00:00"
+ },
+ "updated": "2026-11-20T18:48:33+00:00"
+}

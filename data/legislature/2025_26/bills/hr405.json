@@ -1,0 +1,61 @@
+{
+ "key": "HR 405",
+ "slug": "hr405",
+ "session": "2025_26",
+ "legislation_id": 70867,
+ "page": "https://www.legis.ga.gov/legislation/70867",
+ "document_type": "HR",
+ "number": 405,
+ "legislation_type": "PRIV",
+ "caption": "Kilgore, Vanise Ayanna; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Vanise Ayanna Kilgore; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:30:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234089,
+   "label": "LC 112 3187/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234089"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:50+00:00",
+  "version:234089": "2026-11-20T19:39:50+00:00",
+  "status:40": "2026-11-20T19:39:50+00:00",
+  "status:33": "2026-11-20T19:39:50+00:00",
+  "status:48": "2026-11-20T19:39:50+00:00"
+ },
+ "updated": "2026-11-20T19:39:50+00:00"
+}

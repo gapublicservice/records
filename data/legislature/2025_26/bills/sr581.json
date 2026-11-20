@@ -1,0 +1,82 @@
+{
+ "key": "SR 581",
+ "slug": "sr581",
+ "session": "2025_26",
+ "legislation_id": 72281,
+ "page": "https://www.legis.ga.gov/legislation/72281",
+ "document_type": "SR",
+ "number": 581,
+ "legislation_type": "PRIV",
+ "caption": "Reach Out and Read Day; recognize January 27, 2026",
+ "summary": "A RESOLUTION recognizing January 27, 2026, as Reach Out and Read Day at the state capitol to recognize the power of reading to young children every day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-15T15:18:33",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-16T09:55:57",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239989,
+   "label": "Read and Adopted LC 129 0626",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239989"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:04+00:00",
+  "version:239989": "2026-11-20T21:04:04+00:00",
+  "status:67": "2026-11-20T21:04:04+00:00",
+  "status:66": "2026-11-20T21:04:04+00:00"
+ },
+ "updated": "2026-11-20T21:04:04+00:00"
+}

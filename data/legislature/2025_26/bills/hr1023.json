@@ -1,0 +1,95 @@
+{
+ "key": "HR 1023",
+ "slug": "hr1023",
+ "session": "2025_26",
+ "legislation_id": 72264,
+ "page": "https://www.legis.ga.gov/legislation/72264",
+ "document_type": "HR",
+ "number": 1023,
+ "legislation_type": "CA",
+ "caption": "State of Georgia; every parent has a fundamental right to direct the upbringing, education, care, and control of their children; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that every parent has a fundamental right to direct the upbringing, education, care, and control of their children; to provide for related matters; to provide for submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:56:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239942,
+   "label": "LC 65 0014/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239942"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:48+00:00",
+  "version:239942": "2026-11-20T19:53:48+00:00",
+  "status:40": "2026-11-20T19:53:48+00:00",
+  "status:33": "2026-11-20T19:53:48+00:00",
+  "status:34": "2026-11-20T19:53:48+00:00"
+ },
+ "updated": "2026-11-20T19:53:48+00:00"
+}

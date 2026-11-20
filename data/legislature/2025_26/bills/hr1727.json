@@ -1,0 +1,61 @@
+{
+ "key": "HR 1727",
+ "slug": "hr1727",
+ "session": "2025_26",
+ "legislation_id": 74144,
+ "page": "https://www.legis.ga.gov/legislation/74144",
+ "document_type": "HR",
+ "number": 1727,
+ "legislation_type": "PRIV",
+ "caption": "Williams-Roberts, Dr. Darlene; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Darlene Williams-Roberts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T14:01:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246071,
+   "label": "LC 112 3843/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246071"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:47+00:00",
+  "version:246071": "2026-11-20T20:09:47+00:00",
+  "status:40": "2026-11-20T20:09:47+00:00",
+  "status:33": "2026-11-20T20:09:47+00:00",
+  "status:48": "2026-11-20T20:09:47+00:00"
+ },
+ "updated": "2026-11-20T20:09:47+00:00"
+}

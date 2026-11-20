@@ -1,0 +1,67 @@
+{
+ "key": "SB 630",
+ "slug": "sb630",
+ "session": "2025_26",
+ "legislation_id": 74339,
+ "page": "https://www.legis.ga.gov/legislation/74339",
+ "document_type": "SB",
+ "number": 630,
+ "legislation_type": "LOC",
+ "caption": "City of Hiram; transfer of duties and obligations to Paulding County; provide",
+ "summary": "A BILL to be entitled an Act to repeal an Act incorporating the City of Hiram, approved February 27, 1956 (Ga. L. 1956, p. 2620), as amended; to provide for transfer of duties and obligations to Paulding County;  to provide for related matters; to provide for legislative findings and intent; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-20T14:13:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-23T10:14:35",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246930,
+   "label": "As introduced LC 61 0495",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246930"
+  },
+  {
+   "doc_id": 246931,
+   "label": "SB 630 Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246931"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:49:59+00:00",
+  "version:246930": "2026-11-20T20:49:59+00:00",
+  "version:246931": "2026-11-20T20:49:59+00:00",
+  "status:67": "2026-11-20T20:49:59+00:00",
+  "status:3": "2026-11-20T20:49:59+00:00"
+ },
+ "updated": "2026-11-20T20:49:59+00:00"
+}

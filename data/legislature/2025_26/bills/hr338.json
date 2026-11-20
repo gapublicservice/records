@@ -1,0 +1,96 @@
+{
+ "key": "HR 338",
+ "slug": "hr338",
+ "session": "2025_26",
+ "legislation_id": 70628,
+ "page": "https://www.legis.ga.gov/legislation/70628",
+ "document_type": "HR",
+ "number": 338,
+ "legislation_type": "PRIV",
+ "caption": "Association of Georgia General Aviation Airports; an industry association for general aviation airports in the State of Georgia and its corporate affiliates; commend",
+ "summary": "A RESOLUTION recognizing the Association of Georgia General Aviation Airports as an industry association for general aviation airports in the State of Georgia and its corporate affiliates; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:26:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T13:46:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T13:46:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233314,
+   "label": "LC 112 3023/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233314"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:23+00:00",
+  "version:233314": "2026-11-20T19:38:23+00:00",
+  "status:40": "2026-11-20T19:38:23+00:00",
+  "status:33": "2026-11-20T19:38:23+00:00",
+  "status:48": "2026-11-20T19:38:23+00:00"
+ },
+ "updated": "2026-11-20T19:38:23+00:00"
+}

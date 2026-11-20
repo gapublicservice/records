@@ -1,0 +1,75 @@
+{
+ "key": "HR 972",
+ "slug": "hr972",
+ "session": "2025_26",
+ "legislation_id": 72101,
+ "page": "https://www.legis.ga.gov/legislation/72101",
+ "document_type": "HR",
+ "number": 972,
+ "legislation_type": "PRIV",
+ "caption": "Dean, Stephanie; 2025 Awards of Honor recipient; commend",
+ "summary": "A RESOLUTION recognizing and commending the 2025 Awards of Honor recipient, Stephanie Dean; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:49:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:45",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239427,
+   "label": "LC 129 0490/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239427"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:35+00:00",
+  "version:239427": "2026-11-20T19:52:35+00:00",
+  "status:40": "2026-11-20T19:52:35+00:00",
+  "status:33": "2026-11-20T19:52:35+00:00",
+  "status:48": "2026-11-20T19:52:35+00:00"
+ },
+ "updated": "2026-11-20T19:52:35+00:00"
+}

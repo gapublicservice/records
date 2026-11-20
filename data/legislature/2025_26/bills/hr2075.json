@@ -1,0 +1,89 @@
+{
+ "key": "HR 2075",
+ "slug": "hr2075",
+ "session": "2025_26",
+ "legislation_id": 74676,
+ "page": "https://www.legis.ga.gov/legislation/74676",
+ "document_type": "HR",
+ "number": 2075,
+ "legislation_type": "PRIV",
+ "caption": "90th annual Atlanta Dogwood Festival; recognize",
+ "summary": "A RESOLUTION recognizing and commending the 90th annual Atlanta Dogwood Festival; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:42:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:38",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248590,
+   "label": "LC 112 4210/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248590"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:32+00:00",
+  "version:248590": "2026-11-20T20:17:32+00:00",
+  "status:40": "2026-11-20T20:17:32+00:00",
+  "status:33": "2026-11-20T20:17:32+00:00",
+  "status:48": "2026-11-20T20:17:32+00:00"
+ },
+ "updated": "2026-11-20T20:17:32+00:00"
+}

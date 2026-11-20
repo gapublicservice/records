@@ -1,0 +1,116 @@
+{
+ "key": "HR 368",
+ "slug": "hr368",
+ "session": "2025_26",
+ "legislation_id": 70724,
+ "page": "https://www.legis.ga.gov/legislation/70724",
+ "document_type": "HR",
+ "number": 368,
+ "legislation_type": "NP",
+ "caption": "Joint Study Committee on Intoxicating Cannabinoids in Consumable Hemp Products; create",
+ "summary": "A RESOLUTION creating the Joint Study Committee on Intoxicating Cannabinoids in Consumable Hemp Products; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 808,
+   "name": "Ballinger, Mandi 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T11:50:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-27T10:15:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237432,
+   "label": "LC 55 0600S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237432"
+  },
+  {
+   "doc_id": 233630,
+   "label": "LC 55 0513/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233630"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:02+00:00",
+  "version:237432": "2026-11-20T19:39:02+00:00",
+  "version:233630": "2026-11-20T19:39:02+00:00",
+  "status:40": "2026-11-20T19:39:02+00:00",
+  "status:33": "2026-11-20T19:39:02+00:00",
+  "status:34": "2026-11-20T19:39:02+00:00",
+  "status:39": "2026-11-20T19:39:02+00:00",
+  "status:50": "2026-11-20T19:39:02+00:00"
+ },
+ "updated": "2026-11-20T19:39:02+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1566",
+ "slug": "hr1566",
+ "session": "2025_26",
+ "legislation_id": 73840,
+ "page": "https://www.legis.ga.gov/legislation/73840",
+ "document_type": "HR",
+ "number": 1566,
+ "legislation_type": "PRIV",
+ "caption": "Asbury, E'Maya; commend",
+ "summary": "A RESOLUTION recognizing and commending E'Maya Asbury; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:03:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244838,
+   "label": "LC 129 1305/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:19+00:00",
+  "version:244838": "2026-11-20T20:06:19+00:00",
+  "status:40": "2026-11-20T20:06:19+00:00",
+  "status:33": "2026-11-20T20:06:19+00:00",
+  "status:48": "2026-11-20T20:06:19+00:00"
+ },
+ "updated": "2026-11-20T20:06:19+00:00"
+}

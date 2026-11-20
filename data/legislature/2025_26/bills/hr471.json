@@ -1,0 +1,68 @@
+{
+ "key": "HR 471",
+ "slug": "hr471",
+ "session": "2025_26",
+ "legislation_id": 71084,
+ "page": "https://www.legis.ga.gov/legislation/71084",
+ "document_type": "HR",
+ "number": 471,
+ "legislation_type": "PRIV",
+ "caption": "Historical significance of the 1911 Rand McNally map of Lumpkin County, Georgia; commend",
+ "summary": "A RESOLUTION recognizing the historical significance of the 1911 Rand McNally map of Lumpkin County, Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T13:03:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T13:43:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T13:43:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234849,
+   "label": "LC 112 3203/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234849"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:19+00:00",
+  "version:234849": "2026-11-20T19:41:19+00:00",
+  "status:40": "2026-11-20T19:41:19+00:00",
+  "status:33": "2026-11-20T19:41:19+00:00",
+  "status:48": "2026-11-20T19:41:19+00:00"
+ },
+ "updated": "2026-11-20T19:41:19+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HB 379",
+ "slug": "hb379",
+ "session": "2025_26",
+ "legislation_id": 70141,
+ "page": "https://www.legis.ga.gov/legislation/70141",
+ "document_type": "HB",
+ "number": 379,
+ "legislation_type": "GEN",
+ "caption": "Courts; divorce actions; provide certain lien protections",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-19-14 of the Official Code of Georgia Annotated, relating to liens for services rendered, priority, modes of enforcement, and other rights, so as to provide certain lien protections in divorce actions; to amend Chapter 1 of Title 19 of the Official Code of Georgia Annotated, relating to injunctions and restraining orders authorized in domestic relations actions, so as to provide for notice of standing orders in domestic relations actions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:07:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231861,
+   "label": "LC 48 1454/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231861"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:34:58+00:00",
+  "version:231861": "2026-11-20T18:34:58+00:00",
+  "status:40": "2026-11-20T18:34:58+00:00",
+  "status:33": "2026-11-20T18:34:58+00:00",
+  "status:34": "2026-11-20T18:34:58+00:00"
+ },
+ "updated": "2026-11-20T18:34:58+00:00"
+}

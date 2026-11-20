@@ -1,0 +1,88 @@
+{
+ "key": "HB 616",
+ "slug": "hb616",
+ "session": "2025_26",
+ "legislation_id": 70746,
+ "page": "https://www.legis.ga.gov/legislation/70746",
+ "document_type": "HB",
+ "number": 616,
+ "legislation_type": "GEN",
+ "caption": "Income tax; depreciation for single-family residential rental property; revise a deduction",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to revise a deduction related to depreciation for single-family residential rental property; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:04:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233668,
+   "label": "LC 59 0096/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233668"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:45+00:00",
+  "version:233668": "2026-11-20T18:45:45+00:00",
+  "status:40": "2026-11-20T18:45:45+00:00",
+  "status:33": "2026-11-20T18:45:45+00:00",
+  "status:34": "2026-11-20T18:45:45+00:00"
+ },
+ "updated": "2026-11-20T18:45:45+00:00"
+}

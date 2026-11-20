@@ -1,0 +1,75 @@
+{
+ "key": "HR 1375",
+ "slug": "hr1375",
+ "session": "2025_26",
+ "legislation_id": 73305,
+ "page": "https://www.legis.ga.gov/legislation/73305",
+ "document_type": "HR",
+ "number": 1375,
+ "legislation_type": "PRIV",
+ "caption": "Lowman, Patricia; retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Patricia Lowman upon her retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:11:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242906,
+   "label": "LC 129 1149/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242906"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:05+00:00",
+  "version:242906": "2026-11-20T20:02:05+00:00",
+  "status:40": "2026-11-20T20:02:05+00:00",
+  "status:33": "2026-11-20T20:02:05+00:00",
+  "status:48": "2026-11-20T20:02:05+00:00"
+ },
+ "updated": "2026-11-20T20:02:05+00:00"
+}

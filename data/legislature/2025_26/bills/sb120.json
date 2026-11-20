@@ -1,0 +1,221 @@
+{
+ "key": "SB 120",
+ "slug": "sb120",
+ "session": "2025_26",
+ "legislation_id": 70042,
+ "page": "https://www.legis.ga.gov/legislation/70042",
+ "document_type": "SB",
+ "number": 120,
+ "legislation_type": "GEN",
+ "caption": "Education; public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to provide that public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion; to provide for sanctions; to provide for definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 751,
+   "name": "Ginn, Frank 47th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 13
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 14
+  },
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 15
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 16
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Higher Education",
+   "id": 77
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:56:07",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-10T10:11:17",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-03-03T12:34:45",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-03-04T10:22:57",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2025-03-06T18:13:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  },
+  {
+   "date": "2026-01-12T11:17:41",
+   "code": "STT",
+   "action": "Senate Taken from Table",
+   "id": 76
+  },
+  {
+   "date": "2026-01-12T11:20:17",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231596,
+   "label": "As Introduced LC 61 0068",
+   "version": 7,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231596"
+  },
+  {
+   "doc_id": 234746,
+   "label": "Committee Sub LC 61 0201S",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234746"
+  },
+  {
+   "doc_id": 235699,
+   "label": "Floor Amend 1 AM 61 0005",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235699"
+  },
+  {
+   "doc_id": 235700,
+   "label": "Floor Amend 1A",
+   "version": 1,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235700"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:25:46+00:00",
+  "version:231596": "2026-11-20T20:25:46+00:00",
+  "version:234746": "2026-11-20T20:25:46+00:00",
+  "version:235699": "2026-11-20T20:25:46+00:00",
+  "version:235700": "2026-11-20T20:25:46+00:00",
+  "status:67": "2026-11-20T20:25:46+00:00",
+  "status:3": "2026-11-20T20:25:46+00:00",
+  "status:8": "2026-11-20T20:25:46+00:00",
+  "status:10": "2026-11-20T20:25:46+00:00",
+  "status:64": "2026-11-20T20:25:46+00:00",
+  "status:76": "2026-11-20T20:25:46+00:00",
+  "status:103": "2026-11-20T20:25:46+00:00"
+ },
+ "updated": "2026-11-20T20:25:46+00:00"
+}

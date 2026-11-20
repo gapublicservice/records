@@ -1,0 +1,61 @@
+{
+ "key": "HR 375",
+ "slug": "hr375",
+ "session": "2025_26",
+ "legislation_id": 70757,
+ "page": "https://www.legis.ga.gov/legislation/70757",
+ "document_type": "HR",
+ "number": 375,
+ "legislation_type": "PRIV",
+ "caption": "Coleman, Mike; commend",
+ "summary": "A RESOLUTION recognizing and commending Mike Coleman; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:39:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:25:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233711,
+   "label": "LC 112 3034/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233711"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:11+00:00",
+  "version:233711": "2026-11-20T19:39:11+00:00",
+  "status:40": "2026-11-20T19:39:11+00:00",
+  "status:33": "2026-11-20T19:39:11+00:00",
+  "status:48": "2026-11-20T19:39:11+00:00"
+ },
+ "updated": "2026-11-20T19:39:11+00:00"
+}

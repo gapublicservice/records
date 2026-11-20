@@ -1,0 +1,60 @@
+{
+ "key": "SB 168",
+ "slug": "sb168",
+ "session": "2025_26",
+ "legislation_id": 70334,
+ "page": "https://www.legis.ga.gov/legislation/70334",
+ "document_type": "SB",
+ "number": 168,
+ "legislation_type": "GEN",
+ "caption": "Individual Tax Rates; reduction of the state income tax over time; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 48-7-20 of the Official Code of Georgia Annotated, relating to individual tax rates, credit for withholding and other payments, and applicability to estates and trusts, so as to revise provisions for the reduction of the state income tax over time; to remove certain conditions for such rate reduction; to provide for related matters; to provide an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Finance",
+   "id": 138
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T11:41:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-18T13:10:34",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232450,
+   "label": "As Introduced LC 59 0100",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232450"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:28:43+00:00",
+  "version:232450": "2026-11-20T20:28:43+00:00",
+  "status:67": "2026-11-20T20:28:43+00:00",
+  "status:3": "2026-11-20T20:28:43+00:00"
+ },
+ "updated": "2026-11-20T20:28:43+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "SR 820",
+ "slug": "sr820",
+ "session": "2025_26",
+ "legislation_id": 73428,
+ "page": "https://www.legis.ga.gov/legislation/73428",
+ "document_type": "SR",
+ "number": 820,
+ "legislation_type": "GEN",
+ "caption": "Donald Seabolt Intersection; Lumpkin County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Donald Lyn Seabolt and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T11:44:55",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-20T09:56:06",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243282,
+   "label": "As Introduced LC 39 4949",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243282"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:30+00:00",
+  "version:243282": "2026-11-20T21:09:30+00:00",
+  "status:67": "2026-11-20T21:09:30+00:00",
+  "status:3": "2026-11-20T21:09:30+00:00"
+ },
+ "updated": "2026-11-20T21:09:30+00:00"
+}

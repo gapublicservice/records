@@ -1,0 +1,96 @@
+{
+ "key": "HR 1179",
+ "slug": "hr1179",
+ "session": "2025_26",
+ "legislation_id": 72742,
+ "page": "https://www.legis.ga.gov/legislation/72742",
+ "document_type": "HR",
+ "number": 1179,
+ "legislation_type": "PRIV",
+ "caption": "Community Associations Institute-Georgia Chapter; commend",
+ "summary": "A RESOLUTION recognizing the Community Associations Institute-Georgia Chapter; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-02T13:15:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T14:03:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T14:03:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241219,
+   "label": "LC 129 0731/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241219"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:17+00:00",
+  "version:241219": "2026-11-20T19:57:17+00:00",
+  "status:40": "2026-11-20T19:57:17+00:00",
+  "status:33": "2026-11-20T19:57:17+00:00",
+  "status:48": "2026-11-20T19:57:17+00:00"
+ },
+ "updated": "2026-11-20T19:57:17+00:00"
+}

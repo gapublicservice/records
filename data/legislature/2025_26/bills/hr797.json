@@ -1,0 +1,61 @@
+{
+ "key": "HR 797",
+ "slug": "hr797",
+ "session": "2025_26",
+ "legislation_id": 71785,
+ "page": "https://www.legis.ga.gov/legislation/71785",
+ "document_type": "HR",
+ "number": 797,
+ "legislation_type": "PRIV",
+ "caption": "Reed, Janice; commend",
+ "summary": "A RESOLUTION recognizing and commending Janice Reed; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T14:00:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237642,
+   "label": "LC 129 0378/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237642"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:44+00:00",
+  "version:237642": "2026-11-20T19:48:44+00:00",
+  "status:40": "2026-11-20T19:48:44+00:00",
+  "status:33": "2026-11-20T19:48:44+00:00",
+  "status:48": "2026-11-20T19:48:44+00:00"
+ },
+ "updated": "2026-11-20T19:48:44+00:00"
+}

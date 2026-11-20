@@ -1,0 +1,82 @@
+{
+ "key": "HR 51",
+ "slug": "hr51",
+ "session": "2025_26",
+ "legislation_id": 69511,
+ "page": "https://www.legis.ga.gov/legislation/69511",
+ "document_type": "HR",
+ "number": 51,
+ "legislation_type": "PRIV",
+ "caption": "Kia's vehicle manufacturing and impact on the state and recognizing January 28, 2025, as Kia Day at the state capitol; recognize",
+ "summary": "A RESOLUTION commending Kia's vehicle manufacturing and impact on the state and recognizing January 28, 2025, as Kia Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:31:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:38",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230308,
+   "label": "LC 112 2732/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230308"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:51+00:00",
+  "version:230308": "2026-11-20T19:31:51+00:00",
+  "status:40": "2026-11-20T19:31:51+00:00",
+  "status:33": "2026-11-20T19:31:51+00:00",
+  "status:48": "2026-11-20T19:31:51+00:00"
+ },
+ "updated": "2026-11-20T19:31:51+00:00"
+}

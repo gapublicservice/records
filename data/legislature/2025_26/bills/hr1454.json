@@ -1,0 +1,75 @@
+{
+ "key": "HR 1454",
+ "slug": "hr1454",
+ "session": "2025_26",
+ "legislation_id": 73586,
+ "page": "https://www.legis.ga.gov/legislation/73586",
+ "document_type": "HR",
+ "number": 1454,
+ "legislation_type": "PRIV",
+ "caption": "Randall, Eric; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Eric Randall; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-24T14:41:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T15:44:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T15:45:00",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243873,
+   "label": "LC 129 1124/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243873"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:54+00:00",
+  "version:243873": "2026-11-20T20:03:54+00:00",
+  "status:40": "2026-11-20T20:03:54+00:00",
+  "status:33": "2026-11-20T20:03:54+00:00",
+  "status:48": "2026-11-20T20:03:54+00:00"
+ },
+ "updated": "2026-11-20T20:03:54+00:00"
+}

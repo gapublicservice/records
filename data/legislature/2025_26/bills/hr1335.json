@@ -1,0 +1,96 @@
+{
+ "key": "HR 1335",
+ "slug": "hr1335",
+ "session": "2025_26",
+ "legislation_id": 73149,
+ "page": "https://www.legis.ga.gov/legislation/73149",
+ "document_type": "HR",
+ "number": 1335,
+ "legislation_type": "PRIV",
+ "caption": "Goldstone, Brian; commend",
+ "summary": "A RESOLUTION recognizing and commending Brian Goldstone; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:44:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242430,
+   "label": "LC 129 0900/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242430"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:03+00:00",
+  "version:242430": "2026-11-20T20:01:03+00:00",
+  "status:40": "2026-11-20T20:01:03+00:00",
+  "status:33": "2026-11-20T20:01:03+00:00",
+  "status:48": "2026-11-20T20:01:03+00:00"
+ },
+ "updated": "2026-11-20T20:01:03+00:00"
+}

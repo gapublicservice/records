@@ -1,0 +1,75 @@
+{
+ "key": "HR 1745",
+ "slug": "hr1745",
+ "session": "2025_26",
+ "legislation_id": 74162,
+ "page": "https://www.legis.ga.gov/legislation/74162",
+ "document_type": "HR",
+ "number": 1745,
+ "legislation_type": "PRIV",
+ "caption": "Georgia School of Orthodontics; 10th anniversary; commend",
+ "summary": "A RESOLUTION commending and congratulating the Georgia School of Orthodontics upon its 10th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T14:08:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246093,
+   "label": "LC 112 3814/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246093"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:10+00:00",
+  "version:246093": "2026-11-20T20:10:10+00:00",
+  "status:40": "2026-11-20T20:10:10+00:00",
+  "status:33": "2026-11-20T20:10:10+00:00",
+  "status:48": "2026-11-20T20:10:10+00:00"
+ },
+ "updated": "2026-11-20T20:10:10+00:00"
+}

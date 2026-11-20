@@ -1,0 +1,96 @@
+{
+ "key": "HR 322",
+ "slug": "hr322",
+ "session": "2025_26",
+ "legislation_id": 70549,
+ "page": "https://www.legis.ga.gov/legislation/70549",
+ "document_type": "HR",
+ "number": 322,
+ "legislation_type": "PRIV",
+ "caption": "Boy Scouts of America in Georgia; Scouts Day at the Capitol; 02/26/25; recognize",
+ "summary": "A RESOLUTION commending the Boy Scouts of America in Georgia and recognizing February 26, 2025, as Scouts Day at the Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:55:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233032,
+   "label": "LC 112 3028/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233032"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:03+00:00",
+  "version:233032": "2026-11-20T19:38:03+00:00",
+  "status:40": "2026-11-20T19:38:03+00:00",
+  "status:33": "2026-11-20T19:38:03+00:00",
+  "status:48": "2026-11-20T19:38:03+00:00"
+ },
+ "updated": "2026-11-20T19:38:03+00:00"
+}

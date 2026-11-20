@@ -1,0 +1,75 @@
+{
+ "key": "HR 2020",
+ "slug": "hr2020",
+ "session": "2025_26",
+ "legislation_id": 74624,
+ "page": "https://www.legis.ga.gov/legislation/74624",
+ "document_type": "HR",
+ "number": 2020,
+ "legislation_type": "PRIV",
+ "caption": "Gilliard, Representative Carl; recognize",
+ "summary": "A RESOLUTION recognizing and commending Representative Carl Gilliard; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:12:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:46",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248396,
+   "label": "LC 112 4162/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248396"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:15+00:00",
+  "version:248396": "2026-11-20T20:16:15+00:00",
+  "status:40": "2026-11-20T20:16:15+00:00",
+  "status:33": "2026-11-20T20:16:15+00:00",
+  "status:48": "2026-11-20T20:16:15+00:00"
+ },
+ "updated": "2026-11-20T20:16:15+00:00"
+}

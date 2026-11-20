@@ -1,0 +1,103 @@
+{
+ "key": "SR 2",
+ "slug": "sr2",
+ "session": "2025_26",
+ "legislation_id": 69268,
+ "page": "https://www.legis.ga.gov/legislation/69268",
+ "document_type": "SR",
+ "number": 2,
+ "legislation_type": "NP",
+ "caption": "General Assembly Convened; notify the Governor",
+ "summary": "A RESOLUTION to notify the Governor that the General Assembly has convened; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-13T07:16:43",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-13T11:35:43",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  },
+  {
+   "date": "2025-01-13T11:36:06",
+   "code": "STH",
+   "action": "Senate Transmitted House",
+   "id": 60
+  },
+  {
+   "date": "2025-01-13T12:16:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-13T12:16:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229845,
+   "label": "SR 2/AP*",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229845"
+  },
+  {
+   "doc_id": 229725,
+   "label": "Adopted Senate",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229725"
+  },
+  {
+   "doc_id": 229708,
+   "label": "As Introduced LC 33 9753",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229708"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:50:05+00:00",
+  "version:229845": "2026-11-20T20:50:05+00:00",
+  "version:229725": "2026-11-20T20:50:05+00:00",
+  "version:229708": "2026-11-20T20:50:05+00:00",
+  "status:67": "2026-11-20T20:50:05+00:00",
+  "status:66": "2026-11-20T20:50:05+00:00",
+  "status:60": "2026-11-20T20:50:05+00:00",
+  "status:33": "2026-11-20T20:50:05+00:00",
+  "status:48": "2026-11-20T20:50:05+00:00"
+ },
+ "updated": "2026-11-20T20:50:05+00:00"
+}

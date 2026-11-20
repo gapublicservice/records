@@ -1,0 +1,96 @@
+{
+ "key": "HR 1699",
+ "slug": "hr1699",
+ "session": "2025_26",
+ "legislation_id": 74082,
+ "page": "https://www.legis.ga.gov/legislation/74082",
+ "document_type": "HR",
+ "number": 1699,
+ "legislation_type": "PRIV",
+ "caption": "United Nations International Day of Remembrance of the Victims of the Transatlantic Slave Trade; 03/25/26; recognize",
+ "summary": "A RESOLUTION recognizing March 25, 2026, as the United Nations International Day of Remembrance of the Victims of the Transatlantic Slave Trade; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:50:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:16:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245843,
+   "label": "LC 112 3887/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245843"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:11+00:00",
+  "version:245843": "2026-11-20T20:09:11+00:00",
+  "status:40": "2026-11-20T20:09:11+00:00",
+  "status:33": "2026-11-20T20:09:11+00:00",
+  "status:48": "2026-11-20T20:09:11+00:00"
+ },
+ "updated": "2026-11-20T20:09:11+00:00"
+}

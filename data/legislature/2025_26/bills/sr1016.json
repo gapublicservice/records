@@ -1,0 +1,89 @@
+{
+ "key": "SR 1016",
+ "slug": "sr1016",
+ "session": "2025_26",
+ "legislation_id": 74349,
+ "page": "https://www.legis.ga.gov/legislation/74349",
+ "document_type": "SR",
+ "number": 1016,
+ "legislation_type": "PRIV",
+ "caption": "McCaskey, Dr. Xavier Marquis; condolences",
+ "summary": "A RESOLUTION honoring the life, service, and distinguished achievements of Dr. Xavier Marquis McCaskey; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:24:59",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-25T12:19:23",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247019,
+   "label": "Read and adopted LC 129 1483",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247019"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:13:59+00:00",
+  "version:247019": "2026-11-20T21:13:59+00:00",
+  "status:67": "2026-11-20T21:13:59+00:00",
+  "status:66": "2026-11-20T21:13:59+00:00"
+ },
+ "updated": "2026-11-20T21:13:59+00:00"
+}

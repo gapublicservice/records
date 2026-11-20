@@ -1,0 +1,130 @@
+{
+ "key": "SR 924",
+ "slug": "sr924",
+ "session": "2025_26",
+ "legislation_id": 73938,
+ "page": "https://www.legis.ga.gov/legislation/73938",
+ "document_type": "SR",
+ "number": 924,
+ "legislation_type": "PRIV",
+ "caption": "Black Maternal Health Statistics; recognize",
+ "summary": "A RESOLUTION recognizing Black maternal health statistics; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-06T13:31:49",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-09T13:10:26",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245302,
+   "label": "Read and adopted LC 112 3834",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245302"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:53+00:00",
+  "version:245302": "2026-11-20T21:11:53+00:00",
+  "status:67": "2026-11-20T21:11:53+00:00",
+  "status:3": "2026-11-20T21:11:53+00:00"
+ },
+ "updated": "2026-11-20T21:11:53+00:00"
+}

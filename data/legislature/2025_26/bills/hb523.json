@@ -1,0 +1,74 @@
+{
+ "key": "HB 523",
+ "slug": "hb523",
+ "session": "2025_26",
+ "legislation_id": 70503,
+ "page": "https://www.legis.ga.gov/legislation/70503",
+ "document_type": "HB",
+ "number": 523,
+ "legislation_type": "GEN",
+ "caption": "Local government; annexation contingent upon approval of county in which subject property is located; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to annexation pursuant to application by 100 percent of landowners, so as to provide that such annexations are contingent upon approval of the county in which the subject property is located; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T12:11:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232944,
+   "label": "LC 47 3312/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232944"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:36+00:00",
+  "version:232944": "2026-11-20T18:41:36+00:00",
+  "status:40": "2026-11-20T18:41:36+00:00",
+  "status:33": "2026-11-20T18:41:36+00:00",
+  "status:34": "2026-11-20T18:41:36+00:00"
+ },
+ "updated": "2026-11-20T18:41:36+00:00"
+}

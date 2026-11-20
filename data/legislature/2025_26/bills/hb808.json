@@ -1,0 +1,88 @@
+{
+ "key": "HB 808",
+ "slug": "hb808",
+ "session": "2025_26",
+ "legislation_id": 71504,
+ "page": "https://www.legis.ga.gov/legislation/71504",
+ "document_type": "HB",
+ "number": 808,
+ "legislation_type": "GEN",
+ "caption": "State Law Enforcement Officer Plan or 'SLEO Plan'; establish",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 47 of the Official Code of Georgia Annotated, relating to the Employees' Retirement System of Georgia, so as to establish the State Law Enforcement Officer Plan to offer enhanced benefits for electing state law enforcement officers; to provide for irrevocable elections; to provide for conditions and limitations; to provide for deferred retirement option program accounts; to provide for definitions; to provide a short title; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T12:50:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236686,
+   "label": "LC 56 0377/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236686"
+  },
+  {
+   "doc_id": 236724,
+   "label": "Auditor's Certification LC 56 0377",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236724"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:51+00:00",
+  "version:236686": "2026-11-20T18:54:51+00:00",
+  "version:236724": "2026-11-20T18:54:51+00:00",
+  "status:40": "2026-11-20T18:54:51+00:00",
+  "status:33": "2026-11-20T18:54:51+00:00",
+  "status:34": "2026-11-20T18:54:51+00:00"
+ },
+ "updated": "2026-11-20T18:54:51+00:00"
+}

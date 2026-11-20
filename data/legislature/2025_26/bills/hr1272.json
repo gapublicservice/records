@@ -1,0 +1,68 @@
+{
+ "key": "HR 1272",
+ "slug": "hr1272",
+ "session": "2025_26",
+ "legislation_id": 72982,
+ "page": "https://www.legis.ga.gov/legislation/72982",
+ "document_type": "HR",
+ "number": 1272,
+ "legislation_type": "PRIV",
+ "caption": "Perry, Schley Louis, Jr.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Schley Louis Perry, Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:57:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241918,
+   "label": "LC 129 0987/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241918"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:24+00:00",
+  "version:241918": "2026-11-20T19:59:24+00:00",
+  "status:40": "2026-11-20T19:59:24+00:00",
+  "status:33": "2026-11-20T19:59:24+00:00",
+  "status:48": "2026-11-20T19:59:24+00:00"
+ },
+ "updated": "2026-11-20T19:59:24+00:00"
+}

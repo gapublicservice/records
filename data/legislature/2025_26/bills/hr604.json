@@ -1,0 +1,82 @@
+{
+ "key": "HR 604",
+ "slug": "hr604",
+ "session": "2025_26",
+ "legislation_id": 71373,
+ "page": "https://www.legis.ga.gov/legislation/71373",
+ "document_type": "HR",
+ "number": 604,
+ "legislation_type": "PRIV",
+ "caption": "Wilkerson, Mayor Allison; commend",
+ "summary": "A RESOLUTION recognizing and commending Mayor Allison Wilkerson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:03:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:21:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:21:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236116,
+   "label": "LC 129 0353/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236116"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:15+00:00",
+  "version:236116": "2026-11-20T19:44:15+00:00",
+  "status:40": "2026-11-20T19:44:15+00:00",
+  "status:33": "2026-11-20T19:44:15+00:00",
+  "status:48": "2026-11-20T19:44:15+00:00"
+ },
+ "updated": "2026-11-20T19:44:15+00:00"
+}

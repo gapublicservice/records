@@ -1,0 +1,96 @@
+{
+ "key": "HR 700",
+ "slug": "hr700",
+ "session": "2025_26",
+ "legislation_id": 71586,
+ "page": "https://www.legis.ga.gov/legislation/71586",
+ "document_type": "HR",
+ "number": 700,
+ "legislation_type": "PRIV",
+ "caption": "Happy Hitters of North Atlanta; commend",
+ "summary": "A RESOLUTION commending the Happy Hitters of North Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-21T12:52:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T13:30:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T13:30:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236950,
+   "label": "LC 112 3417/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236950"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:35+00:00",
+  "version:236950": "2026-11-20T19:46:35+00:00",
+  "status:40": "2026-11-20T19:46:35+00:00",
+  "status:33": "2026-11-20T19:46:35+00:00",
+  "status:48": "2026-11-20T19:46:35+00:00"
+ },
+ "updated": "2026-11-20T19:46:35+00:00"
+}

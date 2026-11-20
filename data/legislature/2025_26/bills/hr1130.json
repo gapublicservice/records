@@ -1,0 +1,68 @@
+{
+ "key": "HR 1130",
+ "slug": "hr1130",
+ "session": "2025_26",
+ "legislation_id": 72550,
+ "page": "https://www.legis.ga.gov/legislation/72550",
+ "document_type": "HR",
+ "number": 1130,
+ "legislation_type": "PRIV",
+ "caption": "Good Neighbor Homeless Shelter; 30 years of dedicated service; commend",
+ "summary": "A RESOLUTION congratulating and commending the Good Neighbor Homeless Shelter upon 30 years of dedicated service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:40:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240715,
+   "label": "LC 129 0630/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240715"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:14+00:00",
+  "version:240715": "2026-11-20T19:56:14+00:00",
+  "status:40": "2026-11-20T19:56:14+00:00",
+  "status:33": "2026-11-20T19:56:14+00:00",
+  "status:48": "2026-11-20T19:56:14+00:00"
+ },
+ "updated": "2026-11-20T19:56:14+00:00"
+}

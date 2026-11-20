@@ -1,0 +1,89 @@
+{
+ "key": "HR 678",
+ "slug": "hr678",
+ "session": "2025_26",
+ "legislation_id": 71531,
+ "page": "https://www.legis.ga.gov/legislation/71531",
+ "document_type": "HR",
+ "number": 678,
+ "legislation_type": "PRIV",
+ "caption": "Newman, Reverend Reginald B.; occasion of his retirement; recognize",
+ "summary": "A RESOLUTION recognizing and commending Reverend Reginald B. Newman on the occasion of his retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:49:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236744,
+   "label": "LC 129 0367/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236744"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:02+00:00",
+  "version:236744": "2026-11-20T19:46:02+00:00",
+  "status:40": "2026-11-20T19:46:02+00:00",
+  "status:33": "2026-11-20T19:46:02+00:00",
+  "status:48": "2026-11-20T19:46:02+00:00"
+ },
+ "updated": "2026-11-20T19:46:02+00:00"
+}

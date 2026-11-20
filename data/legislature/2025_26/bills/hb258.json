@@ -1,0 +1,102 @@
+{
+ "key": "HB 258",
+ "slug": "hb258",
+ "session": "2025_26",
+ "legislation_id": 69871,
+ "page": "https://www.legis.ga.gov/legislation/69871",
+ "document_type": "HB",
+ "number": 258,
+ "legislation_type": "GEN",
+ "caption": "PeachCare for Adults Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance, so as to establish the PeachCare for Adults Program; to provide for a short title; to provide for definitions; to provide for submission of federal waiver requests; to provide for requirements; to provide for providers; to provide for administration of the program; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:46:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231208,
+   "label": "LC 52 0689/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231208"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:59+00:00",
+  "version:231208": "2026-11-20T18:28:59+00:00",
+  "status:40": "2026-11-20T18:28:59+00:00",
+  "status:33": "2026-11-20T18:28:59+00:00",
+  "status:34": "2026-11-20T18:28:59+00:00"
+ },
+ "updated": "2026-11-20T18:28:59+00:00"
+}

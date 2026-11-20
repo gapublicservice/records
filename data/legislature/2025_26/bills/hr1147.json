@@ -1,0 +1,89 @@
+{
+ "key": "HR 1147",
+ "slug": "hr1147",
+ "session": "2025_26",
+ "legislation_id": 72567,
+ "page": "https://www.legis.ga.gov/legislation/72567",
+ "document_type": "HR",
+ "number": 1147,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Mrs. Lena B; commend",
+ "summary": "A RESOLUTION recognizing and commending Mrs. Lena B. Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:48:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:54:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:54:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240706,
+   "label": "LC 129 0612/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240706"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:36+00:00",
+  "version:240706": "2026-11-20T19:56:36+00:00",
+  "status:40": "2026-11-20T19:56:36+00:00",
+  "status:33": "2026-11-20T19:56:36+00:00",
+  "status:48": "2026-11-20T19:56:36+00:00"
+ },
+ "updated": "2026-11-20T19:56:36+00:00"
+}

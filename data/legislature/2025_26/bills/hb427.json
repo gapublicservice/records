@@ -1,0 +1,116 @@
+{
+ "key": "HB 427",
+ "slug": "hb427",
+ "session": "2025_26",
+ "legislation_id": 70276,
+ "page": "https://www.legis.ga.gov/legislation/70276",
+ "document_type": "HB",
+ "number": 427,
+ "legislation_type": "GEN",
+ "caption": "Property; notice to owner and deed holder when another deed is filed by another party; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2 of Title 44 of the Official Code of Georgia Annotated, relating to recording relative to property, so as to provide for notice to the owner and deed holder when another deed is filed by another party; to provide for a 45 day waiting period; to provide for limitations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T11:55:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233787,
+   "label": "LC 48 1535S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233787"
+  },
+  {
+   "doc_id": 232298,
+   "label": "LC 48 1411/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232298"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:37:22+00:00",
+  "version:233787": "2026-11-20T18:37:22+00:00",
+  "version:232298": "2026-11-20T18:37:22+00:00",
+  "status:40": "2026-11-20T18:37:22+00:00",
+  "status:33": "2026-11-20T18:37:22+00:00",
+  "status:34": "2026-11-20T18:37:22+00:00",
+  "status:39": "2026-11-20T18:37:22+00:00",
+  "status:50": "2026-11-20T18:37:22+00:00"
+ },
+ "updated": "2026-11-20T18:37:22+00:00"
+}

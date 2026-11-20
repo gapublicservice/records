@@ -1,0 +1,96 @@
+{
+ "key": "HR 1120",
+ "slug": "hr1120",
+ "session": "2025_26",
+ "legislation_id": 72540,
+ "page": "https://www.legis.ga.gov/legislation/72540",
+ "document_type": "HR",
+ "number": 1120,
+ "legislation_type": "PRIV",
+ "caption": "YKK AP America, Inc.; significant contributions to economic development, manufacturing innovation, and community partnerships in Middle Georgia; commend",
+ "summary": "A RESOLUTION commending the efforts of YKK AP America Inc. for their significant contributions to economic development, manufacturing innovation, and community partnerships in Middle Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:36:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240703,
+   "label": "LC 129 0631/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240703"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:02+00:00",
+  "version:240703": "2026-11-20T19:56:02+00:00",
+  "status:40": "2026-11-20T19:56:02+00:00",
+  "status:33": "2026-11-20T19:56:02+00:00",
+  "status:48": "2026-11-20T19:56:02+00:00"
+ },
+ "updated": "2026-11-20T19:56:02+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 853",
+ "slug": "hr853",
+ "session": "2025_26",
+ "legislation_id": 71863,
+ "page": "https://www.legis.ga.gov/legislation/71863",
+ "document_type": "HR",
+ "number": 853,
+ "legislation_type": "PRIV",
+ "caption": "Building Owners and Managers Association of Georgia (BOMA Georgia); BOMA Georgia Day at the state capitol; February 4, 2025; recognize",
+ "summary": "A RESOLUTION commending the Building Owners and Managers Association of Georgia (BOMA Georgia) and recognizing February 4, 2025, as BOMA Georgia Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-28T12:51:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-28T13:20:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T13:21:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238011,
+   "label": "LC 112 3512/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238011"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:58+00:00",
+  "version:238011": "2026-11-20T19:49:58+00:00",
+  "status:40": "2026-11-20T19:49:58+00:00",
+  "status:33": "2026-11-20T19:49:58+00:00",
+  "status:48": "2026-11-20T19:49:58+00:00"
+ },
+ "updated": "2026-11-20T19:49:58+00:00"
+}

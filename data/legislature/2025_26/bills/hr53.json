@@ -1,0 +1,61 @@
+{
+ "key": "HR 53",
+ "slug": "hr53",
+ "session": "2025_26",
+ "legislation_id": 69513,
+ "page": "https://www.legis.ga.gov/legislation/69513",
+ "document_type": "HR",
+ "number": 53,
+ "legislation_type": "PRIV",
+ "caption": "Milner, Emily L.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Emily L. Milner; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:32:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230311,
+   "label": "LC 129 0024/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230311"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:54+00:00",
+  "version:230311": "2026-11-20T19:31:54+00:00",
+  "status:40": "2026-11-20T19:31:54+00:00",
+  "status:33": "2026-11-20T19:31:54+00:00",
+  "status:48": "2026-11-20T19:31:54+00:00"
+ },
+ "updated": "2026-11-20T19:31:54+00:00"
+}

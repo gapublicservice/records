@@ -1,0 +1,61 @@
+{
+ "key": "SR 539",
+ "slug": "sr539",
+ "session": "2025_26",
+ "legislation_id": 71980,
+ "page": "https://www.legis.ga.gov/legislation/71980",
+ "document_type": "SR",
+ "number": 539,
+ "legislation_type": "PRIV",
+ "caption": "Harris, Betsy; recognize",
+ "summary": "A RESOLUTION recognizing and commending Betsy Harris; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T12:06:01",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-04T12:17:48",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238707,
+   "label": "Read and adopted LC 129 0437",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238707"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:03+00:00",
+  "version:238707": "2026-11-20T21:03:03+00:00",
+  "status:67": "2026-11-20T21:03:03+00:00",
+  "status:66": "2026-11-20T21:03:03+00:00"
+ },
+ "updated": "2026-11-20T21:03:03+00:00"
+}

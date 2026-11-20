@@ -1,0 +1,89 @@
+{
+ "key": "HR 1101",
+ "slug": "hr1101",
+ "session": "2025_26",
+ "legislation_id": 72453,
+ "page": "https://www.legis.ga.gov/legislation/72453",
+ "document_type": "HR",
+ "number": 1101,
+ "legislation_type": "PRIV",
+ "caption": "Sprayberry's Bar-B-Q; 100th anniversary; recognize",
+ "summary": "A RESOLUTION congratulating and commending Sprayberry's Bar-B-Q upon the occasion of its 100th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:34:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:42:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:42:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240370,
+   "label": "LC 129 0586/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240370"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:35+00:00",
+  "version:240370": "2026-11-20T19:55:35+00:00",
+  "status:40": "2026-11-20T19:55:35+00:00",
+  "status:33": "2026-11-20T19:55:35+00:00",
+  "status:48": "2026-11-20T19:55:35+00:00"
+ },
+ "updated": "2026-11-20T19:55:35+00:00"
+}

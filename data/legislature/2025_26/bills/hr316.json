@@ -1,0 +1,68 @@
+{
+ "key": "HR 316",
+ "slug": "hr316",
+ "session": "2025_26",
+ "legislation_id": 70542,
+ "page": "https://www.legis.ga.gov/legislation/70542",
+ "document_type": "HR",
+ "number": 316,
+ "legislation_type": "PRIV",
+ "caption": "Effingham County Day at the capitol; 2/10/25; Effingham County Chamber of Commerce; recognize",
+ "summary": "A RESOLUTION recognizing February 10, 2025, as Effingham County Day at the capitol and saluting the Effingham County Chamber of Commerce; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:52:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233041,
+   "label": "LC 112 2834/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233041"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:55+00:00",
+  "version:233041": "2026-11-20T19:37:55+00:00",
+  "status:40": "2026-11-20T19:37:55+00:00",
+  "status:33": "2026-11-20T19:37:55+00:00",
+  "status:48": "2026-11-20T19:37:55+00:00"
+ },
+ "updated": "2026-11-20T19:37:55+00:00"
+}

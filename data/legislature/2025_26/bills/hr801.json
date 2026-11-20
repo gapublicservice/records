@@ -1,0 +1,82 @@
+{
+ "key": "HR 801",
+ "slug": "hr801",
+ "session": "2025_26",
+ "legislation_id": 71778,
+ "page": "https://www.legis.ga.gov/legislation/71778",
+ "document_type": "HR",
+ "number": 801,
+ "legislation_type": "PRIV",
+ "caption": "Gresham, Dr. Ebonee; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Ebonee Gresham; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:58:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237657,
+   "label": "LC 129 0397/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237657"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:50+00:00",
+  "version:237657": "2026-11-20T19:48:50+00:00",
+  "status:40": "2026-11-20T19:48:50+00:00",
+  "status:33": "2026-11-20T19:48:50+00:00",
+  "status:48": "2026-11-20T19:48:50+00:00"
+ },
+ "updated": "2026-11-20T19:48:50+00:00"
+}

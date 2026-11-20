@@ -1,0 +1,89 @@
+{
+ "key": "HR 1254",
+ "slug": "hr1254",
+ "session": "2025_26",
+ "legislation_id": 72928,
+ "page": "https://www.legis.ga.gov/legislation/72928",
+ "document_type": "HR",
+ "number": 1254,
+ "legislation_type": "PRIV",
+ "caption": "Tartan Trot; commend",
+ "summary": "A RESOLUTION recognizing the Tartan Trot; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:56:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T14:34:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T14:34:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241747,
+   "label": "LC 129 0956/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241747"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:01+00:00",
+  "version:241747": "2026-11-20T19:59:01+00:00",
+  "status:40": "2026-11-20T19:59:01+00:00",
+  "status:33": "2026-11-20T19:59:01+00:00",
+  "status:48": "2026-11-20T19:59:01+00:00"
+ },
+ "updated": "2026-11-20T19:59:01+00:00"
+}

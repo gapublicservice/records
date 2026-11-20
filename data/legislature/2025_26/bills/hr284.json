@@ -1,0 +1,75 @@
+{
+ "key": "HR 284",
+ "slug": "hr284",
+ "session": "2025_26",
+ "legislation_id": 70454,
+ "page": "https://www.legis.ga.gov/legislation/70454",
+ "document_type": "HR",
+ "number": 284,
+ "legislation_type": "PRIV",
+ "caption": "Rucker, Mr. Nicholas; commend",
+ "summary": "A RESOLUTION congratulating and commending Mr. Nicholas Rucker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:21:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:51:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:51:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232790,
+   "label": "LC 129 0065/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232790"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:12+00:00",
+  "version:232790": "2026-11-20T19:37:12+00:00",
+  "status:40": "2026-11-20T19:37:12+00:00",
+  "status:33": "2026-11-20T19:37:12+00:00",
+  "status:48": "2026-11-20T19:37:12+00:00"
+ },
+ "updated": "2026-11-20T19:37:12+00:00"
+}

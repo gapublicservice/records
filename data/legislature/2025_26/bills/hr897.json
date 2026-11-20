@@ -1,0 +1,96 @@
+{
+ "key": "HR 897",
+ "slug": "hr897",
+ "session": "2025_26",
+ "legislation_id": 71956,
+ "page": "https://www.legis.ga.gov/legislation/71956",
+ "document_type": "HR",
+ "number": 897,
+ "legislation_type": "PRIV",
+ "caption": "Evans, Ralph; induction into the Georgia Agricultural Hall of Fame; commend",
+ "summary": "A RESOLUTION recognizing and commending Ralph Evans upon his induction into the Georgia Agricultural Hall of Fame; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T19:25:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T19:49:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T19:49:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238494,
+   "label": "LC 129 0472/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238494"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:58+00:00",
+  "version:238494": "2026-11-20T19:50:58+00:00",
+  "status:40": "2026-11-20T19:50:58+00:00",
+  "status:33": "2026-11-20T19:50:58+00:00",
+  "status:48": "2026-11-20T19:50:58+00:00"
+ },
+ "updated": "2026-11-20T19:50:58+00:00"
+}

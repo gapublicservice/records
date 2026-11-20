@@ -1,0 +1,61 @@
+{
+ "key": "HR 2",
+ "slug": "hr2",
+ "session": "2025_26",
+ "legislation_id": 69263,
+ "page": "https://www.legis.ga.gov/legislation/69263",
+ "document_type": "HR",
+ "number": 2,
+ "legislation_type": "NP",
+ "caption": "House of Representatives; relative to officials, employees, and committees",
+ "summary": "A RESOLUTION relative to officials, employees, and committees in the House of Representatives; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-09T14:48:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-13T12:00:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-13T12:00:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229699,
+   "label": "LC 33 9751/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229699"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:25+00:00",
+  "version:229699": "2026-11-20T19:30:25+00:00",
+  "status:40": "2026-11-20T19:30:25+00:00",
+  "status:33": "2026-11-20T19:30:25+00:00",
+  "status:48": "2026-11-20T19:30:25+00:00"
+ },
+ "updated": "2026-11-20T19:30:25+00:00"
+}

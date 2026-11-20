@@ -1,0 +1,82 @@
+{
+ "key": "HR 2024",
+ "slug": "hr2024",
+ "session": "2025_26",
+ "legislation_id": 74632,
+ "page": "https://www.legis.ga.gov/legislation/74632",
+ "document_type": "HR",
+ "number": 2024,
+ "legislation_type": "PRIV",
+ "caption": "Campos, Daniel; commend",
+ "summary": "A RESOLUTION recognizing and commending Daniel Campos; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:15:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248353,
+   "label": "LC 129 1538/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248353"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:21+00:00",
+  "version:248353": "2026-11-20T20:16:21+00:00",
+  "status:40": "2026-11-20T20:16:21+00:00",
+  "status:33": "2026-11-20T20:16:21+00:00",
+  "status:48": "2026-11-20T20:16:21+00:00"
+ },
+ "updated": "2026-11-20T20:16:21+00:00"
+}

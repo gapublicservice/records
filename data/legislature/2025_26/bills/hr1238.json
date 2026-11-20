@@ -1,0 +1,96 @@
+{
+ "key": "HR 1238",
+ "slug": "hr1238",
+ "session": "2025_26",
+ "legislation_id": 72863,
+ "page": "https://www.legis.ga.gov/legislation/72863",
+ "document_type": "HR",
+ "number": 1238,
+ "legislation_type": "PRIV",
+ "caption": "Public Policy Club at Georgia State University; commitment to civic engagement, public service, and policy education; commend",
+ "summary": "A RESOLUTION recognizing the Public Policy Club at Georgia State University for its commitment to civic engagement, public service, and policy education; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:22:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241557,
+   "label": "LC 129 0610/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241557"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:34+00:00",
+  "version:241557": "2026-11-20T19:58:34+00:00",
+  "status:40": "2026-11-20T19:58:34+00:00",
+  "status:33": "2026-11-20T19:58:34+00:00",
+  "status:48": "2026-11-20T19:58:34+00:00"
+ },
+ "updated": "2026-11-20T19:58:34+00:00"
+}

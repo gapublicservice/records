@@ -1,0 +1,116 @@
+{
+ "key": "HB 934",
+ "slug": "hb934",
+ "session": "2025_26",
+ "legislation_id": 72132,
+ "page": "https://www.legis.ga.gov/legislation/72132",
+ "document_type": "HB",
+ "number": 934,
+ "legislation_type": "GEN",
+ "caption": "Banking and finance; transfer regulation of securities and commodities from Secretary of State to Department of Banking and Finance",
+ "summary": "A BILL to be entitled an Act to amend Titles 7, 10, and 45 of the Official Code of Georgia Annotated, relating to banking and finance, commerce and trade, and public officers and employees, respectively, so as to transfer the regulation of securities and commodities from the Secretary of State to the Department of Banking and Finance; to provide for an advisory board; to provide for conformity; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-12T11:34:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-13T10:43:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-14T10:57:27",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-05T10:13:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241597,
+   "label": "LC 62 0362S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241597"
+  },
+  {
+   "doc_id": 239645,
+   "label": "LC 62 0259/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239645"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:02:02+00:00",
+  "version:241597": "2026-11-20T19:02:02+00:00",
+  "version:239645": "2026-11-20T19:02:02+00:00",
+  "status:40": "2026-11-20T19:02:02+00:00",
+  "status:33": "2026-11-20T19:02:02+00:00",
+  "status:34": "2026-11-20T19:02:02+00:00",
+  "status:39": "2026-11-20T19:02:02+00:00"
+ },
+ "updated": "2026-11-20T19:02:02+00:00"
+}

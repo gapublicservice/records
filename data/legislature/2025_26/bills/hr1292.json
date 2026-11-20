@@ -1,0 +1,89 @@
+{
+ "key": "HR 1292",
+ "slug": "hr1292",
+ "session": "2025_26",
+ "legislation_id": 73042,
+ "page": "https://www.legis.ga.gov/legislation/73042",
+ "document_type": "HR",
+ "number": 1292,
+ "legislation_type": "PRIV",
+ "caption": "Sargento, Ms. Noelia; commend",
+ "summary": "A RESOLUTION recognizing and commending Ms. Noelia Sargento; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:04:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T13:20:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T13:20:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242078,
+   "label": "LC 129 0817/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242078"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:51+00:00",
+  "version:242078": "2026-11-20T19:59:51+00:00",
+  "status:40": "2026-11-20T19:59:51+00:00",
+  "status:33": "2026-11-20T19:59:51+00:00",
+  "status:48": "2026-11-20T19:59:51+00:00"
+ },
+ "updated": "2026-11-20T19:59:51+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1231",
+ "slug": "hr1231",
+ "session": "2025_26",
+ "legislation_id": 72856,
+ "page": "https://www.legis.ga.gov/legislation/72856",
+ "document_type": "HR",
+ "number": 1231,
+ "legislation_type": "PRIV",
+ "caption": "The Trenches Global Impact Center; commend",
+ "summary": "A RESOLUTION recognizing The Trenches Global Impact Center; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:19:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241548,
+   "label": "LC 129 0950/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241548"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:25+00:00",
+  "version:241548": "2026-11-20T19:58:25+00:00",
+  "status:40": "2026-11-20T19:58:25+00:00",
+  "status:33": "2026-11-20T19:58:25+00:00",
+  "status:48": "2026-11-20T19:58:25+00:00"
+ },
+ "updated": "2026-11-20T19:58:25+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "HR 220",
+ "slug": "hr220",
+ "session": "2025_26",
+ "legislation_id": 70154,
+ "page": "https://www.legis.ga.gov/legislation/70154",
+ "document_type": "HR",
+ "number": 220,
+ "legislation_type": "PRIV",
+ "caption": "Reed, Dereck Isaiah; commend",
+ "summary": "A RESOLUTION recognizing and commending Dereck Isaiah Reed; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:32:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T15:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T15:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231925,
+   "label": "LC 129 0119/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231925"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:44+00:00",
+  "version:231925": "2026-11-20T19:35:44+00:00",
+  "status:40": "2026-11-20T19:35:44+00:00",
+  "status:33": "2026-11-20T19:35:44+00:00",
+  "status:48": "2026-11-20T19:35:44+00:00"
+ },
+ "updated": "2026-11-20T19:35:44+00:00"
+}

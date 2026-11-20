@@ -1,0 +1,74 @@
+{
+ "key": "SB 578",
+ "slug": "sb578",
+ "session": "2025_26",
+ "legislation_id": 73616,
+ "page": "https://www.legis.ga.gov/legislation/73616",
+ "document_type": "SB",
+ "number": 578,
+ "legislation_type": "LOC",
+ "caption": "DeKalb County; board of education; the description of the education districts; change",
+ "summary": "A BILL to be entitled an Act to amend an Act establishing in DeKalb County districts from which members of the county board of education shall be elected, approved April 12, 1963 (Ga. L. 1963, p. 3424), as amended, so as to change the description of the education districts; to provide for the election at large of the chairperson of such board of education; to provide for definitions and inclusions; to provide for continuation in office of current members; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T10:22:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:09:34",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243972,
+   "label": "As introduced LC 47 4100",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243972"
+  },
+  {
+   "doc_id": 243987,
+   "label": "SB 578 Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243987"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:47:45+00:00",
+  "version:243972": "2026-11-20T20:47:45+00:00",
+  "version:243987": "2026-11-20T20:47:45+00:00",
+  "status:67": "2026-11-20T20:47:45+00:00",
+  "status:3": "2026-11-20T20:47:45+00:00"
+ },
+ "updated": "2026-11-20T20:47:45+00:00"
+}

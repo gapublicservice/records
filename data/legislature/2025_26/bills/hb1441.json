@@ -1,0 +1,102 @@
+{
+ "key": "HB 1441",
+ "slug": "hb1441",
+ "session": "2025_26",
+ "legislation_id": 73561,
+ "page": "https://www.legis.ga.gov/legislation/73561",
+ "document_type": "HB",
+ "number": 1441,
+ "legislation_type": "GEN",
+ "caption": "Trade Impact Transparency and Accountability Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 50 of the Official Code of Georgia Annotated, relating to state government, so as to provide for a certain reporting framework; to provide a short title; to provide for a purpose; to provide for definitions; to provide for quarterly and annual public reports; to provide for public hearings; to provide for an advisory panel; to provide for confidentiality of taxpayer information and propriety business data; to provide for construction; to provide for a sunset date; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T13:45:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243797,
+   "label": "LC 65 0063/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243797"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:12+00:00",
+  "version:243797": "2026-11-20T19:23:12+00:00",
+  "status:40": "2026-11-20T19:23:12+00:00",
+  "status:33": "2026-11-20T19:23:12+00:00",
+  "status:34": "2026-11-20T19:23:12+00:00"
+ },
+ "updated": "2026-11-20T19:23:12+00:00"
+}

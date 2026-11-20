@@ -1,0 +1,89 @@
+{
+ "key": "HR 1480",
+ "slug": "hr1480",
+ "session": "2025_26",
+ "legislation_id": 73670,
+ "page": "https://www.legis.ga.gov/legislation/73670",
+ "document_type": "HR",
+ "number": 1480,
+ "legislation_type": "PRIV",
+ "caption": "Hemophilia of Georgia; commend",
+ "summary": "A RESOLUTION commending Hemophilia of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T14:51:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T16:24:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T16:24:37",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244146,
+   "label": "LC 129 1108/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244146"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:28+00:00",
+  "version:244146": "2026-11-20T20:04:28+00:00",
+  "status:40": "2026-11-20T20:04:28+00:00",
+  "status:33": "2026-11-20T20:04:28+00:00",
+  "status:48": "2026-11-20T20:04:28+00:00"
+ },
+ "updated": "2026-11-20T20:04:28+00:00"
+}

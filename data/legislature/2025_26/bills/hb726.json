@@ -1,0 +1,102 @@
+{
+ "key": "HB 726",
+ "slug": "hb726",
+ "session": "2025_26",
+ "legislation_id": 71135,
+ "page": "https://www.legis.ga.gov/legislation/71135",
+ "document_type": "HB",
+ "number": 726,
+ "legislation_type": "GEN",
+ "caption": "Commerce and trade; surcharges charged by merchants for purchasers' use of credit cards; limit amount",
+ "summary": "A BILL to be entitled an Act to amend Code Section 10-1-393.3 of the Official Code of Georgia Annotated, relating to  prohibited use of purchaser's credit card information by merchant, so as to limit the amount of surcharges charged by merchants for purchasers' use of credit cards; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T12:42:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T10:44:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-10T13:15:27",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235103,
+   "label": "LC 44 9004/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235103"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:50:30+00:00",
+  "version:235103": "2026-11-20T18:50:30+00:00",
+  "status:40": "2026-11-20T18:50:30+00:00",
+  "status:33": "2026-11-20T18:50:30+00:00",
+  "status:34": "2026-11-20T18:50:30+00:00"
+ },
+ "updated": "2026-11-20T18:50:30+00:00"
+}

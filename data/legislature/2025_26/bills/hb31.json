@@ -1,0 +1,74 @@
+{
+ "key": "HB 31",
+ "slug": "hb31",
+ "session": "2025_26",
+ "legislation_id": 69311,
+ "page": "https://www.legis.ga.gov/legislation/69311",
+ "document_type": "HB",
+ "number": 31,
+ "legislation_type": "LOC",
+ "caption": "Catoosa County; Board of Education adopt a balanced budget; require",
+ "summary": "A BILL to be entitled an Act to amend an Act to reconstitute the Board of Education of Catoosa County, Georgia, approved March 30, 1993 (Ga. L. 1993, p. 4258), as amended, so as to require such board to adopt a balanced budget; to provide that if the Quality Basic Education Formula is fully funded by state appropriations such budget shall be balanced without spending down fiscal reserves; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:35:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229816,
+   "label": "LC 47 3135/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229816"
+  },
+  {
+   "doc_id": 229841,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229841"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:07+00:00",
+  "version:229816": "2026-11-20T18:17:07+00:00",
+  "version:229841": "2026-11-20T18:17:07+00:00",
+  "status:40": "2026-11-20T18:17:07+00:00",
+  "status:33": "2026-11-20T18:17:07+00:00",
+  "status:34": "2026-11-20T18:17:07+00:00"
+ },
+ "updated": "2026-11-20T18:17:07+00:00"
+}

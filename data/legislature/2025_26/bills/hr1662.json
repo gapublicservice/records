@@ -1,0 +1,109 @@
+{
+ "key": "HR 1662",
+ "slug": "hr1662",
+ "session": "2025_26",
+ "legislation_id": 74024,
+ "page": "https://www.legis.ga.gov/legislation/74024",
+ "document_type": "HR",
+ "number": 1662,
+ "legislation_type": "NP",
+ "caption": "Trump, President Donald J.; recognize leadership; commend the courage and professionalism of the United States Armed Forces",
+ "summary": "A RESOLUTION recognizing the leadership of President Donald J. Trump; commending the courage and professionalism of the United States Armed Forces; acknowledging the killing and elimination of the authoritarian dictator Ayatollah Ali Khameini; expressing solidarity with the Iranian people in their pursuit of freedom and self-determination; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-10T13:15:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T10:25:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T10:21:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-18T10:16:59",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245668,
+   "label": "LC 112 3800/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245668"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:24+00:00",
+  "version:245668": "2026-11-20T20:08:24+00:00",
+  "status:40": "2026-11-20T20:08:24+00:00",
+  "status:33": "2026-11-20T20:08:24+00:00",
+  "status:34": "2026-11-20T20:08:24+00:00",
+  "status:39": "2026-11-20T20:08:24+00:00"
+ },
+ "updated": "2026-11-20T20:08:24+00:00"
+}

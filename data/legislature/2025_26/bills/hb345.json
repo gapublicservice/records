@@ -1,0 +1,102 @@
+{
+ "key": "HB 345",
+ "slug": "hb345",
+ "session": "2025_26",
+ "legislation_id": 70102,
+ "page": "https://www.legis.ga.gov/legislation/70102",
+ "document_type": "HB",
+ "number": 345,
+ "legislation_type": "GEN",
+ "caption": "Insurance; prohibit raises in liability insurance rates for five years",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 33 of the Official Code of Georgia Annotated, relating to general provisions of insurance, so as to prohibit raises in liability insurance rates for five years; to provide for related matters; to provide for an effective date and applicability; to provide for automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T13:42:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231783,
+   "label": "LC 46 1075/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231783"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:12+00:00",
+  "version:231783": "2026-11-20T18:33:12+00:00",
+  "status:40": "2026-11-20T18:33:12+00:00",
+  "status:33": "2026-11-20T18:33:12+00:00",
+  "status:34": "2026-11-20T18:33:12+00:00"
+ },
+ "updated": "2026-11-20T18:33:12+00:00"
+}

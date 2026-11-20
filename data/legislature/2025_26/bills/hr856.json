@@ -1,0 +1,82 @@
+{
+ "key": "HR 856",
+ "slug": "hr856",
+ "session": "2025_26",
+ "legislation_id": 71866,
+ "page": "https://www.legis.ga.gov/legislation/71866",
+ "document_type": "HR",
+ "number": 856,
+ "legislation_type": "PRIV",
+ "caption": "Gonzalez, Hazel Marie; commend",
+ "summary": "A RESOLUTION commending Hazel Marie Gonzalez; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-28T12:52:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-28T13:20:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T13:21:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238017,
+   "label": "LC 112 3574/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238017"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:02+00:00",
+  "version:238017": "2026-11-20T19:50:02+00:00",
+  "status:40": "2026-11-20T19:50:02+00:00",
+  "status:33": "2026-11-20T19:50:02+00:00",
+  "status:48": "2026-11-20T19:50:02+00:00"
+ },
+ "updated": "2026-11-20T19:50:02+00:00"
+}

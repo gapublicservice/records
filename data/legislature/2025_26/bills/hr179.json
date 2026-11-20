@@ -1,0 +1,89 @@
+{
+ "key": "HR 179",
+ "slug": "hr179",
+ "session": "2025_26",
+ "legislation_id": 69992,
+ "page": "https://www.legis.ga.gov/legislation/69992",
+ "document_type": "HR",
+ "number": 179,
+ "legislation_type": "PRIV",
+ "caption": "Professional Association of Georgia Educators (PAGE); 50th anniversary; PAGE Day at the state capitol; February 18, 2025; recognize",
+ "summary": "A RESOLUTION commending the Professional Association of Georgia Educators (PAGE) on its 50th anniversary and recognizing February 18, 2025, as PAGE Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-05T12:04:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T12:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T12:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231490,
+   "label": "LC 112 2865/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231490"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:52+00:00",
+  "version:231490": "2026-11-20T19:34:52+00:00",
+  "status:40": "2026-11-20T19:34:52+00:00",
+  "status:33": "2026-11-20T19:34:52+00:00",
+  "status:48": "2026-11-20T19:34:52+00:00"
+ },
+ "updated": "2026-11-20T19:34:52+00:00"
+}

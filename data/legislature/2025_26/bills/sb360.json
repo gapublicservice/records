@@ -1,0 +1,95 @@
+{
+ "key": "SB 360",
+ "slug": "sb360",
+ "session": "2025_26",
+ "legislation_id": 71668,
+ "page": "https://www.legis.ga.gov/legislation/71668",
+ "document_type": "SB",
+ "number": 360,
+ "legislation_type": "GEN",
+ "caption": "Public Assistance; public option buy-in program to provide healthcare coverage to individuals not eligible for Medicaid coverage; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance, so as to provide for a public option buy-in program to provide healthcare coverage to individuals not eligible for Medicaid coverage or enrollment through a health exchange; to provide for definitions; to provide requirements for the program; to provide for any necessary state plan amendments or waivers; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T13:12:50",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-27T10:22:11",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237188,
+   "label": "As introduced LC 33 9819",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237188"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:44+00:00",
+  "version:237188": "2026-11-20T20:37:44+00:00",
+  "status:67": "2026-11-20T20:37:44+00:00",
+  "status:3": "2026-11-20T20:37:44+00:00"
+ },
+ "updated": "2026-11-20T20:37:44+00:00"
+}

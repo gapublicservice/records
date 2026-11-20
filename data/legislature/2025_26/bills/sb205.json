@@ -1,0 +1,102 @@
+{
+ "key": "SB 205",
+ "slug": "sb205",
+ "session": "2025_26",
+ "legislation_id": 70477,
+ "page": "https://www.legis.ga.gov/legislation/70477",
+ "document_type": "SB",
+ "number": 205,
+ "legislation_type": "GEN",
+ "caption": "Insurance; pediatric autoimmune neuropsychiatric disorders; require coverage for healthcare services",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 24 of Title 33 and Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to general provisions relative to insurance and the state employees' health insurance plan and post-employment health benefit fund, respectively, so as to require coverage for healthcare services for pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection (PANDAS) and pediatric acute onset neuropsychiatric syndrome (PANS) in accordance with nationally recognized clinical practice guidelines; to provide for definitions; to allow for deductibles; to prohibit special deductibles; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:01:04",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T10:31:16",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232875,
+   "label": "As Introduced LC 52 0719",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232875"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:30:43+00:00",
+  "version:232875": "2026-11-20T20:30:43+00:00",
+  "status:67": "2026-11-20T20:30:43+00:00",
+  "status:3": "2026-11-20T20:30:43+00:00"
+ },
+ "updated": "2026-11-20T20:30:43+00:00"
+}

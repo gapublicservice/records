@@ -1,0 +1,102 @@
+{
+ "key": "HR 394",
+ "slug": "hr394",
+ "session": "2025_26",
+ "legislation_id": 70816,
+ "page": "https://www.legis.ga.gov/legislation/70816",
+ "document_type": "HR",
+ "number": 394,
+ "legislation_type": "NP",
+ "caption": "House of Representatives; the American Dream belongs to all of us; affirm",
+ "summary": "A RESOLUTION affirming that the American Dream belongs to all of us; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5052,
+   "name": "Sampson, David 153rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:19:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:47:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233972,
+   "label": "LC 112 3049/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233972"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:35+00:00",
+  "version:233972": "2026-11-20T19:39:35+00:00",
+  "status:40": "2026-11-20T19:39:35+00:00",
+  "status:33": "2026-11-20T19:39:35+00:00",
+  "status:34": "2026-11-20T19:39:35+00:00"
+ },
+ "updated": "2026-11-20T19:39:35+00:00"
+}

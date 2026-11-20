@@ -1,0 +1,88 @@
+{
+ "key": "HB 1054",
+ "slug": "hb1054",
+ "session": "2025_26",
+ "legislation_id": 72391,
+ "page": "https://www.legis.ga.gov/legislation/72391",
+ "document_type": "HB",
+ "number": 1054,
+ "legislation_type": "GEN",
+ "caption": "Safe Drinking Water and Toxic Enforcement Act of 2026; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 31 of the O.C.G.A., relating to health, so as to provide that persons doing business in this state shall not expose individuals to chemicals known to cause cancer or reproductive toxicity without first giving clear and reasonable warning nor discharge such chemicals into drinking water; to provide for the content and manner of the giving of such warnings; to provide for exceptions; to provide that the Governor shall publish lists of such chemicals; to authorize the Attorney General and, under specified conditions, district attorneys and other persons to seek injunctions and civil penalties; to provide for the Safe Drinking Water and Toxic Enforcement Fund and its purposes and funding; to provide for related matters; to provide a contingent effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:17:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240230,
+   "label": "LC 28 0720/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240230"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:17+00:00",
+  "version:240230": "2026-11-20T19:07:17+00:00",
+  "status:40": "2026-11-20T19:07:17+00:00",
+  "status:33": "2026-11-20T19:07:17+00:00",
+  "status:34": "2026-11-20T19:07:17+00:00"
+ },
+ "updated": "2026-11-20T19:07:17+00:00"
+}

@@ -1,0 +1,142 @@
+{
+ "key": "HB 420",
+ "slug": "hb420",
+ "session": "2025_26",
+ "legislation_id": 70264,
+ "page": "https://www.legis.ga.gov/legislation/70264",
+ "document_type": "HB",
+ "number": 420,
+ "legislation_type": "GEN",
+ "caption": "Insurance; require certain health benefit policies to cover genetic testing for an inherited mutation and cancer imaging under certain conditions",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to general provisions regarding insurance, so as to require certain health benefit policies to cover genetic testing for an inherited mutation and cancer imaging under certain conditions; to provide for definitions; to exclude such coverage from any cost-sharing requirements; to protect the eligibility of health savings accounts; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T11:34:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-20T10:20:39",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-02-24T11:11:05",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-02-26T10:01:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233801,
+   "label": "LC 52 0769S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233801"
+  },
+  {
+   "doc_id": 233163,
+   "label": "LC 52 0756S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233163"
+  },
+  {
+   "doc_id": 232285,
+   "label": "LC 52 0731/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232285"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:36:56+00:00",
+  "version:233801": "2026-11-20T18:36:56+00:00",
+  "version:233163": "2026-11-20T18:36:56+00:00",
+  "version:232285": "2026-11-20T18:36:56+00:00",
+  "status:40": "2026-11-20T18:36:56+00:00",
+  "status:33": "2026-11-20T18:36:56+00:00",
+  "status:34": "2026-11-20T18:36:56+00:00",
+  "status:39": "2026-11-20T18:36:56+00:00",
+  "status:50": "2026-11-20T18:36:56+00:00"
+ },
+ "updated": "2026-11-20T18:36:56+00:00"
+}

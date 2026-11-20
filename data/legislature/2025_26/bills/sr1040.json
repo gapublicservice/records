@@ -1,0 +1,68 @@
+{
+ "key": "SR 1040",
+ "slug": "sr1040",
+ "session": "2025_26",
+ "legislation_id": 74433,
+ "page": "https://www.legis.ga.gov/legislation/74433",
+ "document_type": "SR",
+ "number": 1040,
+ "legislation_type": "PRIV",
+ "caption": "Small Business Week; recognize May 4-10, 2026",
+ "summary": "A RESOLUTION recognizing May 4-10, 2026, as Small Business Week; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T14:26:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-27T11:23:27",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247449,
+   "label": "Read and adopted LC 112 4077",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247449"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:30+00:00",
+  "version:247449": "2026-11-20T21:14:30+00:00",
+  "status:67": "2026-11-20T21:14:30+00:00",
+  "status:66": "2026-11-20T21:14:30+00:00"
+ },
+ "updated": "2026-11-20T21:14:30+00:00"
+}

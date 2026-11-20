@@ -1,0 +1,74 @@
+{
+ "key": "HB 931",
+ "slug": "hb931",
+ "session": "2025_26",
+ "legislation_id": 72080,
+ "page": "https://www.legis.ga.gov/legislation/72080",
+ "document_type": "HB",
+ "number": 931,
+ "legislation_type": "GEN",
+ "caption": "Health; control high costs of prescription drugs; establish framework",
+ "summary": "A BILL to be entitled an Act to amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to establish a framework to control the high costs of prescription drugs in this state; to provide for definitions; to establish the Prescription Drug Affordability Board; to provide for such board's membership, powers, duties, and meetings; to provide for assessments; to provide for penalties; to provide for annual reports; to provide for rules and regulations; to provide for programs receiving certain funds to negotiate specialist rates; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:54:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239273,
+   "label": "LC 52 0858/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239273"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:58+00:00",
+  "version:239273": "2026-11-20T19:01:58+00:00",
+  "status:40": "2026-11-20T19:01:58+00:00",
+  "status:33": "2026-11-20T19:01:58+00:00",
+  "status:34": "2026-11-20T19:01:58+00:00"
+ },
+ "updated": "2026-11-20T19:01:58+00:00"
+}

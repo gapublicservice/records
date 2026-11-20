@@ -1,0 +1,89 @@
+{
+ "key": "SR 50",
+ "slug": "sr50",
+ "session": "2025_26",
+ "legislation_id": 69554,
+ "page": "https://www.legis.ga.gov/legislation/69554",
+ "document_type": "SR",
+ "number": 50,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Youth Science & Technology Centers (GYSTC); commend",
+ "summary": "A RESOLUTION commending the Georgia Youth Science & Technology Centers (GYSTC) as well as the 2025 Don Cargill STEM Scholars for their innovative and integrated teaching of science, technology, engineering, and mathematics in kindergarten through eighth grade classrooms; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T14:02:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T11:13:51",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230399,
+   "label": "Read and adopted LC 112 2711",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230399"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:27+00:00",
+  "version:230399": "2026-11-20T20:51:27+00:00",
+  "status:67": "2026-11-20T20:51:27+00:00",
+  "status:66": "2026-11-20T20:51:27+00:00"
+ },
+ "updated": "2026-11-20T20:51:27+00:00"
+}

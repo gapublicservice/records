@@ -1,0 +1,109 @@
+{
+ "key": "HB 833",
+ "slug": "hb833",
+ "session": "2025_26",
+ "legislation_id": 71634,
+ "page": "https://www.legis.ga.gov/legislation/71634",
+ "document_type": "HB",
+ "number": 833,
+ "legislation_type": "LOC",
+ "caption": "Cherokee County; school district ad valorem tax; provide homestead exemption",
+ "summary": "A BILL to be entitled an Act to provide a homestead exemption from Cherokee County school district ad valorem taxes for educational purposes in an amount equal to the amount by which the current year assessed value of a homestead exceeds the adjusted base year assessed value of such homestead; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for applicability; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 808,
+   "name": "Ballinger, Mandi 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T12:54:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T13:43:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T10:11:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237203,
+   "label": "LC 47 3396/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237203"
+  },
+  {
+   "doc_id": 237383,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237383"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:55:56+00:00",
+  "version:237203": "2026-11-20T18:55:56+00:00",
+  "version:237383": "2026-11-20T18:55:56+00:00",
+  "status:40": "2026-11-20T18:55:56+00:00",
+  "status:33": "2026-11-20T18:55:56+00:00",
+  "status:34": "2026-11-20T18:55:56+00:00"
+ },
+ "updated": "2026-11-20T18:55:56+00:00"
+}

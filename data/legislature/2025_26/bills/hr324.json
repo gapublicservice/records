@@ -1,0 +1,89 @@
+{
+ "key": "HR 324",
+ "slug": "hr324",
+ "session": "2025_26",
+ "legislation_id": 70551,
+ "page": "https://www.legis.ga.gov/legislation/70551",
+ "document_type": "HR",
+ "number": 324,
+ "legislation_type": "PRIV",
+ "caption": "Student Leadership NORTH; commend",
+ "summary": "A RESOLUTION recognizing and commending Student Leadership NORTH; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:56:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233040,
+   "label": "LC 112 3062/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233040"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:05+00:00",
+  "version:233040": "2026-11-20T19:38:05+00:00",
+  "status:40": "2026-11-20T19:38:05+00:00",
+  "status:33": "2026-11-20T19:38:05+00:00",
+  "status:48": "2026-11-20T19:38:05+00:00"
+ },
+ "updated": "2026-11-20T19:38:05+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 2123",
+ "slug": "hr2123",
+ "session": "2025_26",
+ "legislation_id": 74734,
+ "page": "https://www.legis.ga.gov/legislation/74734",
+ "document_type": "HR",
+ "number": 2123,
+ "legislation_type": "PRIV",
+ "caption": "Griffin, Mrs. Nathalie Huffman; retired educator; occasion of 60th wedding anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Mrs. Nathalie Huffman Griffin, retired educator, on the occasion of her 60th wedding anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:34:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248871,
+   "label": "LC 112 4217/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248871"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:40+00:00",
+  "version:248871": "2026-11-20T20:18:40+00:00",
+  "status:40": "2026-11-20T20:18:40+00:00",
+  "status:33": "2026-11-20T20:18:40+00:00",
+  "status:48": "2026-11-20T20:18:40+00:00"
+ },
+ "updated": "2026-11-20T20:18:40+00:00"
+}

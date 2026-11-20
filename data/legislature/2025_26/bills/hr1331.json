@@ -1,0 +1,89 @@
+{
+ "key": "HR 1331",
+ "slug": "hr1331",
+ "session": "2025_26",
+ "legislation_id": 73145,
+ "page": "https://www.legis.ga.gov/legislation/73145",
+ "document_type": "HR",
+ "number": 1331,
+ "legislation_type": "PRIV",
+ "caption": "Mayhan, Sam R.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Sam R. Mayhan; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:42:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242422,
+   "label": "LC 129 1053/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242422"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:55+00:00",
+  "version:242422": "2026-11-20T20:00:55+00:00",
+  "status:40": "2026-11-20T20:00:55+00:00",
+  "status:33": "2026-11-20T20:00:55+00:00",
+  "status:48": "2026-11-20T20:00:55+00:00"
+ },
+ "updated": "2026-11-20T20:00:55+00:00"
+}

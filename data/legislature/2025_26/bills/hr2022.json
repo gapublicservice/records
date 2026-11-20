@@ -1,0 +1,96 @@
+{
+ "key": "HR 2022",
+ "slug": "hr2022",
+ "session": "2025_26",
+ "legislation_id": 74629,
+ "page": "https://www.legis.ga.gov/legislation/74629",
+ "document_type": "HR",
+ "number": 2022,
+ "legislation_type": "PRIV",
+ "caption": "Ndewa, Blaise Aristide; commend",
+ "summary": "A RESOLUTION commending Blaise Aristide Ndewa; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:14:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248400,
+   "label": "LC 112 4153/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248400"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:18+00:00",
+  "version:248400": "2026-11-20T20:16:18+00:00",
+  "status:40": "2026-11-20T20:16:18+00:00",
+  "status:33": "2026-11-20T20:16:18+00:00",
+  "status:48": "2026-11-20T20:16:18+00:00"
+ },
+ "updated": "2026-11-20T20:16:18+00:00"
+}

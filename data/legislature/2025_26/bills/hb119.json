@@ -1,0 +1,74 @@
+{
+ "key": "HB 119",
+ "slug": "hb119",
+ "session": "2025_26",
+ "legislation_id": 69493,
+ "page": "https://www.legis.ga.gov/legislation/69493",
+ "document_type": "HB",
+ "number": 119,
+ "legislation_type": "GEN",
+ "caption": "Brady Law Regulations; bringing an action against the government for an unauthorized act relating to regulation of weapons; revise standards",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to Brady Law regulations, so as to revise standards for bringing an action against the government for an unauthorized act relating to regulation of weapons; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T10:33:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230261,
+   "label": "LC 39 4464/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230261"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:21:45+00:00",
+  "version:230261": "2026-11-20T18:21:45+00:00",
+  "status:40": "2026-11-20T18:21:45+00:00",
+  "status:33": "2026-11-20T18:21:45+00:00",
+  "status:34": "2026-11-20T18:21:45+00:00"
+ },
+ "updated": "2026-11-20T18:21:45+00:00"
+}

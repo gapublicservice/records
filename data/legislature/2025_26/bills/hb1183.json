@@ -1,0 +1,102 @@
+{
+ "key": "HB 1183",
+ "slug": "hb1183",
+ "session": "2025_26",
+ "legislation_id": 72825,
+ "page": "https://www.legis.ga.gov/legislation/72825",
+ "document_type": "HB",
+ "number": 1183,
+ "legislation_type": "GEN",
+ "caption": "Income tax; exempt income received as personal compensation for full-time duty in the active military service of the United States",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to the imposition, rate, computation, exemptions, and credits for state income tax, so as to exempt from state income tax income received as personal compensation for full-time duty in the active military service of the United States; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-04T10:58:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T10:31:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T09:34:47",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241475,
+   "label": "LC 44 3325/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241475"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:12:48+00:00",
+  "version:241475": "2026-11-20T19:12:48+00:00",
+  "status:40": "2026-11-20T19:12:48+00:00",
+  "status:33": "2026-11-20T19:12:48+00:00",
+  "status:34": "2026-11-20T19:12:48+00:00"
+ },
+ "updated": "2026-11-20T19:12:48+00:00"
+}

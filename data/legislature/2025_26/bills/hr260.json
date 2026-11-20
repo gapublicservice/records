@@ -1,0 +1,61 @@
+{
+ "key": "HR 260",
+ "slug": "hr260",
+ "session": "2025_26",
+ "legislation_id": 70356,
+ "page": "https://www.legis.ga.gov/legislation/70356",
+ "document_type": "HR",
+ "number": 260,
+ "legislation_type": "PRIV",
+ "caption": "Scipio, Sanaa; commend",
+ "summary": "A RESOLUTION recognizing and commending Sanaa Scipio; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:27:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232521,
+   "label": "LC 129 0157/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232521"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:41+00:00",
+  "version:232521": "2026-11-20T19:36:41+00:00",
+  "status:40": "2026-11-20T19:36:41+00:00",
+  "status:33": "2026-11-20T19:36:41+00:00",
+  "status:48": "2026-11-20T19:36:41+00:00"
+ },
+ "updated": "2026-11-20T19:36:41+00:00"
+}

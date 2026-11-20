@@ -1,0 +1,61 @@
+{
+ "key": "HR 1024",
+ "slug": "hr1024",
+ "session": "2025_26",
+ "legislation_id": 72265,
+ "page": "https://www.legis.ga.gov/legislation/72265",
+ "document_type": "HR",
+ "number": 1024,
+ "legislation_type": "PRIV",
+ "caption": "Nunnally, Gladys; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Gladys Nunnally; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-15T13:15:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-15T13:38:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-15T13:39:00",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239960,
+   "label": "LC 129 0625/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239960"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:49+00:00",
+  "version:239960": "2026-11-20T19:53:49+00:00",
+  "status:40": "2026-11-20T19:53:49+00:00",
+  "status:33": "2026-11-20T19:53:49+00:00",
+  "status:48": "2026-11-20T19:53:49+00:00"
+ },
+ "updated": "2026-11-20T19:53:49+00:00"
+}

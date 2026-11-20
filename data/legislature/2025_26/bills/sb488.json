@@ -1,0 +1,109 @@
+{
+ "key": "SB 488",
+ "slug": "sb488",
+ "session": "2025_26",
+ "legislation_id": 73067,
+ "page": "https://www.legis.ga.gov/legislation/73067",
+ "document_type": "SB",
+ "number": 488,
+ "legislation_type": "GEN",
+ "caption": "Torts; generative artificial intelligence systems shall constitute personal property for purposes of certain actions for product liability alleging injury to a minor; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 51 of the Official Code of Georgia Annotated, relating to general provisions relative to torts, so as to provide that generative artificial intelligence systems shall constitute personal property for purposes of certain actions for product liability alleging injury to a minor; to provide for liability of product sellers in such actions; to establish rebuttable presumptions relative to manufacturers and product sellers in such actions; to provide for definitions; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T11:59:05",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-11T10:10:10",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-03T12:54:21",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2026-03-04T10:37:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242170,
+   "label": "As introduced LC 49 2614",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242170"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:43:23+00:00",
+  "version:242170": "2026-11-20T20:43:23+00:00",
+  "status:67": "2026-11-20T20:43:23+00:00",
+  "status:3": "2026-11-20T20:43:23+00:00",
+  "status:8": "2026-11-20T20:43:23+00:00",
+  "status:10": "2026-11-20T20:43:23+00:00",
+  "status:64": "2026-11-20T20:43:23+00:00"
+ },
+ "updated": "2026-11-20T20:43:23+00:00"
+}

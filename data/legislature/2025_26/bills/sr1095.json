@@ -1,0 +1,82 @@
+{
+ "key": "SR 1095",
+ "slug": "sr1095",
+ "session": "2025_26",
+ "legislation_id": 74687,
+ "page": "https://www.legis.ga.gov/legislation/74687",
+ "document_type": "SR",
+ "number": 1095,
+ "legislation_type": "PRIV",
+ "caption": "Scattering Resources, Inc.; recognize and commend",
+ "summary": "A RESOLUTION recognizing and commending Scattering Resources, Inc.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-01T15:45:53",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-04-02T11:59:49",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248689,
+   "label": "Read and adopted LC 129 1537",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248689"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:15:49+00:00",
+  "version:248689": "2026-11-20T21:15:49+00:00",
+  "status:67": "2026-11-20T21:15:49+00:00",
+  "status:66": "2026-11-20T21:15:49+00:00"
+ },
+ "updated": "2026-11-20T21:15:49+00:00"
+}

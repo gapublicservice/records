@@ -1,0 +1,61 @@
+{
+ "key": "HR 1310",
+ "slug": "hr1310",
+ "session": "2025_26",
+ "legislation_id": 73092,
+ "page": "https://www.legis.ga.gov/legislation/73092",
+ "document_type": "HR",
+ "number": 1310,
+ "legislation_type": "PRIV",
+ "caption": "Capps, Richard; recipient of the Emergency Preparedness Champion award; commend",
+ "summary": "A RESOLUTION recognizing and commending Richard Capps, recipient of the Emergency Preparedness Champion award; and for other purposes",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:09:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242251,
+   "label": "LC 129 9009/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242251"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:20+00:00",
+  "version:242251": "2026-11-20T20:00:20+00:00",
+  "status:40": "2026-11-20T20:00:20+00:00",
+  "status:33": "2026-11-20T20:00:20+00:00",
+  "status:48": "2026-11-20T20:00:20+00:00"
+ },
+ "updated": "2026-11-20T20:00:20+00:00"
+}

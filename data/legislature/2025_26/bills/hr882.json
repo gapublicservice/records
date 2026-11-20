@@ -1,0 +1,74 @@
+{
+ "key": "HR 882",
+ "slug": "hr882",
+ "session": "2025_26",
+ "legislation_id": 71923,
+ "page": "https://www.legis.ga.gov/legislation/71923",
+ "document_type": "HR",
+ "number": 882,
+ "legislation_type": "CA",
+ "caption": "Local school systems; levy and collect a sales and use tax for maintenance and operation expenses; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that local school systems can levy and collect a sales and use tax for maintenance and operation expenses; to provide that local school systems must offset their millage rates in an amount equal to the amount of tax proceeds collected by such sales and use tax; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:51:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238369,
+   "label": "LC 47 3702/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238369"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:36+00:00",
+  "version:238369": "2026-11-20T19:50:36+00:00",
+  "status:40": "2026-11-20T19:50:36+00:00",
+  "status:33": "2026-11-20T19:50:36+00:00",
+  "status:34": "2026-11-20T19:50:36+00:00"
+ },
+ "updated": "2026-11-20T19:50:36+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1783",
+ "slug": "hr1783",
+ "session": "2025_26",
+ "legislation_id": 74246,
+ "page": "https://www.legis.ga.gov/legislation/74246",
+ "document_type": "HR",
+ "number": 1783,
+ "legislation_type": "PRIV",
+ "caption": "Harvey, Mrs. Keila; commend",
+ "summary": "A RESOLUTION recognizing and commending Mrs. Keila Harvey; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:47:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:41:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:41:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246451,
+   "label": "LC 129 1380/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246451"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:59+00:00",
+  "version:246451": "2026-11-20T20:10:59+00:00",
+  "status:40": "2026-11-20T20:10:59+00:00",
+  "status:33": "2026-11-20T20:10:59+00:00",
+  "status:48": "2026-11-20T20:10:59+00:00"
+ },
+ "updated": "2026-11-20T20:10:59+00:00"
+}

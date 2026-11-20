@@ -1,0 +1,96 @@
+{
+ "key": "HR 1843",
+ "slug": "hr1843",
+ "session": "2025_26",
+ "legislation_id": 74356,
+ "page": "https://www.legis.ga.gov/legislation/74356",
+ "document_type": "HR",
+ "number": 1843,
+ "legislation_type": "PRIV",
+ "caption": "Smith, Representative Lynn; commend",
+ "summary": "A RESOLUTION recognizing and commending Representative Lynn Smith; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:50:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T13:16:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T13:16:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247050,
+   "label": "LC 129 1497/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247050"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:15+00:00",
+  "version:247050": "2026-11-20T20:12:15+00:00",
+  "status:40": "2026-11-20T20:12:15+00:00",
+  "status:33": "2026-11-20T20:12:15+00:00",
+  "status:48": "2026-11-20T20:12:15+00:00"
+ },
+ "updated": "2026-11-20T20:12:15+00:00"
+}

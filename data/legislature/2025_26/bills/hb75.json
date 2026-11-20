@@ -1,0 +1,109 @@
+{
+ "key": "HB 75",
+ "slug": "hb75",
+ "session": "2025_26",
+ "legislation_id": 69407,
+ "page": "https://www.legis.ga.gov/legislation/69407",
+ "document_type": "HB",
+ "number": 75,
+ "legislation_type": "GEN",
+ "caption": "Justice for Peanut and Fred Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 11 of Title 4 of the Official Code of Georgia Annotated, relating to general provisions relative to animal protection, so as to revise certain provisions relating to the impounding of domesticated animals by a government agency and the care of such impounded domesticated animals; to require a court order prior to the euthanasia of any impounded domesticated animal; to provide for state or local liability in cases of the death of, loss of, or injury to an impounded domesticated animal under certain circumstances; to provide for notice and hearings; to provide a definition; to provide for a short title; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Game, Fish & Parks",
+   "id": 91
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T10:57:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-06T11:36:25",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230057,
+   "label": "LC 60 0029/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230057"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:19:37+00:00",
+  "version:230057": "2026-11-20T18:19:37+00:00",
+  "status:40": "2026-11-20T18:19:37+00:00",
+  "status:33": "2026-11-20T18:19:37+00:00",
+  "status:34": "2026-11-20T18:19:37+00:00",
+  "status:50": "2026-11-20T18:19:37+00:00"
+ },
+ "updated": "2026-11-20T18:19:37+00:00"
+}

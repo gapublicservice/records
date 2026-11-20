@@ -1,0 +1,82 @@
+{
+ "key": "HR 456",
+ "slug": "hr456",
+ "session": "2025_26",
+ "legislation_id": 71040,
+ "page": "https://www.legis.ga.gov/legislation/71040",
+ "document_type": "HR",
+ "number": 456,
+ "legislation_type": "PRIV",
+ "caption": "Jennings, Davante; commend",
+ "summary": "A RESOLUTION recognizing and commending Davante Jennings; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:10:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T12:55:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T12:55:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234661,
+   "label": "LC 129 0247/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234661"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:59+00:00",
+  "version:234661": "2026-11-20T19:40:59+00:00",
+  "status:40": "2026-11-20T19:40:59+00:00",
+  "status:33": "2026-11-20T19:40:59+00:00",
+  "status:48": "2026-11-20T19:40:59+00:00"
+ },
+ "updated": "2026-11-20T19:40:59+00:00"
+}

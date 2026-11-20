@@ -1,0 +1,68 @@
+{
+ "key": "HR 1881",
+ "slug": "hr1881",
+ "session": "2025_26",
+ "legislation_id": 74402,
+ "page": "https://www.legis.ga.gov/legislation/74402",
+ "document_type": "HR",
+ "number": 1881,
+ "legislation_type": "PRIV",
+ "caption": "HuQ, Mariah; commend",
+ "summary": "A RESOLUTION recognizing and commending Mariah HuQ; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:42:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247162,
+   "label": "LC 129 1470/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247162"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:04+00:00",
+  "version:247162": "2026-11-20T20:13:04+00:00",
+  "status:40": "2026-11-20T20:13:04+00:00",
+  "status:33": "2026-11-20T20:13:04+00:00",
+  "status:48": "2026-11-20T20:13:04+00:00"
+ },
+ "updated": "2026-11-20T20:13:04+00:00"
+}

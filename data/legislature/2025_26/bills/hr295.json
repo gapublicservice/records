@@ -1,0 +1,61 @@
+{
+ "key": "HR 295",
+ "slug": "hr295",
+ "session": "2025_26",
+ "legislation_id": 70465,
+ "page": "https://www.legis.ga.gov/legislation/70465",
+ "document_type": "HR",
+ "number": 295,
+ "legislation_type": "PRIV",
+ "caption": "Lyttle, Alicia; commend",
+ "summary": "A RESOLUTION commending Alicia Lyttle; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:26:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:59:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:59:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232801,
+   "label": "LC 112 3004/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232801"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:27+00:00",
+  "version:232801": "2026-11-20T19:37:27+00:00",
+  "status:40": "2026-11-20T19:37:27+00:00",
+  "status:33": "2026-11-20T19:37:27+00:00",
+  "status:48": "2026-11-20T19:37:27+00:00"
+ },
+ "updated": "2026-11-20T19:37:27+00:00"
+}

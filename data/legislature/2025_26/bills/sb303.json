@@ -1,0 +1,76 @@
+{
+ "key": "SB 303",
+ "slug": "sb303",
+ "session": "2025_26",
+ "legislation_id": 70955,
+ "page": "https://www.legis.ga.gov/legislation/70955",
+ "document_type": "SB",
+ "number": 303,
+ "legislation_type": "GEN",
+ "caption": "Elections and Primaries; state-wide uniform system of voting equipment; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to revise provisions related to the state-wide uniform system of voting equipment; to transfer responsibility for the certification and selection of such system from the Secretary of State to the State Election Board; to provide that such system shall use hand marked and hand counted paper ballots; to provide for the use of ballot marking devices by voters precluded from using hand marked ballots; to for provide the use of the same equipment in municipal elections; to making conforming changes to provisions related to scanning absentee ballots;  to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T12:58:22",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-28T10:19:30",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234371,
+   "label": "As introduced LC 47 3400",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234371"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:35:24+00:00",
+  "version:234371": "2026-11-20T20:35:24+00:00",
+  "status:67": "2026-11-20T20:35:24+00:00",
+  "status:3": "2026-11-20T20:35:24+00:00"
+ },
+ "updated": "2026-11-20T20:35:24+00:00"
+}

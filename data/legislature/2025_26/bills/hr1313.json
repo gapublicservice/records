@@ -1,0 +1,82 @@
+{
+ "key": "HR 1313",
+ "slug": "hr1313",
+ "session": "2025_26",
+ "legislation_id": 73095,
+ "page": "https://www.legis.ga.gov/legislation/73095",
+ "document_type": "HR",
+ "number": 1313,
+ "legislation_type": "PRIV",
+ "caption": "Kia Day at the state capitol; February 11, 2026; commending Kia's vehicle manufacturing and impact to the state; recognize",
+ "summary": "A RESOLUTION recognizing February 11, 2026, as Kia Day at the state capitol and commending Kia's vehicle manufacturing and impact to the state; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:10:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242254,
+   "label": "LC 129 0978/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242254"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:24+00:00",
+  "version:242254": "2026-11-20T20:00:24+00:00",
+  "status:40": "2026-11-20T20:00:24+00:00",
+  "status:33": "2026-11-20T20:00:24+00:00",
+  "status:48": "2026-11-20T20:00:24+00:00"
+ },
+ "updated": "2026-11-20T20:00:24+00:00"
+}

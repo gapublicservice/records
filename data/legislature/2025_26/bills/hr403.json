@@ -1,0 +1,96 @@
+{
+ "key": "HR 403",
+ "slug": "hr403",
+ "session": "2025_26",
+ "legislation_id": 70865,
+ "page": "https://www.legis.ga.gov/legislation/70865",
+ "document_type": "HR",
+ "number": 403,
+ "legislation_type": "PRIV",
+ "caption": "Clayton State University Day at the state capitol; March 4, 2025; recognize",
+ "summary": "A RESOLUTION commending Clayton State University and recognizing March 4, 2025, as Clayton State University Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:29:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234083,
+   "label": "LC 112 3147/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234083"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:47+00:00",
+  "version:234083": "2026-11-20T19:39:47+00:00",
+  "status:40": "2026-11-20T19:39:47+00:00",
+  "status:33": "2026-11-20T19:39:47+00:00",
+  "status:48": "2026-11-20T19:39:47+00:00"
+ },
+ "updated": "2026-11-20T19:39:47+00:00"
+}

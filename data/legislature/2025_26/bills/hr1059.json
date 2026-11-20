@@ -1,0 +1,75 @@
+{
+ "key": "HR 1059",
+ "slug": "hr1059",
+ "session": "2025_26",
+ "legislation_id": 72404,
+ "page": "https://www.legis.ga.gov/legislation/72404",
+ "document_type": "HR",
+ "number": 1059,
+ "legislation_type": "PRIV",
+ "caption": "Reach Out and Read Day at the state capitol; recognize",
+ "summary": "A RESOLUTION honoring Reach Out and Read Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:10:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:45",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240350,
+   "label": "LC 129 0575/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240350"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:42+00:00",
+  "version:240350": "2026-11-20T19:54:42+00:00",
+  "status:40": "2026-11-20T19:54:42+00:00",
+  "status:33": "2026-11-20T19:54:42+00:00",
+  "status:48": "2026-11-20T19:54:42+00:00"
+ },
+ "updated": "2026-11-20T19:54:42+00:00"
+}

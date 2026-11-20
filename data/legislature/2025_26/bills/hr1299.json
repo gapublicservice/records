@@ -1,0 +1,95 @@
+{
+ "key": "HR 1299",
+ "slug": "hr1299",
+ "session": "2025_26",
+ "legislation_id": 73072,
+ "page": "https://www.legis.ga.gov/legislation/73072",
+ "document_type": "HR",
+ "number": 1299,
+ "legislation_type": "NP",
+ "caption": "United States Department of Education; dissolve and restore educational authority to the states; express support",
+ "summary": "A RESOLUTION expressing support for dissolving the United States Department of Education and restoring educational authority to the states; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T12:33:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T10:36:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T10:18:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242202,
+   "label": "LC 39 4931/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242202"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:00+00:00",
+  "version:242202": "2026-11-20T20:00:00+00:00",
+  "status:40": "2026-11-20T20:00:00+00:00",
+  "status:33": "2026-11-20T20:00:00+00:00",
+  "status:34": "2026-11-20T20:00:00+00:00"
+ },
+ "updated": "2026-11-20T20:00:00+00:00"
+}

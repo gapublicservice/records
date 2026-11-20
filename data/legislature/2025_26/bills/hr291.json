@@ -1,0 +1,96 @@
+{
+ "key": "HR 291",
+ "slug": "hr291",
+ "session": "2025_26",
+ "legislation_id": 70461,
+ "page": "https://www.legis.ga.gov/legislation/70461",
+ "document_type": "HR",
+ "number": 291,
+ "legislation_type": "PRIV",
+ "caption": "Mercer University Day at the state capitol; February 20, 2025; recognize",
+ "summary": "A RESOLUTION commending Mercer University and recognizing February 20, 2025, as Mercer University Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:26:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:57:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:57:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232793,
+   "label": "LC 112 3076/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232793"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:21+00:00",
+  "version:232793": "2026-11-20T19:37:21+00:00",
+  "status:40": "2026-11-20T19:37:21+00:00",
+  "status:33": "2026-11-20T19:37:21+00:00",
+  "status:48": "2026-11-20T19:37:21+00:00"
+ },
+ "updated": "2026-11-20T19:37:21+00:00"
+}

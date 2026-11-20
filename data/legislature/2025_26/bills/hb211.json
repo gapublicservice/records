@@ -1,0 +1,109 @@
+{
+ "key": "HB 211",
+ "slug": "hb211",
+ "session": "2025_26",
+ "legislation_id": 69726,
+ "page": "https://www.legis.ga.gov/legislation/69726",
+ "document_type": "HB",
+ "number": 211,
+ "legislation_type": "GEN",
+ "caption": "PFAS Receiver Shield Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 51 of the Official Code of Georgia Annotated, relating to torts, so as to provide for immunity from certain lawsuits related to certain chemicals; to provide for definitions; to provide for related matters; to provide for a short title; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:11:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-10T09:40:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-02-11T11:45:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242123,
+   "label": "LC 44 9006ERS/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242123"
+  },
+  {
+   "doc_id": 230851,
+   "label": "LC 44 2971ER/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230851"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:39+00:00",
+  "version:242123": "2026-11-20T18:26:39+00:00",
+  "version:230851": "2026-11-20T18:26:39+00:00",
+  "status:40": "2026-11-20T18:26:39+00:00",
+  "status:33": "2026-11-20T18:26:39+00:00",
+  "status:34": "2026-11-20T18:26:39+00:00",
+  "status:39": "2026-11-20T18:26:39+00:00",
+  "status:50": "2026-11-20T18:26:39+00:00"
+ },
+ "updated": "2026-11-20T18:26:39+00:00"
+}

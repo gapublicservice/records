@@ -1,0 +1,81 @@
+{
+ "key": "HB 20",
+ "slug": "hb20",
+ "session": "2025_26",
+ "legislation_id": 69300,
+ "page": "https://www.legis.ga.gov/legislation/69300",
+ "document_type": "HB",
+ "number": 20,
+ "legislation_type": "GEN",
+ "caption": "State Board of Education; adopt rules to require all certified public school personnel to receive annual training in depression and suicide awareness and prevention",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the O.C.G.A. relating to the health of students generally, so as to require the State Board of Education to adopt rules requiring all certificated public school personnel to receive annual training in depression and suicide awareness and prevention; to provide for the establishment and purpose of the Student Mental Health Screenings Grant Program; to require the Department of Education to develop a model policy for student depression and suicide awareness, develop and approve training materials, assist local school systems in selecting research-based mental health screening tools, and develop guidance to assist local school systems in establishing certain healthcare related partnerships to conduct mental health screenings; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:33:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229805,
+   "label": "LC 60 0032/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229805"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:45+00:00",
+  "version:229805": "2026-11-20T18:16:45+00:00",
+  "status:40": "2026-11-20T18:16:45+00:00",
+  "status:33": "2026-11-20T18:16:45+00:00",
+  "status:34": "2026-11-20T18:16:45+00:00"
+ },
+ "updated": "2026-11-20T18:16:45+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HR 1524",
+ "slug": "hr1524",
+ "session": "2025_26",
+ "legislation_id": 73781,
+ "page": "https://www.legis.ga.gov/legislation/73781",
+ "document_type": "HR",
+ "number": 1524,
+ "legislation_type": "NP",
+ "caption": "General Assembly; reschedule marijuana from a Schedule I substance to a Schedule III substance in accordance with presidential Executive Order 14370; urge",
+ "summary": "A RESOLUTION urging the Georgia General Assembly to reschedule marijuana from a Schedule I substance to a Schedule III substance in accordance with presidential Executive Order 14370; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T12:11:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244661,
+   "label": "LC 48 1706/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244661"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:25+00:00",
+  "version:244661": "2026-11-20T20:05:25+00:00",
+  "status:40": "2026-11-20T20:05:25+00:00",
+  "status:33": "2026-11-20T20:05:25+00:00",
+  "status:34": "2026-11-20T20:05:25+00:00"
+ },
+ "updated": "2026-11-20T20:05:25+00:00"
+}

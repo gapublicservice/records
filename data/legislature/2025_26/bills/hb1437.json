@@ -1,0 +1,109 @@
+{
+ "key": "HB 1437",
+ "slug": "hb1437",
+ "session": "2025_26",
+ "legislation_id": 73556,
+ "page": "https://www.legis.ga.gov/legislation/73556",
+ "document_type": "HB",
+ "number": 1437,
+ "legislation_type": "GEN",
+ "caption": "Notaries public; notarial acts to be performed using electronic means when certain requirements are satisfied; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 17 of Title 45 of the Official Code of Georgia Annotated, relating to general provisions regarding notaries public, so as to provide for notarial acts to be performed using electronic means when certain requirements are satisfied; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Technology and Infrastructure Innovation",
+   "id": 200
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T13:44:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-04T10:04:03",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243788,
+   "label": "LC 49 2732/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243788"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:04+00:00",
+  "version:243788": "2026-11-20T19:23:04+00:00",
+  "status:40": "2026-11-20T19:23:04+00:00",
+  "status:33": "2026-11-20T19:23:04+00:00",
+  "status:34": "2026-11-20T19:23:04+00:00",
+  "status:39": "2026-11-20T19:23:04+00:00"
+ },
+ "updated": "2026-11-20T19:23:04+00:00"
+}

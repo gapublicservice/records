@@ -1,0 +1,109 @@
+{
+ "key": "HR 656",
+ "slug": "hr656",
+ "session": "2025_26",
+ "legislation_id": 71497,
+ "page": "https://www.legis.ga.gov/legislation/71497",
+ "document_type": "HR",
+ "number": 656,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Expanding Home Ownership Opportunities for Georgians; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Expanding Home Ownership Opportunities for Georgians; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Rural Development",
+   "id": 202
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T11:19:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:12",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244551,
+   "label": "LC 59 0299S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244551"
+  },
+  {
+   "doc_id": 236638,
+   "label": "LC 59 0145/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236638"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:22+00:00",
+  "version:244551": "2026-11-20T19:45:22+00:00",
+  "version:236638": "2026-11-20T19:45:22+00:00",
+  "status:40": "2026-11-20T19:45:22+00:00",
+  "status:33": "2026-11-20T19:45:22+00:00",
+  "status:34": "2026-11-20T19:45:22+00:00",
+  "status:39": "2026-11-20T19:45:22+00:00"
+ },
+ "updated": "2026-11-20T19:45:22+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HB 642",
+ "slug": "hb642",
+ "session": "2025_26",
+ "legislation_id": 70841,
+ "page": "https://www.legis.ga.gov/legislation/70841",
+ "document_type": "HB",
+ "number": 642,
+ "legislation_type": "GEN",
+ "caption": "Georgia Dye Free School Meals Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to student health, so as to prohibit public primary and secondary schools from serving or selling, or allowing a third party to serve or sell, food or beverages that contain synthetic dye; to provide for a definition; to provide for certification of compliance; to provide legislative findings; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:40:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234039,
+   "label": "LC 61 0174/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234039"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:47:12+00:00",
+  "version:234039": "2026-11-20T18:47:12+00:00",
+  "status:40": "2026-11-20T18:47:12+00:00",
+  "status:33": "2026-11-20T18:47:12+00:00",
+  "status:34": "2026-11-20T18:47:12+00:00"
+ },
+ "updated": "2026-11-20T18:47:12+00:00"
+}

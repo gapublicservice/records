@@ -1,0 +1,89 @@
+{
+ "key": "HR 1543",
+ "slug": "hr1543",
+ "session": "2025_26",
+ "legislation_id": 73813,
+ "page": "https://www.legis.ga.gov/legislation/73813",
+ "document_type": "HR",
+ "number": 1543,
+ "legislation_type": "PRIV",
+ "caption": "Anyaegbunam, Breyana; 2025-2026 Youth of the Year for the Boys & Girls Clubs of the Chattahoochee Valley; commend",
+ "summary": "A RESOLUTION congratulating Breyana Anyaegbunam upon being named the 2025-2026 Youth of the Year for the Boys & Girls Clubs of the Chattahoochee Valley; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:57:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244861,
+   "label": "LC 112 3774/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244861"
+  },
+  {
+   "doc_id": 244859,
+   "label": "LC 112 3774/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244859"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:49+00:00",
+  "version:244861": "2026-11-20T20:05:49+00:00",
+  "version:244859": "2026-11-20T20:05:49+00:00",
+  "status:40": "2026-11-20T20:05:49+00:00",
+  "status:33": "2026-11-20T20:05:49+00:00",
+  "status:48": "2026-11-20T20:05:49+00:00"
+ },
+ "updated": "2026-11-20T20:05:49+00:00"
+}

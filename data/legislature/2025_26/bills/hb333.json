@@ -1,0 +1,102 @@
+{
+ "key": "HB 333",
+ "slug": "hb333",
+ "session": "2025_26",
+ "legislation_id": 70063,
+ "page": "https://www.legis.ga.gov/legislation/70063",
+ "document_type": "HB",
+ "number": 333,
+ "legislation_type": "GEN",
+ "caption": "Education; require that the state minimum salary schedule shall be updated each year",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-212 of the Official Code of Georgia Annotated, relating to salary schedules for professionals in elementary and secondary education, so as to require that the state minimum salary schedule shall be updated each year; to provide that such updates shall correspond to annual inflation and deflation rates; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:46:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231672,
+   "label": "LC 49 2162/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231672"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:32:44+00:00",
+  "version:231672": "2026-11-20T18:32:44+00:00",
+  "status:40": "2026-11-20T18:32:44+00:00",
+  "status:33": "2026-11-20T18:32:44+00:00",
+  "status:34": "2026-11-20T18:32:44+00:00"
+ },
+ "updated": "2026-11-20T18:32:44+00:00"
+}

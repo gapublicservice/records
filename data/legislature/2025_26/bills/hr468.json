@@ -1,0 +1,68 @@
+{
+ "key": "HR 468",
+ "slug": "hr468",
+ "session": "2025_26",
+ "legislation_id": 71081,
+ "page": "https://www.legis.ga.gov/legislation/71081",
+ "document_type": "HR",
+ "number": 468,
+ "legislation_type": "PRIV",
+ "caption": "Historical significance of the 1911 Rand McNally map of White County, Georgia; commend",
+ "summary": "A RESOLUTION recognizing the historical significance of the 1911 Rand McNally map of White County, Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T13:02:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T13:43:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T13:43:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234846,
+   "label": "LC 112 3201/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234846"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:15+00:00",
+  "version:234846": "2026-11-20T19:41:15+00:00",
+  "status:40": "2026-11-20T19:41:15+00:00",
+  "status:33": "2026-11-20T19:41:15+00:00",
+  "status:48": "2026-11-20T19:41:15+00:00"
+ },
+ "updated": "2026-11-20T19:41:15+00:00"
+}

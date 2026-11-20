@@ -1,0 +1,102 @@
+{
+ "key": "HB 1479",
+ "slug": "hb1479",
+ "session": "2025_26",
+ "legislation_id": 73760,
+ "page": "https://www.legis.ga.gov/legislation/73760",
+ "document_type": "HB",
+ "number": 1479,
+ "legislation_type": "GEN",
+ "caption": "Civil practice; certain alleged acts by clergy members; extend statute of limitations",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 3 of Title 9 of the Official Code of Georgia Annotated, relating to specific periods of limitation, so as to extend the statute of limitations for certain alleged acts by clergy members; to provide for liability for certain entities; to provide for the extension of certain claims; to provide for definitions; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:38:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T10:30:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T09:41:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244443,
+   "label": "LC 62 0450/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244443"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:24:17+00:00",
+  "version:244443": "2026-11-20T19:24:17+00:00",
+  "status:40": "2026-11-20T19:24:17+00:00",
+  "status:33": "2026-11-20T19:24:17+00:00",
+  "status:34": "2026-11-20T19:24:17+00:00"
+ },
+ "updated": "2026-11-20T19:24:17+00:00"
+}

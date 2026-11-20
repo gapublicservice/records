@@ -1,0 +1,68 @@
+{
+ "key": "HR 236",
+ "slug": "hr236",
+ "session": "2025_26",
+ "legislation_id": 70221,
+ "page": "https://www.legis.ga.gov/legislation/70221",
+ "document_type": "HR",
+ "number": 236,
+ "legislation_type": "PRIV",
+ "caption": "Kellogg, Linda Ford; outstanding service; commend",
+ "summary": "A RESOLUTION recognizing and commending Linda Ford Kellogg on her outstanding service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T13:00:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232119,
+   "label": "LC 129 0133/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232119"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:05+00:00",
+  "version:232119": "2026-11-20T19:36:05+00:00",
+  "status:40": "2026-11-20T19:36:05+00:00",
+  "status:33": "2026-11-20T19:36:05+00:00",
+  "status:48": "2026-11-20T19:36:05+00:00"
+ },
+ "updated": "2026-11-20T19:36:05+00:00"
+}

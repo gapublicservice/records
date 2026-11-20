@@ -1,0 +1,89 @@
+{
+ "key": "HR 484",
+ "slug": "hr484",
+ "session": "2025_26",
+ "legislation_id": 71139,
+ "page": "https://www.legis.ga.gov/legislation/71139",
+ "document_type": "HR",
+ "number": 484,
+ "legislation_type": "PRIV",
+ "caption": "Georgia State University; commend",
+ "summary": "A RESOLUTION recognizing and commending Georgia State University; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T13:24:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T14:11:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T14:11:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235141,
+   "label": "LC 112 3227/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235141"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:36+00:00",
+  "version:235141": "2026-11-20T19:41:36+00:00",
+  "status:40": "2026-11-20T19:41:36+00:00",
+  "status:33": "2026-11-20T19:41:36+00:00",
+  "status:48": "2026-11-20T19:41:36+00:00"
+ },
+ "updated": "2026-11-20T19:41:36+00:00"
+}

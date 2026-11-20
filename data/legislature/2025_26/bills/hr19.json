@@ -1,0 +1,68 @@
+{
+ "key": "HR 19",
+ "slug": "hr19",
+ "session": "2025_26",
+ "legislation_id": 69360,
+ "page": "https://www.legis.ga.gov/legislation/69360",
+ "document_type": "HR",
+ "number": 19,
+ "legislation_type": "PRIV",
+ "caption": "City of Cartersville; 175th anniversary; recognize",
+ "summary": "A RESOLUTION congratulating the City of Cartersville upon its 175th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-14T13:10:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T13:29:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-14T13:29:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229926,
+   "label": "LC 129 0014/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229926"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:56+00:00",
+  "version:229926": "2026-11-20T19:30:56+00:00",
+  "status:40": "2026-11-20T19:30:56+00:00",
+  "status:33": "2026-11-20T19:30:56+00:00",
+  "status:48": "2026-11-20T19:30:56+00:00"
+ },
+ "updated": "2026-11-20T19:30:56+00:00"
+}

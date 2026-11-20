@@ -1,0 +1,89 @@
+{
+ "key": "HR 1091",
+ "slug": "hr1091",
+ "session": "2025_26",
+ "legislation_id": 72442,
+ "page": "https://www.legis.ga.gov/legislation/72442",
+ "document_type": "HR",
+ "number": 1091,
+ "legislation_type": "PRIV",
+ "caption": "The Atlanta Korean American Business Women's Association; commend",
+ "summary": "A RESOLUTION commending The Atlanta Korean American Business Women's Association; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:29:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:42:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:42:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240336,
+   "label": "LC 129 0550/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240336"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:22+00:00",
+  "version:240336": "2026-11-20T19:55:22+00:00",
+  "status:40": "2026-11-20T19:55:22+00:00",
+  "status:33": "2026-11-20T19:55:22+00:00",
+  "status:48": "2026-11-20T19:55:22+00:00"
+ },
+ "updated": "2026-11-20T19:55:22+00:00"
+}

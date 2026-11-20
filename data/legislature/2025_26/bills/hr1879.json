@@ -1,0 +1,68 @@
+{
+ "key": "HR 1879",
+ "slug": "hr1879",
+ "session": "2025_26",
+ "legislation_id": 74400,
+ "page": "https://www.legis.ga.gov/legislation/74400",
+ "document_type": "HR",
+ "number": 1879,
+ "legislation_type": "PRIV",
+ "caption": "Harris, Tameka; commend",
+ "summary": "A RESOLUTION recognizing and commending Tameka Harris; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:41:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247182,
+   "label": "LC 129 1469/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247182"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:01+00:00",
+  "version:247182": "2026-11-20T20:13:01+00:00",
+  "status:40": "2026-11-20T20:13:01+00:00",
+  "status:33": "2026-11-20T20:13:01+00:00",
+  "status:48": "2026-11-20T20:13:01+00:00"
+ },
+ "updated": "2026-11-20T20:13:01+00:00"
+}

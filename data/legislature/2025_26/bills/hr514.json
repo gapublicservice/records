@@ -1,0 +1,61 @@
+{
+ "key": "HR 514",
+ "slug": "hr514",
+ "session": "2025_26",
+ "legislation_id": 71197,
+ "page": "https://www.legis.ga.gov/legislation/71197",
+ "document_type": "HR",
+ "number": 514,
+ "legislation_type": "PRIV",
+ "caption": "Pate, Bobby C.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Bobby C. Pate; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T13:27:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T14:06:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T14:06:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235431,
+   "label": "LC 112 3262/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235431"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:16+00:00",
+  "version:235431": "2026-11-20T19:42:16+00:00",
+  "status:40": "2026-11-20T19:42:16+00:00",
+  "status:33": "2026-11-20T19:42:16+00:00",
+  "status:48": "2026-11-20T19:42:16+00:00"
+ },
+ "updated": "2026-11-20T19:42:16+00:00"
+}

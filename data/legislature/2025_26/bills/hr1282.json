@@ -1,0 +1,96 @@
+{
+ "key": "HR 1282",
+ "slug": "hr1282",
+ "session": "2025_26",
+ "legislation_id": 72991,
+ "page": "https://www.legis.ga.gov/legislation/72991",
+ "document_type": "HR",
+ "number": 1282,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Building Authority team; excellence in the restoration of the Georgia State Capitol; commend",
+ "summary": "A RESOLUTION honoring the Georgia Building Authority team for excellence in the restoration of the Georgia State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T12:00:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241928,
+   "label": "LC 129 0933/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241928"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:37+00:00",
+  "version:241928": "2026-11-20T19:59:37+00:00",
+  "status:40": "2026-11-20T19:59:37+00:00",
+  "status:33": "2026-11-20T19:59:37+00:00",
+  "status:48": "2026-11-20T19:59:37+00:00"
+ },
+ "updated": "2026-11-20T19:59:37+00:00"
+}

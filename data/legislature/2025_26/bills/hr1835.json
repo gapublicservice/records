@@ -1,0 +1,89 @@
+{
+ "key": "HR 1835",
+ "slug": "hr1835",
+ "session": "2025_26",
+ "legislation_id": 74329,
+ "page": "https://www.legis.ga.gov/legislation/74329",
+ "document_type": "HR",
+ "number": 1835,
+ "legislation_type": "PRIV",
+ "caption": "Carys Code; commend",
+ "summary": "A RESOLUTION recognizing and commending Carys Code; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-20T13:20:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T13:36:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T13:36:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246909,
+   "label": "LC 129 1466/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246909"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:05+00:00",
+  "version:246909": "2026-11-20T20:12:05+00:00",
+  "status:40": "2026-11-20T20:12:05+00:00",
+  "status:33": "2026-11-20T20:12:05+00:00",
+  "status:48": "2026-11-20T20:12:05+00:00"
+ },
+ "updated": "2026-11-20T20:12:05+00:00"
+}

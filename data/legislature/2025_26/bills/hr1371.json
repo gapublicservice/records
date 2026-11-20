@@ -1,0 +1,116 @@
+{
+ "key": "HR 1371",
+ "slug": "hr1371",
+ "session": "2025_26",
+ "legislation_id": 73291,
+ "page": "https://www.legis.ga.gov/legislation/73291",
+ "document_type": "HR",
+ "number": 1371,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Code Revisions for Autonomous Vehicles; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Code Revisions for Autonomous Vehicles; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Technology and Infrastructure Innovation",
+   "id": 200
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:49:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-19T10:13:43",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246587,
+   "label": "LC 64 0109S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246587"
+  },
+  {
+   "doc_id": 242836,
+   "label": "LC 63 0101/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242836"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:00+00:00",
+  "version:246587": "2026-11-20T20:02:00+00:00",
+  "version:242836": "2026-11-20T20:02:00+00:00",
+  "status:40": "2026-11-20T20:02:00+00:00",
+  "status:33": "2026-11-20T20:02:00+00:00",
+  "status:34": "2026-11-20T20:02:00+00:00",
+  "status:39": "2026-11-20T20:02:00+00:00"
+ },
+ "updated": "2026-11-20T20:02:00+00:00"
+}

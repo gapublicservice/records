@@ -1,0 +1,102 @@
+{
+ "key": "HB 1163",
+ "slug": "hb1163",
+ "session": "2025_26",
+ "legislation_id": 72767,
+ "page": "https://www.legis.ga.gov/legislation/72767",
+ "document_type": "HB",
+ "number": 1163,
+ "legislation_type": "GEN",
+ "caption": "Health Care Homestead Protection Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 13 of Title 51 of the Official Code of Georgia Annotated, relating to recovery in medical malpractice actions, so as to provide for an exemption in medical malpractice actions for the primary residences of health care providers; to provide for exceptions; to provide for a short title; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-03T10:49:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T10:31:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T10:11:09",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241303,
+   "label": "LC 62 0345/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241303"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:12:01+00:00",
+  "version:241303": "2026-11-20T19:12:01+00:00",
+  "status:40": "2026-11-20T19:12:01+00:00",
+  "status:33": "2026-11-20T19:12:01+00:00",
+  "status:34": "2026-11-20T19:12:01+00:00"
+ },
+ "updated": "2026-11-20T19:12:01+00:00"
+}

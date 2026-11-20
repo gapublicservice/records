@@ -1,0 +1,102 @@
+{
+ "key": "HB 1113",
+ "slug": "hb1113",
+ "session": "2025_26",
+ "legislation_id": 72637,
+ "page": "https://www.legis.ga.gov/legislation/72637",
+ "document_type": "HB",
+ "number": 1113,
+ "legislation_type": "GEN",
+ "caption": "Georgia Defined Contribution Plan; exclude part-time students from membership",
+ "summary": "A BILL to be entitled an Act to amend Code Section 47-22-1 of the Official Code of Georgia Annotated, relating to definitions regarding the Georgia Defined Contribution Plan, so as to exclude part-time students from membership in the plan; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:38:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-12T12:08:07",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240944,
+   "label": "LC 56 0501/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240944"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:42+00:00",
+  "version:240944": "2026-11-20T19:09:42+00:00",
+  "status:40": "2026-11-20T19:09:42+00:00",
+  "status:33": "2026-11-20T19:09:42+00:00",
+  "status:34": "2026-11-20T19:09:42+00:00",
+  "status:39": "2026-11-20T19:09:42+00:00"
+ },
+ "updated": "2026-11-20T19:09:42+00:00"
+}

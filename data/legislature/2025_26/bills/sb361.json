@@ -1,0 +1,67 @@
+{
+ "key": "SB 361",
+ "slug": "sb361",
+ "session": "2025_26",
+ "legislation_id": 71712,
+ "page": "https://www.legis.ga.gov/legislation/71712",
+ "document_type": "SB",
+ "number": 361,
+ "legislation_type": "GEN",
+ "caption": "Property Owners' Associations; authorization of liens and use of assessments; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to property owners' associations, so as to provide for authorization of liens and use of assessments; to provide for registration of property owners' associations; to provide for rules and regulations regarding administrative hearings and escrow of funds; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T16:59:04",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-27T10:22:16",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237390,
+   "label": "As introduced LC 44 3170",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237390"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:46+00:00",
+  "version:237390": "2026-11-20T20:37:46+00:00",
+  "status:67": "2026-11-20T20:37:46+00:00",
+  "status:3": "2026-11-20T20:37:46+00:00"
+ },
+ "updated": "2026-11-20T20:37:46+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 267",
+ "slug": "hr267",
+ "session": "2025_26",
+ "legislation_id": 70364,
+ "page": "https://www.legis.ga.gov/legislation/70364",
+ "document_type": "HR",
+ "number": 267,
+ "legislation_type": "PRIV",
+ "caption": "Robinson, Brother Keiton; commend",
+ "summary": "A RESOLUTION recognizing and commending Brother Keiton Robinson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:29:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232529,
+   "label": "LC 129 0146/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232529"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:50+00:00",
+  "version:232529": "2026-11-20T19:36:50+00:00",
+  "status:40": "2026-11-20T19:36:50+00:00",
+  "status:33": "2026-11-20T19:36:50+00:00",
+  "status:48": "2026-11-20T19:36:50+00:00"
+ },
+ "updated": "2026-11-20T19:36:50+00:00"
+}

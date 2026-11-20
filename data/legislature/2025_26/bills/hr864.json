@@ -1,0 +1,61 @@
+{
+ "key": "HR 864",
+ "slug": "hr864",
+ "session": "2025_26",
+ "legislation_id": 71897,
+ "page": "https://www.legis.ga.gov/legislation/71897",
+ "document_type": "HR",
+ "number": 864,
+ "legislation_type": "PRIV",
+ "caption": "Montgomery, Melissa; honor",
+ "summary": "A RESOLUTION honoring Melissa Montgomery; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:08:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T14:42:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T14:42:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238306,
+   "label": "LC 129 0439/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238306"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:13+00:00",
+  "version:238306": "2026-11-20T19:50:13+00:00",
+  "status:40": "2026-11-20T19:50:13+00:00",
+  "status:33": "2026-11-20T19:50:13+00:00",
+  "status:48": "2026-11-20T19:50:13+00:00"
+ },
+ "updated": "2026-11-20T19:50:13+00:00"
+}

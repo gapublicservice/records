@@ -1,0 +1,102 @@
+{
+ "key": "HB 388",
+ "slug": "hb388",
+ "session": "2025_26",
+ "legislation_id": 70188,
+ "page": "https://www.legis.ga.gov/legislation/70188",
+ "document_type": "HB",
+ "number": 388,
+ "legislation_type": "GEN",
+ "caption": "Income tax; exempt income received as personal compensation for active duty service while stationed outside Georgia",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to the imposition, rate, computation, exemptions, and credits for state income tax, so as to exempt from state income tax income received as personal compensation for active duty service in the United States armed forces while stationed outside Georgia; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T11:41:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T10:44:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T09:42:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232059,
+   "label": "LC 50 1078/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232059"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:35:20+00:00",
+  "version:232059": "2026-11-20T18:35:20+00:00",
+  "status:40": "2026-11-20T18:35:20+00:00",
+  "status:33": "2026-11-20T18:35:20+00:00",
+  "status:34": "2026-11-20T18:35:20+00:00"
+ },
+ "updated": "2026-11-20T18:35:20+00:00"
+}

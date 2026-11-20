@@ -1,0 +1,95 @@
+{
+ "key": "HB 1561",
+ "slug": "hb1561",
+ "session": "2025_26",
+ "legislation_id": 74116,
+ "page": "https://www.legis.ga.gov/legislation/74116",
+ "document_type": "HB",
+ "number": 1561,
+ "legislation_type": "GEN",
+ "caption": "Student Journalist Press Freedom Restoration Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to require secondary schools and public institutions of higher education to recognize certain rights for student journalists; to provide for protections for student media advisers; to provide for limitations; to provide for written policies; to provide for proceedings and injunctive relief; to provide for legislative findings, declarations, and intent; to provide for definitions; to provide for construction; to provide for a short title; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:09:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T10:32:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T10:08:20",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246000,
+   "label": "LC 65 0086/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246000"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:28:11+00:00",
+  "version:246000": "2026-11-20T19:28:11+00:00",
+  "status:40": "2026-11-20T19:28:11+00:00",
+  "status:33": "2026-11-20T19:28:11+00:00",
+  "status:34": "2026-11-20T19:28:11+00:00"
+ },
+ "updated": "2026-11-20T19:28:11+00:00"
+}

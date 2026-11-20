@@ -1,0 +1,74 @@
+{
+ "key": "SB 224",
+ "slug": "sb224",
+ "session": "2025_26",
+ "legislation_id": 70602,
+ "page": "https://www.legis.ga.gov/legislation/70602",
+ "document_type": "SB",
+ "number": 224,
+ "legislation_type": "GEN",
+ "caption": "\"Donna's Law\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to Brady Law regulations, so as to provide for the establishment of a voluntary do not sell list for firearms; to provide for definitions; to provide for procedures and conditions for registration and removal from such list; to provide for penalties; to provide for limitation on the records relating to registration or removal; to provide for forms and rules and regulations; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:09:26",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-21T09:26:50",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233237,
+   "label": "As introduced LC 39 4434",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233237"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:31:59+00:00",
+  "version:233237": "2026-11-20T20:31:59+00:00",
+  "status:67": "2026-11-20T20:31:59+00:00",
+  "status:3": "2026-11-20T20:31:59+00:00"
+ },
+ "updated": "2026-11-20T20:31:59+00:00"
+}

@@ -1,0 +1,60 @@
+{
+ "key": "SR 342",
+ "slug": "sr342",
+ "session": "2025_26",
+ "legislation_id": 71123,
+ "page": "https://www.legis.ga.gov/legislation/71123",
+ "document_type": "SR",
+ "number": 342,
+ "legislation_type": "NP",
+ "caption": "Senate Study Committee on Certified Peer Specialists, Addiction Recovery Programs, and Protocols; create",
+ "summary": "A RESOLUTION creating the Senate Study Committee on Certified Peer Specialists, Addiction Recovery Programs, and Protocols; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T12:04:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-06T10:27:38",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235056,
+   "label": "As introduced LC 52 0806",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235056"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:58:11+00:00",
+  "version:235056": "2026-11-20T20:58:11+00:00",
+  "status:67": "2026-11-20T20:58:11+00:00",
+  "status:3": "2026-11-20T20:58:11+00:00"
+ },
+ "updated": "2026-11-20T20:58:11+00:00"
+}

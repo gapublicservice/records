@@ -1,0 +1,95 @@
+{
+ "key": "HB 1382",
+ "slug": "hb1382",
+ "session": "2025_26",
+ "legislation_id": 73371,
+ "page": "https://www.legis.ga.gov/legislation/73371",
+ "document_type": "HB",
+ "number": 1382,
+ "legislation_type": "GEN",
+ "caption": "Education; institutions grant academic credit to active duty military or veteran students based on military service; maintain policies",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to encourage the Board of Regents of the University System of Georgia and authorize the State Board of the Technical College System of Georgia to maintain policies for institutions and units of each system to grant academic credit to active duty military or veteran students based on military service; to encourage and authorize the use of joint service transcripts and related credit recommendations; to encourage and authorize the development of a guide in collaboration with the Department of Veterans Service for certain students; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:42:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243124,
+   "label": "LC 61 0379/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243124"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:11+00:00",
+  "version:243124": "2026-11-20T19:21:11+00:00",
+  "status:40": "2026-11-20T19:21:11+00:00",
+  "status:33": "2026-11-20T19:21:11+00:00",
+  "status:34": "2026-11-20T19:21:11+00:00"
+ },
+ "updated": "2026-11-20T19:21:11+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 308",
+ "slug": "hr308",
+ "session": "2025_26",
+ "legislation_id": 70533,
+ "page": "https://www.legis.ga.gov/legislation/70533",
+ "document_type": "HR",
+ "number": 308,
+ "legislation_type": "PRIV",
+ "caption": "Multi-Agency Alliance for Children; commend",
+ "summary": "A RESOLUTION honoring and commending the Multi-Agency Alliance for Children; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 808,
+   "name": "Ballinger, Mandi 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:49:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233035,
+   "label": "LC 112 2923/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233035"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:44+00:00",
+  "version:233035": "2026-11-20T19:37:44+00:00",
+  "status:40": "2026-11-20T19:37:44+00:00",
+  "status:33": "2026-11-20T19:37:44+00:00",
+  "status:48": "2026-11-20T19:37:44+00:00"
+ },
+ "updated": "2026-11-20T19:37:44+00:00"
+}

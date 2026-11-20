@@ -1,0 +1,75 @@
+{
+ "key": "HR 699",
+ "slug": "hr699",
+ "session": "2025_26",
+ "legislation_id": 71585,
+ "page": "https://www.legis.ga.gov/legislation/71585",
+ "document_type": "HR",
+ "number": 699,
+ "legislation_type": "PRIV",
+ "caption": "Decatur Presbyterian Church; Decatur, Georgia; 200th anniversary; recognize",
+ "summary": "A RESOLUTION celebrating the 200th anniversary of Decatur Presbyterian Church, Decatur, Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-21T12:52:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T13:30:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T13:30:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236945,
+   "label": "LC 112 3451/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236945"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:34+00:00",
+  "version:236945": "2026-11-20T19:46:34+00:00",
+  "status:40": "2026-11-20T19:46:34+00:00",
+  "status:33": "2026-11-20T19:46:34+00:00",
+  "status:48": "2026-11-20T19:46:34+00:00"
+ },
+ "updated": "2026-11-20T19:46:34+00:00"
+}

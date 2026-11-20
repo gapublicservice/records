@@ -1,0 +1,75 @@
+{
+ "key": "SR 585",
+ "slug": "sr585",
+ "session": "2025_26",
+ "legislation_id": 72326,
+ "page": "https://www.legis.ga.gov/legislation/72326",
+ "document_type": "SR",
+ "number": 585,
+ "legislation_type": "PRIV",
+ "caption": "Washington, Booker T.; honoring",
+ "summary": "A RESOLUTION honoring Booker T. Washington; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-21T16:16:46",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-27T14:43:03",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240098,
+   "label": "Read and adopted LC 129 0574",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240098"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:09+00:00",
+  "version:240098": "2026-11-20T21:04:09+00:00",
+  "status:67": "2026-11-20T21:04:09+00:00",
+  "status:66": "2026-11-20T21:04:09+00:00"
+ },
+ "updated": "2026-11-20T21:04:09+00:00"
+}

@@ -1,0 +1,109 @@
+{
+ "key": "HB 1414",
+ "slug": "hb1414",
+ "session": "2025_26",
+ "legislation_id": 73468,
+ "page": "https://www.legis.ga.gov/legislation/73468",
+ "document_type": "HB",
+ "number": 1414,
+ "legislation_type": "GEN",
+ "caption": "Limited liability companies; permit creation of protected series and registered series",
+ "summary": "A BILL to be entitled an Act to amend Chapter 11 of Title 14 of the Official Code of Georgia Annotated, relating to limited liability companies, so as to permit the creation of protected series and registered series of a limited liability company; to provide for procedures for creation of such series; to provide for the records of such series; to provide for the assets property owned by such series; to provide for consolidation of series; to provide for merger of registered series; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T10:53:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T11:06:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243430,
+   "label": "LC 62 0358/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243430"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:20+00:00",
+  "version:243430": "2026-11-20T19:22:20+00:00",
+  "status:40": "2026-11-20T19:22:20+00:00",
+  "status:33": "2026-11-20T19:22:20+00:00",
+  "status:34": "2026-11-20T19:22:20+00:00",
+  "status:39": "2026-11-20T19:22:20+00:00"
+ },
+ "updated": "2026-11-20T19:22:20+00:00"
+}

@@ -1,0 +1,54 @@
+{
+ "key": "SR 832",
+ "slug": "sr832",
+ "session": "2025_26",
+ "legislation_id": 73508,
+ "page": "https://www.legis.ga.gov/legislation/73508",
+ "document_type": "SR",
+ "number": 832,
+ "legislation_type": "PRIV",
+ "caption": "Stephens, George Walter; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of George Walter Stephens; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-20T13:42:02",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-24T11:43:05",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243532,
+   "label": "Read and adopted LC 129 1168",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243532"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:45+00:00",
+  "version:243532": "2026-11-20T21:09:45+00:00",
+  "status:67": "2026-11-20T21:09:45+00:00",
+  "status:66": "2026-11-20T21:09:45+00:00"
+ },
+ "updated": "2026-11-20T21:09:45+00:00"
+}

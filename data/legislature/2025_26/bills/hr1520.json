@@ -1,0 +1,67 @@
+{
+ "key": "HR 1520",
+ "slug": "hr1520",
+ "session": "2025_26",
+ "legislation_id": 73757,
+ "page": "https://www.legis.ga.gov/legislation/73757",
+ "document_type": "HR",
+ "number": 1520,
+ "legislation_type": "GEN",
+ "caption": "Hassan Raheem Glasgow Memorial Highway; Jefferson County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Hassan Raheem Glasgow and dedicating a road in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:34:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T10:30:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T09:41:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244459,
+   "label": "LC 39 5005/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244459"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:19+00:00",
+  "version:244459": "2026-11-20T20:05:19+00:00",
+  "status:40": "2026-11-20T20:05:19+00:00",
+  "status:33": "2026-11-20T20:05:19+00:00",
+  "status:34": "2026-11-20T20:05:19+00:00"
+ },
+ "updated": "2026-11-20T20:05:19+00:00"
+}

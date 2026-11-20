@@ -1,0 +1,102 @@
+{
+ "key": "HB 368",
+ "slug": "hb368",
+ "session": "2025_26",
+ "legislation_id": 70130,
+ "page": "https://www.legis.ga.gov/legislation/70130",
+ "document_type": "HB",
+ "number": 368,
+ "legislation_type": "GEN",
+ "caption": "De-escalation Right To Know Law; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to general provisions relative to identification and regulation of motor vehicles, so as to require a law enforcement officer making a traffic stop to provide the operator with the purpose of the stop upon request after such operator displays his or her driver's license; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:48:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231910,
+   "label": "LC 39 4501/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231910"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:34:20+00:00",
+  "version:231910": "2026-11-20T18:34:20+00:00",
+  "status:40": "2026-11-20T18:34:20+00:00",
+  "status:33": "2026-11-20T18:34:20+00:00",
+  "status:34": "2026-11-20T18:34:20+00:00"
+ },
+ "updated": "2026-11-20T18:34:20+00:00"
+}

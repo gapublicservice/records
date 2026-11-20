@@ -1,0 +1,89 @@
+{
+ "key": "HR 1397",
+ "slug": "hr1397",
+ "session": "2025_26",
+ "legislation_id": 73392,
+ "page": "https://www.legis.ga.gov/legislation/73392",
+ "document_type": "HR",
+ "number": 1397,
+ "legislation_type": "PRIV",
+ "caption": "Bryant, Dr. Karen Leigh; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dr. Karen Leigh Bryant; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:41:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:09:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:09:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243170,
+   "label": "LC 129 1140/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243170"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:34+00:00",
+  "version:243170": "2026-11-20T20:02:34+00:00",
+  "status:40": "2026-11-20T20:02:34+00:00",
+  "status:33": "2026-11-20T20:02:34+00:00",
+  "status:48": "2026-11-20T20:02:34+00:00"
+ },
+ "updated": "2026-11-20T20:02:34+00:00"
+}

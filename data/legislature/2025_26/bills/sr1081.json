@@ -1,0 +1,82 @@
+{
+ "key": "SR 1081",
+ "slug": "sr1081",
+ "session": "2025_26",
+ "legislation_id": 74598,
+ "page": "https://www.legis.ga.gov/legislation/74598",
+ "document_type": "SR",
+ "number": 1081,
+ "legislation_type": "PRIV",
+ "caption": "Raheemm, Micaiah; commend",
+ "summary": "A RESOLUTION commending Micaiah Raheem; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T10:30:55",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-04-02T11:58:32",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248212,
+   "label": "Read and adopted LC 112 4097",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248212"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:15:25+00:00",
+  "version:248212": "2026-11-20T21:15:25+00:00",
+  "status:67": "2026-11-20T21:15:25+00:00",
+  "status:66": "2026-11-20T21:15:25+00:00"
+ },
+ "updated": "2026-11-20T21:15:25+00:00"
+}

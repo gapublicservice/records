@@ -1,0 +1,81 @@
+{
+ "key": "HB 740",
+ "slug": "hb740",
+ "session": "2025_26",
+ "legislation_id": 71218,
+ "page": "https://www.legis.ga.gov/legislation/71218",
+ "document_type": "HB",
+ "number": 740,
+ "legislation_type": "GEN",
+ "caption": "Stop Social Promotion Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the \"Quality Basic Education Act,\" so as to provide for development of promotional standards and criteria for first grade readiness by the Department of Education; to provide for placement and promotion policies for kindergarten and grades one and two; to provide for a timetable for implementation; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-06T16:34:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-10T13:41:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T13:17:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235527,
+   "label": "LC 61 9002/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235527"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:51:07+00:00",
+  "version:235527": "2026-11-20T18:51:07+00:00",
+  "status:40": "2026-11-20T18:51:07+00:00",
+  "status:33": "2026-11-20T18:51:07+00:00",
+  "status:34": "2026-11-20T18:51:07+00:00"
+ },
+ "updated": "2026-11-20T18:51:07+00:00"
+}

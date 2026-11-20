@@ -1,0 +1,102 @@
+{
+ "key": "HR 661",
+ "slug": "hr661",
+ "session": "2025_26",
+ "legislation_id": 71511,
+ "page": "https://www.legis.ga.gov/legislation/71511",
+ "document_type": "HR",
+ "number": 661,
+ "legislation_type": "NP",
+ "caption": "Federal Railroad Administration; deny CSX's request to become the first railroad to use Trip Optimizer's Zero-to-Zero feature; urge",
+ "summary": "A RESOLUTION urging the Federal Railroad Administration to deny CSX's request to become the first railroad to use Trip Optimizer's Zero-to-Zero feature; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Technology and Infrastructure Innovation",
+   "id": 200
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:11:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236683,
+   "label": "LC 112 3453/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236683"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:30+00:00",
+  "version:236683": "2026-11-20T19:45:30+00:00",
+  "status:40": "2026-11-20T19:45:30+00:00",
+  "status:33": "2026-11-20T19:45:30+00:00",
+  "status:34": "2026-11-20T19:45:30+00:00"
+ },
+ "updated": "2026-11-20T19:45:30+00:00"
+}

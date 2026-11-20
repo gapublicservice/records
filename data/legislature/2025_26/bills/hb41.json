@@ -1,0 +1,81 @@
+{
+ "key": "HB 41",
+ "slug": "hb41",
+ "session": "2025_26",
+ "legislation_id": 69338,
+ "page": "https://www.legis.ga.gov/legislation/69338",
+ "document_type": "HB",
+ "number": 41,
+ "legislation_type": "GEN",
+ "caption": "Georgia Local Governance and Fair Enforcement Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 16-13-2 of the Official Code of Georgia Annotated, relating to conditional discharge for possession of controlled substances as first offense and certain nonviolent property crimes, dismissal of charges, and restitution to victims, so as to authorize counties and municipal corporations to adopt ordinances governing and punishing the possession of one ounce or less of marijuana; to amend Code Section 36-1-20 of the Official Code of Georgia Annotated, relating to ordinances for governing and policing of unincorporated areas of county, so as to authorize counties to adopt ordinances governing and punishing the possession of one ounce or less of marijuana; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:40:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T10:39:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T10:14:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229901,
+   "label": "LC 48 1363/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229901"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:44+00:00",
+  "version:229901": "2026-11-20T18:17:44+00:00",
+  "status:40": "2026-11-20T18:17:44+00:00",
+  "status:33": "2026-11-20T18:17:44+00:00",
+  "status:34": "2026-11-20T18:17:44+00:00"
+ },
+ "updated": "2026-11-20T18:17:44+00:00"
+}

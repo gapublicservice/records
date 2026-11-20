@@ -1,0 +1,90 @@
+{
+ "key": "HB 503",
+ "slug": "hb503",
+ "session": "2025_26",
+ "legislation_id": 70427,
+ "page": "https://www.legis.ga.gov/legislation/70427",
+ "document_type": "HB",
+ "number": 503,
+ "legislation_type": "GEN",
+ "caption": "State Election Board; promulgate, amend, adopt, or repeal nonemergency rules and regulations in odd-numbered years; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide that the State Election Board may only promulgate, amend, adopt, or repeal nonemergency rules and regulations in odd-numbered years; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:31:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232727,
+   "label": "LC 47 3412/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232727"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:40:45+00:00",
+  "version:232727": "2026-11-20T18:40:45+00:00",
+  "status:40": "2026-11-20T18:40:45+00:00",
+  "status:33": "2026-11-20T18:40:45+00:00",
+  "status:34": "2026-11-20T18:40:45+00:00"
+ },
+ "updated": "2026-11-20T18:40:45+00:00"
+}

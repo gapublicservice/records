@@ -1,0 +1,95 @@
+{
+ "key": "HB 102",
+ "slug": "hb102",
+ "session": "2025_26",
+ "legislation_id": 69455,
+ "page": "https://www.legis.ga.gov/legislation/69455",
+ "document_type": "HB",
+ "number": 102,
+ "legislation_type": "GEN",
+ "caption": "Community Health, Department of; Georgia Quality Reporting Project; establish",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 31 of the Official Code of Georgia Annotated, relating to the Department of Community Health, so as to provide for the establishment of the Georgia Quality Reporting Project; to provide for definitions; to provide for the purposes of the project; to provide for a working group; to provide for submission of clinical data; to provide for processing of clinical data with claims data; to provide for penalties; to amend Code Section 33-6-4 of the Official Code of Georgia Annotated, relating to enumeration of unfair methods of competition and unfair or deceptive acts or practices and penalty, so as to provide for conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-17T11:00:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T10:32:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T10:43:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230180,
+   "label": "LC 57 0172/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230180"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:20:52+00:00",
+  "version:230180": "2026-11-20T18:20:52+00:00",
+  "status:40": "2026-11-20T18:20:52+00:00",
+  "status:33": "2026-11-20T18:20:52+00:00",
+  "status:34": "2026-11-20T18:20:52+00:00"
+ },
+ "updated": "2026-11-20T18:20:52+00:00"
+}

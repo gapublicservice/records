@@ -1,0 +1,142 @@
+{
+ "key": "HB 341",
+ "slug": "hb341",
+ "session": "2025_26",
+ "legislation_id": 70073,
+ "page": "https://www.legis.ga.gov/legislation/70073",
+ "document_type": "HB",
+ "number": 341,
+ "legislation_type": "GEN",
+ "caption": "Income tax; certain employers that offer individual coverage health reimbursement arrangements to employees; create tax credit",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to create a tax credit for certain employers that offer individual coverage health reimbursement arrangements to employees; to provide for terms, conditions, and limitations; to provide for preapproval; to provide for aggregate annual limits; to provide for rules and regulations; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:54:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-03T18:32:53",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-03-04T11:09:38",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-03-06T10:02:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-03-06T22:43:45",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235297,
+   "label": "LC 50 1205S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235297"
+  },
+  {
+   "doc_id": 234982,
+   "label": "LC 50 1203S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234982"
+  },
+  {
+   "doc_id": 231685,
+   "label": "LC 50 1065/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231685"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:07+00:00",
+  "version:235297": "2026-11-20T18:33:07+00:00",
+  "version:234982": "2026-11-20T18:33:07+00:00",
+  "version:231685": "2026-11-20T18:33:07+00:00",
+  "status:40": "2026-11-20T18:33:07+00:00",
+  "status:33": "2026-11-20T18:33:07+00:00",
+  "status:34": "2026-11-20T18:33:07+00:00",
+  "status:39": "2026-11-20T18:33:07+00:00",
+  "status:50": "2026-11-20T18:33:07+00:00"
+ },
+ "updated": "2026-11-20T18:33:07+00:00"
+}

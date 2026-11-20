@@ -1,0 +1,88 @@
+{
+ "key": "HB 681",
+ "slug": "hb681",
+ "session": "2025_26",
+ "legislation_id": 71002,
+ "page": "https://www.legis.ga.gov/legislation/71002",
+ "document_type": "HB",
+ "number": 681,
+ "legislation_type": "GEN",
+ "caption": "Domestic relations; sealing of name change petitions upon request; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 19 of the Official Code of Georgia Annotated, relating to name changes, so as to provide for the sealing of name change petitions upon request; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:26:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234471,
+   "label": "LC 48 1538/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234471"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:51+00:00",
+  "version:234471": "2026-11-20T18:48:51+00:00",
+  "status:40": "2026-11-20T18:48:51+00:00",
+  "status:33": "2026-11-20T18:48:51+00:00",
+  "status:34": "2026-11-20T18:48:51+00:00"
+ },
+ "updated": "2026-11-20T18:48:51+00:00"
+}

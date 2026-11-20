@@ -1,0 +1,61 @@
+{
+ "key": "HR 1312",
+ "slug": "hr1312",
+ "session": "2025_26",
+ "legislation_id": 73094,
+ "page": "https://www.legis.ga.gov/legislation/73094",
+ "document_type": "HR",
+ "number": 1312,
+ "legislation_type": "PRIV",
+ "caption": "Adams, Brad; recipient of the Engineering and Environmental Services Champion award; commend",
+ "summary": "A RESOLUTION recognizing and commending Brad Adams, recipient of the Engineering and Environmental Services Champion award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:10:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242253,
+   "label": "LC 129 9014/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242253"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:23+00:00",
+  "version:242253": "2026-11-20T20:00:23+00:00",
+  "status:40": "2026-11-20T20:00:23+00:00",
+  "status:33": "2026-11-20T20:00:23+00:00",
+  "status:48": "2026-11-20T20:00:23+00:00"
+ },
+ "updated": "2026-11-20T20:00:23+00:00"
+}

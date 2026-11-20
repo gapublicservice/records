@@ -1,0 +1,95 @@
+{
+ "key": "HB 1184",
+ "slug": "hb1184",
+ "session": "2025_26",
+ "legislation_id": 72826,
+ "page": "https://www.legis.ga.gov/legislation/72826",
+ "document_type": "HB",
+ "number": 1184,
+ "legislation_type": "GEN",
+ "caption": "Military; treat retired officers the same as warrant officers and enlisted persons at the same grade as such members earned during their military service",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 1 of Chapter 2 of Title 38 of the Official Code of Georgia Annotated, relating to state militia generally, so as to treat retired officers the same as warrant officers and enlisted persons for purposes of transferring members of the organized militia to the state retired list at the same grade as such members earned during their military service; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Defense & Veterans Affairs",
+   "id": 90
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-04T10:59:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T10:31:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T09:34:47",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-12T10:13:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241477,
+   "label": "LC 46 1304/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241477"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:12:50+00:00",
+  "version:241477": "2026-11-20T19:12:50+00:00",
+  "status:40": "2026-11-20T19:12:50+00:00",
+  "status:33": "2026-11-20T19:12:50+00:00",
+  "status:34": "2026-11-20T19:12:50+00:00",
+  "status:39": "2026-11-20T19:12:50+00:00"
+ },
+ "updated": "2026-11-20T19:12:50+00:00"
+}

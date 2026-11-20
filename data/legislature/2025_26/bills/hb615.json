@@ -1,0 +1,135 @@
+{
+ "key": "HB 615",
+ "slug": "hb615",
+ "session": "2025_26",
+ "legislation_id": 70745,
+ "page": "https://www.legis.ga.gov/legislation/70745",
+ "document_type": "HB",
+ "number": 615,
+ "legislation_type": "LOC",
+ "caption": "Chatham County Recreation Authority; abolish current authority memberships; provide new board membership",
+ "summary": "A BILL to be entitled an Act to amend an Act creating the Chatham County Recreation Authority, approved April 5, 1995 (Ga. L. 1995, p. 4281), so as to abolish the current authority memberships; to provide for new board membership; to provide terms of office; to revise quorum requirements; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:04:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:16",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-04T10:45:21",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-03-25T10:17:45",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-03-25T10:33:56",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236996,
+   "label": "LC 47 9005S/hs",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236996"
+  },
+  {
+   "doc_id": 233672,
+   "label": "LC 47 3401/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233672"
+  },
+  {
+   "doc_id": 233677,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233677"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:44+00:00",
+  "version:236996": "2026-11-20T18:45:44+00:00",
+  "version:233672": "2026-11-20T18:45:44+00:00",
+  "version:233677": "2026-11-20T18:45:44+00:00",
+  "status:40": "2026-11-20T18:45:44+00:00",
+  "status:33": "2026-11-20T18:45:44+00:00",
+  "status:34": "2026-11-20T18:45:44+00:00",
+  "status:39": "2026-11-20T18:45:44+00:00",
+  "status:50": "2026-11-20T18:45:44+00:00"
+ },
+ "updated": "2026-11-20T18:45:44+00:00"
+}

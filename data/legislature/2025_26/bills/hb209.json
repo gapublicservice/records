@@ -1,0 +1,88 @@
+{
+ "key": "HB 209",
+ "slug": "hb209",
+ "session": "2025_26",
+ "legislation_id": 69730,
+ "page": "https://www.legis.ga.gov/legislation/69730",
+ "document_type": "HB",
+ "number": 209,
+ "legislation_type": "GEN",
+ "caption": "Health; designate emergency medical services, including ambulance service, as an essential service",
+ "summary": "A BILL to be entitled an Act to amend Chapter 11 of Title 31 of the Official Code of Georgia Annotated, relating to emergency medical services, so as to designate emergency medical services, including ambulance service, as essential services in this state; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:13:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230855,
+   "label": "LC 46 1035/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230855"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:37+00:00",
+  "version:230855": "2026-11-20T18:26:37+00:00",
+  "status:40": "2026-11-20T18:26:37+00:00",
+  "status:33": "2026-11-20T18:26:37+00:00",
+  "status:34": "2026-11-20T18:26:37+00:00"
+ },
+ "updated": "2026-11-20T18:26:37+00:00"
+}

@@ -1,0 +1,136 @@
+{
+ "key": "HB 969",
+ "slug": "hb969",
+ "session": "2025_26",
+ "legislation_id": 72218,
+ "page": "https://www.legis.ga.gov/legislation/72218",
+ "document_type": "HB",
+ "number": 969,
+ "legislation_type": "GEN",
+ "caption": "Georgia State Employees Post-employment Health Benefit Fund; certain fund beneficiaries to not be disqualified from postretirement health benefits; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to the Georgia State Employees Post-employment Health Benefit Fund, so as to provide for certain fund beneficiaries to not be disqualified from the provision of postretirement health benefits under the Georgia State Employees Post-employment Health Benefit Fund; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-14T12:25:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-15T10:52:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T08:36:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-12T12:08:07",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-02-18T11:29:20",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T10:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245255,
+   "label": "LC 52 1025S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245255"
+  },
+  {
+   "doc_id": 242571,
+   "label": "LC 52 1017S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242571"
+  },
+  {
+   "doc_id": 239833,
+   "label": "LC 52 0949/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239833"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:03:54+00:00",
+  "version:245255": "2026-11-20T19:03:54+00:00",
+  "version:242571": "2026-11-20T19:03:54+00:00",
+  "version:239833": "2026-11-20T19:03:54+00:00",
+  "status:40": "2026-11-20T19:03:54+00:00",
+  "status:33": "2026-11-20T19:03:54+00:00",
+  "status:34": "2026-11-20T19:03:54+00:00",
+  "status:39": "2026-11-20T19:03:54+00:00",
+  "status:50": "2026-11-20T19:03:54+00:00"
+ },
+ "updated": "2026-11-20T19:03:54+00:00"
+}

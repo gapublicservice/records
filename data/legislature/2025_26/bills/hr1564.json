@@ -1,0 +1,61 @@
+{
+ "key": "HR 1564",
+ "slug": "hr1564",
+ "session": "2025_26",
+ "legislation_id": 73838,
+ "page": "https://www.legis.ga.gov/legislation/73838",
+ "document_type": "HR",
+ "number": 1564,
+ "legislation_type": "PRIV",
+ "caption": "Wright, Charlotte; commend",
+ "summary": "A RESOLUTION recognizing and commending Charlotte Wright; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:03:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244829,
+   "label": "LC 129 1311/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244829"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:16+00:00",
+  "version:244829": "2026-11-20T20:06:16+00:00",
+  "status:40": "2026-11-20T20:06:16+00:00",
+  "status:33": "2026-11-20T20:06:16+00:00",
+  "status:48": "2026-11-20T20:06:16+00:00"
+ },
+ "updated": "2026-11-20T20:06:16+00:00"
+}

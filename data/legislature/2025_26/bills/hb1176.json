@@ -1,0 +1,95 @@
+{
+ "key": "HB 1176",
+ "slug": "hb1176",
+ "session": "2025_26",
+ "legislation_id": 72787,
+ "page": "https://www.legis.ga.gov/legislation/72787",
+ "document_type": "HB",
+ "number": 1176,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; sale of any tangible personal property used or consumed in connection with the generation, transmission, distribution, sale, or furnishing of electricity; exempt",
+ "summary": "A BILL to be entitled an Act to amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, so as to exempt from sales and use taxes the sale of any tangible personal property used or consumed in connection with the generation, transmission, distribution, sale, or furnishing of electricity; to provide for a start date for such exemption; to provide a definition; to provide for exceptions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-03T12:08:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T10:31:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T10:11:09",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241351,
+   "label": "LC 56 0543/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241351"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:12:31+00:00",
+  "version:241351": "2026-11-20T19:12:31+00:00",
+  "status:40": "2026-11-20T19:12:31+00:00",
+  "status:33": "2026-11-20T19:12:31+00:00",
+  "status:34": "2026-11-20T19:12:31+00:00"
+ },
+ "updated": "2026-11-20T19:12:31+00:00"
+}

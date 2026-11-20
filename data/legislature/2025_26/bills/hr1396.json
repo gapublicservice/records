@@ -1,0 +1,61 @@
+{
+ "key": "HR 1396",
+ "slug": "hr1396",
+ "session": "2025_26",
+ "legislation_id": 73391,
+ "page": "https://www.legis.ga.gov/legislation/73391",
+ "document_type": "HR",
+ "number": 1396,
+ "legislation_type": "PRIV",
+ "caption": "Coker, Jim; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Jim Coker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:41:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:09:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:09:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243169,
+   "label": "LC 129 1072/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243169"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:33+00:00",
+  "version:243169": "2026-11-20T20:02:33+00:00",
+  "status:40": "2026-11-20T20:02:33+00:00",
+  "status:33": "2026-11-20T20:02:33+00:00",
+  "status:48": "2026-11-20T20:02:33+00:00"
+ },
+ "updated": "2026-11-20T20:02:33+00:00"
+}

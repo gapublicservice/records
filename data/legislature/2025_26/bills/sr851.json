@@ -1,0 +1,109 @@
+{
+ "key": "SR 851",
+ "slug": "sr851",
+ "session": "2025_26",
+ "legislation_id": 73605,
+ "page": "https://www.legis.ga.gov/legislation/73605",
+ "document_type": "SR",
+ "number": 851,
+ "legislation_type": "NP",
+ "caption": "Georgia Senate; creation of a life sciences caucus; encourage",
+ "summary": "A RESOLUTION encouraging the creation of a life sciences caucus in the Georgia Senate; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 751,
+   "name": "Ginn, Frank 47th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T14:51:46",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-25T10:16:28",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243901,
+   "label": "As introduced LC 52 1038",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243901"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:10:13+00:00",
+  "version:243901": "2026-11-20T21:10:13+00:00",
+  "status:67": "2026-11-20T21:10:13+00:00",
+  "status:3": "2026-11-20T21:10:13+00:00"
+ },
+ "updated": "2026-11-20T21:10:13+00:00"
+}

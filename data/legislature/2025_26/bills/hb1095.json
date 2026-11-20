@@ -1,0 +1,122 @@
+{
+ "key": "HB 1095",
+ "slug": "hb1095",
+ "session": "2025_26",
+ "legislation_id": 72611,
+ "page": "https://www.legis.ga.gov/legislation/72611",
+ "document_type": "HB",
+ "number": 1095,
+ "legislation_type": "GEN",
+ "caption": "Fire protection and safety; establish permanent consumer fireworks sales facilities",
+ "summary": "A BILL to be entitled an Act to amend Chapter 10 of Title 25 of the Official Code of Georgia Annotated, relating to regulation of fireworks, so as to establish permanent consumer fireworks sales facilities; to establish temporary consumer fireworks sales facilities; to increase the number of temporary consumer retail fireworks sales facilities a distributor may operate; to provide for definitions; to revise penalties for violations of such chapter; to amend Chapter 60 of Title 36 of the Official Code of Georgia Annotated, relating to general provisions applicable to counties and municipal corporations, so as to make conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:12:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-18T08:38:45",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-04T19:43:46",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T13:35:24",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245313,
+   "label": "LC 64 0091S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245313"
+  },
+  {
+   "doc_id": 242950,
+   "label": "LC 64 0069S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242950"
+  },
+  {
+   "doc_id": 240929,
+   "label": "LC 64 0036/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240929"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:01+00:00",
+  "version:245313": "2026-11-20T19:09:01+00:00",
+  "version:242950": "2026-11-20T19:09:01+00:00",
+  "version:240929": "2026-11-20T19:09:01+00:00",
+  "status:40": "2026-11-20T19:09:01+00:00",
+  "status:33": "2026-11-20T19:09:01+00:00",
+  "status:34": "2026-11-20T19:09:01+00:00",
+  "status:39": "2026-11-20T19:09:01+00:00",
+  "status:50": "2026-11-20T19:09:01+00:00"
+ },
+ "updated": "2026-11-20T19:09:01+00:00"
+}

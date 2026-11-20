@@ -1,0 +1,102 @@
+{
+ "key": "HB 138",
+ "slug": "hb138",
+ "session": "2025_26",
+ "legislation_id": 69538,
+ "page": "https://www.legis.ga.gov/legislation/69538",
+ "document_type": "HB",
+ "number": 138,
+ "legislation_type": "GEN",
+ "caption": "Georgia Peace Officer Standards and Training Council; establish basic and in-service training courses on de-escalation techniques and methods",
+ "summary": "A BILL to be entitled an Act to amend Code Section 35-8-7 of the Official Code of Georgia Annotated, relating to the powers and duties of the Georgia Peace Officer Standards and Training Council, so as establish basic and in-service training courses on de-escalation techniques and methods; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:29:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:18",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235031,
+   "label": "LC 56 0367S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235031"
+  },
+  {
+   "doc_id": 230376,
+   "label": "LC 39 4473/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230376"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:22:51+00:00",
+  "version:235031": "2026-11-20T18:22:51+00:00",
+  "version:230376": "2026-11-20T18:22:51+00:00",
+  "status:40": "2026-11-20T18:22:51+00:00",
+  "status:33": "2026-11-20T18:22:51+00:00",
+  "status:34": "2026-11-20T18:22:51+00:00",
+  "status:39": "2026-11-20T18:22:51+00:00",
+  "status:50": "2026-11-20T18:22:51+00:00"
+ },
+ "updated": "2026-11-20T18:22:51+00:00"
+}

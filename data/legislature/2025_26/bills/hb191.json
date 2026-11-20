@@ -1,0 +1,102 @@
+{
+ "key": "HB 191",
+ "slug": "hb191",
+ "session": "2025_26",
+ "legislation_id": 69687,
+ "page": "https://www.legis.ga.gov/legislation/69687",
+ "document_type": "HB",
+ "number": 191,
+ "legislation_type": "GEN",
+ "caption": "Family violence; substitute service when respondent is avoiding service to delay a hearing; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 13 of Title 19 of the Official Code of Georgia Annotated, relating to family violence, so as to provide for substitute service when respondent is avoiding service to delay a hearing; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T12:01:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T10:14:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T10:08:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230708,
+   "label": "LC 48 1403/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230708"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:25:53+00:00",
+  "version:230708": "2026-11-20T18:25:53+00:00",
+  "status:40": "2026-11-20T18:25:53+00:00",
+  "status:33": "2026-11-20T18:25:53+00:00",
+  "status:34": "2026-11-20T18:25:53+00:00"
+ },
+ "updated": "2026-11-20T18:25:53+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1028",
+ "slug": "hr1028",
+ "session": "2025_26",
+ "legislation_id": 72269,
+ "page": "https://www.legis.ga.gov/legislation/72269",
+ "document_type": "HR",
+ "number": 1028,
+ "legislation_type": "PRIV",
+ "caption": "Fakorede, Dr. Foluso A.; commend",
+ "summary": "A RESOLUTION commending and recognizing Dr. Foluso A. Fakorede by the House of Representatives; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-15T13:18:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-15T13:38:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-15T13:39:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239976,
+   "label": "LC 129 0560/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239976"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:54+00:00",
+  "version:239976": "2026-11-20T19:53:54+00:00",
+  "status:40": "2026-11-20T19:53:54+00:00",
+  "status:33": "2026-11-20T19:53:54+00:00",
+  "status:48": "2026-11-20T19:53:54+00:00"
+ },
+ "updated": "2026-11-20T19:53:54+00:00"
+}

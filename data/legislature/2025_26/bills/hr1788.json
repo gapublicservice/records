@@ -1,0 +1,102 @@
+{
+ "key": "HR 1788",
+ "slug": "hr1788",
+ "session": "2025_26",
+ "legislation_id": 74217,
+ "page": "https://www.legis.ga.gov/legislation/74217",
+ "document_type": "HR",
+ "number": 1788,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Responsible Use of Artificial Intelligence; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Responsible Use of Artificial Intelligence; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T13:58:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T10:34:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T10:10:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246405,
+   "label": "LC 64 0098/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246405"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:06+00:00",
+  "version:246405": "2026-11-20T20:11:06+00:00",
+  "status:40": "2026-11-20T20:11:06+00:00",
+  "status:33": "2026-11-20T20:11:06+00:00",
+  "status:34": "2026-11-20T20:11:06+00:00"
+ },
+ "updated": "2026-11-20T20:11:06+00:00"
+}

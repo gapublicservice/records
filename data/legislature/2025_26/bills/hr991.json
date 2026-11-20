@@ -1,0 +1,89 @@
+{
+ "key": "HR 991",
+ "slug": "hr991",
+ "session": "2025_26",
+ "legislation_id": 72120,
+ "page": "https://www.legis.ga.gov/legislation/72120",
+ "document_type": "HR",
+ "number": 991,
+ "legislation_type": "PRIV",
+ "caption": "Coffee, Craig; commend",
+ "summary": "A RESOLUTION recognizing and commending Craig Coffee; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T10:01:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239416,
+   "label": "LC 129 0505/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239416"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:59+00:00",
+  "version:239416": "2026-11-20T19:52:59+00:00",
+  "status:40": "2026-11-20T19:52:59+00:00",
+  "status:33": "2026-11-20T19:52:59+00:00",
+  "status:48": "2026-11-20T19:52:59+00:00"
+ },
+ "updated": "2026-11-20T19:52:59+00:00"
+}

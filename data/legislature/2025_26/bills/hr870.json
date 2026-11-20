@@ -1,0 +1,89 @@
+{
+ "key": "HR 870",
+ "slug": "hr870",
+ "session": "2025_26",
+ "legislation_id": 71903,
+ "page": "https://www.legis.ga.gov/legislation/71903",
+ "document_type": "HR",
+ "number": 870,
+ "legislation_type": "PRIV",
+ "caption": "Thomas, Jade; one of 10 finalists for the 2026 Georgia Teacher of the Year; commend",
+ "summary": "A RESOLUTION commending Jade Thomas, one of 10 finalists for the 2026 Georgia Teacher of the Year; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:10:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T14:42:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T14:42:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238320,
+   "label": "LC 129 0444/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238320"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:20+00:00",
+  "version:238320": "2026-11-20T19:50:20+00:00",
+  "status:40": "2026-11-20T19:50:20+00:00",
+  "status:33": "2026-11-20T19:50:20+00:00",
+  "status:48": "2026-11-20T19:50:20+00:00"
+ },
+ "updated": "2026-11-20T19:50:20+00:00"
+}

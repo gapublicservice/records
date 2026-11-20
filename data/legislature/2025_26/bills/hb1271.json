@@ -1,0 +1,102 @@
+{
+ "key": "HB 1271",
+ "slug": "hb1271",
+ "session": "2025_26",
+ "legislation_id": 73076,
+ "page": "https://www.legis.ga.gov/legislation/73076",
+ "document_type": "HB",
+ "number": 1271,
+ "legislation_type": "GEN",
+ "caption": "Education; revise definition of education record to correct a cross-reference; provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-720  of the Official Code of Georgia Annotated, relating to inspection of students' records by parents or legal custodians, so as to revise the definition of the term \"education record\" to correct a cross-reference; to expand provisions for the inspection and review of student education records by parents and legal custodians; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T12:36:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T10:36:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T10:18:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242196,
+   "label": "LC 49 2434/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242196"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:52+00:00",
+  "version:242196": "2026-11-20T19:16:52+00:00",
+  "status:40": "2026-11-20T19:16:52+00:00",
+  "status:33": "2026-11-20T19:16:52+00:00",
+  "status:34": "2026-11-20T19:16:52+00:00"
+ },
+ "updated": "2026-11-20T19:16:52+00:00"
+}

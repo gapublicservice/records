@@ -1,0 +1,89 @@
+{
+ "key": "HR 764",
+ "slug": "hr764",
+ "session": "2025_26",
+ "legislation_id": 71742,
+ "page": "https://www.legis.ga.gov/legislation/71742",
+ "document_type": "HR",
+ "number": 764,
+ "legislation_type": "PRIV",
+ "caption": "Savannah Feed the Hungry; commend",
+ "summary": "A RESOLUTION commending Savannah Feed the Hungry; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:45:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:14",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237650,
+   "label": "LC 112 3486/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237650"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:02+00:00",
+  "version:237650": "2026-11-20T19:48:02+00:00",
+  "status:40": "2026-11-20T19:48:02+00:00",
+  "status:33": "2026-11-20T19:48:02+00:00",
+  "status:48": "2026-11-20T19:48:02+00:00"
+ },
+ "updated": "2026-11-20T19:48:02+00:00"
+}

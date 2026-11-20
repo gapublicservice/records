@@ -1,0 +1,82 @@
+{
+ "key": "SR 1020",
+ "slug": "sr1020",
+ "session": "2025_26",
+ "legislation_id": 74371,
+ "page": "https://www.legis.ga.gov/legislation/74371",
+ "document_type": "SR",
+ "number": 1020,
+ "legislation_type": "PRIV",
+ "caption": "Johnson, Dr. Stephanie; recognize",
+ "summary": "A RESOLUTION recognizing and commending Dr. Stephanie Johnson for her dedicated service to the Georgia Department of Education (GaDOE); and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T14:56:11",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-25T12:19:42",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247088,
+   "label": "Read and adopted LC 112 4029",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247088"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:04+00:00",
+  "version:247088": "2026-11-20T21:14:04+00:00",
+  "status:67": "2026-11-20T21:14:04+00:00",
+  "status:66": "2026-11-20T21:14:04+00:00"
+ },
+ "updated": "2026-11-20T21:14:04+00:00"
+}

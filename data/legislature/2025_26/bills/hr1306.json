@@ -1,0 +1,61 @@
+{
+ "key": "HR 1306",
+ "slug": "hr1306",
+ "session": "2025_26",
+ "legislation_id": 73088,
+ "page": "https://www.legis.ga.gov/legislation/73088",
+ "document_type": "HR",
+ "number": 1306,
+ "legislation_type": "PRIV",
+ "caption": "Raines, Lula; August Georgia; grand milestone of 90th birthday; recognize",
+ "summary": "A RESOLUTION honoring Lula Raines of Augusta, Georgia, as she reaches the grand milestone of her 90th birthday; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:08:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242245,
+   "label": "LC 129 0963/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242245"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:14+00:00",
+  "version:242245": "2026-11-20T20:00:14+00:00",
+  "status:40": "2026-11-20T20:00:14+00:00",
+  "status:33": "2026-11-20T20:00:14+00:00",
+  "status:48": "2026-11-20T20:00:14+00:00"
+ },
+ "updated": "2026-11-20T20:00:14+00:00"
+}

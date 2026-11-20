@@ -1,0 +1,89 @@
+{
+ "key": "HR 1268",
+ "slug": "hr1268",
+ "session": "2025_26",
+ "legislation_id": 72942,
+ "page": "https://www.legis.ga.gov/legislation/72942",
+ "document_type": "HR",
+ "number": 1268,
+ "legislation_type": "PRIV",
+ "caption": "Neal, Reverend Corey J.; occasion of his 18th pastoral anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending  Reverend Corey J. Neal on the occasion of his 18th pastoral anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-05T14:03:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T14:39:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T14:39:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241766,
+   "label": "LC 129 0910/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241766"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:19+00:00",
+  "version:241766": "2026-11-20T19:59:19+00:00",
+  "status:40": "2026-11-20T19:59:19+00:00",
+  "status:33": "2026-11-20T19:59:19+00:00",
+  "status:48": "2026-11-20T19:59:19+00:00"
+ },
+ "updated": "2026-11-20T19:59:19+00:00"
+}

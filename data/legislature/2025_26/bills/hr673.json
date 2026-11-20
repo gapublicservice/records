@@ -1,0 +1,61 @@
+{
+ "key": "HR 673",
+ "slug": "hr673",
+ "session": "2025_26",
+ "legislation_id": 71526,
+ "page": "https://www.legis.ga.gov/legislation/71526",
+ "document_type": "HR",
+ "number": 673,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Clifford Walker, Sr.; commend",
+ "summary": "A RESOLUTION commending and congratulating Clifford Walker Jones Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:47:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236755,
+   "label": "LC 112 3375/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236755"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:51+00:00",
+  "version:236755": "2026-11-20T19:45:51+00:00",
+  "status:40": "2026-11-20T19:45:51+00:00",
+  "status:33": "2026-11-20T19:45:51+00:00",
+  "status:48": "2026-11-20T19:45:51+00:00"
+ },
+ "updated": "2026-11-20T19:45:51+00:00"
+}

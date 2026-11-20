@@ -1,0 +1,68 @@
+{
+ "key": "HR 1689",
+ "slug": "hr1689",
+ "session": "2025_26",
+ "legislation_id": 74071,
+ "page": "https://www.legis.ga.gov/legislation/74071",
+ "document_type": "HR",
+ "number": 1689,
+ "legislation_type": "PRIV",
+ "caption": "Flowers, Mrs. Nancy \"Nan\" McClellan; commend",
+ "summary": "A RESOLUTION recognizing and commending Mrs. Nancy \"Nan\" McClellan Flowers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:45:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:15:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245825,
+   "label": "LC 112 3891/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245825"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:58+00:00",
+  "version:245825": "2026-11-20T20:08:58+00:00",
+  "status:40": "2026-11-20T20:08:58+00:00",
+  "status:33": "2026-11-20T20:08:58+00:00",
+  "status:48": "2026-11-20T20:08:58+00:00"
+ },
+ "updated": "2026-11-20T20:08:58+00:00"
+}

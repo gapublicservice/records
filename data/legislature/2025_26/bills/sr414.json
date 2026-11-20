@@ -1,0 +1,67 @@
+{
+ "key": "SR 414",
+ "slug": "sr414",
+ "session": "2025_26",
+ "legislation_id": 71425,
+ "page": "https://www.legis.ga.gov/legislation/71425",
+ "document_type": "SR",
+ "number": 414,
+ "legislation_type": "GEN",
+ "caption": "Deputy Daryl Smallwood Memorial Bridge; Peach County; dedicate",
+ "summary": "A RESOLUTION honoring the life and memory of Deputy Daryl Wayne Smallwood and dedicating a bridge in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-18T15:04:01",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-20T10:11:21",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236313,
+   "label": "As introduced LC 39 4760",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236313"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:47+00:00",
+  "version:236313": "2026-11-20T20:59:47+00:00",
+  "status:67": "2026-11-20T20:59:47+00:00",
+  "status:3": "2026-11-20T20:59:47+00:00"
+ },
+ "updated": "2026-11-20T20:59:47+00:00"
+}

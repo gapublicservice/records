@@ -1,0 +1,109 @@
+{
+ "key": "HB 515",
+ "slug": "hb515",
+ "session": "2025_26",
+ "legislation_id": 70488,
+ "page": "https://www.legis.ga.gov/legislation/70488",
+ "document_type": "HB",
+ "number": 515,
+ "legislation_type": "GEN",
+ "caption": "Augusta Judicial Circuit; superior courts; provide for a sixth judge",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-6-2 of the O.C.G.A., relating to the number of judges of superior courts, so as to provide for a sixth judge of the superior courts of the Augusta Judicial Circuit; to provide for the appointment of such additional judge by the Governor; to provide for related matters; to provide for effective dates; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:18:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-04T18:45:15",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232903,
+   "label": "LC 47 3414/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232903"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:16+00:00",
+  "version:232903": "2026-11-20T18:41:16+00:00",
+  "status:40": "2026-11-20T18:41:16+00:00",
+  "status:33": "2026-11-20T18:41:16+00:00",
+  "status:34": "2026-11-20T18:41:16+00:00",
+  "status:39": "2026-11-20T18:41:16+00:00",
+  "status:50": "2026-11-20T18:41:16+00:00"
+ },
+ "updated": "2026-11-20T18:41:16+00:00"
+}

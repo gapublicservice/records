@@ -1,0 +1,95 @@
+{
+ "key": "HB 18",
+ "slug": "hb18",
+ "session": "2025_26",
+ "legislation_id": 69298,
+ "page": "https://www.legis.ga.gov/legislation/69298",
+ "document_type": "HB",
+ "number": 18,
+ "legislation_type": "GEN",
+ "caption": "Dual Enrollment Act; residency requirement for eligible students; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-161.3 of the Official Code of Georgia Annotated, relating to the Dual Enrollment Act, purpose, dual credit courses, eligibility for participation, and eligibility for payment, so as to provide for a residency requirement for eligible students; to provide for an effective date and for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:33:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229795,
+   "label": "LC 49 2018/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229795"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:42+00:00",
+  "version:229795": "2026-11-20T18:16:42+00:00",
+  "status:40": "2026-11-20T18:16:42+00:00",
+  "status:33": "2026-11-20T18:16:42+00:00",
+  "status:34": "2026-11-20T18:16:42+00:00"
+ },
+ "updated": "2026-11-20T18:16:42+00:00"
+}

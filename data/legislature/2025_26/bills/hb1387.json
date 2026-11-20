@@ -1,0 +1,81 @@
+{
+ "key": "HB 1387",
+ "slug": "hb1387",
+ "session": "2025_26",
+ "legislation_id": 73424,
+ "page": "https://www.legis.ga.gov/legislation/73424",
+ "document_type": "HB",
+ "number": 1387,
+ "legislation_type": "GEN",
+ "caption": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem property taxes on data centers",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to property tax exemptions and deferral, so as to provide for a state-wide homestead exemption from ad valorem taxes  in an amount as determined from the proceeds generated from the collection of certain ad valorem property taxes on data centers; to provide for definitions; to specify the terms and conditions of the exemption and the procedures relating thereto; to provide for applicability; to provide for related matters; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, and automatic repeal; to provide for contingent repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T11:31:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243290,
+   "label": "LC 44 3436/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243290"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:18+00:00",
+  "version:243290": "2026-11-20T19:21:18+00:00",
+  "status:40": "2026-11-20T19:21:18+00:00",
+  "status:33": "2026-11-20T19:21:18+00:00",
+  "status:34": "2026-11-20T19:21:18+00:00"
+ },
+ "updated": "2026-11-20T19:21:18+00:00"
+}

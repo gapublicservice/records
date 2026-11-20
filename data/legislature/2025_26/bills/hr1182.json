@@ -1,0 +1,96 @@
+{
+ "key": "HR 1182",
+ "slug": "hr1182",
+ "session": "2025_26",
+ "legislation_id": 72745,
+ "page": "https://www.legis.ga.gov/legislation/72745",
+ "document_type": "HR",
+ "number": 1182,
+ "legislation_type": "PRIV",
+ "caption": "The Harvest Tabernacle Church; 25th anniversary; recognize",
+ "summary": "A RESOLUTION congratulating The Harvest Tabernacle Church upon its 25th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-02T13:16:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T14:03:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T14:03:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241223,
+   "label": "LC 129 0869/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241223"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:21+00:00",
+  "version:241223": "2026-11-20T19:57:21+00:00",
+  "status:40": "2026-11-20T19:57:21+00:00",
+  "status:33": "2026-11-20T19:57:21+00:00",
+  "status:48": "2026-11-20T19:57:21+00:00"
+ },
+ "updated": "2026-11-20T19:57:21+00:00"
+}

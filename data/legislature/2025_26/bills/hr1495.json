@@ -1,0 +1,75 @@
+{
+ "key": "HR 1495",
+ "slug": "hr1495",
+ "session": "2025_26",
+ "legislation_id": 73685,
+ "page": "https://www.legis.ga.gov/legislation/73685",
+ "document_type": "HR",
+ "number": 1495,
+ "legislation_type": "PRIV",
+ "caption": "Payne, Susan; Unity Christian School's 2025-2026 STAR Teacher; commend",
+ "summary": "A RESOLUTION commending Susan Payne, Unity Christian School's 2025-2026 STAR Teacher; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T15:00:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T16:24:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T16:24:41",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244170,
+   "label": "LC 129 1207/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244170"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:47+00:00",
+  "version:244170": "2026-11-20T20:04:47+00:00",
+  "status:40": "2026-11-20T20:04:47+00:00",
+  "status:33": "2026-11-20T20:04:47+00:00",
+  "status:48": "2026-11-20T20:04:47+00:00"
+ },
+ "updated": "2026-11-20T20:04:47+00:00"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "HR 653",
+ "slug": "hr653",
+ "session": "2025_26",
+ "legislation_id": 71493,
+ "page": "https://www.legis.ga.gov/legislation/71493",
+ "document_type": "HR",
+ "number": 653,
+ "legislation_type": "GEN",
+ "caption": "Veterans Perimeter Road; Coffee County; dedicate",
+ "summary": "A RESOLUTION recognizing United States military veterans and dedicating a highway in their honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T11:06:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236633,
+   "label": "LC 39 4763/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236633"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:18+00:00",
+  "version:236633": "2026-11-20T19:45:18+00:00",
+  "status:40": "2026-11-20T19:45:18+00:00",
+  "status:33": "2026-11-20T19:45:18+00:00",
+  "status:34": "2026-11-20T19:45:18+00:00"
+ },
+ "updated": "2026-11-20T19:45:18+00:00"
+}

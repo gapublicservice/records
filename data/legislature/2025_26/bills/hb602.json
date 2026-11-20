@@ -1,0 +1,123 @@
+{
+ "key": "HB 602",
+ "slug": "hb602",
+ "session": "2025_26",
+ "legislation_id": 70728,
+ "page": "https://www.legis.ga.gov/legislation/70728",
+ "document_type": "HB",
+ "number": 602,
+ "legislation_type": "GEN",
+ "caption": "Education; denial of state funds for loans, grants, and scholarships for any student convicted of a criminal offense; provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to provide for the denial of state funds for loans, grants, and scholarships for any student who is convicted of a criminal offense or who is determined by the postsecondary educational institution at which such student is enrolled to have violated a postsecondary educational institution's code of conduct for students when such conviction or determination is a result of a student engaging in materially and substantially disruptive conduct on such postsecondary educational institution's campus; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T11:51:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:57",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235336,
+   "label": "LC 61 0214S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235336"
+  },
+  {
+   "doc_id": 233629,
+   "label": "LC 61 0093/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233629"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:13+00:00",
+  "version:235336": "2026-11-20T18:45:13+00:00",
+  "version:233629": "2026-11-20T18:45:13+00:00",
+  "status:40": "2026-11-20T18:45:13+00:00",
+  "status:33": "2026-11-20T18:45:13+00:00",
+  "status:34": "2026-11-20T18:45:13+00:00",
+  "status:39": "2026-11-20T18:45:13+00:00",
+  "status:50": "2026-11-20T18:45:13+00:00"
+ },
+ "updated": "2026-11-20T18:45:13+00:00"
+}

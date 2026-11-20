@@ -1,0 +1,102 @@
+{
+ "key": "HB 4",
+ "slug": "hb4",
+ "session": "2025_26",
+ "legislation_id": 69284,
+ "page": "https://www.legis.ga.gov/legislation/69284",
+ "document_type": "HB",
+ "number": 4,
+ "legislation_type": "GEN",
+ "caption": "Brady Law Regulations; three-day waiting period for purchase or transfer of certain firearms; require",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to Brady Law Regulations, so as to require a three-day waiting period for the purchase or transfer of certain firearms; to provide for inspection; to provide for exceptions; to provide for criminal penalties; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:03:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229751,
+   "label": "LC 57 0152/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229751"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:08+00:00",
+  "version:229751": "2026-11-20T18:16:08+00:00",
+  "status:40": "2026-11-20T18:16:08+00:00",
+  "status:33": "2026-11-20T18:16:08+00:00",
+  "status:34": "2026-11-20T18:16:08+00:00"
+ },
+ "updated": "2026-11-20T18:16:08+00:00"
+}

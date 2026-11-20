@@ -1,0 +1,75 @@
+{
+ "key": "HR 1994",
+ "slug": "hr1994",
+ "session": "2025_26",
+ "legislation_id": 74565,
+ "page": "https://www.legis.ga.gov/legislation/74565",
+ "document_type": "HR",
+ "number": 1994,
+ "legislation_type": "PRIV",
+ "caption": "Leonard, Madrean Peoples; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Madrean Peoples Leonard; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:06:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247983,
+   "label": "LC 112 4115/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247983"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:31+00:00",
+  "version:247983": "2026-11-20T20:15:31+00:00",
+  "status:40": "2026-11-20T20:15:31+00:00",
+  "status:33": "2026-11-20T20:15:31+00:00",
+  "status:48": "2026-11-20T20:15:31+00:00"
+ },
+ "updated": "2026-11-20T20:15:31+00:00"
+}

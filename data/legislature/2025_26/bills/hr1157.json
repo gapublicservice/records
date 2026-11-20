@@ -1,0 +1,95 @@
+{
+ "key": "HR 1157",
+ "slug": "hr1157",
+ "session": "2025_26",
+ "legislation_id": 72631,
+ "page": "https://www.legis.ga.gov/legislation/72631",
+ "document_type": "HR",
+ "number": 1157,
+ "legislation_type": "NP",
+ "caption": "United States national motto; reaffirm support",
+ "summary": "A RESOLUTION reaffirming support of the United States national motto; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:21:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240928,
+   "label": "LC 129 0684/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240928"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:49+00:00",
+  "version:240928": "2026-11-20T19:56:49+00:00",
+  "status:40": "2026-11-20T19:56:49+00:00",
+  "status:33": "2026-11-20T19:56:49+00:00",
+  "status:34": "2026-11-20T19:56:49+00:00"
+ },
+ "updated": "2026-11-20T19:56:49+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1036",
+ "slug": "hr1036",
+ "session": "2025_26",
+ "legislation_id": 72308,
+ "page": "https://www.legis.ga.gov/legislation/72308",
+ "document_type": "HR",
+ "number": 1036,
+ "legislation_type": "PRIV",
+ "caption": "Winslow, Keith B.; honoring the life and legacy; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Keith B. Winslow; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:52:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T12:42:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T12:42:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240063,
+   "label": "LC 129 0628/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240063"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:04+00:00",
+  "version:240063": "2026-11-20T19:54:04+00:00",
+  "status:40": "2026-11-20T19:54:04+00:00",
+  "status:33": "2026-11-20T19:54:04+00:00",
+  "status:48": "2026-11-20T19:54:04+00:00"
+ },
+ "updated": "2026-11-20T19:54:04+00:00"
+}

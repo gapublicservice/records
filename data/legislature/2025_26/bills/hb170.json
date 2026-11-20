@@ -1,0 +1,115 @@
+{
+ "key": "HB 170",
+ "slug": "hb170",
+ "session": "2025_26",
+ "legislation_id": 69647,
+ "page": "https://www.legis.ga.gov/legislation/69647",
+ "document_type": "HB",
+ "number": 170,
+ "legislation_type": "GEN",
+ "caption": "Insurance; benefit provider to disclose certain payments to a treating healthcare provider; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 33 of the Official Code of Georgia Annotated, relating to authorization and general requirements for transaction of insurance, so as to provide for a benefit provider to disclose certain payments to a treating healthcare provider; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T11:28:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T10:14:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T10:08:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-19T11:57:02",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230659,
+   "label": "LC 52 0621/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230659"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:24:37+00:00",
+  "version:230659": "2026-11-20T18:24:37+00:00",
+  "status:40": "2026-11-20T18:24:37+00:00",
+  "status:33": "2026-11-20T18:24:37+00:00",
+  "status:34": "2026-11-20T18:24:37+00:00",
+  "status:39": "2026-11-20T18:24:37+00:00",
+  "status:50": "2026-11-20T18:24:37+00:00"
+ },
+ "updated": "2026-11-20T18:24:37+00:00"
+}

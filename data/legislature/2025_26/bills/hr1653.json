@@ -1,0 +1,61 @@
+{
+ "key": "HR 1653",
+ "slug": "hr1653",
+ "session": "2025_26",
+ "legislation_id": 74001,
+ "page": "https://www.legis.ga.gov/legislation/74001",
+ "document_type": "HR",
+ "number": 1653,
+ "legislation_type": "PRIV",
+ "caption": "Pearce, Mack Allington; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mack Allington Pearce; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-09T14:51:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-09T15:03:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-09T15:03:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245584,
+   "label": "LC 112 3875/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245584"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:12+00:00",
+  "version:245584": "2026-11-20T20:08:12+00:00",
+  "status:40": "2026-11-20T20:08:12+00:00",
+  "status:33": "2026-11-20T20:08:12+00:00",
+  "status:48": "2026-11-20T20:08:12+00:00"
+ },
+ "updated": "2026-11-20T20:08:12+00:00"
+}

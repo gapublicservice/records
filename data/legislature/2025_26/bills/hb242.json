@@ -1,0 +1,116 @@
+{
+ "key": "HB 242",
+ "slug": "hb242",
+ "session": "2025_26",
+ "legislation_id": 69847,
+ "page": "https://www.legis.ga.gov/legislation/69847",
+ "document_type": "HB",
+ "number": 242,
+ "legislation_type": "GEN",
+ "caption": "Crimes and offenses; disorderly or disruptive conduct at any funeral or memorial service; include religious worship and observance",
+ "summary": "A BILL to be entitled an Act to amend Code Section 16-11-34.2 of the Official Code of Georgia Annotated, relating to disorderly or disruptive conduct at any funeral or memorial service, so as to include religious worship and observance; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:04:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-20T10:49:37",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233180,
+   "label": "LC 48 1501S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233180"
+  },
+  {
+   "doc_id": 231167,
+   "label": "LC 48 1427/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231167"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:15+00:00",
+  "version:233180": "2026-11-20T18:28:15+00:00",
+  "version:231167": "2026-11-20T18:28:15+00:00",
+  "status:40": "2026-11-20T18:28:15+00:00",
+  "status:33": "2026-11-20T18:28:15+00:00",
+  "status:34": "2026-11-20T18:28:15+00:00",
+  "status:39": "2026-11-20T18:28:15+00:00",
+  "status:50": "2026-11-20T18:28:15+00:00"
+ },
+ "updated": "2026-11-20T18:28:15+00:00"
+}

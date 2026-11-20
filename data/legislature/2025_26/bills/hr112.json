@@ -1,0 +1,61 @@
+{
+ "key": "HR 112",
+ "slug": "hr112",
+ "session": "2025_26",
+ "legislation_id": 69688,
+ "page": "https://www.legis.ga.gov/legislation/69688",
+ "document_type": "HR",
+ "number": 112,
+ "legislation_type": "PRIV",
+ "caption": "McCoy, Darin; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Darin McCoy on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T12:01:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-29T13:07:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T13:07:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230710,
+   "label": "LC 129 0078/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230710"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:22+00:00",
+  "version:230710": "2026-11-20T19:33:22+00:00",
+  "status:40": "2026-11-20T19:33:22+00:00",
+  "status:33": "2026-11-20T19:33:22+00:00",
+  "status:48": "2026-11-20T19:33:22+00:00"
+ },
+ "updated": "2026-11-20T19:33:22+00:00"
+}

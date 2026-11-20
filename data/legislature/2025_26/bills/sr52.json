@@ -1,0 +1,74 @@
+{
+ "key": "SR 52",
+ "slug": "sr52",
+ "session": "2025_26",
+ "legislation_id": 69558,
+ "page": "https://www.legis.ga.gov/legislation/69558",
+ "document_type": "SR",
+ "number": 52,
+ "legislation_type": "CA",
+ "caption": "Development Impact Fees for Educational Purposes -CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that the General Assembly may by general law authorize local boards of education to impose, levy, and collect development impact fees and use the proceeds to pay for a share of the cost of additional educational facilities; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Economic Development and Tourism",
+   "id": 165
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-28T10:35:02",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T10:20:58",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230412,
+   "label": "As introduced LC 49 2150",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230412"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:30+00:00",
+  "version:230412": "2026-11-20T20:51:30+00:00",
+  "status:67": "2026-11-20T20:51:30+00:00",
+  "status:3": "2026-11-20T20:51:30+00:00"
+ },
+ "updated": "2026-11-20T20:51:30+00:00"
+}

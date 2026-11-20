@@ -1,0 +1,165 @@
+{
+ "key": "SB 26",
+ "slug": "sb26",
+ "session": "2025_26",
+ "legislation_id": 69487,
+ "page": "https://www.legis.ga.gov/legislation/69487",
+ "document_type": "SB",
+ "number": 26,
+ "legislation_type": "GEN",
+ "caption": "State Income Taxes; with regard to military retirement income, to determine and apply a cost-of-living adjustment to the amount of allowable retirement pay; require the state revenue commissioner",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits relative to state income taxes, so as to require the state revenue commissioner, with regard to military retirement income, to determine and apply a cost-of-living adjustment to the amount of allowable retirement pay excluded from Georgia taxable net income; to provide for rules and regulations; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 5015,
+   "name": "Parkes, Nabilah 7th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Finance",
+   "id": 138
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-17T11:43:44",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-27T10:13:49",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-27T09:52:07",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-02-28T10:36:29",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:28:32",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230205,
+   "label": "As Introduced LC 46 0957",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230205"
+  },
+  {
+   "doc_id": 234240,
+   "label": "Fiscal Note",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234240"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:20:27+00:00",
+  "version:230205": "2026-11-20T20:20:27+00:00",
+  "version:234240": "2026-11-20T20:20:27+00:00",
+  "status:67": "2026-11-20T20:20:27+00:00",
+  "status:3": "2026-11-20T20:20:27+00:00",
+  "status:8": "2026-11-20T20:20:27+00:00",
+  "status:10": "2026-11-20T20:20:27+00:00",
+  "status:103": "2026-11-20T20:20:27+00:00"
+ },
+ "updated": "2026-11-20T20:20:27+00:00"
+}

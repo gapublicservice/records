@@ -1,0 +1,95 @@
+{
+ "key": "HR 1639",
+ "slug": "hr1639",
+ "session": "2025_26",
+ "legislation_id": 73976,
+ "page": "https://www.legis.ga.gov/legislation/73976",
+ "document_type": "HR",
+ "number": 1639,
+ "legislation_type": "GEN",
+ "caption": "Darryl Jordan Intersection; Clayton County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Darryl W. Jordan and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-06T20:56:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-09T13:52:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-10T09:34:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245496,
+   "label": "LC 39 5045/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245496"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:54+00:00",
+  "version:245496": "2026-11-20T20:07:54+00:00",
+  "status:40": "2026-11-20T20:07:54+00:00",
+  "status:33": "2026-11-20T20:07:54+00:00",
+  "status:34": "2026-11-20T20:07:54+00:00"
+ },
+ "updated": "2026-11-20T20:07:54+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1151",
+ "slug": "hr1151",
+ "session": "2025_26",
+ "legislation_id": 72571,
+ "page": "https://www.legis.ga.gov/legislation/72571",
+ "document_type": "HR",
+ "number": 1151,
+ "legislation_type": "PRIV",
+ "caption": "Hispanic Day at the state capitol; February 4, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 4, 2026, as Hispanic Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:50:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:54:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:54:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240726,
+   "label": "LC 112 9003/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240726"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:41+00:00",
+  "version:240726": "2026-11-20T19:56:41+00:00",
+  "status:40": "2026-11-20T19:56:41+00:00",
+  "status:33": "2026-11-20T19:56:41+00:00",
+  "status:48": "2026-11-20T19:56:41+00:00"
+ },
+ "updated": "2026-11-20T19:56:41+00:00"
+}

@@ -1,0 +1,75 @@
+{
+ "key": "HR 789",
+ "slug": "hr789",
+ "session": "2025_26",
+ "legislation_id": 71767,
+ "page": "https://www.legis.ga.gov/legislation/71767",
+ "document_type": "HR",
+ "number": 789,
+ "legislation_type": "PRIV",
+ "caption": "Mowery, Mrs. Emily; Armuchee High School's 2025 STAR Teacher; commend",
+ "summary": "A RESOLUTION commending Mrs. Emily Mowery, Armuchee High School's 2025 STAR Teacher; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:54:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237646,
+   "label": "LC 129 0258/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237646"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:34+00:00",
+  "version:237646": "2026-11-20T19:48:34+00:00",
+  "status:40": "2026-11-20T19:48:34+00:00",
+  "status:33": "2026-11-20T19:48:34+00:00",
+  "status:48": "2026-11-20T19:48:34+00:00"
+ },
+ "updated": "2026-11-20T19:48:34+00:00"
+}

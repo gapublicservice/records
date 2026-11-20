@@ -1,0 +1,82 @@
+{
+ "key": "HR 1605",
+ "slug": "hr1605",
+ "session": "2025_26",
+ "legislation_id": 73911,
+ "page": "https://www.legis.ga.gov/legislation/73911",
+ "document_type": "HR",
+ "number": 1605,
+ "legislation_type": "PRIV",
+ "caption": "Aziz, Najah; commend",
+ "summary": "A RESOLUTION recognizing and commending Najah Aziz; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T15:40:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T16:53:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T16:53:36",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245100,
+   "label": "LC 112 3821/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245100"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:09+00:00",
+  "version:245100": "2026-11-20T20:07:09+00:00",
+  "status:40": "2026-11-20T20:07:09+00:00",
+  "status:33": "2026-11-20T20:07:09+00:00",
+  "status:48": "2026-11-20T20:07:09+00:00"
+ },
+ "updated": "2026-11-20T20:07:09+00:00"
+}

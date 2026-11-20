@@ -1,0 +1,109 @@
+{
+ "key": "HR 1348",
+ "slug": "hr1348",
+ "session": "2025_26",
+ "legislation_id": 73202,
+ "page": "https://www.legis.ga.gov/legislation/73202",
+ "document_type": "HR",
+ "number": 1348,
+ "legislation_type": "CA",
+ "caption": "School superintendent; qualifications, duties, and salary shall be established by the board of education and elected by voters; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that the qualifications, duties, and salary of the school superintendent shall be established by the board of education as provided by general law and to authorize the General Assembly to provide by law that local school superintendents shall be elected by voters as an alternative to being appointed by local boards of education, if approved by local referendum; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T13:01:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T09:29:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242595,
+   "label": "LC 47 3979/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242595"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:26+00:00",
+  "version:242595": "2026-11-20T20:01:26+00:00",
+  "status:40": "2026-11-20T20:01:26+00:00",
+  "status:33": "2026-11-20T20:01:26+00:00",
+  "status:34": "2026-11-20T20:01:26+00:00",
+  "status:39": "2026-11-20T20:01:26+00:00"
+ },
+ "updated": "2026-11-20T20:01:26+00:00"
+}

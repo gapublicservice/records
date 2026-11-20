@@ -1,0 +1,82 @@
+{
+ "key": "HR 1757",
+ "slug": "hr1757",
+ "session": "2025_26",
+ "legislation_id": 74220,
+ "page": "https://www.legis.ga.gov/legislation/74220",
+ "document_type": "HR",
+ "number": 1757,
+ "legislation_type": "PRIV",
+ "caption": "Harden, Reverend Howard D.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Reverend Howard D. Harden; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:33:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246455,
+   "label": "LC 112 3986/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246455"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:26+00:00",
+  "version:246455": "2026-11-20T20:10:26+00:00",
+  "status:40": "2026-11-20T20:10:26+00:00",
+  "status:33": "2026-11-20T20:10:26+00:00",
+  "status:48": "2026-11-20T20:10:26+00:00"
+ },
+ "updated": "2026-11-20T20:10:26+00:00"
+}

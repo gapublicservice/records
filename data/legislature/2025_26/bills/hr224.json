@@ -1,0 +1,61 @@
+{
+ "key": "HR 224",
+ "slug": "hr224",
+ "session": "2025_26",
+ "legislation_id": 70158,
+ "page": "https://www.legis.ga.gov/legislation/70158",
+ "document_type": "HR",
+ "number": 224,
+ "legislation_type": "PRIV",
+ "caption": "Bennett, Brother Alonza Anthony; commend",
+ "summary": "A RESOLUTION recognizing and commending Brother Alonza Anthony Bennett; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:33:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T15:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T15:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231937,
+   "label": "LC 129 0129/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231937"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:50+00:00",
+  "version:231937": "2026-11-20T19:35:50+00:00",
+  "status:40": "2026-11-20T19:35:50+00:00",
+  "status:33": "2026-11-20T19:35:50+00:00",
+  "status:48": "2026-11-20T19:35:50+00:00"
+ },
+ "updated": "2026-11-20T19:35:50+00:00"
+}

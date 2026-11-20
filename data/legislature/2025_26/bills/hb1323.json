@@ -1,0 +1,70 @@
+{
+ "key": "HB 1323",
+ "slug": "hb1323",
+ "session": "2025_26",
+ "legislation_id": 73252,
+ "page": "https://www.legis.ga.gov/legislation/73252",
+ "document_type": "HB",
+ "number": 1323,
+ "legislation_type": "GEN",
+ "caption": "Electrical service; require new data centers to operate as hybrid power data centers",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to electrical service, so as to require new data centers to operate as hybrid power data centers; to provide for certification by the Public Service Commission; to provide for enforcement; to provide for rules and regulations; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Committee on Resource Management",
+   "id": 205
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T11:12:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242741,
+   "label": "LC 56 0539/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242741"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "psc"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:08+00:00",
+  "version:242741": "2026-11-20T19:19:08+00:00",
+  "status:40": "2026-11-20T19:19:08+00:00",
+  "status:33": "2026-11-20T19:19:08+00:00",
+  "status:34": "2026-11-20T19:19:08+00:00"
+ },
+ "updated": "2026-11-20T19:19:08+00:00"
+}

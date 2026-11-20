@@ -1,0 +1,68 @@
+{
+ "key": "HR 780",
+ "slug": "hr780",
+ "session": "2025_26",
+ "legislation_id": 71758,
+ "page": "https://www.legis.ga.gov/legislation/71758",
+ "document_type": "HR",
+ "number": 780,
+ "legislation_type": "PRIV",
+ "caption": "Earl, Gary Everett; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Gary Everett Earl; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:51:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237673,
+   "label": "LC 112 3551/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237673"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:23+00:00",
+  "version:237673": "2026-11-20T19:48:23+00:00",
+  "status:40": "2026-11-20T19:48:23+00:00",
+  "status:33": "2026-11-20T19:48:23+00:00",
+  "status:48": "2026-11-20T19:48:23+00:00"
+ },
+ "updated": "2026-11-20T19:48:23+00:00"
+}

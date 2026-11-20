@@ -1,0 +1,61 @@
+{
+ "key": "HR 1565",
+ "slug": "hr1565",
+ "session": "2025_26",
+ "legislation_id": 73839,
+ "page": "https://www.legis.ga.gov/legislation/73839",
+ "document_type": "HR",
+ "number": 1565,
+ "legislation_type": "PRIV",
+ "caption": "Harris, Star Devyne; commend",
+ "summary": "A RESOLUTION recognizing and commending Star Devyne Harris; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:03:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244831,
+   "label": "LC 129 1307/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244831"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:17+00:00",
+  "version:244831": "2026-11-20T20:06:17+00:00",
+  "status:40": "2026-11-20T20:06:17+00:00",
+  "status:33": "2026-11-20T20:06:17+00:00",
+  "status:48": "2026-11-20T20:06:17+00:00"
+ },
+ "updated": "2026-11-20T20:06:17+00:00"
+}

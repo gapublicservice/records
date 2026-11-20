@@ -1,0 +1,61 @@
+{
+ "key": "HR 1641",
+ "slug": "hr1641",
+ "session": "2025_26",
+ "legislation_id": 73978,
+ "page": "https://www.legis.ga.gov/legislation/73978",
+ "document_type": "HR",
+ "number": 1641,
+ "legislation_type": "PRIV",
+ "caption": "Metropolitan Atlanta Baptist Ministers Union; 141 years of service to the Baptist churches and community; honor",
+ "summary": "A RESOLUTION honoring the Metropolitan Atlanta Baptist Ministers Union upon 141 years of service to the Baptist churches and community; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T10:22:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T23:01:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T23:22:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245528,
+   "label": "LC 112 3872/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245528"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:57+00:00",
+  "version:245528": "2026-11-20T20:07:57+00:00",
+  "status:33": "2026-11-20T20:07:57+00:00",
+  "status:40": "2026-11-20T20:07:57+00:00",
+  "status:48": "2026-11-20T20:07:57+00:00"
+ },
+ "updated": "2026-11-20T20:07:57+00:00"
+}

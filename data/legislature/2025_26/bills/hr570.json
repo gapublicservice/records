@@ -1,0 +1,89 @@
+{
+ "key": "HR 570",
+ "slug": "hr570",
+ "session": "2025_26",
+ "legislation_id": 71316,
+ "page": "https://www.legis.ga.gov/legislation/71316",
+ "document_type": "HR",
+ "number": 570,
+ "legislation_type": "PRIV",
+ "caption": "Smith, Ms. Catherine Ann; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Ms. Catherine Ann Smith; and for other purposes",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:49:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:17:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:17:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235940,
+   "label": "LC 129 0289/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235940"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:31+00:00",
+  "version:235940": "2026-11-20T19:43:31+00:00",
+  "status:40": "2026-11-20T19:43:31+00:00",
+  "status:33": "2026-11-20T19:43:31+00:00",
+  "status:48": "2026-11-20T19:43:31+00:00"
+ },
+ "updated": "2026-11-20T19:43:31+00:00"
+}

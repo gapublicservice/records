@@ -1,0 +1,102 @@
+{
+ "key": "HB 431",
+ "slug": "hb431",
+ "session": "2025_26",
+ "legislation_id": 70281,
+ "page": "https://www.legis.ga.gov/legislation/70281",
+ "document_type": "HB",
+ "number": 431,
+ "legislation_type": "GEN",
+ "caption": "Consumer Inflation Reduction and Tax Fairness Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the \"Fair Business Practices Act of 1975,\" so as to provide for a limitation on interchange fees charged by payment card networks for credit or debit card transactions at retailers; to provide requirements for payment card networks in relation to such interchange fees; to provide for a civil penalty; to provide for definitions; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T12:02:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232305,
+   "label": "LC 44 3037/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232305"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:37:33+00:00",
+  "version:232305": "2026-11-20T18:37:33+00:00",
+  "status:40": "2026-11-20T18:37:33+00:00",
+  "status:33": "2026-11-20T18:37:33+00:00",
+  "status:34": "2026-11-20T18:37:33+00:00"
+ },
+ "updated": "2026-11-20T18:37:33+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "SR 234",
+ "slug": "sr234",
+ "session": "2025_26",
+ "legislation_id": 70601,
+ "page": "https://www.legis.ga.gov/legislation/70601",
+ "document_type": "SR",
+ "number": 234,
+ "legislation_type": "PRIV",
+ "caption": "Park Place Operations Inc.; honor",
+ "summary": "A RESOLUTION honoring Park Place Operations Inc. upon its 50th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-20T11:56:21",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-21T09:55:37",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233232,
+   "label": "Read and adopted LC 129 0178",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233232"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:55:34+00:00",
+  "version:233232": "2026-11-20T20:55:34+00:00",
+  "status:67": "2026-11-20T20:55:34+00:00",
+  "status:66": "2026-11-20T20:55:34+00:00"
+ },
+ "updated": "2026-11-20T20:55:34+00:00"
+}

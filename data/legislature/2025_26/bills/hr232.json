@@ -1,0 +1,61 @@
+{
+ "key": "HR 232",
+ "slug": "hr232",
+ "session": "2025_26",
+ "legislation_id": 70217,
+ "page": "https://www.legis.ga.gov/legislation/70217",
+ "document_type": "HR",
+ "number": 232,
+ "legislation_type": "PRIV",
+ "caption": "Henderson, Linda; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Linda Henderson on her outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:59:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232115,
+   "label": "LC 112 2898/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232115"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:00+00:00",
+  "version:232115": "2026-11-20T19:36:00+00:00",
+  "status:40": "2026-11-20T19:36:00+00:00",
+  "status:33": "2026-11-20T19:36:00+00:00",
+  "status:48": "2026-11-20T19:36:00+00:00"
+ },
+ "updated": "2026-11-20T19:36:00+00:00"
+}

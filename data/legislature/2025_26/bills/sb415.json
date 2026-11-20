@@ -1,0 +1,116 @@
+{
+ "key": "SB 415",
+ "slug": "sb415",
+ "session": "2025_26",
+ "legislation_id": 72292,
+ "page": "https://www.legis.ga.gov/legislation/72292",
+ "document_type": "SB",
+ "number": 415,
+ "legislation_type": "GEN",
+ "caption": "Advertising and Sale of Meat; prohibit any person from producing, selling, trading, distributing for human consumption any lab-grown meat",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to advertising and sale of meat generally, so as to prohibit any person from producing, selling, trading, distributing, or offering to produce, sell, trade, or distribute for human consumption any lab-grown meat; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Agriculture and Consumer Affairs",
+   "id": 107
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T10:28:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-27T13:05:35",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240015,
+   "label": "As introduced LC 60 0226",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240015"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:39:51+00:00",
+  "version:240015": "2026-11-20T20:39:51+00:00",
+  "status:67": "2026-11-20T20:39:51+00:00",
+  "status:3": "2026-11-20T20:39:51+00:00"
+ },
+ "updated": "2026-11-20T20:39:51+00:00"
+}

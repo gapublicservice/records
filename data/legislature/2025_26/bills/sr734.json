@@ -1,0 +1,110 @@
+{
+ "key": "SR 734",
+ "slug": "sr734",
+ "session": "2025_26",
+ "legislation_id": 73012,
+ "page": "https://www.legis.ga.gov/legislation/73012",
+ "document_type": "SR",
+ "number": 734,
+ "legislation_type": "PRIV",
+ "caption": "Mirzakulova, Dr. Ekaterina; recognize",
+ "summary": "A RESOLUTION recognizing and commending Dr. Ekaterina Mirzakulova; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T11:26:09",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-10T12:07:08",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241990,
+   "label": "Read and adopted LC 129 0983",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241990"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:07:34+00:00",
+  "version:241990": "2026-11-20T21:07:34+00:00",
+  "status:67": "2026-11-20T21:07:34+00:00",
+  "status:66": "2026-11-20T21:07:34+00:00"
+ },
+ "updated": "2026-11-20T21:07:34+00:00"
+}

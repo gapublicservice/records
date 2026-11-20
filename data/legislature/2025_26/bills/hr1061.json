@@ -1,0 +1,96 @@
+{
+ "key": "HR 1061",
+ "slug": "hr1061",
+ "session": "2025_26",
+ "legislation_id": 72410,
+ "page": "https://www.legis.ga.gov/legislation/72410",
+ "document_type": "HR",
+ "number": 1061,
+ "legislation_type": "PRIV",
+ "caption": "Firefighters Recognition Day at the state capitol; February 3, 2026; recognize",
+ "summary": "A RESOLUTION honoring and commending the firefighters of Georgia and recognizing February 3, 2026, as Firefighters Recognition Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:14:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:46",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240359,
+   "label": "LC 129 0638/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240359"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:44+00:00",
+  "version:240359": "2026-11-20T19:54:44+00:00",
+  "status:40": "2026-11-20T19:54:44+00:00",
+  "status:33": "2026-11-20T19:54:44+00:00",
+  "status:48": "2026-11-20T19:54:44+00:00"
+ },
+ "updated": "2026-11-20T19:54:44+00:00"
+}

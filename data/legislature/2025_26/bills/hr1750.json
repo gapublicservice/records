@@ -1,0 +1,95 @@
+{
+ "key": "HR 1750",
+ "slug": "hr1750",
+ "session": "2025_26",
+ "legislation_id": 74191,
+ "page": "https://www.legis.ga.gov/legislation/74191",
+ "document_type": "HR",
+ "number": 1750,
+ "legislation_type": "GEN",
+ "caption": "World War I Veterans Memorial Bridge; Thomas County; dedicate",
+ "summary": "A RESOLUTION honoring the veterans of World War I and dedicating a bridge in their memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T11:23:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T10:34:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T10:10:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246322,
+   "label": "LC 39 5072/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246322"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:17+00:00",
+  "version:246322": "2026-11-20T20:10:17+00:00",
+  "status:40": "2026-11-20T20:10:17+00:00",
+  "status:33": "2026-11-20T20:10:17+00:00",
+  "status:34": "2026-11-20T20:10:17+00:00"
+ },
+ "updated": "2026-11-20T20:10:17+00:00"
+}

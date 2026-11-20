@@ -1,0 +1,123 @@
+{
+ "key": "SR 888",
+ "slug": "sr888",
+ "session": "2025_26",
+ "legislation_id": 73768,
+ "page": "https://www.legis.ga.gov/legislation/73768",
+ "document_type": "SR",
+ "number": 888,
+ "legislation_type": "NP",
+ "caption": "Senate Parent Accountability for Student Success Study Committee; create",
+ "summary": "A RESOLUTION creating the Senate Parent Accountability for Student Success Study Committee; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Education and Youth",
+   "id": 120
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-02T15:26:26",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-03T13:12:47",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244527,
+   "label": "As introduced LC 65 0085",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244527"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:05+00:00",
+  "version:244527": "2026-11-20T21:11:05+00:00",
+  "status:67": "2026-11-20T21:11:05+00:00",
+  "status:3": "2026-11-20T21:11:05+00:00"
+ },
+ "updated": "2026-11-20T21:11:05+00:00"
+}

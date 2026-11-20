@@ -1,0 +1,82 @@
+{
+ "key": "HR 1617",
+ "slug": "hr1617",
+ "session": "2025_26",
+ "legislation_id": 73952,
+ "page": "https://www.legis.ga.gov/legislation/73952",
+ "document_type": "HR",
+ "number": 1617,
+ "legislation_type": "PRIV",
+ "caption": "Johnson-Moore, Dr. Karen; Elder Howard E. Moore; recipients of the 44th Presidential Legacy Lifetime Achievement Award presented by Trinity Girls Network Corp. and Trinity International University of Ambassadors; commend",
+ "summary": "A RESOLUTION honoring Dr. Karen Johnson-Moore and Elder Howard E. Moore as recipients of the 44th Presidential Legacy Lifetime Achievement Award presented by Trinity Girls Network Corp. and Trinity International University of Ambassadors; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:06:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245397,
+   "label": "LC 129 1348/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245397"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:25+00:00",
+  "version:245397": "2026-11-20T20:07:25+00:00",
+  "status:40": "2026-11-20T20:07:25+00:00",
+  "status:33": "2026-11-20T20:07:25+00:00",
+  "status:48": "2026-11-20T20:07:25+00:00"
+ },
+ "updated": "2026-11-20T20:07:25+00:00"
+}

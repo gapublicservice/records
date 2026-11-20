@@ -1,0 +1,74 @@
+{
+ "key": "SB 342",
+ "slug": "sb342",
+ "session": "2025_26",
+ "legislation_id": 71473,
+ "page": "https://www.legis.ga.gov/legislation/71473",
+ "document_type": "SB",
+ "number": 342,
+ "legislation_type": "GEN",
+ "caption": "Emergency Communications Authority; increase in the percentage of all 9-1-1 charges to be remitted to the Peace Officers' Annuity and Benefit Fund; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 12 of Chapter 3 of Title 38, Chapter 2 of Title 40, Part 4 of Article 2 of Chapter 5 of Title 46, Title 47, and Chapter 11 of Title 48 of the Official Code of Georgia Annotated, relating to the Emergency Communications Authority, registration and licensing of motor vehicles, emergency telephone number 9-1-1 system, retirement and pensions, and taxes on tobacco and vaping products, respectively, so as to provide for an increase in the percentage of all 9-1-1 charges to be remitted to the Peace Officers' Annuity and Benefit Fund; to provide conditions for an effective date and automatic repeal; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Retirement",
+   "id": 82
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-18T16:47:54",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-20T10:10:31",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236406,
+   "label": "As introduced LC 56 0348",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236406"
+  },
+  {
+   "doc_id": 236403,
+   "label": "LC 56 0348 Auditor's Certification",
+   "version": 1,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236403"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:36:52+00:00",
+  "version:236406": "2026-11-20T20:36:52+00:00",
+  "version:236403": "2026-11-20T20:36:52+00:00",
+  "status:67": "2026-11-20T20:36:52+00:00",
+  "status:3": "2026-11-20T20:36:52+00:00"
+ },
+ "updated": "2026-11-20T20:36:52+00:00"
+}

@@ -1,0 +1,114 @@
+{
+ "key": "HB 851",
+ "slug": "hb851",
+ "session": "2025_26",
+ "legislation_id": 71653,
+ "page": "https://www.legis.ga.gov/legislation/71653",
+ "document_type": "HB",
+ "number": 851,
+ "legislation_type": "LOC",
+ "caption": "Athens-Clarke County; Board of Elections and Registration; provide for abolition on a date certain",
+ "summary": "A BILL to be entitled an Act to amend an Act to create the Athens-Clarke County Board of Elections and Registration, approved April 5, 1993 (Ga. L. 1993, p. 4631), as amended, so as to provide for abolition of the board on a date certain; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T13:00:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T13:43:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T10:11:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-31T10:16:09",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-31T11:06:31",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-03-31T13:40:07",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-31T16:26:01",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237277,
+   "label": "LC 47 3434/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237277"
+  },
+  {
+   "doc_id": 237372,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237372"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:57:01+00:00",
+  "version:237277": "2026-11-20T18:57:01+00:00",
+  "version:237372": "2026-11-20T18:57:01+00:00",
+  "status:40": "2026-11-20T18:57:01+00:00",
+  "status:33": "2026-11-20T18:57:01+00:00",
+  "status:34": "2026-11-20T18:57:01+00:00",
+  "status:39": "2026-11-20T18:57:01+00:00",
+  "status:50": "2026-11-20T18:57:01+00:00"
+ },
+ "updated": "2026-11-20T18:57:01+00:00"
+}

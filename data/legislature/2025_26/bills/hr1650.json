@@ -1,0 +1,81 @@
+{
+ "key": "HR 1650",
+ "slug": "hr1650",
+ "session": "2025_26",
+ "legislation_id": 73993,
+ "page": "https://www.legis.ga.gov/legislation/73993",
+ "document_type": "HR",
+ "number": 1650,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Local Government Emergency Disaster Relief Loans; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Local Government Emergency Disaster Relief Loans; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-09T14:00:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-10T10:28:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T10:05:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:49",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245558,
+   "label": "LC 63 0142/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245558"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:08+00:00",
+  "version:245558": "2026-11-20T20:08:08+00:00",
+  "status:40": "2026-11-20T20:08:08+00:00",
+  "status:33": "2026-11-20T20:08:08+00:00",
+  "status:34": "2026-11-20T20:08:08+00:00",
+  "status:39": "2026-11-20T20:08:08+00:00"
+ },
+ "updated": "2026-11-20T20:08:08+00:00"
+}

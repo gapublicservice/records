@@ -1,0 +1,102 @@
+{
+ "key": "HB 981",
+ "slug": "hb981",
+ "session": "2025_26",
+ "legislation_id": 72241,
+ "page": "https://www.legis.ga.gov/legislation/72241",
+ "document_type": "HB",
+ "number": 981,
+ "legislation_type": "GEN",
+ "caption": "Professions and businesses; expand certain advanced practice registered nurse and physician assistant prescriptive authorizations",
+ "summary": "A BILL to be entitled an Act to amend Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to physicians, assistants, and others, so as to expand certain advanced practice registered nurse and physician assistant prescriptive authorizations; to provide for a definition; to increase certain prescriptive authorizations from five-day to 30 day supplies; to remove certain prohibitions on writing prescriptions for minors; to provide for certain prescriptive authorization to order stimulants; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T11:08:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239913,
+   "label": "LC 46 1327/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239913"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:04:31+00:00",
+  "version:239913": "2026-11-20T19:04:31+00:00",
+  "status:40": "2026-11-20T19:04:31+00:00",
+  "status:33": "2026-11-20T19:04:31+00:00",
+  "status:34": "2026-11-20T19:04:31+00:00"
+ },
+ "updated": "2026-11-20T19:04:31+00:00"
+}

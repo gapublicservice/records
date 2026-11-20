@@ -1,0 +1,68 @@
+{
+ "key": "HR 146",
+ "slug": "hr146",
+ "session": "2025_26",
+ "legislation_id": 69890,
+ "page": "https://www.legis.ga.gov/legislation/69890",
+ "document_type": "HR",
+ "number": 146,
+ "legislation_type": "PRIV",
+ "caption": "Gallois, Gina; commend",
+ "summary": "A RESOLUTION recognizing and commending Gina Gallois; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T12:51:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:05:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:00",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231268,
+   "label": "LC 129 0093/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231268"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:10+00:00",
+  "version:231268": "2026-11-20T19:34:10+00:00",
+  "status:40": "2026-11-20T19:34:10+00:00",
+  "status:33": "2026-11-20T19:34:10+00:00",
+  "status:48": "2026-11-20T19:34:10+00:00"
+ },
+ "updated": "2026-11-20T19:34:10+00:00"
+}

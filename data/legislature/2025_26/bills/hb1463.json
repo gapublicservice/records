@@ -1,0 +1,88 @@
+{
+ "key": "HB 1463",
+ "slug": "hb1463",
+ "session": "2025_26",
+ "legislation_id": 73666,
+ "page": "https://www.legis.ga.gov/legislation/73666",
+ "document_type": "HB",
+ "number": 1463,
+ "legislation_type": "GEN",
+ "caption": "Motor vehicles; peer-to-peer car-sharing program; add damage to the owner's vehicle to the program's liability",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to peer-to-peer car-sharing program, so as to add damage to the owner's vehicle to the program's liability; to provide for conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T14:30:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T09:53:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T09:38:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244112,
+   "label": "LC 46 1458/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244112"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:51+00:00",
+  "version:244112": "2026-11-20T19:23:51+00:00",
+  "status:40": "2026-11-20T19:23:51+00:00",
+  "status:33": "2026-11-20T19:23:51+00:00",
+  "status:34": "2026-11-20T19:23:51+00:00"
+ },
+ "updated": "2026-11-20T19:23:51+00:00"
+}

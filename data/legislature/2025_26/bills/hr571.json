@@ -1,0 +1,68 @@
+{
+ "key": "HR 571",
+ "slug": "hr571",
+ "session": "2025_26",
+ "legislation_id": 71317,
+ "page": "https://www.legis.ga.gov/legislation/71317",
+ "document_type": "HR",
+ "number": 571,
+ "legislation_type": "PRIV",
+ "caption": "Hammons, Elizabeth Cail Newsome; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Elizabeth Cail Newsome Hammons; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:49:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:17:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:17:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235945,
+   "label": "LC 112 3319/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235945"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:32+00:00",
+  "version:235945": "2026-11-20T19:43:32+00:00",
+  "status:40": "2026-11-20T19:43:32+00:00",
+  "status:33": "2026-11-20T19:43:32+00:00",
+  "status:48": "2026-11-20T19:43:32+00:00"
+ },
+ "updated": "2026-11-20T19:43:32+00:00"
+}

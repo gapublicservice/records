@@ -1,0 +1,61 @@
+{
+ "key": "HR 2035",
+ "slug": "hr2035",
+ "session": "2025_26",
+ "legislation_id": 74654,
+ "page": "https://www.legis.ga.gov/legislation/74654",
+ "document_type": "HR",
+ "number": 2035,
+ "legislation_type": "PRIV",
+ "caption": "Kaur, Gurmit; commend",
+ "summary": "A RESOLUTION recognizing and commending Gurmit Kaur; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:20:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248403,
+   "label": "LC 112 4184/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248403"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:37+00:00",
+  "version:248403": "2026-11-20T20:16:37+00:00",
+  "status:40": "2026-11-20T20:16:37+00:00",
+  "status:33": "2026-11-20T20:16:37+00:00",
+  "status:48": "2026-11-20T20:16:37+00:00"
+ },
+ "updated": "2026-11-20T20:16:37+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "SB 178",
+ "slug": "sb178",
+ "session": "2025_26",
+ "legislation_id": 70371,
+ "page": "https://www.legis.ga.gov/legislation/70371",
+ "document_type": "SB",
+ "number": 178,
+ "legislation_type": "GEN",
+ "caption": "State Depository Board; allow the state treasurer to invest in Bitcoin; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 17 of Title 50 of the Official Code of Georgia Annotated, relating to state depositories, so as to provide for the State Depository Board to allow the state treasurer to invest in Bitcoin; to provide for a limit on such investment; to provide for requirements for the safe handling of such assets; to provide for the loaning of such assets; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Banking and Financial Institutions",
+   "id": 74
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:59:35",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-18T13:11:29",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232533,
+   "label": "As introduced LC 56 0310",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232533"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:29:22+00:00",
+  "version:232533": "2026-11-20T20:29:22+00:00",
+  "status:67": "2026-11-20T20:29:22+00:00",
+  "status:3": "2026-11-20T20:29:22+00:00"
+ },
+ "updated": "2026-11-20T20:29:22+00:00"
+}

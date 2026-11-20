@@ -1,0 +1,61 @@
+{
+ "key": "HR 1351",
+ "slug": "hr1351",
+ "session": "2025_26",
+ "legislation_id": 73208,
+ "page": "https://www.legis.ga.gov/legislation/73208",
+ "document_type": "HR",
+ "number": 1351,
+ "legislation_type": "PRIV",
+ "caption": "2026 Tech Demo Day at the state capitol; recognize",
+ "summary": "A RESOLUTION recognizing 2026 Tech Demo Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:01:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242622,
+   "label": "LC 129 0859/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242622"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:31+00:00",
+  "version:242622": "2026-11-20T20:01:31+00:00",
+  "status:40": "2026-11-20T20:01:31+00:00",
+  "status:33": "2026-11-20T20:01:31+00:00",
+  "status:48": "2026-11-20T20:01:31+00:00"
+ },
+ "updated": "2026-11-20T20:01:31+00:00"
+}

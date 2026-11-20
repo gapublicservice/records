@@ -1,0 +1,61 @@
+{
+ "key": "HR 2077",
+ "slug": "hr2077",
+ "session": "2025_26",
+ "legislation_id": 74678,
+ "page": "https://www.legis.ga.gov/legislation/74678",
+ "document_type": "HR",
+ "number": 2077,
+ "legislation_type": "PRIV",
+ "caption": "Rainey, Dr. Willie Frank, Jr.; commend",
+ "summary": "A RESOLUTION commending Dr. Willie Frank Rainey Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T20:43:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T21:15:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T21:15:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248595,
+   "label": "LC 112 4122/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248595"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:35+00:00",
+  "version:248595": "2026-11-20T20:17:35+00:00",
+  "status:40": "2026-11-20T20:17:35+00:00",
+  "status:33": "2026-11-20T20:17:35+00:00",
+  "status:48": "2026-11-20T20:17:35+00:00"
+ },
+ "updated": "2026-11-20T20:17:35+00:00"
+}

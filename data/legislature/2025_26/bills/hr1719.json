@@ -1,0 +1,75 @@
+{
+ "key": "HR 1719",
+ "slug": "hr1719",
+ "session": "2025_26",
+ "legislation_id": 74136,
+ "page": "https://www.legis.ga.gov/legislation/74136",
+ "document_type": "HR",
+ "number": 1719,
+ "legislation_type": "PRIV",
+ "caption": "Wilson, Monique; commend",
+ "summary": "A RESOLUTION commending Monique Wilson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:58:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:18",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246062,
+   "label": "LC 112 3756/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246062"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:37+00:00",
+  "version:246062": "2026-11-20T20:09:37+00:00",
+  "status:40": "2026-11-20T20:09:37+00:00",
+  "status:33": "2026-11-20T20:09:37+00:00",
+  "status:48": "2026-11-20T20:09:37+00:00"
+ },
+ "updated": "2026-11-20T20:09:37+00:00"
+}

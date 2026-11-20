@@ -1,0 +1,125 @@
+{
+ "key": "HB 604",
+ "slug": "hb604",
+ "session": "2025_26",
+ "legislation_id": 70730,
+ "page": "https://www.legis.ga.gov/legislation/70730",
+ "document_type": "HB",
+ "number": 604,
+ "legislation_type": "GEN",
+ "caption": "Elections; authorize local election superintendents to conduct manual recounts of ballots following the computation, canvassing, and tabulation of returns",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as authorize local election superintendents to conduct manual recounts of ballots following the computation, canvassing, and tabulation of returns in an election; to address discrepancies raised by such recounts; to provide for the termination of such recounts if they conflict with other duties of the superintendent; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T11:51:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235312,
+   "label": "LC 47 3513S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235312"
+  },
+  {
+   "doc_id": 233631,
+   "label": "LC 47 3444/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233631"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:18+00:00",
+  "version:235312": "2026-11-20T18:45:18+00:00",
+  "version:233631": "2026-11-20T18:45:18+00:00",
+  "status:40": "2026-11-20T18:45:18+00:00",
+  "status:33": "2026-11-20T18:45:18+00:00",
+  "status:34": "2026-11-20T18:45:18+00:00",
+  "status:39": "2026-11-20T18:45:18+00:00",
+  "status:50": "2026-11-20T18:45:18+00:00"
+ },
+ "updated": "2026-11-20T18:45:18+00:00"
+}

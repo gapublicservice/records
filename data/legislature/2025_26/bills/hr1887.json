@@ -1,0 +1,81 @@
+{
+ "key": "HR 1887",
+ "slug": "hr1887",
+ "session": "2025_26",
+ "legislation_id": 74411,
+ "page": "https://www.legis.ga.gov/legislation/74411",
+ "document_type": "HR",
+ "number": 1887,
+ "legislation_type": "GEN",
+ "caption": "Councilman Alphonso Thomas Memorial Intersection; Henry County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Councilman Alphonso Thomas and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5001,
+   "name": "Lewis-Ward, Regina 115th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T10:34:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247351,
+   "label": "LC 39 5116/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247351"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:11+00:00",
+  "version:247351": "2026-11-20T20:13:11+00:00",
+  "status:40": "2026-11-20T20:13:11+00:00",
+  "status:33": "2026-11-20T20:13:11+00:00",
+  "status:34": "2026-11-20T20:13:11+00:00"
+ },
+ "updated": "2026-11-20T20:13:11+00:00"
+}

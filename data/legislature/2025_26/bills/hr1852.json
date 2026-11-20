@@ -1,0 +1,61 @@
+{
+ "key": "HR 1852",
+ "slug": "hr1852",
+ "session": "2025_26",
+ "legislation_id": 74365,
+ "page": "https://www.legis.ga.gov/legislation/74365",
+ "document_type": "HR",
+ "number": 1852,
+ "legislation_type": "PRIV",
+ "caption": "Dickerson, John Alan, Sr.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of John Alan Dickerson, Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T12:53:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T13:17:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T13:17:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247060,
+   "label": "LC 129 1472/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247060"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:27+00:00",
+  "version:247060": "2026-11-20T20:12:27+00:00",
+  "status:40": "2026-11-20T20:12:27+00:00",
+  "status:33": "2026-11-20T20:12:27+00:00",
+  "status:48": "2026-11-20T20:12:27+00:00"
+ },
+ "updated": "2026-11-20T20:12:27+00:00"
+}

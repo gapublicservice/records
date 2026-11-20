@@ -1,0 +1,81 @@
+{
+ "key": "SB 611",
+ "slug": "sb611",
+ "session": "2025_26",
+ "legislation_id": 73752,
+ "page": "https://www.legis.ga.gov/legislation/73752",
+ "document_type": "SB",
+ "number": 611,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Landowners Protection Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning procedures, so as to provide for the maximum period of time a local government may enforce certain moratoria; to prohibit reimposition of certain moratoria within a certain period of time; to waive sovereign immunity on claims related to damages arising from moratoria exceeding such limitations; to provide for recoverable damages and attorney's fees; to provide for legislative findings; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:25:52",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-03T13:12:13",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244409,
+   "label": "As introduced LC 62 0390",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244409"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:48:56+00:00",
+  "version:244409": "2026-11-20T20:48:56+00:00",
+  "status:67": "2026-11-20T20:48:56+00:00",
+  "status:3": "2026-11-20T20:48:56+00:00"
+ },
+ "updated": "2026-11-20T20:48:56+00:00"
+}

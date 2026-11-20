@@ -1,0 +1,61 @@
+{
+ "key": "HR 2101",
+ "slug": "hr2101",
+ "session": "2025_26",
+ "legislation_id": 74714,
+ "page": "https://www.legis.ga.gov/legislation/74714",
+ "document_type": "HR",
+ "number": 2101,
+ "legislation_type": "PRIV",
+ "caption": "Ahmad, Maha; commend",
+ "summary": "A RESOLUTION commending Maha Ahmad; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:26:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248839,
+   "label": "LC 112 4250/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248839"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:10+00:00",
+  "version:248839": "2026-11-20T20:18:10+00:00",
+  "status:40": "2026-11-20T20:18:10+00:00",
+  "status:33": "2026-11-20T20:18:10+00:00",
+  "status:48": "2026-11-20T20:18:10+00:00"
+ },
+ "updated": "2026-11-20T20:18:10+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 2094",
+ "slug": "hr2094",
+ "session": "2025_26",
+ "legislation_id": 74707,
+ "page": "https://www.legis.ga.gov/legislation/74707",
+ "document_type": "HR",
+ "number": 2094,
+ "legislation_type": "PRIV",
+ "caption": "Thomas, Mr. Tim; commend",
+ "summary": "A RESOLUTION recognizing and commending Mr. Tim Thomas; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:23:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248864,
+   "label": "LC 129 1545/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248864"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:01+00:00",
+  "version:248864": "2026-11-20T20:18:01+00:00",
+  "status:40": "2026-11-20T20:18:01+00:00",
+  "status:33": "2026-11-20T20:18:01+00:00",
+  "status:48": "2026-11-20T20:18:01+00:00"
+ },
+ "updated": "2026-11-20T20:18:01+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 670",
+ "slug": "hr670",
+ "session": "2025_26",
+ "legislation_id": 71523,
+ "page": "https://www.legis.ga.gov/legislation/71523",
+ "document_type": "HR",
+ "number": 670,
+ "legislation_type": "PRIV",
+ "caption": "The Association of St. Augustine Alumni-Atlanta; commend",
+ "summary": "A RESOLUTION recognizing and commending The Association of St. Augustine Alumni-Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:46:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236750,
+   "label": "LC 112 3390/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236750"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:46+00:00",
+  "version:236750": "2026-11-20T19:45:46+00:00",
+  "status:40": "2026-11-20T19:45:46+00:00",
+  "status:33": "2026-11-20T19:45:46+00:00",
+  "status:48": "2026-11-20T19:45:46+00:00"
+ },
+ "updated": "2026-11-20T19:45:46+00:00"
+}

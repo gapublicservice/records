@@ -1,0 +1,96 @@
+{
+ "key": "HR 290",
+ "slug": "hr290",
+ "session": "2025_26",
+ "legislation_id": 70460,
+ "page": "https://www.legis.ga.gov/legislation/70460",
+ "document_type": "HR",
+ "number": 290,
+ "legislation_type": "PRIV",
+ "caption": "W.S. Hutchings College and Career Academy and Principal Dr. Cassandra Washington; commend",
+ "summary": "A RESOLUTION commending W.S. Hutchings College and Career Academy and Principal Dr. Cassandra Washington; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:25:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:54:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:54:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232789,
+   "label": "LC 112 2990/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232789"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:20+00:00",
+  "version:232789": "2026-11-20T19:37:20+00:00",
+  "status:40": "2026-11-20T19:37:20+00:00",
+  "status:33": "2026-11-20T19:37:20+00:00",
+  "status:48": "2026-11-20T19:37:20+00:00"
+ },
+ "updated": "2026-11-20T19:37:20+00:00"
+}

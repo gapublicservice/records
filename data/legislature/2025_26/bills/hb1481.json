@@ -1,0 +1,88 @@
+{
+ "key": "HB 1481",
+ "slug": "hb1481",
+ "session": "2025_26",
+ "legislation_id": 73764,
+ "page": "https://www.legis.ga.gov/legislation/73764",
+ "document_type": "HB",
+ "number": 1481,
+ "legislation_type": "GEN",
+ "caption": "National Black Midwives Day in Georgia; March 14 of each year; designate",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 1 of the Official Code of Georgia Annotated, relating to holidays and observances, so as to designate Black Midwives Day in Georgia; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:40:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T10:30:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T09:41:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244452,
+   "label": "LC 62 0373/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244452"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:24:20+00:00",
+  "version:244452": "2026-11-20T19:24:20+00:00",
+  "status:40": "2026-11-20T19:24:20+00:00",
+  "status:33": "2026-11-20T19:24:20+00:00",
+  "status:34": "2026-11-20T19:24:20+00:00"
+ },
+ "updated": "2026-11-20T19:24:20+00:00"
+}

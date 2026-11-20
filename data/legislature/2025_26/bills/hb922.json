@@ -1,0 +1,102 @@
+{
+ "key": "HB 922",
+ "slug": "hb922",
+ "session": "2025_26",
+ "legislation_id": 72071,
+ "page": "https://www.legis.ga.gov/legislation/72071",
+ "document_type": "HB",
+ "number": 922,
+ "legislation_type": "GEN",
+ "caption": "Georgia Boater Bill of Rights; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to general provisions regarding identification and regulation of motor vehicles and traffic, so as to prohibit local governments from regulating energy sources of motor vehicles and watercraft; to provide for definitions; to amend Chapter 7 of Title 52 of the Official Code of Georgia Annotated, relating to registration, operation, and sale of watercraft, so as to create and establish a purpose for the Georgia Boating Access Task Force; to provide for duties related to ensuring safe and adequate boating access on any waters of this state; to provide for composition and manner of  appointment of such task force and compensation for members; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:52:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239270,
+   "label": "LC 44 3209/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239270"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:46+00:00",
+  "version:239270": "2026-11-20T19:01:46+00:00",
+  "status:40": "2026-11-20T19:01:46+00:00",
+  "status:33": "2026-11-20T19:01:46+00:00",
+  "status:34": "2026-11-20T19:01:46+00:00"
+ },
+ "updated": "2026-11-20T19:01:46+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 1219",
+ "slug": "hb1219",
+ "session": "2025_26",
+ "legislation_id": 72909,
+ "page": "https://www.legis.ga.gov/legislation/72909",
+ "document_type": "HB",
+ "number": 1219,
+ "legislation_type": "GEN",
+ "caption": "Property; require new property owners' associations to be subject to Georgia Property Owners' Association Act",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to property owners' associations, so as to require new property owners' associations to be subject to the Georgia Property Owners' Association Act; to require property owners' associations to vote on whether to be subject to such acts, respectively; to provide for termination of property owners' associations; to provide for procedures for a vote to terminate a property owners' association; to provide for court approval of termination plans; to provide for procedures to terminate a property owners' association; to provide for a termination trustee; to provide for powers and duties; to provide for penalties; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5001,
+   "name": "Lewis-Ward, Regina 115th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:09:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241710,
+   "label": "LC 62 0309/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241710"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:35+00:00",
+  "version:241710": "2026-11-20T19:14:35+00:00",
+  "status:40": "2026-11-20T19:14:35+00:00",
+  "status:33": "2026-11-20T19:14:35+00:00",
+  "status:34": "2026-11-20T19:14:35+00:00"
+ },
+ "updated": "2026-11-20T19:14:35+00:00"
+}

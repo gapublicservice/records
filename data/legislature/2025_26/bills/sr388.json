@@ -1,0 +1,60 @@
+{
+ "key": "SR 388",
+ "slug": "sr388",
+ "session": "2025_26",
+ "legislation_id": 71309,
+ "page": "https://www.legis.ga.gov/legislation/71309",
+ "document_type": "SR",
+ "number": 388,
+ "legislation_type": "PRIV",
+ "caption": "Fisher, Diane Munzer; congratulate",
+ "summary": "A RESOLUTION congratulating and commending Diane Munzer Fisher for receiving the 2025 Yellow Rose Nikki T. Randall Servant Leader Award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5015,
+   "name": "Parkes, Nabilah 7th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-11T14:51:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T10:08:55",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235890,
+   "label": "Read and adopted LC 129 0334",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235890"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:11+00:00",
+  "version:235890": "2026-11-20T20:59:11+00:00",
+  "status:67": "2026-11-20T20:59:11+00:00",
+  "status:3": "2026-11-20T20:59:11+00:00"
+ },
+ "updated": "2026-11-20T20:59:11+00:00"
+}

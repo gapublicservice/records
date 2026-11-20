@@ -1,0 +1,75 @@
+{
+ "key": "HR 1725",
+ "slug": "hr1725",
+ "session": "2025_26",
+ "legislation_id": 74142,
+ "page": "https://www.legis.ga.gov/legislation/74142",
+ "document_type": "HR",
+ "number": 1725,
+ "legislation_type": "PRIV",
+ "caption": "Brown, Fannie; commend",
+ "summary": "A RESOLUTION commending and congratulating Fannie Brown; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T14:01:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246069,
+   "label": "LC 112 3942/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246069"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:44+00:00",
+  "version:246069": "2026-11-20T20:09:44+00:00",
+  "status:40": "2026-11-20T20:09:44+00:00",
+  "status:33": "2026-11-20T20:09:44+00:00",
+  "status:48": "2026-11-20T20:09:44+00:00"
+ },
+ "updated": "2026-11-20T20:09:44+00:00"
+}

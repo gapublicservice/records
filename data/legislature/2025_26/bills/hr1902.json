@@ -1,0 +1,61 @@
+{
+ "key": "HR 1902",
+ "slug": "hr1902",
+ "session": "2025_26",
+ "legislation_id": 74450,
+ "page": "https://www.legis.ga.gov/legislation/74450",
+ "document_type": "HR",
+ "number": 1902,
+ "legislation_type": "PRIV",
+ "caption": "Green, Shephard, III; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Shephard Green III; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:37:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247565,
+   "label": "LC 112 4069/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247565"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:30+00:00",
+  "version:247565": "2026-11-20T20:13:30+00:00",
+  "status:40": "2026-11-20T20:13:30+00:00",
+  "status:33": "2026-11-20T20:13:30+00:00",
+  "status:48": "2026-11-20T20:13:30+00:00"
+ },
+ "updated": "2026-11-20T20:13:30+00:00"
+}

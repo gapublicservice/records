@@ -1,0 +1,61 @@
+{
+ "key": "HR 1100",
+ "slug": "hr1100",
+ "session": "2025_26",
+ "legislation_id": 72452,
+ "page": "https://www.legis.ga.gov/legislation/72452",
+ "document_type": "HR",
+ "number": 1100,
+ "legislation_type": "PRIV",
+ "caption": "Carroll County Superior Courts; commend",
+ "summary": "A RESOLUTION recognizing and commending the Carroll County Superior Courts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:34:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:42:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:42:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240366,
+   "label": "LC 129 0709/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240366"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:34+00:00",
+  "version:240366": "2026-11-20T19:55:34+00:00",
+  "status:40": "2026-11-20T19:55:34+00:00",
+  "status:33": "2026-11-20T19:55:34+00:00",
+  "status:48": "2026-11-20T19:55:34+00:00"
+ },
+ "updated": "2026-11-20T19:55:34+00:00"
+}

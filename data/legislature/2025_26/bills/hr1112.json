@@ -1,0 +1,81 @@
+{
+ "key": "HR 1112",
+ "slug": "hr1112",
+ "session": "2025_26",
+ "legislation_id": 72497,
+ "page": "https://www.legis.ga.gov/legislation/72497",
+ "document_type": "HR",
+ "number": 1112,
+ "legislation_type": "NP",
+ "caption": "Georgia Menstrual Equity Act of 2026; urge statewide support",
+ "summary": "A RESOLUTION urging statewide support for the \"Georgia Menstrual Equity Act of 2026,\" an act promoting equitable access to menstrual products to reduce period poverty, improve public health, and support student success; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:24:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240603,
+   "label": "LC 52 0866/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240603"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:49+00:00",
+  "version:240603": "2026-11-20T19:55:49+00:00",
+  "status:40": "2026-11-20T19:55:49+00:00",
+  "status:33": "2026-11-20T19:55:49+00:00",
+  "status:34": "2026-11-20T19:55:49+00:00"
+ },
+ "updated": "2026-11-20T19:55:49+00:00"
+}

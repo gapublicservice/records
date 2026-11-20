@@ -1,0 +1,95 @@
+{
+ "key": "HB 996",
+ "slug": "hb996",
+ "session": "2025_26",
+ "legislation_id": 72263,
+ "page": "https://www.legis.ga.gov/legislation/72263",
+ "document_type": "HB",
+ "number": 996,
+ "legislation_type": "GEN",
+ "caption": "Agriculture, Department of; food deserts; require annual reporting",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 2 of the Official Code of Georgia Annotated, relating to the Department of Agriculture, so as to require annual reporting by such department regarding food deserts in this state; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:55:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239938,
+   "label": "LC 60 0187/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239938"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:05+00:00",
+  "version:239938": "2026-11-20T19:05:05+00:00",
+  "status:40": "2026-11-20T19:05:05+00:00",
+  "status:33": "2026-11-20T19:05:05+00:00",
+  "status:34": "2026-11-20T19:05:05+00:00"
+ },
+ "updated": "2026-11-20T19:05:05+00:00"
+}

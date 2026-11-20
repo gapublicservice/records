@@ -1,0 +1,68 @@
+{
+ "key": "HR 589",
+ "slug": "hr589",
+ "session": "2025_26",
+ "legislation_id": 71335,
+ "page": "https://www.legis.ga.gov/legislation/71335",
+ "document_type": "HR",
+ "number": 589,
+ "legislation_type": "PRIV",
+ "caption": "Au, Dr. Michelle; commend",
+ "summary": "A RESOLUTION recognizing, commending, and congratulating Dr. Michelle Au; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:56:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:22:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:22:38",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235958,
+   "label": "LC 112 3365/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235958"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:55+00:00",
+  "version:235958": "2026-11-20T19:43:55+00:00",
+  "status:40": "2026-11-20T19:43:55+00:00",
+  "status:33": "2026-11-20T19:43:55+00:00",
+  "status:48": "2026-11-20T19:43:55+00:00"
+ },
+ "updated": "2026-11-20T19:43:55+00:00"
+}

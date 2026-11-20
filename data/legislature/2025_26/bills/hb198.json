@@ -1,0 +1,123 @@
+{
+ "key": "HB 198",
+ "slug": "hb198",
+ "session": "2025_26",
+ "legislation_id": 69714,
+ "page": "https://www.legis.ga.gov/legislation/69714",
+ "document_type": "HB",
+ "number": 198,
+ "legislation_type": "GEN",
+ "caption": "Education; use of school facilities by certain youth groups; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to provide for the use of school facilities by certain youth groups; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:07:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:25",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-02-27T11:28:09",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233790,
+   "label": "LC 62 0116S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233790"
+  },
+  {
+   "doc_id": 230832,
+   "label": "LC 62 0055/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230832"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:12+00:00",
+  "version:233790": "2026-11-20T18:26:12+00:00",
+  "version:230832": "2026-11-20T18:26:12+00:00",
+  "status:40": "2026-11-20T18:26:12+00:00",
+  "status:33": "2026-11-20T18:26:12+00:00",
+  "status:34": "2026-11-20T18:26:12+00:00",
+  "status:39": "2026-11-20T18:26:12+00:00",
+  "status:50": "2026-11-20T18:26:12+00:00"
+ },
+ "updated": "2026-11-20T18:26:12+00:00"
+}

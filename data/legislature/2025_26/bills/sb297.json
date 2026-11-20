@@ -1,0 +1,81 @@
+{
+ "key": "SB 297",
+ "slug": "sb297",
+ "session": "2025_26",
+ "legislation_id": 70935,
+ "page": "https://www.legis.ga.gov/legislation/70935",
+ "document_type": "SB",
+ "number": 297,
+ "legislation_type": "GEN",
+ "caption": "Sales and Use Taxes; certain menstrual discharge collection devices; create an exemption",
+ "summary": "A BILL to be entitled an Act to amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use taxes, so as to create an exemption from sales and use tax for certain menstrual discharge collection devices; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Finance",
+   "id": 138
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T11:14:05",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-28T10:19:03",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234298,
+   "label": "As introduced LC 50 1183",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234298"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:35:10+00:00",
+  "version:234298": "2026-11-20T20:35:10+00:00",
+  "status:67": "2026-11-20T20:35:10+00:00",
+  "status:3": "2026-11-20T20:35:10+00:00"
+ },
+ "updated": "2026-11-20T20:35:10+00:00"
+}

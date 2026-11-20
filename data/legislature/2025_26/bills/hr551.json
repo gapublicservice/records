@@ -1,0 +1,61 @@
+{
+ "key": "HR 551",
+ "slug": "hr551",
+ "session": "2025_26",
+ "legislation_id": 71244,
+ "page": "https://www.legis.ga.gov/legislation/71244",
+ "document_type": "HR",
+ "number": 551,
+ "legislation_type": "PRIV",
+ "caption": "Stuckey, Norman Joseph, Jr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Norman Joseph Stuckey Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T22:10:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T22:45:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T22:45:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235675,
+   "label": "LC 112 3314/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235675"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:04+00:00",
+  "version:235675": "2026-11-20T19:43:04+00:00",
+  "status:40": "2026-11-20T19:43:04+00:00",
+  "status:33": "2026-11-20T19:43:04+00:00",
+  "status:48": "2026-11-20T19:43:04+00:00"
+ },
+ "updated": "2026-11-20T19:43:04+00:00"
+}

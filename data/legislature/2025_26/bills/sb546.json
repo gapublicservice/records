@@ -1,0 +1,88 @@
+{
+ "key": "SB 546",
+ "slug": "sb546",
+ "session": "2025_26",
+ "legislation_id": 73479,
+ "page": "https://www.legis.ga.gov/legislation/73479",
+ "document_type": "SB",
+ "number": 546,
+ "legislation_type": "GEN",
+ "caption": "Death Investigations; include microscopic and toxicology studies and immunization records in the investigation of a sudden and unexpected death of a child; require coroner and medical examiners",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 16 of Title 45 of the Official Code of Georgia Annotated, relating to death investigations, so as to require coroners and medical examiners to include microscopic and toxicology studies and immunization records in the investigation of a sudden and unexpected death of a child; to amend Code Section 31-12-3.1 of the Official Code of Georgia Annotated, relating to vaccination registry, reporting requirements, maintenance, and use of information, so as to allow coroners and medical examiners to access vaccination records; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Public Safety",
+   "id": 81
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T11:45:22",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-24T10:06:32",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243447,
+   "label": "As introduced LC 64 0005",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243447"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:45:52+00:00",
+  "version:243447": "2026-11-20T20:45:52+00:00",
+  "status:67": "2026-11-20T20:45:52+00:00",
+  "status:3": "2026-11-20T20:45:52+00:00"
+ },
+ "updated": "2026-11-20T20:45:52+00:00"
+}

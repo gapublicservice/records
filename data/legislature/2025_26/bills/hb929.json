@@ -1,0 +1,74 @@
+{
+ "key": "HB 929",
+ "slug": "hb929",
+ "session": "2025_26",
+ "legislation_id": 72078,
+ "page": "https://www.legis.ga.gov/legislation/72078",
+ "document_type": "HB",
+ "number": 929,
+ "legislation_type": "GEN",
+ "caption": "Public Health, Department of; three-year pilot program for dietetics services for public elementary and secondary school students and patients at federally qualified health centers; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department of Public Health generally, so as to provide for a three-year pilot program for dietetics services for public elementary and secondary school students and patients at federally qualified health centers; to provide for reimbursement; to provide for reporting; to provide for definitions; to provide for termination of the pilot program and automatic repeal of the statute; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:54:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239277,
+   "label": "LC 60 0156/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239277"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:55+00:00",
+  "version:239277": "2026-11-20T19:01:55+00:00",
+  "status:40": "2026-11-20T19:01:55+00:00",
+  "status:33": "2026-11-20T19:01:55+00:00",
+  "status:34": "2026-11-20T19:01:55+00:00"
+ },
+ "updated": "2026-11-20T19:01:55+00:00"
+}

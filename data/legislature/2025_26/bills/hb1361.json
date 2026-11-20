@@ -1,0 +1,81 @@
+{
+ "key": "HB 1361",
+ "slug": "hb1361",
+ "session": "2025_26",
+ "legislation_id": 73339,
+ "page": "https://www.legis.ga.gov/legislation/73339",
+ "document_type": "HB",
+ "number": 1361,
+ "legislation_type": "GEN",
+ "caption": "Pharmacies; compounding of certain active pharmaceutical ingredients; provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 26 of the Official Code of Georgia Annotated, relating to pharmacists and pharmacies, so as to provide for the compounding of certain active pharmaceutical ingredients; to provide for definitions; to prohibit the sale, transfer, or distribution of certain compounded drugs under certain conditions; to require manufacturers and wholesalers to provide certain documentation; to provide for record maintenance; to provide for the timely furnishing of records to the State Board of Pharmacy; to authorize inspections by the State Board of Pharmacy; to provide for penalties and enforcement; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T11:20:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243020,
+   "label": "LC 52 1029/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243020"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:30+00:00",
+  "version:243020": "2026-11-20T19:20:30+00:00",
+  "status:40": "2026-11-20T19:20:30+00:00",
+  "status:33": "2026-11-20T19:20:30+00:00",
+  "status:34": "2026-11-20T19:20:30+00:00"
+ },
+ "updated": "2026-11-20T19:20:30+00:00"
+}

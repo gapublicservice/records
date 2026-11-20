@@ -1,0 +1,81 @@
+{
+ "key": "SR 868",
+ "slug": "sr868",
+ "session": "2025_26",
+ "legislation_id": 73697,
+ "page": "https://www.legis.ga.gov/legislation/73697",
+ "document_type": "SR",
+ "number": 868,
+ "legislation_type": "GEN",
+ "caption": "Richard Keith \"Rick\" Worley Memorial Intersection; Catoosa County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Richard Keith \"Rick\" Worley and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T15:28:47",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:12:55",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244175,
+   "label": "As introduced LC 39 4987",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244175"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:10:35+00:00",
+  "version:244175": "2026-11-20T21:10:35+00:00",
+  "status:67": "2026-11-20T21:10:35+00:00",
+  "status:3": "2026-11-20T21:10:35+00:00"
+ },
+ "updated": "2026-11-20T21:10:35+00:00"
+}

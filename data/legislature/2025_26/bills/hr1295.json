@@ -1,0 +1,82 @@
+{
+ "key": "HR 1295",
+ "slug": "hr1295",
+ "session": "2025_26",
+ "legislation_id": 73045,
+ "page": "https://www.legis.ga.gov/legislation/73045",
+ "document_type": "HR",
+ "number": 1295,
+ "legislation_type": "PRIV",
+ "caption": "Tardive Dyskinesia Awareness Week 2026; first full week in May; recognize",
+ "summary": "A RESOLUTION recognizing the first full week in May as Tardive Dyskinesia Awareness Week 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-09T13:05:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T14:04:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T14:04:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242081,
+   "label": "LC 129 1024/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242081"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:54+00:00",
+  "version:242081": "2026-11-20T19:59:54+00:00",
+  "status:40": "2026-11-20T19:59:54+00:00",
+  "status:33": "2026-11-20T19:59:54+00:00",
+  "status:48": "2026-11-20T19:59:54+00:00"
+ },
+ "updated": "2026-11-20T19:59:54+00:00"
+}

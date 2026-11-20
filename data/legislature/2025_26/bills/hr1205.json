@@ -1,0 +1,102 @@
+{
+ "key": "HR 1205",
+ "slug": "hr1205",
+ "session": "2025_26",
+ "legislation_id": 72790,
+ "page": "https://www.legis.ga.gov/legislation/72790",
+ "document_type": "HR",
+ "number": 1205,
+ "legislation_type": "GEN",
+ "caption": "State Representative \"Able\" Mable Thomas Intersection; Fulton County; dedicate",
+ "summary": "A RESOLUTION recognizing the Honorable \"Able\" Mable Thomas and dedicating an intersection in her honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-03T12:10:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T10:31:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T10:11:09",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241353,
+   "label": "LC 39 4895/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241353"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:51+00:00",
+  "version:241353": "2026-11-20T19:57:51+00:00",
+  "status:40": "2026-11-20T19:57:51+00:00",
+  "status:33": "2026-11-20T19:57:51+00:00",
+  "status:34": "2026-11-20T19:57:51+00:00"
+ },
+ "updated": "2026-11-20T19:57:51+00:00"
+}

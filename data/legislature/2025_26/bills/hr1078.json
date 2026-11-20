@@ -1,0 +1,61 @@
+{
+ "key": "HR 1078",
+ "slug": "hr1078",
+ "session": "2025_26",
+ "legislation_id": 72427,
+ "page": "https://www.legis.ga.gov/legislation/72427",
+ "document_type": "HR",
+ "number": 1078,
+ "legislation_type": "PRIV",
+ "caption": "Byrdsell, Reverend John G.; occasion of his 5th pastoral anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Reverend John G. Byrdsell on the occasion of his 5th pastoral anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:23:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240395,
+   "label": "LC 129 0737/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240395"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:06+00:00",
+  "version:240395": "2026-11-20T19:55:06+00:00",
+  "status:40": "2026-11-20T19:55:06+00:00",
+  "status:33": "2026-11-20T19:55:06+00:00",
+  "status:48": "2026-11-20T19:55:06+00:00"
+ },
+ "updated": "2026-11-20T19:55:06+00:00"
+}

@@ -1,0 +1,109 @@
+{
+ "key": "SB 606",
+ "slug": "sb606",
+ "session": "2025_26",
+ "legislation_id": 73717,
+ "page": "https://www.legis.ga.gov/legislation/73717",
+ "document_type": "SB",
+ "number": 606,
+ "legislation_type": "GEN",
+ "caption": "\"District Attorney Compensation Reform Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 18 of Title 15 of the Official Code of Georgia Annotated, relating to general provisions regarding prosecuting attorneys; to amend Code Section 45-7-4 of the Official Code of Georgia Annotated, relating to annual salaries of certain state officials and cost-of-living adjustments; to amend Chapter 3 of Title 1 of the Official Code of Georgia Annotated, relating to laws and statutes, so as to suspend the operation of local laws or local ordinances or resolutions that use a district attorney's salary for the calculation of the salary or compensation of other officers, officials, or employees; to provide a short title; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Special Committee on Investigations",
+   "id": 207
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T16:42:21",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:15:24",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-03T12:49:50",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-03-04T10:37:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244646,
+   "label": "Committee Sub LC 47 4151S",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244646"
+  },
+  {
+   "doc_id": 245288,
+   "label": "Floor Amend 1 AM 47 0182",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245288"
+  },
+  {
+   "doc_id": 244255,
+   "label": "As Introduced LC 47 4121",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244255"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:48:47+00:00",
+  "version:244646": "2026-11-20T20:48:47+00:00",
+  "version:245288": "2026-11-20T20:48:47+00:00",
+  "version:244255": "2026-11-20T20:48:47+00:00",
+  "status:67": "2026-11-20T20:48:47+00:00",
+  "status:3": "2026-11-20T20:48:47+00:00",
+  "status:8": "2026-11-20T20:48:47+00:00",
+  "status:10": "2026-11-20T20:48:47+00:00",
+  "status:64": "2026-11-20T20:48:47+00:00"
+ },
+ "updated": "2026-11-20T20:48:47+00:00"
+}

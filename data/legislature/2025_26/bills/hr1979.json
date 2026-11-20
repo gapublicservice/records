@@ -1,0 +1,89 @@
+{
+ "key": "HR 1979",
+ "slug": "hr1979",
+ "session": "2025_26",
+ "legislation_id": 74550,
+ "page": "https://www.legis.ga.gov/legislation/74550",
+ "document_type": "HR",
+ "number": 1979,
+ "legislation_type": "PRIV",
+ "caption": "Hyland, Donna W.; retirement from Children's Healthcare of Atlanta; commend",
+ "summary": "A RESOLUTION recognizing and commending Donna W. Hyland upon her retirement from Children's Healthcare of Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:01:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247958,
+   "label": "LC 129 1491/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247958"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:10+00:00",
+  "version:247958": "2026-11-20T20:15:10+00:00",
+  "status:40": "2026-11-20T20:15:10+00:00",
+  "status:33": "2026-11-20T20:15:10+00:00",
+  "status:48": "2026-11-20T20:15:10+00:00"
+ },
+ "updated": "2026-11-20T20:15:10+00:00"
+}

@@ -1,0 +1,97 @@
+{
+ "key": "SB 514",
+ "slug": "sb514",
+ "session": "2025_26",
+ "legislation_id": 73242,
+ "page": "https://www.legis.ga.gov/legislation/73242",
+ "document_type": "SB",
+ "number": 514,
+ "legislation_type": "GEN",
+ "caption": "Primaries and Elections; use of ballot drop boxes; eliminate authorization",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to primaries and elections generally, so as to eliminate authorization for the use of ballot drop boxes; to revise provisions relating to dates for certain special elections related to sales and use taxes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T10:32:38",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-18T10:11:09",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242720,
+   "label": "As introduced LC 47 4006",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242720"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:44:27+00:00",
+  "version:242720": "2026-11-20T20:44:27+00:00",
+  "status:67": "2026-11-20T20:44:27+00:00",
+  "status:3": "2026-11-20T20:44:27+00:00"
+ },
+ "updated": "2026-11-20T20:44:27+00:00"
+}

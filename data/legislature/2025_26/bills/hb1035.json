@@ -1,0 +1,109 @@
+{
+ "key": "HB 1035",
+ "slug": "hb1035",
+ "session": "2025_26",
+ "legislation_id": 72365,
+ "page": "https://www.legis.ga.gov/legislation/72365",
+ "document_type": "HB",
+ "number": 1035,
+ "legislation_type": "GEN",
+ "caption": "Georgia Homeownership Protection Act of 2026; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 36, 44, 46, and 48 of the Official Code of Georgia Annotated, relating to local government, property, public utilities and public transportation, and revenue and taxation, respectively, so as to prohibit local governments from adding unpaid service charges to the ad valorem tax roll for purposes of tax execution or tax sale of an owner occupied dwelling; to provide for civil remedies and penalties; to make conforming changes; to provide for a short title; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:40:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T10:20:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240219,
+   "label": "LC 62 0241/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240219"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:49+00:00",
+  "version:240219": "2026-11-20T19:06:49+00:00",
+  "status:40": "2026-11-20T19:06:49+00:00",
+  "status:33": "2026-11-20T19:06:49+00:00",
+  "status:34": "2026-11-20T19:06:49+00:00",
+  "status:39": "2026-11-20T19:06:49+00:00"
+ },
+ "updated": "2026-11-20T19:06:49+00:00"
+}

@@ -1,0 +1,109 @@
+{
+ "key": "HB 1299",
+ "slug": "hb1299",
+ "session": "2025_26",
+ "legislation_id": 73176,
+ "page": "https://www.legis.ga.gov/legislation/73176",
+ "document_type": "HB",
+ "number": 1299,
+ "legislation_type": "GEN",
+ "caption": "Health; allow hospital authorities to acquire, develop, operate, or equip certain outpatient healthcare facilities",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 7 of Title 31 of the Official Code of Georgia Annotated, relating to county and municipal hospital authorities, so as to allow hospital authorities to acquire, develop, operate, or equip certain outpatient healthcare facilities; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T11:22:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:56:44",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242518,
+   "label": "LC 46 1373/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242518"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:13+00:00",
+  "version:242518": "2026-11-20T19:18:13+00:00",
+  "status:40": "2026-11-20T19:18:13+00:00",
+  "status:33": "2026-11-20T19:18:13+00:00",
+  "status:34": "2026-11-20T19:18:13+00:00",
+  "status:39": "2026-11-20T19:18:13+00:00"
+ },
+ "updated": "2026-11-20T19:18:13+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 406",
+ "slug": "hr406",
+ "session": "2025_26",
+ "legislation_id": 70869,
+ "page": "https://www.legis.ga.gov/legislation/70869",
+ "document_type": "HR",
+ "number": 406,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Municipal Court Clerks Council Day at the state capitol; 02/27/25; recognize",
+ "summary": "A RESOLUTION recognizing February 27, 2025, as Georgia Municipal Court Clerks Council Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4969,
+   "name": "Yearta, Bill 152nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:30:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234090,
+   "label": "LC 112 3126/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234090"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:51+00:00",
+  "version:234090": "2026-11-20T19:39:51+00:00",
+  "status:40": "2026-11-20T19:39:51+00:00",
+  "status:33": "2026-11-20T19:39:51+00:00",
+  "status:48": "2026-11-20T19:39:51+00:00"
+ },
+ "updated": "2026-11-20T19:39:51+00:00"
+}

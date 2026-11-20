@@ -1,0 +1,102 @@
+{
+ "key": "HB 1281",
+ "slug": "hb1281",
+ "session": "2025_26",
+ "legislation_id": 73130,
+ "page": "https://www.legis.ga.gov/legislation/73130",
+ "document_type": "HB",
+ "number": 1281,
+ "legislation_type": "GEN",
+ "caption": "Education; require child care learning centers to carry certain amounts of liability insurance coverage and to provide proof of such coverage",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1A of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to the Department of Early Care and Learning, so as to require child care learning centers to carry certain amounts of liability insurance coverage and to provide proof of such coverage; to provide for penalties; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-11T12:01:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T10:53:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T09:58:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242373,
+   "label": "LC 61 0343/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242373"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:17:25+00:00",
+  "version:242373": "2026-11-20T19:17:25+00:00",
+  "status:40": "2026-11-20T19:17:25+00:00",
+  "status:33": "2026-11-20T19:17:25+00:00",
+  "status:34": "2026-11-20T19:17:25+00:00"
+ },
+ "updated": "2026-11-20T19:17:25+00:00"
+}

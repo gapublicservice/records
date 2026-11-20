@@ -1,0 +1,96 @@
+{
+ "key": "HR 1055",
+ "slug": "hr1055",
+ "session": "2025_26",
+ "legislation_id": 72400,
+ "page": "https://www.legis.ga.gov/legislation/72400",
+ "document_type": "HR",
+ "number": 1055,
+ "legislation_type": "PRIV",
+ "caption": "Hembree, Representative Bill; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Representative Bill Hembree; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:07:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240337,
+   "label": "LC 129 0662/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240337"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:37+00:00",
+  "version:240337": "2026-11-20T19:54:37+00:00",
+  "status:40": "2026-11-20T19:54:37+00:00",
+  "status:33": "2026-11-20T19:54:37+00:00",
+  "status:48": "2026-11-20T19:54:37+00:00"
+ },
+ "updated": "2026-11-20T19:54:37+00:00"
+}

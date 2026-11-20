@@ -1,0 +1,109 @@
+{
+ "key": "HB 585",
+ "slug": "hb585",
+ "session": "2025_26",
+ "legislation_id": 70694,
+ "page": "https://www.legis.ga.gov/legislation/70694",
+ "document_type": "HB",
+ "number": 585,
+ "legislation_type": "GEN",
+ "caption": "Insurance; motor vehicle policy; provide excluded driver",
+ "summary": "A BILL to be entitled an Act to amend Titles 33 and 40 of the Official Code of Georgia Annotated, relating to insurance and motor vehicles and traffic, respectively, so as to provide for an excluded driver under a motor vehicle insurance policy; to provide for definitions; to require an insurer to identify any excluded drivers in proof or evidence of required minimum insurance coverage; to provide for rules; to provide a penalty for an excluded driver operating a motor vehicle without proof of insurance; to provide for a penalty for an excluded driver operating a vehicle without insurance; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T12:14:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T10:40:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T10:19:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-10T09:40:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242134,
+   "label": "LC 52 1002S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242134"
+  },
+  {
+   "doc_id": 233496,
+   "label": "LC 52 0785/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233496"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:44:29+00:00",
+  "version:242134": "2026-11-20T18:44:29+00:00",
+  "version:233496": "2026-11-20T18:44:29+00:00",
+  "status:40": "2026-11-20T18:44:29+00:00",
+  "status:33": "2026-11-20T18:44:29+00:00",
+  "status:34": "2026-11-20T18:44:29+00:00",
+  "status:39": "2026-11-20T18:44:29+00:00"
+ },
+ "updated": "2026-11-20T18:44:29+00:00"
+}

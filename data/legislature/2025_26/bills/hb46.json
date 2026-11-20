@@ -1,0 +1,81 @@
+{
+ "key": "HB 46",
+ "slug": "hb46",
+ "session": "2025_26",
+ "legislation_id": 69343,
+ "page": "https://www.legis.ga.gov/legislation/69343",
+ "document_type": "HB",
+ "number": 46,
+ "legislation_type": "GEN",
+ "caption": "Public Health, Department of; Maternal Mortality Review Committee; provide composition",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to general provisions relative to the Department of Public Health, so as to provide for the composition of the Maternal Mortality Review Committee; to provide for causes for which members of the committee may be removed from office; to provide for reports to the General Assembly by the committee; to provide for the filling of vacancies on the committee; to provide for compliance with confidentiality laws; to provide for investigations and reports in response to unauthorized disclosures of confidential information; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:41:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-15T10:39:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-16T10:14:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229912,
+   "label": "LC 61 0024/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229912"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:17:51+00:00",
+  "version:229912": "2026-11-20T18:17:51+00:00",
+  "status:40": "2026-11-20T18:17:51+00:00",
+  "status:33": "2026-11-20T18:17:51+00:00",
+  "status:34": "2026-11-20T18:17:51+00:00"
+ },
+ "updated": "2026-11-20T18:17:51+00:00"
+}

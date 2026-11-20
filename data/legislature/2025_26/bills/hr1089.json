@@ -1,0 +1,61 @@
+{
+ "key": "HR 1089",
+ "slug": "hr1089",
+ "session": "2025_26",
+ "legislation_id": 72440,
+ "page": "https://www.legis.ga.gov/legislation/72440",
+ "document_type": "HR",
+ "number": 1089,
+ "legislation_type": "PRIV",
+ "caption": "Dodson, Major Craig; commend",
+ "summary": "A RESOLUTION recognizing and commending Major Craig Dodson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:28:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:42:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:42:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240379,
+   "label": "LC 129 0710/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240379"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:20+00:00",
+  "version:240379": "2026-11-20T19:55:20+00:00",
+  "status:40": "2026-11-20T19:55:20+00:00",
+  "status:33": "2026-11-20T19:55:20+00:00",
+  "status:48": "2026-11-20T19:55:20+00:00"
+ },
+ "updated": "2026-11-20T19:55:20+00:00"
+}

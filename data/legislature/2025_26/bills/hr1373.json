@@ -1,0 +1,61 @@
+{
+ "key": "HR 1373",
+ "slug": "hr1373",
+ "session": "2025_26",
+ "legislation_id": 73302,
+ "page": "https://www.legis.ga.gov/legislation/73302",
+ "document_type": "HR",
+ "number": 1373,
+ "legislation_type": "PRIV",
+ "caption": "Self, Edwin Marion, Jr.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Edwin Marion Self, Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:10:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:14",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242898,
+   "label": "LC 129 1148/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242898"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:03+00:00",
+  "version:242898": "2026-11-20T20:02:03+00:00",
+  "status:40": "2026-11-20T20:02:03+00:00",
+  "status:33": "2026-11-20T20:02:03+00:00",
+  "status:48": "2026-11-20T20:02:03+00:00"
+ },
+ "updated": "2026-11-20T20:02:03+00:00"
+}

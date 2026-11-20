@@ -1,0 +1,1742 @@
+{
+ "key": "SB 125",
+ "slug": "sb125",
+ "session": "2025_26",
+ "legislation_id": 70079,
+ "page": "https://www.legis.ga.gov/legislation/70079",
+ "document_type": "SB",
+ "number": 125,
+ "legislation_type": "GEN",
+ "caption": "Professional Engineers and Land Surveyors; decouple the sequential order of experience and examination requirements",
+ "summary": "A BILL to be entitled an Act to amend Chapter 15 of Title 43 of the Official Code of Georgia Annotated, relating to professional engineers and land surveyors, so as to decouple the sequential order of experience and examination requirements; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  },
+  {
+   "chamber": "Senate",
+   "name": "Regulated Industries and Utilities",
+   "id": 141
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T15:20:05",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-10T10:11:58",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-18T12:48:06",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-02-19T10:39:08",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2025-02-24T11:29:46",
+   "code": "STR",
+   "action": "Senate Third Read",
+   "id": 11
+  },
+  {
+   "date": "2025-02-24T11:34:09",
+   "code": "SPA",
+   "action": "Senate Passed/Adopted",
+   "id": 99
+  },
+  {
+   "date": "2025-02-26T11:02:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-18T15:44:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-03-31T16:00:48",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2025-04-02T14:28:37",
+   "code": "HTR",
+   "action": "House Third Readers",
+   "id": 35
+  },
+  {
+   "date": "2025-04-02T14:31:19",
+   "code": "HPA",
+   "action": "House Passed/Adopted By Substitute",
+   "id": 100
+  },
+  {
+   "date": "2025-04-04T17:16:07",
+   "code": "SAHAS",
+   "action": "Senate Agreed House Amend or Sub",
+   "id": 21
+  },
+  {
+   "date": "2025-04-10T11:13:57",
+   "code": "SSG",
+   "action": "Senate Sent to Governor",
+   "id": 108
+  },
+  {
+   "date": "2025-05-09T11:31:43",
+   "code": "SDSG",
+   "action": "Senate Date Signed by Governor",
+   "id": 111
+  },
+  {
+   "date": "2025-05-09T23:59:59",
+   "code": "Signed Gov",
+   "action": "Act 93",
+   "id": -1
+  },
+  {
+   "date": "2025-07-01T23:59:59",
+   "code": "EFF",
+   "action": "Effective Date",
+   "id": -2
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239595,
+   "label": "SB 125/AP*",
+   "version": 9,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239595"
+  },
+  {
+   "doc_id": 238578,
+   "label": "LC 55 0644S/hrcs",
+   "version": 7,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238578"
+  },
+  {
+   "doc_id": 233603,
+   "label": "As Passed Senate",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233603"
+  },
+  {
+   "doc_id": 231719,
+   "label": "As introduced LC 46 9001",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231719"
+  }
+ ],
+ "votes": [
+  {
+   "vote_id": 24868,
+   "chamber": "Senate",
+   "date": "2025-02-24T11:33:00",
+   "roll_call": "Senate Vote #87 - 2025-2026 Regular Session",
+   "motion": "PASSAGE",
+   "yea": 56,
+   "nay": 0,
+   "not_voting": 0,
+   "excused": 0,
+   "members": [
+    {
+     "name": "ALBERS, 56TH",
+     "member_id": 754,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANAVITARTE, 31ST",
+     "member_id": 4980,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANDERSON, 24TH",
+     "member_id": 723,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANDERSON, 43RD",
+     "member_id": 807,
+     "vote": "Yea"
+    },
+    {
+     "name": "BEACH, 21ST",
+     "member_id": 840,
+     "vote": "Yea"
+    },
+    {
+     "name": "BEARDEN, 30TH",
+     "member_id": 62,
+     "vote": "Yea"
+    },
+    {
+     "name": "BRASS, 6TH",
+     "member_id": 4907,
+     "vote": "Yea"
+    },
+    {
+     "name": "BURNS, 23RD",
+     "member_id": 4979,
+     "vote": "Yea"
+    },
+    {
+     "name": "COWSERT, 46TH",
+     "member_id": 9,
+     "vote": "Yea"
+    },
+    {
+     "name": "DAVENPORT, 17TH",
+     "member_id": 10,
+     "vote": "Yea"
+    },
+    {
+     "name": "DIXON, 45TH",
+     "member_id": 4982,
+     "vote": "Yea"
+    },
+    {
+     "name": "DOLEZAL, 27TH",
+     "member_id": 4925,
+     "vote": "Yea"
+    },
+    {
+     "name": "ECHOLS, 49TH",
+     "member_id": 5067,
+     "vote": "Yea"
+    },
+    {
+     "name": "ESTEVES, 35TH",
+     "member_id": 5014,
+     "vote": "Yea"
+    },
+    {
+     "name": "GINN, 47TH",
+     "member_id": 751,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOOCH, 51ST",
+     "member_id": 752,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOODMAN, 8TH",
+     "member_id": 4977,
+     "vote": "Yea"
+    },
+    {
+     "name": "HALPERN, 39TH",
+     "member_id": 4985,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARBIN, 16TH",
+     "member_id": 850,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARBISON, 15TH",
+     "member_id": 17,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARRELL, 40TH",
+     "member_id": 311,
+     "vote": "Yea"
+    },
+    {
+     "name": "HATCHETT, 50TH",
+     "member_id": 4984,
+     "vote": "Yea"
+    },
+    {
+     "name": "HICKMAN, 4TH",
+     "member_id": 4972,
+     "vote": "Yea"
+    },
+    {
+     "name": "HODGES, 3RD",
+     "member_id": 5013,
+     "vote": "Yea"
+    },
+    {
+     "name": "HUFSTETLER, 52ND",
+     "member_id": 838,
+     "vote": "Yea"
+    },
+    {
+     "name": "JACKSON, 41ST",
+     "member_id": 4981,
+     "vote": "Yea"
+    },
+    {
+     "name": "JAMES, 28TH",
+     "member_id": 372,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES, 10TH",
+     "member_id": 28,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES II, 22ND",
+     "member_id": 851,
+     "vote": "Yea"
+    },
+    {
+     "name": "KEMP, 38TH",
+     "member_id": 5066,
+     "vote": "Yea"
+    },
+    {
+     "name": "KENNEDY, 18TH",
+     "member_id": 852,
+     "vote": "Yea"
+    },
+    {
+     "name": "KIRKPATRICK, 32ND",
+     "member_id": 4910,
+     "vote": "Yea"
+    },
+    {
+     "name": "LUCAS, 26TH",
+     "member_id": 157,
+     "vote": "Yea"
+    },
+    {
+     "name": "MALLOW, 2ND",
+     "member_id": 5007,
+     "vote": "Yea"
+    },
+    {
+     "name": "MANGHAM, 55TH",
+     "member_id": 161,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCLAURIN, 14TH",
+     "member_id": 4942,
+     "vote": "Yea"
+    },
+    {
+     "name": "MERRITT, 9TH",
+     "member_id": 4978,
+     "vote": "Yea"
+    },
+    {
+     "name": "MOORE, 53RD",
+     "member_id": 4933,
+     "vote": "Yea"
+    },
+    {
+     "name": "ORROCK, 36TH",
+     "member_id": 33,
+     "vote": "Yea"
+    },
+    {
+     "name": "PARENT, 44TH",
+     "member_id": 768,
+     "vote": "Yea"
+    },
+    {
+     "name": "PARKES, 7TH",
+     "member_id": 5015,
+     "vote": "Yea"
+    },
+    {
+     "name": "PAYNE, 54TH",
+     "member_id": 4909,
+     "vote": "Yea"
+    },
+    {
+     "name": "RAHMAN, 5TH",
+     "member_id": 4924,
+     "vote": "Yea"
+    },
+    {
+     "name": "RHETT, 33RD",
+     "member_id": 855,
+     "vote": "Yea"
+    },
+    {
+     "name": "ROBERTSON, 29TH",
+     "member_id": 4926,
+     "vote": "Yea"
+    },
+    {
+     "name": "SETZLER, 37TH",
+     "member_id": 203,
+     "vote": "Yea"
+    },
+    {
+     "name": "SIMS, 12TH",
+     "member_id": 209,
+     "vote": "Yea"
+    },
+    {
+     "name": "STILL, 48TH",
+     "member_id": 5016,
+     "vote": "Yea"
+    },
+    {
+     "name": "STRICKLAND, 42ND",
+     "member_id": 835,
+     "vote": "Yea"
+    },
+    {
+     "name": "SUMMERS, 13TH",
+     "member_id": 4971,
+     "vote": "Yea"
+    },
+    {
+     "name": "TILLERY, 19TH",
+     "member_id": 4908,
+     "vote": "Yea"
+    },
+    {
+     "name": "WALKER, III, 20TH",
+     "member_id": 4878,
+     "vote": "Yea"
+    },
+    {
+     "name": "WATSON, 1ST",
+     "member_id": 784,
+     "vote": "Yea"
+    },
+    {
+     "name": "WATSON, 11TH",
+     "member_id": 837,
+     "vote": "Yea"
+    },
+    {
+     "name": "WICKS, 34TH",
+     "member_id": 5065,
+     "vote": "Yea"
+    },
+    {
+     "name": "WILLIAMS, 25TH",
+     "member_id": 4905,
+     "vote": "Yea"
+    }
+   ]
+  },
+  {
+   "vote_id": 25495,
+   "chamber": "House",
+   "date": "2025-04-02T14:28:00",
+   "roll_call": "House Vote #385 - 2025-2026 Regular Session",
+   "motion": "PASSAGE",
+   "yea": 104,
+   "nay": 61,
+   "not_voting": 7,
+   "excused": 8,
+   "members": [
+    {
+     "name": "ADESANYA, 43RD",
+     "member_id": 5025,
+     "vote": "Nay"
+    },
+    {
+     "name": "ADEYINA, 110TH",
+     "member_id": 5044,
+     "vote": "Nay"
+    },
+    {
+     "name": "ALEXANDER, 66TH",
+     "member_id": 806,
+     "vote": "Nay"
+    },
+    {
+     "name": "ANDERSON, 10TH",
+     "member_id": 4989,
+     "vote": "Yea"
+    },
+    {
+     "name": "AU, 50TH",
+     "member_id": 4983,
+     "vote": "Nay"
+    },
+    {
+     "name": "BAKER, 64TH",
+     "member_id": 5071,
+     "vote": "Excused"
+    },
+    {
+     "name": "BALLARD, 147TH",
+     "member_id": 5051,
+     "vote": "Yea"
+    },
+    {
+     "name": "BALLINGER, 23RD",
+     "member_id": 808,
+     "vote": "Yea"
+    },
+    {
+     "name": "BARNES, 86TH",
+     "member_id": 5037,
+     "vote": "Nay"
+    },
+    {
+     "name": "BARRETT, 24TH",
+     "member_id": 5020,
+     "vote": "Yea"
+    },
+    {
+     "name": "BARTON, 5TH",
+     "member_id": 4966,
+     "vote": "Yea"
+    },
+    {
+     "name": "BAZEMORE, 69TH",
+     "member_id": 4890,
+     "vote": "Nay"
+    },
+    {
+     "name": "BECKLES, 96TH",
+     "member_id": 5076,
+     "vote": "Nay"
+    },
+    {
+     "name": "BELL, 75TH",
+     "member_id": 5061,
+     "vote": "Excused"
+    },
+    {
+     "name": "BENNETT, 94TH",
+     "member_id": 810,
+     "vote": "Nay"
+    },
+    {
+     "name": "BERRY, 56TH",
+     "member_id": 5069,
+     "vote": "Nay"
+    },
+    {
+     "name": "BLACKMON, 146TH",
+     "member_id": 1878,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "BONNER, 73RD",
+     "member_id": 4893,
+     "vote": "Yea"
+    },
+    {
+     "name": "BUCKNER, 137TH",
+     "member_id": 71,
+     "vote": "Nay"
+    },
+    {
+     "name": "BURCHETT, 176TH",
+     "member_id": 4967,
+     "vote": "Yea"
+    },
+    {
+     "name": "BURNOUGH, 77TH",
+     "member_id": 4895,
+     "vote": "Nay"
+    },
+    {
+     "name": "BURNS, 159TH",
+     "member_id": 73,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "BYRD, 20TH",
+     "member_id": 75,
+     "vote": "Yea"
+    },
+    {
+     "name": "CAMERON, 1ST",
+     "member_id": 4986,
+     "vote": "Yea"
+    },
+    {
+     "name": "CAMP, 135TH",
+     "member_id": 5004,
+     "vote": "Yea"
+    },
+    {
+     "name": "CAMPBELL, 35TH",
+     "member_id": 5023,
+     "vote": "Nay"
+    },
+    {
+     "name": "CAMPBELL, 171ST",
+     "member_id": 4970,
+     "vote": "Yea"
+    },
+    {
+     "name": "CANNON, 58TH",
+     "member_id": 4880,
+     "vote": "Nay"
+    },
+    {
+     "name": "CANNON, 172ND",
+     "member_id": 5058,
+     "vote": "Yea"
+    },
+    {
+     "name": "CARPENTER, 4TH",
+     "member_id": 4911,
+     "vote": "Yea"
+    },
+    {
+     "name": "CARSON, 46TH",
+     "member_id": 795,
+     "vote": "Nay"
+    },
+    {
+     "name": "CARTER, 93RD",
+     "member_id": 3877,
+     "vote": "Nay"
+    },
+    {
+     "name": "CHASTAIN, 7TH",
+     "member_id": 5057,
+     "vote": "Yea"
+    },
+    {
+     "name": "CHEOKAS, 151ST",
+     "member_id": 81,
+     "vote": "Yea"
+    },
+    {
+     "name": "CLARK, 100TH",
+     "member_id": 867,
+     "vote": "Yea"
+    },
+    {
+     "name": "CLARK, 108TH",
+     "member_id": 4953,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "CLIFTON, 131ST",
+     "member_id": 5080,
+     "vote": "Yea"
+    },
+    {
+     "name": "COOPER, 45TH",
+     "member_id": 86,
+     "vote": "Yea"
+    },
+    {
+     "name": "CORBETT, 174TH",
+     "member_id": 859,
+     "vote": "Yea"
+    },
+    {
+     "name": "COX, 28TH",
+     "member_id": 5021,
+     "vote": "Yea"
+    },
+    {
+     "name": "CRAWFORD, 89TH",
+     "member_id": 5036,
+     "vote": "Nay"
+    },
+    {
+     "name": "CROWE, 118TH",
+     "member_id": 5002,
+     "vote": "Yea"
+    },
+    {
+     "name": "CUMMINGS, 39TH",
+     "member_id": 5024,
+     "vote": "Nay"
+    },
+    {
+     "name": "DAVIS, 87TH",
+     "member_id": 4947,
+     "vote": "Nay"
+    },
+    {
+     "name": "DAWSON, 65TH",
+     "member_id": 5072,
+     "vote": "Nay"
+    },
+    {
+     "name": "DELOACH, 167TH",
+     "member_id": 303,
+     "vote": "Yea"
+    },
+    {
+     "name": "DEMPSEY, 13TH",
+     "member_id": 92,
+     "vote": "Yea"
+    },
+    {
+     "name": "DICKEY, 134TH",
+     "member_id": 791,
+     "vote": "Yea"
+    },
+    {
+     "name": "DONATUCCI, 105TH",
+     "member_id": 5077,
+     "vote": "Yea"
+    },
+    {
+     "name": "DOUGLAS, 78TH",
+     "member_id": 817,
+     "vote": "Yea"
+    },
+    {
+     "name": "DRAPER, 90TH",
+     "member_id": 5038,
+     "vote": "Nay"
+    },
+    {
+     "name": "DRENNER, 85TH",
+     "member_id": 95,
+     "vote": "Nay"
+    },
+    {
+     "name": "DUBNIK, 29TH",
+     "member_id": 4886,
+     "vote": "Yea"
+    },
+    {
+     "name": "DUNAHOO, 31ST",
+     "member_id": 797,
+     "vote": "Yea"
+    },
+    {
+     "name": "EFSTRATION, 104TH",
+     "member_id": 846,
+     "vote": "Yea"
+    },
+    {
+     "name": "EHRHART, 36TH",
+     "member_id": 4937,
+     "vote": "Yea"
+    },
+    {
+     "name": "ERWIN, 32ND",
+     "member_id": 4965,
+     "vote": "Yea"
+    },
+    {
+     "name": "EVANS, 57TH",
+     "member_id": 762,
+     "vote": "Yea"
+    },
+    {
+     "name": "FLEMING, 114TH",
+     "member_id": 5046,
+     "vote": "Yea"
+    },
+    {
+     "name": "FLOURNOY, 74TH",
+     "member_id": 5074,
+     "vote": "Nay"
+    },
+    {
+     "name": "FORD, 170TH",
+     "member_id": 5085,
+     "vote": "Yea"
+    },
+    {
+     "name": "FRANKLIN, 160TH",
+     "member_id": 5053,
+     "vote": "Yea"
+    },
+    {
+     "name": "FRYE, 122ND",
+     "member_id": 819,
+     "vote": "Nay"
+    },
+    {
+     "name": "GAINES, 120TH",
+     "member_id": 4955,
+     "vote": "Yea"
+    },
+    {
+     "name": "GAMBILL, 15TH",
+     "member_id": 4934,
+     "vote": "Yea"
+    },
+    {
+     "name": "GILLIARD, 162ND",
+     "member_id": 4881,
+     "vote": "Excused"
+    },
+    {
+     "name": "GLAIZE, 67TH",
+     "member_id": 5031,
+     "vote": "Yea"
+    },
+    {
+     "name": "GREENE, 154TH",
+     "member_id": 115,
+     "vote": "Yea"
+    },
+    {
+     "name": "GRIFFIN, 149TH",
+     "member_id": 5083,
+     "vote": "Nay"
+    },
+    {
+     "name": "GULLETT, 19TH",
+     "member_id": 4936,
+     "vote": "Yea"
+    },
+    {
+     "name": "GUNTER, 8TH",
+     "member_id": 4987,
+     "vote": "Yea"
+    },
+    {
+     "name": "HAGAN, 156TH",
+     "member_id": 5010,
+     "vote": "Yea"
+    },
+    {
+     "name": "HATCHETT, 155TH",
+     "member_id": 781,
+     "vote": "Yea"
+    },
+    {
+     "name": "HAWKINS, 27TH",
+     "member_id": 19,
+     "vote": "Yea"
+    },
+    {
+     "name": "HEFFNER, 130TH",
+     "member_id": 5048,
+     "vote": "Yea"
+    },
+    {
+     "name": "HENDERSON, 113TH",
+     "member_id": 5003,
+     "vote": "Nay"
+    },
+    {
+     "name": "HERRING, 145TH",
+     "member_id": 5082,
+     "vote": "Yea"
+    },
+    {
+     "name": "HILTON, 48TH",
+     "member_id": 4899,
+     "vote": "Yea"
+    },
+    {
+     "name": "HITCHENS, 161ST",
+     "member_id": 823,
+     "vote": "Yea"
+    },
+    {
+     "name": "HOLCOMB, 101ST",
+     "member_id": 769,
+     "vote": "Nay"
+    },
+    {
+     "name": "HOLLAND, 54TH",
+     "member_id": 4943,
+     "vote": "Nay"
+    },
+    {
+     "name": "HOLLY, 116TH",
+     "member_id": 4954,
+     "vote": "Nay"
+    },
+    {
+     "name": "HONG, 103RD",
+     "member_id": 5042,
+     "vote": "Yea"
+    },
+    {
+     "name": "HORNER, 3RD",
+     "member_id": 5018,
+     "vote": "Yea"
+    },
+    {
+     "name": "HOWARD, 71ST",
+     "member_id": 5073,
+     "vote": "Yea"
+    },
+    {
+     "name": "HOWARD, 129TH",
+     "member_id": 5056,
+     "vote": "Nay"
+    },
+    {
+     "name": "HUDDLESTON, 72ND",
+     "member_id": 5033,
+     "vote": "Yea"
+    },
+    {
+     "name": "HUGLEY, 141ST",
+     "member_id": 133,
+     "vote": "Nay"
+    },
+    {
+     "name": "HUTCHINSON, 106TH",
+     "member_id": 4952,
+     "vote": "Excused"
+    },
+    {
+     "name": "JACKSON, 68TH",
+     "member_id": 4891,
+     "vote": "Nay"
+    },
+    {
+     "name": "JACKSON, 128TH",
+     "member_id": 738,
+     "vote": "Excused"
+    },
+    {
+     "name": "JACKSON, 165TH",
+     "member_id": 5011,
+     "vote": "Nay"
+    },
+    {
+     "name": "JASPERSE, 11TH",
+     "member_id": 755,
+     "vote": "Yea"
+    },
+    {
+     "name": "JENKINS, 136TH",
+     "member_id": 5005,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES, 25TH",
+     "member_id": 4885,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES, 47TH",
+     "member_id": 142,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES, 60TH",
+     "member_id": 143,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "JONES, 143RD",
+     "member_id": 5081,
+     "vote": "Nay"
+    },
+    {
+     "name": "KAHAIAN, 81ST",
+     "member_id": 5075,
+     "vote": "Yea"
+    },
+    {
+     "name": "KELLEY, 16TH",
+     "member_id": 825,
+     "vote": "Yea"
+    },
+    {
+     "name": "KENDRICK, 95TH",
+     "member_id": 770,
+     "vote": "Yea"
+    },
+    {
+     "name": "LAHOOD, 175TH",
+     "member_id": 4923,
+     "vote": "Excused"
+    },
+    {
+     "name": "LEVERETT, 123RD",
+     "member_id": 4993,
+     "vote": "Yea"
+    },
+    {
+     "name": "LEWIS-WARD, 115TH",
+     "member_id": 5001,
+     "vote": "Yea"
+    },
+    {
+     "name": "LIM, 98TH",
+     "member_id": 4999,
+     "vote": "Nay"
+    },
+    {
+     "name": "LUMSDEN, 12TH",
+     "member_id": 826,
+     "vote": "Yea"
+    },
+    {
+     "name": "LUPTON, 83RD",
+     "member_id": 5035,
+     "vote": "Nay"
+    },
+    {
+     "name": "MARTIN, 49TH",
+     "member_id": 164,
+     "vote": "Yea"
+    },
+    {
+     "name": "MARTINEZ, 111TH",
+     "member_id": 5045,
+     "vote": "Yea"
+    },
+    {
+     "name": "MATHIAK, 82ND",
+     "member_id": 4894,
+     "vote": "Yea"
+    },
+    {
+     "name": "MATHIS, 133RD",
+     "member_id": 4959,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCCLAIN, 109TH",
+     "member_id": 845,
+     "vote": "Nay"
+    },
+    {
+     "name": "MCCOLLUM, 30TH",
+     "member_id": 5022,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCDONALD III, 26TH",
+     "member_id": 4992,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCQUEEN, 61ST",
+     "member_id": 5070,
+     "vote": "Nay"
+    },
+    {
+     "name": "MEEKS, 178TH",
+     "member_id": 4961,
+     "vote": "Yea"
+    },
+    {
+     "name": "MILLER, 62ND",
+     "member_id": 5029,
+     "vote": "Nay"
+    },
+    {
+     "name": "MITCHELL, 88TH",
+     "member_id": 172,
+     "vote": "Nay"
+    },
+    {
+     "name": "MOMTAHAN, 17TH",
+     "member_id": 4935,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "MOORE, 91ST",
+     "member_id": 5008,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "MYLES, 126TH",
+     "member_id": 5079,
+     "vote": "Nay"
+    },
+    {
+     "name": "NEAL, 79TH",
+     "member_id": 765,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "NEW, 40TH",
+     "member_id": 5030,
+     "vote": "Yea"
+    },
+    {
+     "name": "NEWTON, 127TH",
+     "member_id": 4902,
+     "vote": "Yea"
+    },
+    {
+     "name": "OKOYE, 102ND",
+     "member_id": 5041,
+     "vote": "Nay"
+    },
+    {
+     "name": "OLALEYE, 59TH",
+     "member_id": 5028,
+     "vote": "Nay"
+    },
+    {
+     "name": "OLIVER, 84TH",
+     "member_id": 181,
+     "vote": "Yea"
+    },
+    {
+     "name": "O'STEEN, 169TH",
+     "member_id": 5084,
+     "vote": "Yea"
+    },
+    {
+     "name": "PANITCH, 51ST",
+     "member_id": 5026,
+     "vote": "Nay"
+    },
+    {
+     "name": "PARIS, 142ND",
+     "member_id": 794,
+     "vote": "Nay"
+    },
+    {
+     "name": "PARK, 107TH",
+     "member_id": 4901,
+     "vote": "Nay"
+    },
+    {
+     "name": "PARRISH, 158TH",
+     "member_id": 183,
+     "vote": "Yea"
+    },
+    {
+     "name": "PARSONS, 44TH",
+     "member_id": 184,
+     "vote": "Yea"
+    },
+    {
+     "name": "PERSINGER, 119TH",
+     "member_id": 5060,
+     "vote": "Yea"
+    },
+    {
+     "name": "PETREA, 166TH",
+     "member_id": 862,
+     "vote": "Yea"
+    },
+    {
+     "name": "POWELL, 33RD",
+     "member_id": 187,
+     "vote": "Yea"
+    },
+    {
+     "name": "PRINCE, 132ND",
+     "member_id": 847,
+     "vote": "Yea"
+    },
+    {
+     "name": "REESE, 140TH",
+     "member_id": 5050,
+     "vote": "Nay"
+    },
+    {
+     "name": "REEVES, 99TH",
+     "member_id": 5040,
+     "vote": "Yea"
+    },
+    {
+     "name": "RHODES, 124TH",
+     "member_id": 876,
+     "vote": "Yea"
+    },
+    {
+     "name": "RICE, 139TH",
+     "member_id": 5064,
+     "vote": "Yea"
+    },
+    {
+     "name": "RICHARDSON, 125TH",
+     "member_id": 5063,
+     "vote": "Yea"
+    },
+    {
+     "name": "RIDLEY, 6TH",
+     "member_id": 4883,
+     "vote": "Yea"
+    },
+    {
+     "name": "RIDLEY, 22ND",
+     "member_id": 5019,
+     "vote": "Nay"
+    },
+    {
+     "name": "ROBERTS, 52ND",
+     "member_id": 4994,
+     "vote": "Yea"
+    },
+    {
+     "name": "ROMMAN, 97TH",
+     "member_id": 5039,
+     "vote": "Nay"
+    },
+    {
+     "name": "SAINZ, 180TH",
+     "member_id": 4962,
+     "vote": "Yea"
+    },
+    {
+     "name": "SAMPSON, 153RD",
+     "member_id": 5052,
+     "vote": "Nay"
+    },
+    {
+     "name": "SANCHEZ, 42ND",
+     "member_id": 5068,
+     "vote": "Nay"
+    },
+    {
+     "name": "SANTOS, 117TH",
+     "member_id": 5078,
+     "vote": "Nay"
+    },
+    {
+     "name": "SCHOFIELD, 63RD",
+     "member_id": 4916,
+     "vote": "Nay"
+    },
+    {
+     "name": "SCOGGINS, 14TH",
+     "member_id": 4964,
+     "vote": "Yea"
+    },
+    {
+     "name": "SCOTT, 76TH",
+     "member_id": 766,
+     "vote": "Nay"
+    },
+    {
+     "name": "SEABAUGH, 34TH",
+     "member_id": 5009,
+     "vote": "Yea"
+    },
+    {
+     "name": "SHARPER, 177TH",
+     "member_id": 831,
+     "vote": "Yea"
+    },
+    {
+     "name": "SILCOX, 53RD",
+     "member_id": 4887,
+     "vote": "Yea"
+    },
+    {
+     "name": "SMITH, 18TH",
+     "member_id": 4990,
+     "vote": "Yea"
+    },
+    {
+     "name": "SMITH, 41ST",
+     "member_id": 832,
+     "vote": "Nay"
+    },
+    {
+     "name": "SMITH, 70TH",
+     "member_id": 212,
+     "vote": "Yea"
+    },
+    {
+     "name": "SMITH, 138TH",
+     "member_id": 215,
+     "vote": "Yea"
+    },
+    {
+     "name": "STEPHENS, 164TH",
+     "member_id": 219,
+     "vote": "Yea"
+    },
+    {
+     "name": "STINSON, 150TH",
+     "member_id": 811,
+     "vote": "Excused"
+    },
+    {
+     "name": "TARVIN, 2ND",
+     "member_id": 849,
+     "vote": "Yea"
+    },
+    {
+     "name": "TAYLOR, 92ND",
+     "member_id": 4998,
+     "vote": "Nay"
+    },
+    {
+     "name": "TAYLOR, 173RD",
+     "member_id": 786,
+     "vote": "Yea"
+    },
+    {
+     "name": "THOMAS, 21ST",
+     "member_id": 4991,
+     "vote": "Nay"
+    },
+    {
+     "name": "TOWNSEND, 179TH",
+     "member_id": 5055,
+     "vote": "Nay"
+    },
+    {
+     "name": "TRAN, 80TH",
+     "member_id": 5034,
+     "vote": "Nay"
+    },
+    {
+     "name": "WADE, 9TH",
+     "member_id": 4988,
+     "vote": "Yea"
+    },
+    {
+     "name": "WASHBURN, 144TH",
+     "member_id": 4958,
+     "vote": "Yea"
+    },
+    {
+     "name": "WERKHEISER, 157TH",
+     "member_id": 863,
+     "vote": "Yea"
+    },
+    {
+     "name": "WESTBROOK, 163RD",
+     "member_id": 5054,
+     "vote": "Nay"
+    },
+    {
+     "name": "WIEDOWER, 121ST",
+     "member_id": 4956,
+     "vote": "Excused"
+    },
+    {
+     "name": "WILKERSON, 38TH",
+     "member_id": 760,
+     "vote": "Nay"
+    },
+    {
+     "name": "WILLIAMS, 37TH",
+     "member_id": 4938,
+     "vote": "Yea"
+    },
+    {
+     "name": "WILLIAMS, 168TH",
+     "member_id": 230,
+     "vote": "Yea"
+    },
+    {
+     "name": "WILLIAMS, JR., 148TH",
+     "member_id": 4960,
+     "vote": "Yea"
+    },
+    {
+     "name": "WILLIAMSON, 112TH",
+     "member_id": 778,
+     "vote": "Yea"
+    },
+    {
+     "name": "WILLIS, 55TH",
+     "member_id": 5027,
+     "vote": "Nay"
+    },
+    {
+     "name": "YEARTA, 152ND",
+     "member_id": 4969,
+     "vote": "Yea"
+    }
+   ]
+  },
+  {
+   "vote_id": 25695,
+   "chamber": "Senate",
+   "date": "2025-04-04T17:15:00",
+   "roll_call": "Senate Vote #470 - 2025-2026 Regular Session",
+   "motion": "AGREE TO HOUSE SUBSTITUTE",
+   "yea": 37,
+   "nay": 14,
+   "not_voting": 2,
+   "excused": 3,
+   "members": [
+    {
+     "name": "ALBERS, 56TH",
+     "member_id": 754,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANAVITARTE, 31ST",
+     "member_id": 4980,
+     "vote": "Yea"
+    },
+    {
+     "name": "ANDERSON, 24TH",
+     "member_id": 723,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "ANDERSON, 43RD",
+     "member_id": 807,
+     "vote": "Excused"
+    },
+    {
+     "name": "BEACH, 21ST",
+     "member_id": 840,
+     "vote": "Yea"
+    },
+    {
+     "name": "BEARDEN, 30TH",
+     "member_id": 62,
+     "vote": "Yea"
+    },
+    {
+     "name": "BRASS, 6TH",
+     "member_id": 4907,
+     "vote": "Yea"
+    },
+    {
+     "name": "BURNS, 23RD",
+     "member_id": 4979,
+     "vote": "Yea"
+    },
+    {
+     "name": "COWSERT, 46TH",
+     "member_id": 9,
+     "vote": "Yea"
+    },
+    {
+     "name": "DAVENPORT, 17TH",
+     "member_id": 10,
+     "vote": "Nay"
+    },
+    {
+     "name": "DIXON, 45TH",
+     "member_id": 4982,
+     "vote": "Yea"
+    },
+    {
+     "name": "DOLEZAL, 27TH",
+     "member_id": 4925,
+     "vote": "Yea"
+    },
+    {
+     "name": "ECHOLS, 49TH",
+     "member_id": 5067,
+     "vote": "Yea"
+    },
+    {
+     "name": "ESTEVES, 35TH",
+     "member_id": 5014,
+     "vote": "Excused"
+    },
+    {
+     "name": "GINN, 47TH",
+     "member_id": 751,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOOCH, 51ST",
+     "member_id": 752,
+     "vote": "Yea"
+    },
+    {
+     "name": "GOODMAN, 8TH",
+     "member_id": 4977,
+     "vote": "Yea"
+    },
+    {
+     "name": "HALPERN, 39TH",
+     "member_id": 4985,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARBIN, 16TH",
+     "member_id": 850,
+     "vote": "Yea"
+    },
+    {
+     "name": "HARBISON, 15TH",
+     "member_id": 17,
+     "vote": "Nay"
+    },
+    {
+     "name": "HARRELL, 40TH",
+     "member_id": 311,
+     "vote": "NotVoting"
+    },
+    {
+     "name": "HATCHETT, 50TH",
+     "member_id": 4984,
+     "vote": "Yea"
+    },
+    {
+     "name": "HICKMAN, 4TH",
+     "member_id": 4972,
+     "vote": "Yea"
+    },
+    {
+     "name": "HODGES, 3RD",
+     "member_id": 5013,
+     "vote": "Yea"
+    },
+    {
+     "name": "HUFSTETLER, 52ND",
+     "member_id": 838,
+     "vote": "Yea"
+    },
+    {
+     "name": "JACKSON, 41ST",
+     "member_id": 4981,
+     "vote": "Nay"
+    },
+    {
+     "name": "JAMES, 28TH",
+     "member_id": 372,
+     "vote": "Nay"
+    },
+    {
+     "name": "JONES, 10TH",
+     "member_id": 28,
+     "vote": "Yea"
+    },
+    {
+     "name": "JONES II, 22ND",
+     "member_id": 851,
+     "vote": "Nay"
+    },
+    {
+     "name": "KEMP, 38TH",
+     "member_id": 5066,
+     "vote": "Nay"
+    },
+    {
+     "name": "KENNEDY, 18TH",
+     "member_id": 852,
+     "vote": "Yea"
+    },
+    {
+     "name": "KIRKPATRICK, 32ND",
+     "member_id": 4910,
+     "vote": "Yea"
+    },
+    {
+     "name": "LUCAS, 26TH",
+     "member_id": 157,
+     "vote": "Nay"
+    },
+    {
+     "name": "MALLOW, 2ND",
+     "member_id": 5007,
+     "vote": "Nay"
+    },
+    {
+     "name": "MANGHAM, 55TH",
+     "member_id": 161,
+     "vote": "Yea"
+    },
+    {
+     "name": "MCLAURIN, 14TH",
+     "member_id": 4942,
+     "vote": "Nay"
+    },
+    {
+     "name": "MERRITT, 9TH",
+     "member_id": 4978,
+     "vote": "Excused"
+    },
+    {
+     "name": "MOORE, 53RD",
+     "member_id": 4933,
+     "vote": "Yea"
+    },
+    {
+     "name": "ORROCK, 36TH",
+     "member_id": 33,
+     "vote": "Nay"
+    },
+    {
+     "name": "PARENT, 44TH",
+     "member_id": 768,
+     "vote": "Nay"
+    },
+    {
+     "name": "PARKES, 7TH",
+     "member_id": 5015,
+     "vote": "Nay"
+    },
+    {
+     "name": "PAYNE, 54TH",
+     "member_id": 4909,
+     "vote": "Yea"
+    },
+    {
+     "name": "RAHMAN, 5TH",
+     "member_id": 4924,
+     "vote": "Yea"
+    },
+    {
+     "name": "RHETT, 33RD",
+     "member_id": 855,
+     "vote": "Yea"
+    },
+    {
+     "name": "ROBERTSON, 29TH",
+     "member_id": 4926,
+     "vote": "Yea"
+    },
+    {
+     "name": "SETZLER, 37TH",
+     "member_id": 203,
+     "vote": "Yea"
+    },
+    {
+     "name": "SIMS, 12TH",
+     "member_id": 209,
+     "vote": "Nay"
+    },
+    {
+     "name": "STILL, 48TH",
+     "member_id": 5016,
+     "vote": "Yea"
+    },
+    {
+     "name": "STRICKLAND, 42ND",
+     "member_id": 835,
+     "vote": "Yea"
+    },
+    {
+     "name": "SUMMERS, 13TH",
+     "member_id": 4971,
+     "vote": "Yea"
+    },
+    {
+     "name": "TILLERY, 19TH",
+     "member_id": 4908,
+     "vote": "Yea"
+    },
+    {
+     "name": "WALKER, III, 20TH",
+     "member_id": 4878,
+     "vote": "Yea"
+    },
+    {
+     "name": "WATSON, 1ST",
+     "member_id": 784,
+     "vote": "Yea"
+    },
+    {
+     "name": "WATSON, 11TH",
+     "member_id": 837,
+     "vote": "Yea"
+    },
+    {
+     "name": "WICKS, 34TH",
+     "member_id": 5065,
+     "vote": "Nay"
+    },
+    {
+     "name": "WILLIAMS, 25TH",
+     "member_id": 4905,
+     "vote": "Yea"
+    }
+   ]
+  }
+ ],
+ "act_veto_number": "93",
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:26:05+00:00",
+  "version:239595": "2026-11-20T20:26:05+00:00",
+  "version:238578": "2026-11-20T20:26:05+00:00",
+  "version:233603": "2026-11-20T20:26:05+00:00",
+  "version:231719": "2026-11-20T20:26:05+00:00",
+  "status:67": "2026-11-20T20:26:05+00:00",
+  "status:3": "2026-11-20T20:26:05+00:00",
+  "status:8": "2026-11-20T20:26:05+00:00",
+  "status:10": "2026-11-20T20:26:05+00:00",
+  "status:11": "2026-11-20T20:26:05+00:00",
+  "status:99": "2026-11-20T20:26:05+00:00",
+  "status:33": "2026-11-20T20:26:05+00:00",
+  "status:34": "2026-11-20T20:26:05+00:00",
+  "status:39": "2026-11-20T20:26:05+00:00",
+  "status:50": "2026-11-20T20:26:05+00:00",
+  "status:35": "2026-11-20T20:26:05+00:00",
+  "status:100": "2026-11-20T20:26:05+00:00",
+  "status:21": "2026-11-20T20:26:05+00:00",
+  "status:108": "2026-11-20T20:26:05+00:00",
+  "status:111": "2026-11-20T20:26:05+00:00",
+  "status:-1": "2026-11-20T20:26:05+00:00",
+  "status:-2": "2026-11-20T20:26:05+00:00"
+ },
+ "updated": "2026-11-20T20:26:05+00:00"
+}

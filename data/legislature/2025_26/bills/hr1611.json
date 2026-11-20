@@ -1,0 +1,82 @@
+{
+ "key": "HR 1611",
+ "slug": "hr1611",
+ "session": "2025_26",
+ "legislation_id": 73946,
+ "page": "https://www.legis.ga.gov/legislation/73946",
+ "document_type": "HR",
+ "number": 1611,
+ "legislation_type": "PRIV",
+ "caption": "Women's Entrepreneurial Opportunity Project (WEOP); 26 years of service; commend",
+ "summary": "A RESOLUTION commending the Women's Entrepreneurial Opportunity Project (WEOP) and celebrating its 26 years of service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:00:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245388,
+   "label": "LC 112 3859/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245388"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:17+00:00",
+  "version:245388": "2026-11-20T20:07:17+00:00",
+  "status:40": "2026-11-20T20:07:17+00:00",
+  "status:33": "2026-11-20T20:07:17+00:00",
+  "status:48": "2026-11-20T20:07:17+00:00"
+ },
+ "updated": "2026-11-20T20:07:17+00:00"
+}

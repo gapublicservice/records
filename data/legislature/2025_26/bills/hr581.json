@@ -1,0 +1,68 @@
+{
+ "key": "HR 581",
+ "slug": "hr581",
+ "session": "2025_26",
+ "legislation_id": 71327,
+ "page": "https://www.legis.ga.gov/legislation/71327",
+ "document_type": "HR",
+ "number": 581,
+ "legislation_type": "PRIV",
+ "caption": "Cherokee County 911 Foundation Day; April 14, 2025; recognize",
+ "summary": "A RESOLUTION recognizing April 14, 2025, as Cherokee County 911 Foundation Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T15:53:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T16:22:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T16:22:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235935,
+   "label": "LC 112 3247/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235935"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:45+00:00",
+  "version:235935": "2026-11-20T19:43:45+00:00",
+  "status:40": "2026-11-20T19:43:45+00:00",
+  "status:33": "2026-11-20T19:43:45+00:00",
+  "status:48": "2026-11-20T19:43:45+00:00"
+ },
+ "updated": "2026-11-20T19:43:45+00:00"
+}

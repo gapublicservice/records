@@ -1,0 +1,95 @@
+{
+ "key": "HB 1337",
+ "slug": "hb1337",
+ "session": "2025_26",
+ "legislation_id": 73274,
+ "page": "https://www.legis.ga.gov/legislation/73274",
+ "document_type": "HB",
+ "number": 1337,
+ "legislation_type": "GEN",
+ "caption": "Courts; retention and expenditure of passport application and processing fees by clerks of superior courts and probate court judges; provide",
+ "summary": "A BILL to be entitled an Act to amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to provide for the retention and expenditure of passport application and processing fees by clerks of superior courts and probate court judges; to provide for retention of certain fees as personal compensation; to provide for disclosures in written reports; to provide for use of certain fees; to provide for limitations; to authorize the adoption of local acts; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:10:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242824,
+   "label": "LC 48 1669/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242824"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:33+00:00",
+  "version:242824": "2026-11-20T19:19:33+00:00",
+  "status:40": "2026-11-20T19:19:33+00:00",
+  "status:33": "2026-11-20T19:19:33+00:00",
+  "status:34": "2026-11-20T19:19:33+00:00"
+ },
+ "updated": "2026-11-20T19:19:33+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "SR 842",
+ "slug": "sr842",
+ "session": "2025_26",
+ "legislation_id": 73538,
+ "page": "https://www.legis.ga.gov/legislation/73538",
+ "document_type": "SR",
+ "number": 842,
+ "legislation_type": "GEN",
+ "caption": "Reverend James Miller Highway; Henry County; dedicate",
+ "summary": "A RESOLUTION recognizing Reverend James H. Miller and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T11:42:46",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-25T10:15:32",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243712,
+   "label": "As introduced LC 39 4978",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243712"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:10:01+00:00",
+  "version:243712": "2026-11-20T21:10:01+00:00",
+  "status:67": "2026-11-20T21:10:01+00:00",
+  "status:3": "2026-11-20T21:10:01+00:00"
+ },
+ "updated": "2026-11-20T21:10:01+00:00"
+}

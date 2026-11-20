@@ -1,0 +1,123 @@
+{
+ "key": "HB 12",
+ "slug": "hb12",
+ "session": "2025_26",
+ "legislation_id": 69292,
+ "page": "https://www.legis.ga.gov/legislation/69292",
+ "document_type": "HB",
+ "number": 12,
+ "legislation_type": "GEN",
+ "caption": "Education; grants; revise definition of qualified local school system",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-165 of the Official Code of Georgia Annotated, relating to equalization grants, annual calculations, and allocation, so as to revise the definition of the term \"qualified local school system\" by reducing the minimum required millage rate or effective millage rate from 14 mills to 10 mills; to provide for a 25 percent reduction of equalization grant awards for local school systems whose millage rate or effective millage rate does not meet the minimum requirement; to require annual reporting by the Department of Education; to repeal a definition; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:31:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-28T09:32:13",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234562,
+   "label": "LC 49 9002S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234562"
+  },
+  {
+   "doc_id": 229792,
+   "label": "LC 49 2019/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229792"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:25+00:00",
+  "version:234562": "2026-11-20T18:16:25+00:00",
+  "version:229792": "2026-11-20T18:16:25+00:00",
+  "status:40": "2026-11-20T18:16:25+00:00",
+  "status:33": "2026-11-20T18:16:25+00:00",
+  "status:34": "2026-11-20T18:16:25+00:00",
+  "status:39": "2026-11-20T18:16:25+00:00",
+  "status:50": "2026-11-20T18:16:25+00:00"
+ },
+ "updated": "2026-11-20T18:16:25+00:00"
+}

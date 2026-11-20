@@ -1,0 +1,89 @@
+{
+ "key": "HR 113",
+ "slug": "hr113",
+ "session": "2025_26",
+ "legislation_id": 69689,
+ "page": "https://www.legis.ga.gov/legislation/69689",
+ "document_type": "HR",
+ "number": 113,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Asian American and Pacific Islander Hub; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia Asian American and Pacific Islander Hub; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T12:01:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-29T13:07:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T13:07:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230713,
+   "label": "LC 129 0067/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230713"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:23+00:00",
+  "version:230713": "2026-11-20T19:33:23+00:00",
+  "status:40": "2026-11-20T19:33:23+00:00",
+  "status:33": "2026-11-20T19:33:23+00:00",
+  "status:48": "2026-11-20T19:33:23+00:00"
+ },
+ "updated": "2026-11-20T19:33:23+00:00"
+}

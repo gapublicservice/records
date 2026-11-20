@@ -1,0 +1,75 @@
+{
+ "key": "HR 623",
+ "slug": "hr623",
+ "session": "2025_26",
+ "legislation_id": 71443,
+ "page": "https://www.legis.ga.gov/legislation/71443",
+ "document_type": "HR",
+ "number": 623,
+ "legislation_type": "PRIV",
+ "caption": "Lay, Tony; commend",
+ "summary": "A RESOLUTION recognizing and commending Tony Lay; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T16:33:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T17:00:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-18T17:00:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236409,
+   "label": "LC 112 3326/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236409"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:40+00:00",
+  "version:236409": "2026-11-20T19:44:40+00:00",
+  "status:40": "2026-11-20T19:44:40+00:00",
+  "status:33": "2026-11-20T19:44:40+00:00",
+  "status:48": "2026-11-20T19:44:40+00:00"
+ },
+ "updated": "2026-11-20T19:44:40+00:00"
+}

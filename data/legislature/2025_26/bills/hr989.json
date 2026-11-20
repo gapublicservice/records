@@ -1,0 +1,61 @@
+{
+ "key": "HR 989",
+ "slug": "hr989",
+ "session": "2025_26",
+ "legislation_id": 72117,
+ "page": "https://www.legis.ga.gov/legislation/72117",
+ "document_type": "HR",
+ "number": 989,
+ "legislation_type": "PRIV",
+ "caption": "Dubberly, Gloria; grand occasion of her retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Gloria Dubberly upon the grand occasion of her retirement;  and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T10:00:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239409,
+   "label": "LC 129 0475/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239409"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:57+00:00",
+  "version:239409": "2026-11-20T19:52:57+00:00",
+  "status:40": "2026-11-20T19:52:57+00:00",
+  "status:33": "2026-11-20T19:52:57+00:00",
+  "status:48": "2026-11-20T19:52:57+00:00"
+ },
+ "updated": "2026-11-20T19:52:57+00:00"
+}

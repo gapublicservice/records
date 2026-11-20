@@ -1,0 +1,88 @@
+{
+ "key": "HB 1407",
+ "slug": "hb1407",
+ "session": "2025_26",
+ "legislation_id": 73460,
+ "page": "https://www.legis.ga.gov/legislation/73460",
+ "document_type": "HB",
+ "number": 1407,
+ "legislation_type": "GEN",
+ "caption": "Civil Practice Act; scheduling of civil trials; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 11 of Title 9 of the Official Code of Georgia Annotated, relating to trials under the \"Civil Practice Act,\" so as to provide for scheduling of civil trials; to provide for trial calendars for certain civil actions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-20T10:23:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T10:36:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-25T10:38:40",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243404,
+   "label": "LC 49 2602/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243404"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:01+00:00",
+  "version:243404": "2026-11-20T19:22:01+00:00",
+  "status:40": "2026-11-20T19:22:01+00:00",
+  "status:33": "2026-11-20T19:22:01+00:00",
+  "status:34": "2026-11-20T19:22:01+00:00"
+ },
+ "updated": "2026-11-20T19:22:01+00:00"
+}

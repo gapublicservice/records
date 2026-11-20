@@ -1,0 +1,109 @@
+{
+ "key": "HR 1657",
+ "slug": "hr1657",
+ "session": "2025_26",
+ "legislation_id": 74019,
+ "page": "https://www.legis.ga.gov/legislation/74019",
+ "document_type": "HR",
+ "number": 1657,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Medicaid Waiver Populations and Long-Term Financial and Administrative Sustainability; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Medicaid Waiver Populations and Long-Term Financial and Administrative Sustainability; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-10T12:43:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T10:25:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T10:21:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:49",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245661,
+   "label": "LC 52 1071/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245661"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:17+00:00",
+  "version:245661": "2026-11-20T20:08:17+00:00",
+  "status:40": "2026-11-20T20:08:17+00:00",
+  "status:33": "2026-11-20T20:08:17+00:00",
+  "status:34": "2026-11-20T20:08:17+00:00",
+  "status:39": "2026-11-20T20:08:17+00:00"
+ },
+ "updated": "2026-11-20T20:08:17+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "HR 420",
+ "slug": "hr420",
+ "session": "2025_26",
+ "legislation_id": 70884,
+ "page": "https://www.legis.ga.gov/legislation/70884",
+ "document_type": "HR",
+ "number": 420,
+ "legislation_type": "PRIV",
+ "caption": "Grubbs, Salleigh; dedicated service as Chairwoman of the Cobb County Republican Party; commend",
+ "summary": "A RESOLUTION recognizing and commending Salleigh Grubbs for her dedicated service as Chairwoman of the Cobb County Republican Party; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:38:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T15:25:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T15:25:45",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234134,
+   "label": "LC 112 3154/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234134"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:09+00:00",
+  "version:234134": "2026-11-20T19:40:09+00:00",
+  "status:40": "2026-11-20T19:40:09+00:00",
+  "status:33": "2026-11-20T19:40:09+00:00",
+  "status:48": "2026-11-20T19:40:09+00:00"
+ },
+ "updated": "2026-11-20T19:40:09+00:00"
+}

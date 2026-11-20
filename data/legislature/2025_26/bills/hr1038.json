@@ -1,0 +1,68 @@
+{
+ "key": "HR 1038",
+ "slug": "hr1038",
+ "session": "2025_26",
+ "legislation_id": 72310,
+ "page": "https://www.legis.ga.gov/legislation/72310",
+ "document_type": "HR",
+ "number": 1038,
+ "legislation_type": "PRIV",
+ "caption": "HealthMPowers; 25 years of service and leadership in advancing youth health; recognize",
+ "summary": "A RESOLUTION recognizing HealthMPowers for 25 years of service and leadership in advancing youth health; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:53:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T12:42:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T12:42:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240066,
+   "label": "LC 129 0613/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240066"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:07+00:00",
+  "version:240066": "2026-11-20T19:54:07+00:00",
+  "status:40": "2026-11-20T19:54:07+00:00",
+  "status:33": "2026-11-20T19:54:07+00:00",
+  "status:48": "2026-11-20T19:54:07+00:00"
+ },
+ "updated": "2026-11-20T19:54:07+00:00"
+}

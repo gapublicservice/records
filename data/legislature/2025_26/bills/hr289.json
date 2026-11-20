@@ -1,0 +1,96 @@
+{
+ "key": "HR 289",
+ "slug": "hr289",
+ "session": "2025_26",
+ "legislation_id": 70459,
+ "page": "https://www.legis.ga.gov/legislation/70459",
+ "document_type": "HR",
+ "number": 289,
+ "legislation_type": "PRIV",
+ "caption": "The Woodbine Opry; 25th anniversary; recognize",
+ "summary": "A RESOLUTION congratulating The Woodbine Opry upon its 25th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:25:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:54:20",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:54:22",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232786,
+   "label": "LC 112 2818/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232786"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:19+00:00",
+  "version:232786": "2026-11-20T19:37:19+00:00",
+  "status:40": "2026-11-20T19:37:19+00:00",
+  "status:33": "2026-11-20T19:37:19+00:00",
+  "status:48": "2026-11-20T19:37:19+00:00"
+ },
+ "updated": "2026-11-20T19:37:19+00:00"
+}

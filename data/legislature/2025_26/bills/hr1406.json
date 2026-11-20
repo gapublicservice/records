@@ -1,0 +1,68 @@
+{
+ "key": "HR 1406",
+ "slug": "hr1406",
+ "session": "2025_26",
+ "legislation_id": 73400,
+ "page": "https://www.legis.ga.gov/legislation/73400",
+ "document_type": "HR",
+ "number": 1406,
+ "legislation_type": "PRIV",
+ "caption": "Brewton-Parker Christian University; commend",
+ "summary": "A RESOLUTION honoring Brewton-Parker Christian University; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:44:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243178,
+   "label": "LC 129 1153/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243178"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:46+00:00",
+  "version:243178": "2026-11-20T20:02:46+00:00",
+  "status:40": "2026-11-20T20:02:46+00:00",
+  "status:33": "2026-11-20T20:02:46+00:00",
+  "status:48": "2026-11-20T20:02:46+00:00"
+ },
+ "updated": "2026-11-20T20:02:46+00:00"
+}

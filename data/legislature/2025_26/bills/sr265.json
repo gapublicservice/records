@@ -1,0 +1,60 @@
+{
+ "key": "SR 265",
+ "slug": "sr265",
+ "session": "2025_26",
+ "legislation_id": 70811,
+ "page": "https://www.legis.ga.gov/legislation/70811",
+ "document_type": "SR",
+ "number": 265,
+ "legislation_type": "GEN",
+ "caption": "Samuel Micah Moon Memorial Interchange; Douglas County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Samuel Micah Moon and dedicating an interchange in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:15:40",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:33:15",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233897,
+   "label": "As introduced LC 39 4677",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233897"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:56:24+00:00",
+  "version:233897": "2026-11-20T20:56:24+00:00",
+  "status:67": "2026-11-20T20:56:24+00:00",
+  "status:3": "2026-11-20T20:56:24+00:00"
+ },
+ "updated": "2026-11-20T20:56:24+00:00"
+}

@@ -1,0 +1,116 @@
+{
+ "key": "HB 259",
+ "slug": "hb259",
+ "session": "2025_26",
+ "legislation_id": 69872,
+ "page": "https://www.legis.ga.gov/legislation/69872",
+ "document_type": "HB",
+ "number": 259,
+ "legislation_type": "GEN",
+ "caption": "State holidays; second Monday of each August as Local Elected Officials Day in Georgia; designate",
+ "summary": "A BILL to be entitled an Act to amend Title 1 of the Official Code of Georgia Annotated, relating to general provisions, so as to designate the second Monday of each August as Local Elected Officials Day in Georgia; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:47:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-03T17:33:57",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231209,
+   "label": "LC 39 4556/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231209"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:29:01+00:00",
+  "version:231209": "2026-11-20T18:29:01+00:00",
+  "status:40": "2026-11-20T18:29:01+00:00",
+  "status:33": "2026-11-20T18:29:01+00:00",
+  "status:34": "2026-11-20T18:29:01+00:00",
+  "status:39": "2026-11-20T18:29:01+00:00",
+  "status:50": "2026-11-20T18:29:01+00:00"
+ },
+ "updated": "2026-11-20T18:29:01+00:00"
+}

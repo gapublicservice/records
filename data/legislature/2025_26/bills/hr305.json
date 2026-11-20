@@ -1,0 +1,96 @@
+{
+ "key": "HR 305",
+ "slug": "hr305",
+ "session": "2025_26",
+ "legislation_id": 70529,
+ "page": "https://www.legis.ga.gov/legislation/70529",
+ "document_type": "HR",
+ "number": 305,
+ "legislation_type": "PRIV",
+ "caption": "Sagers, Richard B.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Richard B. Sagers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5052,
+   "name": "Sampson, David 153rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:48:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233028,
+   "label": "LC 112 2824/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233028"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:40+00:00",
+  "version:233028": "2026-11-20T19:37:40+00:00",
+  "status:40": "2026-11-20T19:37:40+00:00",
+  "status:33": "2026-11-20T19:37:40+00:00",
+  "status:48": "2026-11-20T19:37:40+00:00"
+ },
+ "updated": "2026-11-20T19:37:40+00:00"
+}

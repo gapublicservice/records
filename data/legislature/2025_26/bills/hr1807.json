@@ -1,0 +1,68 @@
+{
+ "key": "HR 1807",
+ "slug": "hr1807",
+ "session": "2025_26",
+ "legislation_id": 74288,
+ "page": "https://www.legis.ga.gov/legislation/74288",
+ "document_type": "HR",
+ "number": 1807,
+ "legislation_type": "PRIV",
+ "caption": "Sally FitzGerald Day; 02/14/26; honoring the life and legacy; recognize",
+ "summary": "A RESOLUTION honoring the life and legacy of Sally FitzGerald and designating February 14, 2026, as Sally FitzGerald Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-19T14:09:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T14:51:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T14:51:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246715,
+   "label": "LC 129 0658/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246715"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:29+00:00",
+  "version:246715": "2026-11-20T20:11:29+00:00",
+  "status:40": "2026-11-20T20:11:29+00:00",
+  "status:33": "2026-11-20T20:11:29+00:00",
+  "status:48": "2026-11-20T20:11:29+00:00"
+ },
+ "updated": "2026-11-20T20:11:29+00:00"
+}

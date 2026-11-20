@@ -1,0 +1,129 @@
+{
+ "key": "HB 461",
+ "slug": "hb461",
+ "session": "2025_26",
+ "legislation_id": 70348,
+ "page": "https://www.legis.ga.gov/legislation/70348",
+ "document_type": "HB",
+ "number": 461,
+ "legislation_type": "GEN",
+ "caption": "Motorcycle Mobility Safety Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, so as to revise and provide for definitions; to provide for the safe operation of a motorcycle or bicycle through an inoperative traffic-control signal; to require drivers of motor vehicles to stop at crosswalks with pedestrian activated rectangular rapid flash beacons; to make it unlawful to activate such devices when there is no intent to cross a roadway; to remove provisions regarding height of handlebars for motorcycles; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T12:50:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T12:57:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-24T09:29:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243614,
+   "label": "LC 39 4951S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243614"
+  },
+  {
+   "doc_id": 233778,
+   "label": "LC 39 4668S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233778"
+  },
+  {
+   "doc_id": 232493,
+   "label": "LC 39 4432/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232493"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:39:00+00:00",
+  "version:243614": "2026-11-20T18:39:00+00:00",
+  "version:233778": "2026-11-20T18:39:00+00:00",
+  "version:232493": "2026-11-20T18:39:00+00:00",
+  "status:40": "2026-11-20T18:39:00+00:00",
+  "status:33": "2026-11-20T18:39:00+00:00",
+  "status:34": "2026-11-20T18:39:00+00:00",
+  "status:39": "2026-11-20T18:39:00+00:00",
+  "status:50": "2026-11-20T18:39:00+00:00"
+ },
+ "updated": "2026-11-20T18:39:00+00:00"
+}

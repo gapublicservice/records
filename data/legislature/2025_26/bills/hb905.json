@@ -1,0 +1,130 @@
+{
+ "key": "HB 905",
+ "slug": "hb905",
+ "session": "2025_26",
+ "legislation_id": 71988,
+ "page": "https://www.legis.ga.gov/legislation/71988",
+ "document_type": "HB",
+ "number": 905,
+ "legislation_type": "GEN",
+ "caption": "Employees' Retirement System; any member shall be eligible to transfer funds to Judicial Retirement System; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 47-23-64 of the Official Code of Georgia Annotated, relating to transfer of funds from the Employees' Retirement System of Georgia to the Georgia Judicial Retirement System by superior court judges, district attorneys, or solicitors-general and crediting service, so as to provide that any member of such retirement system shall be eligible to transfer funds; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T15:00:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-25T10:58:37",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243988,
+   "label": "LC 56 0425S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243988"
+  },
+  {
+   "doc_id": 243999,
+   "label": "Auditor's Certification LC 56 0425S",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243999"
+  },
+  {
+   "doc_id": 238794,
+   "label": "LC 56 0407/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238794"
+  },
+  {
+   "doc_id": 238810,
+   "label": "Auditor's Certification LC 56 0407",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238810"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:17+00:00",
+  "version:243988": "2026-11-20T19:01:17+00:00",
+  "version:243999": "2026-11-20T19:01:17+00:00",
+  "version:238794": "2026-11-20T19:01:17+00:00",
+  "version:238810": "2026-11-20T19:01:17+00:00",
+  "status:40": "2026-11-20T19:01:17+00:00",
+  "status:33": "2026-11-20T19:01:17+00:00",
+  "status:34": "2026-11-20T19:01:17+00:00",
+  "status:39": "2026-11-20T19:01:17+00:00"
+ },
+ "updated": "2026-11-20T19:01:17+00:00"
+}

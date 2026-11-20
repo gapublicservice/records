@@ -1,0 +1,96 @@
+{
+ "key": "HR 1365",
+ "slug": "hr1365",
+ "session": "2025_26",
+ "legislation_id": 73225,
+ "page": "https://www.legis.ga.gov/legislation/73225",
+ "document_type": "HR",
+ "number": 1365,
+ "legislation_type": "PRIV",
+ "caption": "Soto, Ivan; outstanding artistic talent and dedication to the visual arts; commend",
+ "summary": "A RESOLUTION recognizing and commending Ivan Soto for his outstanding artistic talent and dedication to the visual arts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:11:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242629,
+   "label": "LC 129 1077/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242629"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:52+00:00",
+  "version:242629": "2026-11-20T20:01:52+00:00",
+  "status:40": "2026-11-20T20:01:52+00:00",
+  "status:33": "2026-11-20T20:01:52+00:00",
+  "status:48": "2026-11-20T20:01:52+00:00"
+ },
+ "updated": "2026-11-20T20:01:52+00:00"
+}

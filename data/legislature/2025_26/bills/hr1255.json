@@ -1,0 +1,61 @@
+{
+ "key": "HR 1255",
+ "slug": "hr1255",
+ "session": "2025_26",
+ "legislation_id": 72929,
+ "page": "https://www.legis.ga.gov/legislation/72929",
+ "document_type": "HR",
+ "number": 1255,
+ "legislation_type": "PRIV",
+ "caption": "Frank and Solomon Nixon Funeral Home; occasion of its 100th Anniversary; recognize",
+ "summary": "A RESOLUTION congratulating and commending Frank and Solomon Nixon Funeral Home on the occasion of its 100th Anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:56:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T14:34:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T14:34:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241748,
+   "label": "LC 129 0920/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241748"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:02+00:00",
+  "version:241748": "2026-11-20T19:59:02+00:00",
+  "status:40": "2026-11-20T19:59:02+00:00",
+  "status:33": "2026-11-20T19:59:02+00:00",
+  "status:48": "2026-11-20T19:59:02+00:00"
+ },
+ "updated": "2026-11-20T19:59:02+00:00"
+}

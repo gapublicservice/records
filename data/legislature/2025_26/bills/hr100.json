@@ -1,0 +1,102 @@
+{
+ "key": "HR 100",
+ "slug": "hr100",
+ "session": "2025_26",
+ "legislation_id": 69675,
+ "page": "https://www.legis.ga.gov/legislation/69675",
+ "document_type": "HR",
+ "number": 100,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Cumulative Impact of Pollution on Economic Development and Growth; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Cumulative Impact of Pollution on Economic Development and Growth; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Natural Resources & Environment",
+   "id": 98
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T11:42:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T10:14:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T10:08:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230685,
+   "label": "LC 44 2948/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230685"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:07+00:00",
+  "version:230685": "2026-11-20T19:33:07+00:00",
+  "status:40": "2026-11-20T19:33:07+00:00",
+  "status:33": "2026-11-20T19:33:07+00:00",
+  "status:34": "2026-11-20T19:33:07+00:00"
+ },
+ "updated": "2026-11-20T19:33:07+00:00"
+}

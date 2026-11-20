@@ -1,0 +1,88 @@
+{
+ "key": "HB 72",
+ "slug": "hb72",
+ "session": "2025_26",
+ "legislation_id": 69399,
+ "page": "https://www.legis.ga.gov/legislation/69399",
+ "document_type": "HB",
+ "number": 72,
+ "legislation_type": "GEN",
+ "caption": "General appropriations; State Fiscal Year July 1, 2025 - June 30, 2026",
+ "summary": "A BILL to be entitled an Act to make and provide appropriations for the State Fiscal Year beginning July 1, 2025, and ending June 30, 2026; to make and provide such appropriations for the operation of the state government and its departments, boards, bureaus, commissions, institutions, and other agencies, for the university system, common schools, counties, municipalities, and political subdivisions, for all other governmental activities, projects, and undertakings authorized by law, and for all leases, contracts, agreements, and grants authorized by law; to provide for the control and administration of funds; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T08:59:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230021,
+   "label": "LC 33 9761/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230021"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:19:28+00:00",
+  "version:230021": "2026-11-20T18:19:28+00:00",
+  "status:40": "2026-11-20T18:19:28+00:00",
+  "status:33": "2026-11-20T18:19:28+00:00",
+  "status:34": "2026-11-20T18:19:28+00:00"
+ },
+ "updated": "2026-11-20T18:19:28+00:00"
+}

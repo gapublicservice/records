@@ -1,0 +1,95 @@
+{
+ "key": "SR 381",
+ "slug": "sr381",
+ "session": "2025_26",
+ "legislation_id": 71293,
+ "page": "https://www.legis.ga.gov/legislation/71293",
+ "document_type": "SR",
+ "number": 381,
+ "legislation_type": "PRIV",
+ "caption": "Autoimmune Disease Awareness Month; recognize March 2025",
+ "summary": "A RESOLUTION recognizing March 2025 as Autoimmune Disease Awareness Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-11T11:57:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T10:08:33",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235847,
+   "label": "As Introduced LC 112 3281",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235847"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:01+00:00",
+  "version:235847": "2026-11-20T20:59:01+00:00",
+  "status:67": "2026-11-20T20:59:01+00:00",
+  "status:3": "2026-11-20T20:59:01+00:00"
+ },
+ "updated": "2026-11-20T20:59:01+00:00"
+}

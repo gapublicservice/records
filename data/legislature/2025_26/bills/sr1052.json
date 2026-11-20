@@ -1,0 +1,75 @@
+{
+ "key": "SR 1052",
+ "slug": "sr1052",
+ "session": "2025_26",
+ "legislation_id": 74496,
+ "page": "https://www.legis.ga.gov/legislation/74496",
+ "document_type": "SR",
+ "number": 1052,
+ "legislation_type": "PRIV",
+ "caption": "Cottrell, Don Michael \"Mike\"; condolences",
+ "summary": "A RESOLUTION recognizing and honoring the life and memory of Don Michael \"Mike\" Cottrell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T16:48:42",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-27T11:24:52",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247600,
+   "label": "Read and adopted LC 129 1504",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247600"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:14:46+00:00",
+  "version:247600": "2026-11-20T21:14:46+00:00",
+  "status:67": "2026-11-20T21:14:46+00:00",
+  "status:66": "2026-11-20T21:14:46+00:00"
+ },
+ "updated": "2026-11-20T21:14:46+00:00"
+}

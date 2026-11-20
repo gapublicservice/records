@@ -1,0 +1,102 @@
+{
+ "key": "HB 203",
+ "slug": "hb203",
+ "session": "2025_26",
+ "legislation_id": 69719,
+ "page": "https://www.legis.ga.gov/legislation/69719",
+ "document_type": "HB",
+ "number": 203,
+ "legislation_type": "GEN",
+ "caption": "Board of Regents; include members who are graduates of a historically black college or university that is a unit of the University System of Georgia; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 2 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated, relating to the Board of Regents, so as to provide that the Board of Regents shall include members who are graduates of a historically black college or university that is a unit of the University System of Georgia; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5001,
+   "name": "Lewis-Ward, Regina 115th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:10:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230849,
+   "label": "LC 61 0023/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230849"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:24+00:00",
+  "version:230849": "2026-11-20T18:26:24+00:00",
+  "status:40": "2026-11-20T18:26:24+00:00",
+  "status:33": "2026-11-20T18:26:24+00:00",
+  "status:34": "2026-11-20T18:26:24+00:00"
+ },
+ "updated": "2026-11-20T18:26:24+00:00"
+}

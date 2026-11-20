@@ -1,0 +1,81 @@
+{
+ "key": "HB 1198",
+ "slug": "hb1198",
+ "session": "2025_26",
+ "legislation_id": 72874,
+ "page": "https://www.legis.ga.gov/legislation/72874",
+ "document_type": "HB",
+ "number": 1198,
+ "legislation_type": "GEN",
+ "caption": "Insurance; limited license to offer or sell portable electronics and consumer goods insurance; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 23 of Title 33 of the Official Code of Georgia Annotated, relating to agents, agencies, subagents, counselors, and adjusters relative to insurance licensing, so as to provide for a limited license to offer or sell portable electronics and consumer goods insurance; to revise definitions; to provide for conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T10:49:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T10:20:23",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241611,
+   "label": "LC 52 0996/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241611"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:13:33+00:00",
+  "version:241611": "2026-11-20T19:13:33+00:00",
+  "status:40": "2026-11-20T19:13:33+00:00",
+  "status:33": "2026-11-20T19:13:33+00:00",
+  "status:34": "2026-11-20T19:13:33+00:00",
+  "status:39": "2026-11-20T19:13:33+00:00"
+ },
+ "updated": "2026-11-20T19:13:33+00:00"
+}

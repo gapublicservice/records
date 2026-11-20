@@ -1,0 +1,102 @@
+{
+ "key": "HB 321",
+ "slug": "hb321",
+ "session": "2025_26",
+ "legislation_id": 70032,
+ "page": "https://www.legis.ga.gov/legislation/70032",
+ "document_type": "HB",
+ "number": 321,
+ "legislation_type": "GEN",
+ "caption": "Vincent Fort Living Wage Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 34-4-3 of the Official Code of Georgia Annotated, relating to amount of minimum wage to be paid by employers, so as to increase the state minimum wage to a living wage; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:05:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231636,
+   "label": "LC 52 0691/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231636"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:32:04+00:00",
+  "version:231636": "2026-11-20T18:32:04+00:00",
+  "status:40": "2026-11-20T18:32:04+00:00",
+  "status:33": "2026-11-20T18:32:04+00:00",
+  "status:34": "2026-11-20T18:32:04+00:00"
+ },
+ "updated": "2026-11-20T18:32:04+00:00"
+}

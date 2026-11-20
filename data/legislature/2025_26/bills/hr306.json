@@ -1,0 +1,89 @@
+{
+ "key": "HR 306",
+ "slug": "hr306",
+ "session": "2025_26",
+ "legislation_id": 70530,
+ "page": "https://www.legis.ga.gov/legislation/70530",
+ "document_type": "HR",
+ "number": 306,
+ "legislation_type": "PRIV",
+ "caption": "Prothro-Newton, Mother Hattie Lou; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mother Hattie Lou Prothro-Newton; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T13:49:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T14:36:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T14:36:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233031,
+   "label": "LC 112 3087/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233031"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:42+00:00",
+  "version:233031": "2026-11-20T19:37:42+00:00",
+  "status:40": "2026-11-20T19:37:42+00:00",
+  "status:33": "2026-11-20T19:37:42+00:00",
+  "status:48": "2026-11-20T19:37:42+00:00"
+ },
+ "updated": "2026-11-20T19:37:42+00:00"
+}

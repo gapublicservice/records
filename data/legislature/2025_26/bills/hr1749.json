@@ -1,0 +1,109 @@
+{
+ "key": "HR 1749",
+ "slug": "hr1749",
+ "session": "2025_26",
+ "legislation_id": 74190,
+ "page": "https://www.legis.ga.gov/legislation/74190",
+ "document_type": "HR",
+ "number": 1749,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Impact of Multiplayer Online Gaming Platforms; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Impact of Multiplayer Online Gaming Platforms; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T11:23:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T10:34:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T10:10:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:50",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246320,
+   "label": "LC 63 0145/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246320"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:16+00:00",
+  "version:246320": "2026-11-20T20:10:16+00:00",
+  "status:40": "2026-11-20T20:10:16+00:00",
+  "status:33": "2026-11-20T20:10:16+00:00",
+  "status:34": "2026-11-20T20:10:16+00:00",
+  "status:39": "2026-11-20T20:10:16+00:00"
+ },
+ "updated": "2026-11-20T20:10:16+00:00"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "HR 1830",
+ "slug": "hr1830",
+ "session": "2025_26",
+ "legislation_id": 74325,
+ "page": "https://www.legis.ga.gov/legislation/74325",
+ "document_type": "HR",
+ "number": 1830,
+ "legislation_type": "GEN",
+ "caption": "Lt. Col. Larry Boggs Intersection; Carroll County; dedicate",
+ "summary": "A RESOLUTION recognizing Lieutenant Colonel Larry Buford Boggs and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-20T12:01:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T10:21:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T10:24:50",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246881,
+   "label": "LC 39 5096/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246881"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:59+00:00",
+  "version:246881": "2026-11-20T20:11:59+00:00",
+  "status:40": "2026-11-20T20:11:59+00:00",
+  "status:33": "2026-11-20T20:11:59+00:00",
+  "status:34": "2026-11-20T20:11:59+00:00"
+ },
+ "updated": "2026-11-20T20:11:59+00:00"
+}

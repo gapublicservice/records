@@ -1,0 +1,89 @@
+{
+ "key": "SR 325",
+ "slug": "sr325",
+ "session": "2025_26",
+ "legislation_id": 71061,
+ "page": "https://www.legis.ga.gov/legislation/71061",
+ "document_type": "SR",
+ "number": 325,
+ "legislation_type": "PRIV",
+ "caption": "Jack and Jill of America, Inc.; commend",
+ "summary": "A RESOLUTION commending Jack and Jill of America, Inc.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-28T14:06:35",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-03T14:40:01",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234724,
+   "label": "Read and adopted LC 112 3229",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234724"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:57:49+00:00",
+  "version:234724": "2026-11-20T20:57:49+00:00",
+  "status:67": "2026-11-20T20:57:49+00:00",
+  "status:66": "2026-11-20T20:57:49+00:00"
+ },
+ "updated": "2026-11-20T20:57:49+00:00"
+}

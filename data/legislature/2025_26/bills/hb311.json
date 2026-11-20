@@ -1,0 +1,102 @@
+{
+ "key": "HB 311",
+ "slug": "hb311",
+ "session": "2025_26",
+ "legislation_id": 70022,
+ "page": "https://www.legis.ga.gov/legislation/70022",
+ "document_type": "HB",
+ "number": 311,
+ "legislation_type": "GEN",
+ "caption": "Advancing Fair Employment for All Ages Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 34-1-2 of the Official Code of Georgia Annotated, relating to prohibition of age discrimination in employment, so as to change the age of individuals protected by such prohibition; to provide for a short title; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T10:59:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:57",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231613,
+   "label": "LC 55 0362/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231613"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:44+00:00",
+  "version:231613": "2026-11-20T18:31:44+00:00",
+  "status:40": "2026-11-20T18:31:44+00:00",
+  "status:33": "2026-11-20T18:31:44+00:00",
+  "status:34": "2026-11-20T18:31:44+00:00",
+  "status:39": "2026-11-20T18:31:44+00:00",
+  "status:50": "2026-11-20T18:31:44+00:00"
+ },
+ "updated": "2026-11-20T18:31:44+00:00"
+}

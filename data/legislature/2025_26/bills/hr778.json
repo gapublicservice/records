@@ -1,0 +1,89 @@
+{
+ "key": "HR 778",
+ "slug": "hr778",
+ "session": "2025_26",
+ "legislation_id": 71756,
+ "page": "https://www.legis.ga.gov/legislation/71756",
+ "document_type": "HR",
+ "number": 778,
+ "legislation_type": "PRIV",
+ "caption": "PANDAS Awareness Day at the state capitol; October 9, 2025; recognize",
+ "summary": "A RESOLUTION recognizing October 9, 2025, as PANDAS Awareness Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:50:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237666,
+   "label": "LC 59 0168/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237666"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:20+00:00",
+  "version:237666": "2026-11-20T19:48:20+00:00",
+  "status:40": "2026-11-20T19:48:20+00:00",
+  "status:33": "2026-11-20T19:48:20+00:00",
+  "status:48": "2026-11-20T19:48:20+00:00"
+ },
+ "updated": "2026-11-20T19:48:20+00:00"
+}

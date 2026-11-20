@@ -1,0 +1,81 @@
+{
+ "key": "HR 1203",
+ "slug": "hr1203",
+ "session": "2025_26",
+ "legislation_id": 72772,
+ "page": "https://www.legis.ga.gov/legislation/72772",
+ "document_type": "HR",
+ "number": 1203,
+ "legislation_type": "CA",
+ "caption": "General Assembly; trust fund for purpose of providing no-cost access to certain vaccines for children 18 years of age or younger and seniors 60 years of age or older; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that the General Assembly may by general law provide a trust fund for the purpose of providing no-cost access to certain vaccines for children 18 years of age or younger and seniors 60 years of age or older and make all provisions regarding such fund; to provide that the General Assembly may provide for a source of funding specifically designated for such fund, and that such fund shall not be subject to the lapsing provisions of the Constitution; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-03T10:52:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T10:31:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T10:11:09",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241309,
+   "label": "LC 46 1270/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241309"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:48+00:00",
+  "version:241309": "2026-11-20T19:57:48+00:00",
+  "status:40": "2026-11-20T19:57:48+00:00",
+  "status:33": "2026-11-20T19:57:48+00:00",
+  "status:34": "2026-11-20T19:57:48+00:00"
+ },
+ "updated": "2026-11-20T19:57:48+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1634",
+ "slug": "hr1634",
+ "session": "2025_26",
+ "legislation_id": 73969,
+ "page": "https://www.legis.ga.gov/legislation/73969",
+ "document_type": "HR",
+ "number": 1634,
+ "legislation_type": "PRIV",
+ "caption": "Thomas, Jody; distinguished leadership and service; commend",
+ "summary": "A RESOLUTION honoring Jody Thomas for her distinguished leadership and service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:12:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245421,
+   "label": "LC 129 1354/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245421"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:47+00:00",
+  "version:245421": "2026-11-20T20:07:47+00:00",
+  "status:40": "2026-11-20T20:07:47+00:00",
+  "status:33": "2026-11-20T20:07:47+00:00",
+  "status:48": "2026-11-20T20:07:47+00:00"
+ },
+ "updated": "2026-11-20T20:07:47+00:00"
+}

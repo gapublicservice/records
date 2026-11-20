@@ -1,0 +1,109 @@
+{
+ "key": "SR 772",
+ "slug": "sr772",
+ "session": "2025_26",
+ "legislation_id": 73212,
+ "page": "https://www.legis.ga.gov/legislation/73212",
+ "document_type": "SR",
+ "number": 772,
+ "legislation_type": "GEN",
+ "caption": "Sheriff Randall Johnson Intersection; Fayette County; dedicate",
+ "summary": "A RESOLUTION recognizing Sheriff Randall Johnson and dedicating an intersection in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:03:29",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-17T10:17:14",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242596,
+   "label": "As introduced LC 39 4896",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242596"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:08:26+00:00",
+  "version:242596": "2026-11-20T21:08:26+00:00",
+  "status:67": "2026-11-20T21:08:26+00:00",
+  "status:3": "2026-11-20T21:08:26+00:00"
+ },
+ "updated": "2026-11-20T21:08:26+00:00"
+}

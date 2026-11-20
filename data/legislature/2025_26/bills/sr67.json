@@ -1,0 +1,124 @@
+{
+ "key": "SR 67",
+ "slug": "sr67",
+ "session": "2025_26",
+ "legislation_id": 69697,
+ "page": "https://www.legis.ga.gov/legislation/69697",
+ "document_type": "SR",
+ "number": 67,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Arts Day; recognize February 2, 2025",
+ "summary": "A RESOLUTION recognizing February 2, 2025, as Georgia Arts Day in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T14:32:30",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-30T13:12:37",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230885,
+   "label": "Adopted Senate",
+   "version": 7,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230885"
+  },
+  {
+   "doc_id": 230742,
+   "label": "As Introduced LC 112 2776",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230742"
+  },
+  {
+   "doc_id": 230756,
+   "label": "Floor amend 1 AM 39 0441",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230756"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:52+00:00",
+  "version:230885": "2026-11-20T20:51:52+00:00",
+  "version:230742": "2026-11-20T20:51:52+00:00",
+  "version:230756": "2026-11-20T20:51:52+00:00",
+  "status:67": "2026-11-20T20:51:52+00:00",
+  "status:66": "2026-11-20T20:51:52+00:00"
+ },
+ "updated": "2026-11-20T20:51:52+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 1600",
+ "slug": "hb1600",
+ "session": "2025_26",
+ "legislation_id": 74378,
+ "page": "https://www.legis.ga.gov/legislation/74378",
+ "document_type": "HB",
+ "number": 1600,
+ "legislation_type": "LOC",
+ "caption": "City of McDonough Public Facilities Authority Act; enact",
+ "summary": "A BILL to be entitled an Act to create the City of McDonough Public Facilities Authority; to provide that the authority is a body corporate and politic and an instrumentality of the State of Georgia; to authorize the authority to acquire, construct, equip, maintain, and operate certain projects, including buildings and facilities for use by the City of McDonough for its governmental, proprietary, and administrative functions; to provide for disposition of property upon dissolution of the authority; to provide for severability; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-23T15:42:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T16:15:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T10:24:50",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-27T10:25:59",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2026-03-27T10:41:02",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247128,
+   "label": "LC 47 4142/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247128"
+  },
+  {
+   "doc_id": 247176,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247176"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:06+00:00",
+  "version:247128": "2026-11-20T19:30:06+00:00",
+  "version:247176": "2026-11-20T19:30:06+00:00",
+  "status:40": "2026-11-20T19:30:06+00:00",
+  "status:33": "2026-11-20T19:30:06+00:00",
+  "status:34": "2026-11-20T19:30:06+00:00",
+  "status:39": "2026-11-20T19:30:06+00:00",
+  "status:50": "2026-11-20T19:30:06+00:00"
+ },
+ "updated": "2026-11-20T19:30:06+00:00"
+}

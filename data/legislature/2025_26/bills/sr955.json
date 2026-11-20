@@ -1,0 +1,95 @@
+{
+ "key": "SR 955",
+ "slug": "sr955",
+ "session": "2025_26",
+ "legislation_id": 74088,
+ "page": "https://www.legis.ga.gov/legislation/74088",
+ "document_type": "SR",
+ "number": 955,
+ "legislation_type": "GEN",
+ "caption": "Robert Daniel Lockhart Memorial Intersection; Clayton County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Robert Daniel Lockhart and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-16T10:49:16",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-18T10:14:53",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245899,
+   "label": "As Introduced LC 39 5078",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245899"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:12:37+00:00",
+  "version:245899": "2026-11-20T21:12:37+00:00",
+  "status:67": "2026-11-20T21:12:37+00:00",
+  "status:3": "2026-11-20T21:12:37+00:00"
+ },
+ "updated": "2026-11-20T21:12:37+00:00"
+}

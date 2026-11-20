@@ -1,0 +1,89 @@
+{
+ "key": "HR 475",
+ "slug": "hr475",
+ "session": "2025_26",
+ "legislation_id": 71107,
+ "page": "https://www.legis.ga.gov/legislation/71107",
+ "document_type": "HR",
+ "number": 475,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Minority Supplier Development Council; 50th anniversary; recognize",
+ "summary": "A RESOLUTION commending the Georgia Minority Supplier Development Council upon its 50th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T16:03:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T16:23:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T16:23:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234939,
+   "label": "LC 112 3164/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234939"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:24+00:00",
+  "version:234939": "2026-11-20T19:41:24+00:00",
+  "status:40": "2026-11-20T19:41:24+00:00",
+  "status:33": "2026-11-20T19:41:24+00:00",
+  "status:48": "2026-11-20T19:41:24+00:00"
+ },
+ "updated": "2026-11-20T19:41:24+00:00"
+}

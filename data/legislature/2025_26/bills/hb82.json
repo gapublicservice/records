@@ -1,0 +1,102 @@
+{
+ "key": "HB 82",
+ "slug": "hb82",
+ "session": "2025_26",
+ "legislation_id": 69421,
+ "page": "https://www.legis.ga.gov/legislation/69421",
+ "document_type": "HB",
+ "number": 82,
+ "legislation_type": "GEN",
+ "caption": "Georgia Guest Worker Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations, so as to provide for a state administered guest worker program under the Commissioner of Labor; to provide for the purpose of such program; to provide definitions; to provide for the procedures for such program and the requirements to participate in such program; to provide for authorizations to participate in such program, identification cards, and renewals of authorizations; to provide for penalties for violations; to provide for the promulgation of rules and regulations; to provide for contingent effectiveness; to provide a short title; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4952,
+   "name": "Hutchinson, Shelly 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T12:52:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230090,
+   "label": "LC 28 0654/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230090"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:19:56+00:00",
+  "version:230090": "2026-11-20T18:19:56+00:00",
+  "status:40": "2026-11-20T18:19:56+00:00",
+  "status:33": "2026-11-20T18:19:56+00:00",
+  "status:34": "2026-11-20T18:19:56+00:00"
+ },
+ "updated": "2026-11-20T18:19:56+00:00"
+}

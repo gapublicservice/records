@@ -1,0 +1,88 @@
+{
+ "key": "HB 1081",
+ "slug": "hb1081",
+ "session": "2025_26",
+ "legislation_id": 72508,
+ "page": "https://www.legis.ga.gov/legislation/72508",
+ "document_type": "HB",
+ "number": 1081,
+ "legislation_type": "GEN",
+ "caption": "Handicapped persons; adults with cognitive decline to be considered disabled adults; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 5 of Title 30 of the Official Code of Georgia Annotated, relating to protection of disabled adults and elder persons, so as to provide for adults with cognitive decline to be considered disabled adults; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Human Relations & Aging",
+   "id": 93
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:53:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240638,
+   "label": "LC 62 0286/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240638"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:08:22+00:00",
+  "version:240638": "2026-11-20T19:08:22+00:00",
+  "status:40": "2026-11-20T19:08:22+00:00",
+  "status:33": "2026-11-20T19:08:22+00:00",
+  "status:34": "2026-11-20T19:08:22+00:00"
+ },
+ "updated": "2026-11-20T19:08:22+00:00"
+}

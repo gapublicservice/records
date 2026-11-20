@@ -1,0 +1,148 @@
+{
+ "key": "HB 1224",
+ "slug": "hb1224",
+ "session": "2025_26",
+ "legislation_id": 72915,
+ "page": "https://www.legis.ga.gov/legislation/72915",
+ "document_type": "HB",
+ "number": 1224,
+ "legislation_type": "GEN",
+ "caption": "Contracts; termination of certain automatic renewal provisions; reduce applicable period",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 13 of the Official Code of Georgia Annotated, relating to automatic renewal provisions, so as to reduce the applicable period for termination of certain automatic renewal provisions; to provide to consumers an option of having the service contract terminate after its specified period; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:10:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T09:29:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-02-25T12:45:02",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-04T19:10:12",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245175,
+   "label": "LC 44 3509S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245175"
+  },
+  {
+   "doc_id": 243681,
+   "label": "LC 44 3470S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243681"
+  },
+  {
+   "doc_id": 241698,
+   "label": "LC 44 3395/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241698"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:43+00:00",
+  "version:245175": "2026-11-20T19:14:43+00:00",
+  "version:243681": "2026-11-20T19:14:43+00:00",
+  "version:241698": "2026-11-20T19:14:43+00:00",
+  "status:40": "2026-11-20T19:14:43+00:00",
+  "status:33": "2026-11-20T19:14:43+00:00",
+  "status:34": "2026-11-20T19:14:43+00:00",
+  "status:39": "2026-11-20T19:14:43+00:00",
+  "status:50": "2026-11-20T19:14:43+00:00"
+ },
+ "updated": "2026-11-20T19:14:43+00:00"
+}

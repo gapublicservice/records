@@ -1,0 +1,60 @@
+{
+ "key": "SB 135",
+ "slug": "sb135",
+ "session": "2025_26",
+ "legislation_id": 70092,
+ "page": "https://www.legis.ga.gov/legislation/70092",
+ "document_type": "SB",
+ "number": 135,
+ "legislation_type": "GEN",
+ "caption": "\"Coastal Island Preservation Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 3 of Title 12 of the Official Code of Georgia Annotated, relating to general provisions regarding parks, historic areas, memorials, and recreation, so as to restrict development of residential structures on certain coastal islands; to provide for a short title;  to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Natural Resources and the Environment",
+   "id": 139
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T12:37:49",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231761,
+   "label": "As Introduced LC 44 3015",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231761"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:26:43+00:00",
+  "version:231761": "2026-11-20T20:26:43+00:00",
+  "status:67": "2026-11-20T20:26:43+00:00",
+  "status:3": "2026-11-20T20:26:43+00:00"
+ },
+ "updated": "2026-11-20T20:26:43+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HR 1155",
+ "slug": "hr1155",
+ "session": "2025_26",
+ "legislation_id": 72598,
+ "page": "https://www.legis.ga.gov/legislation/72598",
+ "document_type": "HR",
+ "number": 1155,
+ "legislation_type": "NP",
+ "caption": "Georgia PAD Screening and Amputation Prevention Act; state-wide support for passage; urge",
+ "summary": "A RESOLUTION urging state-wide support for passage of the \"Georgia PAD Screening and Amputation Prevention Act,\" to establish state agency programs and healthcare coverage requirements to prevent or reduce amputations due to peripheral artery disease; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T11:16:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240838,
+   "label": "LC 52 0894/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:46+00:00",
+  "version:240838": "2026-11-20T19:56:46+00:00",
+  "status:40": "2026-11-20T19:56:46+00:00",
+  "status:33": "2026-11-20T19:56:46+00:00",
+  "status:34": "2026-11-20T19:56:46+00:00"
+ },
+ "updated": "2026-11-20T19:56:46+00:00"
+}

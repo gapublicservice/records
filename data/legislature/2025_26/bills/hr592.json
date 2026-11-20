@@ -1,0 +1,94 @@
+{
+ "key": "HR 592",
+ "slug": "hr592",
+ "session": "2025_26",
+ "legislation_id": 71354,
+ "page": "https://www.legis.ga.gov/legislation/71354",
+ "document_type": "HR",
+ "number": 592,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Noncompete Clauses in Physician Contracts; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Noncompete Clauses in Physician Contracts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-13T11:54:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T13:29:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T10:25:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-27T10:15:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-19T08:57:46",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243261,
+   "label": "LC 46 1467S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243261"
+  },
+  {
+   "doc_id": 236048,
+   "label": "LC 33 9817/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236048"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:00+00:00",
+  "version:243261": "2026-11-20T19:44:00+00:00",
+  "version:236048": "2026-11-20T19:44:00+00:00",
+  "status:40": "2026-11-20T19:44:00+00:00",
+  "status:33": "2026-11-20T19:44:00+00:00",
+  "status:34": "2026-11-20T19:44:00+00:00",
+  "status:39": "2026-11-20T19:44:00+00:00",
+  "status:50": "2026-11-20T19:44:00+00:00"
+ },
+ "updated": "2026-11-20T19:44:00+00:00"
+}

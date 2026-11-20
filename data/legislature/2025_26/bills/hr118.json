@@ -1,0 +1,102 @@
+{
+ "key": "HR 118",
+ "slug": "hr118",
+ "session": "2025_26",
+ "legislation_id": 69733,
+ "page": "https://www.legis.ga.gov/legislation/69733",
+ "document_type": "HR",
+ "number": 118,
+ "legislation_type": "GEN",
+ "caption": "Woolfolk, Mr. Michael; compensate",
+ "summary": "A RESOLUTION compensating Mr. Michael Woolfolk; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:14:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230863,
+   "label": "LC 60 0054/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230863"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:30+00:00",
+  "version:230863": "2026-11-20T19:33:30+00:00",
+  "status:40": "2026-11-20T19:33:30+00:00",
+  "status:33": "2026-11-20T19:33:30+00:00",
+  "status:34": "2026-11-20T19:33:30+00:00",
+  "status:39": "2026-11-20T19:33:30+00:00",
+  "status:50": "2026-11-20T19:33:30+00:00"
+ },
+ "updated": "2026-11-20T19:33:30+00:00"
+}

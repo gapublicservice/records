@@ -1,0 +1,89 @@
+{
+ "key": "HR 543",
+ "slug": "hr543",
+ "session": "2025_26",
+ "legislation_id": 71234,
+ "page": "https://www.legis.ga.gov/legislation/71234",
+ "document_type": "HR",
+ "number": 543,
+ "legislation_type": "PRIV",
+ "caption": "Byrd, Dr. Teresa T.; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Teresa T. Byrd; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T18:10:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T18:34:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T18:34:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235582,
+   "label": "LC 129 0202/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235582"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:54+00:00",
+  "version:235582": "2026-11-20T19:42:54+00:00",
+  "status:40": "2026-11-20T19:42:54+00:00",
+  "status:33": "2026-11-20T19:42:54+00:00",
+  "status:48": "2026-11-20T19:42:54+00:00"
+ },
+ "updated": "2026-11-20T19:42:54+00:00"
+}

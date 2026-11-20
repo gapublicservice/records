@@ -1,0 +1,89 @@
+{
+ "key": "HR 1471",
+ "slug": "hr1471",
+ "session": "2025_26",
+ "legislation_id": 73604,
+ "page": "https://www.legis.ga.gov/legislation/73604",
+ "document_type": "HR",
+ "number": 1471,
+ "legislation_type": "PRIV",
+ "caption": "Fertility Awareness Week; July 27-Aug 2, 2026; recognize",
+ "summary": "A RESOLUTION recognizing July 27-Aug 2, 2026, as Fertility Awareness Week; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-24T14:48:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T15:45:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T15:45:05",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243881,
+   "label": "LC 129 9034/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243881"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:16+00:00",
+  "version:243881": "2026-11-20T20:04:16+00:00",
+  "status:40": "2026-11-20T20:04:16+00:00",
+  "status:33": "2026-11-20T20:04:16+00:00",
+  "status:48": "2026-11-20T20:04:16+00:00"
+ },
+ "updated": "2026-11-20T20:04:16+00:00"
+}

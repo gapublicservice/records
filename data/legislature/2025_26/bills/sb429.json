@@ -1,0 +1,130 @@
+{
+ "key": "SB 429",
+ "slug": "sb429",
+ "session": "2025_26",
+ "legislation_id": 72471,
+ "page": "https://www.legis.ga.gov/legislation/72471",
+ "document_type": "SB",
+ "number": 429,
+ "legislation_type": "GEN",
+ "caption": "\"Housing for Heroes Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 44 of the Official Code of Georgia Annotated, relating to landlord and tenant in general, so as to limit the monthly income requirement for disabled veterans to qualify as tenants; to provide for definitions; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Veterans, Military, and Homeland Security",
+   "id": 137
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T16:15:42",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T10:09:56",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240442,
+   "label": "As introduced LC 46 1357",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240442"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:40:28+00:00",
+  "version:240442": "2026-11-20T20:40:28+00:00",
+  "status:67": "2026-11-20T20:40:28+00:00",
+  "status:3": "2026-11-20T20:40:28+00:00"
+ },
+ "updated": "2026-11-20T20:40:28+00:00"
+}

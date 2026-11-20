@@ -1,0 +1,102 @@
+{
+ "key": "HB 599",
+ "slug": "hb599",
+ "session": "2025_26",
+ "legislation_id": 70725,
+ "page": "https://www.legis.ga.gov/legislation/70725",
+ "document_type": "HB",
+ "number": 599,
+ "legislation_type": "GEN",
+ "caption": "Teachers Retirement System of Georgia; employ certain beneficiaries as classroom teachers in a full-time capacity; extend program",
+ "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 3 of Title 47 of the Official Code of Georgia Annotated, relating to retirement allowances, disability benefits, and spouses' benefits, so as to extend the program to permit public school systems to employ certain beneficiaries of the Teachers Retirement System of Georgia as classroom teachers in a full-time capacity to June 30, 2030; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T11:50:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233625,
+   "label": "LC 56 0328/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233625"
+  },
+  {
+   "doc_id": 233664,
+   "label": "Auditor's Certification LC 56 0328",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233664"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:09+00:00",
+  "version:233625": "2026-11-20T18:45:09+00:00",
+  "version:233664": "2026-11-20T18:45:09+00:00",
+  "status:40": "2026-11-20T18:45:09+00:00",
+  "status:33": "2026-11-20T18:45:09+00:00",
+  "status:34": "2026-11-20T18:45:09+00:00"
+ },
+ "updated": "2026-11-20T18:45:09+00:00"
+}

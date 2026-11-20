@@ -1,0 +1,61 @@
+{
+ "key": "HR 1936",
+ "slug": "hr1936",
+ "session": "2025_26",
+ "legislation_id": 74484,
+ "page": "https://www.legis.ga.gov/legislation/74484",
+ "document_type": "HR",
+ "number": 1936,
+ "legislation_type": "PRIV",
+ "caption": "Union County; Sorghum Capital of Georgia; recognize",
+ "summary": "A RESOLUTION recognizing Union County as the Sorghum Capital of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:55:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247575,
+   "label": "LC 112 4067/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247575"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:13+00:00",
+  "version:247575": "2026-11-20T20:14:13+00:00",
+  "status:40": "2026-11-20T20:14:13+00:00",
+  "status:33": "2026-11-20T20:14:13+00:00",
+  "status:48": "2026-11-20T20:14:13+00:00"
+ },
+ "updated": "2026-11-20T20:14:13+00:00"
+}

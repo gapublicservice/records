@@ -1,0 +1,74 @@
+{
+ "key": "HB 1584",
+ "slug": "hb1584",
+ "session": "2025_26",
+ "legislation_id": 74263,
+ "page": "https://www.legis.ga.gov/legislation/74263",
+ "document_type": "HB",
+ "number": 1584,
+ "legislation_type": "LOC",
+ "caption": "Augusta, City of; Richmond County; council-manager form of government; provide",
+ "summary": "A BILL to be entitled an Act to amend an Act providing for the consolidation of Richmond County and the City of Augusta, approved March 27, 1995 (Ga. L. 1995, p. 3648), as amended, so as to provide for a council-manager form of government; to provide for a referendum, effective dates, and automatic repeal; to provide for mandatory execution of election and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-19T11:35:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T10:26:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T10:08:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246612,
+   "label": "LC 47 4276/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246612"
+  },
+  {
+   "doc_id": 246616,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246616"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:29:29+00:00",
+  "version:246612": "2026-11-20T19:29:29+00:00",
+  "version:246616": "2026-11-20T19:29:29+00:00",
+  "status:40": "2026-11-20T19:29:29+00:00",
+  "status:33": "2026-11-20T19:29:29+00:00",
+  "status:34": "2026-11-20T19:29:29+00:00"
+ },
+ "updated": "2026-11-20T19:29:29+00:00"
+}

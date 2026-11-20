@@ -1,0 +1,89 @@
+{
+ "key": "SR 478",
+ "slug": "sr478",
+ "session": "2025_26",
+ "legislation_id": 71717,
+ "page": "https://www.legis.ga.gov/legislation/71717",
+ "document_type": "SR",
+ "number": 478,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Pharmacy Association; congratulate",
+ "summary": "A RESOLUTION congratulating the Georgia Pharmacy Association upon its 150th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T11:02:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T12:32:29",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237502,
+   "label": "Read and adopted LC 112 3522",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237502"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:01:35+00:00",
+  "version:237502": "2026-11-20T21:01:35+00:00",
+  "status:67": "2026-11-20T21:01:35+00:00",
+  "status:66": "2026-11-20T21:01:35+00:00"
+ },
+ "updated": "2026-11-20T21:01:35+00:00"
+}

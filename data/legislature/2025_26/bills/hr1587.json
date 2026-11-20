@@ -1,0 +1,96 @@
+{
+ "key": "HR 1587",
+ "slug": "hr1587",
+ "session": "2025_26",
+ "legislation_id": 73893,
+ "page": "https://www.legis.ga.gov/legislation/73893",
+ "document_type": "HR",
+ "number": 1587,
+ "legislation_type": "PRIV",
+ "caption": "Licensed Professional Counselors Appreciation Day at the state capitol; 3/5/26; recognize",
+ "summary": "A RESOLUTION recognizing March 5, 2026, as Licensed Professional Counselors Appreciation Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T15:29:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T16:53:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T16:53:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245079,
+   "label": "LC 112 3771/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245079"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:46+00:00",
+  "version:245079": "2026-11-20T20:06:46+00:00",
+  "status:40": "2026-11-20T20:06:46+00:00",
+  "status:33": "2026-11-20T20:06:46+00:00",
+  "status:48": "2026-11-20T20:06:46+00:00"
+ },
+ "updated": "2026-11-20T20:06:46+00:00"
+}

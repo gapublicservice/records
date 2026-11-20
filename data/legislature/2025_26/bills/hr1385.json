@@ -1,0 +1,68 @@
+{
+ "key": "HR 1385",
+ "slug": "hr1385",
+ "session": "2025_26",
+ "legislation_id": 73316,
+ "page": "https://www.legis.ga.gov/legislation/73316",
+ "document_type": "HR",
+ "number": 1385,
+ "legislation_type": "PRIV",
+ "caption": "Haygood Memorial United Methodist Church; occasion of its 100th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Haygood Memorial United Methodist Church on the occasion of its 100th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:16:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:59",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242895,
+   "label": "LC 129 0785/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242895"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:19+00:00",
+  "version:242895": "2026-11-20T20:02:19+00:00",
+  "status:40": "2026-11-20T20:02:19+00:00",
+  "status:33": "2026-11-20T20:02:19+00:00",
+  "status:48": "2026-11-20T20:02:19+00:00"
+ },
+ "updated": "2026-11-20T20:02:19+00:00"
+}

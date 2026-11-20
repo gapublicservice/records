@@ -1,0 +1,74 @@
+{
+ "key": "SR 968",
+ "slug": "sr968",
+ "session": "2025_26",
+ "legislation_id": 74173,
+ "page": "https://www.legis.ga.gov/legislation/74173",
+ "document_type": "SR",
+ "number": 968,
+ "legislation_type": "PRIV",
+ "caption": "Whitaker, Dr. Gyimah; recognize",
+ "summary": "A RESOLUTION recognizing and commending Dr. Gyimah Whitaker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T09:07:38",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-19T11:50:38",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246250,
+   "label": "Read and adopted LC 112 3742",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246250"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:12:54+00:00",
+  "version:246250": "2026-11-20T21:12:54+00:00",
+  "status:67": "2026-11-20T21:12:54+00:00",
+  "status:3": "2026-11-20T21:12:54+00:00"
+ },
+ "updated": "2026-11-20T21:12:54+00:00"
+}

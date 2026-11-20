@@ -1,0 +1,75 @@
+{
+ "key": "HR 1676",
+ "slug": "hr1676",
+ "session": "2025_26",
+ "legislation_id": 74058,
+ "page": "https://www.legis.ga.gov/legislation/74058",
+ "document_type": "HR",
+ "number": 1676,
+ "legislation_type": "PRIV",
+ "caption": "Yeshiva University Maccabees; commend",
+ "summary": "A RESOLUTION commending the Yeshiva University Maccabees; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:41:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:15:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245823,
+   "label": "LC 129 1378/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245823"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:42+00:00",
+  "version:245823": "2026-11-20T20:08:42+00:00",
+  "status:40": "2026-11-20T20:08:42+00:00",
+  "status:33": "2026-11-20T20:08:42+00:00",
+  "status:48": "2026-11-20T20:08:42+00:00"
+ },
+ "updated": "2026-11-20T20:08:42+00:00"
+}

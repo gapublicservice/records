@@ -1,0 +1,74 @@
+{
+ "key": "HR 1664",
+ "slug": "hr1664",
+ "session": "2025_26",
+ "legislation_id": 74042,
+ "page": "https://www.legis.ga.gov/legislation/74042",
+ "document_type": "HR",
+ "number": 1664,
+ "legislation_type": "GEN",
+ "caption": "General Wallace Intersection; Dawson County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. General Wallace and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-12T11:28:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T10:49:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T10:10:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245760,
+   "label": "LC 39 5055/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245760"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:26+00:00",
+  "version:245760": "2026-11-20T20:08:26+00:00",
+  "status:40": "2026-11-20T20:08:26+00:00",
+  "status:33": "2026-11-20T20:08:26+00:00",
+  "status:34": "2026-11-20T20:08:26+00:00"
+ },
+ "updated": "2026-11-20T20:08:26+00:00"
+}

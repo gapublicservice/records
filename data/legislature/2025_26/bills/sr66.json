@@ -1,0 +1,96 @@
+{
+ "key": "SR 66",
+ "slug": "sr66",
+ "session": "2025_26",
+ "legislation_id": 69694,
+ "page": "https://www.legis.ga.gov/legislation/69694",
+ "document_type": "SR",
+ "number": 66,
+ "legislation_type": "PRIV",
+ "caption": "Hemophilia of Georgia; recognize",
+ "summary": "A RESOLUTION recognizing Hemophilia of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T13:45:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-30T12:04:15",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230722,
+   "label": "Read and adopted LC 112 2759",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230722"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:51+00:00",
+  "version:230722": "2026-11-20T20:51:51+00:00",
+  "status:67": "2026-11-20T20:51:51+00:00",
+  "status:66": "2026-11-20T20:51:51+00:00"
+ },
+ "updated": "2026-11-20T20:51:51+00:00"
+}

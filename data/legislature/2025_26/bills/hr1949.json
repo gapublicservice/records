@@ -1,0 +1,67 @@
+{
+ "key": "HR 1949",
+ "slug": "hr1949",
+ "session": "2025_26",
+ "legislation_id": 74512,
+ "page": "https://www.legis.ga.gov/legislation/74512",
+ "document_type": "HR",
+ "number": 1949,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Gamecock Fighting in Georgia; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Gamecock Fighting in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-27T12:00:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T10:29:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T10:22:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247858,
+   "label": "LC 48 1848/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247858"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:30+00:00",
+  "version:247858": "2026-11-20T20:14:30+00:00",
+  "status:40": "2026-11-20T20:14:30+00:00",
+  "status:33": "2026-11-20T20:14:30+00:00",
+  "status:34": "2026-11-20T20:14:30+00:00"
+ },
+ "updated": "2026-11-20T20:14:30+00:00"
+}

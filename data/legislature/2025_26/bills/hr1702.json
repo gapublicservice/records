@@ -1,0 +1,95 @@
+{
+ "key": "HR 1702",
+ "slug": "hr1702",
+ "session": "2025_26",
+ "legislation_id": 74106,
+ "page": "https://www.legis.ga.gov/legislation/74106",
+ "document_type": "HR",
+ "number": 1702,
+ "legislation_type": "NP",
+ "caption": "General Assembly; protection of constitutional conscience, rule of law, and lawful exercise of conscientious objection; urge",
+ "summary": "A RESOLUTION urging for the protection of constitutional conscience, the rule of law, and the lawful exercise of conscientious objection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-16T11:50:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T10:32:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T10:08:20",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245964,
+   "label": "LC 112 3915/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245964"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:15+00:00",
+  "version:245964": "2026-11-20T20:09:15+00:00",
+  "status:40": "2026-11-20T20:09:15+00:00",
+  "status:33": "2026-11-20T20:09:15+00:00",
+  "status:34": "2026-11-20T20:09:15+00:00"
+ },
+ "updated": "2026-11-20T20:09:15+00:00"
+}

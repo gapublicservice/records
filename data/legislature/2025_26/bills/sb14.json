@@ -1,0 +1,90 @@
+{
+ "key": "SB 14",
+ "slug": "sb14",
+ "session": "2025_26",
+ "legislation_id": 69381,
+ "page": "https://www.legis.ga.gov/legislation/69381",
+ "document_type": "SB",
+ "number": 14,
+ "legislation_type": "GEN",
+ "caption": "Elections; the nonpartisan election of district attorneys and solicitors-general of state courts; authorize the General Assembly",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to primaries and elections generally, so as to authorize the General Assembly to provide for the nonpartisan election of district attorneys and solicitors-general of state courts; to provide for the qualifying of such offices; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4982,
+   "name": "Dixon, Clint 45th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-15T12:21:11",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-16T10:10:48",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229972,
+   "label": "As Introduced LC 47 3127",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229972"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:19:54+00:00",
+  "version:229972": "2026-11-20T20:19:54+00:00",
+  "status:67": "2026-11-20T20:19:54+00:00",
+  "status:3": "2026-11-20T20:19:54+00:00"
+ },
+ "updated": "2026-11-20T20:19:54+00:00"
+}

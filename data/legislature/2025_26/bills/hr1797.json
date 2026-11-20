@@ -1,0 +1,102 @@
+{
+ "key": "HR 1797",
+ "slug": "hr1797",
+ "session": "2025_26",
+ "legislation_id": 74277,
+ "page": "https://www.legis.ga.gov/legislation/74277",
+ "document_type": "HR",
+ "number": 1797,
+ "legislation_type": "NP",
+ "caption": "Grady Memorial Hospital; rename to Grady-Bell Memorial Hospital; urge",
+ "summary": "A RESOLUTION urging for the renaming of Grady Memorial Hospital to Grady-Bell Memorial Hospital; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-19T13:10:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-20T10:26:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T10:08:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246660,
+   "label": "LC 112 3837/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246660"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:17+00:00",
+  "version:246660": "2026-11-20T20:11:17+00:00",
+  "status:40": "2026-11-20T20:11:17+00:00",
+  "status:33": "2026-11-20T20:11:17+00:00",
+  "status:34": "2026-11-20T20:11:17+00:00"
+ },
+ "updated": "2026-11-20T20:11:17+00:00"
+}

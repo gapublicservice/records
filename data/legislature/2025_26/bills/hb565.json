@@ -1,0 +1,109 @@
+{
+ "key": "HB 565",
+ "slug": "hb565",
+ "session": "2025_26",
+ "legislation_id": 70618,
+ "page": "https://www.legis.ga.gov/legislation/70618",
+ "document_type": "HB",
+ "number": 565,
+ "legislation_type": "GEN",
+ "caption": "Income tax; increase annual aggregate limit for tax credits available for qualified education donations",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income tax imposition, rate, computation, exemptions, and credits, so as to increase the annual aggregate limit for tax credits available for qualified education donations; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:18:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T08:57:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243618,
+   "label": "LC 44 3473S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243618"
+  },
+  {
+   "doc_id": 233291,
+   "label": "LC 50 1151/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233291"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:14+00:00",
+  "version:243618": "2026-11-20T18:43:14+00:00",
+  "version:233291": "2026-11-20T18:43:14+00:00",
+  "status:40": "2026-11-20T18:43:14+00:00",
+  "status:33": "2026-11-20T18:43:14+00:00",
+  "status:34": "2026-11-20T18:43:14+00:00",
+  "status:39": "2026-11-20T18:43:14+00:00"
+ },
+ "updated": "2026-11-20T18:43:14+00:00"
+}

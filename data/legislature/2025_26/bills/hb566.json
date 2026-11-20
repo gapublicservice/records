@@ -1,0 +1,136 @@
+{
+ "key": "HB 566",
+ "slug": "hb566",
+ "session": "2025_26",
+ "legislation_id": 70646,
+ "page": "https://www.legis.ga.gov/legislation/70646",
+ "document_type": "HB",
+ "number": 566,
+ "legislation_type": "GEN",
+ "caption": "NO FAKES Act of 2025; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other trade practices, so as to enact the \"NO FAKES Act of 2025\"; to protect intellectual property rights in the voice and visual likeness of individuals; to provide for the characteristics of a right to use the voice or visual likeness in a digital replica; to provide for licensing and transferability of a right; to require the Secretary of State to maintain a directory of designated agents; to provide for civil liability for the unauthorized use of a digital replica; to provide for penalties; to bar liability arising from retroactive application of this Act; to provide for definitions; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Creative Arts & Entertainment",
+   "id": 194
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T09:48:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T10:40:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T10:19:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-03T10:12:06",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-25T09:29:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243959,
+   "label": "LC 64 0076S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243959"
+  },
+  {
+   "doc_id": 234754,
+   "label": "LC 59 0126S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234754"
+  },
+  {
+   "doc_id": 233391,
+   "label": "LC 59 0112/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233391"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:15+00:00",
+  "version:243959": "2026-11-20T18:43:15+00:00",
+  "version:234754": "2026-11-20T18:43:15+00:00",
+  "version:233391": "2026-11-20T18:43:15+00:00",
+  "status:40": "2026-11-20T18:43:15+00:00",
+  "status:33": "2026-11-20T18:43:15+00:00",
+  "status:34": "2026-11-20T18:43:15+00:00",
+  "status:39": "2026-11-20T18:43:15+00:00",
+  "status:50": "2026-11-20T18:43:15+00:00"
+ },
+ "updated": "2026-11-20T18:43:15+00:00"
+}

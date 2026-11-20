@@ -1,0 +1,123 @@
+{
+ "key": "HB 424",
+ "slug": "hb424",
+ "session": "2025_26",
+ "legislation_id": 70269,
+ "page": "https://www.legis.ga.gov/legislation/70269",
+ "document_type": "HB",
+ "number": 424,
+ "legislation_type": "GEN",
+ "caption": "Agriculture; clarify that a manufacturer cannot be held liable for failing to warn consumers of health risks above those required by the United States Environmental Protection Agency",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 7 of Title 2 of the Official Code of Georgia Annotated, relating to liability for use of fertilizers, plant growth regulators, or pesticides, so as to clarify that a manufacturer cannot be held liable for failing to warn consumers of health risks above those required by the United States Environmental Protection Agency with respect to pesticides; to provide for legislative findings; to provide for related matters; to provide for applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T11:35:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-19T11:25:47",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232896,
+   "label": "LC 44 3071S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232896"
+  },
+  {
+   "doc_id": 232284,
+   "label": "LC 60 0082/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232284"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:37:12+00:00",
+  "version:232896": "2026-11-20T18:37:12+00:00",
+  "version:232284": "2026-11-20T18:37:12+00:00",
+  "status:40": "2026-11-20T18:37:12+00:00",
+  "status:33": "2026-11-20T18:37:12+00:00",
+  "status:34": "2026-11-20T18:37:12+00:00",
+  "status:39": "2026-11-20T18:37:12+00:00",
+  "status:50": "2026-11-20T18:37:12+00:00"
+ },
+ "updated": "2026-11-20T18:37:12+00:00"
+}

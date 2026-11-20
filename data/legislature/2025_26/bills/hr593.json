@@ -1,0 +1,109 @@
+{
+ "key": "HR 593",
+ "slug": "hr593",
+ "session": "2025_26",
+ "legislation_id": 71357,
+ "page": "https://www.legis.ga.gov/legislation/71357",
+ "document_type": "HR",
+ "number": 593,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Maternal, Prenatal, and Pediatric Care Access and Funding; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Maternal, Prenatal, and Pediatric Care Access and Funding; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-13T12:44:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T13:29:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T10:25:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-04-02T10:20:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236065,
+   "label": "LC 60 0139/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236065"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:01+00:00",
+  "version:236065": "2026-11-20T19:44:01+00:00",
+  "status:40": "2026-11-20T19:44:01+00:00",
+  "status:33": "2026-11-20T19:44:01+00:00",
+  "status:34": "2026-11-20T19:44:01+00:00",
+  "status:39": "2026-11-20T19:44:01+00:00",
+  "status:50": "2026-11-20T19:44:01+00:00"
+ },
+ "updated": "2026-11-20T19:44:01+00:00"
+}

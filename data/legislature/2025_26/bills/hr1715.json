@@ -1,0 +1,75 @@
+{
+ "key": "HR 1715",
+ "slug": "hr1715",
+ "session": "2025_26",
+ "legislation_id": 74131,
+ "page": "https://www.legis.ga.gov/legislation/74131",
+ "document_type": "HR",
+ "number": 1715,
+ "legislation_type": "PRIV",
+ "caption": "Lambda Epsilon Omega Chapter of Alpha Kappa Alpha Sorority, Incorporated; 50th anniversary; commend",
+ "summary": "A RESOLUTION congratulating the Lambda Epsilon Omega Chapter of Alpha Kappa Alpha Sorority, Incorporated, upon its 50th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:57:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246059,
+   "label": "LC 129 1385/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246059"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:32+00:00",
+  "version:246059": "2026-11-20T20:09:32+00:00",
+  "status:40": "2026-11-20T20:09:32+00:00",
+  "status:33": "2026-11-20T20:09:32+00:00",
+  "status:48": "2026-11-20T20:09:32+00:00"
+ },
+ "updated": "2026-11-20T20:09:32+00:00"
+}

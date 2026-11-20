@@ -1,0 +1,89 @@
+{
+ "key": "HR 288",
+ "slug": "hr288",
+ "session": "2025_26",
+ "legislation_id": 70458,
+ "page": "https://www.legis.ga.gov/legislation/70458",
+ "document_type": "HR",
+ "number": 288,
+ "legislation_type": "PRIV",
+ "caption": "No-Kill Awareness Day at the state capitol; April 30, 2025; recognize",
+ "summary": "A RESOLUTION recognizing April 30, 2025, as No-Kill Awareness Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:22:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:51:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:51:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232805,
+   "label": "LC 112 2983/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232805"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:17+00:00",
+  "version:232805": "2026-11-20T19:37:17+00:00",
+  "status:40": "2026-11-20T19:37:17+00:00",
+  "status:33": "2026-11-20T19:37:17+00:00",
+  "status:48": "2026-11-20T19:37:17+00:00"
+ },
+ "updated": "2026-11-20T19:37:17+00:00"
+}

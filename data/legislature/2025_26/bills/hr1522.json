@@ -1,0 +1,102 @@
+{
+ "key": "HR 1522",
+ "slug": "hr1522",
+ "session": "2025_26",
+ "legislation_id": 73773,
+ "page": "https://www.legis.ga.gov/legislation/73773",
+ "document_type": "HR",
+ "number": 1522,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Evaluating Community Health; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Evaluating Community Health; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T11:02:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-16T10:25:29",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244607,
+   "label": "LC 60 0290/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244607"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:22+00:00",
+  "version:244607": "2026-11-20T20:05:22+00:00",
+  "status:40": "2026-11-20T20:05:22+00:00",
+  "status:33": "2026-11-20T20:05:22+00:00",
+  "status:34": "2026-11-20T20:05:22+00:00",
+  "status:39": "2026-11-20T20:05:22+00:00"
+ },
+ "updated": "2026-11-20T20:05:22+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 972",
+ "slug": "hb972",
+ "session": "2025_26",
+ "legislation_id": 72230,
+ "page": "https://www.legis.ga.gov/legislation/72230",
+ "document_type": "HB",
+ "number": 972,
+ "legislation_type": "GEN",
+ "caption": "Education; require written notice to parents and guardians of students in grades four through eight at least twice each school year stating whether such student has attained grade level reading proficiency",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to educational programs under the \"Quality Basic Education Act,\" so as to require public school governing bodies to provide written notice to parents and guardians of students in grades four through eight at least twice each school year stating whether such student has attained grade level reading proficiency; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-14T13:22:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-15T10:52:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T08:36:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239854,
+   "label": "LC 49 2445/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239854"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:04:03+00:00",
+  "version:239854": "2026-11-20T19:04:03+00:00",
+  "status:40": "2026-11-20T19:04:03+00:00",
+  "status:33": "2026-11-20T19:04:03+00:00",
+  "status:34": "2026-11-20T19:04:03+00:00"
+ },
+ "updated": "2026-11-20T19:04:03+00:00"
+}

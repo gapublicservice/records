@@ -1,0 +1,67 @@
+{
+ "key": "HB 1472",
+ "slug": "hb1472",
+ "session": "2025_26",
+ "legislation_id": 73734,
+ "page": "https://www.legis.ga.gov/legislation/73734",
+ "document_type": "HB",
+ "number": 1472,
+ "legislation_type": "GEN",
+ "caption": "Income tax; term \"small business\"; revise definition",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits for state income tax, so as to revise the definition of the term \"small business\"; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:00:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T10:30:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T09:41:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244386,
+   "label": "LC 44 3499/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244386"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:24:08+00:00",
+  "version:244386": "2026-11-20T19:24:08+00:00",
+  "status:40": "2026-11-20T19:24:08+00:00",
+  "status:33": "2026-11-20T19:24:08+00:00",
+  "status:34": "2026-11-20T19:24:08+00:00"
+ },
+ "updated": "2026-11-20T19:24:08+00:00"
+}

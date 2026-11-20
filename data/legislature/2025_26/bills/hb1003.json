@@ -1,0 +1,102 @@
+{
+ "key": "HB 1003",
+ "slug": "hb1003",
+ "session": "2025_26",
+ "legislation_id": 72298,
+ "page": "https://www.legis.ga.gov/legislation/72298",
+ "document_type": "HB",
+ "number": 1003,
+ "legislation_type": "GEN",
+ "caption": "Public officers and employees; daily expense accounts of members of the General Assembly; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 45-7-4 of the Official Code of Georgia Annotated, relating to annual salaries of certain state officials and cost-of-living adjustments, so as to revise provisions related to daily expense accounts of members of the General Assembly; to provide members of the General Assembly with an additional security expense allowance; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:18:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240037,
+   "label": "LC 47 3779/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240037"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:36+00:00",
+  "version:240037": "2026-11-20T19:05:36+00:00",
+  "status:40": "2026-11-20T19:05:36+00:00",
+  "status:33": "2026-11-20T19:05:36+00:00",
+  "status:34": "2026-11-20T19:05:36+00:00"
+ },
+ "updated": "2026-11-20T19:05:36+00:00"
+}

@@ -1,0 +1,60 @@
+{
+ "key": "SR 266",
+ "slug": "sr266",
+ "session": "2025_26",
+ "legislation_id": 70817,
+ "page": "https://www.legis.ga.gov/legislation/70817",
+ "document_type": "SR",
+ "number": 266,
+ "legislation_type": "PRIV",
+ "caption": "Stafford, Furquan R.; commend",
+ "summary": "A RESOLUTION encouraging the development of minority owned plasma collection centers and commending Furquan R. Stafford and other community activists; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:24:01",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T11:32:15",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233914,
+   "label": "Read and Adopted LC 60 0102",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233914"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:56:26+00:00",
+  "version:233914": "2026-11-20T20:56:26+00:00",
+  "status:67": "2026-11-20T20:56:26+00:00",
+  "status:3": "2026-11-20T20:56:26+00:00"
+ },
+ "updated": "2026-11-20T20:56:26+00:00"
+}

@@ -1,0 +1,165 @@
+{
+ "key": "SB 264",
+ "slug": "sb264",
+ "session": "2025_26",
+ "legislation_id": 70861,
+ "page": "https://www.legis.ga.gov/legislation/70861",
+ "document_type": "SB",
+ "number": 264,
+ "legislation_type": "GEN",
+ "caption": "Emergency Management; creation of the Georgia Resilience Office under the Georgia Emergency Management and Homeland Security Agency; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to emergency management, so as to provide for the creation of the Georgia Resilience Office under the Georgia Emergency Management and Homeland Security Agency; to provide for a board of directors;  to provide for the purpose, membership, and duties of such board; to provide for reports; to provide for the hiring of staff; to provide for compensation and funding; to provide for definitions; to provide for related matters; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Public Safety",
+   "id": 81
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:12:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:29:57",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-03-03T12:34:46",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-03-04T10:22:57",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:30:56",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234030,
+   "label": "As introduced LC 56 0344",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234030"
+  },
+  {
+   "doc_id": 234759,
+   "label": "Committee sub LC 56 0360S",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234759"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:33:58+00:00",
+  "version:234030": "2026-11-20T20:33:58+00:00",
+  "version:234759": "2026-11-20T20:33:58+00:00",
+  "status:67": "2026-11-20T20:33:58+00:00",
+  "status:3": "2026-11-20T20:33:58+00:00",
+  "status:8": "2026-11-20T20:33:58+00:00",
+  "status:10": "2026-11-20T20:33:58+00:00",
+  "status:103": "2026-11-20T20:33:58+00:00"
+ },
+ "updated": "2026-11-20T20:33:58+00:00"
+}

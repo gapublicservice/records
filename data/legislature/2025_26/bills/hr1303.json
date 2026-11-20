@@ -1,0 +1,61 @@
+{
+ "key": "HR 1303",
+ "slug": "hr1303",
+ "session": "2025_26",
+ "legislation_id": 73085,
+ "page": "https://www.legis.ga.gov/legislation/73085",
+ "document_type": "HR",
+ "number": 1303,
+ "legislation_type": "PRIV",
+ "caption": "Fisette, Kyle; recipient of the New Administrator of The Year award; commend",
+ "summary": "A RESOLUTION recognizing and commending Kyle Fisette, recipient of the New Administrator of The Year award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:07:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242242,
+   "label": "LC 129 9016/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242242"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:10+00:00",
+  "version:242242": "2026-11-20T20:00:10+00:00",
+  "status:40": "2026-11-20T20:00:10+00:00",
+  "status:33": "2026-11-20T20:00:10+00:00",
+  "status:48": "2026-11-20T20:00:10+00:00"
+ },
+ "updated": "2026-11-20T20:00:10+00:00"
+}

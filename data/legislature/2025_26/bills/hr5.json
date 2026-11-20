@@ -1,0 +1,75 @@
+{
+ "key": "HR 5",
+ "slug": "hr5",
+ "session": "2025_26",
+ "legislation_id": 69266,
+ "page": "https://www.legis.ga.gov/legislation/69266",
+ "document_type": "HR",
+ "number": 5,
+ "legislation_type": "NP",
+ "caption": "Joint session; message from Chief Justice of the Supreme Court",
+ "summary": "A RESOLUTION calling a joint session of the House of Representatives and the Senate for the purpose of hearing a message from the Chief Justice of the Supreme Court; inviting each other Justice of the Supreme Court and each Judge of the Court of Appeals to be present at the joint session; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-09T14:48:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-13T12:16:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-13T12:16:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  },
+  {
+   "date": "2025-01-14T12:28:26",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  },
+  {
+   "date": "2025-01-14T12:30:44",
+   "code": "STH",
+   "action": "Senate Transmitted House",
+   "id": 60
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229702,
+   "label": "LC 33 9750/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229702"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:29+00:00",
+  "version:229702": "2026-11-20T19:30:29+00:00",
+  "status:40": "2026-11-20T19:30:29+00:00",
+  "status:33": "2026-11-20T19:30:29+00:00",
+  "status:48": "2026-11-20T19:30:29+00:00",
+  "status:66": "2026-11-20T19:30:29+00:00",
+  "status:60": "2026-11-20T19:30:29+00:00"
+ },
+ "updated": "2026-11-20T19:30:29+00:00"
+}

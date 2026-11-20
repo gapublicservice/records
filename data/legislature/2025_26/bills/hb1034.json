@@ -1,0 +1,81 @@
+{
+ "key": "HB 1034",
+ "slug": "hb1034",
+ "session": "2025_26",
+ "legislation_id": 72364,
+ "page": "https://www.legis.ga.gov/legislation/72364",
+ "document_type": "HB",
+ "number": 1034,
+ "legislation_type": "GEN",
+ "caption": "Georgia Tech Support Impersonation and Remote Access Protection Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 7 of the Official Code of Georgia Annotated, relating to financial institutions, so as to require that financial institutions provide customers the ability to place emergency holds on suspected fraudulent transactions; to amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other trade practices;  to amend Chapter 9 of Title 16 of the Official Code of Georgia Annotated, relating to forgery and fraudulent practices; to amend Chapter 15 of Title 17 of the Official Code of Georgia Annotated, relating to victim compensation; to amend Chapter 15 of Title 45 of the Official Code of Georgia Annotated, relating to general provisions relative to the attorney general, so as to require that the Attorney General create public awareness and training initiatives regarding certain financial crimes; to provide for definitions; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:40:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240208,
+   "label": "LC 59 0193/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240208"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:48+00:00",
+  "version:240208": "2026-11-20T19:06:48+00:00",
+  "status:40": "2026-11-20T19:06:48+00:00",
+  "status:33": "2026-11-20T19:06:48+00:00",
+  "status:34": "2026-11-20T19:06:48+00:00"
+ },
+ "updated": "2026-11-20T19:06:48+00:00"
+}

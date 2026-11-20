@@ -1,0 +1,144 @@
+{
+ "key": "SB 181",
+ "slug": "sb181",
+ "session": "2025_26",
+ "legislation_id": 70374,
+ "page": "https://www.legis.ga.gov/legislation/70374",
+ "document_type": "SB",
+ "number": 181,
+ "legislation_type": "GEN",
+ "caption": "Education; public schools and public postsecondary institutions shall not accept funding from or enter into contracts with foreign adversaries; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to provide that public schools and public postsecondary institutions shall not accept funding from or enter into contracts with foreign adversaries; to provide definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Higher Education",
+   "id": 77
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T16:17:56",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-18T13:11:41",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-24T13:19:52",
+   "code": "SW&C",
+   "action": "Senate Withdrawn & Recommitted",
+   "id": 7
+  },
+  {
+   "date": "2025-02-28T09:53:57",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-03-03T13:44:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:30:19",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232556,
+   "label": "As introduced LC 61 0116",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232556"
+  },
+  {
+   "doc_id": 234374,
+   "label": "Committee Sub LC 61 0185S",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234374"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:29:34+00:00",
+  "version:232556": "2026-11-20T20:29:34+00:00",
+  "version:234374": "2026-11-20T20:29:34+00:00",
+  "status:67": "2026-11-20T20:29:34+00:00",
+  "status:3": "2026-11-20T20:29:34+00:00",
+  "status:7": "2026-11-20T20:29:34+00:00",
+  "status:8": "2026-11-20T20:29:34+00:00",
+  "status:10": "2026-11-20T20:29:34+00:00",
+  "status:103": "2026-11-20T20:29:34+00:00"
+ },
+ "updated": "2026-11-20T20:29:34+00:00"
+}

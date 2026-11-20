@@ -1,0 +1,74 @@
+{
+ "key": "HB 918",
+ "slug": "hb918",
+ "session": "2025_26",
+ "legislation_id": 72021,
+ "page": "https://www.legis.ga.gov/legislation/72021",
+ "document_type": "HB",
+ "number": 918,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education Act; permit private school students, home study students, and nonresident public school students to enroll as part-time students in any public school in this state",
+ "summary": "A BILL to be entitled an Act to amend Part 13 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to organization of schools and systems under the \"Quality Basic Education Act,\" so as to permit private school students, home study students, and nonresident public school students to enroll as part-time students in any public school in this state, subject only to enrolling school capacity and academic and grade level prerequisites; to provide for schools enrolling such students to receive state funds; to prohibit tuition; to provide for policies, rules, and regulations; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:47:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238932,
+   "label": "LC 49 9005/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238932"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:40+00:00",
+  "version:238932": "2026-11-20T19:01:40+00:00",
+  "status:40": "2026-11-20T19:01:40+00:00",
+  "status:33": "2026-11-20T19:01:40+00:00",
+  "status:34": "2026-11-20T19:01:40+00:00"
+ },
+ "updated": "2026-11-20T19:01:40+00:00"
+}

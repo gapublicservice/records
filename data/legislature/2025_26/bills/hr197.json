@@ -1,0 +1,61 @@
+{
+ "key": "HR 197",
+ "slug": "hr197",
+ "session": "2025_26",
+ "legislation_id": 70047,
+ "page": "https://www.legis.ga.gov/legislation/70047",
+ "document_type": "HR",
+ "number": 197,
+ "legislation_type": "PRIV",
+ "caption": "Strolling Thunder Day at the state capitol; February 6, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 6, 2025, as Strolling Thunder Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:16:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T13:16:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T13:16:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231625,
+   "label": "LC 112 2893/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231625"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:15+00:00",
+  "version:231625": "2026-11-20T19:35:15+00:00",
+  "status:40": "2026-11-20T19:35:15+00:00",
+  "status:33": "2026-11-20T19:35:15+00:00",
+  "status:48": "2026-11-20T19:35:15+00:00"
+ },
+ "updated": "2026-11-20T19:35:15+00:00"
+}

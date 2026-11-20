@@ -1,0 +1,88 @@
+{
+ "key": "HR 1832",
+ "slug": "hr1832",
+ "session": "2025_26",
+ "legislation_id": 74328,
+ "page": "https://www.legis.ga.gov/legislation/74328",
+ "document_type": "HR",
+ "number": 1832,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Assessment and Collection of Fees by Local Governments; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Assessment and Collection of Fees by Local Governments; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-20T13:05:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T10:21:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T10:24:50",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-27T10:26:06",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246895,
+   "label": "LC 47 4275/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246895"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:01+00:00",
+  "version:246895": "2026-11-20T20:12:01+00:00",
+  "status:40": "2026-11-20T20:12:01+00:00",
+  "status:33": "2026-11-20T20:12:01+00:00",
+  "status:34": "2026-11-20T20:12:01+00:00",
+  "status:39": "2026-11-20T20:12:01+00:00"
+ },
+ "updated": "2026-11-20T20:12:01+00:00"
+}

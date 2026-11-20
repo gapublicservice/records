@@ -1,0 +1,89 @@
+{
+ "key": "HR 1598",
+ "slug": "hr1598",
+ "session": "2025_26",
+ "legislation_id": 73904,
+ "page": "https://www.legis.ga.gov/legislation/73904",
+ "document_type": "HR",
+ "number": 1598,
+ "legislation_type": "PRIV",
+ "caption": "Crosby, Logan; professional achievements and contributions to Georgia and the arts; commend",
+ "summary": "A RESOLUTION recognizing and commending Logan Crosby for his professional achievements and contributions to Georgia and the arts; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T15:34:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T16:53:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-04T16:53:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245090,
+   "label": "LC 129 1287/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245090"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:00+00:00",
+  "version:245090": "2026-11-20T20:07:00+00:00",
+  "status:40": "2026-11-20T20:07:00+00:00",
+  "status:33": "2026-11-20T20:07:00+00:00",
+  "status:48": "2026-11-20T20:07:00+00:00"
+ },
+ "updated": "2026-11-20T20:07:00+00:00"
+}

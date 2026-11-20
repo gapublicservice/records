@@ -1,0 +1,82 @@
+{
+ "key": "HR 1958",
+ "slug": "hr1958",
+ "session": "2025_26",
+ "legislation_id": 74529,
+ "page": "https://www.legis.ga.gov/legislation/74529",
+ "document_type": "HR",
+ "number": 1958,
+ "legislation_type": "PRIV",
+ "caption": "Maternal Health Vitality Think Tank; commend",
+ "summary": "A RESOLUTION recognizing and commending the Maternal Health Vitality Think Tank; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T14:52:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247963,
+   "label": "LC 112 3992/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247963"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:42+00:00",
+  "version:247963": "2026-11-20T20:14:42+00:00",
+  "status:40": "2026-11-20T20:14:42+00:00",
+  "status:33": "2026-11-20T20:14:42+00:00",
+  "status:48": "2026-11-20T20:14:42+00:00"
+ },
+ "updated": "2026-11-20T20:14:42+00:00"
+}

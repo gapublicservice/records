@@ -1,0 +1,89 @@
+{
+ "key": "HR 1711",
+ "slug": "hr1711",
+ "session": "2025_26",
+ "legislation_id": 74127,
+ "page": "https://www.legis.ga.gov/legislation/74127",
+ "document_type": "HR",
+ "number": 1711,
+ "legislation_type": "PRIV",
+ "caption": "Bennette, Reverend Fred C., Jr.; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Reverend Fred C. Bennette, Jr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T13:56:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246055,
+   "label": "LC 129 1390/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246055"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:26+00:00",
+  "version:246055": "2026-11-20T20:09:26+00:00",
+  "status:40": "2026-11-20T20:09:26+00:00",
+  "status:33": "2026-11-20T20:09:26+00:00",
+  "status:48": "2026-11-20T20:09:26+00:00"
+ },
+ "updated": "2026-11-20T20:09:26+00:00"
+}

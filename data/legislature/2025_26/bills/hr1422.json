@@ -1,0 +1,68 @@
+{
+ "key": "HR 1422",
+ "slug": "hr1422",
+ "session": "2025_26",
+ "legislation_id": 73447,
+ "page": "https://www.legis.ga.gov/legislation/73447",
+ "document_type": "HR",
+ "number": 1422,
+ "legislation_type": "PRIV",
+ "caption": "Varnadore, Tim; retirement as mayor of Baxley, Georgia; commend",
+ "summary": "A RESOLUTION recognizing Tim Varnadore upon his retirement as mayor of Baxley, Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4961,
+   "name": "Meeks, Steven 178th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-19T13:14:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T13:24:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T13:24:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243332,
+   "label": "LC 129 1219/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243332"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:10+00:00",
+  "version:243332": "2026-11-20T20:03:10+00:00",
+  "status:40": "2026-11-20T20:03:10+00:00",
+  "status:33": "2026-11-20T20:03:10+00:00",
+  "status:48": "2026-11-20T20:03:10+00:00"
+ },
+ "updated": "2026-11-20T20:03:10+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 269",
+ "slug": "hr269",
+ "session": "2025_26",
+ "legislation_id": 70367,
+ "page": "https://www.legis.ga.gov/legislation/70367",
+ "document_type": "HR",
+ "number": 269,
+ "legislation_type": "PRIV",
+ "caption": "Metro Atlanta Chapter of the Savannah State University National Alumni Association; 65th anniversary; recognize",
+ "summary": "A RESOLUTION honoring and celebrating the Metro Atlanta Chapter of the Savannah State University National Alumni Association on its 65th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:30:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232532,
+   "label": "LC 112 3021/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232532"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:52+00:00",
+  "version:232532": "2026-11-20T19:36:52+00:00",
+  "status:40": "2026-11-20T19:36:52+00:00",
+  "status:33": "2026-11-20T19:36:52+00:00",
+  "status:48": "2026-11-20T19:36:52+00:00"
+ },
+ "updated": "2026-11-20T19:36:52+00:00"
+}

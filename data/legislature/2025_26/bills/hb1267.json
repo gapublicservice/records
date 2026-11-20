@@ -1,0 +1,102 @@
+{
+ "key": "HB 1267",
+ "slug": "hb1267",
+ "session": "2025_26",
+ "legislation_id": 73060,
+ "page": "https://www.legis.ga.gov/legislation/73060",
+ "document_type": "HB",
+ "number": 1267,
+ "legislation_type": "GEN",
+ "caption": "Motor vehicles; increase penalties for certain offenses; provisions",
+ "summary": "A BILL to be entitled an Act to amend Title 40 of the O.C.G.A., relating to motor vehicles and traffic, so as to increase penalties for certain offenses relative to license plates, revalidation decals, temporary operating permits, certificates of registration, certificates of title, and alteration of odometers; to authorize certain penalties by the Department of Revenue for violations of provisions required of licensed used motor vehicle dealers; to amend Chapter 47 of Title 43 of the O.C.G.A., relating to used motor vehicles and used motor vehicle parts dealers, so as to revise powers and membership of the board; to provide for and revise definitions; to provide for conforming changes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T11:06:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T10:36:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T10:18:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-04T10:33:18",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244960,
+   "label": "LC 39 5033S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244960"
+  },
+  {
+   "doc_id": 242149,
+   "label": "LC 39 4926/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242149"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:45+00:00",
+  "version:244960": "2026-11-20T19:16:45+00:00",
+  "version:242149": "2026-11-20T19:16:45+00:00",
+  "status:40": "2026-11-20T19:16:45+00:00",
+  "status:33": "2026-11-20T19:16:45+00:00",
+  "status:34": "2026-11-20T19:16:45+00:00",
+  "status:39": "2026-11-20T19:16:45+00:00"
+ },
+ "updated": "2026-11-20T19:16:45+00:00"
+}

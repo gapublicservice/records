@@ -1,0 +1,95 @@
+{
+ "key": "HB 660",
+ "slug": "hb660",
+ "session": "2025_26",
+ "legislation_id": 70939,
+ "page": "https://www.legis.ga.gov/legislation/70939",
+ "document_type": "HB",
+ "number": 660,
+ "legislation_type": "GEN",
+ "caption": "State government; prohibit coverage of expenses for any transition related intervention under state health benefit plan or with any state funds",
+ "summary": "A BILL to be entitled an Act to amend Chapter 18 of Title 45, Chapter 4 of Title 49, and Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to the employees' insurance and benefits plans, public assistance, and general provisions relative to state government, respectively, so as to prohibit coverage of expenses for any transition related intervention under the state health benefit plan or with any state funds; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T11:16:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:38:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234320,
+   "label": "LC 52 0778/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234320"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:48:11+00:00",
+  "version:234320": "2026-11-20T18:48:11+00:00",
+  "status:40": "2026-11-20T18:48:11+00:00",
+  "status:33": "2026-11-20T18:48:11+00:00",
+  "status:34": "2026-11-20T18:48:11+00:00"
+ },
+ "updated": "2026-11-20T18:48:11+00:00"
+}

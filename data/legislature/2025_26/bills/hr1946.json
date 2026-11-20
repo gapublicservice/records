@@ -1,0 +1,81 @@
+{
+ "key": "HR 1946",
+ "slug": "hr1946",
+ "session": "2025_26",
+ "legislation_id": 74498,
+ "page": "https://www.legis.ga.gov/legislation/74498",
+ "document_type": "HR",
+ "number": 1946,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Constituent Services Modernization and Accountability; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Constituent Services Modernization and Accountability; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T17:12:16",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247635,
+   "label": "LC 65 0098/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247635"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:27+00:00",
+  "version:247635": "2026-11-20T20:14:27+00:00",
+  "status:40": "2026-11-20T20:14:27+00:00",
+  "status:33": "2026-11-20T20:14:27+00:00",
+  "status:34": "2026-11-20T20:14:27+00:00"
+ },
+ "updated": "2026-11-20T20:14:27+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 1555",
+ "slug": "hr1555",
+ "session": "2025_26",
+ "legislation_id": 73828,
+ "page": "https://www.legis.ga.gov/legislation/73828",
+ "document_type": "HR",
+ "number": 1555,
+ "legislation_type": "PRIV",
+ "caption": "Mitchell, Malcolm; commend",
+ "summary": "A RESOLUTION recognizing and commending Malcolm Mitchell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T16:01:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244863,
+   "label": "LC 129 1325/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244863"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:04+00:00",
+  "version:244863": "2026-11-20T20:06:04+00:00",
+  "status:40": "2026-11-20T20:06:04+00:00",
+  "status:33": "2026-11-20T20:06:04+00:00",
+  "status:48": "2026-11-20T20:06:04+00:00"
+ },
+ "updated": "2026-11-20T20:06:04+00:00"
+}

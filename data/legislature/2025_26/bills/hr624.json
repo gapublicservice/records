@@ -1,0 +1,89 @@
+{
+ "key": "HR 624",
+ "slug": "hr624",
+ "session": "2025_26",
+ "legislation_id": 71444,
+ "page": "https://www.legis.ga.gov/legislation/71444",
+ "document_type": "HR",
+ "number": 624,
+ "legislation_type": "PRIV",
+ "caption": "Herring, Reverend John H.; commend",
+ "summary": "A RESOLUTION recognizing and commending Reverend John H. Herring; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T16:34:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T17:00:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-18T17:00:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236416,
+   "label": "LC 129 0330/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236416"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:41+00:00",
+  "version:236416": "2026-11-20T19:44:41+00:00",
+  "status:40": "2026-11-20T19:44:41+00:00",
+  "status:33": "2026-11-20T19:44:41+00:00",
+  "status:48": "2026-11-20T19:44:41+00:00"
+ },
+ "updated": "2026-11-20T19:44:41+00:00"
+}

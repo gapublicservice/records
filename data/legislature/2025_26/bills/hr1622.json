@@ -1,0 +1,75 @@
+{
+ "key": "HR 1622",
+ "slug": "hr1622",
+ "session": "2025_26",
+ "legislation_id": 73957,
+ "page": "https://www.legis.ga.gov/legislation/73957",
+ "document_type": "HR",
+ "number": 1622,
+ "legislation_type": "PRIV",
+ "caption": "American Red Cross; Red Cross Month; March 2026; recognize",
+ "summary": "A RESOLUTION commending the American Red Cross and recognizing March 2026 as Red Cross Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:08:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245404,
+   "label": "LC 112 3803/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245404"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:32+00:00",
+  "version:245404": "2026-11-20T20:07:32+00:00",
+  "status:40": "2026-11-20T20:07:32+00:00",
+  "status:33": "2026-11-20T20:07:32+00:00",
+  "status:48": "2026-11-20T20:07:32+00:00"
+ },
+ "updated": "2026-11-20T20:07:32+00:00"
+}

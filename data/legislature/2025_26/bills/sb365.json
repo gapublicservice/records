@@ -1,0 +1,116 @@
+{
+ "key": "SB 365",
+ "slug": "sb365",
+ "session": "2025_26",
+ "legislation_id": 71791,
+ "page": "https://www.legis.ga.gov/legislation/71791",
+ "document_type": "SB",
+ "number": 365,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Meat and Organic Produce Transparency and Safety Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 2 and 4 of the O.C.G.A., relating to agriculture and animals, respectively, so as to enhance transparency with respect to the marketing of produce and meat in this state; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes",
+ "sponsors": [
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Agriculture and Consumer Affairs",
+   "id": 107
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T15:01:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T10:14:57",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-04-04T09:48:18",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-04-04T10:25:26",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:31:26",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237688,
+   "label": "As introduced LC 60 0162",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237688"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:52+00:00",
+  "version:237688": "2026-11-20T20:37:52+00:00",
+  "status:67": "2026-11-20T20:37:52+00:00",
+  "status:3": "2026-11-20T20:37:52+00:00",
+  "status:8": "2026-11-20T20:37:52+00:00",
+  "status:10": "2026-11-20T20:37:52+00:00",
+  "status:103": "2026-11-20T20:37:52+00:00"
+ },
+ "updated": "2026-11-20T20:37:52+00:00"
+}

@@ -1,0 +1,105 @@
+{
+ "key": "HB 1320",
+ "slug": "hb1320",
+ "session": "2025_26",
+ "legislation_id": 73249,
+ "page": "https://www.legis.ga.gov/legislation/73249",
+ "document_type": "HB",
+ "number": 1320,
+ "legislation_type": "GEN",
+ "caption": "Public utilities; nuclear energy generation facilities in the integrated resource plan; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 46-3A-2 of the Official Code of Georgia Annotated, relating to filing and approval of an integrated resource plan, so as to provide for nuclear energy generation facilities in the integrated resource plan; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T10:45:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-25T08:15:44",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242731,
+   "label": "LC 56 0582/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242731"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:01+00:00",
+  "version:242731": "2026-11-20T19:19:01+00:00",
+  "status:40": "2026-11-20T19:19:01+00:00",
+  "status:33": "2026-11-20T19:19:01+00:00",
+  "status:34": "2026-11-20T19:19:01+00:00",
+  "status:39": "2026-11-20T19:19:01+00:00"
+ },
+ "updated": "2026-11-20T19:19:01+00:00"
+}

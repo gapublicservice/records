@@ -1,0 +1,102 @@
+{
+ "key": "HB 1064",
+ "slug": "hb1064",
+ "session": "2025_26",
+ "legislation_id": 72515,
+ "page": "https://www.legis.ga.gov/legislation/72515",
+ "document_type": "HB",
+ "number": 1064,
+ "legislation_type": "GEN",
+ "caption": "Education; standardized college admissions tests to include Classic Learning Test (CLT); revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to revise provisions relating to standardized college admissions tests, to include the Classic Learning Test (CLT) among tests such as the SAT and ACT; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:24:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240612,
+   "label": "LC 61 0341/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240612"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:39+00:00",
+  "version:240612": "2026-11-20T19:07:39+00:00",
+  "status:40": "2026-11-20T19:07:39+00:00",
+  "status:33": "2026-11-20T19:07:39+00:00",
+  "status:34": "2026-11-20T19:07:39+00:00"
+ },
+ "updated": "2026-11-20T19:07:39+00:00"
+}

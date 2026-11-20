@@ -1,0 +1,60 @@
+{
+ "key": "SB 388",
+ "slug": "sb388",
+ "session": "2025_26",
+ "legislation_id": 72167,
+ "page": "https://www.legis.ga.gov/legislation/72167",
+ "document_type": "SB",
+ "number": 388,
+ "legislation_type": "GEN",
+ "caption": "\"Property Owners Protection Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 13 of Title 36 of the Official Code of Georgia Annotated, relating to building, electrical, and other codes, so as to provide that no person may be incarcerated for certain code violations; to revise the number of days that constitute a separate offense; to amend Chapter 74 of Title 36 of the Official Code of Georgia Annotated, relating to local government code enforcement boards, so as to provide that certain emergency circumstances must be present before a code violation may constitute grounds for a search warrant; to provide for a reduction in a certain administrative fine; to provide for legislative findings; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-12T15:50:04",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-13T10:07:40",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239710,
+   "label": "As introduced LC 46 1331",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239710"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:41+00:00",
+  "version:239710": "2026-11-20T20:38:41+00:00",
+  "status:67": "2026-11-20T20:38:41+00:00",
+  "status:3": "2026-11-20T20:38:41+00:00"
+ },
+ "updated": "2026-11-20T20:38:41+00:00"
+}

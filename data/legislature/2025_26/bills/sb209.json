@@ -1,0 +1,165 @@
+{
+ "key": "SB 209",
+ "slug": "sb209",
+ "session": "2025_26",
+ "legislation_id": 70509,
+ "page": "https://www.legis.ga.gov/legislation/70509",
+ "document_type": "SB",
+ "number": 209,
+ "legislation_type": "GEN",
+ "caption": "Teachers Retirement System of Georgia; members of the Public School Employees Retirement System to make an irrevocable election to become members; permit certain persons",
+ "summary": "A BILL to be entitled an Act to amend Title 47 of the Official Code of Georgia Annotated, relating to retirement and pensions, so as to permit certain persons who would otherwise be required to be members of the Public School Employees Retirement System to make an irrevocable election to become members of the Teachers Retirement System of Georgia; to provide for conditions; to prohibit transfers of creditable service; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Retirement",
+   "id": 82
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T12:20:38",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T10:31:39",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-03T12:54:22",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-03-04T10:37:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244632,
+   "label": "Committee Sub LC 56 0619S",
+   "version": 7,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244632"
+  },
+  {
+   "doc_id": 244633,
+   "label": "LC 56 0619S Auditor's Certification",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244633"
+  },
+  {
+   "doc_id": 244631,
+   "label": "Actuarial Investigation",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244631"
+  },
+  {
+   "doc_id": 232933,
+   "label": "As Introduced LC 56 0298",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232933"
+  },
+  {
+   "doc_id": 233165,
+   "label": "Auditors Certification",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233165"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:30:58+00:00",
+  "version:244632": "2026-11-20T20:30:58+00:00",
+  "version:244633": "2026-11-20T20:30:58+00:00",
+  "version:244631": "2026-11-20T20:30:58+00:00",
+  "version:232933": "2026-11-20T20:30:58+00:00",
+  "version:233165": "2026-11-20T20:30:58+00:00",
+  "status:67": "2026-11-20T20:30:58+00:00",
+  "status:3": "2026-11-20T20:30:58+00:00",
+  "status:8": "2026-11-20T20:30:58+00:00",
+  "status:10": "2026-11-20T20:30:58+00:00",
+  "status:64": "2026-11-20T20:30:58+00:00"
+ },
+ "updated": "2026-11-20T20:30:58+00:00"
+}

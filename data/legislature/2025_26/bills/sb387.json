@@ -1,0 +1,60 @@
+{
+ "key": "SB 387",
+ "slug": "sb387",
+ "session": "2025_26",
+ "legislation_id": 72166,
+ "page": "https://www.legis.ga.gov/legislation/72166",
+ "document_type": "SB",
+ "number": 387,
+ "legislation_type": "GEN",
+ "caption": "Revenue and Taxation; state income tax in its entirety; repeal",
+ "summary": "A BILL to be entitled an Act to amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, so as to repeal the state income tax in its entirety; to repeal various income tax credits; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Finance",
+   "id": 138
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-12T15:49:51",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-13T10:07:33",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239708,
+   "label": "As introduced LC 59 0236",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239708"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:40+00:00",
+  "version:239708": "2026-11-20T20:38:40+00:00",
+  "status:67": "2026-11-20T20:38:40+00:00",
+  "status:3": "2026-11-20T20:38:40+00:00"
+ },
+ "updated": "2026-11-20T20:38:40+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 987",
+ "slug": "hr987",
+ "session": "2025_26",
+ "legislation_id": 72115,
+ "page": "https://www.legis.ga.gov/legislation/72115",
+ "document_type": "HR",
+ "number": 987,
+ "legislation_type": "PRIV",
+ "caption": "Trim, Jackie; grand occasion of his retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Jackie Trim on the grand occasion of his retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:59:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239401,
+   "label": "LC 129 0476/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239401"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:54+00:00",
+  "version:239401": "2026-11-20T19:52:54+00:00",
+  "status:40": "2026-11-20T19:52:54+00:00",
+  "status:33": "2026-11-20T19:52:54+00:00",
+  "status:48": "2026-11-20T19:52:54+00:00"
+ },
+ "updated": "2026-11-20T19:52:54+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 434",
+ "slug": "hr434",
+ "session": "2025_26",
+ "legislation_id": 70988,
+ "page": "https://www.legis.ga.gov/legislation/70988",
+ "document_type": "HR",
+ "number": 434,
+ "legislation_type": "PRIV",
+ "caption": "Cooper, Terrance Lamont; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Terrance Lamont Cooper; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:17:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T15:48:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T15:48:34",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234493,
+   "label": "LC 129 0220/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234493"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:30+00:00",
+  "version:234493": "2026-11-20T19:40:30+00:00",
+  "status:40": "2026-11-20T19:40:30+00:00",
+  "status:33": "2026-11-20T19:40:30+00:00",
+  "status:48": "2026-11-20T19:40:30+00:00"
+ },
+ "updated": "2026-11-20T19:40:30+00:00"
+}

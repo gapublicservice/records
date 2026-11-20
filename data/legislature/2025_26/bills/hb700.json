@@ -1,0 +1,81 @@
+{
+ "key": "HB 700",
+ "slug": "hb700",
+ "session": "2025_26",
+ "legislation_id": 71067,
+ "page": "https://www.legis.ga.gov/legislation/71067",
+ "document_type": "HB",
+ "number": 700,
+ "legislation_type": "GEN",
+ "caption": "Commerce and trade; limit amount of surcharges charged by merchants for purchasers using credit cards",
+ "summary": "A BILL to be entitled an Act to amend Code Section 10-1-393.3 of the Official Code of Georgia Annotated, relating to prohibited use of purchaser's credit card information by merchant, so as to limit the amount of surcharges charged by merchants for purchasers using credit cards; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Banks & Banking",
+   "id": 113
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T11:18:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234778,
+   "label": "LC 55 0576/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234778"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:28+00:00",
+  "version:234778": "2026-11-20T18:49:28+00:00",
+  "status:40": "2026-11-20T18:49:28+00:00",
+  "status:33": "2026-11-20T18:49:28+00:00",
+  "status:34": "2026-11-20T18:49:28+00:00"
+ },
+ "updated": "2026-11-20T18:49:28+00:00"
+}

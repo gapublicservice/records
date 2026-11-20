@@ -1,0 +1,102 @@
+{
+ "key": "HB 1080",
+ "slug": "hb1080",
+ "session": "2025_26",
+ "legislation_id": 72507,
+ "page": "https://www.legis.ga.gov/legislation/72507",
+ "document_type": "HB",
+ "number": 1080,
+ "legislation_type": "GEN",
+ "caption": "Georgia Public Safety Support Fund Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 6A of Title 35 of the Official Code of Georgia Annotated, relating to Criminal Justice Coordinating Council, so as to create the Georgia Public Safety Support Fund to provide support to certain law enforcement agencies and courts; to provide for purposes and authority of the fund; to provide for sources of funding; to create a board of trustees; to provide for definitions; to provide for a short title; to provide legislative findings and declarations; to provide for related matters; to provide for severability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:52:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-19T08:57:46",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243245,
+   "label": "LC 63 0072S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243245"
+  },
+  {
+   "doc_id": 240636,
+   "label": "LC 63 0046/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240636"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:08:21+00:00",
+  "version:243245": "2026-11-20T19:08:21+00:00",
+  "version:240636": "2026-11-20T19:08:21+00:00",
+  "status:40": "2026-11-20T19:08:21+00:00",
+  "status:33": "2026-11-20T19:08:21+00:00",
+  "status:34": "2026-11-20T19:08:21+00:00",
+  "status:39": "2026-11-20T19:08:21+00:00"
+ },
+ "updated": "2026-11-20T19:08:21+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1538",
+ "slug": "hr1538",
+ "session": "2025_26",
+ "legislation_id": 73808,
+ "page": "https://www.legis.ga.gov/legislation/73808",
+ "document_type": "HR",
+ "number": 1538,
+ "legislation_type": "PRIV",
+ "caption": "City of Cochran Fire Department; commend",
+ "summary": "A RESOLUTION commending the City of Cochran Fire Department; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4969,
+   "name": "Yearta, Bill 152nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:55:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:05",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244830,
+   "label": "LC 112 3773/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244830"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:42+00:00",
+  "version:244830": "2026-11-20T20:05:42+00:00",
+  "status:40": "2026-11-20T20:05:42+00:00",
+  "status:33": "2026-11-20T20:05:42+00:00",
+  "status:48": "2026-11-20T20:05:42+00:00"
+ },
+ "updated": "2026-11-20T20:05:42+00:00"
+}

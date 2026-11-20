@@ -1,0 +1,95 @@
+{
+ "key": "HB 706",
+ "slug": "hb706",
+ "session": "2025_26",
+ "legislation_id": 71074,
+ "page": "https://www.legis.ga.gov/legislation/71074",
+ "document_type": "HB",
+ "number": 706,
+ "legislation_type": "GEN",
+ "caption": "Quality Basic Education Act; history of Black Americans; provide coursework",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the \"Quality Basic Education Act,\" so as to provide for coursework and educational programs and activities on the history of Black Americans through the history of the United States and their contributions to American society; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T12:39:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234820,
+   "label": "LC 49 2312/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234820"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:42+00:00",
+  "version:234820": "2026-11-20T18:49:42+00:00",
+  "status:40": "2026-11-20T18:49:42+00:00",
+  "status:33": "2026-11-20T18:49:42+00:00",
+  "status:34": "2026-11-20T18:49:42+00:00"
+ },
+ "updated": "2026-11-20T18:49:42+00:00"
+}

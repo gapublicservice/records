@@ -1,0 +1,48 @@
+{
+ "bill": "SB 131",
+ "from": {
+  "doc_id": 231750,
+  "label": "As introduced LC 52 0604",
+  "version": 2,
+  "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231750"
+ },
+ "to": {
+  "doc_id": 232862,
+  "label": "Committee sub LC 55 0520S",
+  "version": 4,
+  "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232862"
+ },
+ "summary": {
+  "words_added": 21,
+  "words_removed": 30,
+  "unchanged": false,
+  "sections_added": [],
+  "sections_dropped": [],
+  "numbers_changed": [
+   {
+    "from": [
+     "131"
+    ],
+    "to": []
+   },
+   {
+    "from": [],
+    "to": [
+     "131"
+    ]
+   },
+   {
+    "from": [
+     "6"
+    ],
+    "to": [
+     "5"
+    ]
+   }
+  ],
+  "code_sections_newly_touched": [],
+  "code_sections_no_longer_touched": []
+ },
+ "html": "<ins>The</ins> Senate <del>Bill 131 By: Senators Hodges of</del> <ins>Committee on Regulated Industries and Utilities offered</ins> the <del>3rd, Watson of the 1st, Still of the 48th, Dixon of the 45th, Goodman of the 8th and others</del> <ins>following substitute to SB 131:</ins> <br> A BILL TO BE ENTITLED AN ACT <br> To amend Chapter 10 of Title 49 of the Official Code of Georgia Annotated, relating to the Georgia Board of Health Care Workforce, so as to provide for the establishment of … state licensing boards for purposes of data transmission criteria pursuant to this Code section. (d) State licensing boards shall provide the following data to the board for its licensed health care professionals who are in active practice: (1) Age; (2) <del>Race;</del> <ins>Gender;</ins> (3) <del>Gender;</del> <ins>Proficiency in English and other languages;</ins> <br> (4) <del>Ethnicity; (5)</del> Location of practice; and <del>(6)</del> <ins>(5)</ins> License type. (e) The board shall be authorized to seek federal or other sources of funding necessary to support the creation and maintenance of the Georgia Health Care Professionals Data System.&quot; <br> SECTION 2. All laws and parts of laws in conflict with this Act are repealed. <br>",
+ "made": "2026-11-20T20:26:35+00:00"
+}

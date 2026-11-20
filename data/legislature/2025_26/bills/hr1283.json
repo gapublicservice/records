@@ -1,0 +1,96 @@
+{
+ "key": "HR 1283",
+ "slug": "hr1283",
+ "session": "2025_26",
+ "legislation_id": 72992,
+ "page": "https://www.legis.ga.gov/legislation/72992",
+ "document_type": "HR",
+ "number": 1283,
+ "legislation_type": "PRIV",
+ "caption": "Verville, Dominique; Miss Cobb County 2026; commend",
+ "summary": "A RESOLUTION Recognizing and congratulating Dominique Verville, Miss Cobb County 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T12:01:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241929,
+   "label": "LC 129 0958/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241929"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:39+00:00",
+  "version:241929": "2026-11-20T19:59:39+00:00",
+  "status:40": "2026-11-20T19:59:39+00:00",
+  "status:33": "2026-11-20T19:59:39+00:00",
+  "status:48": "2026-11-20T19:59:39+00:00"
+ },
+ "updated": "2026-11-20T19:59:39+00:00"
+}

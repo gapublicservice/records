@@ -1,0 +1,96 @@
+{
+ "key": "HR 55",
+ "slug": "hr55",
+ "session": "2025_26",
+ "legislation_id": 69515,
+ "page": "https://www.legis.ga.gov/legislation/69515",
+ "document_type": "HR",
+ "number": 55,
+ "legislation_type": "PRIV",
+ "caption": "Rippe, Christen; Gavin Haslett; 2024 Literary State Champions in Dramatic Interpretation; commend",
+ "summary": "A RESOLUTION congratulating Christen Rippe and Gavin Haslett, the 2024 Literary State Champions in Dramatic Interpretation; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:34:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230313,
+   "label": "LC 129 0040/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230313"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:57+00:00",
+  "version:230313": "2026-11-20T19:31:57+00:00",
+  "status:40": "2026-11-20T19:31:57+00:00",
+  "status:33": "2026-11-20T19:31:57+00:00",
+  "status:48": "2026-11-20T19:31:57+00:00"
+ },
+ "updated": "2026-11-20T19:31:57+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 2104",
+ "slug": "hr2104",
+ "session": "2025_26",
+ "legislation_id": 74717,
+ "page": "https://www.legis.ga.gov/legislation/74717",
+ "document_type": "HR",
+ "number": 2104,
+ "legislation_type": "PRIV",
+ "caption": "Smith, Josh; Trion High School's 2026 STAR Teacher; commend",
+ "summary": "A RESOLUTION commending Josh Smith, Trion High School's 2026 STAR Teacher; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:27:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248844,
+   "label": "LC 129 1554/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248844"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:14+00:00",
+  "version:248844": "2026-11-20T20:18:14+00:00",
+  "status:40": "2026-11-20T20:18:14+00:00",
+  "status:33": "2026-11-20T20:18:14+00:00",
+  "status:48": "2026-11-20T20:18:14+00:00"
+ },
+ "updated": "2026-11-20T20:18:14+00:00"
+}

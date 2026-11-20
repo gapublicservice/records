@@ -1,0 +1,68 @@
+{
+ "key": "HR 2014",
+ "slug": "hr2014",
+ "session": "2025_26",
+ "legislation_id": 74613,
+ "page": "https://www.legis.ga.gov/legislation/74613",
+ "document_type": "HR",
+ "number": 2014,
+ "legislation_type": "PRIV",
+ "caption": "Adams, John Widner; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of John Widner Adams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:09:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248354,
+   "label": "LC 112 4146/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248354"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:06+00:00",
+  "version:248354": "2026-11-20T20:16:06+00:00",
+  "status:40": "2026-11-20T20:16:06+00:00",
+  "status:33": "2026-11-20T20:16:06+00:00",
+  "status:48": "2026-11-20T20:16:06+00:00"
+ },
+ "updated": "2026-11-20T20:16:06+00:00"
+}

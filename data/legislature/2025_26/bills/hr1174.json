@@ -1,0 +1,68 @@
+{
+ "key": "HR 1174",
+ "slug": "hr1174",
+ "session": "2025_26",
+ "legislation_id": 72661,
+ "page": "https://www.legis.ga.gov/legislation/72661",
+ "document_type": "HR",
+ "number": 1174,
+ "legislation_type": "PRIV",
+ "caption": "Kittila, Audrey; Miss Georgia 2025; commend",
+ "summary": "A RESOLUTION recognizing and commending Audrey Kittila, Miss Georgia 2025; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:49:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240990,
+   "label": "LC 129 0823/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240990"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:11+00:00",
+  "version:240990": "2026-11-20T19:57:11+00:00",
+  "status:40": "2026-11-20T19:57:11+00:00",
+  "status:33": "2026-11-20T19:57:11+00:00",
+  "status:48": "2026-11-20T19:57:11+00:00"
+ },
+ "updated": "2026-11-20T19:57:11+00:00"
+}

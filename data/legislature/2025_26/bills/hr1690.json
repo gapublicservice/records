@@ -1,0 +1,61 @@
+{
+ "key": "HR 1690",
+ "slug": "hr1690",
+ "session": "2025_26",
+ "legislation_id": 74072,
+ "page": "https://www.legis.ga.gov/legislation/74072",
+ "document_type": "HR",
+ "number": 1690,
+ "legislation_type": "PRIV",
+ "caption": "Farnsworth, Conor; commend",
+ "summary": "A RESOLUTION recognizing and commending Conor Farnsworth; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:45:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:40:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:41:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245829,
+   "label": "LC 39 5064/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245829"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:00+00:00",
+  "version:245829": "2026-11-20T20:09:00+00:00",
+  "status:40": "2026-11-20T20:09:00+00:00",
+  "status:33": "2026-11-20T20:09:00+00:00",
+  "status:48": "2026-11-20T20:09:00+00:00"
+ },
+ "updated": "2026-11-20T20:09:00+00:00"
+}

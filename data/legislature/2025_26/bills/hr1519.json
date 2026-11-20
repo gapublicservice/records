@@ -1,0 +1,96 @@
+{
+ "key": "HR 1519",
+ "slug": "hr1519",
+ "session": "2025_26",
+ "legislation_id": 73751,
+ "page": "https://www.legis.ga.gov/legislation/73751",
+ "document_type": "HR",
+ "number": 1519,
+ "legislation_type": "PRIV",
+ "caption": "Vishnubhotla, Mr. Prashant; commend",
+ "summary": "A RESOLUTION commending and congratulating Mr. Prashant Vishnubhotla; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:23:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T15:14:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T15:14:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244440,
+   "label": "LC 129 1277/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244440"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:18+00:00",
+  "version:244440": "2026-11-20T20:05:18+00:00",
+  "status:40": "2026-11-20T20:05:18+00:00",
+  "status:33": "2026-11-20T20:05:18+00:00",
+  "status:48": "2026-11-20T20:05:18+00:00"
+ },
+ "updated": "2026-11-20T20:05:18+00:00"
+}

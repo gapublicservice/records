@@ -1,0 +1,89 @@
+{
+ "key": "HR 903",
+ "slug": "hr903",
+ "session": "2025_26",
+ "legislation_id": 71962,
+ "page": "https://www.legis.ga.gov/legislation/71962",
+ "document_type": "HR",
+ "number": 903,
+ "legislation_type": "PRIV",
+ "caption": "Griggs, Attorney Gerald A.; life, work, and contributions; honor",
+ "summary": "A RESOLUTION honoring the life, work, and contributions of Attorney Gerald A. Griggs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 831,
+   "name": "Sharper, Dexter 177th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T19:27:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T19:49:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T19:49:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238492,
+   "label": "LC 112 3600/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238492"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:06+00:00",
+  "version:238492": "2026-11-20T19:51:06+00:00",
+  "status:40": "2026-11-20T19:51:06+00:00",
+  "status:33": "2026-11-20T19:51:06+00:00",
+  "status:48": "2026-11-20T19:51:06+00:00"
+ },
+ "updated": "2026-11-20T19:51:06+00:00"
+}

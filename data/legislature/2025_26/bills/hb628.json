@@ -1,0 +1,88 @@
+{
+ "key": "HB 628",
+ "slug": "hb628",
+ "session": "2025_26",
+ "legislation_id": 70805,
+ "page": "https://www.legis.ga.gov/legislation/70805",
+ "document_type": "HB",
+ "number": 628,
+ "legislation_type": "GEN",
+ "caption": "Income tax; contributions to law enforcement foundations; revise tax credit",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to revise an income tax credit for contributions to law enforcement foundations; to increase the annual amount of contributions allowed; to extend the sunset date; to provide for procedures; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:12:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233934,
+   "label": "LC 50 1090/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233934"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:46:23+00:00",
+  "version:233934": "2026-11-20T18:46:23+00:00",
+  "status:40": "2026-11-20T18:46:23+00:00",
+  "status:33": "2026-11-20T18:46:23+00:00",
+  "status:34": "2026-11-20T18:46:23+00:00"
+ },
+ "updated": "2026-11-20T18:46:23+00:00"
+}

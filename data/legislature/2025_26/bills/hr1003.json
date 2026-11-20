@@ -1,0 +1,89 @@
+{
+ "key": "HR 1003",
+ "slug": "hr1003",
+ "session": "2025_26",
+ "legislation_id": 72152,
+ "page": "https://www.legis.ga.gov/legislation/72152",
+ "document_type": "HR",
+ "number": 1003,
+ "legislation_type": "PRIV",
+ "caption": "Wilson, Ms. Earnestine Denise; commend",
+ "summary": "A RESOLUTION recognizing and commending Ms. Earnestine Denise Wilson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-12T12:26:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-12T12:49:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T12:49:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239666,
+   "label": "LC 112 3693/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239666"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:19+00:00",
+  "version:239666": "2026-11-20T19:53:19+00:00",
+  "status:40": "2026-11-20T19:53:19+00:00",
+  "status:33": "2026-11-20T19:53:19+00:00",
+  "status:48": "2026-11-20T19:53:19+00:00"
+ },
+ "updated": "2026-11-20T19:53:19+00:00"
+}

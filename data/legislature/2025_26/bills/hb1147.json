@@ -1,0 +1,102 @@
+{
+ "key": "HB 1147",
+ "slug": "hb1147",
+ "session": "2025_26",
+ "legislation_id": 72703,
+ "page": "https://www.legis.ga.gov/legislation/72703",
+ "document_type": "HB",
+ "number": 1147,
+ "legislation_type": "GEN",
+ "caption": "Georgia Childcare for Economic Well-Being Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1A of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to early care and learning, so as to establish a grant program to supplement the reimbursement rates paid by the Department of Early Care and Learning to providers participating in the Childcare and Parent Services (CAPS) program; to provide requirements for such grants; to provide definitions; to provide for related matters; to provide for a short title; to provide for contingent effectiveness upon appropriation of funds; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:22:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241149,
+   "label": "LC 61 0364/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241149"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:27+00:00",
+  "version:241149": "2026-11-20T19:11:27+00:00",
+  "status:40": "2026-11-20T19:11:27+00:00",
+  "status:33": "2026-11-20T19:11:27+00:00",
+  "status:34": "2026-11-20T19:11:27+00:00"
+ },
+ "updated": "2026-11-20T19:11:27+00:00"
+}

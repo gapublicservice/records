@@ -1,0 +1,67 @@
+{
+ "key": "HR 1890",
+ "slug": "hr1890",
+ "session": "2025_26",
+ "legislation_id": 74414,
+ "page": "https://www.legis.ga.gov/legislation/74414",
+ "document_type": "HR",
+ "number": 1890,
+ "legislation_type": "NP",
+ "caption": "Rockdale Board of Commissioners; appoint members to vacant seats on the Rockdale County Water and Sewerage Authority; urge",
+ "summary": "A RESOLUTION urging the Rockdale County Board of Commissioners to exercise the power given to them under current law and appoint members to the vacant seats on the Rockdale County Water and Sewerage Authority, including any seats held by holdover members; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T11:00:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247367,
+   "label": "LC 47 4299/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247367"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:15+00:00",
+  "version:247367": "2026-11-20T20:13:15+00:00",
+  "status:40": "2026-11-20T20:13:15+00:00",
+  "status:33": "2026-11-20T20:13:15+00:00",
+  "status:34": "2026-11-20T20:13:15+00:00"
+ },
+ "updated": "2026-11-20T20:13:15+00:00"
+}

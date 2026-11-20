@@ -1,0 +1,82 @@
+{
+ "key": "HR 663",
+ "slug": "hr663",
+ "session": "2025_26",
+ "legislation_id": 71515,
+ "page": "https://www.legis.ga.gov/legislation/71515",
+ "document_type": "HR",
+ "number": 663,
+ "legislation_type": "PRIV",
+ "caption": "Mr. Johnny C. Nimes Day; April 26, 2025; recognize",
+ "summary": "A RESOLUTION recognizing April 26, 2025, as Mr. Johnny C. Nimes Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-20T13:44:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-20T14:18:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T14:18:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236729,
+   "label": "LC 112 3449/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236729"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:34+00:00",
+  "version:236729": "2026-11-20T19:45:34+00:00",
+  "status:40": "2026-11-20T19:45:34+00:00",
+  "status:33": "2026-11-20T19:45:34+00:00",
+  "status:48": "2026-11-20T19:45:34+00:00"
+ },
+ "updated": "2026-11-20T19:45:34+00:00"
+}

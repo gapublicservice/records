@@ -1,0 +1,61 @@
+{
+ "key": "HR 1542",
+ "slug": "hr1542",
+ "session": "2025_26",
+ "legislation_id": 73812,
+ "page": "https://www.legis.ga.gov/legislation/73812",
+ "document_type": "HR",
+ "number": 1542,
+ "legislation_type": "PRIV",
+ "caption": "Wood, Julia; commend",
+ "summary": "A RESOLUTION recognizing and commending Julia Wood; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:56:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244854,
+   "label": "LC 112 3810/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244854"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:48+00:00",
+  "version:244854": "2026-11-20T20:05:48+00:00",
+  "status:40": "2026-11-20T20:05:48+00:00",
+  "status:33": "2026-11-20T20:05:48+00:00",
+  "status:48": "2026-11-20T20:05:48+00:00"
+ },
+ "updated": "2026-11-20T20:05:48+00:00"
+}

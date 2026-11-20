@@ -1,0 +1,116 @@
+{
+ "key": "HB 1223",
+ "slug": "hb1223",
+ "session": "2025_26",
+ "legislation_id": 72913,
+ "page": "https://www.legis.ga.gov/legislation/72913",
+ "document_type": "HB",
+ "number": 1223,
+ "legislation_type": "GEN",
+ "caption": "Local government; provide exemption from disclosing audio and video recordings captured by law enforcement when such recordings depict a person's death",
+ "summary": "A BILL to be entitled an Act to amend Code Section 50-18-72, relating to when public disclosure not required, so as to provide for an exemption from disclosing audio and video recordings captured by law enforcement when such recordings depict a person's death; to provide for exceptions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:09:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244518,
+   "label": "LC 49 2761S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244518"
+  },
+  {
+   "doc_id": 241707,
+   "label": "LC 63 0082/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241707"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:42+00:00",
+  "version:244518": "2026-11-20T19:14:42+00:00",
+  "version:241707": "2026-11-20T19:14:42+00:00",
+  "status:40": "2026-11-20T19:14:42+00:00",
+  "status:33": "2026-11-20T19:14:42+00:00",
+  "status:34": "2026-11-20T19:14:42+00:00",
+  "status:39": "2026-11-20T19:14:42+00:00"
+ },
+ "updated": "2026-11-20T19:14:42+00:00"
+}

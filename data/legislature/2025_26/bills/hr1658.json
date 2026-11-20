@@ -1,0 +1,95 @@
+{
+ "key": "HR 1658",
+ "slug": "hr1658",
+ "session": "2025_26",
+ "legislation_id": 74020,
+ "page": "https://www.legis.ga.gov/legislation/74020",
+ "document_type": "HR",
+ "number": 1658,
+ "legislation_type": "GEN",
+ "caption": "Representative Michele Henson Interchange; Dekalb County; dedicate",
+ "summary": "A RESOLUTION recognizing Representative Michele Henson and dedicating an interchange in her honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-10T12:44:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T10:25:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T10:21:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245662,
+   "label": "LC 39 5047/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245662"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:18+00:00",
+  "version:245662": "2026-11-20T20:08:18+00:00",
+  "status:40": "2026-11-20T20:08:18+00:00",
+  "status:33": "2026-11-20T20:08:18+00:00",
+  "status:34": "2026-11-20T20:08:18+00:00"
+ },
+ "updated": "2026-11-20T20:08:18+00:00"
+}

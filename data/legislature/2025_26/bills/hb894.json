@@ -1,0 +1,74 @@
+{
+ "key": "HB 894",
+ "slug": "hb894",
+ "session": "2025_26",
+ "legislation_id": 71938,
+ "page": "https://www.legis.ga.gov/legislation/71938",
+ "document_type": "HB",
+ "number": 894,
+ "legislation_type": "GEN",
+ "caption": "Georgia Second Look Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to procedure for sentencing and imposition of punishment, so as to authorize the sentencing court to review and resentence certain cases where the punishment of life without parole was imposed; to provide for a petition; to provide for a hearing; to provide for the right to counsel; to provide for notice to the victim; to provide for an appeal process; to provide for limitations; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T17:39:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238437,
+   "label": "LC 48 1625/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238437"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:00:54+00:00",
+  "version:238437": "2026-11-20T19:00:54+00:00",
+  "status:40": "2026-11-20T19:00:54+00:00",
+  "status:33": "2026-11-20T19:00:54+00:00",
+  "status:34": "2026-11-20T19:00:54+00:00"
+ },
+ "updated": "2026-11-20T19:00:54+00:00"
+}

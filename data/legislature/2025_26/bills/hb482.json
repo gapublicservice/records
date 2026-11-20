@@ -1,0 +1,102 @@
+{
+ "key": "HB 482",
+ "slug": "hb482",
+ "session": "2025_26",
+ "legislation_id": 70403,
+ "page": "https://www.legis.ga.gov/legislation/70403",
+ "document_type": "HB",
+ "number": 482,
+ "legislation_type": "GEN",
+ "caption": "Courts; superior court judicial officers in certain judicial circuits; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 6 of Title 15 of the Official Code of Georgia Annotated, relating to general provisions regarding superior courts, so as to provide for superior court judicial officers in certain judicial circuits; to provide for the appointment, qualifications, terms, duties, and employment status of such judicial officers; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T14:34:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-28T09:32:15",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232659,
+   "label": "LC 47 3316/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232659"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:39:57+00:00",
+  "version:232659": "2026-11-20T18:39:57+00:00",
+  "status:40": "2026-11-20T18:39:57+00:00",
+  "status:33": "2026-11-20T18:39:57+00:00",
+  "status:34": "2026-11-20T18:39:57+00:00",
+  "status:39": "2026-11-20T18:39:57+00:00",
+  "status:50": "2026-11-20T18:39:57+00:00"
+ },
+ "updated": "2026-11-20T18:39:57+00:00"
+}

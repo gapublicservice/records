@@ -1,0 +1,95 @@
+{
+ "key": "HR 99",
+ "slug": "hr99",
+ "session": "2025_26",
+ "legislation_id": 69674,
+ "page": "https://www.legis.ga.gov/legislation/69674",
+ "document_type": "HR",
+ "number": 99,
+ "legislation_type": "CA",
+ "caption": "General Assembly; Baby Bond Savings Plan Trust Fund; authorize creation - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that the General Assembly shall be authorized to provide by law to expend or authorize the expenditure of public funds for baby bond savings programs without the need for benefit in return; to authorize the creation of the Baby Bond Savings Plan Trust Fund; to provide for the redesignation of a current subparagraph of the Constitution; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Appropriations",
+   "id": 88
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T11:42:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T10:14:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T10:08:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230683,
+   "label": "LC 59 0056/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230683"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:05+00:00",
+  "version:230683": "2026-11-20T19:33:05+00:00",
+  "status:40": "2026-11-20T19:33:05+00:00",
+  "status:33": "2026-11-20T19:33:05+00:00",
+  "status:34": "2026-11-20T19:33:05+00:00"
+ },
+ "updated": "2026-11-20T19:33:05+00:00"
+}

@@ -1,0 +1,90 @@
+{
+ "key": "HB 346",
+ "slug": "hb346",
+ "session": "2025_26",
+ "legislation_id": 70103,
+ "page": "https://www.legis.ga.gov/legislation/70103",
+ "document_type": "HB",
+ "number": 346,
+ "legislation_type": "GEN",
+ "caption": "Local government; prohibit municipalities and counties from using public, educational, and governmental programming (PEG) channels for political purposes",
+ "summary": "A BILL to be entitled an Act to amend Chapter 76 of Title 36 of the Official Code of Georgia Annotated, relating to expedited franchising of cable and video services, so as to prohibit municipalities and counties from using public, educational, and governmental programing (PEG) channels for political purposes; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T13:42:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231786,
+   "label": "LC 55 0472/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231786"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:13+00:00",
+  "version:231786": "2026-11-20T18:33:13+00:00",
+  "status:40": "2026-11-20T18:33:13+00:00",
+  "status:33": "2026-11-20T18:33:13+00:00",
+  "status:34": "2026-11-20T18:33:13+00:00"
+ },
+ "updated": "2026-11-20T18:33:13+00:00"
+}

@@ -1,0 +1,60 @@
+{
+ "key": "SB 386",
+ "slug": "sb386",
+ "session": "2025_26",
+ "legislation_id": 72169,
+ "page": "https://www.legis.ga.gov/legislation/72169",
+ "document_type": "SB",
+ "number": 386,
+ "legislation_type": "GEN",
+ "caption": "General Assembly; daily expense allowances for days of session where a call of the roll is not conducted; prohibit the payment",
+ "summary": "A BILL to be entitled an Act to amend Title 28 of the Official Code of Georgia Annotated, relating to the General Assembly, so as to prohibit the payment of daily expense allowances for days of session where a call of the roll is not conducted; to require that members be present for the call of the roll and for all votes during a day of session in order to receive daily expense allowances; to remove an obsolete provision; to provide for construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-12T16:20:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-13T10:07:23",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239717,
+   "label": "As Introduced LC 65 0012",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239717"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:38+00:00",
+  "version:239717": "2026-11-20T20:38:38+00:00",
+  "status:67": "2026-11-20T20:38:38+00:00",
+  "status:3": "2026-11-20T20:38:38+00:00"
+ },
+ "updated": "2026-11-20T20:38:38+00:00"
+}

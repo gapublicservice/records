@@ -1,0 +1,88 @@
+{
+ "key": "HB 302",
+ "slug": "hb302",
+ "session": "2025_26",
+ "legislation_id": 69976,
+ "page": "https://www.legis.ga.gov/legislation/69976",
+ "document_type": "HB",
+ "number": 302,
+ "legislation_type": "GEN",
+ "caption": "Leave No Georgia Child Hungry Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to provide for free meals to public school students enrolled in after-school education programs or summer school education programs; to provide for policies, rules, and regulations; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5003,
+   "name": "Henderson, Sharon 113th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-05T11:40:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T10:16:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T13:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231516,
+   "label": "LC 61 0092/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231516"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:05+00:00",
+  "version:231516": "2026-11-20T18:31:05+00:00",
+  "status:40": "2026-11-20T18:31:05+00:00",
+  "status:33": "2026-11-20T18:31:05+00:00",
+  "status:34": "2026-11-20T18:31:05+00:00"
+ },
+ "updated": "2026-11-20T18:31:05+00:00"
+}

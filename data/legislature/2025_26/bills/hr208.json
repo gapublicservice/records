@@ -1,0 +1,95 @@
+{
+ "key": "HR 208",
+ "slug": "hr208",
+ "session": "2025_26",
+ "legislation_id": 70107,
+ "page": "https://www.legis.ga.gov/legislation/70107",
+ "document_type": "HR",
+ "number": 208,
+ "legislation_type": "NP",
+ "caption": "General Assembly; prohibit use of racially derogatory or discriminatory school mascots, logos, or team names in Georgia public schools",
+ "summary": "A RESOLUTION urging the Georgia General Assembly to prohibit the use of racially derogatory or discriminatory school mascots, logos, or team names in Georgia public schools; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:40:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231838,
+   "label": "LC 49 2199/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:29+00:00",
+  "version:231838": "2026-11-20T19:35:29+00:00",
+  "status:40": "2026-11-20T19:35:29+00:00",
+  "status:33": "2026-11-20T19:35:29+00:00",
+  "status:34": "2026-11-20T19:35:29+00:00"
+ },
+ "updated": "2026-11-20T19:35:29+00:00"
+}

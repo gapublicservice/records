@@ -1,0 +1,68 @@
+{
+ "key": "HR 1377",
+ "slug": "hr1377",
+ "session": "2025_26",
+ "legislation_id": 73308,
+ "page": "https://www.legis.ga.gov/legislation/73308",
+ "document_type": "HR",
+ "number": 1377,
+ "legislation_type": "PRIV",
+ "caption": "Underwood, James; superlative service to the Georgia Society of Certified Public Accounts; commend",
+ "summary": "A RESOLUTION recognizing and commending James Underwood for his superlative service to the Georgia Society of Certified Public Accountants; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-17T14:13:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T14:37:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T14:37:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242911,
+   "label": "LC 129 1121/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242911"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:08+00:00",
+  "version:242911": "2026-11-20T20:02:08+00:00",
+  "status:40": "2026-11-20T20:02:08+00:00",
+  "status:33": "2026-11-20T20:02:08+00:00",
+  "status:48": "2026-11-20T20:02:08+00:00"
+ },
+ "updated": "2026-11-20T20:02:08+00:00"
+}

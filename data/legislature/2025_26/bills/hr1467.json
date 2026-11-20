@@ -1,0 +1,61 @@
+{
+ "key": "HR 1467",
+ "slug": "hr1467",
+ "session": "2025_26",
+ "legislation_id": 73600,
+ "page": "https://www.legis.ga.gov/legislation/73600",
+ "document_type": "HR",
+ "number": 1467,
+ "legislation_type": "PRIV",
+ "caption": "Kimble, Georgia \"Louise\"; commend",
+ "summary": "A RESOLUTION commending and congratulating Georgia \"Louise\" Kimble; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-24T14:46:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-24T15:45:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T15:45:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243864,
+   "label": "LC 112 3731/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243864"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:11+00:00",
+  "version:243864": "2026-11-20T20:04:11+00:00",
+  "status:40": "2026-11-20T20:04:11+00:00",
+  "status:33": "2026-11-20T20:04:11+00:00",
+  "status:48": "2026-11-20T20:04:11+00:00"
+ },
+ "updated": "2026-11-20T20:04:11+00:00"
+}

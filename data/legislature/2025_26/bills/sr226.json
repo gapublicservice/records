@@ -1,0 +1,68 @@
+{
+ "key": "SR 226",
+ "slug": "sr226",
+ "session": "2025_26",
+ "legislation_id": 70561,
+ "page": "https://www.legis.ga.gov/legislation/70561",
+ "document_type": "SR",
+ "number": 226,
+ "legislation_type": "PRIV",
+ "caption": "Cobb Collaborative; congratulate",
+ "summary": "A RESOLUTION congratulating and commending Cobb Collaborative, recipient of the Georgia Reads Community Award, for its dedication to literacy advancement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-19T15:37:55",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T11:47:53",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233096,
+   "label": "Read and adopted LC 112 2970",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233096"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:55:20+00:00",
+  "version:233096": "2026-11-20T20:55:20+00:00",
+  "status:67": "2026-11-20T20:55:20+00:00",
+  "status:66": "2026-11-20T20:55:20+00:00"
+ },
+ "updated": "2026-11-20T20:55:20+00:00"
+}

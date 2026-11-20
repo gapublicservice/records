@@ -1,0 +1,75 @@
+{
+ "key": "HR 1189",
+ "slug": "hr1189",
+ "session": "2025_26",
+ "legislation_id": 72752,
+ "page": "https://www.legis.ga.gov/legislation/72752",
+ "document_type": "HR",
+ "number": 1189,
+ "legislation_type": "PRIV",
+ "caption": "The Links, Incorporated; Georgia Links Day at the capitol; 02/02/26; recognize",
+ "summary": "A RESOLUTION commending The Links, Incorporated, and recognizing February 2, 2026, as the Georgia Links Day at the capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-02T13:23:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T14:03:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T14:03:11",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241230,
+   "label": "LC 129 0882/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241230"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:30+00:00",
+  "version:241230": "2026-11-20T19:57:30+00:00",
+  "status:40": "2026-11-20T19:57:30+00:00",
+  "status:33": "2026-11-20T19:57:30+00:00",
+  "status:48": "2026-11-20T19:57:30+00:00"
+ },
+ "updated": "2026-11-20T19:57:30+00:00"
+}

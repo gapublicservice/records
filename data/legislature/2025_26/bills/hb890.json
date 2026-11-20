@@ -1,0 +1,81 @@
+{
+ "key": "HB 890",
+ "slug": "hb890",
+ "session": "2025_26",
+ "legislation_id": 71920,
+ "page": "https://www.legis.ga.gov/legislation/71920",
+ "document_type": "HB",
+ "number": 890,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; exemption for sale or use of certain noncommercial written materials or mailings by certain nonprofit organizations; extend sunset provision",
+ "summary": "A BILL to be entitled an Act to amend Code Section 48-8-3 of the Official Code of Georgia Annotated, relating to exemptions from sales and use taxes, so as to extend the sunset provision for an exemption from state and local sales and use taxes for the sale or use of certain noncommercial written materials or mailings by certain nonprofit organizations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:51:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238366,
+   "label": "LC 50 1267/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238366"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:29+00:00",
+  "version:238366": "2026-11-20T18:58:29+00:00",
+  "status:40": "2026-11-20T18:58:29+00:00",
+  "status:33": "2026-11-20T18:58:29+00:00",
+  "status:34": "2026-11-20T18:58:29+00:00"
+ },
+ "updated": "2026-11-20T18:58:29+00:00"
+}

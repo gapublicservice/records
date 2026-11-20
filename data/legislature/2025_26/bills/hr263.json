@@ -1,0 +1,61 @@
+{
+ "key": "HR 263",
+ "slug": "hr263",
+ "session": "2025_26",
+ "legislation_id": 70359,
+ "page": "https://www.legis.ga.gov/legislation/70359",
+ "document_type": "HR",
+ "number": 263,
+ "legislation_type": "PRIV",
+ "caption": "Crisis Recovery Network; coordinated by the Southern Regional Education Board; commend",
+ "summary": "A RESOLUTION commending the Crisis Recovery Network coordinated by the Southern Regional Education Board; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:28:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232525,
+   "label": "LC 112 2913/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232525"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:45+00:00",
+  "version:232525": "2026-11-20T19:36:45+00:00",
+  "status:40": "2026-11-20T19:36:45+00:00",
+  "status:33": "2026-11-20T19:36:45+00:00",
+  "status:48": "2026-11-20T19:36:45+00:00"
+ },
+ "updated": "2026-11-20T19:36:45+00:00"
+}

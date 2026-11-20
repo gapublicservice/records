@@ -1,0 +1,95 @@
+{
+ "key": "HB 1012",
+ "slug": "hb1012",
+ "session": "2025_26",
+ "legislation_id": 72319,
+ "page": "https://www.legis.ga.gov/legislation/72319",
+ "document_type": "HB",
+ "number": 1012,
+ "legislation_type": "GEN",
+ "caption": "Local government; construction or development of new data centers for a specified time; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Chapter 80 of Title 36 of the Official Code of Georgia Annotated, relating to general provisions of local government, so as to prohibit the construction or development of new data centers for a specified time; to provide for legislative intent; to provide for an exception; to provide for a definition; to provide for an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T12:07:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240070,
+   "label": "LC 64 0026/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240070"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:54+00:00",
+  "version:240070": "2026-11-20T19:05:54+00:00",
+  "status:40": "2026-11-20T19:05:54+00:00",
+  "status:33": "2026-11-20T19:05:54+00:00",
+  "status:34": "2026-11-20T19:05:54+00:00"
+ },
+ "updated": "2026-11-20T19:05:54+00:00"
+}

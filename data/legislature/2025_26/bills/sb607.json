@@ -1,0 +1,102 @@
+{
+ "key": "SB 607",
+ "slug": "sb607",
+ "session": "2025_26",
+ "legislation_id": 73719,
+ "page": "https://www.legis.ga.gov/legislation/73719",
+ "document_type": "SB",
+ "number": 607,
+ "legislation_type": "GEN",
+ "caption": "Grand Juries; creation, selection, composition, compensation, procedures, and term; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 12 of Title 15 of the O.C.G.A., relating to grand juries, so as to provide for a state grand jury; to provide for its creation, selection, composition, compensation, procedures, and term; to provide for related matters; to provide a contingent effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Special Committee on Investigations",
+   "id": 207
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T16:44:09",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:15:28",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-03-03T12:49:50",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-03-04T10:37:55",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244652,
+   "label": "Committee Sub LC 47 4154S",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244652"
+  },
+  {
+   "doc_id": 244257,
+   "label": "As introduced LC 47 4117",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244257"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:48:48+00:00",
+  "version:244652": "2026-11-20T20:48:48+00:00",
+  "version:244257": "2026-11-20T20:48:48+00:00",
+  "status:67": "2026-11-20T20:48:48+00:00",
+  "status:3": "2026-11-20T20:48:48+00:00",
+  "status:8": "2026-11-20T20:48:48+00:00",
+  "status:10": "2026-11-20T20:48:48+00:00",
+  "status:64": "2026-11-20T20:48:48+00:00"
+ },
+ "updated": "2026-11-20T20:48:48+00:00"
+}

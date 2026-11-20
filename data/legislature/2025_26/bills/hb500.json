@@ -1,0 +1,136 @@
+{
+ "key": "HB 500",
+ "slug": "hb500",
+ "session": "2025_26",
+ "legislation_id": 70424,
+ "page": "https://www.legis.ga.gov/legislation/70424",
+ "document_type": "HB",
+ "number": 500,
+ "legislation_type": "GEN",
+ "caption": "Temporary Assistance for Needy Families Act; increase access to and amount of benefits",
+ "summary": "A BILL to be entitled an Act to amend Article 9 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to the \"Temporary Assistance for Needy Families Act,\" so as to increase access to and amount of benefits; to revise a definition; to increase the lifetime maximum for benefits; to revise the income and resources of an applicant that may be considered to determine eligibility; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:31:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T09:41:06",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245207,
+   "label": "LC 46 1502S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245207"
+  },
+  {
+   "doc_id": 233872,
+   "label": "LC 57 0249S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233872"
+  },
+  {
+   "doc_id": 232717,
+   "label": "LC 52 0684/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232717"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:40:40+00:00",
+  "version:245207": "2026-11-20T18:40:40+00:00",
+  "version:233872": "2026-11-20T18:40:40+00:00",
+  "version:232717": "2026-11-20T18:40:40+00:00",
+  "status:40": "2026-11-20T18:40:40+00:00",
+  "status:33": "2026-11-20T18:40:40+00:00",
+  "status:34": "2026-11-20T18:40:40+00:00",
+  "status:39": "2026-11-20T18:40:40+00:00",
+  "status:50": "2026-11-20T18:40:40+00:00"
+ },
+ "updated": "2026-11-20T18:40:40+00:00"
+}

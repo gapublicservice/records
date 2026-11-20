@@ -1,0 +1,89 @@
+{
+ "key": "HR 2010",
+ "slug": "hr2010",
+ "session": "2025_26",
+ "legislation_id": 74585,
+ "page": "https://www.legis.ga.gov/legislation/74585",
+ "document_type": "HR",
+ "number": 2010,
+ "legislation_type": "PRIV",
+ "caption": "Mitchell, Jajuan; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Jajuan Mitchell on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T16:18:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T16:41:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T16:41:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248025,
+   "label": "LC 129 1525/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248025"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:58+00:00",
+  "version:248025": "2026-11-20T20:15:58+00:00",
+  "status:40": "2026-11-20T20:15:58+00:00",
+  "status:33": "2026-11-20T20:15:58+00:00",
+  "status:48": "2026-11-20T20:15:58+00:00"
+ },
+ "updated": "2026-11-20T20:15:58+00:00"
+}

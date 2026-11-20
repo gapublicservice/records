@@ -1,0 +1,75 @@
+{
+ "key": "HR 776",
+ "slug": "hr776",
+ "session": "2025_26",
+ "legislation_id": 71754,
+ "page": "https://www.legis.ga.gov/legislation/71754",
+ "document_type": "HR",
+ "number": 776,
+ "legislation_type": "PRIV",
+ "caption": "Smart-Washington, Tisa; commend",
+ "summary": "A RESOLUTION recognizing and commending Tisa Smart-Washington; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:49:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:16",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237659,
+   "label": "LC 129 0429/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237659"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:17+00:00",
+  "version:237659": "2026-11-20T19:48:17+00:00",
+  "status:40": "2026-11-20T19:48:17+00:00",
+  "status:33": "2026-11-20T19:48:17+00:00",
+  "status:48": "2026-11-20T19:48:17+00:00"
+ },
+ "updated": "2026-11-20T19:48:17+00:00"
+}

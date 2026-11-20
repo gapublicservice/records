@@ -1,0 +1,88 @@
+{
+ "key": "SB 579",
+ "slug": "sb579",
+ "session": "2025_26",
+ "legislation_id": 73619,
+ "page": "https://www.legis.ga.gov/legislation/73619",
+ "document_type": "SB",
+ "number": 579,
+ "legislation_type": "GEN",
+ "caption": "\"Government Serves the People Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to general provisions relative to state government, so as to improve government service delivery in this state; to provide for the appointment of a State of Georgia Government Service Delivery Lead within the Georgia Technology Authority to coordinate such efforts; to establish the powers and duties of such individual; to establish the heads of each state agency as responsible for the government service delivery of their agency and provide for related powers and duties; to provide for annual reporting; to provide for definitions; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Government Oversight",
+   "id": 130
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T10:35:38",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:09:37",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243985,
+   "label": "As introduced LC 60 0318",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243985"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:47:47+00:00",
+  "version:243985": "2026-11-20T20:47:47+00:00",
+  "status:67": "2026-11-20T20:47:47+00:00",
+  "status:3": "2026-11-20T20:47:47+00:00"
+ },
+ "updated": "2026-11-20T20:47:47+00:00"
+}

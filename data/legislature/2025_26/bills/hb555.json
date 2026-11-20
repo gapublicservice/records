@@ -1,0 +1,123 @@
+{
+ "key": "HB 555",
+ "slug": "hb555",
+ "session": "2025_26",
+ "legislation_id": 70600,
+ "page": "https://www.legis.ga.gov/legislation/70600",
+ "document_type": "HB",
+ "number": 555,
+ "legislation_type": "GEN",
+ "caption": "Georgians First Residential Property Protection Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of specialized land transactions, so as to prohibit business enterprises from owning an interest in more than 2,000 single-family residential properties or ten multifamily residential properties; to provide for the forfeiture of rental payments paid in connection with an unlawful lease of residential property; to provide a private cause of action for the return of rental payments paid in connection with an unlawful lease of residential property; to provide for the disclosure of information by brokers; to provide an effective date; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T11:55:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T09:57:17",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235035,
+   "label": "LC 48 1569S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235035"
+  },
+  {
+   "doc_id": 233250,
+   "label": "LC 55 0493/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233250"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:42:59+00:00",
+  "version:235035": "2026-11-20T18:42:59+00:00",
+  "version:233250": "2026-11-20T18:42:59+00:00",
+  "status:40": "2026-11-20T18:42:59+00:00",
+  "status:33": "2026-11-20T18:42:59+00:00",
+  "status:34": "2026-11-20T18:42:59+00:00",
+  "status:39": "2026-11-20T18:42:59+00:00",
+  "status:50": "2026-11-20T18:42:59+00:00"
+ },
+ "updated": "2026-11-20T18:42:59+00:00"
+}

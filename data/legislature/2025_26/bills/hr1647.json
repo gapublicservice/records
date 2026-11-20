@@ -1,0 +1,82 @@
+{
+ "key": "HR 1647",
+ "slug": "hr1647",
+ "session": "2025_26",
+ "legislation_id": 73984,
+ "page": "https://www.legis.ga.gov/legislation/73984",
+ "document_type": "HR",
+ "number": 1647,
+ "legislation_type": "PRIV",
+ "caption": "Edwards, Shelia; receiving the 2026 Yellow Rose Nikki T. Randall Servant Leadership Award; commend",
+ "summary": "A RESOLUTION congratulating and commending Shelia Edwards for receiving the 2026 Yellow Rose Nikki T. Randall Servant Leadership Award; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T10:22:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T23:05:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T23:22:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245534,
+   "label": "LC 129 1360/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245534"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:04+00:00",
+  "version:245534": "2026-11-20T20:08:04+00:00",
+  "status:33": "2026-11-20T20:08:04+00:00",
+  "status:40": "2026-11-20T20:08:04+00:00",
+  "status:48": "2026-11-20T20:08:04+00:00"
+ },
+ "updated": "2026-11-20T20:08:04+00:00"
+}

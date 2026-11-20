@@ -1,0 +1,95 @@
+{
+ "key": "HR 1246",
+ "slug": "hr1246",
+ "session": "2025_26",
+ "legislation_id": 72905,
+ "page": "https://www.legis.ga.gov/legislation/72905",
+ "document_type": "HR",
+ "number": 1246,
+ "legislation_type": "NP",
+ "caption": "National Canned Food Month in the State of Georgia; February; recognize",
+ "summary": "A RESOLUTION recognizing of February as National Canned Food Month in the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5071,
+   "name": "Baker, Sylvia Wayfer 64th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:07:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241713,
+   "label": "LC 129 0893/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241713"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:50+00:00",
+  "version:241713": "2026-11-20T19:58:50+00:00",
+  "status:40": "2026-11-20T19:58:50+00:00",
+  "status:33": "2026-11-20T19:58:50+00:00",
+  "status:34": "2026-11-20T19:58:50+00:00"
+ },
+ "updated": "2026-11-20T19:58:50+00:00"
+}

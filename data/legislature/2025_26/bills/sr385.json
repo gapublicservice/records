@@ -1,0 +1,82 @@
+{
+ "key": "SR 385",
+ "slug": "sr385",
+ "session": "2025_26",
+ "legislation_id": 71296,
+ "page": "https://www.legis.ga.gov/legislation/71296",
+ "document_type": "SR",
+ "number": 385,
+ "legislation_type": "PRIV",
+ "caption": "Downtown Atlanta Day; recognize March 13, 2025",
+ "summary": "A RESOLUTION recognizing March 13, 2025, as Downtown Atlanta Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-11T12:17:47",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-13T11:40:32",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235861,
+   "label": "Read and adopted LC 112 3339",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235861"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:06+00:00",
+  "version:235861": "2026-11-20T20:59:06+00:00",
+  "status:67": "2026-11-20T20:59:06+00:00",
+  "status:66": "2026-11-20T20:59:06+00:00"
+ },
+ "updated": "2026-11-20T20:59:06+00:00"
+}

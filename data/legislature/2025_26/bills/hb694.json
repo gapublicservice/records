@@ -1,0 +1,81 @@
+{
+ "key": "HB 694",
+ "slug": "hb694",
+ "session": "2025_26",
+ "legislation_id": 71049,
+ "page": "https://www.legis.ga.gov/legislation/71049",
+ "document_type": "HB",
+ "number": 694,
+ "legislation_type": "GEN",
+ "caption": "State Board of Education; establish five-year school pilot program to increase graduation rates and postsecondary education",
+ "summary": "A BILL to be entitled an Act to amend Article 14 of Chapter 2 of Title 20 of the O.C.G.A., relating to elementary and secondary education grants, so as to provide for the State Board of Education to establish a five-year school pilot program to increase the availability of effective school counseling and postsecondary preparation services in secondary schools to increase high school graduation rates and the percentage of students who continue into postsecondary education; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T12:39:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T10:43:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T09:54:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234672,
+   "label": "LC 61 0004/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234672"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:13+00:00",
+  "version:234672": "2026-11-20T18:49:13+00:00",
+  "status:40": "2026-11-20T18:49:13+00:00",
+  "status:33": "2026-11-20T18:49:13+00:00",
+  "status:34": "2026-11-20T18:49:13+00:00"
+ },
+ "updated": "2026-11-20T18:49:13+00:00"
+}

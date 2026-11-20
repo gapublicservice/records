@@ -1,0 +1,82 @@
+{
+ "key": "HR 445",
+ "slug": "hr445",
+ "session": "2025_26",
+ "legislation_id": 70999,
+ "page": "https://www.legis.ga.gov/legislation/70999",
+ "document_type": "HR",
+ "number": 445,
+ "legislation_type": "PRIV",
+ "caption": "Fellowship Bible Baptist Church; occasion of its 45th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Fellowship Bible Baptist Church on the occasion of its 45th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:22:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T15:48:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T15:48:37",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234490,
+   "label": "LC 129 0196/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234490"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:44+00:00",
+  "version:234490": "2026-11-20T19:40:44+00:00",
+  "status:40": "2026-11-20T19:40:44+00:00",
+  "status:33": "2026-11-20T19:40:44+00:00",
+  "status:48": "2026-11-20T19:40:44+00:00"
+ },
+ "updated": "2026-11-20T19:40:44+00:00"
+}

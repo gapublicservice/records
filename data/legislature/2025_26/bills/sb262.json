@@ -1,0 +1,109 @@
+{
+ "key": "SB 262",
+ "slug": "sb262",
+ "session": "2025_26",
+ "legislation_id": 70878,
+ "page": "https://www.legis.ga.gov/legislation/70878",
+ "document_type": "SB",
+ "number": 262,
+ "legislation_type": "GEN",
+ "caption": "Insurance; health benefit policies to cover preventive services; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance generally, so as to provide for health benefit policies to cover preventive services; to provide for definitions; to prohibit cost-sharing requirements; to protect the eligibility of health savings accounts; to provide for review by the Commissioner of Insurance; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:36:28",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:29:42",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234063,
+   "label": "As introduced LC 52 0764",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234063"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:33:56+00:00",
+  "version:234063": "2026-11-20T20:33:56+00:00",
+  "status:67": "2026-11-20T20:33:56+00:00",
+  "status:3": "2026-11-20T20:33:56+00:00"
+ },
+ "updated": "2026-11-20T20:33:56+00:00"
+}

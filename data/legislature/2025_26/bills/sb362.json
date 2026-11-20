@@ -1,0 +1,95 @@
+{
+ "key": "SB 362",
+ "slug": "sb362",
+ "session": "2025_26",
+ "legislation_id": 71724,
+ "page": "https://www.legis.ga.gov/legislation/71724",
+ "document_type": "SB",
+ "number": 362,
+ "legislation_type": "GEN",
+ "caption": "Employees' Retirement System of Georgia; all sworn law enforcement officers serving in and the commissioner and deputy commissioner of the Department of Public Safety to be eligible for regular retirement benefits at the age of 55 years; allow",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 47 of the Official Code of Georgia Annotated, relating to the Employees' Retirement System of Georgia, so as to allow all sworn law enforcement officers serving in and the commissioner and deputy commissioner of the Department of Public Safety to be eligible for regular retirement benefits at the age of 55 years, certain disability benefits, and certain provisions for purchasing creditable service; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Retirement",
+   "id": 82
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T11:58:26",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-28T10:14:41",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237518,
+   "label": "As introduced LC 56 0392",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237518"
+  },
+  {
+   "doc_id": 237560,
+   "label": "LC 56 0392 Auditor's Certification",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237560"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:47+00:00",
+  "version:237518": "2026-11-20T20:37:47+00:00",
+  "version:237560": "2026-11-20T20:37:47+00:00",
+  "status:67": "2026-11-20T20:37:47+00:00",
+  "status:3": "2026-11-20T20:37:47+00:00"
+ },
+ "updated": "2026-11-20T20:37:47+00:00"
+}

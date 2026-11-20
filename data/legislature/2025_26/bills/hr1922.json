@@ -1,0 +1,89 @@
+{
+ "key": "HR 1922",
+ "slug": "hr1922",
+ "session": "2025_26",
+ "legislation_id": 74470,
+ "page": "https://www.legis.ga.gov/legislation/74470",
+ "document_type": "HR",
+ "number": 1922,
+ "legislation_type": "PRIV",
+ "caption": "Impact Georgia Day and honoring distinguished Georgians for their contributions to the state and beyond; recognize",
+ "summary": "A RESOLUTION recognizing Impact Georgia Day and honoring distinguished Georgians for their contributions to the state and beyond; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:49:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247571,
+   "label": "LC 129 1485/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247571"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:56+00:00",
+  "version:247571": "2026-11-20T20:13:56+00:00",
+  "status:40": "2026-11-20T20:13:56+00:00",
+  "status:33": "2026-11-20T20:13:56+00:00",
+  "status:48": "2026-11-20T20:13:56+00:00"
+ },
+ "updated": "2026-11-20T20:13:56+00:00"
+}

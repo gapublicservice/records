@@ -1,0 +1,116 @@
+{
+ "key": "HB 1301",
+ "slug": "hb1301",
+ "session": "2025_26",
+ "legislation_id": 73178,
+ "page": "https://www.legis.ga.gov/legislation/73178",
+ "document_type": "HB",
+ "number": 1301,
+ "legislation_type": "GEN",
+ "caption": "Commerce and trade; clarify requirements for certain data reported by consumer reporting agencies",
+ "summary": "A BILL to be entitled an Act to amend Code Section 10-1-393.14 of the Official Code of Georgia Annotated, relating to requirements relating to consumer reports furnished for employment purposes, so as to clarify the requirements for certain data reported by consumer reporting agencies; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T11:27:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T09:29:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243678,
+   "label": "LC 44 3477S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243678"
+  },
+  {
+   "doc_id": 242527,
+   "label": "LC 56 0485/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242527"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:15+00:00",
+  "version:243678": "2026-11-20T19:18:15+00:00",
+  "version:242527": "2026-11-20T19:18:15+00:00",
+  "status:40": "2026-11-20T19:18:15+00:00",
+  "status:33": "2026-11-20T19:18:15+00:00",
+  "status:34": "2026-11-20T19:18:15+00:00",
+  "status:39": "2026-11-20T19:18:15+00:00"
+ },
+ "updated": "2026-11-20T19:18:15+00:00"
+}

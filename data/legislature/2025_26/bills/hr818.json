@@ -1,0 +1,75 @@
+{
+ "key": "HR 818",
+ "slug": "hr818",
+ "session": "2025_26",
+ "legislation_id": 71809,
+ "page": "https://www.legis.ga.gov/legislation/71809",
+ "document_type": "HR",
+ "number": 818,
+ "legislation_type": "PRIV",
+ "caption": "Community Wellness Day at the Capitol; 03/28/25; 100 Black Men of South Metro Atlanta; recognize",
+ "summary": "A RESOLUTION commending the 100 Black Men of South Metro Atlanta and recognizing March 28, 2025, as Community Wellness Day at the Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T16:25:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T17:11:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T17:11:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237833,
+   "label": "LC 129 0417/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237833"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:12+00:00",
+  "version:237833": "2026-11-20T19:49:12+00:00",
+  "status:40": "2026-11-20T19:49:12+00:00",
+  "status:33": "2026-11-20T19:49:12+00:00",
+  "status:48": "2026-11-20T19:49:12+00:00"
+ },
+ "updated": "2026-11-20T19:49:12+00:00"
+}

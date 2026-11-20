@@ -1,0 +1,95 @@
+{
+ "key": "HB 886",
+ "slug": "hb886",
+ "session": "2025_26",
+ "legislation_id": 71892,
+ "page": "https://www.legis.ga.gov/legislation/71892",
+ "document_type": "HB",
+ "number": 886,
+ "legislation_type": "GEN",
+ "caption": "State government; prohibit state agencies and local government entities from responding to ransomware activity",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to general provisions regarding state government, so as to prohibit state agencies and local government entities from responding to ransomware activity; to require that state agencies and local government entities report ransomware activity to the Georgia Technology Authority; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T13:28:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238271,
+   "label": "LC 56 0313/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238271"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:24+00:00",
+  "version:238271": "2026-11-20T18:58:24+00:00",
+  "status:40": "2026-11-20T18:58:24+00:00",
+  "status:33": "2026-11-20T18:58:24+00:00",
+  "status:34": "2026-11-20T18:58:24+00:00"
+ },
+ "updated": "2026-11-20T18:58:24+00:00"
+}

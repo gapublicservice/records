@@ -1,0 +1,102 @@
+{
+ "key": "HR 1244",
+ "slug": "hr1244",
+ "session": "2025_26",
+ "legislation_id": 72903,
+ "page": "https://www.legis.ga.gov/legislation/72903",
+ "document_type": "HR",
+ "number": 1244,
+ "legislation_type": "CA",
+ "caption": "Ad valorem tax; business enterprises; rate of assessment of 1,000 or more single family residential properties used for rental income; provisions - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution of the State of Georgia so as to provide that any business enterprise, including, but not limited to, private equity, having an interest in 1,000 or more single-family residential properties within this state used primarily for purposes of generating rental income shall be subject to an ad valorem tax assessment of 100 percent; to provide for related matters; to provide for submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:06:08",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241711,
+   "label": "LC 59 0300/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241711"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:47+00:00",
+  "version:241711": "2026-11-20T19:58:47+00:00",
+  "status:40": "2026-11-20T19:58:47+00:00",
+  "status:33": "2026-11-20T19:58:47+00:00",
+  "status:34": "2026-11-20T19:58:47+00:00"
+ },
+ "updated": "2026-11-20T19:58:47+00:00"
+}

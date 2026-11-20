@@ -1,0 +1,74 @@
+{
+ "key": "HB 1444",
+ "slug": "hb1444",
+ "session": "2025_26",
+ "legislation_id": 73606,
+ "page": "https://www.legis.ga.gov/legislation/73606",
+ "document_type": "HB",
+ "number": 1444,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; require each sales tax return include specific information",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 1 of Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to imposition, rate, collection, and assessment relative to state sales and use tax, so as to require that each sales tax return include specific information regarding the location at which such tax was collected, the identity of the entity collecting such tax, and the North American Industry Classification System Code for such entity, where applicable; to require that the department maintain sales tax data differentiating sales made within the limits of a municipality from sales made within the unincorporated area of a county; to provide for the publication of such data; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T15:00:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243890,
+   "label": "LC 59 0383/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243890"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:16+00:00",
+  "version:243890": "2026-11-20T19:23:16+00:00",
+  "status:40": "2026-11-20T19:23:16+00:00",
+  "status:33": "2026-11-20T19:23:16+00:00",
+  "status:34": "2026-11-20T19:23:16+00:00"
+ },
+ "updated": "2026-11-20T19:23:16+00:00"
+}

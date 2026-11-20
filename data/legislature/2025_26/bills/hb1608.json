@@ -1,0 +1,95 @@
+{
+ "key": "HB 1608",
+ "slug": "hb1608",
+ "session": "2025_26",
+ "legislation_id": 74574,
+ "page": "https://www.legis.ga.gov/legislation/74574",
+ "document_type": "HB",
+ "number": 1608,
+ "legislation_type": "GEN",
+ "caption": "Georgia Youth Advisory Council; create",
+ "summary": "A BILL to be entitled an Act to amend Chapter 12 of Title 50 of the Official Code of Georgia Annotated, relating to commissions and other agencies of state government, so as to create the Georgia Youth Advisory Council; to provide for appointment of members to the advisory council; to provide for criteria of the membership of the advisory council; to provide for terms of members; to provide for quarterly meetings; to provide for purpose and activities of the advisory council; to provide for annual reports; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:45:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T10:29:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T10:22:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247995,
+   "label": "LC 65 0097/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247995"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:22+00:00",
+  "version:247995": "2026-11-20T19:30:22+00:00",
+  "status:40": "2026-11-20T19:30:22+00:00",
+  "status:33": "2026-11-20T19:30:22+00:00",
+  "status:34": "2026-11-20T19:30:22+00:00"
+ },
+ "updated": "2026-11-20T19:30:22+00:00"
+}

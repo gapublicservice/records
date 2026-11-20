@@ -1,0 +1,89 @@
+{
+ "key": "HR 1069",
+ "slug": "hr1069",
+ "session": "2025_26",
+ "legislation_id": 72418,
+ "page": "https://www.legis.ga.gov/legislation/72418",
+ "document_type": "HR",
+ "number": 1069,
+ "legislation_type": "PRIV",
+ "caption": "Gwinnett Chamber Day at the state capitol; January 27, 2026; recognize",
+ "summary": "A RESOLUTION recognizing January 27, 2026, as Gwinnett Chamber Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:18:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240352,
+   "label": "LC 129 0660/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240352"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:54+00:00",
+  "version:240352": "2026-11-20T19:54:54+00:00",
+  "status:40": "2026-11-20T19:54:54+00:00",
+  "status:33": "2026-11-20T19:54:54+00:00",
+  "status:48": "2026-11-20T19:54:54+00:00"
+ },
+ "updated": "2026-11-20T19:54:54+00:00"
+}

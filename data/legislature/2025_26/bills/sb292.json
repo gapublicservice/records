@@ -1,0 +1,67 @@
+{
+ "key": "SB 292",
+ "slug": "sb292",
+ "session": "2025_26",
+ "legislation_id": 70917,
+ "page": "https://www.legis.ga.gov/legislation/70917",
+ "document_type": "SB",
+ "number": 292,
+ "legislation_type": "GEN",
+ "caption": "Business Corporations; domestic corporations maintaining a principal place of business in Georgia shall be deemed to reside; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 5 of Chapter 2 of Title 14 of the Official Code of Georgia Annotated, relating to venue relative to business corporations, so as to provide that certain domestic corporations maintaining a principal place of business in Georgia shall be deemed to reside and to be subject to venue in the county in Georgia where the defendant maintains such principal place of business; to provide for determinations regarding the principal place of business for certain domestic corporations; to provide for statutory construction; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T17:02:47",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:32:48",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234228,
+   "label": "As Introduced LC 49 2036",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234228"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:34:56+00:00",
+  "version:234228": "2026-11-20T20:34:56+00:00",
+  "status:67": "2026-11-20T20:34:56+00:00",
+  "status:3": "2026-11-20T20:34:56+00:00"
+ },
+ "updated": "2026-11-20T20:34:56+00:00"
+}

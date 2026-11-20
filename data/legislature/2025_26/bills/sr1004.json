@@ -1,0 +1,138 @@
+{
+ "key": "SR 1004",
+ "slug": "sr1004",
+ "session": "2025_26",
+ "legislation_id": 74318,
+ "page": "https://www.legis.ga.gov/legislation/74318",
+ "document_type": "SR",
+ "number": 1004,
+ "legislation_type": "PRIV",
+ "caption": "American College of Obstetricians and Gynecologists; recognize",
+ "summary": "A RESOLUTION recognizing and commending the American College of Obstetricians and Gynecologists on its 75th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 11
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 12
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 13
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-20T10:52:09",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-23T11:19:40",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246860,
+   "label": "Read and adopted LC 112 4023",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246860"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:13:43+00:00",
+  "version:246860": "2026-11-20T21:13:43+00:00",
+  "status:67": "2026-11-20T21:13:43+00:00",
+  "status:66": "2026-11-20T21:13:43+00:00"
+ },
+ "updated": "2026-11-20T21:13:43+00:00"
+}

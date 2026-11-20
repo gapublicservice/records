@@ -1,0 +1,95 @@
+{
+ "key": "HR 1892",
+ "slug": "hr1892",
+ "session": "2025_26",
+ "legislation_id": 74437,
+ "page": "https://www.legis.ga.gov/legislation/74437",
+ "document_type": "HR",
+ "number": 1892,
+ "legislation_type": "NP",
+ "caption": "Alzheimer's Disease Awareness Month; September 2026; recognize",
+ "summary": "A RESOLUTION recognizing September 2026 as Alzheimer's Disease Awareness Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T14:44:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247467,
+   "label": "LC 112 4042/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247467"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:18+00:00",
+  "version:247467": "2026-11-20T20:13:18+00:00",
+  "status:40": "2026-11-20T20:13:18+00:00",
+  "status:33": "2026-11-20T20:13:18+00:00",
+  "status:34": "2026-11-20T20:13:18+00:00"
+ },
+ "updated": "2026-11-20T20:13:18+00:00"
+}

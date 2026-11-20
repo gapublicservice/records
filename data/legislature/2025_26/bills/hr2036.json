@@ -1,0 +1,61 @@
+{
+ "key": "HR 2036",
+ "slug": "hr2036",
+ "session": "2025_26",
+ "legislation_id": 74655,
+ "page": "https://www.legis.ga.gov/legislation/74655",
+ "document_type": "HR",
+ "number": 2036,
+ "legislation_type": "PRIV",
+ "caption": "Brand, Dr. Miranda; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Miranda Brand; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-31T15:21:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-31T16:07:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T16:07:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248405,
+   "label": "LC 112 4183/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248405"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:16:38+00:00",
+  "version:248405": "2026-11-20T20:16:38+00:00",
+  "status:40": "2026-11-20T20:16:38+00:00",
+  "status:33": "2026-11-20T20:16:38+00:00",
+  "status:48": "2026-11-20T20:16:38+00:00"
+ },
+ "updated": "2026-11-20T20:16:38+00:00"
+}

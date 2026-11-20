@@ -1,0 +1,96 @@
+{
+ "key": "HR 1011",
+ "slug": "hr1011",
+ "session": "2025_26",
+ "legislation_id": 72190,
+ "page": "https://www.legis.ga.gov/legislation/72190",
+ "document_type": "HR",
+ "number": 1011,
+ "legislation_type": "PRIV",
+ "caption": "Founders Day; 01/13/26; Delta Sigma Theta Sorority, Inc.; 113 Years of Service; recognize",
+ "summary": "A RESOLUTION commending Delta Sigma Theta Sorority, Inc., for 113 Years of Service and Recognizing January 13, 2026, as Founders Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-13T11:36:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-13T11:56:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-13T11:56:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239754,
+   "label": "LC 129 0529/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239754"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:33+00:00",
+  "version:239754": "2026-11-20T19:53:33+00:00",
+  "status:40": "2026-11-20T19:53:33+00:00",
+  "status:33": "2026-11-20T19:53:33+00:00",
+  "status:48": "2026-11-20T19:53:33+00:00"
+ },
+ "updated": "2026-11-20T19:53:33+00:00"
+}

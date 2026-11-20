@@ -1,0 +1,95 @@
+{
+ "key": "HB 1338",
+ "slug": "hb1338",
+ "session": "2025_26",
+ "legislation_id": 73275,
+ "page": "https://www.legis.ga.gov/legislation/73275",
+ "document_type": "HB",
+ "number": 1338,
+ "legislation_type": "LOC",
+ "caption": "Savannah, City of; ad valorem taxes for municipal purposes; homestead exemption; provisions",
+ "summary": "A BILL to be entitled an Act to amend an Act providing for a homestead exemption from certain City of Savannah ad valorem taxes for municipal purposes in an amount equal to the amount by which the current year assessed value of a homestead exceeds the adjusted assessed value of such homestead for the taxable year immediately preceding the taxable year in which this exemption was first granted to the current owner of such homestead, approved April 13, 1999 (Ga. L. 1999, p. 4223), as amended, so as to prevent any increases in the adjusted base year assessed value of properties above the value set in tax year 2025; to provide for compliance with constitutional requirements; to provide for a referendum, effective dates, automatic repeal, mandatory execution of election, and judicial remedies regarding failure to comply; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:12:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242828,
+   "label": "LC 47 3797/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242828"
+  },
+  {
+   "doc_id": 242847,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242847"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:34+00:00",
+  "version:242828": "2026-11-20T19:19:34+00:00",
+  "version:242847": "2026-11-20T19:19:34+00:00",
+  "status:40": "2026-11-20T19:19:34+00:00",
+  "status:33": "2026-11-20T19:19:34+00:00",
+  "status:34": "2026-11-20T19:19:34+00:00"
+ },
+ "updated": "2026-11-20T19:19:34+00:00"
+}

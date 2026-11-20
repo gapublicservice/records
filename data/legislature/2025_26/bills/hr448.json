@@ -1,0 +1,67 @@
+{
+ "key": "HR 448",
+ "slug": "hr448",
+ "session": "2025_26",
+ "legislation_id": 70983,
+ "page": "https://www.legis.ga.gov/legislation/70983",
+ "document_type": "HR",
+ "number": 448,
+ "legislation_type": "NP",
+ "caption": "Women's Golf Week in the State of Georgia; first week of April of each year; recognize",
+ "summary": "A RESOLUTION recognizing Women's Golf Week in the State of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:02:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234452,
+   "label": "LC 52 0814/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234452"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:48+00:00",
+  "version:234452": "2026-11-20T19:40:48+00:00",
+  "status:40": "2026-11-20T19:40:48+00:00",
+  "status:33": "2026-11-20T19:40:48+00:00",
+  "status:34": "2026-11-20T19:40:48+00:00"
+ },
+ "updated": "2026-11-20T19:40:48+00:00"
+}

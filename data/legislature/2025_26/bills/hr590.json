@@ -1,0 +1,111 @@
+{
+ "key": "HR 590",
+ "slug": "hr590",
+ "session": "2025_26",
+ "legislation_id": 71346,
+ "page": "https://www.legis.ga.gov/legislation/71346",
+ "document_type": "HR",
+ "number": 590,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Telecommunications Services and Programs for the Hearing and Visually Impaired; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Telecommunications Services and Programs for the Hearing and Visually Impaired; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-13T10:48:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T13:29:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-20T10:25:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-25T15:38:33",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236037,
+   "label": "LC 55 9005/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236037"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:56+00:00",
+  "version:236037": "2026-11-20T19:43:56+00:00",
+  "status:40": "2026-11-20T19:43:56+00:00",
+  "status:33": "2026-11-20T19:43:56+00:00",
+  "status:34": "2026-11-20T19:43:56+00:00",
+  "status:39": "2026-11-20T19:43:56+00:00",
+  "status:50": "2026-11-20T19:43:56+00:00"
+ },
+ "updated": "2026-11-20T19:43:56+00:00"
+}

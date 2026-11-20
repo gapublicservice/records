@@ -1,0 +1,102 @@
+{
+ "key": "HR 70",
+ "slug": "hr70",
+ "session": "2025_26",
+ "legislation_id": 69584,
+ "page": "https://www.legis.ga.gov/legislation/69584",
+ "document_type": "HR",
+ "number": 70,
+ "legislation_type": "GEN",
+ "caption": "Christopher Lee Ruse Memorial Intersection; Jackson County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Officer Christopher Lee Ruse and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-28T12:24:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-29T10:46:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T09:44:49",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230501,
+   "label": "LC 39 4526/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230501"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:18+00:00",
+  "version:230501": "2026-11-20T19:32:18+00:00",
+  "status:40": "2026-11-20T19:32:18+00:00",
+  "status:33": "2026-11-20T19:32:18+00:00",
+  "status:34": "2026-11-20T19:32:18+00:00"
+ },
+ "updated": "2026-11-20T19:32:18+00:00"
+}

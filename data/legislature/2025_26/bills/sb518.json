@@ -1,0 +1,60 @@
+{
+ "key": "SB 518",
+ "slug": "sb518",
+ "session": "2025_26",
+ "legislation_id": 73265,
+ "page": "https://www.legis.ga.gov/legislation/73265",
+ "document_type": "SB",
+ "number": 518,
+ "legislation_type": "GEN",
+ "caption": "Insurance; health benefit policy coverage for medically necessary treatments of alopecia universalis; require",
+ "summary": "A BILL to be entitled an Act to amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance generally, so as to require health benefit policy coverage for medically necessary treatments of alopecia universalis; to provide for definitions; to provide for cost sharing; to provide for statutory construction; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T11:52:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-18T10:11:35",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242763,
+   "label": "As introduced LC 46 1305",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242763"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:44:37+00:00",
+  "version:242763": "2026-11-20T20:44:37+00:00",
+  "status:67": "2026-11-20T20:44:37+00:00",
+  "status:3": "2026-11-20T20:44:37+00:00"
+ },
+ "updated": "2026-11-20T20:44:37+00:00"
+}

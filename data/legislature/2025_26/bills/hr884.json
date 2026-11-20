@@ -1,0 +1,95 @@
+{
+ "key": "HR 884",
+ "slug": "hr884",
+ "session": "2025_26",
+ "legislation_id": 71937,
+ "page": "https://www.legis.ga.gov/legislation/71937",
+ "document_type": "HR",
+ "number": 884,
+ "legislation_type": "NP",
+ "caption": "President of the United States and Congress; increased state autonomy to allow for creation of innovative solutions to work disincentives and reform of social safety net programs; urge",
+ "summary": "A RESOLUTION urging increased state autonomy to allow for the creation of innovative solutions to work disincentives and the reform of social safety net programs; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T17:39:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238434,
+   "label": "LC 112 3509/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238434"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:39+00:00",
+  "version:238434": "2026-11-20T19:50:39+00:00",
+  "status:40": "2026-11-20T19:50:39+00:00",
+  "status:33": "2026-11-20T19:50:39+00:00",
+  "status:34": "2026-11-20T19:50:39+00:00"
+ },
+ "updated": "2026-11-20T19:50:39+00:00"
+}

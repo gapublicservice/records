@@ -1,0 +1,89 @@
+{
+ "key": "HR 1327",
+ "slug": "hr1327",
+ "session": "2025_26",
+ "legislation_id": 73109,
+ "page": "https://www.legis.ga.gov/legislation/73109",
+ "document_type": "HR",
+ "number": 1327,
+ "legislation_type": "PRIV",
+ "caption": "Liberty Ministries Family Worship; occasion of its 25th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Liberty Ministries Family Worship on the occasion of its 25th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:16:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242273,
+   "label": "LC 129 0984/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242273"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:47+00:00",
+  "version:242273": "2026-11-20T20:00:47+00:00",
+  "status:40": "2026-11-20T20:00:47+00:00",
+  "status:33": "2026-11-20T20:00:47+00:00",
+  "status:48": "2026-11-20T20:00:47+00:00"
+ },
+ "updated": "2026-11-20T20:00:47+00:00"
+}

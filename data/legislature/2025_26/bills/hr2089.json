@@ -1,0 +1,75 @@
+{
+ "key": "HR 2089",
+ "slug": "hr2089",
+ "session": "2025_26",
+ "legislation_id": 74702,
+ "page": "https://www.legis.ga.gov/legislation/74702",
+ "document_type": "HR",
+ "number": 2089,
+ "legislation_type": "PRIV",
+ "caption": "Veal, Gail; 2026 Heart of Community Award of Honor recipient; commend",
+ "summary": "A RESOLUTION recognizing and commending the 2026 Heart of Community Award of Honor recipient Gail Veal; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:22:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:13",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248853,
+   "label": "LC 112 4224/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248853"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:53+00:00",
+  "version:248853": "2026-11-20T20:17:53+00:00",
+  "status:40": "2026-11-20T20:17:53+00:00",
+  "status:33": "2026-11-20T20:17:53+00:00",
+  "status:48": "2026-11-20T20:17:53+00:00"
+ },
+ "updated": "2026-11-20T20:17:53+00:00"
+}

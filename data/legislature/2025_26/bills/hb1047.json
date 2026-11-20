@@ -1,0 +1,102 @@
+{
+ "key": "HB 1047",
+ "slug": "hb1047",
+ "session": "2025_26",
+ "legislation_id": 72384,
+ "page": "https://www.legis.ga.gov/legislation/72384",
+ "document_type": "HB",
+ "number": 1047,
+ "legislation_type": "GEN",
+ "caption": "Revenue and taxation; water and sewer projects and costs tax; revise definition of the term \"municipality\"",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to water and sewer projects and costs tax, so as to revise the definition of the term \"municipality\"; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:15:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240233,
+   "label": "LC 28 0705/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240233"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:08+00:00",
+  "version:240233": "2026-11-20T19:07:08+00:00",
+  "status:40": "2026-11-20T19:07:08+00:00",
+  "status:33": "2026-11-20T19:07:08+00:00",
+  "status:34": "2026-11-20T19:07:08+00:00"
+ },
+ "updated": "2026-11-20T19:07:08+00:00"
+}

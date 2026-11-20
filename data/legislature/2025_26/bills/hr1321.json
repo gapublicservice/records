@@ -1,0 +1,89 @@
+{
+ "key": "HR 1321",
+ "slug": "hr1321",
+ "session": "2025_26",
+ "legislation_id": 73103,
+ "page": "https://www.legis.ga.gov/legislation/73103",
+ "document_type": "HR",
+ "number": 1321,
+ "legislation_type": "PRIV",
+ "caption": "American Foundation for Suicide Prevention; Georgia chapter for leadership in suicide prevention; commend",
+ "summary": "A RESOLUTION recognizing and commending the American Foundation for Suicide Prevention and its Georgia chapter for leadership in suicide prevention; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:13:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242266,
+   "label": "LC 129 0921/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242266"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:36+00:00",
+  "version:242266": "2026-11-20T20:00:36+00:00",
+  "status:40": "2026-11-20T20:00:36+00:00",
+  "status:33": "2026-11-20T20:00:36+00:00",
+  "status:48": "2026-11-20T20:00:36+00:00"
+ },
+ "updated": "2026-11-20T20:00:36+00:00"
+}

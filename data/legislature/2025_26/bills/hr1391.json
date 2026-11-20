@@ -1,0 +1,95 @@
+{
+ "key": "HR 1391",
+ "slug": "hr1391",
+ "session": "2025_26",
+ "legislation_id": 73342,
+ "page": "https://www.legis.ga.gov/legislation/73342",
+ "document_type": "HR",
+ "number": 1391,
+ "legislation_type": "GEN",
+ "caption": "Edna Sirmans Sessoms Bridge; Clinch County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mrs. Edna Sirmans Sessoms and dedicating a bridge in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4923,
+   "name": "LaHood, John 175th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T11:21:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243031,
+   "label": "LC 39 4959/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243031"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:27+00:00",
+  "version:243031": "2026-11-20T20:02:27+00:00",
+  "status:40": "2026-11-20T20:02:27+00:00",
+  "status:33": "2026-11-20T20:02:27+00:00",
+  "status:34": "2026-11-20T20:02:27+00:00"
+ },
+ "updated": "2026-11-20T20:02:27+00:00"
+}

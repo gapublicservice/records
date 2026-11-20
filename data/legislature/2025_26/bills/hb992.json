@@ -1,0 +1,102 @@
+{
+ "key": "HB 992",
+ "slug": "hb992",
+ "session": "2025_26",
+ "legislation_id": 72259,
+ "page": "https://www.legis.ga.gov/legislation/72259",
+ "document_type": "HB",
+ "number": 992,
+ "legislation_type": "GEN",
+ "caption": "State parks; free admission on certain public and legal holidays; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 3 of Title 12 of the Official Code of Georgia Annotated, relating to general provisions regarding parks, historic areas, memorials, and recreation, so as to provide for free admission to state parks on certain public and legal holidays; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Game, Fish & Parks",
+   "id": 91
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:54:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239939,
+   "label": "LC 44 3251/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239939"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:00+00:00",
+  "version:239939": "2026-11-20T19:05:00+00:00",
+  "status:40": "2026-11-20T19:05:00+00:00",
+  "status:33": "2026-11-20T19:05:00+00:00",
+  "status:34": "2026-11-20T19:05:00+00:00"
+ },
+ "updated": "2026-11-20T19:05:00+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 229",
+ "slug": "hr229",
+ "session": "2025_26",
+ "legislation_id": 70214,
+ "page": "https://www.legis.ga.gov/legislation/70214",
+ "document_type": "HR",
+ "number": 229,
+ "legislation_type": "PRIV",
+ "caption": "Jenkins, Colonel (Ret.) Christopher; occasion of his military retirement; commend",
+ "summary": "A RESOLUTION recognizing and commending Colonel (Ret.) Christopher Jenkins on the occasion of his military retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:58:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232108,
+   "label": "LC 112 2914/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232108"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:56+00:00",
+  "version:232108": "2026-11-20T19:35:56+00:00",
+  "status:40": "2026-11-20T19:35:56+00:00",
+  "status:33": "2026-11-20T19:35:56+00:00",
+  "status:48": "2026-11-20T19:35:56+00:00"
+ },
+ "updated": "2026-11-20T19:35:56+00:00"
+}

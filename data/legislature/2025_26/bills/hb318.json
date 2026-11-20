@@ -1,0 +1,116 @@
+{
+ "key": "HB 318",
+ "slug": "hb318",
+ "session": "2025_26",
+ "legislation_id": 70029,
+ "page": "https://www.legis.ga.gov/legislation/70029",
+ "document_type": "HB",
+ "number": 318,
+ "legislation_type": "GEN",
+ "caption": "Appeal and error; appeal of superior court decisions on zoning decisions of counties and municipal corporations; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to appellate practice, and Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning procedures as pertaining to counties and municipal corporations, so as to provide for the appeal of superior court decisions on zoning decisions of counties and municipal corporations; to repeal provisions authorizing administrative officers to exercise zoning powers; to repeal provisions authorizing quasi-judicial boards and agencies to hear and render decisions on applications for special administrative permits and conditional permits; to revise definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:02:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-20T10:03:01",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231627,
+   "label": "LC 44 2998/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231627"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:58+00:00",
+  "version:231627": "2026-11-20T18:31:58+00:00",
+  "status:40": "2026-11-20T18:31:58+00:00",
+  "status:33": "2026-11-20T18:31:58+00:00",
+  "status:34": "2026-11-20T18:31:58+00:00",
+  "status:39": "2026-11-20T18:31:58+00:00",
+  "status:50": "2026-11-20T18:31:58+00:00"
+ },
+ "updated": "2026-11-20T18:31:58+00:00"
+}

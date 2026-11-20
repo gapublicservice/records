@@ -1,0 +1,54 @@
+{
+ "key": "SR 417",
+ "slug": "sr417",
+ "session": "2025_26",
+ "legislation_id": 71428,
+ "page": "https://www.legis.ga.gov/legislation/71428",
+ "document_type": "SR",
+ "number": 417,
+ "legislation_type": "PRIV",
+ "caption": "Dutch Day; recognize March 3, 2025",
+ "summary": "A RESOLUTION recognizing March 3, 2025, as Dutch Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T15:14:46",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-20T12:03:40",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236322,
+   "label": "Read and adopted LC 112 3220",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236322"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:59:51+00:00",
+  "version:236322": "2026-11-20T20:59:51+00:00",
+  "status:67": "2026-11-20T20:59:51+00:00",
+  "status:66": "2026-11-20T20:59:51+00:00"
+ },
+ "updated": "2026-11-20T20:59:51+00:00"
+}

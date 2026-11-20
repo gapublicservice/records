@@ -1,0 +1,68 @@
+{
+ "key": "HR 1679",
+ "slug": "hr1679",
+ "session": "2025_26",
+ "legislation_id": 74061,
+ "page": "https://www.legis.ga.gov/legislation/74061",
+ "document_type": "HR",
+ "number": 1679,
+ "legislation_type": "PRIV",
+ "caption": "Villines, Aubrey T., Jr.; 50 years of distinguished public service at the Georgia State Capitol; commend",
+ "summary": "A RESOLUTION recognizing and commending Aubrey T. Villines Jr. for 50 years of distinguished public service at the Georgia State Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:42:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T14:15:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-12T14:15:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245832,
+   "label": "LC 112 3827/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245832"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:45+00:00",
+  "version:245832": "2026-11-20T20:08:45+00:00",
+  "status:40": "2026-11-20T20:08:45+00:00",
+  "status:33": "2026-11-20T20:08:45+00:00",
+  "status:48": "2026-11-20T20:08:45+00:00"
+ },
+ "updated": "2026-11-20T20:08:45+00:00"
+}

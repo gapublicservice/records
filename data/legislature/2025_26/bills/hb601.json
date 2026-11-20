@@ -1,0 +1,95 @@
+{
+ "key": "HB 601",
+ "slug": "hb601",
+ "session": "2025_26",
+ "legislation_id": 70727,
+ "page": "https://www.legis.ga.gov/legislation/70727",
+ "document_type": "HB",
+ "number": 601,
+ "legislation_type": "GEN",
+ "caption": "Georgia Gun Safe Act of 2025; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 11 of Title 16, Chapter 8 of Title 35, and Article 2 of Chapter 3 of Title 38 of the O.C.G.A., relating to dangerous instrumentalities and practices, the employment and training of peace officers, and organization and administration relative to emergency management, respectively, so as to broadly increase the regulation surrounding gun sales and ownership; to provide for definitions; to provide for conforming changes; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T11:51:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233626,
+   "label": "LC 56 0294/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233626"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:12+00:00",
+  "version:233626": "2026-11-20T18:45:12+00:00",
+  "status:40": "2026-11-20T18:45:12+00:00",
+  "status:33": "2026-11-20T18:45:12+00:00",
+  "status:34": "2026-11-20T18:45:12+00:00"
+ },
+ "updated": "2026-11-20T18:45:12+00:00"
+}

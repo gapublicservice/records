@@ -1,0 +1,82 @@
+{
+ "key": "HR 81",
+ "slug": "hr81",
+ "session": "2025_26",
+ "legislation_id": 69614,
+ "page": "https://www.legis.ga.gov/legislation/69614",
+ "document_type": "HR",
+ "number": 81,
+ "legislation_type": "PRIV",
+ "caption": "International Literacy Day; honoring the contributions of Trinity International University of Ambassadors, and celebrating Dr. Jacqueline Mohair and Dr. Cheryl Polote-Williamson; commend",
+ "summary": "A RESOLUTION recognizing International Literacy Day, honoring the contributions of Trinity International University of Ambassadors, and celebrating Dr. Jacqueline Mohair and Dr. Cheryl Polote-Williamson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:17:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T13:53:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T13:53:33",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230550,
+   "label": "LC 129 0071/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230550"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:34+00:00",
+  "version:230550": "2026-11-20T19:32:34+00:00",
+  "status:40": "2026-11-20T19:32:34+00:00",
+  "status:33": "2026-11-20T19:32:34+00:00",
+  "status:48": "2026-11-20T19:32:34+00:00"
+ },
+ "updated": "2026-11-20T19:32:34+00:00"
+}

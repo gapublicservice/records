@@ -1,0 +1,104 @@
+{
+ "key": "HR 131",
+ "slug": "hr131",
+ "session": "2025_26",
+ "legislation_id": 69783,
+ "page": "https://www.legis.ga.gov/legislation/69783",
+ "document_type": "HR",
+ "number": 131,
+ "legislation_type": "NP",
+ "caption": "Creation of a National Infrastructure Bank; express support",
+ "summary": "A RESOLUTION expressing support for the creation of a National Infrastructure Bank; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5071,
+   "name": "Baker, Sylvia Wayfer 64th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Energy, Utilities & Telecommunications",
+   "id": 128
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-03T11:45:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T10:44:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-05T09:56:26",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230996,
+   "label": "LC 112 2809/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230996"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:49+00:00",
+  "version:230996": "2026-11-20T19:33:49+00:00",
+  "status:40": "2026-11-20T19:33:49+00:00",
+  "status:33": "2026-11-20T19:33:49+00:00",
+  "status:34": "2026-11-20T19:33:49+00:00"
+ },
+ "updated": "2026-11-20T19:33:49+00:00"
+}

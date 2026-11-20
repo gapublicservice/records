@@ -1,0 +1,74 @@
+{
+ "key": "SB 38",
+ "slug": "sb38",
+ "session": "2025_26",
+ "legislation_id": 69559,
+ "page": "https://www.legis.ga.gov/legislation/69559",
+ "document_type": "SB",
+ "number": 38,
+ "legislation_type": "GEN",
+ "caption": "Development Impact Fees; provide for education",
+ "summary": "A BILL to be entitled an Act to amend Chapter 71 of Title 36 of the Official Code of Georgia Annotated, relating to development impact fees, so as to provide for development impact fees for education; to provide for definitions; to provide for the manner of calculation, imposition, and collection of such fees; to provide for related matters; to provide for a contingent effective date and for automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Economic Development and Tourism",
+   "id": 165
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-28T10:35:31",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T10:14:56",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230413,
+   "label": "As introduced LC 49 2149",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230413"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:21:14+00:00",
+  "version:230413": "2026-11-20T20:21:14+00:00",
+  "status:67": "2026-11-20T20:21:14+00:00",
+  "status:3": "2026-11-20T20:21:14+00:00"
+ },
+ "updated": "2026-11-20T20:21:14+00:00"
+}

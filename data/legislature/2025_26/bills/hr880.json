@@ -1,0 +1,89 @@
+{
+ "key": "HR 880",
+ "slug": "hr880",
+ "session": "2025_26",
+ "legislation_id": 71913,
+ "page": "https://www.legis.ga.gov/legislation/71913",
+ "document_type": "HR",
+ "number": 880,
+ "legislation_type": "PRIV",
+ "caption": "Hallmark, Lydia; honor",
+ "summary": "A RESOLUTION honoring Lydia Hallmark; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:15:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T14:42:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T14:42:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238352,
+   "label": "LC 129 0456/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238352"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:33+00:00",
+  "version:238352": "2026-11-20T19:50:33+00:00",
+  "status:40": "2026-11-20T19:50:33+00:00",
+  "status:33": "2026-11-20T19:50:33+00:00",
+  "status:48": "2026-11-20T19:50:33+00:00"
+ },
+ "updated": "2026-11-20T19:50:33+00:00"
+}

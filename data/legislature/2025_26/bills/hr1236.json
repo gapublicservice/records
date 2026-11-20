@@ -1,0 +1,96 @@
+{
+ "key": "HR 1236",
+ "slug": "hr1236",
+ "session": "2025_26",
+ "legislation_id": 72861,
+ "page": "https://www.legis.ga.gov/legislation/72861",
+ "document_type": "HR",
+ "number": 1236,
+ "legislation_type": "PRIV",
+ "caption": "Georgia E-Commerce Auto Dealers Association; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia E-Commerce Auto Dealers Association; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:21:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:44",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241555,
+   "label": "LC 129 0780/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241555"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:31+00:00",
+  "version:241555": "2026-11-20T19:58:31+00:00",
+  "status:40": "2026-11-20T19:58:31+00:00",
+  "status:33": "2026-11-20T19:58:31+00:00",
+  "status:48": "2026-11-20T19:58:31+00:00"
+ },
+ "updated": "2026-11-20T19:58:31+00:00"
+}

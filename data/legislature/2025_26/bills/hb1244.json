@@ -1,0 +1,116 @@
+{
+ "key": "HB 1244",
+ "slug": "hb1244",
+ "session": "2025_26",
+ "legislation_id": 72974,
+ "page": "https://www.legis.ga.gov/legislation/72974",
+ "document_type": "HB",
+ "number": 1244,
+ "legislation_type": "GEN",
+ "caption": "Education; duty-free lunch period and planning period requirements; provisions",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-218 of the Official Code of Georgia Annotated, relating to duty-free lunch period and planning period required, exemption for extenuating circumstances, and funding, so as to provide that said Code section shall not be subject to waiver; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:23:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T09:52:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244538,
+   "label": "LC 61 0444S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244538"
+  },
+  {
+   "doc_id": 241876,
+   "label": "LC 61 0329/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241876"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:25+00:00",
+  "version:244538": "2026-11-20T19:15:25+00:00",
+  "version:241876": "2026-11-20T19:15:25+00:00",
+  "status:40": "2026-11-20T19:15:25+00:00",
+  "status:33": "2026-11-20T19:15:25+00:00",
+  "status:34": "2026-11-20T19:15:25+00:00",
+  "status:39": "2026-11-20T19:15:25+00:00"
+ },
+ "updated": "2026-11-20T19:15:25+00:00"
+}

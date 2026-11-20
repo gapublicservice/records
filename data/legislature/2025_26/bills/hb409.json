@@ -1,0 +1,88 @@
+{
+ "key": "HB 409",
+ "slug": "hb409",
+ "session": "2025_26",
+ "legislation_id": 70250,
+ "page": "https://www.legis.ga.gov/legislation/70250",
+ "document_type": "HB",
+ "number": 409,
+ "legislation_type": "GEN",
+ "caption": "Income tax; exempt all retirement income received as retirement benefits in the armed forces of the United States or the reserve components",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to exempt from taxation all retirement income received as retirement benefits derived from service in the armed forces of the United States or the reserve components thereof; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5048,
+   "name": "Heffner, Lynn 130th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-12T11:21:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T10:07:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T13:26:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232254,
+   "label": "LC 59 0076/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232254"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:36:14+00:00",
+  "version:232254": "2026-11-20T18:36:14+00:00",
+  "status:40": "2026-11-20T18:36:14+00:00",
+  "status:33": "2026-11-20T18:36:14+00:00",
+  "status:34": "2026-11-20T18:36:14+00:00"
+ },
+ "updated": "2026-11-20T18:36:14+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 1171",
+ "slug": "hb1171",
+ "session": "2025_26",
+ "legislation_id": 72782,
+ "page": "https://www.legis.ga.gov/legislation/72782",
+ "document_type": "HB",
+ "number": 1171,
+ "legislation_type": "GEN",
+ "caption": "Landlord and tenant; establish minimum habitability standards consistent with recognized housing standards",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 44 of the Official Code of Georgia Annotated, relating to general provisions regarding landlord and tenant, so as to establish minimum habitability standards consistent with recognized housing standards; to prohibit waivers of such standards; to provide for enforcement and clarification of existing landlord duties; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4938,
+   "name": "Williams, Mary Frances 37th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-03T12:07:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T10:31:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-05T10:11:09",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241345,
+   "label": "LC 28 0735/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241345"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:12:23+00:00",
+  "version:241345": "2026-11-20T19:12:23+00:00",
+  "status:40": "2026-11-20T19:12:23+00:00",
+  "status:33": "2026-11-20T19:12:23+00:00",
+  "status:34": "2026-11-20T19:12:23+00:00"
+ },
+ "updated": "2026-11-20T19:12:23+00:00"
+}

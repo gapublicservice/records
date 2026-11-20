@@ -1,0 +1,89 @@
+{
+ "key": "HR 1015",
+ "slug": "hr1015",
+ "session": "2025_26",
+ "legislation_id": 72222,
+ "page": "https://www.legis.ga.gov/legislation/72222",
+ "document_type": "HR",
+ "number": 1015,
+ "legislation_type": "PRIV",
+ "caption": "Seminole County Youth Poll Worker Initiative; commend",
+ "summary": "A RESOLUTION commending the Seminole County Youth Poll Worker Initiative; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-14T13:00:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-14T13:22:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-14T13:22:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239850,
+   "label": "LC 129 0559/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239850"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:38+00:00",
+  "version:239850": "2026-11-20T19:53:38+00:00",
+  "status:40": "2026-11-20T19:53:38+00:00",
+  "status:33": "2026-11-20T19:53:38+00:00",
+  "status:48": "2026-11-20T19:53:38+00:00"
+ },
+ "updated": "2026-11-20T19:53:38+00:00"
+}

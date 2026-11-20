@@ -1,0 +1,110 @@
+{
+ "key": "SR 974",
+ "slug": "sr974",
+ "session": "2025_26",
+ "legislation_id": 74168,
+ "page": "https://www.legis.ga.gov/legislation/74168",
+ "document_type": "SR",
+ "number": 974,
+ "legislation_type": "PRIV",
+ "caption": "Pace Day; recognize March 19, 2026",
+ "summary": "A RESOLUTION recognizing March 19, 2026, as Pace Day at the Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4978,
+   "name": "Merritt, Nikki 9th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T09:01:35",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-19T12:00:41",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246233,
+   "label": "Read and adopted LC 112 3861",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246233"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:13:02+00:00",
+  "version:246233": "2026-11-20T21:13:02+00:00",
+  "status:67": "2026-11-20T21:13:02+00:00",
+  "status:66": "2026-11-20T21:13:02+00:00"
+ },
+ "updated": "2026-11-20T21:13:02+00:00"
+}

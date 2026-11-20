@@ -1,0 +1,81 @@
+{
+ "key": "SB 581",
+ "slug": "sb581",
+ "session": "2025_26",
+ "legislation_id": 73628,
+ "page": "https://www.legis.ga.gov/legislation/73628",
+ "document_type": "SB",
+ "number": 581,
+ "legislation_type": "GEN",
+ "caption": "Vital Records; cremation permits that are distinct from disposition permits; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 10 of Title 31 of the Official Code of Georgia Annotated, relating to vital records, so as to provide for cremation permits that are distinct from disposition permits; to provide for permits for cremations and organic reductions; to provide certain requirements for the issuance of cremation and organic reduction permits; to provide for exceptions; to amend Code Section 53-2-27 of the Official Code of Georgia Annotated, relating to DNA testing for kinship, procedure, and cost, so as to provide for a conforming change; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T11:30:11",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T10:09:45",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244008,
+   "label": "As Introduced LC 46 1309",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244008"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:47:49+00:00",
+  "version:244008": "2026-11-20T20:47:49+00:00",
+  "status:67": "2026-11-20T20:47:49+00:00",
+  "status:3": "2026-11-20T20:47:49+00:00"
+ },
+ "updated": "2026-11-20T20:47:49+00:00"
+}

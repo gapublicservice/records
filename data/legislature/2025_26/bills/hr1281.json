@@ -1,0 +1,96 @@
+{
+ "key": "HR 1281",
+ "slug": "hr1281",
+ "session": "2025_26",
+ "legislation_id": 72990,
+ "page": "https://www.legis.ga.gov/legislation/72990",
+ "document_type": "HR",
+ "number": 1281,
+ "legislation_type": "PRIV",
+ "caption": "Roots and Routes Indo-US Chamber of Commerce; commend",
+ "summary": "A RESOLUTION recognizing and commending Roots and Routes Indo-US Chamber of Commerce; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T12:00:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241927,
+   "label": "LC 129 0763/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241927"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:36+00:00",
+  "version:241927": "2026-11-20T19:59:36+00:00",
+  "status:40": "2026-11-20T19:59:36+00:00",
+  "status:33": "2026-11-20T19:59:36+00:00",
+  "status:48": "2026-11-20T19:59:36+00:00"
+ },
+ "updated": "2026-11-20T19:59:36+00:00"
+}

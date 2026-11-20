@@ -1,0 +1,102 @@
+{
+ "key": "SB 327",
+ "slug": "sb327",
+ "session": "2025_26",
+ "legislation_id": 71251,
+ "page": "https://www.legis.ga.gov/legislation/71251",
+ "document_type": "SB",
+ "number": 327,
+ "legislation_type": "GEN",
+ "caption": "Clayton Judicial Circuit; sixth judge of the superior courts; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-6-2 of the O.C.G.A., relating to the number of judges of superior courts, so as to provide for a sixth judge of the superior courts of the Clayton Judicial Circuit; to provide for related matters; to provide for effective dates; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-07T11:17:51",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-10T11:08:21",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-02-24T09:48:51",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2026-02-25T10:27:26",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243606,
+   "label": "Committee Sub LC 49 2731S",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243606"
+  },
+  {
+   "doc_id": 235703,
+   "label": "As introduced LC 47 3530",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235703"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:36:07+00:00",
+  "version:243606": "2026-11-20T20:36:07+00:00",
+  "version:235703": "2026-11-20T20:36:07+00:00",
+  "status:67": "2026-11-20T20:36:07+00:00",
+  "status:3": "2026-11-20T20:36:07+00:00",
+  "status:8": "2026-11-20T20:36:07+00:00",
+  "status:10": "2026-11-20T20:36:07+00:00",
+  "status:64": "2026-11-20T20:36:07+00:00"
+ },
+ "updated": "2026-11-20T20:36:07+00:00"
+}

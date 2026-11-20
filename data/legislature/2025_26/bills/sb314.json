@@ -1,0 +1,95 @@
+{
+ "key": "SB 314",
+ "slug": "sb314",
+ "session": "2025_26",
+ "legislation_id": 71029,
+ "page": "https://www.legis.ga.gov/legislation/71029",
+ "document_type": "SB",
+ "number": 314,
+ "legislation_type": "GEN",
+ "caption": "\"Wholesale Prescription Drug Importation Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to provide for the establishment of a wholesale prescription drug importation program and the procedures for implementing such program; to provide for definitions; to provide for related matters; to provide for contingent effectiveness upon appropriation of funds; to provide for a short title; to provide for a legislative finding; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T11:27:22",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-03T13:27:56",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234605,
+   "label": "As introduced LC 46 1151",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234605"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:35:44+00:00",
+  "version:234605": "2026-11-20T20:35:44+00:00",
+  "status:67": "2026-11-20T20:35:44+00:00",
+  "status:3": "2026-11-20T20:35:44+00:00"
+ },
+ "updated": "2026-11-20T20:35:44+00:00"
+}

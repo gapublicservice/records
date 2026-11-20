@@ -1,0 +1,96 @@
+{
+ "key": "HR 1756",
+ "slug": "hr1756",
+ "session": "2025_26",
+ "legislation_id": 74219,
+ "page": "https://www.legis.ga.gov/legislation/74219",
+ "document_type": "HR",
+ "number": 1756,
+ "legislation_type": "PRIV",
+ "caption": "White, Andre Moses; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Andre Moses White; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:32:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246449,
+   "label": "LC 129 1441/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246449"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:24+00:00",
+  "version:246449": "2026-11-20T20:10:24+00:00",
+  "status:40": "2026-11-20T20:10:24+00:00",
+  "status:33": "2026-11-20T20:10:24+00:00",
+  "status:48": "2026-11-20T20:10:24+00:00"
+ },
+ "updated": "2026-11-20T20:10:24+00:00"
+}

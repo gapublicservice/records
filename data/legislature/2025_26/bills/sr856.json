@@ -1,0 +1,82 @@
+{
+ "key": "SR 856",
+ "slug": "sr856",
+ "session": "2025_26",
+ "legislation_id": 73621,
+ "page": "https://www.legis.ga.gov/legislation/73621",
+ "document_type": "SR",
+ "number": 856,
+ "legislation_type": "PRIV",
+ "caption": "Palmer, Officer Terry \"J\"; commend",
+ "summary": "A RESOLUTION commending Officer Terry \"J\" Palmer; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-25T10:46:44",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-26T12:08:47",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243992,
+   "label": "Read and adopted LC 112 3732",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243992"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:10:19+00:00",
+  "version:243992": "2026-11-20T21:10:19+00:00",
+  "status:67": "2026-11-20T21:10:19+00:00",
+  "status:66": "2026-11-20T21:10:19+00:00"
+ },
+ "updated": "2026-11-20T21:10:19+00:00"
+}

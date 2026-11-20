@@ -1,0 +1,102 @@
+{
+ "key": "HB 272",
+ "slug": "hb272",
+ "session": "2025_26",
+ "legislation_id": 69939,
+ "page": "https://www.legis.ga.gov/legislation/69939",
+ "document_type": "HB",
+ "number": 272,
+ "legislation_type": "GEN",
+ "caption": "Revenue and taxation; definitions; change certain provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 48 of the Official Code of Georgia Annotated, relating to general provisions regarding revenue and taxation, so as to change certain provisions regarding definitions; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-05T11:02:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T10:16:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T13:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231471,
+   "label": "LC 50 1016/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231471"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:29:36+00:00",
+  "version:231471": "2026-11-20T18:29:36+00:00",
+  "status:40": "2026-11-20T18:29:36+00:00",
+  "status:33": "2026-11-20T18:29:36+00:00",
+  "status:34": "2026-11-20T18:29:36+00:00"
+ },
+ "updated": "2026-11-20T18:29:36+00:00"
+}

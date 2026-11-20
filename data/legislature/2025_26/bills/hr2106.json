@@ -1,0 +1,61 @@
+{
+ "key": "HR 2106",
+ "slug": "hr2106",
+ "session": "2025_26",
+ "legislation_id": 74719,
+ "page": "https://www.legis.ga.gov/legislation/74719",
+ "document_type": "HR",
+ "number": 2106,
+ "legislation_type": "PRIV",
+ "caption": "Davis, William Edward \"Ed\"; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of William Edward \"Ed\" Davis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:28:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248843,
+   "label": "LC 112 4244/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248843"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:18:17+00:00",
+  "version:248843": "2026-11-20T20:18:17+00:00",
+  "status:40": "2026-11-20T20:18:17+00:00",
+  "status:33": "2026-11-20T20:18:17+00:00",
+  "status:48": "2026-11-20T20:18:17+00:00"
+ },
+ "updated": "2026-11-20T20:18:17+00:00"
+}

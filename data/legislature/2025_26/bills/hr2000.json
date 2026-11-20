@@ -1,0 +1,96 @@
+{
+ "key": "HR 2000",
+ "slug": "hr2000",
+ "session": "2025_26",
+ "legislation_id": 74570,
+ "page": "https://www.legis.ga.gov/legislation/74570",
+ "document_type": "HR",
+ "number": 2000,
+ "legislation_type": "PRIV",
+ "caption": "Holy Week; March 29 to April 4, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 29 to April 4, 2026, as Holy Week; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5022,
+   "name": "McCollum, Derrick 30th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:09:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:26",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:28",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247989,
+   "label": "LC 112 4066/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247989"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:41+00:00",
+  "version:247989": "2026-11-20T20:15:41+00:00",
+  "status:40": "2026-11-20T20:15:41+00:00",
+  "status:33": "2026-11-20T20:15:41+00:00",
+  "status:48": "2026-11-20T20:15:41+00:00"
+ },
+ "updated": "2026-11-20T20:15:41+00:00"
+}

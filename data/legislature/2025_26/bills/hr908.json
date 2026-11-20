@@ -1,0 +1,61 @@
+{
+ "key": "HR 908",
+ "slug": "hr908",
+ "session": "2025_26",
+ "legislation_id": 72011,
+ "page": "https://www.legis.ga.gov/legislation/72011",
+ "document_type": "HR",
+ "number": 908,
+ "legislation_type": "PRIV",
+ "caption": "McMichen, Ella Levenia Sosebee; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Ella Levenia Sosebee McMichen; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:44:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:36",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238939,
+   "label": "LC 112 3577/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238939"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:12+00:00",
+  "version:238939": "2026-11-20T19:51:12+00:00",
+  "status:40": "2026-11-20T19:51:12+00:00",
+  "status:33": "2026-11-20T19:51:12+00:00",
+  "status:48": "2026-11-20T19:51:12+00:00"
+ },
+ "updated": "2026-11-20T19:51:12+00:00"
+}

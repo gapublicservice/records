@@ -1,0 +1,102 @@
+{
+ "key": "HB 243",
+ "slug": "hb243",
+ "session": "2025_26",
+ "legislation_id": 69848,
+ "page": "https://www.legis.ga.gov/legislation/69848",
+ "document_type": "HB",
+ "number": 243,
+ "legislation_type": "GEN",
+ "caption": "Stone Mountain Memorial Association; revise purpose",
+ "summary": "A BILL to be entitled an Act to amend Part 4 of Article 6 of Chapter 3 of Title 12 of the Official Code of Georgia Annotated, relating to the Stone Mountain Memorial Association, so as to revise the purpose of the association; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:05:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231142,
+   "label": "LC 33 9739/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231142"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:16+00:00",
+  "version:231142": "2026-11-20T18:28:16+00:00",
+  "status:40": "2026-11-20T18:28:16+00:00",
+  "status:33": "2026-11-20T18:28:16+00:00",
+  "status:34": "2026-11-20T18:28:16+00:00"
+ },
+ "updated": "2026-11-20T18:28:16+00:00"
+}

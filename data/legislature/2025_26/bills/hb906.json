@@ -1,0 +1,81 @@
+{
+ "key": "HB 906",
+ "slug": "hb906",
+ "session": "2025_26",
+ "legislation_id": 71989,
+ "page": "https://www.legis.ga.gov/legislation/71989",
+ "document_type": "HB",
+ "number": 906,
+ "legislation_type": "GEN",
+ "caption": "Health; require long-term care facilities to post a link on their websites to the official website of the office of the long-term care ombudsman",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 8 of Title 31 of the Official Code of Georgia Annotated, relating to the Long-term Care Ombudsman Program, so as to require long-term care facilities to post a link on their websites to the official website of the office of the long-term care ombudsman; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 832,
+   "name": "Smith, Michael 41st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Human Relations & Aging",
+   "id": 93
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T15:00:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-20T11:29:22",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243435,
+   "label": "LC 60 0314S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243435"
+  },
+  {
+   "doc_id": 238787,
+   "label": "LC 60 0168/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238787"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:18+00:00",
+  "version:243435": "2026-11-20T19:01:18+00:00",
+  "version:238787": "2026-11-20T19:01:18+00:00",
+  "status:40": "2026-11-20T19:01:18+00:00",
+  "status:33": "2026-11-20T19:01:18+00:00",
+  "status:34": "2026-11-20T19:01:18+00:00",
+  "status:39": "2026-11-20T19:01:18+00:00"
+ },
+ "updated": "2026-11-20T19:01:18+00:00"
+}

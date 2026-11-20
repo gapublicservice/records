@@ -1,0 +1,61 @@
+{
+ "key": "HR 1161",
+ "slug": "hr1161",
+ "session": "2025_26",
+ "legislation_id": 72648,
+ "page": "https://www.legis.ga.gov/legislation/72648",
+ "document_type": "HR",
+ "number": 1161,
+ "legislation_type": "PRIV",
+ "caption": "Latino Day at the state capitol; February 5, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 5, 2026, as Latino Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:43:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240974,
+   "label": "LC 129 0810/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240974"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:54+00:00",
+  "version:240974": "2026-11-20T19:56:54+00:00",
+  "status:40": "2026-11-20T19:56:54+00:00",
+  "status:33": "2026-11-20T19:56:54+00:00",
+  "status:48": "2026-11-20T19:56:54+00:00"
+ },
+ "updated": "2026-11-20T19:56:54+00:00"
+}

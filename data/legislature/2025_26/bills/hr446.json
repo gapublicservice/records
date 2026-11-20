@@ -1,0 +1,75 @@
+{
+ "key": "HR 446",
+ "slug": "hr446",
+ "session": "2025_26",
+ "legislation_id": 71000,
+ "page": "https://www.legis.ga.gov/legislation/71000",
+ "document_type": "HR",
+ "number": 446,
+ "legislation_type": "PRIV",
+ "caption": "Holmes, Charvez; Peach County's 2025 Teacher of the Year; commend",
+ "summary": "A RESOLUTION commending Charvez Holmes, Peach County's 2025 Teacher of the Year; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-27T15:22:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T15:48:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T15:48:56",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234494,
+   "label": "LC 129 0218/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234494"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:45+00:00",
+  "version:234494": "2026-11-20T19:40:45+00:00",
+  "status:40": "2026-11-20T19:40:45+00:00",
+  "status:33": "2026-11-20T19:40:45+00:00",
+  "status:48": "2026-11-20T19:40:45+00:00"
+ },
+ "updated": "2026-11-20T19:40:45+00:00"
+}

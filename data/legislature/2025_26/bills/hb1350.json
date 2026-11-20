@@ -1,0 +1,102 @@
+{
+ "key": "HB 1350",
+ "slug": "hb1350",
+ "session": "2025_26",
+ "legislation_id": 73294,
+ "page": "https://www.legis.ga.gov/legislation/73294",
+ "document_type": "HB",
+ "number": 1350,
+ "legislation_type": "GEN",
+ "caption": "Georgia Medical Freedom Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to protect the rights of individuals to make autonomous decisions regarding medical interventions; to prohibit exclusion based on medical interventions; to repeal the authority of the Department of Public Health and all county boards of health to require persons to submit to vaccinations or other measures to prevent contagious or infectious diseases; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 797,
+   "name": "Dunahoo, Emory 31st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T13:45:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242853,
+   "label": "LC 52 1026/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242853"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:05+00:00",
+  "version:242853": "2026-11-20T19:20:05+00:00",
+  "status:40": "2026-11-20T19:20:05+00:00",
+  "status:33": "2026-11-20T19:20:05+00:00",
+  "status:34": "2026-11-20T19:20:05+00:00"
+ },
+ "updated": "2026-11-20T19:20:05+00:00"
+}

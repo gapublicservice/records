@@ -1,0 +1,89 @@
+{
+ "key": "HR 1063",
+ "slug": "hr1063",
+ "session": "2025_26",
+ "legislation_id": 72412,
+ "page": "https://www.legis.ga.gov/legislation/72412",
+ "document_type": "HR",
+ "number": 1063,
+ "legislation_type": "PRIV",
+ "caption": "Henderson, Chief Gordon; honoring the life and dedicated service; condolences",
+ "summary": "A RESOLUTION commending and honoring the life and dedicated service of Chief Gordon Henderson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T14:16:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T15:41:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T15:41:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240369,
+   "label": "LC 129 0624/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240369"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:47+00:00",
+  "version:240369": "2026-11-20T19:54:47+00:00",
+  "status:40": "2026-11-20T19:54:47+00:00",
+  "status:33": "2026-11-20T19:54:47+00:00",
+  "status:48": "2026-11-20T19:54:47+00:00"
+ },
+ "updated": "2026-11-20T19:54:47+00:00"
+}

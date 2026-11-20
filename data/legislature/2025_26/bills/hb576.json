@@ -1,0 +1,109 @@
+{
+ "key": "HB 576",
+ "slug": "hb576",
+ "session": "2025_26",
+ "legislation_id": 70663,
+ "page": "https://www.legis.ga.gov/legislation/70663",
+ "document_type": "HB",
+ "number": 576,
+ "legislation_type": "GEN",
+ "caption": "Commerce and trade; require that the processing of transactions initiated by users of peer-to-peer payment platforms by delayed",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to the \"Fair Business Practices Act of 1975,\" so as to require that the processing of transactions initiated by users of peer-to-peer payment platforms be delayed; to provide for the cancellation of such transactions during such delay period; to provide for penalties; to provide definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T11:19:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T11:52:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-27T12:12:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233485,
+   "label": "LC 55 0531/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233485"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:50+00:00",
+  "version:233485": "2026-11-20T18:43:50+00:00",
+  "status:40": "2026-11-20T18:43:50+00:00",
+  "status:33": "2026-11-20T18:43:50+00:00",
+  "status:34": "2026-11-20T18:43:50+00:00",
+  "status:39": "2026-11-20T18:43:50+00:00",
+  "status:50": "2026-11-20T18:43:50+00:00"
+ },
+ "updated": "2026-11-20T18:43:50+00:00"
+}

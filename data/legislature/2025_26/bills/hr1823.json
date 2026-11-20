@@ -1,0 +1,68 @@
+{
+ "key": "HR 1823",
+ "slug": "hr1823",
+ "session": "2025_26",
+ "legislation_id": 74304,
+ "page": "https://www.legis.ga.gov/legislation/74304",
+ "document_type": "HR",
+ "number": 1823,
+ "legislation_type": "PRIV",
+ "caption": "Hays, Linda; 50 years of service to the Newton County Government; honor",
+ "summary": "A RESOLUTION honoring Linda Hays for her 50 years of service to the Newton County Government; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-19T14:15:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T14:51:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T14:51:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246720,
+   "label": "LC 129 1417/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246720"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:50+00:00",
+  "version:246720": "2026-11-20T20:11:50+00:00",
+  "status:40": "2026-11-20T20:11:50+00:00",
+  "status:33": "2026-11-20T20:11:50+00:00",
+  "status:48": "2026-11-20T20:11:50+00:00"
+ },
+ "updated": "2026-11-20T20:11:50+00:00"
+}

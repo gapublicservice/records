@@ -1,0 +1,102 @@
+{
+ "key": "HB 1255",
+ "slug": "hb1255",
+ "session": "2025_26",
+ "legislation_id": 73025,
+ "page": "https://www.legis.ga.gov/legislation/73025",
+ "document_type": "HB",
+ "number": 1255,
+ "legislation_type": "GEN",
+ "caption": "Criminal procedure; motions and discovery; modify provisions",
+ "summary": "A BILL to be entitled an Act to amend Title 17 and Article 2 of Chapter 13 of Title 24 of the Official Code of Georgia Annotated, relating to criminal procedure and subpoenas and notice to produce, respectively, so as to modify provisions relating to motions and discovery in criminal cases; to modernize discovery processes; to revise provisions relating to service of subpoenas; to amend Code Section 35-3-151 of the Official Code of Georgia Annotated, relating to responsibilities of the Division of Forensic Sciences, so to correct a cross-reference; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T12:23:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T10:29:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T10:36:04",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245211,
+   "label": "LC 48 1817S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245211"
+  },
+  {
+   "doc_id": 242056,
+   "label": "LC 48 1709/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242056"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:13+00:00",
+  "version:245211": "2026-11-20T19:16:13+00:00",
+  "version:242056": "2026-11-20T19:16:13+00:00",
+  "status:40": "2026-11-20T19:16:13+00:00",
+  "status:33": "2026-11-20T19:16:13+00:00",
+  "status:34": "2026-11-20T19:16:13+00:00",
+  "status:39": "2026-11-20T19:16:13+00:00"
+ },
+ "updated": "2026-11-20T19:16:13+00:00"
+}

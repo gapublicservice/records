@@ -1,0 +1,95 @@
+{
+ "key": "HB 1099",
+ "slug": "hb1099",
+ "session": "2025_26",
+ "legislation_id": 72615,
+ "page": "https://www.legis.ga.gov/legislation/72615",
+ "document_type": "HB",
+ "number": 1099,
+ "legislation_type": "GEN",
+ "caption": "Blind Persons' Braille Literacy Rights and Education Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to educational programs in elementary and secondary education, so as to enact the \"Blind Persons' Braille Literacy Rights and Education Act\"; to provide definitions; to require an evaluation of a blind or visually impaired student to determine such student's need for Braille instruction; to require Braille instruction in the Individualized Education Program of a blind or visually impaired student as appropriate; to provide additional requirements for the Individualized Education Program of a blind or visually impaired student; to provide requirements for textbook publishers relating to electronic materials; to provide license requirements relating to Braille for certain teachers; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5072,
+   "name": "Dawson, Robert 65th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:13:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240916,
+   "label": "LC 61 0311/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240916"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:13+00:00",
+  "version:240916": "2026-11-20T19:09:13+00:00",
+  "status:40": "2026-11-20T19:09:13+00:00",
+  "status:33": "2026-11-20T19:09:13+00:00",
+  "status:34": "2026-11-20T19:09:13+00:00"
+ },
+ "updated": "2026-11-20T19:09:13+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "SR 473",
+ "slug": "sr473",
+ "session": "2025_26",
+ "legislation_id": 71713,
+ "page": "https://www.legis.ga.gov/legislation/71713",
+ "document_type": "SR",
+ "number": 473,
+ "legislation_type": "PRIV",
+ "caption": "Black Man Lab; honor",
+ "summary": "A RESOLUTION honoring the Black Man Lab for its dedication to empowering Black men and enriching the community; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-26T15:57:21",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-27T16:30:10",
+   "code": "SWREC",
+   "action": "Senate Withdrawn Bill/Res Consideration",
+   "id": 106
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237452,
+   "label": "Read and adopted LC 112 3543",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237452"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:01:24+00:00",
+  "version:237452": "2026-11-20T21:01:24+00:00",
+  "status:67": "2026-11-20T21:01:24+00:00",
+  "status:106": "2026-11-20T21:01:24+00:00"
+ },
+ "updated": "2026-11-20T21:01:24+00:00"
+}

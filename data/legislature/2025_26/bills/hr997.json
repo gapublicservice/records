@@ -1,0 +1,75 @@
+{
+ "key": "HR 997",
+ "slug": "hr997",
+ "session": "2025_26",
+ "legislation_id": 72126,
+ "page": "https://www.legis.ga.gov/legislation/72126",
+ "document_type": "HR",
+ "number": 997,
+ "legislation_type": "NP",
+ "caption": "Joint session; message from the Governor",
+ "summary": "A RESOLUTION calling a joint session of the House of Representatives and the Senate for the purpose of hearing a message from the Governor; inviting the Justices of the Supreme Court and the Judges of the Court of Appeals to be present at the joint session; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-09T10:51:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-12T11:11:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:11:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  },
+  {
+   "date": "2026-01-12T11:50:05",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  },
+  {
+   "date": "2026-01-12T11:53:41",
+   "code": "STH",
+   "action": "Senate Transmitted House",
+   "id": 60
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239606,
+   "label": "LC 33 9847/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239606"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:07+00:00",
+  "version:239606": "2026-11-20T19:53:07+00:00",
+  "status:40": "2026-11-20T19:53:07+00:00",
+  "status:33": "2026-11-20T19:53:07+00:00",
+  "status:48": "2026-11-20T19:53:07+00:00",
+  "status:66": "2026-11-20T19:53:07+00:00",
+  "status:60": "2026-11-20T19:53:07+00:00"
+ },
+ "updated": "2026-11-20T19:53:07+00:00"
+}

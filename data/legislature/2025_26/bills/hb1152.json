@@ -1,0 +1,102 @@
+{
+ "key": "HB 1152",
+ "slug": "hb1152",
+ "session": "2025_26",
+ "legislation_id": 72713,
+ "page": "https://www.legis.ga.gov/legislation/72713",
+ "document_type": "HB",
+ "number": 1152,
+ "legislation_type": "GEN",
+ "caption": "Health Coverage Affordability and Fairness Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 48-7-27 of the Official Code of Georgia Annotated, relating to computation of taxable net income, so as to provide for an income tax deduction for certain health insurance premium payments by individuals; to provide for income based caps; to provide a short title; to provide for legislative findings; to provide for related matters; to provide an effective date; to provide for applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:28:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241157,
+   "label": "LC 59 0254/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241157"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:34+00:00",
+  "version:241157": "2026-11-20T19:11:34+00:00",
+  "status:40": "2026-11-20T19:11:34+00:00",
+  "status:33": "2026-11-20T19:11:34+00:00",
+  "status:34": "2026-11-20T19:11:34+00:00"
+ },
+ "updated": "2026-11-20T19:11:34+00:00"
+}

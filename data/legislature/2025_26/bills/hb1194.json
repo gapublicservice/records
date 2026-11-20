@@ -1,0 +1,88 @@
+{
+ "key": "HB 1194",
+ "slug": "hb1194",
+ "session": "2025_26",
+ "legislation_id": 72843,
+ "page": "https://www.legis.ga.gov/legislation/72843",
+ "document_type": "HB",
+ "number": 1194,
+ "legislation_type": "GEN",
+ "caption": "Insurance; clarify periods of time for transportation network company services",
+ "summary": "A BILL to be entitled an Act to amend Code Section 33-1-24 of the Official Code of Georgia Annotated, relating to insurance requirements for transportation network companies and their drivers, so as to clarify periods of time for transportation network company services; to provide for a definition; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-04T12:25:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-05T10:32:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T09:34:47",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241513,
+   "label": "LC 52 0979/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241513"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:13:23+00:00",
+  "version:241513": "2026-11-20T19:13:23+00:00",
+  "status:40": "2026-11-20T19:13:23+00:00",
+  "status:33": "2026-11-20T19:13:23+00:00",
+  "status:34": "2026-11-20T19:13:23+00:00"
+ },
+ "updated": "2026-11-20T19:13:23+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1744",
+ "slug": "hr1744",
+ "session": "2025_26",
+ "legislation_id": 74161,
+ "page": "https://www.legis.ga.gov/legislation/74161",
+ "document_type": "HR",
+ "number": 1744,
+ "legislation_type": "PRIV",
+ "caption": "Black Maternal Heath Week; April 11-17, 2026; recognize",
+ "summary": "A RESOLUTION recognizing April 11-17, 2026, as Black Maternal Health Week; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-16T14:08:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T15:05:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T15:05:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246088,
+   "label": "LC 112 3853/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246088"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:08+00:00",
+  "version:246088": "2026-11-20T20:10:08+00:00",
+  "status:40": "2026-11-20T20:10:08+00:00",
+  "status:33": "2026-11-20T20:10:08+00:00",
+  "status:48": "2026-11-20T20:10:08+00:00"
+ },
+ "updated": "2026-11-20T20:10:08+00:00"
+}

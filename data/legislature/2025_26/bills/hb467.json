@@ -1,0 +1,136 @@
+{
+ "key": "HB 467",
+ "slug": "hb467",
+ "session": "2025_26",
+ "legislation_id": 70379,
+ "page": "https://www.legis.ga.gov/legislation/70379",
+ "document_type": "HB",
+ "number": 467,
+ "legislation_type": "GEN",
+ "caption": "State flag, seal, and other symbols; protection of government statues and monuments; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 50 of the Official Code of Georgia Annotated, relating to state flag, seal, and other symbols, so as to revise provisions for the protection of government statues, monuments, plaques, banners, and other commemorative symbols; to provide for construction; to provide for severability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T13:48:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-27T11:31:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T10:07:38",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245235,
+   "label": "LC 48 0751S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245235"
+  },
+  {
+   "doc_id": 234337,
+   "label": "LC 28 0679S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234337"
+  },
+  {
+   "doc_id": 232612,
+   "label": "LC 28 0670/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232612"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:39:22+00:00",
+  "version:245235": "2026-11-20T18:39:22+00:00",
+  "version:234337": "2026-11-20T18:39:22+00:00",
+  "version:232612": "2026-11-20T18:39:22+00:00",
+  "status:40": "2026-11-20T18:39:22+00:00",
+  "status:33": "2026-11-20T18:39:22+00:00",
+  "status:34": "2026-11-20T18:39:22+00:00",
+  "status:39": "2026-11-20T18:39:22+00:00",
+  "status:50": "2026-11-20T18:39:22+00:00"
+ },
+ "updated": "2026-11-20T18:39:22+00:00"
+}

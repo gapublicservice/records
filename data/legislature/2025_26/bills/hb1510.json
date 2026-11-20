@@ -1,0 +1,97 @@
+{
+ "key": "HB 1510",
+ "slug": "hb1510",
+ "session": "2025_26",
+ "legislation_id": 73884,
+ "page": "https://www.legis.ga.gov/legislation/73884",
+ "document_type": "HB",
+ "number": 1510,
+ "legislation_type": "GEN",
+ "caption": "Elections; judicially incompetent persons; restrict voting rights",
+ "summary": "A BILL to be entitled an Act to amend Code Section 21-2-216 of the Official Code of Georgia Annotated, relating to qualifications of electors generally, reregistration of electors purged from list, eligibility of nonresidents who vote in presidential elections, retention of qualification for standing as elector, evidence of citizenship, and check of convicted felons and deceased persons databases, so as to restrict voting rights for judicially incompetent persons; to provide for related matters; to provide for a contingent effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-04T12:12:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T10:42:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-09T13:20:34",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245012,
+   "label": "LC 48 1737/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245012"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:25:28+00:00",
+  "version:245012": "2026-11-20T19:25:28+00:00",
+  "status:40": "2026-11-20T19:25:28+00:00",
+  "status:33": "2026-11-20T19:25:28+00:00",
+  "status:34": "2026-11-20T19:25:28+00:00"
+ },
+ "updated": "2026-11-20T19:25:28+00:00"
+}

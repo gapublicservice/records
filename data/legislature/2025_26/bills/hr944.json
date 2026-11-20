@@ -1,0 +1,68 @@
+{
+ "key": "HR 944",
+ "slug": "hr944",
+ "session": "2025_26",
+ "legislation_id": 72048,
+ "page": "https://www.legis.ga.gov/legislation/72048",
+ "document_type": "HR",
+ "number": 944,
+ "legislation_type": "PRIV",
+ "caption": "V&L Research and Consulting; commend",
+ "summary": "A RESOLUTION congratulating and commending V&L Research and Consulting; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:59:39",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238966,
+   "label": "LC 129 0454/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238966"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:58+00:00",
+  "version:238966": "2026-11-20T19:51:58+00:00",
+  "status:40": "2026-11-20T19:51:58+00:00",
+  "status:33": "2026-11-20T19:51:58+00:00",
+  "status:48": "2026-11-20T19:51:58+00:00"
+ },
+ "updated": "2026-11-20T19:51:58+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 897",
+ "slug": "hb897",
+ "session": "2025_26",
+ "legislation_id": 71970,
+ "page": "https://www.legis.ga.gov/legislation/71970",
+ "document_type": "HB",
+ "number": 897,
+ "legislation_type": "GEN",
+ "caption": "Urgent Insulin Safety Net Program Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance, so as to make insulin accessible to individuals who are in urgent need of a short-term affordable insulin supply; to require a manufacturer of insulin to establish procedures to make insulin available under such program; to provide for enforcement, penalties, and appellate procedures; to provide for reporting; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T11:50:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238733,
+   "label": "LC 57 9000/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238733"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:01+00:00",
+  "version:238733": "2026-11-20T19:01:01+00:00",
+  "status:40": "2026-11-20T19:01:01+00:00",
+  "status:33": "2026-11-20T19:01:01+00:00",
+  "status:34": "2026-11-20T19:01:01+00:00"
+ },
+ "updated": "2026-11-20T19:01:01+00:00"
+}

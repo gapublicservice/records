@@ -1,0 +1,60 @@
+{
+ "key": "SB 626",
+ "slug": "sb626",
+ "session": "2025_26",
+ "legislation_id": 74208,
+ "page": "https://www.legis.ga.gov/legislation/74208",
+ "document_type": "SB",
+ "number": 626,
+ "legislation_type": "GEN",
+ "caption": "'Georgia Medical Debt Fairness Act'; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 31 of the Official Code of Georgia Annotated, relating to regulation and construction of hospitals and other health care facilities, so as to provide for certain consumer financial assistance and protections with regard to medical debt arising from certain healthcare services received by patients at hospitals; to provide for an appeal of financial assistance eligibility or charity care determination; to provide for incorrect determination protections; to prohibit certain financing products; to provide for payment plans; to prohibit debt collection under certain circumstances; to provide for enforcement; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T13:00:29",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-19T10:24:11",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246376,
+   "label": "As introduced LC 52 1076",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246376"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:49:47+00:00",
+  "version:246376": "2026-11-20T20:49:47+00:00",
+  "status:67": "2026-11-20T20:49:47+00:00",
+  "status:3": "2026-11-20T20:49:47+00:00"
+ },
+ "updated": "2026-11-20T20:49:47+00:00"
+}

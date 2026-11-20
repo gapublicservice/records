@@ -1,0 +1,96 @@
+{
+ "key": "HR 16",
+ "slug": "hr16",
+ "session": "2025_26",
+ "legislation_id": 69357,
+ "page": "https://www.legis.ga.gov/legislation/69357",
+ "document_type": "HR",
+ "number": 16,
+ "legislation_type": "PRIV",
+ "caption": "Edwards, William; commend",
+ "summary": "A RESOLUTION congratulating and honoring William Edwards; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-14T13:09:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T13:29:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-14T13:29:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229919,
+   "label": "LC 129 0012/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229919"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:51+00:00",
+  "version:229919": "2026-11-20T19:30:51+00:00",
+  "status:40": "2026-11-20T19:30:51+00:00",
+  "status:33": "2026-11-20T19:30:51+00:00",
+  "status:48": "2026-11-20T19:30:51+00:00"
+ },
+ "updated": "2026-11-20T19:30:51+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 1964",
+ "slug": "hr1964",
+ "session": "2025_26",
+ "legislation_id": 74535,
+ "page": "https://www.legis.ga.gov/legislation/74535",
+ "document_type": "HR",
+ "number": 1964,
+ "legislation_type": "PRIV",
+ "caption": "Crawford, Nury Castillo; commend",
+ "summary": "A RESOLUTION recognizing and commending Nury Castillo Crawford; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T14:55:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247936,
+   "label": "LC 129 1449/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247936"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:50+00:00",
+  "version:247936": "2026-11-20T20:14:50+00:00",
+  "status:40": "2026-11-20T20:14:50+00:00",
+  "status:33": "2026-11-20T20:14:50+00:00",
+  "status:48": "2026-11-20T20:14:50+00:00"
+ },
+ "updated": "2026-11-20T20:14:50+00:00"
+}

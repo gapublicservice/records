@@ -1,0 +1,102 @@
+{
+ "key": "HB 1256",
+ "slug": "hb1256",
+ "session": "2025_26",
+ "legislation_id": 73026,
+ "page": "https://www.legis.ga.gov/legislation/73026",
+ "document_type": "HB",
+ "number": 1256,
+ "legislation_type": "GEN",
+ "caption": "Georgia Appreciation for Educators Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated, relating to the Georgia Student Finance Authority, so as to provide for student loan repayment for public school teachers who graduated from an eligible  postsecondary educational institution in Georgia and who have taught for at least five years in a public school in this state; to provide for definitions; to provide for eligibility; to provide for student loan repayment agreements and conditions; to provide for maximum student loan repayment amounts; to provide for rules and regulations; to provide for an appropriations contingency; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Higher Education",
+   "id": 100
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T12:23:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T10:29:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T10:36:04",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242058,
+   "label": "LC 61 0361/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242058"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:15+00:00",
+  "version:242058": "2026-11-20T19:16:15+00:00",
+  "status:40": "2026-11-20T19:16:15+00:00",
+  "status:33": "2026-11-20T19:16:15+00:00",
+  "status:34": "2026-11-20T19:16:15+00:00"
+ },
+ "updated": "2026-11-20T19:16:15+00:00"
+}

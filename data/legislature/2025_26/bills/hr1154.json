@@ -1,0 +1,68 @@
+{
+ "key": "HR 1154",
+ "slug": "hr1154",
+ "session": "2025_26",
+ "legislation_id": 72574,
+ "page": "https://www.legis.ga.gov/legislation/72574",
+ "document_type": "HR",
+ "number": 1154,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Mrs. Geneva Wilkins; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mrs. Geneva Wilkins Jones; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:50:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:54:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:54:25",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240731,
+   "label": "LC 129 0732/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240731"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:45+00:00",
+  "version:240731": "2026-11-20T19:56:45+00:00",
+  "status:40": "2026-11-20T19:56:45+00:00",
+  "status:33": "2026-11-20T19:56:45+00:00",
+  "status:48": "2026-11-20T19:56:45+00:00"
+ },
+ "updated": "2026-11-20T19:56:45+00:00"
+}

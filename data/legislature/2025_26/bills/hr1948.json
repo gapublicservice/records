@@ -1,0 +1,95 @@
+{
+ "key": "HR 1948",
+ "slug": "hr1948",
+ "session": "2025_26",
+ "legislation_id": 74501,
+ "page": "https://www.legis.ga.gov/legislation/74501",
+ "document_type": "HR",
+ "number": 1948,
+ "legislation_type": "NP",
+ "caption": "State and local authorities; transfer operation of Georgia Capitol Museum from University System of Georgia to Georgia Building Authority; urge",
+ "summary": "A RESOLUTION urging appropriate state and local authorities to transfer operation of the Georgia Capitol Museum from the University System of Georgia to the Georgia Building Authority; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T17:57:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-31T10:58:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247660,
+   "label": "LC 112 4083/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247660"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:29+00:00",
+  "version:247660": "2026-11-20T20:14:29+00:00",
+  "status:40": "2026-11-20T20:14:29+00:00",
+  "status:33": "2026-11-20T20:14:29+00:00",
+  "status:34": "2026-11-20T20:14:29+00:00",
+  "status:39": "2026-11-20T20:14:29+00:00"
+ },
+ "updated": "2026-11-20T20:14:29+00:00"
+}

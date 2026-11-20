@@ -1,0 +1,81 @@
+{
+ "key": "HB 76",
+ "slug": "hb76",
+ "session": "2025_26",
+ "legislation_id": 69408,
+ "page": "https://www.legis.ga.gov/legislation/69408",
+ "document_type": "HB",
+ "number": 76,
+ "legislation_type": "GEN",
+ "caption": "Transportation, Department of; require public hearings for local transportation projects of significant impact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 32-2-3 of the Official Code of Georgia Annotated, relating to development of transportation plans, public hearings, approval of plans by board, and promulgation of rules and regulations by the Department of Transportation, so as to require public hearings for local transportation projects of significant impact; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T10:57:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230061,
+   "label": "LC 39 4480/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230061"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:19:38+00:00",
+  "version:230061": "2026-11-20T18:19:38+00:00",
+  "status:40": "2026-11-20T18:19:38+00:00",
+  "status:33": "2026-11-20T18:19:38+00:00",
+  "status:34": "2026-11-20T18:19:38+00:00"
+ },
+ "updated": "2026-11-20T18:19:38+00:00"
+}

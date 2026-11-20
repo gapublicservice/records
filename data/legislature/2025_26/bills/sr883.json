@@ -1,0 +1,82 @@
+{
+ "key": "SR 883",
+ "slug": "sr883",
+ "session": "2025_26",
+ "legislation_id": 73735,
+ "page": "https://www.legis.ga.gov/legislation/73735",
+ "document_type": "SR",
+ "number": 883,
+ "legislation_type": "PRIV",
+ "caption": "Roswell Arts Festival; celebrate 60th anniversary",
+ "summary": "A RESOLUTION celebrating the 60th anniversary of the Roswell Arts Festival; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:08:05",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-03T14:13:16",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244388,
+   "label": "Read and adopted LC 112 3757",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244388"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:10:58+00:00",
+  "version:244388": "2026-11-20T21:10:58+00:00",
+  "status:67": "2026-11-20T21:10:58+00:00",
+  "status:66": "2026-11-20T21:10:58+00:00"
+ },
+ "updated": "2026-11-20T21:10:58+00:00"
+}

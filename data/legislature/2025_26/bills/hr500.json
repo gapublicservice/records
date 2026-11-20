@@ -1,0 +1,89 @@
+{
+ "key": "HR 500",
+ "slug": "hr500",
+ "session": "2025_26",
+ "legislation_id": 71155,
+ "page": "https://www.legis.ga.gov/legislation/71155",
+ "document_type": "HR",
+ "number": 500,
+ "legislation_type": "PRIV",
+ "caption": "Kelley, Pharaoh; commend",
+ "summary": "A RESOLUTION recognizing and commending Pharaoh Kelley; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T13:30:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T14:11:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T14:11:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235160,
+   "label": "LC 129 0276/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235160"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:58+00:00",
+  "version:235160": "2026-11-20T19:41:58+00:00",
+  "status:40": "2026-11-20T19:41:58+00:00",
+  "status:33": "2026-11-20T19:41:58+00:00",
+  "status:48": "2026-11-20T19:41:58+00:00"
+ },
+ "updated": "2026-11-20T19:41:58+00:00"
+}

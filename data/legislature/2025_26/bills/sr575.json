@@ -1,0 +1,110 @@
+{
+ "key": "SR 575",
+ "slug": "sr575",
+ "session": "2025_26",
+ "legislation_id": 72250,
+ "page": "https://www.legis.ga.gov/legislation/72250",
+ "document_type": "SR",
+ "number": 575,
+ "legislation_type": "PRIV",
+ "caption": "Crumpton, Joe; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Deputy Joe Crumpton; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 17,
+   "name": "Harbison, Ed 15th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-15T11:17:30",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-16T09:52:56",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239901,
+   "label": "Read and Adopted LC 129 0547",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239901"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:57+00:00",
+  "version:239901": "2026-11-20T21:03:57+00:00",
+  "status:67": "2026-11-20T21:03:57+00:00",
+  "status:66": "2026-11-20T21:03:57+00:00"
+ },
+ "updated": "2026-11-20T21:03:57+00:00"
+}

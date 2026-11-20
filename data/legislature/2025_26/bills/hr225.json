@@ -1,0 +1,61 @@
+{
+ "key": "HR 225",
+ "slug": "hr225",
+ "session": "2025_26",
+ "legislation_id": 70159,
+ "page": "https://www.legis.ga.gov/legislation/70159",
+ "document_type": "HR",
+ "number": 225,
+ "legislation_type": "PRIV",
+ "caption": "Battersby; Kyran George; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Kyran George Battersby; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:33:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T15:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T15:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231941,
+   "label": "LC 129 0108/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231941"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:51+00:00",
+  "version:231941": "2026-11-20T19:35:51+00:00",
+  "status:40": "2026-11-20T19:35:51+00:00",
+  "status:33": "2026-11-20T19:35:51+00:00",
+  "status:48": "2026-11-20T19:35:51+00:00"
+ },
+ "updated": "2026-11-20T19:35:51+00:00"
+}

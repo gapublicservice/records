@@ -1,0 +1,97 @@
+{
+ "key": "SB 377",
+ "slug": "sb377",
+ "session": "2025_26",
+ "legislation_id": 72064,
+ "page": "https://www.legis.ga.gov/legislation/72064",
+ "document_type": "SB",
+ "number": 377,
+ "legislation_type": "GEN",
+ "caption": "Elections and Primaries; curbside voting for certain voters who because of disability or age cannot enter a polling place or are unable to wait in line to vote; authorize",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to authorize curbside voting for certain voters who because of disability or age cannot enter a polling place or are unable to wait in line to vote; to provide procedures for form, collection, and tabulation of ballots for such electors; to provide for a pilot program; to revise reporting provisions to reference such ballots; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T18:49:02",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-04T19:20:14",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239209,
+   "label": "As introduced LC 47 3718",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239209"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:38:16+00:00",
+  "version:239209": "2026-11-20T20:38:16+00:00",
+  "status:67": "2026-11-20T20:38:16+00:00",
+  "status:3": "2026-11-20T20:38:16+00:00"
+ },
+ "updated": "2026-11-20T20:38:16+00:00"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "HR 1271",
+ "slug": "hr1271",
+ "session": "2025_26",
+ "legislation_id": 72962,
+ "page": "https://www.legis.ga.gov/legislation/72962",
+ "document_type": "HR",
+ "number": 1271,
+ "legislation_type": "GEN",
+ "caption": "William Brown Lovett Memorial Interchange; Cook County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. William Brown Lovett and dedicating an interchange in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T10:47:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:44",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241872,
+   "label": "LC 39 4913/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241872"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:23+00:00",
+  "version:241872": "2026-11-20T19:59:23+00:00",
+  "status:40": "2026-11-20T19:59:23+00:00",
+  "status:33": "2026-11-20T19:59:23+00:00",
+  "status:34": "2026-11-20T19:59:23+00:00"
+ },
+ "updated": "2026-11-20T19:59:23+00:00"
+}

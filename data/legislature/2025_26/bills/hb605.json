@@ -1,0 +1,81 @@
+{
+ "key": "HB 605",
+ "slug": "hb605",
+ "session": "2025_26",
+ "legislation_id": 70733,
+ "page": "https://www.legis.ga.gov/legislation/70733",
+ "document_type": "HB",
+ "number": 605,
+ "legislation_type": "GEN",
+ "caption": "Public Health, Department of; continue operation of Georgia Tobacco Quit Line, subject to appropriations of funds; require",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2A of Title 31 of the O.C.G.A., relating to general provisions related to the Department of Public Health, so as to require the Department of Public Health to continue operation of the Georgia Tobacco Quit Line, subject to appropriations or the availability of other funds; to provide for definitions; to provide requirements for the Quit Line; to provide that the Quit Line will provide information about, evaluation for, and referrals to lung cancer screening services; to provide for the utilization and security of any data collected by the Quit Line; to provide for the creation of written materials with information about the Quit Line by the Department of Public Health and to require certain sellers of tobacco products to display and distribute such written materials; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T12:37:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233642,
+   "label": "LC 61 0019/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233642"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:21+00:00",
+  "version:233642": "2026-11-20T18:45:21+00:00",
+  "status:40": "2026-11-20T18:45:21+00:00",
+  "status:33": "2026-11-20T18:45:21+00:00",
+  "status:34": "2026-11-20T18:45:21+00:00"
+ },
+ "updated": "2026-11-20T18:45:21+00:00"
+}

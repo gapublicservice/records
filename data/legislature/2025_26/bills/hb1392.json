@@ -1,0 +1,95 @@
+{
+ "key": "HB 1392",
+ "slug": "hb1392",
+ "session": "2025_26",
+ "legislation_id": 73430,
+ "page": "https://www.legis.ga.gov/legislation/73430",
+ "document_type": "HB",
+ "number": 1392,
+ "legislation_type": "GEN",
+ "caption": "Funeral establishments; maintain at least eight caskets at each of its locations; revise requirement",
+ "summary": "A BILL to be entitled an Act to amend Code Section 43-18-70 of the Official Code of Georgia Annotated, relating to requirement to only practice at licensed funeral establishment, organic human reduction facility, or crematory and requirements of funeral establishments, so as to revise the requirement that a funeral establishment maintain at least eight caskets at each of its locations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T11:45:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T11:57:58",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243677,
+   "label": "LC 56 0630S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243677"
+  },
+  {
+   "doc_id": 243311,
+   "label": "LC 56 0601/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243311"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:26+00:00",
+  "version:243677": "2026-11-20T19:21:26+00:00",
+  "version:243311": "2026-11-20T19:21:26+00:00",
+  "status:40": "2026-11-20T19:21:26+00:00",
+  "status:33": "2026-11-20T19:21:26+00:00",
+  "status:34": "2026-11-20T19:21:26+00:00",
+  "status:39": "2026-11-20T19:21:26+00:00"
+ },
+ "updated": "2026-11-20T19:21:26+00:00"
+}

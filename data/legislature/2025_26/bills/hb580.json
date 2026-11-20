@@ -1,0 +1,102 @@
+{
+ "key": "HB 580",
+ "slug": "hb580",
+ "session": "2025_26",
+ "legislation_id": 70668,
+ "page": "https://www.legis.ga.gov/legislation/70668",
+ "document_type": "HB",
+ "number": 580,
+ "legislation_type": "GEN",
+ "caption": "Georgia Penmanship Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to competencies and core curriculum under the \"Quality Basic Education Act,\" so as to require local boards of education to provide instruction in cursive writing; to require the State Board of Education to adopt content standards for instruction in cursive writing and to determine the appropriate grade levels for such instruction; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T11:37:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T10:40:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T10:19:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233490,
+   "label": "LC 61 0159/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233490"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:44:08+00:00",
+  "version:233490": "2026-11-20T18:44:08+00:00",
+  "status:40": "2026-11-20T18:44:08+00:00",
+  "status:33": "2026-11-20T18:44:08+00:00",
+  "status:34": "2026-11-20T18:44:08+00:00"
+ },
+ "updated": "2026-11-20T18:44:08+00:00"
+}

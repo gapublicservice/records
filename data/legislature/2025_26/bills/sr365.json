@@ -1,0 +1,54 @@
+{
+ "key": "SR 365",
+ "slug": "sr365",
+ "session": "2025_26",
+ "legislation_id": 71240,
+ "page": "https://www.legis.ga.gov/legislation/71240",
+ "document_type": "SR",
+ "number": 365,
+ "legislation_type": "PRIV",
+ "caption": "Cohen's of Alma; recognize",
+ "summary": "A RESOLUTION recognizing and commending Cohen's of Alma on its 100th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T19:36:47",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-10T12:49:33",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235604,
+   "label": "Read and adopted LC 112 3292",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235604"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:58:40+00:00",
+  "version:235604": "2026-11-20T20:58:40+00:00",
+  "status:67": "2026-11-20T20:58:40+00:00",
+  "status:66": "2026-11-20T20:58:40+00:00"
+ },
+ "updated": "2026-11-20T20:58:40+00:00"
+}

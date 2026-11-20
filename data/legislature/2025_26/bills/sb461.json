@@ -1,0 +1,81 @@
+{
+ "key": "SB 461",
+ "slug": "sb461",
+ "session": "2025_26",
+ "legislation_id": 72831,
+ "page": "https://www.legis.ga.gov/legislation/72831",
+ "document_type": "SB",
+ "number": 461,
+ "legislation_type": "GEN",
+ "caption": "Department of Human Services; the single state agency responsible for the administration of the state Medicaid program; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 31 and Chapters 2 and 4 of Title 49 of the Official Code of Georgia Annotated, relating to the Department of Community Health, Department of Human Services, and public assistance, respectively, so as to provide for the Department of Human Services to be the single state agency responsible for the administration of the state Medicaid program; to transfer certain powers, functions, and duties from the Department of Community Health to the Department of Human Services; to revise definitions; to provide for transition; to provide for conforming changes; to provide for related matters; to provide for a state plan amendment or waiver request; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-04T11:53:08",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-05T10:10:11",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241487,
+   "label": "As Introduced LC 52 0974",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241487"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:42:11+00:00",
+  "version:241487": "2026-11-20T20:42:11+00:00",
+  "status:67": "2026-11-20T20:42:11+00:00",
+  "status:3": "2026-11-20T20:42:11+00:00"
+ },
+ "updated": "2026-11-20T20:42:11+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HR 462",
+ "slug": "hr462",
+ "session": "2025_26",
+ "legislation_id": 71063,
+ "page": "https://www.legis.ga.gov/legislation/71063",
+ "document_type": "HR",
+ "number": 462,
+ "legislation_type": "CA",
+ "caption": "State of Georgia; people have power to enact, repeal, or amend general statutory law by direct initiative and referendum process; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that the people of the State of Georgia shall have the power to enact, repeal, or amend general statutory law by direct initiative and referendum process; to provide for amendments to the Constitution by direct initiative process; to provide procedures and restrictions connected therewith; to provide exceptions; to authorize the General Assembly to provide for additional statutory procedures not in conflict with the provisions herein; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T11:17:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:11",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234783,
+   "label": "LC 47 3197/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234783"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:07+00:00",
+  "version:234783": "2026-11-20T19:41:07+00:00",
+  "status:40": "2026-11-20T19:41:07+00:00",
+  "status:33": "2026-11-20T19:41:07+00:00",
+  "status:34": "2026-11-20T19:41:07+00:00"
+ },
+ "updated": "2026-11-20T19:41:07+00:00"
+}

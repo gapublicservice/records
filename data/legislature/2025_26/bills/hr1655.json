@@ -1,0 +1,109 @@
+{
+ "key": "HR 1655",
+ "slug": "hr1655",
+ "session": "2025_26",
+ "legislation_id": 74017,
+ "page": "https://www.legis.ga.gov/legislation/74017",
+ "document_type": "HR",
+ "number": 1655,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Diabetes Related Amputations; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Diabetes Related Amputations; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4959,
+   "name": "Mathis, Danny 133rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5056,
+   "name": "Howard, Karlton 129th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-10T12:42:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-12T10:25:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-16T10:21:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-18T10:17:00",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245653,
+   "label": "LC 46 1499/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245653"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:14+00:00",
+  "version:245653": "2026-11-20T20:08:14+00:00",
+  "status:40": "2026-11-20T20:08:14+00:00",
+  "status:33": "2026-11-20T20:08:14+00:00",
+  "status:34": "2026-11-20T20:08:14+00:00",
+  "status:39": "2026-11-20T20:08:14+00:00"
+ },
+ "updated": "2026-11-20T20:08:14+00:00"
+}

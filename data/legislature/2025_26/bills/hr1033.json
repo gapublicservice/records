@@ -1,0 +1,102 @@
+{
+ "key": "HR 1033",
+ "slug": "hr1033",
+ "session": "2025_26",
+ "legislation_id": 72297,
+ "page": "https://www.legis.ga.gov/legislation/72297",
+ "document_type": "HR",
+ "number": 1033,
+ "legislation_type": "CA",
+ "caption": "State government; changes to apportionment and districts of the General Assembly and Congress shall only be made in the first odd-numbered year subsequent to each United States decennial census; provide - CA",
+ "summary": "A RESOLUTION proposing an amendment to the Constitution so as to provide that changes to apportionment and districts of the General Assembly and Congress shall only be made in the first odd-numbered year subsequent to each United States decennial census; to provide that additional changes shall only be made when necessary to comply with a court order; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Reapportionment and Redistricting",
+   "id": 199
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:13:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240036,
+   "label": "LC 47 3862/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240036"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:54:01+00:00",
+  "version:240036": "2026-11-20T19:54:01+00:00",
+  "status:40": "2026-11-20T19:54:01+00:00",
+  "status:33": "2026-11-20T19:54:01+00:00",
+  "status:34": "2026-11-20T19:54:01+00:00"
+ },
+ "updated": "2026-11-20T19:54:01+00:00"
+}

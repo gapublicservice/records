@@ -1,0 +1,139 @@
+{
+ "key": "SB 422",
+ "slug": "sb422",
+ "session": "2025_26",
+ "legislation_id": 72393,
+ "page": "https://www.legis.ga.gov/legislation/72393",
+ "document_type": "SB",
+ "number": 422,
+ "legislation_type": "GEN",
+ "caption": "Elections and Primaries; the date of most municipal elections shall be in even-numbered years; a one-year extension to the terms of office of most municipal officers; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide that the date of most municipal elections shall be in even-numbered years; to provide a one-year extension to the terms of office of most municipal officers for the transition of municipalities to even-numbered year election cycles; to provide that such extended terms of office shall not apply to certain municipal officers elected to two-year terms of office; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:40:56",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T10:09:07",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-02-03T09:39:26",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2026-02-04T10:12:58",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240243,
+   "label": "As Introduced LC 47 3837",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240243"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:40:04+00:00",
+  "version:240243": "2026-11-20T20:40:04+00:00",
+  "status:67": "2026-11-20T20:40:04+00:00",
+  "status:3": "2026-11-20T20:40:04+00:00",
+  "status:8": "2026-11-20T20:40:04+00:00",
+  "status:10": "2026-11-20T20:40:04+00:00"
+ },
+ "updated": "2026-11-20T20:40:04+00:00"
+}

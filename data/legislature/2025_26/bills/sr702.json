@@ -1,0 +1,82 @@
+{
+ "key": "SR 702",
+ "slug": "sr702",
+ "session": "2025_26",
+ "legislation_id": 72850,
+ "page": "https://www.legis.ga.gov/legislation/72850",
+ "document_type": "SR",
+ "number": 702,
+ "legislation_type": "PRIV",
+ "caption": "PAGE Day; recognize February 17, 2026",
+ "summary": "A RESOLUTION commending the Professional Association of Georgia Educators and recognizing PAGE Day on Capitol Hill; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:13:54",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-05T11:40:45",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241525,
+   "label": "Read and adopted LC 129 0878",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241525"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:06:54+00:00",
+  "version:241525": "2026-11-20T21:06:54+00:00",
+  "status:67": "2026-11-20T21:06:54+00:00",
+  "status:66": "2026-11-20T21:06:54+00:00"
+ },
+ "updated": "2026-11-20T21:06:54+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HB 1270",
+ "slug": "hb1270",
+ "session": "2025_26",
+ "legislation_id": 73075,
+ "page": "https://www.legis.ga.gov/legislation/73075",
+ "document_type": "HB",
+ "number": 1270,
+ "legislation_type": "GEN",
+ "caption": "Criminal procedure; installation and use of mobile tracking devices by law enforcement; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 5 of Title 17 of the Official Code of Georgia Annotated, relating to searches with warrants, so as to provide for the installation and use of mobile tracking devices by law enforcement; to provide a procedure for obtaining court authorization for such installation and use; to provide for the scope of such installation and use; to provide for legal standards; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T12:35:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T10:36:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T10:18:46",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242203,
+   "label": "LC 63 0093/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242203"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:51+00:00",
+  "version:242203": "2026-11-20T19:16:51+00:00",
+  "status:40": "2026-11-20T19:16:51+00:00",
+  "status:33": "2026-11-20T19:16:51+00:00",
+  "status:34": "2026-11-20T19:16:51+00:00"
+ },
+ "updated": "2026-11-20T19:16:51+00:00"
+}

@@ -1,0 +1,61 @@
+{
+ "key": "HR 1401",
+ "slug": "hr1401",
+ "session": "2025_26",
+ "legislation_id": 73395,
+ "page": "https://www.legis.ga.gov/legislation/73395",
+ "document_type": "HR",
+ "number": 1401,
+ "legislation_type": "PRIV",
+ "caption": "Bryant, Reverend Dr. Jamal-Harrison; commend",
+ "summary": "A RESOLUTION recognizing and commending Reverend Dr. Jamal-Harrison Bryant; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:42:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:09:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:09:17",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243173,
+   "label": "LC 129 1071/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243173"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:40+00:00",
+  "version:243173": "2026-11-20T20:02:40+00:00",
+  "status:40": "2026-11-20T20:02:40+00:00",
+  "status:33": "2026-11-20T20:02:40+00:00",
+  "status:48": "2026-11-20T20:02:40+00:00"
+ },
+ "updated": "2026-11-20T20:02:40+00:00"
+}

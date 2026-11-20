@@ -1,0 +1,102 @@
+{
+ "key": "HR 1417",
+ "slug": "hr1417",
+ "session": "2025_26",
+ "legislation_id": 73435,
+ "page": "https://www.legis.ga.gov/legislation/73435",
+ "document_type": "HR",
+ "number": 1417,
+ "legislation_type": "NP",
+ "caption": "Dale Murphy Day; February 26, 2026; recognize; urge the Major League Baseball Hall of Fame Committee to induct Dale Murphy into the National Baseball Hall of Fame",
+ "summary": "A RESOLUTION recognizing February 26, 2026, as Dale Murphy Day and urging the Major League Baseball Hall of Fame Committee to induct Dale Murphy into the National Baseball Hall of Fame; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T12:29:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243316,
+   "label": "LC 129 1214/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243316"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:04+00:00",
+  "version:243316": "2026-11-20T20:03:04+00:00",
+  "status:40": "2026-11-20T20:03:04+00:00",
+  "status:33": "2026-11-20T20:03:04+00:00",
+  "status:34": "2026-11-20T20:03:04+00:00"
+ },
+ "updated": "2026-11-20T20:03:04+00:00"
+}

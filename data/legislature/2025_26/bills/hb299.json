@@ -1,0 +1,102 @@
+{
+ "key": "HB 299",
+ "slug": "hb299",
+ "session": "2025_26",
+ "legislation_id": 69973,
+ "page": "https://www.legis.ga.gov/legislation/69973",
+ "document_type": "HB",
+ "number": 299,
+ "legislation_type": "GEN",
+ "caption": "Property; landlord and tenant; repeal Code Section 44-7-19, relating to restrictions on rent regulation by local governments",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 44 of the Official Code of Georgia Annotated, regarding landlord and tenant in general, so as to repeal Code Section 44-7-19, relating to restrictions on rent regulation by local governments; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-05T11:38:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T10:16:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T13:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231511,
+   "label": "LC 47 3232/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231511"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:30:58+00:00",
+  "version:231511": "2026-11-20T18:30:58+00:00",
+  "status:40": "2026-11-20T18:30:58+00:00",
+  "status:33": "2026-11-20T18:30:58+00:00",
+  "status:34": "2026-11-20T18:30:58+00:00"
+ },
+ "updated": "2026-11-20T18:30:58+00:00"
+}

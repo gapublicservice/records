@@ -1,0 +1,89 @@
+{
+ "key": "HR 169",
+ "slug": "hr169",
+ "session": "2025_26",
+ "legislation_id": 69916,
+ "page": "https://www.legis.ga.gov/legislation/69916",
+ "document_type": "HR",
+ "number": 169,
+ "legislation_type": "PRIV",
+ "caption": "Physician's Day at the state capitol; 02/05/25; saluting the physicians of Georgia; recognize",
+ "summary": "A RESOLUTION recognizing February 5, 2025, as Physician's Day at the state capitol and saluting the physicians of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:05:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231286,
+   "label": "LC 112 2863/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231286"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:39+00:00",
+  "version:231286": "2026-11-20T19:34:39+00:00",
+  "status:40": "2026-11-20T19:34:39+00:00",
+  "status:33": "2026-11-20T19:34:39+00:00",
+  "status:48": "2026-11-20T19:34:39+00:00"
+ },
+ "updated": "2026-11-20T19:34:39+00:00"
+}

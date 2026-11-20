@@ -1,0 +1,116 @@
+{
+ "key": "HB 1276",
+ "slug": "hb1276",
+ "session": "2025_26",
+ "legislation_id": 73117,
+ "page": "https://www.legis.ga.gov/legislation/73117",
+ "document_type": "HB",
+ "number": 1276,
+ "legislation_type": "GEN",
+ "caption": "Community Health, Department of; review information from certain sources to determine and verify eligibility of Medicaid recipients; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 49 of the O.C.G.A., relating to public assistance, so as to provide for the Department of Community Health to regularly and systematically review information from certain sources to determine and verify eligibility of Medicaid recipients; to provide for related matters; to provide for a state plan amendment or waiver request; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-11T10:38:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T10:53:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-17T09:58:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T09:31:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-04T21:36:16",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244314,
+   "label": "LC 52 1051S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244314"
+  },
+  {
+   "doc_id": 242331,
+   "label": "LC 52 0971/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242331"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:17:10+00:00",
+  "version:244314": "2026-11-20T19:17:10+00:00",
+  "version:242331": "2026-11-20T19:17:10+00:00",
+  "status:40": "2026-11-20T19:17:10+00:00",
+  "status:33": "2026-11-20T19:17:10+00:00",
+  "status:34": "2026-11-20T19:17:10+00:00",
+  "status:39": "2026-11-20T19:17:10+00:00",
+  "status:50": "2026-11-20T19:17:10+00:00"
+ },
+ "updated": "2026-11-20T19:17:10+00:00"
+}

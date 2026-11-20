@@ -1,0 +1,102 @@
+{
+ "key": "HB 1",
+ "slug": "hb1",
+ "session": "2025_26",
+ "legislation_id": 69281,
+ "page": "https://www.legis.ga.gov/legislation/69281",
+ "document_type": "HB",
+ "number": 1,
+ "legislation_type": "GEN",
+ "caption": "Pediatric Health Safe Storage Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to carrying and possession of firearms, so as to establish the offense of making a firearm accessible to a child; to provide for definitions; to provide for exceptions and affirmative defenses; to provide for criminal penalties; to require a notice by certain firearm dealers; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:03:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229744,
+   "label": "LC 56 0217/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229744"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:04+00:00",
+  "version:229744": "2026-11-20T18:16:04+00:00",
+  "status:40": "2026-11-20T18:16:04+00:00",
+  "status:33": "2026-11-20T18:16:04+00:00",
+  "status:34": "2026-11-20T18:16:04+00:00"
+ },
+ "updated": "2026-11-20T18:16:04+00:00"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "SB 118",
+ "slug": "sb118",
+ "session": "2025_26",
+ "legislation_id": 70037,
+ "page": "https://www.legis.ga.gov/legislation/70037",
+ "document_type": "SB",
+ "number": 118,
+ "legislation_type": "GEN",
+ "caption": "State Accounting Office; any payroll system utilized by the state allows for credit union deductions; require",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 5B of Title 50 of the Official Code of Georgia Annotated, relating to the State Accounting Office, so as to require that any payroll system utilized by the state allows for credit union deductions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T11:12:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-10T10:10:48",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231588,
+   "label": "As Introduced LC 47 3192",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231588"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:25:41+00:00",
+  "version:231588": "2026-11-20T20:25:41+00:00",
+  "status:67": "2026-11-20T20:25:41+00:00",
+  "status:3": "2026-11-20T20:25:41+00:00"
+ },
+ "updated": "2026-11-20T20:25:41+00:00"
+}

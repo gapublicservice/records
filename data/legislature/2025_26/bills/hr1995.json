@@ -1,0 +1,96 @@
+{
+ "key": "HR 1995",
+ "slug": "hr1995",
+ "session": "2025_26",
+ "legislation_id": 74566,
+ "page": "https://www.legis.ga.gov/legislation/74566",
+ "document_type": "HR",
+ "number": 1995,
+ "legislation_type": "PRIV",
+ "caption": "Whaley, Kristen Morgan; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Kristen Morgan Whaley; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:08:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:27",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247984,
+   "label": "LC 112 4051/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247984"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:33+00:00",
+  "version:247984": "2026-11-20T20:15:33+00:00",
+  "status:40": "2026-11-20T20:15:33+00:00",
+  "status:33": "2026-11-20T20:15:33+00:00",
+  "status:48": "2026-11-20T20:15:33+00:00"
+ },
+ "updated": "2026-11-20T20:15:33+00:00"
+}

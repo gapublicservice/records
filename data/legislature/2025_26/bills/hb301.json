@@ -1,0 +1,81 @@
+{
+ "key": "HB 301",
+ "slug": "hb301",
+ "session": "2025_26",
+ "legislation_id": 69975,
+ "page": "https://www.legis.ga.gov/legislation/69975",
+ "document_type": "HB",
+ "number": 301,
+ "legislation_type": "GEN",
+ "caption": "The Time Served Act of 2025; enact",
+ "summary": "A BILL to be entitled an Act to amend Code Section 35-3-37 of the Official Code of Georgia Annotated, relating to review of individual's criminal history record information, definitions, privacy considerations, written application requesting review, and inspection, so as to provide for the automatic restriction of criminal history records for convictions of certain misdemeanors and felonies five years after the completion of the sentence; to amend Article 2 of Chapter 9 of Title 42 of the Official Code of Georgia Annotated, relating to grants of pardons, paroles, and other relief, so as to provide for the automatic sealing of certain criminal records; to provide a short title; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-05T11:40:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T10:16:42",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T13:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231515,
+   "label": "LC 48 1420/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231515"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:31:02+00:00",
+  "version:231515": "2026-11-20T18:31:02+00:00",
+  "status:40": "2026-11-20T18:31:02+00:00",
+  "status:33": "2026-11-20T18:31:02+00:00",
+  "status:34": "2026-11-20T18:31:02+00:00"
+ },
+ "updated": "2026-11-20T18:31:02+00:00"
+}

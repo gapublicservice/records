@@ -1,0 +1,81 @@
+{
+ "key": "HB 712",
+ "slug": "hb712",
+ "session": "2025_26",
+ "legislation_id": 71095,
+ "page": "https://www.legis.ga.gov/legislation/71095",
+ "document_type": "HB",
+ "number": 712,
+ "legislation_type": "GEN",
+ "caption": "Ad valorem tax; prohibit property bills from including any nontax related fees or assessments",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to general provisions regarding ad valorem taxation of property, so as to prohibit ad valorem property tax bills from including any nontax related fees or assessments; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-03T14:53:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T10:34:10",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234889,
+   "label": "LC 59 0004/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234889"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:52+00:00",
+  "version:234889": "2026-11-20T18:49:52+00:00",
+  "status:40": "2026-11-20T18:49:52+00:00",
+  "status:33": "2026-11-20T18:49:52+00:00",
+  "status:34": "2026-11-20T18:49:52+00:00"
+ },
+ "updated": "2026-11-20T18:49:52+00:00"
+}

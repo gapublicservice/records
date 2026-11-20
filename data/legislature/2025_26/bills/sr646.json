@@ -1,0 +1,54 @@
+{
+ "key": "SR 646",
+ "slug": "sr646",
+ "session": "2025_26",
+ "legislation_id": 72583,
+ "page": "https://www.legis.ga.gov/legislation/72583",
+ "document_type": "SR",
+ "number": 646,
+ "legislation_type": "PRIV",
+ "caption": "Alexander Sr., Mr. Fred; recognize",
+ "summary": "A RESOLUTION recognizing Mr. Fred Alexander Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T08:19:20",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-02T11:37:34",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240797,
+   "label": "Read and Adopted LC 129 0743",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240797"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:05:35+00:00",
+  "version:240797": "2026-11-20T21:05:35+00:00",
+  "status:67": "2026-11-20T21:05:35+00:00",
+  "status:66": "2026-11-20T21:05:35+00:00"
+ },
+ "updated": "2026-11-20T21:05:35+00:00"
+}

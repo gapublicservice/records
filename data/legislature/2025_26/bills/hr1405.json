@@ -1,0 +1,89 @@
+{
+ "key": "HR 1405",
+ "slug": "hr1405",
+ "session": "2025_26",
+ "legislation_id": 73399,
+ "page": "https://www.legis.ga.gov/legislation/73399",
+ "document_type": "HR",
+ "number": 1405,
+ "legislation_type": "PRIV",
+ "caption": "Fellowship of Christian Officials; commend",
+ "summary": "A RESOLUTION recognizing and commending the Fellowship of Christian Officials; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:43:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T14:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T14:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243177,
+   "label": "LC 129 9029/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243177"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:45+00:00",
+  "version:243177": "2026-11-20T20:02:45+00:00",
+  "status:40": "2026-11-20T20:02:45+00:00",
+  "status:33": "2026-11-20T20:02:45+00:00",
+  "status:48": "2026-11-20T20:02:45+00:00"
+ },
+ "updated": "2026-11-20T20:02:45+00:00"
+}

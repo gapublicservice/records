@@ -1,0 +1,82 @@
+{
+ "key": "HR 1010",
+ "slug": "hr1010",
+ "session": "2025_26",
+ "legislation_id": 72188,
+ "page": "https://www.legis.ga.gov/legislation/72188",
+ "document_type": "HR",
+ "number": 1010,
+ "legislation_type": "PRIV",
+ "caption": "Rustin/Lorde Community Breakfast; recognize",
+ "summary": "A RESOLUTION recognizing the Rustin/Lorde Community Breakfast; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-13T11:36:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-13T11:56:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-13T11:56:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239753,
+   "label": "LC 129 0543/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239753"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:32+00:00",
+  "version:239753": "2026-11-20T19:53:32+00:00",
+  "status:40": "2026-11-20T19:53:32+00:00",
+  "status:33": "2026-11-20T19:53:32+00:00",
+  "status:48": "2026-11-20T19:53:32+00:00"
+ },
+ "updated": "2026-11-20T19:53:32+00:00"
+}

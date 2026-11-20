@@ -1,0 +1,68 @@
+{
+ "key": "HR 1765",
+ "slug": "hr1765",
+ "session": "2025_26",
+ "legislation_id": 74228,
+ "page": "https://www.legis.ga.gov/legislation/74228",
+ "document_type": "HR",
+ "number": 1765,
+ "legislation_type": "PRIV",
+ "caption": "Poole, Haden Christopher; commend",
+ "summary": "A RESOLUTION commending and congratulating Haden Christopher Poole; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:41:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246482,
+   "label": "LC 129 1438/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246482"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:36+00:00",
+  "version:246482": "2026-11-20T20:10:36+00:00",
+  "status:40": "2026-11-20T20:10:36+00:00",
+  "status:33": "2026-11-20T20:10:36+00:00",
+  "status:48": "2026-11-20T20:10:36+00:00"
+ },
+ "updated": "2026-11-20T20:10:36+00:00"
+}

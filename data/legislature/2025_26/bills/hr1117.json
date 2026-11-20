@@ -1,0 +1,68 @@
+{
+ "key": "HR 1117",
+ "slug": "hr1117",
+ "session": "2025_26",
+ "legislation_id": 72537,
+ "page": "https://www.legis.ga.gov/legislation/72537",
+ "document_type": "HR",
+ "number": 1117,
+ "legislation_type": "PRIV",
+ "caption": "Golden, Steve Dale; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Steve Dale Golden; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:32:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240692,
+   "label": "LC 129 0680/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240692"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:58+00:00",
+  "version:240692": "2026-11-20T19:55:58+00:00",
+  "status:40": "2026-11-20T19:55:58+00:00",
+  "status:33": "2026-11-20T19:55:58+00:00",
+  "status:48": "2026-11-20T19:55:58+00:00"
+ },
+ "updated": "2026-11-20T19:55:58+00:00"
+}

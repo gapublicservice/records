@@ -1,0 +1,88 @@
+{
+ "key": "HR 1419",
+ "slug": "hr1419",
+ "session": "2025_26",
+ "legislation_id": 73437,
+ "page": "https://www.legis.ga.gov/legislation/73437",
+ "document_type": "HR",
+ "number": 1419,
+ "legislation_type": "NP",
+ "caption": "Turner Syndrome Awareness Month; February 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 2026 as Turner Syndrome Awareness Month in Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T12:29:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243327,
+   "label": "LC 129 1089/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243327"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:07+00:00",
+  "version:243327": "2026-11-20T20:03:07+00:00",
+  "status:40": "2026-11-20T20:03:07+00:00",
+  "status:33": "2026-11-20T20:03:07+00:00",
+  "status:34": "2026-11-20T20:03:07+00:00"
+ },
+ "updated": "2026-11-20T20:03:07+00:00"
+}

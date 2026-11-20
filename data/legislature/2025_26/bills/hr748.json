@@ -1,0 +1,61 @@
+{
+ "key": "HR 748",
+ "slug": "hr748",
+ "session": "2025_26",
+ "legislation_id": 71704,
+ "page": "https://www.legis.ga.gov/legislation/71704",
+ "document_type": "HR",
+ "number": 748,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Demetrious; occasion of District 58 Day; recognize",
+ "summary": "A RESOLUTION recognizing and commending Demetrious Williams on the occasion of District 58 Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-25T14:18:49",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T15:09:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T15:09:34",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237316,
+   "label": "LC 112 3408/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237316"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:40+00:00",
+  "version:237316": "2026-11-20T19:47:40+00:00",
+  "status:40": "2026-11-20T19:47:40+00:00",
+  "status:33": "2026-11-20T19:47:40+00:00",
+  "status:48": "2026-11-20T19:47:40+00:00"
+ },
+ "updated": "2026-11-20T19:47:40+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 62",
+ "slug": "hr62",
+ "session": "2025_26",
+ "legislation_id": 69524,
+ "page": "https://www.legis.ga.gov/legislation/69524",
+ "document_type": "HR",
+ "number": 62,
+ "legislation_type": "PRIV",
+ "caption": "Sequeira, Mary D'Souza; commend",
+ "summary": "A RESOLUTION commending Mary D'Souza Sequeira; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:41:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230348,
+   "label": "LC 129 0055/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230348"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:06+00:00",
+  "version:230348": "2026-11-20T19:32:06+00:00",
+  "status:40": "2026-11-20T19:32:06+00:00",
+  "status:33": "2026-11-20T19:32:06+00:00",
+  "status:48": "2026-11-20T19:32:06+00:00"
+ },
+ "updated": "2026-11-20T19:32:06+00:00"
+}

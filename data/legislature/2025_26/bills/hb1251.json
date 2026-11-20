@@ -1,0 +1,95 @@
+{
+ "key": "HB 1251",
+ "slug": "hb1251",
+ "session": "2025_26",
+ "legislation_id": 73018,
+ "page": "https://www.legis.ga.gov/legislation/73018",
+ "document_type": "HB",
+ "number": 1251,
+ "legislation_type": "GEN",
+ "caption": "Right to Information for Homeowners Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of specialized land transactions, so as to provide for community associations to disclose documents to unit owners upon request; to provide for community associations to maintain certain records; to provide for the creation of an online database; to provide for annual reports; to provide for a civil action; to provide for attorney's fees; to provide for penalties; to provide for definitions; to provide a short title; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T11:37:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T10:29:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T10:36:04",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242014,
+   "label": "LC 62 0046/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242014"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:50+00:00",
+  "version:242014": "2026-11-20T19:15:50+00:00",
+  "status:40": "2026-11-20T19:15:50+00:00",
+  "status:33": "2026-11-20T19:15:50+00:00",
+  "status:34": "2026-11-20T19:15:50+00:00"
+ },
+ "updated": "2026-11-20T19:15:50+00:00"
+}

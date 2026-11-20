@@ -1,0 +1,89 @@
+{
+ "key": "HR 1119",
+ "slug": "hr1119",
+ "session": "2025_26",
+ "legislation_id": 72539,
+ "page": "https://www.legis.ga.gov/legislation/72539",
+ "document_type": "HR",
+ "number": 1119,
+ "legislation_type": "PRIV",
+ "caption": "Cardiello, Joshua Gerard; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Joshua Gerard Cardiello; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:33:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240699,
+   "label": "LC 129 0787/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240699"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:00+00:00",
+  "version:240699": "2026-11-20T19:56:00+00:00",
+  "status:40": "2026-11-20T19:56:00+00:00",
+  "status:33": "2026-11-20T19:56:00+00:00",
+  "status:48": "2026-11-20T19:56:00+00:00"
+ },
+ "updated": "2026-11-20T19:56:00+00:00"
+}

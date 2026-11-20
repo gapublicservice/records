@@ -1,0 +1,74 @@
+{
+ "key": "HR 951",
+ "slug": "hr951",
+ "session": "2025_26",
+ "legislation_id": 72069,
+ "page": "https://www.legis.ga.gov/legislation/72069",
+ "document_type": "HR",
+ "number": 951,
+ "legislation_type": "PRIV",
+ "caption": "Child Abuse Prevention Month; April 2025; recognize",
+ "summary": "A RESOLUTION recognizing April 2025 as Child Abuse Prevention Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Juvenile",
+   "id": 203
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T20:51:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T21:30:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239279,
+   "label": "LC 112 3613/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239279"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:08+00:00",
+  "version:239279": "2026-11-20T19:52:08+00:00",
+  "status:40": "2026-11-20T19:52:08+00:00",
+  "status:33": "2026-11-20T19:52:08+00:00",
+  "status:34": "2026-11-20T19:52:08+00:00"
+ },
+ "updated": "2026-11-20T19:52:08+00:00"
+}

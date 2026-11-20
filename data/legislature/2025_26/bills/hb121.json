@@ -1,0 +1,81 @@
+{
+ "key": "HB 121",
+ "slug": "hb121",
+ "session": "2025_26",
+ "legislation_id": 69495,
+ "page": "https://www.legis.ga.gov/legislation/69495",
+ "document_type": "HB",
+ "number": 121,
+ "legislation_type": "GEN",
+ "caption": "Second Amendment Preservation Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to dangerous instrumentalities and practices, so as to provide for protections against the infringements on the right to keep and bear arms; to provide for a short title; to provide for legislative findings and intent; to provide for definitions; to prohibit public officers or employees from enforcing or providing assistance for the enforcement of federal laws or actions relative to firearms, firearm accessories, and ammunition; to provide for causes of action; to provide for hearings; to provide for civil penalties; to provide for attorney's fees and costs; to waive sovereign immunity; to provide for applicability; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T10:34:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230263,
+   "label": "LC 39 4468/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230263"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:21:47+00:00",
+  "version:230263": "2026-11-20T18:21:47+00:00",
+  "status:40": "2026-11-20T18:21:47+00:00",
+  "status:33": "2026-11-20T18:21:47+00:00",
+  "status:34": "2026-11-20T18:21:47+00:00"
+ },
+ "updated": "2026-11-20T18:21:47+00:00"
+}

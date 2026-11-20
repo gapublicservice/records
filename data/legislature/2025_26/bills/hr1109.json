@@ -1,0 +1,81 @@
+{
+ "key": "HR 1109",
+ "slug": "hr1109",
+ "session": "2025_26",
+ "legislation_id": 72494,
+ "page": "https://www.legis.ga.gov/legislation/72494",
+ "document_type": "HR",
+ "number": 1109,
+ "legislation_type": "NP",
+ "caption": "Mental Health Sentencing and Treatment Alternatives Act; commend advancement by General Assembly; recognize urgent need for sentencing alternatives for Georgians with serious mental illness",
+ "summary": "A RESOLUTION recognizing the urgent need for sentencing alternatives and treatment programs for Georgians with serious mental illness; commending the General Assembly for advancing the \"Mental Health Sentencing and Treatment Alternatives Act\"; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T11:23:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240596,
+   "label": "LC 48 1642/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240596"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:55:45+00:00",
+  "version:240596": "2026-11-20T19:55:45+00:00",
+  "status:40": "2026-11-20T19:55:45+00:00",
+  "status:33": "2026-11-20T19:55:45+00:00",
+  "status:34": "2026-11-20T19:55:45+00:00"
+ },
+ "updated": "2026-11-20T19:55:45+00:00"
+}

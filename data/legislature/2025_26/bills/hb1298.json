@@ -1,0 +1,95 @@
+{
+ "key": "HB 1298",
+ "slug": "hb1298",
+ "session": "2025_26",
+ "legislation_id": 73175,
+ "page": "https://www.legis.ga.gov/legislation/73175",
+ "document_type": "HB",
+ "number": 1298,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; exempt retail sale of electricity and natural gas for use by any residential property",
+ "summary": "A BILL to be entitled an Act to amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, so as to exempt the retail sale of electricity and natural gas for use by any residential property from sales and use taxes; to provide for the start date for such exemption; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T11:22:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242512,
+   "label": "LC 56 0575/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242512"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:12+00:00",
+  "version:242512": "2026-11-20T19:18:12+00:00",
+  "status:40": "2026-11-20T19:18:12+00:00",
+  "status:33": "2026-11-20T19:18:12+00:00",
+  "status:34": "2026-11-20T19:18:12+00:00"
+ },
+ "updated": "2026-11-20T19:18:12+00:00"
+}

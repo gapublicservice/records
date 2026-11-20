@@ -1,0 +1,67 @@
+{
+ "key": "SR 662",
+ "slug": "sr662",
+ "session": "2025_26",
+ "legislation_id": 72633,
+ "page": "https://www.legis.ga.gov/legislation/72633",
+ "document_type": "SR",
+ "number": 662,
+ "legislation_type": "NP",
+ "caption": "Taiwan; recognize",
+ "summary": "A RESOLUTION recognizing and commending Taiwan for its relations with the United States and the state of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:25:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-02T10:10:58",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240889,
+   "label": "As introduced LC 129 0708",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240889"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:05:55+00:00",
+  "version:240889": "2026-11-20T21:05:55+00:00",
+  "status:67": "2026-11-20T21:05:55+00:00",
+  "status:3": "2026-11-20T21:05:55+00:00"
+ },
+ "updated": "2026-11-20T21:05:55+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "SR 623",
+ "slug": "sr623",
+ "session": "2025_26",
+ "legislation_id": 72467,
+ "page": "https://www.legis.ga.gov/legislation/72467",
+ "document_type": "SR",
+ "number": 623,
+ "legislation_type": "PRIV",
+ "caption": "Captain John Collins Chapter of the Georgia Society of the Sons of the American Revolution; recognize",
+ "summary": "A RESOLUTION recognizing the 25th Anniversary of the Captain John Collins Chapter of the Georgia Society of the Sons of the American Revolution; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T16:04:31",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T11:55:52",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240428,
+   "label": "Read and adopted LC 129 0656",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240428"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:05:01+00:00",
+  "version:240428": "2026-11-20T21:05:01+00:00",
+  "status:67": "2026-11-20T21:05:01+00:00",
+  "status:66": "2026-11-20T21:05:01+00:00"
+ },
+ "updated": "2026-11-20T21:05:01+00:00"
+}

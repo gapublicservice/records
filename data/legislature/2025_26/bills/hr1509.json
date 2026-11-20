@@ -1,0 +1,75 @@
+{
+ "key": "HR 1509",
+ "slug": "hr1509",
+ "session": "2025_26",
+ "legislation_id": 73741,
+ "page": "https://www.legis.ga.gov/legislation/73741",
+ "document_type": "HR",
+ "number": 1509,
+ "legislation_type": "PRIV",
+ "caption": "Parsa, Hayes Robert; Darlington High School's 2025-2026 STAR Student; commend",
+ "summary": "A RESOLUTION commending Hayes Robert Parsa, Darlington High School's 2025-2026 STAR Student; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4966,
+   "name": "Barton, Matt 5th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-26T14:20:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T15:14:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T15:14:27",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244414,
+   "label": "LC 129 1197/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244414"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:05+00:00",
+  "version:244414": "2026-11-20T20:05:05+00:00",
+  "status:40": "2026-11-20T20:05:05+00:00",
+  "status:33": "2026-11-20T20:05:05+00:00",
+  "status:48": "2026-11-20T20:05:05+00:00"
+ },
+ "updated": "2026-11-20T20:05:05+00:00"
+}

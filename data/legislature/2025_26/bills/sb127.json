@@ -1,0 +1,146 @@
+{
+ "key": "SB 127",
+ "slug": "sb127",
+ "session": "2025_26",
+ "legislation_id": 70081,
+ "page": "https://www.legis.ga.gov/legislation/70081",
+ "document_type": "SB",
+ "number": 127,
+ "legislation_type": "GEN",
+ "caption": "Contracts with Small Businesses; automatic renewal provisions; definitions; provide and revise",
+ "summary": "A BILL to be entitled an Act to amend Title 13 of the Official Code of Georgia Annotated, relating to contracts, so as to make certain disclosure and notification requirements concerning automatic renewal provisions applicable to service contracts with small businesses; to revise and provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 850,
+   "name": "Harbin, Marty 16th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Regulated Industries and Utilities",
+   "id": 141
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T10:32:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-11T10:09:39",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-18T12:48:06",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported  By Substitute",
+   "id": 8
+  },
+  {
+   "date": "2025-02-19T10:39:08",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:30:07",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231734,
+   "label": "As introduced LC 55 0462",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231734"
+  },
+  {
+   "doc_id": 232593,
+   "label": "Committee sub LC 55 0502S",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232593"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "utility_committee"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T20:26:13+00:00",
+  "version:231734": "2026-11-20T20:26:13+00:00",
+  "version:232593": "2026-11-20T20:26:13+00:00",
+  "status:67": "2026-11-20T20:26:13+00:00",
+  "status:3": "2026-11-20T20:26:13+00:00",
+  "status:8": "2026-11-20T20:26:13+00:00",
+  "status:10": "2026-11-20T20:26:13+00:00",
+  "status:103": "2026-11-20T20:26:13+00:00"
+ },
+ "updated": "2026-11-20T20:26:13+00:00"
+}

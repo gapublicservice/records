@@ -1,0 +1,81 @@
+{
+ "key": "HB 25",
+ "slug": "hb25",
+ "session": "2025_26",
+ "legislation_id": 69305,
+ "page": "https://www.legis.ga.gov/legislation/69305",
+ "document_type": "HB",
+ "number": 25,
+ "legislation_type": "GEN",
+ "caption": "Dignity is Essential Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance generally, so as to provide for the submission of a waiver request by the Department of Human Services to permit the recipients of certain public assistance benefits to use such benefits for the purpose of purchasing diapers or menstrual hygiene products if the United States Department of Agriculture Food and Nutrition Service makes such waiver available to states; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:34:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229804,
+   "label": "LC 60 0033/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229804"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:52+00:00",
+  "version:229804": "2026-11-20T18:16:52+00:00",
+  "status:40": "2026-11-20T18:16:52+00:00",
+  "status:33": "2026-11-20T18:16:52+00:00",
+  "status:34": "2026-11-20T18:16:52+00:00"
+ },
+ "updated": "2026-11-20T18:16:52+00:00"
+}

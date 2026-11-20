@@ -1,0 +1,102 @@
+{
+ "key": "HB 343",
+ "slug": "hb343",
+ "session": "2025_26",
+ "legislation_id": 70100,
+ "page": "https://www.legis.ga.gov/legislation/70100",
+ "document_type": "HB",
+ "number": 343,
+ "legislation_type": "GEN",
+ "caption": "Georgia Living Wage Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 34 and 42 of the Official Code of Georgia Annotated, relating to labor and industrial relations and penal institutions, respectively, so as to enact the \"Georgia Living Wage Act\"; to revise the eligibility exemptions from the minimum wage; to provide that no employer shall utilize a certificate issued by the United States Department of Labor pursuant to 29 U.S.C. Section 214(c) to pay individuals with disabilities less than the federal minimum wage; to require the payment of minimum wage for inmate labor; to revise authorized deductions from inmate wages; to provide for a short title; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T13:42:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231785,
+   "label": "LC 55 0465/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231785"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:33:09+00:00",
+  "version:231785": "2026-11-20T18:33:09+00:00",
+  "status:40": "2026-11-20T18:33:09+00:00",
+  "status:33": "2026-11-20T18:33:09+00:00",
+  "status:34": "2026-11-20T18:33:09+00:00"
+ },
+ "updated": "2026-11-20T18:33:09+00:00"
+}

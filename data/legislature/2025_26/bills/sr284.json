@@ -1,0 +1,88 @@
+{
+ "key": "SR 284",
+ "slug": "sr284",
+ "session": "2025_26",
+ "legislation_id": 70894,
+ "page": "https://www.legis.ga.gov/legislation/70894",
+ "document_type": "SR",
+ "number": 284,
+ "legislation_type": "GEN",
+ "caption": "Peace Officer Memorial Highway; Cobb County; dedicate",
+ "summary": "A RESOLUTION honoring fallen peace officers of Georgia and dedicating a road in their memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Transportation",
+   "id": 86
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T15:19:45",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:33:56",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234126,
+   "label": "As introduced LC 39 4682",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234126"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:56:50+00:00",
+  "version:234126": "2026-11-20T20:56:50+00:00",
+  "status:67": "2026-11-20T20:56:50+00:00",
+  "status:3": "2026-11-20T20:56:50+00:00"
+ },
+ "updated": "2026-11-20T20:56:50+00:00"
+}

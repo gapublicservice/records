@@ -1,0 +1,75 @@
+{
+ "key": "HR 768",
+ "slug": "hr768",
+ "session": "2025_26",
+ "legislation_id": 71746,
+ "page": "https://www.legis.ga.gov/legislation/71746",
+ "document_type": "HR",
+ "number": 768,
+ "legislation_type": "PRIV",
+ "caption": "Pimentel, Miguel; Heritage High School's Class of 2025 salutatorian; commend",
+ "summary": "A RESOLUTION commending Miguel Pimentel, Heritage High School's Class of 2025 salutatorian; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:47:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:15",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237670,
+   "label": "LC 129 0388/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237670"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:07+00:00",
+  "version:237670": "2026-11-20T19:48:07+00:00",
+  "status:40": "2026-11-20T19:48:07+00:00",
+  "status:33": "2026-11-20T19:48:07+00:00",
+  "status:48": "2026-11-20T19:48:07+00:00"
+ },
+ "updated": "2026-11-20T19:48:07+00:00"
+}

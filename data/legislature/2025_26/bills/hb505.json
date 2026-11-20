@@ -1,0 +1,81 @@
+{
+ "key": "HB 505",
+ "slug": "hb505",
+ "session": "2025_26",
+ "legislation_id": 70435,
+ "page": "https://www.legis.ga.gov/legislation/70435",
+ "document_type": "HB",
+ "number": 505,
+ "legislation_type": "GEN",
+ "caption": "Career Readiness and Economic Development Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to provide for the development of career development plans for secondary students; to add requirements for career development plans; to provide for the development of an electronic platform for career development plans; to provide requirements for such electronic platform; to provide for the collection of data and evaluation of career development plans; to provide for definitions; to provide for conforming changes; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-18T15:48:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-19T10:46:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-20T10:26:05",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232734,
+   "label": "LC 61 0099/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232734"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:40:49+00:00",
+  "version:232734": "2026-11-20T18:40:49+00:00",
+  "status:40": "2026-11-20T18:40:49+00:00",
+  "status:33": "2026-11-20T18:40:49+00:00",
+  "status:34": "2026-11-20T18:40:49+00:00"
+ },
+ "updated": "2026-11-20T18:40:49+00:00"
+}

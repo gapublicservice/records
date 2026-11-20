@@ -1,0 +1,67 @@
+{
+ "key": "HR 548",
+ "slug": "hr548",
+ "session": "2025_26",
+ "legislation_id": 71239,
+ "page": "https://www.legis.ga.gov/legislation/71239",
+ "document_type": "HR",
+ "number": 548,
+ "legislation_type": "GEN",
+ "caption": "Mayor Betty Hannah Highway; Fulton County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mayor Betty Hannah and dedicating a road in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-06T18:43:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-10T13:41:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-11T13:17:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235589,
+   "label": "LC 39 4733/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235589"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:00+00:00",
+  "version:235589": "2026-11-20T19:43:00+00:00",
+  "status:40": "2026-11-20T19:43:00+00:00",
+  "status:33": "2026-11-20T19:43:00+00:00",
+  "status:34": "2026-11-20T19:43:00+00:00"
+ },
+ "updated": "2026-11-20T19:43:00+00:00"
+}

@@ -1,0 +1,105 @@
+{
+ "key": "HB 653",
+ "slug": "hb653",
+ "session": "2025_26",
+ "legislation_id": 70852,
+ "page": "https://www.legis.ga.gov/legislation/70852",
+ "document_type": "HB",
+ "number": 653,
+ "legislation_type": "GEN",
+ "caption": "Georgia Public Service Commission; rename as Georgia Public Utilities Commission",
+ "summary": "A BILL to be entitled an Act to amend Title 46 of the Official Code of Georgia Annotated, relating to public utilities and public transportation, and various other titles of the Official Code of Georgia Annotated so as to rename the Georgia Public Service Commission as the Georgia Public Utilities Commission; to provide for the succession of all rules, regulations, policies, procedures, and administrative orders of the Georgia Public Service Commission; to provide for the succession of all rights, privileges, entitlements, obligations, and duties of the Georgia Public Service Commission; to provide for the continued service of members of the Georgia Public Service Commission; to make conforming changes; to provide for related matters; to provide a contingent effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Agriculture & Consumer Affairs",
+   "id": 87
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:53:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234071,
+   "label": "LC 55 0438/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234071"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "title46",
+  "psc"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:47:54+00:00",
+  "version:234071": "2026-11-20T18:47:54+00:00",
+  "status:40": "2026-11-20T18:47:54+00:00",
+  "status:33": "2026-11-20T18:47:54+00:00",
+  "status:34": "2026-11-20T18:47:54+00:00"
+ },
+ "updated": "2026-11-20T18:47:54+00:00"
+}

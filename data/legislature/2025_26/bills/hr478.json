@@ -1,0 +1,68 @@
+{
+ "key": "HR 478",
+ "slug": "hr478",
+ "session": "2025_26",
+ "legislation_id": 71110,
+ "page": "https://www.legis.ga.gov/legislation/71110",
+ "document_type": "HR",
+ "number": 478,
+ "legislation_type": "PRIV",
+ "caption": "Wilder, Reverend Art; occasion of his retirement; recognize",
+ "summary": "A RESOLUTION recognizing and commending Reverend Art Wilder upon the occasion of his retirement; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-03T16:04:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T16:23:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T16:23:51",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234943,
+   "label": "LC 112 3225/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234943"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:41:28+00:00",
+  "version:234943": "2026-11-20T19:41:28+00:00",
+  "status:40": "2026-11-20T19:41:28+00:00",
+  "status:33": "2026-11-20T19:41:28+00:00",
+  "status:48": "2026-11-20T19:41:28+00:00"
+ },
+ "updated": "2026-11-20T19:41:28+00:00"
+}

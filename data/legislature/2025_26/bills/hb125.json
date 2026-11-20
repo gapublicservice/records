@@ -1,0 +1,88 @@
+{
+ "key": "HB 125",
+ "slug": "hb125",
+ "session": "2025_26",
+ "legislation_id": 69499,
+ "page": "https://www.legis.ga.gov/legislation/69499",
+ "document_type": "HB",
+ "number": 125,
+ "legislation_type": "GEN",
+ "caption": "Crimes and offenses; online menacing of a peace officer; provide for offense",
+ "summary": "A BILL to be entitled an Act to amend Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, so as to provide for the offense of online menacing of a peace officer; to provide for definitions; to provide for penalties; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T10:43:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230262,
+   "label": "LC 48 1362/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230262"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:21:57+00:00",
+  "version:230262": "2026-11-20T18:21:57+00:00",
+  "status:40": "2026-11-20T18:21:57+00:00",
+  "status:33": "2026-11-20T18:21:57+00:00",
+  "status:34": "2026-11-20T18:21:57+00:00"
+ },
+ "updated": "2026-11-20T18:21:57+00:00"
+}

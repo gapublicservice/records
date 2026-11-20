@@ -1,0 +1,61 @@
+{
+ "key": "HR 221",
+ "slug": "hr221",
+ "session": "2025_26",
+ "legislation_id": 70155,
+ "page": "https://www.legis.ga.gov/legislation/70155",
+ "document_type": "HR",
+ "number": 221,
+ "legislation_type": "PRIV",
+ "caption": "The Sacred Harp Publishing Company, The Sacred Harp tunebook, and Sacred Harp singers; commend",
+ "summary": "A RESOLUTION Recognizing and commending the Sacred Harp Publishing Company, The Sacred Harp tunebook, and Sacred Harp singers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-10T15:32:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T15:57:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-10T15:57:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231927,
+   "label": "LC 129 0126/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231927"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:46+00:00",
+  "version:231927": "2026-11-20T19:35:46+00:00",
+  "status:40": "2026-11-20T19:35:46+00:00",
+  "status:33": "2026-11-20T19:35:46+00:00",
+  "status:48": "2026-11-20T19:35:46+00:00"
+ },
+ "updated": "2026-11-20T19:35:46+00:00"
+}

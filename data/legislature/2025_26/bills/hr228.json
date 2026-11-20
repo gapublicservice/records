@@ -1,0 +1,96 @@
+{
+ "key": "HR 228",
+ "slug": "hr228",
+ "session": "2025_26",
+ "legislation_id": 70213,
+ "page": "https://www.legis.ga.gov/legislation/70213",
+ "document_type": "HR",
+ "number": 228,
+ "legislation_type": "PRIV",
+ "caption": "Duke, Nellie Dunaway; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Nellie Dunaway Duke; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:56:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232105,
+   "label": "LC 112 2894/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232105"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:55+00:00",
+  "version:232105": "2026-11-20T19:35:55+00:00",
+  "status:40": "2026-11-20T19:35:55+00:00",
+  "status:33": "2026-11-20T19:35:55+00:00",
+  "status:48": "2026-11-20T19:35:55+00:00"
+ },
+ "updated": "2026-11-20T19:35:55+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 1347",
+ "slug": "hb1347",
+ "session": "2025_26",
+ "legislation_id": 73289,
+ "page": "https://www.legis.ga.gov/legislation/73289",
+ "document_type": "HB",
+ "number": 1347,
+ "legislation_type": "GEN",
+ "caption": "Public Retirement Systems Investment Authority Law; provide certain retirement systems the option to invest in real estate",
+ "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 20 of Title 47 of the Official Code of Georgia Annotated, the \"Public Retirement Systems Investment Authority Law,\" so as to provide certain retirement systems the option to invest in real estate; to provide for an increase in certain retirement systems allowable alternative investments; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5053,
+   "name": "Franklin, Lehman 160th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:48:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T10:52:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242837,
+   "label": "LC 56 0549/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242837"
+  },
+  {
+   "doc_id": 242857,
+   "label": "Auditor's Certification LC 56 0549",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242857"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:19:59+00:00",
+  "version:242837": "2026-11-20T19:19:59+00:00",
+  "version:242857": "2026-11-20T19:19:59+00:00",
+  "status:40": "2026-11-20T19:19:59+00:00",
+  "status:33": "2026-11-20T19:19:59+00:00",
+  "status:34": "2026-11-20T19:19:59+00:00",
+  "status:39": "2026-11-20T19:19:59+00:00"
+ },
+ "updated": "2026-11-20T19:19:59+00:00"
+}

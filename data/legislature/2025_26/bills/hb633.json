@@ -1,0 +1,90 @@
+{
+ "key": "HB 633",
+ "slug": "hb633",
+ "session": "2025_26",
+ "legislation_id": 70810,
+ "page": "https://www.legis.ga.gov/legislation/70810",
+ "document_type": "HB",
+ "number": 633,
+ "legislation_type": "GEN",
+ "caption": "Elections; add caregivers to list of persons who may make absentee ballot applications for certain electors",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to add caregivers to the list of persons who may make absentee ballot applications for certain electors; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4890,
+   "name": "Bazemore, Debra 69th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:15:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:57",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233939,
+   "label": "LC 47 3347/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233939"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:46:43+00:00",
+  "version:233939": "2026-11-20T18:46:43+00:00",
+  "status:40": "2026-11-20T18:46:43+00:00",
+  "status:33": "2026-11-20T18:46:43+00:00",
+  "status:34": "2026-11-20T18:46:43+00:00"
+ },
+ "updated": "2026-11-20T18:46:43+00:00"
+}

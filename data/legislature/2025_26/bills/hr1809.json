@@ -1,0 +1,61 @@
+{
+ "key": "HR 1809",
+ "slug": "hr1809",
+ "session": "2025_26",
+ "legislation_id": 74290,
+ "page": "https://www.legis.ga.gov/legislation/74290",
+ "document_type": "HR",
+ "number": 1809,
+ "legislation_type": "PRIV",
+ "caption": "Toplin, Dr. Lieutenant Colonel Jacqueline; commend",
+ "summary": "A RESOLUTION recognizing and commending Dr. Lieutenant Colonel Jacqueline Toplin; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-19T14:09:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T14:51:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T14:51:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246723,
+   "label": "LC 129 1405/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246723"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:11:32+00:00",
+  "version:246723": "2026-11-20T20:11:32+00:00",
+  "status:40": "2026-11-20T20:11:32+00:00",
+  "status:33": "2026-11-20T20:11:32+00:00",
+  "status:48": "2026-11-20T20:11:32+00:00"
+ },
+ "updated": "2026-11-20T20:11:32+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HR 1372",
+ "slug": "hr1372",
+ "session": "2025_26",
+ "legislation_id": 73292,
+ "page": "https://www.legis.ga.gov/legislation/73292",
+ "document_type": "HR",
+ "number": 1372,
+ "legislation_type": "GEN",
+ "caption": "John A. Williams Memorial Bridge; Cobb County; dedicate",
+ "summary": "A RESOLUTION recognizing the life of Mr. John A. Williams and dedicating a bridge in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-17T12:49:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-18T10:42:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-19T09:04:22",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242838,
+   "label": "LC 39 4940/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:02:01+00:00",
+  "version:242838": "2026-11-20T20:02:01+00:00",
+  "status:40": "2026-11-20T20:02:01+00:00",
+  "status:33": "2026-11-20T20:02:01+00:00",
+  "status:34": "2026-11-20T20:02:01+00:00"
+ },
+ "updated": "2026-11-20T20:02:01+00:00"
+}

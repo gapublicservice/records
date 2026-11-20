@@ -1,0 +1,102 @@
+{
+ "key": "HB 544",
+ "slug": "hb544",
+ "session": "2025_26",
+ "legislation_id": 70581,
+ "page": "https://www.legis.ga.gov/legislation/70581",
+ "document_type": "HB",
+ "number": 544,
+ "legislation_type": "GEN",
+ "caption": "Jimmy Carter Award for Civic Engagement; establish",
+ "summary": "A BILL to be entitled an Act to amend Code Section 20-2-310 of the Official Code of Georgia Annotated, relating to student directory information, registering to vote and with selective service, and pledge of allegiance, so as to establish the Jimmy Carter Award for Civic Engagement; to provide for policies and procedures; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T10:47:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233192,
+   "label": "LC 61 0134/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233192"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:42:31+00:00",
+  "version:233192": "2026-11-20T18:42:31+00:00",
+  "status:40": "2026-11-20T18:42:31+00:00",
+  "status:33": "2026-11-20T18:42:31+00:00",
+  "status:34": "2026-11-20T18:42:31+00:00"
+ },
+ "updated": "2026-11-20T18:42:31+00:00"
+}

@@ -1,0 +1,115 @@
+{
+ "key": "HB 204",
+ "slug": "hb204",
+ "session": "2025_26",
+ "legislation_id": 69720,
+ "page": "https://www.legis.ga.gov/legislation/69720",
+ "document_type": "HB",
+ "number": 204,
+ "legislation_type": "GEN",
+ "caption": "Public Safety, Department of; establish reasonable rates, fares, and charges for transportation by motor carriers of household goods; repeal authority",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to certification of motor carriers, so as to repeal the authority of the Department of Public Safety to establish reasonable rates, fares, and charges for transportation by motor carriers of household goods; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Motor Vehicles",
+   "id": 97
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:10:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-03T10:40:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T10:18:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-26T10:01:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-03T10:22:11",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230844,
+   "label": "LC 55 0367/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230844"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:26:25+00:00",
+  "version:230844": "2026-11-20T18:26:25+00:00",
+  "status:40": "2026-11-20T18:26:25+00:00",
+  "status:33": "2026-11-20T18:26:25+00:00",
+  "status:34": "2026-11-20T18:26:25+00:00",
+  "status:39": "2026-11-20T18:26:25+00:00",
+  "status:50": "2026-11-20T18:26:25+00:00"
+ },
+ "updated": "2026-11-20T18:26:25+00:00"
+}

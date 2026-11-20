@@ -1,0 +1,102 @@
+{
+ "key": "HR 399",
+ "slug": "hr399",
+ "session": "2025_26",
+ "legislation_id": 70858,
+ "page": "https://www.legis.ga.gov/legislation/70858",
+ "document_type": "HR",
+ "number": 399,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on One-way Street Markings; create",
+ "summary": "A RESOLUTION creating the House Study Committee on One-way Street Markings; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:56:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:47:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234080,
+   "label": "LC 39 4649/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234080"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:42+00:00",
+  "version:234080": "2026-11-20T19:39:42+00:00",
+  "status:40": "2026-11-20T19:39:42+00:00",
+  "status:33": "2026-11-20T19:39:42+00:00",
+  "status:34": "2026-11-20T19:39:42+00:00"
+ },
+ "updated": "2026-11-20T19:39:42+00:00"
+}

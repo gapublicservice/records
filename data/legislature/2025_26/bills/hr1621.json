@@ -1,0 +1,89 @@
+{
+ "key": "HR 1621",
+ "slug": "hr1621",
+ "session": "2025_26",
+ "legislation_id": 73956,
+ "page": "https://www.legis.ga.gov/legislation/73956",
+ "document_type": "HR",
+ "number": 1621,
+ "legislation_type": "PRIV",
+ "caption": "Pace Day at the Capitol; March 19, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 19, 2026, as Pace Day at the Capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-06T16:08:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T18:46:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T18:46:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245402,
+   "label": "LC 112 3796/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245402"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:07:30+00:00",
+  "version:245402": "2026-11-20T20:07:30+00:00",
+  "status:40": "2026-11-20T20:07:30+00:00",
+  "status:33": "2026-11-20T20:07:30+00:00",
+  "status:48": "2026-11-20T20:07:30+00:00"
+ },
+ "updated": "2026-11-20T20:07:30+00:00"
+}

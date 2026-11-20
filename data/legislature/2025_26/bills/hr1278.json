@@ -1,0 +1,96 @@
+{
+ "key": "HR 1278",
+ "slug": "hr1278",
+ "session": "2025_26",
+ "legislation_id": 72987,
+ "page": "https://www.legis.ga.gov/legislation/72987",
+ "document_type": "HR",
+ "number": 1278,
+ "legislation_type": "PRIV",
+ "caption": "Tidmore, Annabelle; Miss Cobb County's Teen 2026; commend",
+ "summary": "A RESOLUTION recognizing and congratulating Annabelle Tidmore, Miss Cobb County's Teen 2026; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:59:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:08",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241924,
+   "label": "LC 129 0959/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241924"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:32+00:00",
+  "version:241924": "2026-11-20T19:59:32+00:00",
+  "status:40": "2026-11-20T19:59:32+00:00",
+  "status:33": "2026-11-20T19:59:32+00:00",
+  "status:48": "2026-11-20T19:59:32+00:00"
+ },
+ "updated": "2026-11-20T19:59:32+00:00"
+}

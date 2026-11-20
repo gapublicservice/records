@@ -1,0 +1,81 @@
+{
+ "key": "HB 900",
+ "slug": "hb900",
+ "session": "2025_26",
+ "legislation_id": 71973,
+ "page": "https://www.legis.ga.gov/legislation/71973",
+ "document_type": "HB",
+ "number": 900,
+ "legislation_type": "GEN",
+ "caption": "Employees' Retirement System; any member shall be eligible to transfer funds to Judicial Retirement System; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 47-23-64 of the Official Code of Georgia Annotated, relating to transfer of funds from the Employees' Retirement System of Georgia to the Georgia Judicial Retirement System by superior court judges, district attorneys, or solicitors-general and crediting service, so as to provide that any member of such retirement system shall be eligible to transfer funds; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T11:51:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238743,
+   "label": "LC 56 0400/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238743"
+  },
+  {
+   "doc_id": 238763,
+   "label": "Auditor's Certification LC 56 0400",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238763"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:06+00:00",
+  "version:238743": "2026-11-20T19:01:06+00:00",
+  "version:238763": "2026-11-20T19:01:06+00:00",
+  "status:40": "2026-11-20T19:01:06+00:00",
+  "status:33": "2026-11-20T19:01:06+00:00",
+  "status:34": "2026-11-20T19:01:06+00:00"
+ },
+ "updated": "2026-11-20T19:01:06+00:00"
+}

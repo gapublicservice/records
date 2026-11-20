@@ -1,0 +1,82 @@
+{
+ "key": "HR 1275",
+ "slug": "hr1275",
+ "session": "2025_26",
+ "legislation_id": 72985,
+ "page": "https://www.legis.ga.gov/legislation/72985",
+ "document_type": "HR",
+ "number": 1275,
+ "legislation_type": "PRIV",
+ "caption": "Coleman, Dr. Thomas L.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Dr. Thomas L. Coleman; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:58:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241921,
+   "label": "LC 129 0996/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241921"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:28+00:00",
+  "version:241921": "2026-11-20T19:59:28+00:00",
+  "status:40": "2026-11-20T19:59:28+00:00",
+  "status:33": "2026-11-20T19:59:28+00:00",
+  "status:48": "2026-11-20T19:59:28+00:00"
+ },
+ "updated": "2026-11-20T19:59:28+00:00"
+}

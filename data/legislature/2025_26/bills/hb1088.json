@@ -1,0 +1,95 @@
+{
+ "key": "HB 1088",
+ "slug": "hb1088",
+ "session": "2025_26",
+ "legislation_id": 72594,
+ "page": "https://www.legis.ga.gov/legislation/72594",
+ "document_type": "HB",
+ "number": 1088,
+ "legislation_type": "GEN",
+ "caption": "Chiropractors; replace term chiropractor with chiropractic physician",
+ "summary": "A BILL to be entitled an Act to amend Chapter 9 of Title 43 of the Official Code of Georgia Annotated, relating to chiropractors, so as to replace the term \"chiropractor\" with \"chiropractic physician\"; to amend Title 14 of the Official Code of Georgia Annotated, relating to corporations, partnerships, and associations, so as to provide for professional corporations jointly owned by chiropractic physicians and physicians; to amend Title 45 of the Official Code of Georgia Annotated, relating to public officers and employees, so as to provide for conforming changes in terminology; to amend various titles of the Official Code of Georgia Annotated, so as to provide for conforming changes in terminology; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T11:15:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:42:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240835,
+   "label": "LC 52 0963/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240835"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:08:45+00:00",
+  "version:240835": "2026-11-20T19:08:45+00:00",
+  "status:40": "2026-11-20T19:08:45+00:00",
+  "status:33": "2026-11-20T19:08:45+00:00",
+  "status:34": "2026-11-20T19:08:45+00:00"
+ },
+ "updated": "2026-11-20T19:08:45+00:00"
+}

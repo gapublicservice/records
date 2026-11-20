@@ -1,0 +1,103 @@
+{
+ "key": "SR 91",
+ "slug": "sr91",
+ "session": "2025_26",
+ "legislation_id": 69772,
+ "page": "https://www.legis.ga.gov/legislation/69772",
+ "document_type": "SR",
+ "number": 91,
+ "legislation_type": "PRIV",
+ "caption": "Rucker, Mr. Nicholas; congratulate",
+ "summary": "A RESOLUTION congratulating and commending Mr. Nicholas Rucker; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-03T11:42:10",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-04T11:36:51",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230938,
+   "label": "Read and adopted LC 112 2763",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230938"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:52:23+00:00",
+  "version:230938": "2026-11-20T20:52:23+00:00",
+  "status:67": "2026-11-20T20:52:23+00:00",
+  "status:66": "2026-11-20T20:52:23+00:00"
+ },
+ "updated": "2026-11-20T20:52:23+00:00"
+}

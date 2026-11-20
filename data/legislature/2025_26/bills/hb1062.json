@@ -1,0 +1,102 @@
+{
+ "key": "HB 1062",
+ "slug": "hb1062",
+ "session": "2025_26",
+ "legislation_id": 72513,
+ "page": "https://www.legis.ga.gov/legislation/72513",
+ "document_type": "HB",
+ "number": 1062,
+ "legislation_type": "GEN",
+ "caption": "Education, Department of; publish relevant and applicable federal guidance documents and related information; require",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the State School Superintendent, so as to require the Department of Education to publish relevant and applicable federal guidance documents and related information; to provide for definitions; to provide for construction; to require annual notice from the State School Superintendent to designated committees and offices of the General Assembly and the Office of Planning and Budget; to authorize the State Board of Education to adopt rules; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:23:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240600,
+   "label": "LC 49 2530/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240600"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:32+00:00",
+  "version:240600": "2026-11-20T19:07:32+00:00",
+  "status:40": "2026-11-20T19:07:32+00:00",
+  "status:33": "2026-11-20T19:07:32+00:00",
+  "status:34": "2026-11-20T19:07:32+00:00"
+ },
+ "updated": "2026-11-20T19:07:32+00:00"
+}

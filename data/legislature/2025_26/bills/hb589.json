@@ -1,0 +1,88 @@
+{
+ "key": "HB 589",
+ "slug": "hb589",
+ "session": "2025_26",
+ "legislation_id": 70698,
+ "page": "https://www.legis.ga.gov/legislation/70698",
+ "document_type": "HB",
+ "number": 589,
+ "legislation_type": "GEN",
+ "caption": "Social services; coverage for fertility diagnostic care, treatment, and preservation services; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to medical assistance generally, so as to provide coverage for fertility diagnostic care, fertility treatment, and for fertility preservation services; to provide for amending the Georgia Medicaid plan; to provide for a plan amendment or waiver when necessary; to provide for definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T12:15:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T10:40:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-26T10:19:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233511,
+   "label": "LC 46 1072/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233511"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:44:41+00:00",
+  "version:233511": "2026-11-20T18:44:41+00:00",
+  "status:40": "2026-11-20T18:44:41+00:00",
+  "status:33": "2026-11-20T18:44:41+00:00",
+  "status:34": "2026-11-20T18:44:41+00:00"
+ },
+ "updated": "2026-11-20T18:44:41+00:00"
+}

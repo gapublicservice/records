@@ -1,0 +1,68 @@
+{
+ "key": "HR 805",
+ "slug": "hr805",
+ "session": "2025_26",
+ "legislation_id": 71782,
+ "page": "https://www.legis.ga.gov/legislation/71782",
+ "document_type": "HR",
+ "number": 805,
+ "legislation_type": "PRIV",
+ "caption": "Murray, Ray; commend",
+ "summary": "A RESOLUTION recognizing and commending Ray Murray; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T13:59:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237671,
+   "label": "LC 112 3523/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237671"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:55+00:00",
+  "version:237671": "2026-11-20T19:48:55+00:00",
+  "status:40": "2026-11-20T19:48:55+00:00",
+  "status:33": "2026-11-20T19:48:55+00:00",
+  "status:48": "2026-11-20T19:48:55+00:00"
+ },
+ "updated": "2026-11-20T19:48:55+00:00"
+}

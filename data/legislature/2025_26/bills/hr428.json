@@ -1,0 +1,95 @@
+{
+ "key": "HR 428",
+ "slug": "hr428",
+ "session": "2025_26",
+ "legislation_id": 70946,
+ "page": "https://www.legis.ga.gov/legislation/70946",
+ "document_type": "HR",
+ "number": 428,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Affordability and Accessibility of Georgia's Legitimation Process; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Affordability and Accessibility of Georgia's Legitimation Process; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-27T12:11:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-28T09:39:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-03T10:11:25",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234352,
+   "label": "LC 57 0252/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234352"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:40:20+00:00",
+  "version:234352": "2026-11-20T19:40:20+00:00",
+  "status:40": "2026-11-20T19:40:20+00:00",
+  "status:33": "2026-11-20T19:40:20+00:00",
+  "status:34": "2026-11-20T19:40:20+00:00"
+ },
+ "updated": "2026-11-20T19:40:20+00:00"
+}

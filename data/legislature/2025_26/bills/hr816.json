@@ -1,0 +1,123 @@
+{
+ "key": "HR 816",
+ "slug": "hr816",
+ "session": "2025_26",
+ "legislation_id": 71802,
+ "page": "https://www.legis.ga.gov/legislation/71802",
+ "document_type": "HR",
+ "number": 816,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on an At-Risk Populations Abuse Registry; create",
+ "summary": "A RESOLUTION creating the House Study Committee on an At-Risk Populations Abuse Registry; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 863,
+   "name": "Werkheiser, Bill 157th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Human Relations & Aging",
+   "id": 93
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-27T15:19:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T15:35:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-04-02T10:20:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238648,
+   "label": "LC 62 0213S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238648"
+  },
+  {
+   "doc_id": 237745,
+   "label": "LC 59 0175/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237745"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:49:09+00:00",
+  "version:238648": "2026-11-20T19:49:09+00:00",
+  "version:237745": "2026-11-20T19:49:09+00:00",
+  "status:40": "2026-11-20T19:49:09+00:00",
+  "status:33": "2026-11-20T19:49:09+00:00",
+  "status:34": "2026-11-20T19:49:09+00:00",
+  "status:39": "2026-11-20T19:49:09+00:00",
+  "status:50": "2026-11-20T19:49:09+00:00"
+ },
+ "updated": "2026-11-20T19:49:09+00:00"
+}

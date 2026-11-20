@@ -1,0 +1,88 @@
+{
+ "key": "HR 12",
+ "slug": "hr12",
+ "session": "2025_26",
+ "legislation_id": 69318,
+ "page": "https://www.legis.ga.gov/legislation/69318",
+ "document_type": "HR",
+ "number": 12,
+ "legislation_type": "NP",
+ "caption": "Community Activist Month; April; designate",
+ "summary": "A RESOLUTION designating the month of April as Community Activist Month; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:52:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229815,
+   "label": "LC 62 0039/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229815"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:45+00:00",
+  "version:229815": "2026-11-20T19:30:45+00:00",
+  "status:40": "2026-11-20T19:30:45+00:00",
+  "status:33": "2026-11-20T19:30:45+00:00",
+  "status:34": "2026-11-20T19:30:45+00:00"
+ },
+ "updated": "2026-11-20T19:30:45+00:00"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "HR 947",
+ "slug": "hr947",
+ "session": "2025_26",
+ "legislation_id": 72054,
+ "page": "https://www.legis.ga.gov/legislation/72054",
+ "document_type": "HR",
+ "number": 947,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Five Points MARTA Station Permit Issuance; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Five Points MARTA Station Permit Issuance; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T22:45:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:40:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T11:06:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239037,
+   "label": "LC 39 4815/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239037"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:02+00:00",
+  "version:239037": "2026-11-20T19:52:02+00:00",
+  "status:40": "2026-11-20T19:52:02+00:00",
+  "status:33": "2026-11-20T19:52:02+00:00",
+  "status:34": "2026-11-20T19:52:02+00:00"
+ },
+ "updated": "2026-11-20T19:52:02+00:00"
+}

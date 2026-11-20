@@ -1,0 +1,88 @@
+{
+ "key": "SB 484",
+ "slug": "sb484",
+ "session": "2025_26",
+ "legislation_id": 73052,
+ "page": "https://www.legis.ga.gov/legislation/73052",
+ "document_type": "SB",
+ "number": 484,
+ "legislation_type": "GEN",
+ "caption": "Certificated Professional Personnel; pathway to certification by the Professional Standards Commission for experienced teachers; provide",
+ "summary": "A BILL to be entitled an Act to amend Subpart 1 of Part 6 of Article 6 of Chapter 2 of Title 20, relating to certificated professional personnel, so as to provide a pathway to certification by the Professional Standards Commission for experienced teachers; to provide requirements for such certification; to prohibit discriminatory or disparate treatment of teachers and candidates for such certification;  to provide a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 203,
+   "name": "Setzler, Ed 37th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Education and Youth",
+   "id": 120
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-10T10:26:24",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-11T10:09:37",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242137,
+   "label": "As Introduced LC 61 0298",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242137"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:43:12+00:00",
+  "version:242137": "2026-11-20T20:43:12+00:00",
+  "status:67": "2026-11-20T20:43:12+00:00",
+  "status:3": "2026-11-20T20:43:12+00:00"
+ },
+ "updated": "2026-11-20T20:43:12+00:00"
+}

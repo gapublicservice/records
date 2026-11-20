@@ -1,0 +1,89 @@
+{
+ "key": "HR 199",
+ "slug": "hr199",
+ "session": "2025_26",
+ "legislation_id": 70049,
+ "page": "https://www.legis.ga.gov/legislation/70049",
+ "document_type": "HR",
+ "number": 199,
+ "legislation_type": "PRIV",
+ "caption": "Henry County High School Navy Junior Reserve Officers Training Corps Warhawk Battalion; commend",
+ "summary": "A RESOLUTION commending the Henry County High School Navy Junior Reserve Officers Training Corps Warhawk Battalion; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 817,
+   "name": "Douglas, Demetrius 78th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:17:35",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-06T13:16:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T13:16:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231630,
+   "label": "LC 112 2857/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231630"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:18+00:00",
+  "version:231630": "2026-11-20T19:35:18+00:00",
+  "status:40": "2026-11-20T19:35:18+00:00",
+  "status:33": "2026-11-20T19:35:18+00:00",
+  "status:48": "2026-11-20T19:35:18+00:00"
+ },
+ "updated": "2026-11-20T19:35:18+00:00"
+}

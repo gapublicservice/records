@@ -1,0 +1,81 @@
+{
+ "key": "HB 1094",
+ "slug": "hb1094",
+ "session": "2025_26",
+ "legislation_id": 72610,
+ "page": "https://www.legis.ga.gov/legislation/72610",
+ "document_type": "HB",
+ "number": 1094,
+ "legislation_type": "GEN",
+ "caption": "Georgia School Bus Safety and Modernization Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to revise provisions for the calculation and distribution of funds by the State Board of Education to local units of administration for student transportation programs;to provide for priorities for such grants; to provide for a short title; to provide for legislative findings; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-29T12:11:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-02T10:43:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-03T10:20:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240926,
+   "label": "LC 56 0433/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240926"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:09:00+00:00",
+  "version:240926": "2026-11-20T19:09:00+00:00",
+  "status:40": "2026-11-20T19:09:00+00:00",
+  "status:33": "2026-11-20T19:09:00+00:00",
+  "status:34": "2026-11-20T19:09:00+00:00"
+ },
+ "updated": "2026-11-20T19:09:00+00:00"
+}

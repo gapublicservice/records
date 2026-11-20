@@ -1,0 +1,95 @@
+{
+ "key": "HR 658",
+ "slug": "hr658",
+ "session": "2025_26",
+ "legislation_id": 71501,
+ "page": "https://www.legis.ga.gov/legislation/71501",
+ "document_type": "HR",
+ "number": 658,
+ "legislation_type": "GEN",
+ "caption": "David Allen Donley Memorial Parkway; Cherokee County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. David Allen Donley and dedicating a road in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 795,
+   "name": "Carson, John 46th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T11:59:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236652,
+   "label": "LC 39 4735/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236652"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:45:25+00:00",
+  "version:236652": "2026-11-20T19:45:25+00:00",
+  "status:40": "2026-11-20T19:45:25+00:00",
+  "status:33": "2026-11-20T19:45:25+00:00",
+  "status:34": "2026-11-20T19:45:25+00:00"
+ },
+ "updated": "2026-11-20T19:45:25+00:00"
+}

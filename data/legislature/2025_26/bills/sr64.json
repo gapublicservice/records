@@ -1,0 +1,96 @@
+{
+ "key": "SR 64",
+ "slug": "sr64",
+ "session": "2025_26",
+ "legislation_id": 69696,
+ "page": "https://www.legis.ga.gov/legislation/69696",
+ "document_type": "SR",
+ "number": 64,
+ "legislation_type": "PRIV",
+ "caption": "Congenital Heart Defect Awareness Week; recognize February 7 to 14, 2025",
+ "summary": "A RESOLUTION recognizing February 7 to 14, 2025, as Congenital Heart Defect Awareness Week at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-29T13:47:30",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-30T12:03:31",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230725,
+   "label": "Read and adopted LC 112 2715",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230725"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:48+00:00",
+  "version:230725": "2026-11-20T20:51:48+00:00",
+  "status:67": "2026-11-20T20:51:48+00:00",
+  "status:66": "2026-11-20T20:51:48+00:00"
+ },
+ "updated": "2026-11-20T20:51:48+00:00"
+}

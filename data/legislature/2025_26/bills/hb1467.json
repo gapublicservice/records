@@ -1,0 +1,97 @@
+{
+ "key": "HB 1467",
+ "slug": "hb1467",
+ "session": "2025_26",
+ "legislation_id": 73702,
+ "page": "https://www.legis.ga.gov/legislation/73702",
+ "document_type": "HB",
+ "number": 1467,
+ "legislation_type": "GEN",
+ "caption": "Elections; motor-voter applications shall be opt-in instead of opt-out; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to provide that motor-voter applications shall be opt-in instead of opt-out; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T15:36:22",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T09:53:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T09:38:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244198,
+   "label": "LC 47 4114/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244198"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T19:23:58+00:00",
+  "version:244198": "2026-11-20T19:23:58+00:00",
+  "status:40": "2026-11-20T19:23:58+00:00",
+  "status:33": "2026-11-20T19:23:58+00:00",
+  "status:34": "2026-11-20T19:23:58+00:00"
+ },
+ "updated": "2026-11-20T19:23:58+00:00"
+}

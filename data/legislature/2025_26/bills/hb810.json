@@ -1,0 +1,155 @@
+{
+ "key": "HB 810",
+ "slug": "hb810",
+ "session": "2025_26",
+ "legislation_id": 71509,
+ "page": "https://www.legis.ga.gov/legislation/71509",
+ "document_type": "HB",
+ "number": 810,
+ "legislation_type": "GEN",
+ "caption": "Insurance; require that final reimbursements to pharmacies for prescription drugs are based on certain formulas",
+ "summary": "A BILL to be entitled an Act to amend Chapter 64 of Title 33 of the Official Code of Georgia Annotated, relating to regulation and licensure of pharmacy benefits managers and Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to medical assistance generally, so as to require that final reimbursements to pharmacies for prescription drugs are based on certain formulas; to provide for applicability; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 755,
+   "name": "Jasperse, Rick 11th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 786,
+   "name": "Taylor, Darlene 173rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T12:56:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:36",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-10T09:40:14",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-02-18T11:28:46",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-19T08:57:46",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-03T10:32:20",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245194,
+   "label": "LC 46 1507S/hs",
+   "version": 8,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245194"
+  },
+  {
+   "doc_id": 243260,
+   "label": "LC 46 1454S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243260"
+  },
+  {
+   "doc_id": 242126,
+   "label": "LC 46 1418S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242126"
+  },
+  {
+   "doc_id": 236685,
+   "label": "LC 46 1212/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236685"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:54+00:00",
+  "version:245194": "2026-11-20T18:54:54+00:00",
+  "version:243260": "2026-11-20T18:54:54+00:00",
+  "version:242126": "2026-11-20T18:54:54+00:00",
+  "version:236685": "2026-11-20T18:54:54+00:00",
+  "status:40": "2026-11-20T18:54:54+00:00",
+  "status:33": "2026-11-20T18:54:54+00:00",
+  "status:34": "2026-11-20T18:54:54+00:00",
+  "status:39": "2026-11-20T18:54:54+00:00",
+  "status:50": "2026-11-20T18:54:54+00:00"
+ },
+ "updated": "2026-11-20T18:54:54+00:00"
+}

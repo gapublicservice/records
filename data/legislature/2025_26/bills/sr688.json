@@ -1,0 +1,61 @@
+{
+ "key": "SR 688",
+ "slug": "sr688",
+ "session": "2025_26",
+ "legislation_id": 72774,
+ "page": "https://www.legis.ga.gov/legislation/72774",
+ "document_type": "SR",
+ "number": 688,
+ "legislation_type": "PRIV",
+ "caption": "City of Wadley; congratulate",
+ "summary": "A RESOLUTION congratulating the City of Wadley upon its 150th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-03T11:08:09",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-05T11:38:51",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241312,
+   "label": "Read and adopted LC 129 0865",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241312"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:06:33+00:00",
+  "version:241312": "2026-11-20T21:06:33+00:00",
+  "status:67": "2026-11-20T21:06:33+00:00",
+  "status:66": "2026-11-20T21:06:33+00:00"
+ },
+ "updated": "2026-11-20T21:06:33+00:00"
+}

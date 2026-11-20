@@ -1,0 +1,61 @@
+{
+ "key": "HR 1901",
+ "slug": "hr1901",
+ "session": "2025_26",
+ "legislation_id": 74449,
+ "page": "https://www.legis.ga.gov/legislation/74449",
+ "document_type": "HR",
+ "number": 1901,
+ "legislation_type": "PRIV",
+ "caption": "Chapman, Buck; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Buck Chapman; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:37:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247558,
+   "label": "LC 129 1228/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247558"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:29+00:00",
+  "version:247558": "2026-11-20T20:13:29+00:00",
+  "status:40": "2026-11-20T20:13:29+00:00",
+  "status:33": "2026-11-20T20:13:29+00:00",
+  "status:48": "2026-11-20T20:13:29+00:00"
+ },
+ "updated": "2026-11-20T20:13:29+00:00"
+}

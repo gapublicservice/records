@@ -1,0 +1,88 @@
+{
+ "key": "HB 1017",
+ "slug": "hb1017",
+ "session": "2025_26",
+ "legislation_id": 72345,
+ "page": "https://www.legis.ga.gov/legislation/72345",
+ "document_type": "HB",
+ "number": 1017,
+ "legislation_type": "GEN",
+ "caption": "Property; prohibit certain business enterprises from purchasing or acquiring an interest in a single-family residential property",
+ "summary": "A BILL to be entitled an Act to amend Chapter 3 of Title 44 and Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to regulation of specialized land transactions and ad valorem taxation of property, respectively, so as to prohibit certain business enterprises from purchasing or acquiring an interest in a single-family residential property; to provide for construction; to provide for the assessment of real property purchased or acquired by certain business enterprises at 100 percent of its fair market value; to provide for penalties; to provide for certification of ownership; to provide for forms and applications; to provide for definitions; to provide for effective dates and automatic repeal; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T11:33:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240156,
+   "label": "LC 60 0216/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240156"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:03+00:00",
+  "version:240156": "2026-11-20T19:06:03+00:00",
+  "status:40": "2026-11-20T19:06:03+00:00",
+  "status:33": "2026-11-20T19:06:03+00:00",
+  "status:34": "2026-11-20T19:06:03+00:00"
+ },
+ "updated": "2026-11-20T19:06:03+00:00"
+}

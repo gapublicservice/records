@@ -1,0 +1,102 @@
+{
+ "key": "HB 650",
+ "slug": "hb650",
+ "session": "2025_26",
+ "legislation_id": 70849,
+ "page": "https://www.legis.ga.gov/legislation/70849",
+ "document_type": "HB",
+ "number": 650,
+ "legislation_type": "GEN",
+ "caption": "Presidential Felon Freedom Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 15, 43, 44, and 45 of the O.C.G.A., relating to courts, professions and businesses, property, and public officers and employees, respectively, so as to restore certain rights of individuals with criminal histories; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T13:49:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T14:32:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234037,
+   "label": "LC 55 0417/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234037"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:47:36+00:00",
+  "version:234037": "2026-11-20T18:47:36+00:00",
+  "status:40": "2026-11-20T18:47:36+00:00",
+  "status:33": "2026-11-20T18:47:36+00:00",
+  "status:34": "2026-11-20T18:47:36+00:00"
+ },
+ "updated": "2026-11-20T18:47:36+00:00"
+}

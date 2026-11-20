@@ -1,0 +1,74 @@
+{
+ "key": "HR 1523",
+ "slug": "hr1523",
+ "session": "2025_26",
+ "legislation_id": 73780,
+ "page": "https://www.legis.ga.gov/legislation/73780",
+ "document_type": "HR",
+ "number": 1523,
+ "legislation_type": "GEN",
+ "caption": "Victoria Travis Jackson Memorial Highway; Fulton County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mrs. Victoria Travis Jackson and dedicating a road in her memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-03T12:11:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-04T10:45:23",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-06T09:35:19",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244659,
+   "label": "LC 39 5010/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244659"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:23+00:00",
+  "version:244659": "2026-11-20T20:05:23+00:00",
+  "status:40": "2026-11-20T20:05:23+00:00",
+  "status:33": "2026-11-20T20:05:23+00:00",
+  "status:34": "2026-11-20T20:05:23+00:00"
+ },
+ "updated": "2026-11-20T20:05:23+00:00"
+}

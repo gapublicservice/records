@@ -1,0 +1,82 @@
+{
+ "key": "HR 2093",
+ "slug": "hr2093",
+ "session": "2025_26",
+ "legislation_id": 74706,
+ "page": "https://www.legis.ga.gov/legislation/74706",
+ "document_type": "HR",
+ "number": 2093,
+ "legislation_type": "PRIV",
+ "caption": "Hutchings, Jacob \"Jake\"; commend",
+ "summary": "A RESOLUTION recognizing and commending Jacob \"Jake\" Hutchings; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T13:23:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-04-02T14:38:12",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-04-02T14:38:14",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248862,
+   "label": "LC 129 1541/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248862"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:17:59+00:00",
+  "version:248862": "2026-11-20T20:17:59+00:00",
+  "status:40": "2026-11-20T20:17:59+00:00",
+  "status:33": "2026-11-20T20:17:59+00:00",
+  "status:48": "2026-11-20T20:17:59+00:00"
+ },
+ "updated": "2026-11-20T20:17:59+00:00"
+}

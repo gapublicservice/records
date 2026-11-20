@@ -1,0 +1,54 @@
+{
+ "key": "SR 599",
+ "slug": "sr599",
+ "session": "2025_26",
+ "legislation_id": 72395,
+ "page": "https://www.legis.ga.gov/legislation/72395",
+ "document_type": "SR",
+ "number": 599,
+ "legislation_type": "PRIV",
+ "caption": "City of Austell; recognize",
+ "summary": "A RESOLUTION recognizing and commending the City of Austell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-27T13:46:19",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-28T11:46:00",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240248,
+   "label": "Read and adopted LC 129 0520",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240248"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:27+00:00",
+  "version:240248": "2026-11-20T21:04:27+00:00",
+  "status:67": "2026-11-20T21:04:27+00:00",
+  "status:66": "2026-11-20T21:04:27+00:00"
+ },
+ "updated": "2026-11-20T21:04:27+00:00"
+}

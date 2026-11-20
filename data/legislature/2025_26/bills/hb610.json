@@ -1,0 +1,95 @@
+{
+ "key": "HB 610",
+ "slug": "hb610",
+ "session": "2025_26",
+ "legislation_id": 70738,
+ "page": "https://www.legis.ga.gov/legislation/70738",
+ "document_type": "HB",
+ "number": 610,
+ "legislation_type": "GEN",
+ "caption": "Local government; authorize acquisition of property interests by municipal elected and appointed officials and employees in redevelopment areas with certain conditions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 44 of Title 36 of the Official Code of Georgia Annotated, relating to redevelopment powers, so as to authorize acquisition of property interests by municipal elected and appointed officials and employees in redevelopment areas with certain conditions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-24T12:38:48",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-26T10:45:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-27T10:22:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233649,
+   "label": "LC 44 2997/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233649"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:30+00:00",
+  "version:233649": "2026-11-20T18:45:30+00:00",
+  "status:40": "2026-11-20T18:45:30+00:00",
+  "status:33": "2026-11-20T18:45:30+00:00",
+  "status:34": "2026-11-20T18:45:30+00:00"
+ },
+ "updated": "2026-11-20T18:45:30+00:00"
+}

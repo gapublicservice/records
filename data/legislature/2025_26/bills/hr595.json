@@ -1,0 +1,61 @@
+{
+ "key": "HR 595",
+ "slug": "hr595",
+ "session": "2025_26",
+ "legislation_id": 71364,
+ "page": "https://www.legis.ga.gov/legislation/71364",
+ "document_type": "HR",
+ "number": 595,
+ "legislation_type": "PRIV",
+ "caption": "All veterans and their families in this state; commend",
+ "summary": "A RESOLUTION commending all veterans and their families in this state; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-13T14:00:38",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-13T14:21:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T14:21:06",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236101,
+   "label": "LC 46 1191/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236101"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:03+00:00",
+  "version:236101": "2026-11-20T19:44:03+00:00",
+  "status:40": "2026-11-20T19:44:03+00:00",
+  "status:33": "2026-11-20T19:44:03+00:00",
+  "status:48": "2026-11-20T19:44:03+00:00"
+ },
+ "updated": "2026-11-20T19:44:03+00:00"
+}

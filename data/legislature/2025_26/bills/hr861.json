@@ -1,0 +1,96 @@
+{
+ "key": "HR 861",
+ "slug": "hr861",
+ "session": "2025_26",
+ "legislation_id": 71894,
+ "page": "https://www.legis.ga.gov/legislation/71894",
+ "document_type": "HR",
+ "number": 861,
+ "legislation_type": "PRIV",
+ "caption": "Redner, Trooper Chase Winston; condolences",
+ "summary": "A RESOLUTION honoring the life and legacy of Trooper Chase Winston Redner; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-31T14:08:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T14:42:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-31T14:42:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238302,
+   "label": "LC 112 3566/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238302"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:50:09+00:00",
+  "version:238302": "2026-11-20T19:50:09+00:00",
+  "status:40": "2026-11-20T19:50:09+00:00",
+  "status:33": "2026-11-20T19:50:09+00:00",
+  "status:48": "2026-11-20T19:50:09+00:00"
+ },
+ "updated": "2026-11-20T19:50:09+00:00"
+}

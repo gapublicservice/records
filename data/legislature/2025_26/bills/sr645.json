@@ -1,0 +1,131 @@
+{
+ "key": "SR 645",
+ "slug": "sr645",
+ "session": "2025_26",
+ "legislation_id": 72579,
+ "page": "https://www.legis.ga.gov/legislation/72579",
+ "document_type": "SR",
+ "number": 645,
+ "legislation_type": "NP",
+ "caption": "Joint Session; message from the Chief Justice of the Supreme Court",
+ "summary": "A RESOLUTION calling a joint session of the House of Representatives and the Senate for the purpose of hearing a message from the Chief Justice of the Supreme Court; inviting each other Justice of the Supreme Court and each Judge of the Court of Appeals to be present at the joint session; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T16:08:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-29T12:08:51",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  },
+  {
+   "date": "2026-02-02T12:35:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T12:35:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  },
+  {
+   "date": "2026-02-02T12:36:24",
+   "code": "HTS",
+   "action": "House Immediately Transmitted to Senate",
+   "id": 36
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241250,
+   "label": "SR 645/AP*",
+   "version": 7,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241250"
+  },
+  {
+   "doc_id": 240811,
+   "label": "Adopted Senate",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240811"
+  },
+  {
+   "doc_id": 240785,
+   "label": "As Introduced LC 33 9858",
+   "version": 5,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240785"
+  },
+  {
+   "doc_id": 240810,
+   "label": "Floor Amend 1 AM 33 2113",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240810"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:05:33+00:00",
+  "version:241250": "2026-11-20T21:05:33+00:00",
+  "version:240811": "2026-11-20T21:05:33+00:00",
+  "version:240785": "2026-11-20T21:05:33+00:00",
+  "version:240810": "2026-11-20T21:05:33+00:00",
+  "status:67": "2026-11-20T21:05:33+00:00",
+  "status:66": "2026-11-20T21:05:33+00:00",
+  "status:33": "2026-11-20T21:05:33+00:00",
+  "status:48": "2026-11-20T21:05:33+00:00",
+  "status:36": "2026-11-20T21:05:33+00:00"
+ },
+ "updated": "2026-11-20T21:05:33+00:00"
+}

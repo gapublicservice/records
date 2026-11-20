@@ -1,0 +1,88 @@
+{
+ "key": "SB 608",
+ "slug": "sb608",
+ "session": "2025_26",
+ "legislation_id": 73728,
+ "page": "https://www.legis.ga.gov/legislation/73728",
+ "document_type": "SB",
+ "number": 608,
+ "legislation_type": "GEN",
+ "caption": "Administration of Estates;  summary administration of certain estates; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 53 of the Official Code of Georgia Annotated, relating to administration of estates generally, so as to provide for the summary administration of certain estates; to provide for manner of summary administration; to provide for petitions for summary administration and their contents and filing; to provide for the distribution of estate assets under certain circumstances; to provide for the rights of creditors in summary administration; to provide for certain claims; to provide for a short title; to provide an effective date; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 837,
+   "name": "Watson, Sam 11th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 157,
+   "name": "Lucas, David 26th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-26T11:46:35",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-03T13:11:57",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244360,
+   "label": "As introduced LC 28 0749",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244360"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:48:49+00:00",
+  "version:244360": "2026-11-20T20:48:49+00:00",
+  "status:67": "2026-11-20T20:48:49+00:00",
+  "status:3": "2026-11-20T20:48:49+00:00"
+ },
+ "updated": "2026-11-20T20:48:49+00:00"
+}

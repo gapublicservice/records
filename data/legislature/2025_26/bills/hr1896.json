@@ -1,0 +1,89 @@
+{
+ "key": "HR 1896",
+ "slug": "hr1896",
+ "session": "2025_26",
+ "legislation_id": 74444,
+ "page": "https://www.legis.ga.gov/legislation/74444",
+ "document_type": "HR",
+ "number": 1896,
+ "legislation_type": "PRIV",
+ "caption": "Garvey, Marcus Mosiah; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Marcus Mosiah Garvey; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:35:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-25T16:43:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-25T16:43:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247537,
+   "label": "LC 112 4022/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247537"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:23+00:00",
+  "version:247537": "2026-11-20T20:13:23+00:00",
+  "status:40": "2026-11-20T20:13:23+00:00",
+  "status:33": "2026-11-20T20:13:23+00:00",
+  "status:48": "2026-11-20T20:13:23+00:00"
+ },
+ "updated": "2026-11-20T20:13:23+00:00"
+}

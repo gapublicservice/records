@@ -1,0 +1,74 @@
+{
+ "key": "SB 480",
+ "slug": "sb480",
+ "session": "2025_26",
+ "legislation_id": 73007,
+ "page": "https://www.legis.ga.gov/legislation/73007",
+ "document_type": "SB",
+ "number": 480,
+ "legislation_type": "GEN",
+ "caption": "\"Georgia Custodial Interference Reform Act\"; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 5 of Title 16 of the Official Code of Georgia Annotated, relating to kidnapping, false imprisonment, and related offenses, so as to revise provisions relative to the offenses of interference with custody and interstate interference with custody; to require law enforcement officers to issue a citation to persons suspected of interference with custody to appear in court within a time certain to present properly executed documentation or other tangible evidence showing that such person's conduct was authorized; to require preliminary hearings within seven business days of the issuance of such citations; to provide an applicable standard for probable cause; to provide a short title; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5088,
+   "name": "Dickerson, Jason T. 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T10:45:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-10T10:08:21",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241981,
+   "label": "As introduced LC 49 2524",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241981"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:43:05+00:00",
+  "version:241981": "2026-11-20T20:43:05+00:00",
+  "status:67": "2026-11-20T20:43:05+00:00",
+  "status:3": "2026-11-20T20:43:05+00:00"
+ },
+ "updated": "2026-11-20T20:43:05+00:00"
+}

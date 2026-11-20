@@ -1,0 +1,61 @@
+{
+ "key": "HR 1993",
+ "slug": "hr1993",
+ "session": "2025_26",
+ "legislation_id": 74564,
+ "page": "https://www.legis.ga.gov/legislation/74564",
+ "document_type": "HR",
+ "number": 1993,
+ "legislation_type": "PRIV",
+ "caption": "Davis, Mr. Right Reverend Gregory Karl; honoring the life and memory; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Mr. Right Reverend Gregory Karl Davis; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T15:06:43",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T15:54:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T15:54:26",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247982,
+   "label": "LC 112 4100/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247982"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:30+00:00",
+  "version:247982": "2026-11-20T20:15:30+00:00",
+  "status:40": "2026-11-20T20:15:30+00:00",
+  "status:33": "2026-11-20T20:15:30+00:00",
+  "status:48": "2026-11-20T20:15:30+00:00"
+ },
+ "updated": "2026-11-20T20:15:30+00:00"
+}

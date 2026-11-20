@@ -1,0 +1,109 @@
+{
+ "key": "HR 1889",
+ "slug": "hr1889",
+ "session": "2025_26",
+ "legislation_id": 74413,
+ "page": "https://www.legis.ga.gov/legislation/74413",
+ "document_type": "HR",
+ "number": 1889,
+ "legislation_type": "NP",
+ "caption": "Termed and perpetual conservation easements; important tools for promoting conservation practices; express support",
+ "summary": "A RESOLUTION expressing support for termed and perpetual conservation easements; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5085,
+   "name": "Ford, Jaclyn 170th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 791,
+   "name": "Dickey, Robert 134th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T10:59:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-31T10:58:39",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247368,
+   "label": "LC 112 4040/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247368"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:14+00:00",
+  "version:247368": "2026-11-20T20:13:14+00:00",
+  "status:40": "2026-11-20T20:13:14+00:00",
+  "status:33": "2026-11-20T20:13:14+00:00",
+  "status:34": "2026-11-20T20:13:14+00:00",
+  "status:39": "2026-11-20T20:13:14+00:00"
+ },
+ "updated": "2026-11-20T20:13:14+00:00"
+}

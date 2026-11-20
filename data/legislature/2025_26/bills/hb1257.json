@@ -1,0 +1,102 @@
+{
+ "key": "HB 1257",
+ "slug": "hb1257",
+ "session": "2025_26",
+ "legislation_id": 73027,
+ "page": "https://www.legis.ga.gov/legislation/73027",
+ "document_type": "HB",
+ "number": 1257,
+ "legislation_type": "GEN",
+ "caption": "Education; incentive grants for local boards of education to approve charter school petitions; revise provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and secondary education, so as to revise provisions for incentive grants for local boards of education to approve charter school petitions; to revise provisions for the Office of Charter School Compliance; to revise provisions relative to charter petitions by existing charter schools; to revise provisions relative to state charter school records; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5077,
+   "name": "Donatucci, Sandy 105th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T12:25:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T10:29:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T10:36:04",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-06T09:41:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245180,
+   "label": "LC 49 2710S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245180"
+  },
+  {
+   "doc_id": 242072,
+   "label": "LC 49 2593/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242072"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:16:16+00:00",
+  "version:245180": "2026-11-20T19:16:16+00:00",
+  "version:242072": "2026-11-20T19:16:16+00:00",
+  "status:40": "2026-11-20T19:16:16+00:00",
+  "status:33": "2026-11-20T19:16:16+00:00",
+  "status:34": "2026-11-20T19:16:16+00:00",
+  "status:39": "2026-11-20T19:16:16+00:00"
+ },
+ "updated": "2026-11-20T19:16:16+00:00"
+}

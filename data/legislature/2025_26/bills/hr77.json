@@ -1,0 +1,68 @@
+{
+ "key": "HR 77",
+ "slug": "hr77",
+ "session": "2025_26",
+ "legislation_id": 69610,
+ "page": "https://www.legis.ga.gov/legislation/69610",
+ "document_type": "HR",
+ "number": 77,
+ "legislation_type": "PRIV",
+ "caption": "OneGeorgia Authority; commend",
+ "summary": "A RESOLUTION commending the OneGeorgia Authority; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 183,
+   "name": "Parrish, Butch 158th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 73,
+   "name": "Burns, Jon 159th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-28T13:14:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T13:53:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T13:53:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230552,
+   "label": "LC 112 2779/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230552"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:29+00:00",
+  "version:230552": "2026-11-20T19:32:29+00:00",
+  "status:40": "2026-11-20T19:32:29+00:00",
+  "status:33": "2026-11-20T19:32:29+00:00",
+  "status:48": "2026-11-20T19:32:29+00:00"
+ },
+ "updated": "2026-11-20T19:32:29+00:00"
+}

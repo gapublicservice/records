@@ -1,0 +1,96 @@
+{
+ "key": "HR 706",
+ "slug": "hr706",
+ "session": "2025_26",
+ "legislation_id": 71592,
+ "page": "https://www.legis.ga.gov/legislation/71592",
+ "document_type": "HR",
+ "number": 706,
+ "legislation_type": "PRIV",
+ "caption": "Creel, Cole; commend",
+ "summary": "A RESOLUTION commending and congratulating Cole Creel; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-21T12:54:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T13:30:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-21T13:30:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236964,
+   "label": "LC 129 0365/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236964"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:43+00:00",
+  "version:236964": "2026-11-20T19:46:43+00:00",
+  "status:40": "2026-11-20T19:46:43+00:00",
+  "status:33": "2026-11-20T19:46:43+00:00",
+  "status:48": "2026-11-20T19:46:43+00:00"
+ },
+ "updated": "2026-11-20T19:46:43+00:00"
+}

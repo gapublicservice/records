@@ -1,0 +1,107 @@
+{
+ "key": "SR 262",
+ "slug": "sr262",
+ "session": "2025_26",
+ "legislation_id": 70788,
+ "page": "https://www.legis.ga.gov/legislation/70788",
+ "document_type": "SR",
+ "number": 262,
+ "legislation_type": "NP",
+ "caption": "Article V of the United States Constitution; a convention of the states; apply",
+ "summary": "A RESOLUTION applying for a convention of the states under Article V of the United States Constitution; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-25T16:23:39",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-26T10:14:56",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-03-03T12:41:37",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-03-04T10:22:57",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2025-03-06T18:13:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  },
+  {
+   "date": "2026-01-12T11:17:41",
+   "code": "STT",
+   "action": "Senate Taken from Table",
+   "id": 76
+  },
+  {
+   "date": "2026-01-12T11:21:27",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  },
+  {
+   "date": "2026-03-03T12:49:51",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2026-03-06T13:11:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233835,
+   "label": "As Introduced LC 55 0538",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233835"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:56:21+00:00",
+  "version:233835": "2026-11-20T20:56:21+00:00",
+  "status:67": "2026-11-20T20:56:21+00:00",
+  "status:3": "2026-11-20T20:56:21+00:00",
+  "status:8": "2026-11-20T20:56:21+00:00",
+  "status:10": "2026-11-20T20:56:21+00:00",
+  "status:64": "2026-11-20T20:56:21+00:00",
+  "status:76": "2026-11-20T20:56:21+00:00",
+  "status:103": "2026-11-20T20:56:21+00:00"
+ },
+ "updated": "2026-11-20T20:56:21+00:00"
+}

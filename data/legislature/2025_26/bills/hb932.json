@@ -1,0 +1,102 @@
+{
+ "key": "HB 932",
+ "slug": "hb932",
+ "session": "2025_26",
+ "legislation_id": 72081,
+ "page": "https://www.legis.ga.gov/legislation/72081",
+ "document_type": "HB",
+ "number": 932,
+ "legislation_type": "GEN",
+ "caption": "Revenue and taxation; tax credits for business enterprises; provide that certain military zones qualify for designation as less developed areas during a limited period of time",
+ "summary": "A BILL to be entitled an Act to amend Code Section 48-7-40.1 of the Official Code of Georgia Annotated, relating to tax credits for business enterprises in less developed areas, so as to provide for certain military zones that qualify for designation as less developed areas during a limited period of time; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4962,
+   "name": "Sainz, Steven 180th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-04T21:00:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-12T11:04:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-13T10:29:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239343,
+   "label": "LC 50 0963/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239343"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:01:59+00:00",
+  "version:239343": "2026-11-20T19:01:59+00:00",
+  "status:40": "2026-11-20T19:01:59+00:00",
+  "status:33": "2026-11-20T19:01:59+00:00",
+  "status:34": "2026-11-20T19:01:59+00:00"
+ },
+ "updated": "2026-11-20T19:01:59+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 993",
+ "slug": "hb993",
+ "session": "2025_26",
+ "legislation_id": 72260,
+ "page": "https://www.legis.ga.gov/legislation/72260",
+ "document_type": "HB",
+ "number": 993,
+ "legislation_type": "GEN",
+ "caption": "Nourish to Flourish Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 15 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to miscellaneous provisions under the \"Quality Basic Education Act,\" so as to require that public schools schedule a lunch period for each class that includes not less than 30 consecutive minutes of seated time beginning from the time that a majority of the class has been seated after receiving their meals; to require local boards of education or other public school governing bodies to establish certain policies; to require the State Board of Education to promulgate rules and regulations; to authorize the State Board of Education to provide grants; to provide a definition; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5070,
+   "name": "McQueen, Mekyah 61st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 95,
+   "name": "Drenner, Karla 85th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-15T12:54:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-16T10:31:24",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-27T11:18:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239941,
+   "label": "LC 61 0323/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239941"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:01+00:00",
+  "version:239941": "2026-11-20T19:05:01+00:00",
+  "status:40": "2026-11-20T19:05:01+00:00",
+  "status:33": "2026-11-20T19:05:01+00:00",
+  "status:34": "2026-11-20T19:05:01+00:00"
+ },
+ "updated": "2026-11-20T19:05:01+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "HR 1886",
+ "slug": "hr1886",
+ "session": "2025_26",
+ "legislation_id": 74410,
+ "page": "https://www.legis.ga.gov/legislation/74410",
+ "document_type": "HR",
+ "number": 1886,
+ "legislation_type": "GEN",
+ "caption": "F.H.P. Trooper Charles Eugene \"Gene\" Campbell Memorial Highway; Houston County; dedicate",
+ "summary": "A RESOLUTION honoring the life of F.H.P. Trooper Charles Eugene \"Gene\" Campbell and dedicating a road in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 823,
+   "name": "Hitchens, Bill 161st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T10:33:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247352,
+   "label": "LC 39 5106/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247352"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:13:10+00:00",
+  "version:247352": "2026-11-20T20:13:10+00:00",
+  "status:40": "2026-11-20T20:13:10+00:00",
+  "status:33": "2026-11-20T20:13:10+00:00",
+  "status:34": "2026-11-20T20:13:10+00:00"
+ },
+ "updated": "2026-11-20T20:13:10+00:00"
+}

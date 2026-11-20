@@ -1,0 +1,158 @@
+{
+ "key": "SB 242",
+ "slug": "sb242",
+ "session": "2025_26",
+ "legislation_id": 70707,
+ "page": "https://www.legis.ga.gov/legislation/70707",
+ "document_type": "SB",
+ "number": 242,
+ "legislation_type": "GEN",
+ "caption": "Capitol Art Standards Commission; placement of a monument in honor of the Honorable Clarence Thomas within the Nathan Deal Judicial Center; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 4 of Chapter 13 of Title 45 and Chapter 3 of Title 50 of the Official Code of Georgia Annotated, relating to the Capitol Art Standards Commission and state flag, seal, and other symbols, respectively, so as to provide for duties and responsibilities of the commission; to provide for the placement of a monument in honor of the Honorable Clarence Thomas within the Nathan Deal Judicial Center; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4925,
+   "name": "Dolezal, Greg 27th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  },
+  {
+   "member_id": 852,
+   "name": "Kennedy, John F. 18th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 10
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-21T14:19:53",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-24T10:09:50",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-03-03T12:34:47",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-03-04T10:22:57",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2025-03-06T18:13:18",
+   "code": "STAB",
+   "action": "Senate Tabled",
+   "id": 64
+  },
+  {
+   "date": "2026-01-12T11:17:41",
+   "code": "STT",
+   "action": "Senate Taken from Table",
+   "id": 76
+  },
+  {
+   "date": "2026-01-12T11:20:57",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233555,
+   "label": "As introduced LC 50 1142",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233555"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:32:53+00:00",
+  "version:233555": "2026-11-20T20:32:53+00:00",
+  "status:67": "2026-11-20T20:32:53+00:00",
+  "status:3": "2026-11-20T20:32:53+00:00",
+  "status:8": "2026-11-20T20:32:53+00:00",
+  "status:10": "2026-11-20T20:32:53+00:00",
+  "status:64": "2026-11-20T20:32:53+00:00",
+  "status:76": "2026-11-20T20:32:53+00:00",
+  "status:103": "2026-11-20T20:32:53+00:00"
+ },
+ "updated": "2026-11-20T20:32:53+00:00"
+}

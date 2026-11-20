@@ -1,0 +1,129 @@
+{
+ "key": "HB 1066",
+ "slug": "hb1066",
+ "session": "2025_26",
+ "legislation_id": 72517,
+ "page": "https://www.legis.ga.gov/legislation/72517",
+ "document_type": "HB",
+ "number": 1066,
+ "legislation_type": "GEN",
+ "caption": "Nuisances; immunity from public and private nuisance claims; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 41 of the Official Code of Georgia Annotated, relating to general provisions regarding nuisances, so as to provide immunity from public and private nuisance claims; to provide for immunity for nuisance claims based on changed conditions; to permit nuisance claims for changed conditions relating to changes in the historical operating schedule; to provide for definitions; to provide for an effective date and applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4988,
+   "name": "Wade, Will 9th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-28T12:25:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T10:41:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-02T10:45:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-05T10:13:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2026-02-10T11:12:32",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-12T10:13:28",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242482,
+   "label": "LC 47 4018S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242482"
+  },
+  {
+   "doc_id": 240635,
+   "label": "LC 62 0282/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240635"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:07:42+00:00",
+  "version:242482": "2026-11-20T19:07:42+00:00",
+  "version:240635": "2026-11-20T19:07:42+00:00",
+  "status:40": "2026-11-20T19:07:42+00:00",
+  "status:33": "2026-11-20T19:07:42+00:00",
+  "status:34": "2026-11-20T19:07:42+00:00",
+  "status:39": "2026-11-20T19:07:42+00:00",
+  "status:50": "2026-11-20T19:07:42+00:00"
+ },
+ "updated": "2026-11-20T19:07:42+00:00"
+}

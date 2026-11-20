@@ -1,0 +1,96 @@
+{
+ "key": "HR 1304",
+ "slug": "hr1304",
+ "session": "2025_26",
+ "legislation_id": 73086,
+ "page": "https://www.legis.ga.gov/legislation/73086",
+ "document_type": "HR",
+ "number": 1304,
+ "legislation_type": "PRIV",
+ "caption": "ERA day in the state of Georgia; February 24, 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 24, 2026, as ERA day in the state of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:08:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:50",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242243,
+   "label": "LC 129 0683/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242243"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:11+00:00",
+  "version:242243": "2026-11-20T20:00:11+00:00",
+  "status:40": "2026-11-20T20:00:11+00:00",
+  "status:33": "2026-11-20T20:00:11+00:00",
+  "status:48": "2026-11-20T20:00:11+00:00"
+ },
+ "updated": "2026-11-20T20:00:11+00:00"
+}

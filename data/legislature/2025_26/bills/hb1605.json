@@ -1,0 +1,88 @@
+{
+ "key": "HB 1605",
+ "slug": "hb1605",
+ "session": "2025_26",
+ "legislation_id": 74499,
+ "page": "https://www.legis.ga.gov/legislation/74499",
+ "document_type": "HB",
+ "number": 1605,
+ "legislation_type": "GEN",
+ "caption": "Community Health, Dept. of; making claims for Medicaid estate recovery of funds from ABLE accounts maintained through any qualified ABLE account, except as required by applicable federal law; prohibit",
+ "summary": "A BILL to be entitled an Act to amend Chapter 9 of Title 30 of the Official Code of Georgia Annotated, relating to Georgia Achieving a Better Life Experience (ABLE), so as to prohibit the Department of Community Health from making claims for Medicaid estate recovery of funds from ABLE accounts maintained through any qualified ABLE account, except as required by applicable federal law; to provide a definition; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5010,
+   "name": "Hagan, Leesa 156th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public and Community Health",
+   "id": 204
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T17:45:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247646,
+   "label": "LC 60 0347/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247646"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:18+00:00",
+  "version:247646": "2026-11-20T19:30:18+00:00",
+  "status:40": "2026-11-20T19:30:18+00:00",
+  "status:33": "2026-11-20T19:30:18+00:00",
+  "status:34": "2026-11-20T19:30:18+00:00"
+ },
+ "updated": "2026-11-20T19:30:18+00:00"
+}

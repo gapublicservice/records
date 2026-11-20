@@ -1,0 +1,102 @@
+{
+ "key": "HB 1389",
+ "slug": "hb1389",
+ "session": "2025_26",
+ "legislation_id": 73426,
+ "page": "https://www.legis.ga.gov/legislation/73426",
+ "document_type": "HB",
+ "number": 1389,
+ "legislation_type": "GEN",
+ "caption": "Property; dispossessory proceedings; extend a notice to vacate or pay to seven days",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 7 of Title 44 of the Official Code of Georgia Annotated, relating to dispossessory proceedings, so as to extend a notice to vacate or pay to seven days; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-19T11:32:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T09:28:49",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-24T11:37:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243295,
+   "label": "LC 48 1752/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243295"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:21:20+00:00",
+  "version:243295": "2026-11-20T19:21:20+00:00",
+  "status:40": "2026-11-20T19:21:20+00:00",
+  "status:33": "2026-11-20T19:21:20+00:00",
+  "status:34": "2026-11-20T19:21:20+00:00"
+ },
+ "updated": "2026-11-20T19:21:20+00:00"
+}

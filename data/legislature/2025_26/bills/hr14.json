@@ -1,0 +1,61 @@
+{
+ "key": "HR 14",
+ "slug": "hr14",
+ "session": "2025_26",
+ "legislation_id": 69320,
+ "page": "https://www.legis.ga.gov/legislation/69320",
+ "document_type": "HR",
+ "number": 14,
+ "legislation_type": "PRIV",
+ "caption": "Butler, Thomas Elliot; commend",
+ "summary": "A RESOLUTION commending and congratulating Thomas Elliot Butler.",
+ "sponsors": [
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-13T14:02:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-13T14:31:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-13T14:31:23",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229791,
+   "label": "LC 129 0004/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229791"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:30:48+00:00",
+  "version:229791": "2026-11-20T19:30:48+00:00",
+  "status:40": "2026-11-20T19:30:48+00:00",
+  "status:33": "2026-11-20T19:30:48+00:00",
+  "status:48": "2026-11-20T19:30:48+00:00"
+ },
+ "updated": "2026-11-20T19:30:48+00:00"
+}

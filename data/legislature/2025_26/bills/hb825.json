@@ -1,0 +1,88 @@
+{
+ "key": "HB 825",
+ "slug": "hb825",
+ "session": "2025_26",
+ "legislation_id": 71608,
+ "page": "https://www.legis.ga.gov/legislation/71608",
+ "document_type": "HB",
+ "number": 825,
+ "legislation_type": "LOC",
+ "caption": "Monroe County; Board of Education; change compensation of members and chairperson",
+ "summary": "A BILL to be entitled an Act to amend an Act to reconstitute the Board of Education of Monroe County, Georgia, approved February 25, 1993 (Ga. L. 1993, p. 3857), as amended, so as to change the compensation of the members and the chairperson of such board; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Intragovernmental Coordination",
+   "id": 94
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T10:38:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T10:39:03",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-04-02T10:20:29",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-02T10:46:32",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237071,
+   "label": "LC 47 3512/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237071"
+  },
+  {
+   "doc_id": 237111,
+   "label": "Local Ad",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237111"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:55:37+00:00",
+  "version:237071": "2026-11-20T18:55:37+00:00",
+  "version:237111": "2026-11-20T18:55:37+00:00",
+  "status:40": "2026-11-20T18:55:37+00:00",
+  "status:33": "2026-11-20T18:55:37+00:00",
+  "status:34": "2026-11-20T18:55:37+00:00",
+  "status:39": "2026-11-20T18:55:37+00:00",
+  "status:50": "2026-11-20T18:55:37+00:00"
+ },
+ "updated": "2026-11-20T18:55:37+00:00"
+}

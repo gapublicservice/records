@@ -1,0 +1,67 @@
+{
+ "key": "HR 1704",
+ "slug": "hr1704",
+ "session": "2025_26",
+ "legislation_id": 74109,
+ "page": "https://www.legis.ga.gov/legislation/74109",
+ "document_type": "HR",
+ "number": 1704,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Dangerous Animal Attacks and Animal Control Resources in Rural Georgia; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Dangerous Animal Attacks and Animal Control Resources in Rural Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-16T12:11:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T10:32:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-19T10:08:20",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245967,
+   "label": "LC 48 1765/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245967"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:09:18+00:00",
+  "version:245967": "2026-11-20T20:09:18+00:00",
+  "status:40": "2026-11-20T20:09:18+00:00",
+  "status:33": "2026-11-20T20:09:18+00:00",
+  "status:34": "2026-11-20T20:09:18+00:00"
+ },
+ "updated": "2026-11-20T20:09:18+00:00"
+}

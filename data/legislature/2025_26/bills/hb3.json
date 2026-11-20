@@ -1,0 +1,102 @@
+{
+ "key": "HB 3",
+ "slug": "hb3",
+ "session": "2025_26",
+ "legislation_id": 69283,
+ "page": "https://www.legis.ga.gov/legislation/69283",
+ "document_type": "HB",
+ "number": 3,
+ "legislation_type": "GEN",
+ "caption": "Brady Law Regulations; require universal background checks in all manner of firearm transfers",
+ "summary": "A BILL to be entitled an Act to amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to Brady Law Regulations, so as to require universal background checks in all manner of firearm transfers; to provide for definitions; to provide for exceptions; to provide for criminal penalties; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:03:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229749,
+   "label": "LC 39 4422/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229749"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:07+00:00",
+  "version:229749": "2026-11-20T18:16:07+00:00",
+  "status:40": "2026-11-20T18:16:07+00:00",
+  "status:33": "2026-11-20T18:16:07+00:00",
+  "status:34": "2026-11-20T18:16:07+00:00"
+ },
+ "updated": "2026-11-20T18:16:07+00:00"
+}

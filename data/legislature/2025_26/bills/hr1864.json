@@ -1,0 +1,61 @@
+{
+ "key": "HR 1864",
+ "slug": "hr1864",
+ "session": "2025_26",
+ "legislation_id": 74385,
+ "page": "https://www.legis.ga.gov/legislation/74385",
+ "document_type": "HR",
+ "number": 1864,
+ "legislation_type": "PRIV",
+ "caption": "Fricke, Jim; commend",
+ "summary": "A RESOLUTION recognizing and commending Jim Fricke; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:37:34",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:27",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247157,
+   "label": "LC 129 1495/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247157"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:42+00:00",
+  "version:247157": "2026-11-20T20:12:42+00:00",
+  "status:40": "2026-11-20T20:12:42+00:00",
+  "status:33": "2026-11-20T20:12:42+00:00",
+  "status:48": "2026-11-20T20:12:42+00:00"
+ },
+ "updated": "2026-11-20T20:12:42+00:00"
+}

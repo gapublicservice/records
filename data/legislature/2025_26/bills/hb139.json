@@ -1,0 +1,102 @@
+{
+ "key": "HB 139",
+ "slug": "hb139",
+ "session": "2025_26",
+ "legislation_id": 69539,
+ "page": "https://www.legis.ga.gov/legislation/69539",
+ "document_type": "HB",
+ "number": 139,
+ "legislation_type": "GEN",
+ "caption": "Pharmacies; prohibit drug manufacturer and wholesalers from preventing a licensed pharmacy from acquiring drugs from entities that participate in a particular federal drug discount program",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 4 of Title 26 of the Official Code of Georgia Annotated, relating to pharmacies, so as to prohibit drug manufacturers and wholesalers from preventing a licensed pharmacy from acquiring and dispensing drugs purchased from entities that participate in a particular federal drug discount program; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 738,
+   "name": "Jackson, Mack 128th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 115,
+   "name": "Greene, Gerald 154th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:30:06",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230367,
+   "label": "LC 46 1023/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230367"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:22:52+00:00",
+  "version:230367": "2026-11-20T18:22:52+00:00",
+  "status:40": "2026-11-20T18:22:52+00:00",
+  "status:33": "2026-11-20T18:22:52+00:00",
+  "status:34": "2026-11-20T18:22:52+00:00"
+ },
+ "updated": "2026-11-20T18:22:52+00:00"
+}

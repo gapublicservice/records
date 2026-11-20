@@ -1,0 +1,96 @@
+{
+ "key": "HR 234",
+ "slug": "hr234",
+ "session": "2025_26",
+ "legislation_id": 70219,
+ "page": "https://www.legis.ga.gov/legislation/70219",
+ "document_type": "HR",
+ "number": 234,
+ "legislation_type": "PRIV",
+ "caption": "Afterschool Day at the state capitol; February 12, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 12, 2025, as Afterschool Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:59:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:21",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232117,
+   "label": "LC 112 2920/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232117"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:02+00:00",
+  "version:232117": "2026-11-20T19:36:02+00:00",
+  "status:40": "2026-11-20T19:36:02+00:00",
+  "status:33": "2026-11-20T19:36:02+00:00",
+  "status:48": "2026-11-20T19:36:02+00:00"
+ },
+ "updated": "2026-11-20T19:36:02+00:00"
+}

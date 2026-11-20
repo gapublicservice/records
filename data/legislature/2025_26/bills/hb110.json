@@ -1,0 +1,122 @@
+{
+ "key": "HB 110",
+ "slug": "hb110",
+ "session": "2025_26",
+ "legislation_id": 69462,
+ "page": "https://www.legis.ga.gov/legislation/69462",
+ "document_type": "HB",
+ "number": 110,
+ "legislation_type": "GEN",
+ "caption": "Pawnbrokers; certain protections for current military members and related persons; provide",
+ "summary": "A BILL To be entitled an Act to amend Part 5 of Article 3 of Chapter 12 of Title 44 of the Official Code of Georgia Annotated, relating to pawnbrokers, so as to provide certain protections for current military members and related persons; to prohibit pawnbrokers from making title pawns with covered borrowers; to provide a penalty for violations; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Defense & Veterans Affairs",
+   "id": 90
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-17T11:02:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T10:32:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-28T10:43:30",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-04T16:10:36",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-01-28T10:43:10",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230215,
+   "label": "LC 46 1000/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230215"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:21:10+00:00",
+  "version:230215": "2026-11-20T18:21:10+00:00",
+  "status:40": "2026-11-20T18:21:10+00:00",
+  "status:33": "2026-11-20T18:21:10+00:00",
+  "status:34": "2026-11-20T18:21:10+00:00",
+  "status:39": "2026-11-20T18:21:10+00:00",
+  "status:50": "2026-11-20T18:21:10+00:00"
+ },
+ "updated": "2026-11-20T18:21:10+00:00"
+}

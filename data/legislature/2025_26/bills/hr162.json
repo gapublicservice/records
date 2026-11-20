@@ -1,0 +1,82 @@
+{
+ "key": "HR 162",
+ "slug": "hr162",
+ "session": "2025_26",
+ "legislation_id": 69907,
+ "page": "https://www.legis.ga.gov/legislation/69907",
+ "document_type": "HR",
+ "number": 162,
+ "legislation_type": "PRIV",
+ "caption": "Athens Academy boys varsity basketball team; winning the Region 8-AA Championship; commend",
+ "summary": "A RESOLUTION congratulating the Athens Academy boys varsity basketball team for winning the Region 8-AA Championship; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:02:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231273,
+   "label": "LC 112 2797/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231273"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:30+00:00",
+  "version:231273": "2026-11-20T19:34:30+00:00",
+  "status:40": "2026-11-20T19:34:30+00:00",
+  "status:33": "2026-11-20T19:34:30+00:00",
+  "status:48": "2026-11-20T19:34:30+00:00"
+ },
+ "updated": "2026-11-20T19:34:30+00:00"
+}

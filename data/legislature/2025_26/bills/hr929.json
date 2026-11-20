@@ -1,0 +1,68 @@
+{
+ "key": "HR 929",
+ "slug": "hr929",
+ "session": "2025_26",
+ "legislation_id": 72033,
+ "page": "https://www.legis.ga.gov/legislation/72033",
+ "document_type": "HR",
+ "number": 929,
+ "legislation_type": "PRIV",
+ "caption": "Okefenokee National Wildlife Refuge; 88th anniversary of its establishment; recognize",
+ "summary": "A RESOLUTION congratulating the Okefenokee National Wildlife Refuge upon the 88th anniversary of its establishment; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T19:53:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T20:18:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T20:18:40",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238949,
+   "label": "LC 112 3627/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238949"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:51:39+00:00",
+  "version:238949": "2026-11-20T19:51:39+00:00",
+  "status:40": "2026-11-20T19:51:39+00:00",
+  "status:33": "2026-11-20T19:51:39+00:00",
+  "status:48": "2026-11-20T19:51:39+00:00"
+ },
+ "updated": "2026-11-20T19:51:39+00:00"
+}

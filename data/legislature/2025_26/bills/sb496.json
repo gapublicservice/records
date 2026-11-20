@@ -1,0 +1,88 @@
+{
+ "key": "SB 496",
+ "slug": "sb496",
+ "session": "2025_26",
+ "legislation_id": 73128,
+ "page": "https://www.legis.ga.gov/legislation/73128",
+ "document_type": "SB",
+ "number": 496,
+ "legislation_type": "GEN",
+ "caption": "Annexation of Territory; certain annexations are contingent upon approval of the county in which the subject property is located; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to general provisions for annexation of territory, so as to provide that certain annexations are contingent upon approval of the county in which the subject property is located; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 62,
+   "name": "Bearden, Timothy 30th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-11T11:43:33",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-12T10:08:59",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242360,
+   "label": "As introduced LC 47 3982",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242360"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:43:41+00:00",
+  "version:242360": "2026-11-20T20:43:41+00:00",
+  "status:67": "2026-11-20T20:43:41+00:00",
+  "status:3": "2026-11-20T20:43:41+00:00"
+ },
+ "updated": "2026-11-20T20:43:41+00:00"
+}

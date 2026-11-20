@@ -1,0 +1,61 @@
+{
+ "key": "HR 1162",
+ "slug": "hr1162",
+ "session": "2025_26",
+ "legislation_id": 72649,
+ "page": "https://www.legis.ga.gov/legislation/72649",
+ "document_type": "HR",
+ "number": 1162,
+ "legislation_type": "PRIV",
+ "caption": "Smith, His Excellency Victor Emmanuel; Ambassador of the Republic of Ghana to the United States of America; recognize",
+ "summary": "A RESOLUTION recognizing His Excellency Victor Emmanuel Smith, Ambassador of the Republic of Ghana to the United States of America; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-29T13:43:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-29T14:29:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T14:29:49",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240975,
+   "label": "LC 129 0800/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240975"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:55+00:00",
+  "version:240975": "2026-11-20T19:56:55+00:00",
+  "status:40": "2026-11-20T19:56:55+00:00",
+  "status:33": "2026-11-20T19:56:55+00:00",
+  "status:48": "2026-11-20T19:56:55+00:00"
+ },
+ "updated": "2026-11-20T19:56:55+00:00"
+}

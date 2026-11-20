@@ -1,0 +1,89 @@
+{
+ "key": "HR 1128",
+ "slug": "hr1128",
+ "session": "2025_26",
+ "legislation_id": 72548,
+ "page": "https://www.legis.ga.gov/legislation/72548",
+ "document_type": "HR",
+ "number": 1128,
+ "legislation_type": "PRIV",
+ "caption": "Chestnut Grove Baptist Church; occasion of its 175th anniversary; recognize",
+ "summary": "A RESOLUTION recognizing and commending Chestnut Grove Baptist Church on the occasion of its 175th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:40:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:25:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:25:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240698,
+   "label": "LC 129 0690/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240698"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:12+00:00",
+  "version:240698": "2026-11-20T19:56:12+00:00",
+  "status:40": "2026-11-20T19:56:12+00:00",
+  "status:33": "2026-11-20T19:56:12+00:00",
+  "status:48": "2026-11-20T19:56:12+00:00"
+ },
+ "updated": "2026-11-20T19:56:12+00:00"
+}

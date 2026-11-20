@@ -1,0 +1,102 @@
+{
+ "key": "HR 712",
+ "slug": "hr712",
+ "session": "2025_26",
+ "legislation_id": 71614,
+ "page": "https://www.legis.ga.gov/legislation/71614",
+ "document_type": "HR",
+ "number": 712,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Protecting Working Families; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Protecting Working Families; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T11:15:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T10:39:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237095,
+   "label": "LC 60 0151/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237095"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:52+00:00",
+  "version:237095": "2026-11-20T19:46:52+00:00",
+  "status:40": "2026-11-20T19:46:52+00:00",
+  "status:33": "2026-11-20T19:46:52+00:00",
+  "status:34": "2026-11-20T19:46:52+00:00"
+ },
+ "updated": "2026-11-20T19:46:52+00:00"
+}

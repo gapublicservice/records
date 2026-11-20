@@ -1,0 +1,68 @@
+{
+ "key": "HR 1153",
+ "slug": "hr1153",
+ "session": "2025_26",
+ "legislation_id": 72573,
+ "page": "https://www.legis.ga.gov/legislation/72573",
+ "document_type": "HR",
+ "number": 1153,
+ "legislation_type": "PRIV",
+ "caption": "TIUA School of Business Entrepreneur Day; June 7, 2026; recognize",
+ "summary": "A RESOLUTION recognizing June 7, 2026, as TIUA School of Business Entrepreneur Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-28T13:50:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T14:54:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T14:54:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240730,
+   "label": "LC 129 0588/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240730"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:56:44+00:00",
+  "version:240730": "2026-11-20T19:56:44+00:00",
+  "status:40": "2026-11-20T19:56:44+00:00",
+  "status:33": "2026-11-20T19:56:44+00:00",
+  "status:48": "2026-11-20T19:56:44+00:00"
+ },
+ "updated": "2026-11-20T19:56:44+00:00"
+}

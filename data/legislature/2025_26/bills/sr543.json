@@ -1,0 +1,89 @@
+{
+ "key": "SR 543",
+ "slug": "sr543",
+ "session": "2025_26",
+ "legislation_id": 71985,
+ "page": "https://www.legis.ga.gov/legislation/71985",
+ "document_type": "SR",
+ "number": 543,
+ "legislation_type": "PRIV",
+ "caption": "Beatles, Mother Willie Bell; commend",
+ "summary": "A RESOLUTION commending and congratulating Mother Willie Bell Beatles; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4985,
+   "name": "Halpern, Sonya 39th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-02T13:03:59",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-04T12:18:49",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238757,
+   "label": "Read and adopted LC 112 3635",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238757"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:08+00:00",
+  "version:238757": "2026-11-20T21:03:08+00:00",
+  "status:67": "2026-11-20T21:03:08+00:00",
+  "status:66": "2026-11-20T21:03:08+00:00"
+ },
+ "updated": "2026-11-20T21:03:08+00:00"
+}

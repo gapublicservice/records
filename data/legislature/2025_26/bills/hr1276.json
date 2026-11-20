@@ -1,0 +1,96 @@
+{
+ "key": "HR 1276",
+ "slug": "hr1276",
+ "session": "2025_26",
+ "legislation_id": 72986,
+ "page": "https://www.legis.ga.gov/legislation/72986",
+ "document_type": "HR",
+ "number": 1276,
+ "legislation_type": "PRIV",
+ "caption": "2025 Technical College System of Georgia awards winners; commend",
+ "summary": "A RESOLUTION recognizing and commending the 2025 Technical College System of Georgia awards winners; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 1878,
+   "name": "Blackmon, Shaw 146th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5046,
+   "name": "Fleming, Tim 114th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:58:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T12:36:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-06T12:36:07",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241922,
+   "label": "LC 129 0923/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241922"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:59:29+00:00",
+  "version:241922": "2026-11-20T19:59:29+00:00",
+  "status:40": "2026-11-20T19:59:29+00:00",
+  "status:33": "2026-11-20T19:59:29+00:00",
+  "status:48": "2026-11-20T19:59:29+00:00"
+ },
+ "updated": "2026-11-20T19:59:29+00:00"
+}

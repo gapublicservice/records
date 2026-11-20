@@ -1,0 +1,116 @@
+{
+ "key": "SB 7",
+ "slug": "sb7",
+ "session": "2025_26",
+ "legislation_id": 69328,
+ "page": "https://www.legis.ga.gov/legislation/69328",
+ "document_type": "SB",
+ "number": 7,
+ "legislation_type": "GEN",
+ "caption": "Jails; certain municipal corporations make municipal detention facilities or jails available for use by a sheriff; require",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 4 of Title 42 of the Official Code of Georgia Annotated, relating to general provisions regarding jails, so as to require that certain municipal corporations make municipal detention facilities or jails available for use by a sheriff under certain conditions; to provide for fee and fee cap; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 840,
+   "name": "Beach, Brandon 21st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4909,
+   "name": "Payne, Chuck 54th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Public Safety",
+   "id": 81
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-14T12:10:02",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-15T10:11:53",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2025-02-06T09:50:05",
+   "code": "SCFR",
+   "action": "Senate Committee Favorably Reported",
+   "id": 8
+  },
+  {
+   "date": "2025-02-10T10:18:06",
+   "code": "S2R",
+   "action": "Senate Read Second Time",
+   "id": 10
+  },
+  {
+   "date": "2026-01-12T13:27:59",
+   "code": "SR",
+   "action": "Senate Recommitted",
+   "id": 103
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229855,
+   "label": "As Introduced LC 47 3188",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229855"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:19:20+00:00",
+  "version:229855": "2026-11-20T20:19:20+00:00",
+  "status:67": "2026-11-20T20:19:20+00:00",
+  "status:3": "2026-11-20T20:19:20+00:00",
+  "status:8": "2026-11-20T20:19:20+00:00",
+  "status:10": "2026-11-20T20:19:20+00:00",
+  "status:103": "2026-11-20T20:19:20+00:00"
+ },
+ "updated": "2026-11-20T20:19:20+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 365",
+ "slug": "hr365",
+ "session": "2025_26",
+ "legislation_id": 70692,
+ "page": "https://www.legis.ga.gov/legislation/70692",
+ "document_type": "HR",
+ "number": 365,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Association of Manufacturers; 125th anniversary of its formation; recognize",
+ "summary": "A RESOLUTION congratulating the Georgia Association of Manufacturers on the 125th anniversary of its formation; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-21T12:09:31",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T12:38:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T12:38:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233522,
+   "label": "LC 112 3110/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233522"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:58+00:00",
+  "version:233522": "2026-11-20T19:38:58+00:00",
+  "status:40": "2026-11-20T19:38:58+00:00",
+  "status:33": "2026-11-20T19:38:58+00:00",
+  "status:48": "2026-11-20T19:38:58+00:00"
+ },
+ "updated": "2026-11-20T19:38:58+00:00"
+}

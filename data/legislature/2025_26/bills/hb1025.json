@@ -1,0 +1,81 @@
+{
+ "key": "HB 1025",
+ "slug": "hb1025",
+ "session": "2025_26",
+ "legislation_id": 72355,
+ "page": "https://www.legis.ga.gov/legislation/72355",
+ "document_type": "HB",
+ "number": 1025,
+ "legislation_type": "GEN",
+ "caption": "Children in Need of Services (CHINS) Funding Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 5 of Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to child in need of services, so as to provide for funding for the child in need of services (CHINS) program, subject to appropriations; to provide for legislative findings and intent; to provide for definitions; to designate the Department of Education as the oversight agency for the fund; to establish a CHINS Support Fund and regional coordination system; to provide for the allocation of resources for services and supports; to provide for rules, regulations, and procedures; to provide for implementation; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Juvenile",
+   "id": 203
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-27T12:37:55",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-28T10:41:09",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-29T10:49:36",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240191,
+   "label": "LC 48 1636/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240191"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:06:23+00:00",
+  "version:240191": "2026-11-20T19:06:23+00:00",
+  "status:40": "2026-11-20T19:06:23+00:00",
+  "status:33": "2026-11-20T19:06:23+00:00",
+  "status:34": "2026-11-20T19:06:23+00:00"
+ },
+ "updated": "2026-11-20T19:06:23+00:00"
+}

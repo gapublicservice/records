@@ -1,0 +1,96 @@
+{
+ "key": "HR 1863",
+ "slug": "hr1863",
+ "session": "2025_26",
+ "legislation_id": 74384,
+ "page": "https://www.legis.ga.gov/legislation/74384",
+ "document_type": "HR",
+ "number": 1863,
+ "legislation_type": "PRIV",
+ "caption": "We Are CASA Day at the state capitol; March 26, 2026; recognize",
+ "summary": "A RESOLUTION recognizing March 26, 2026, as We Are CASA Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:37:19",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:27",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247155,
+   "label": "LC 112 4017/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247155"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:41+00:00",
+  "version:247155": "2026-11-20T20:12:41+00:00",
+  "status:40": "2026-11-20T20:12:41+00:00",
+  "status:33": "2026-11-20T20:12:41+00:00",
+  "status:48": "2026-11-20T20:12:41+00:00"
+ },
+ "updated": "2026-11-20T20:12:41+00:00"
+}

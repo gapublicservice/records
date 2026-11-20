@@ -1,0 +1,95 @@
+{
+ "key": "HR 1665",
+ "slug": "hr1665",
+ "session": "2025_26",
+ "legislation_id": 74043,
+ "page": "https://www.legis.ga.gov/legislation/74043",
+ "document_type": "HR",
+ "number": 1665,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Environmental Protection Division Permit and Variance Procedures and Rights to Review; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Environmental Protection Division Permit and Variance Procedures and Rights to Review; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-12T11:28:21",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T10:49:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T10:10:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:50",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247298,
+   "label": "LC 64 0118S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247298"
+  },
+  {
+   "doc_id": 245762,
+   "label": "LC 60 0338/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245762"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:27+00:00",
+  "version:247298": "2026-11-20T20:08:27+00:00",
+  "version:245762": "2026-11-20T20:08:27+00:00",
+  "status:40": "2026-11-20T20:08:27+00:00",
+  "status:33": "2026-11-20T20:08:27+00:00",
+  "status:34": "2026-11-20T20:08:27+00:00",
+  "status:39": "2026-11-20T20:08:27+00:00"
+ },
+ "updated": "2026-11-20T20:08:27+00:00"
+}

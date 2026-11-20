@@ -1,0 +1,89 @@
+{
+ "key": "HR 524",
+ "slug": "hr524",
+ "session": "2025_26",
+ "legislation_id": 71207,
+ "page": "https://www.legis.ga.gov/legislation/71207",
+ "document_type": "HR",
+ "number": 524,
+ "legislation_type": "PRIV",
+ "caption": "\"Kumbaya\"; the Gullah Geechee Anthem; commend",
+ "summary": "A RESOLUTION recognizing \"Kumbaya\" as the Gullah Geechee Anthem; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4881,
+   "name": "Gilliard, Carl 162nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T13:32:52",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T14:06:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T14:06:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235442,
+   "label": "LC 129 0308/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235442"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:29+00:00",
+  "version:235442": "2026-11-20T19:42:29+00:00",
+  "status:40": "2026-11-20T19:42:29+00:00",
+  "status:33": "2026-11-20T19:42:29+00:00",
+  "status:48": "2026-11-20T19:42:29+00:00"
+ },
+ "updated": "2026-11-20T19:42:29+00:00"
+}

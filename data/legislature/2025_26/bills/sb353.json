@@ -1,0 +1,74 @@
+{
+ "key": "SB 353",
+ "slug": "sb353",
+ "session": "2025_26",
+ "legislation_id": 71559,
+ "page": "https://www.legis.ga.gov/legislation/71559",
+ "document_type": "SB",
+ "number": 353,
+ "legislation_type": "GEN",
+ "caption": "Open and Public Meetings; county or joint boards of election or boards of election and registration to conduct meetings via teleconference; authorize",
+ "summary": "A BILL to be entitled an Act to amend Code Section 50-14-1 of the Official Code of Georgia Annotated, relating to meetings open to the public, limitation on action to contest agency action, recording, notice of time and place, access to minutes, and teleconferences, so as to authorize county or joint boards of election or boards of election and registration to conduct meetings via teleconference; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 311,
+   "name": "Harrell, Sally 40th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Ethics",
+   "id": 75
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-21T11:28:14",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-25T10:09:19",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236877,
+   "label": "As introduced LC 47 3616",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236877"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:37:27+00:00",
+  "version:236877": "2026-11-20T20:37:27+00:00",
+  "status:67": "2026-11-20T20:37:27+00:00",
+  "status:3": "2026-11-20T20:37:27+00:00"
+ },
+ "updated": "2026-11-20T20:37:27+00:00"
+}

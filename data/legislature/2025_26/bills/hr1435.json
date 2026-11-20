@@ -1,0 +1,82 @@
+{
+ "key": "HR 1435",
+ "slug": "hr1435",
+ "session": "2025_26",
+ "legislation_id": 73499,
+ "page": "https://www.legis.ga.gov/legislation/73499",
+ "document_type": "HR",
+ "number": 1435,
+ "legislation_type": "PRIV",
+ "caption": "Aten, Judge Phinia; distinguish service and judicial leadership; commend",
+ "summary": "A RESOLUTION recognizing Judge Phinia Aten for her distinguish service and judicial leadership; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4998,
+   "name": "Taylor, Rhonda 92nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5008,
+   "name": "Moore, Angela 91st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-20T12:41:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-20T13:13:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T13:13:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243515,
+   "label": "LC 129 1191/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243515"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:03:28+00:00",
+  "version:243515": "2026-11-20T20:03:28+00:00",
+  "status:40": "2026-11-20T20:03:28+00:00",
+  "status:33": "2026-11-20T20:03:28+00:00",
+  "status:48": "2026-11-20T20:03:28+00:00"
+ },
+ "updated": "2026-11-20T20:03:28+00:00"
+}

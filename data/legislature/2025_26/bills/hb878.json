@@ -1,0 +1,102 @@
+{
+ "key": "HB 878",
+ "slug": "hb878",
+ "session": "2025_26",
+ "legislation_id": 71845,
+ "page": "https://www.legis.ga.gov/legislation/71845",
+ "document_type": "HB",
+ "number": 878,
+ "legislation_type": "GEN",
+ "caption": "Holidays; October 9 of each year as PANDAS Day; designate",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 1 of the Official Code of Georgia Annotated, relating to holidays and observances, so as to designate October 9 of each year as \"PANDAS Day\" in Georgia; to provide for legislative findings; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-28T11:07:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-31T10:27:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-02T10:27:55",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237959,
+   "label": "LC 59 0169/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237959"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:58:12+00:00",
+  "version:237959": "2026-11-20T18:58:12+00:00",
+  "status:40": "2026-11-20T18:58:12+00:00",
+  "status:33": "2026-11-20T18:58:12+00:00",
+  "status:34": "2026-11-20T18:58:12+00:00"
+ },
+ "updated": "2026-11-20T18:58:12+00:00"
+}

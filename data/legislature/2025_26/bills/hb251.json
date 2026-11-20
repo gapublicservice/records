@@ -1,0 +1,102 @@
+{
+ "key": "HB 251",
+ "slug": "hb251",
+ "session": "2025_26",
+ "legislation_id": 69864,
+ "page": "https://www.legis.ga.gov/legislation/69864",
+ "document_type": "HB",
+ "number": 251,
+ "legislation_type": "GEN",
+ "caption": "Nurses; certified registered nurse anesthetist to order and administer anesthesia and an anesthesia plan under certain conditions; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 26 of Title 43 of the Official Code of Georgia Annotated, relating to nurses, so as provide for a certified registered nurse anesthetist to order and administer anesthesia and an anesthesia plan under certain conditions; to provide for definitions; to provide for liability; to provide for a healthcare facility to adopt policies relating to the provision of anesthesia; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Regulated Industries",
+   "id": 116
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-04T11:45:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-05T10:40:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-06T09:42:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231218,
+   "label": "LC 52 0644/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231218"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:28:37+00:00",
+  "version:231218": "2026-11-20T18:28:37+00:00",
+  "status:40": "2026-11-20T18:28:37+00:00",
+  "status:33": "2026-11-20T18:28:37+00:00",
+  "status:34": "2026-11-20T18:28:37+00:00"
+ },
+ "updated": "2026-11-20T18:28:37+00:00"
+}

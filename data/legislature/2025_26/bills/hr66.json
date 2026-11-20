@@ -1,0 +1,74 @@
+{
+ "key": "HR 66",
+ "slug": "hr66",
+ "session": "2025_26",
+ "legislation_id": 69505,
+ "page": "https://www.legis.ga.gov/legislation/69505",
+ "document_type": "HR",
+ "number": 66,
+ "legislation_type": "GEN",
+ "caption": "Masen \"Mase\" McIntyre Memorial Bridge; Carroll County; dedicate",
+ "summary": "A RESOLUTION recognizing Mr. Masen \"Mase\" Aubrey McIntyre II and dedicating a bridge in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:08:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-28T10:42:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-29T10:13:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230306,
+   "label": "LC 39 4524/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230306"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:32:12+00:00",
+  "version:230306": "2026-11-20T19:32:12+00:00",
+  "status:40": "2026-11-20T19:32:12+00:00",
+  "status:33": "2026-11-20T19:32:12+00:00",
+  "status:34": "2026-11-20T19:32:12+00:00"
+ },
+ "updated": "2026-11-20T19:32:12+00:00"
+}

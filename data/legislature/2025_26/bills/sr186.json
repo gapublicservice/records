@@ -1,0 +1,61 @@
+{
+ "key": "SR 186",
+ "slug": "sr186",
+ "session": "2025_26",
+ "legislation_id": 70309,
+ "page": "https://www.legis.ga.gov/legislation/70309",
+ "document_type": "SR",
+ "number": 186,
+ "legislation_type": "PRIV",
+ "caption": "Greater Augusta's Interfaith Coalition; recognize",
+ "summary": "A RESOLUTION recognizing and commending Greater Augusta's Interfaith Coalition; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4979,
+   "name": "Burns, Max 23rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-12T15:53:14",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-13T11:25:41",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232363,
+   "label": "Read and adopted LC 129 0069",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232363"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:54:28+00:00",
+  "version:232363": "2026-11-20T20:54:28+00:00",
+  "status:67": "2026-11-20T20:54:28+00:00",
+  "status:66": "2026-11-20T20:54:28+00:00"
+ },
+ "updated": "2026-11-20T20:54:28+00:00"
+}

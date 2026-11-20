@@ -1,0 +1,68 @@
+{
+ "key": "HR 233",
+ "slug": "hr233",
+ "session": "2025_26",
+ "legislation_id": 70218,
+ "page": "https://www.legis.ga.gov/legislation/70218",
+ "document_type": "HR",
+ "number": 233,
+ "legislation_type": "PRIV",
+ "caption": "Clark Atlanta University Day at the state capitol; February 18, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 18, 2025, as Clark Atlanta University Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:59:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T13:40:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T13:40:20",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232116,
+   "label": "LC 112 2932/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232116"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:01+00:00",
+  "version:232116": "2026-11-20T19:36:01+00:00",
+  "status:40": "2026-11-20T19:36:01+00:00",
+  "status:33": "2026-11-20T19:36:01+00:00",
+  "status:48": "2026-11-20T19:36:01+00:00"
+ },
+ "updated": "2026-11-20T19:36:01+00:00"
+}

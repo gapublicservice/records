@@ -1,0 +1,96 @@
+{
+ "key": "HR 277",
+ "slug": "hr277",
+ "session": "2025_26",
+ "legislation_id": 70446,
+ "page": "https://www.legis.ga.gov/legislation/70446",
+ "document_type": "HR",
+ "number": 277,
+ "legislation_type": "PRIV",
+ "caption": "Taylor, Cornelius Lashon; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Cornelius Lashon Taylor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-18T16:18:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T16:51:27",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-18T16:51:29",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232784,
+   "label": "LC 129 0158/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232784"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:37:04+00:00",
+  "version:232784": "2026-11-20T19:37:04+00:00",
+  "status:40": "2026-11-20T19:37:04+00:00",
+  "status:33": "2026-11-20T19:37:04+00:00",
+  "status:48": "2026-11-20T19:37:04+00:00"
+ },
+ "updated": "2026-11-20T19:37:04+00:00"
+}

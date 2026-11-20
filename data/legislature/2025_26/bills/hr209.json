@@ -1,0 +1,95 @@
+{
+ "key": "HR 209",
+ "slug": "hr209",
+ "session": "2025_26",
+ "legislation_id": 70108,
+ "page": "https://www.legis.ga.gov/legislation/70108",
+ "document_type": "HR",
+ "number": 209,
+ "legislation_type": "NP",
+ "caption": "General Assembly; Workplace Safety and Heat Protection Act; urge passage",
+ "summary": "A RESOLUTION urging the Georgia General Assembly to pass LC 46 0977, the Workplace Safety and Heat Protection Act, to ensure critical protections for workers facing extreme heat conditions; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 143,
+   "name": "Jones, Sheila 60th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:41:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231842,
+   "label": "LC 112 2925/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231842"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:30+00:00",
+  "version:231842": "2026-11-20T19:35:30+00:00",
+  "status:40": "2026-11-20T19:35:30+00:00",
+  "status:33": "2026-11-20T19:35:30+00:00",
+  "status:34": "2026-11-20T19:35:30+00:00"
+ },
+ "updated": "2026-11-20T19:35:30+00:00"
+}

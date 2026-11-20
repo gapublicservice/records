@@ -1,0 +1,81 @@
+{
+ "key": "HB 1008",
+ "slug": "hb1008",
+ "session": "2025_26",
+ "legislation_id": 72303,
+ "page": "https://www.legis.ga.gov/legislation/72303",
+ "document_type": "HB",
+ "number": 1008,
+ "legislation_type": "GEN",
+ "caption": "General Assembly; approved allowances paid to members residing within 50 miles of the state capitol shall be paid through the legislative payroll system; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 28 of the Official Code of Georgia Annotated, relating to general provisions regarding the General Assembly, so as to provide that approved allowances paid to members of the General Assembly residing within 50 miles of the state capitol shall be paid through the legislative payroll system; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Budget and Fiscal Affairs Oversight",
+   "id": 126
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:23:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240030,
+   "label": "LC 47 3789/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240030"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:45+00:00",
+  "version:240030": "2026-11-20T19:05:45+00:00",
+  "status:40": "2026-11-20T19:05:45+00:00",
+  "status:33": "2026-11-20T19:05:45+00:00",
+  "status:34": "2026-11-20T19:05:45+00:00"
+ },
+ "updated": "2026-11-20T19:05:45+00:00"
+}

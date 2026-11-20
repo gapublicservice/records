@@ -1,0 +1,67 @@
+{
+ "key": "HR 565",
+ "slug": "hr565",
+ "session": "2025_26",
+ "legislation_id": 71284,
+ "page": "https://www.legis.ga.gov/legislation/71284",
+ "document_type": "HR",
+ "number": 565,
+ "legislation_type": "PRIV",
+ "caption": "Crockett, Congresswoman Jasmine; commend",
+ "summary": "A RESOLUTION recognizing and commending Congresswoman Jasmine Crockett; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-10T15:06:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-11T13:57:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-13T09:02:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235801,
+   "label": "LC 112 3343/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235801"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:25+00:00",
+  "version:235801": "2026-11-20T19:43:25+00:00",
+  "status:40": "2026-11-20T19:43:25+00:00",
+  "status:33": "2026-11-20T19:43:25+00:00",
+  "status:34": "2026-11-20T19:43:25+00:00"
+ },
+ "updated": "2026-11-20T19:43:25+00:00"
+}

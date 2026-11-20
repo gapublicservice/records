@@ -1,0 +1,110 @@
+{
+ "key": "SR 911",
+ "slug": "sr911",
+ "session": "2025_26",
+ "legislation_id": 73889,
+ "page": "https://www.legis.ga.gov/legislation/73889",
+ "document_type": "SR",
+ "number": 911,
+ "legislation_type": "PRIV",
+ "caption": "Price, Zoey Nicole; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Zoey Nicole Price; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4907,
+   "name": "Brass, Matt 6th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 9,
+   "name": "Cowsert, Bill 46th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 4924,
+   "name": "Rahman, Sheikh 5th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 8
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 9
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T13:09:18",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-06T09:52:20",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245014,
+   "label": "Read and adopted LC 112 3830",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245014"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:36+00:00",
+  "version:245014": "2026-11-20T21:11:36+00:00",
+  "status:67": "2026-11-20T21:11:36+00:00",
+  "status:66": "2026-11-20T21:11:36+00:00"
+ },
+ "updated": "2026-11-20T21:11:36+00:00"
+}

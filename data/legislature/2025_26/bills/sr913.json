@@ -1,0 +1,82 @@
+{
+ "key": "SR 913",
+ "slug": "sr913",
+ "session": "2025_26",
+ "legislation_id": 73914,
+ "page": "https://www.legis.ga.gov/legislation/73914",
+ "document_type": "SR",
+ "number": 913,
+ "legislation_type": "PRIV",
+ "caption": "Howard, Debra; commend",
+ "summary": "A RESOLUTION commending and congratulating Debra Howard; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5090,
+   "name": "Howard, Jaha 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-04T15:53:11",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-03-06T09:52:39",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245055,
+   "label": "Read and adopted LC 112 3787",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245055"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:11:38+00:00",
+  "version:245055": "2026-11-20T21:11:38+00:00",
+  "status:67": "2026-11-20T21:11:38+00:00",
+  "status:66": "2026-11-20T21:11:38+00:00"
+ },
+ "updated": "2026-11-20T21:11:38+00:00"
+}

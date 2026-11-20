@@ -1,0 +1,89 @@
+{
+ "key": "HR 2008",
+ "slug": "hr2008",
+ "session": "2025_26",
+ "legislation_id": 74583,
+ "page": "https://www.legis.ga.gov/legislation/74583",
+ "document_type": "HR",
+ "number": 2008,
+ "legislation_type": "PRIV",
+ "caption": "Hallett, Sierra; Family and Consumer Sciences Legislative Fellow for the 2026 regular session of the General Assembly of Georgia",
+ "summary": "A RESOLUTION commending Sierra Hallett, a Family and Consumer Sciences Legislative Fellow for the 2026 regular session of the General Assembly of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5089,
+   "name": "Ali, Akbar 106th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4943,
+   "name": "Holland, Betsy 54th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-27T16:17:12",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T16:41:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-27T16:41:09",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248024,
+   "label": "LC 112 3995/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248024"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:15:54+00:00",
+  "version:248024": "2026-11-20T20:15:54+00:00",
+  "status:40": "2026-11-20T20:15:54+00:00",
+  "status:33": "2026-11-20T20:15:54+00:00",
+  "status:48": "2026-11-20T20:15:54+00:00"
+ },
+ "updated": "2026-11-20T20:15:54+00:00"
+}

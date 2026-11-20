@@ -1,0 +1,104 @@
+{
+ "key": "HB 728",
+ "slug": "hb728",
+ "session": "2025_26",
+ "legislation_id": 71168,
+ "page": "https://www.legis.ga.gov/legislation/71168",
+ "document_type": "HB",
+ "number": 728,
+ "legislation_type": "GEN",
+ "caption": "Elections; limit effective date of rules or regulations adopted by State Election Board prior to a primary, election, or runoff",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to limit the effective date of rules or regulations adopted by the State Election Board prior to a primary, election, or runoff; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-04T18:57:47",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T19:08:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T09:53:10",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-06T10:02:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235256,
+   "label": "LC 47 3484/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235256"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:50:33+00:00",
+  "version:235256": "2026-11-20T18:50:33+00:00",
+  "status:40": "2026-11-20T18:50:33+00:00",
+  "status:33": "2026-11-20T18:50:33+00:00",
+  "status:34": "2026-11-20T18:50:33+00:00",
+  "status:39": "2026-11-20T18:50:33+00:00",
+  "status:50": "2026-11-20T18:50:33+00:00"
+ },
+ "updated": "2026-11-20T18:50:33+00:00"
+}

@@ -1,0 +1,75 @@
+{
+ "key": "HR 1360",
+ "slug": "hr1360",
+ "session": "2025_26",
+ "legislation_id": 73219,
+ "page": "https://www.legis.ga.gov/legislation/73219",
+ "document_type": "HR",
+ "number": 1360,
+ "legislation_type": "PRIV",
+ "caption": "Barrow County's 2026 STAR Students and STAR Teachers; commend",
+ "summary": "A RESOLUTION commending Barrow County's 2026 STAR Students and STAR Teachers; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-12T14:07:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-12T14:43:29",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-12T14:43:31",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242644,
+   "label": "LC 129 1056/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242644"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:01:44+00:00",
+  "version:242644": "2026-11-20T20:01:44+00:00",
+  "status:40": "2026-11-20T20:01:44+00:00",
+  "status:33": "2026-11-20T20:01:44+00:00",
+  "status:48": "2026-11-20T20:01:44+00:00"
+ },
+ "updated": "2026-11-20T20:01:44+00:00"
+}

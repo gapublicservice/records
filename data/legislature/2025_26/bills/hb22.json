@@ -1,0 +1,88 @@
+{
+ "key": "HB 22",
+ "slug": "hb22",
+ "session": "2025_26",
+ "legislation_id": 69302,
+ "page": "https://www.legis.ga.gov/legislation/69302",
+ "document_type": "HB",
+ "number": 22,
+ "legislation_type": "GEN",
+ "caption": "Veterans Day Paid Leave Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Titles 34 and 48 of the Official Code of Georgia Annotated, relating to labor and industrial relations and revenue and taxation, respectively, so as to require that employers provide veteran employees paid leave on Veterans Day; to provide employers who are required to provide such paid leave with an income tax credit for amounts paid to such veteran employees on account of such paid leave; to provide for definitions; to provide a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:33:58",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-11T11:48:49",
+   "code": "HWREC",
+   "action": "House Withdrawn Bill/Res Consideration",
+   "id": 114
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232020,
+   "label": "HB 22 - withdrawn",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232020"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:48+00:00",
+  "version:232020": "2026-11-20T18:16:48+00:00",
+  "status:40": "2026-11-20T18:16:48+00:00",
+  "status:33": "2026-11-20T18:16:48+00:00",
+  "status:34": "2026-11-20T18:16:48+00:00",
+  "status:114": "2026-11-20T18:16:48+00:00"
+ },
+ "updated": "2026-11-20T18:16:48+00:00"
+}

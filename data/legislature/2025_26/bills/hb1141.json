@@ -1,0 +1,88 @@
+{
+ "key": "HB 1141",
+ "slug": "hb1141",
+ "session": "2025_26",
+ "legislation_id": 72700,
+ "page": "https://www.legis.ga.gov/legislation/72700",
+ "document_type": "HB",
+ "number": 1141,
+ "legislation_type": "GEN",
+ "caption": "Courts; availability of medical records to a parent or legal guardian when a child is taken into medical custody; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 15-11-131.1 of the Official Code of Georgia Annotated, relating to right to obtain an independent medical evaluation or pediatric specialty consultation, so as to provide for the availability of medical records to a parent or legal guardian when a child is taken into medical custody; to provide for a penalty; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Juvenile",
+   "id": 203
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:20:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:34",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241183,
+   "label": "LC 48 1700/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241183"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:16+00:00",
+  "version:241183": "2026-11-20T19:11:16+00:00",
+  "status:40": "2026-11-20T19:11:16+00:00",
+  "status:33": "2026-11-20T19:11:16+00:00",
+  "status:34": "2026-11-20T19:11:16+00:00"
+ },
+ "updated": "2026-11-20T19:11:16+00:00"
+}

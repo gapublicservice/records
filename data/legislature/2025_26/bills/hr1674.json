@@ -1,0 +1,95 @@
+{
+ "key": "HR 1674",
+ "slug": "hr1674",
+ "session": "2025_26",
+ "legislation_id": 74052,
+ "page": "https://www.legis.ga.gov/legislation/74052",
+ "document_type": "HR",
+ "number": 1674,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on State Governance of Emergency Medical Services; create",
+ "summary": "A RESOLUTION creating the House Study Committee on State Governance of Emergency Medical Services; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5009,
+   "name": "Seabaugh, Devan 34th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-12T13:08:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T10:49:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T10:10:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:50",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245777,
+   "label": "LC 60 0345/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245777"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:39+00:00",
+  "version:245777": "2026-11-20T20:08:39+00:00",
+  "status:40": "2026-11-20T20:08:39+00:00",
+  "status:33": "2026-11-20T20:08:39+00:00",
+  "status:34": "2026-11-20T20:08:39+00:00",
+  "status:39": "2026-11-20T20:08:39+00:00"
+ },
+ "updated": "2026-11-20T20:08:39+00:00"
+}

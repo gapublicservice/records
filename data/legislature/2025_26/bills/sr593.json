@@ -1,0 +1,60 @@
+{
+ "key": "SR 593",
+ "slug": "sr593",
+ "session": "2025_26",
+ "legislation_id": 72335,
+ "page": "https://www.legis.ga.gov/legislation/72335",
+ "document_type": "SR",
+ "number": 593,
+ "legislation_type": "PRIV",
+ "caption": "Alogbo, His Most Eminence, Prophet (Dr.) Emmanuel Adewale Abiodun; honoring",
+ "summary": "A RESOLUTION honoring His Most Eminence, Prophet (Dr.) Emmanuel Adewale Abiodun Alogbo; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-22T13:03:27",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-27T13:07:01",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240123,
+   "label": "Read and Adopted LC 129 0721",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240123"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:04:19+00:00",
+  "version:240123": "2026-11-20T21:04:19+00:00",
+  "status:67": "2026-11-20T21:04:19+00:00",
+  "status:3": "2026-11-20T21:04:19+00:00"
+ },
+ "updated": "2026-11-20T21:04:19+00:00"
+}

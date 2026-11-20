@@ -1,0 +1,75 @@
+{
+ "key": "HR 716",
+ "slug": "hr716",
+ "session": "2025_26",
+ "legislation_id": 71674,
+ "page": "https://www.legis.ga.gov/legislation/71674",
+ "document_type": "HR",
+ "number": 716,
+ "legislation_type": "PRIV",
+ "caption": "Brown, Joseph \"Joey\"; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending Joseph \"Joey\" Brown on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-25T14:07:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T14:52:56",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T14:52:58",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237270,
+   "label": "LC 112 3518/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237270"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:46:58+00:00",
+  "version:237270": "2026-11-20T19:46:58+00:00",
+  "status:40": "2026-11-20T19:46:58+00:00",
+  "status:33": "2026-11-20T19:46:58+00:00",
+  "status:48": "2026-11-20T19:46:58+00:00"
+ },
+ "updated": "2026-11-20T19:46:58+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "key": "HB 1243",
+ "slug": "hb1243",
+ "session": "2025_26",
+ "legislation_id": 72972,
+ "page": "https://www.legis.ga.gov/legislation/72972",
+ "document_type": "HB",
+ "number": 1243,
+ "legislation_type": "GEN",
+ "caption": "Criminal Justice Researcher Access to Data Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 18 of Title 50 of the Official Code of Georgia Annotated, relating to state printing and documents, so as to provide bona fide researchers with legal means to access criminal justice data and records; to provide for legislative findings and declarations; to provide for definitions; to require that the Attorney General provide guidance to criminal justice agencies in the sharing of criminal justice data, records, and information with bona fide researchers; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5020,
+   "name": "Barrett, Carter 24th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T11:13:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241874,
+   "label": "LC 59 0198/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241874"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:23+00:00",
+  "version:241874": "2026-11-20T19:15:23+00:00",
+  "status:40": "2026-11-20T19:15:23+00:00",
+  "status:33": "2026-11-20T19:15:23+00:00",
+  "status:34": "2026-11-20T19:15:23+00:00"
+ },
+ "updated": "2026-11-20T19:15:23+00:00"
+}

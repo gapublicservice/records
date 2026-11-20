@@ -1,0 +1,67 @@
+{
+ "key": "SR 537",
+ "slug": "sr537",
+ "session": "2025_26",
+ "legislation_id": 71969,
+ "page": "https://www.legis.ga.gov/legislation/71969",
+ "document_type": "SR",
+ "number": 537,
+ "legislation_type": "PRIV",
+ "caption": "Poder Latinx in Georgia; recognize",
+ "summary": "A RESOLUTION recognizing and commending the contributions of Poder Latinx in Georgia; and for other",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5066,
+   "name": "Kemp, RaShaun 38th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Rules",
+   "id": 83
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-04-02T11:02:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-04-04T10:22:20",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238691,
+   "label": "As Introduced LC 112 3638",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238691"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:01+00:00",
+  "version:238691": "2026-11-20T21:03:01+00:00",
+  "status:67": "2026-11-20T21:03:01+00:00",
+  "status:3": "2026-11-20T21:03:01+00:00"
+ },
+ "updated": "2026-11-20T21:03:01+00:00"
+}

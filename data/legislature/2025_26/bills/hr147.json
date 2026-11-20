@@ -1,0 +1,61 @@
+{
+ "key": "HR 147",
+ "slug": "hr147",
+ "session": "2025_26",
+ "legislation_id": 69891,
+ "page": "https://www.legis.ga.gov/legislation/69891",
+ "document_type": "HR",
+ "number": 147,
+ "legislation_type": "PRIV",
+ "caption": "Rabun County; Waterfall Capital of Georgia; commend",
+ "summary": "A RESOLUTION recognizing Rabun County as the Waterfall Capital of Georgia; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T12:51:28",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:05:58",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:00",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231271,
+   "label": "LC 112 2781/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231271"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:12+00:00",
+  "version:231271": "2026-11-20T19:34:12+00:00",
+  "status:40": "2026-11-20T19:34:12+00:00",
+  "status:33": "2026-11-20T19:34:12+00:00",
+  "status:48": "2026-11-20T19:34:12+00:00"
+ },
+ "updated": "2026-11-20T19:34:12+00:00"
+}

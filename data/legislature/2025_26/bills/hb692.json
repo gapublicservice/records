@@ -1,0 +1,74 @@
+{
+ "key": "HB 692",
+ "slug": "hb692",
+ "session": "2025_26",
+ "legislation_id": 71032,
+ "page": "https://www.legis.ga.gov/legislation/71032",
+ "document_type": "HB",
+ "number": 692,
+ "legislation_type": "GEN",
+ "caption": "Nurses; notify supervising or delegating physician when subject to a complaint or report in outpatient settings; provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 26 of Title 43 of the O.C.G.A., relating to mandatory reporting requirements for nurses, so as to require registered professional nurses and advanced practice registered nurses in outpatient settings to immediately notify his or her supervising or delegating physician when he or she is subject to a complaint or report made to the Georgia Board of Nursing; to require the Georgia Board of Nursing to transmit to the Georgia Composite Medical Board copies of certain complaints and reports received relating to care rendered in certain settings which requires physician involvement; to provide for definitions; to provide for confidentiality and privileges relating to communications between the boards; to provide for an exception; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4902,
+   "name": "Newton, Mark 127th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T11:43:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T10:43:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T09:54:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234618,
+   "label": "LC 33 9800/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234618"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:10+00:00",
+  "version:234618": "2026-11-20T18:49:10+00:00",
+  "status:40": "2026-11-20T18:49:10+00:00",
+  "status:33": "2026-11-20T18:49:10+00:00",
+  "status:34": "2026-11-20T18:49:10+00:00"
+ },
+ "updated": "2026-11-20T18:49:10+00:00"
+}

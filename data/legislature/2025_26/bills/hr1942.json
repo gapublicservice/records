@@ -1,0 +1,67 @@
+{
+ "key": "HR 1942",
+ "slug": "hr1942",
+ "session": "2025_26",
+ "legislation_id": 74490,
+ "page": "https://www.legis.ga.gov/legislation/74490",
+ "document_type": "HR",
+ "number": 1942,
+ "legislation_type": "GEN",
+ "caption": "Dan Magill Memorial Intersection; Clarke County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. Dan Magill and dedicating an intersection in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-25T15:58:33",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-27T10:35:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-31T10:12:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247541,
+   "label": "LC 39 5124/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247541"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:14:21+00:00",
+  "version:247541": "2026-11-20T20:14:21+00:00",
+  "status:40": "2026-11-20T20:14:21+00:00",
+  "status:33": "2026-11-20T20:14:21+00:00",
+  "status:34": "2026-11-20T20:14:21+00:00"
+ },
+ "updated": "2026-11-20T20:14:21+00:00"
+}

@@ -1,0 +1,81 @@
+{
+ "key": "SB 313",
+ "slug": "sb313",
+ "session": "2025_26",
+ "legislation_id": 71026,
+ "page": "https://www.legis.ga.gov/legislation/71026",
+ "document_type": "SB",
+ "number": 313,
+ "legislation_type": "GEN",
+ "caption": "Enforcement Methods; investigations or inspections of certain residential rental property when there is a reasonable suspicion of a code violation; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 36-74-30 of the Official Code of Georgia Annotated, relating to other enforcement methods and probable cause for investigation required, so as to provide for investigations or inspections of certain residential rental property when there is a reasonable suspicion of a code violation; to provide for the registration of certain residential rental property; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5014,
+   "name": "Esteves, Jason 35th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 851,
+   "name": "Jones II, Harold 22nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "State and Local Governmental Operations",
+   "id": 85
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T11:20:05",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-03-03T13:27:47",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234599,
+   "label": "As introduced LC 62 0086",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234599"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:35:43+00:00",
+  "version:234599": "2026-11-20T20:35:43+00:00",
+  "status:67": "2026-11-20T20:35:43+00:00",
+  "status:3": "2026-11-20T20:35:43+00:00"
+ },
+ "updated": "2026-11-20T20:35:43+00:00"
+}

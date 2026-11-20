@@ -1,0 +1,102 @@
+{
+ "key": "HB 510",
+ "slug": "hb510",
+ "session": "2025_26",
+ "legislation_id": 70483,
+ "page": "https://www.legis.ga.gov/legislation/70483",
+ "document_type": "HB",
+ "number": 510,
+ "legislation_type": "GEN",
+ "caption": "Domestic relations; duration of child support for postsecondary education; provide",
+ "summary": "A BILL to be entitled an Act to amend Code Section 19-6-15 of the Official Code of Georgia Annotated, relating to child support guidelines for determining amount of award, continuation of duty of support, and duration of support, so as to provide for the duration of child support for postsecondary education; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T11:16:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-20T10:45:31",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-21T09:07:03",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232910,
+   "label": "LC 48 1477/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232910"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:41:00+00:00",
+  "version:232910": "2026-11-20T18:41:00+00:00",
+  "status:40": "2026-11-20T18:41:00+00:00",
+  "status:33": "2026-11-20T18:41:00+00:00",
+  "status:34": "2026-11-20T18:41:00+00:00"
+ },
+ "updated": "2026-11-20T18:41:00+00:00"
+}

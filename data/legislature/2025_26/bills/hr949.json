@@ -1,0 +1,89 @@
+{
+ "key": "HR 949",
+ "slug": "hr949",
+ "session": "2025_26",
+ "legislation_id": 72061,
+ "page": "https://www.legis.ga.gov/legislation/72061",
+ "document_type": "HR",
+ "number": 949,
+ "legislation_type": "PRIV",
+ "caption": "Trump, President Donald; Elon Musk; creation of the Department of Government Efficiency; commend",
+ "summary": "A RESOLUTION commending President Donald Trump and Elon Musk on the creation of the Department of Government Efficiency; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4934,
+   "name": "Gambill, Matthew 15th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5063,
+   "name": "Richardson, Gary 125th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4986,
+   "name": "Cameron, Mike 1st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T12:20:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-12T10:53:52",
+   "code": "HWREC",
+   "action": "House Withdrawn Bill/Res Consideration",
+   "id": 114
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239611,
+   "label": "HR 949 - withdrawn",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239611"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:06+00:00",
+  "version:239611": "2026-11-20T19:52:06+00:00",
+  "status:40": "2026-11-20T19:52:06+00:00",
+  "status:114": "2026-11-20T19:52:06+00:00"
+ },
+ "updated": "2026-11-20T19:52:06+00:00"
+}

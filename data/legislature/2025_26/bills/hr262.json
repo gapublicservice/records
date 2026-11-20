@@ -1,0 +1,96 @@
+{
+ "key": "HR 262",
+ "slug": "hr262",
+ "session": "2025_26",
+ "legislation_id": 70358,
+ "page": "https://www.legis.ga.gov/legislation/70358",
+ "document_type": "HR",
+ "number": 262,
+ "legislation_type": "PRIV",
+ "caption": "Lupus Advocacy Day at the state capitol; February 13, 2025; recognize",
+ "summary": "A RESOLUTION recognizing February 13, 2025, as Lupus Advocacy Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4891,
+   "name": "Jackson, Derrick 68th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-13T13:28:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-13T14:15:17",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T14:15:19",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232524,
+   "label": "LC 112 2975/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232524"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:36:43+00:00",
+  "version:232524": "2026-11-20T19:36:43+00:00",
+  "status:40": "2026-11-20T19:36:43+00:00",
+  "status:33": "2026-11-20T19:36:43+00:00",
+  "status:48": "2026-11-20T19:36:43+00:00"
+ },
+ "updated": "2026-11-20T19:36:43+00:00"
+}

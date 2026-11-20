@@ -1,0 +1,68 @@
+{
+ "key": "SR 1098",
+ "slug": "sr1098",
+ "session": "2025_26",
+ "legislation_id": 74698,
+ "page": "https://www.legis.ga.gov/legislation/74698",
+ "document_type": "SR",
+ "number": 1098,
+ "legislation_type": "PRIV",
+ "caption": "Davenport, Helen Odessa Dixon; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Helen Odessa Dixon Davenport upon her 100th birthday; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 10,
+   "name": "Davenport, Gail 17th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 28,
+   "name": "Jones, Emanuel 10th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 372,
+   "name": "James, Donzella 28th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-04-02T12:23:41",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-04-02T12:30:43",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 248773,
+   "label": "Read and adopted LC 112 4235",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/248773"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:15:53+00:00",
+  "version:248773": "2026-11-20T21:15:53+00:00",
+  "status:67": "2026-11-20T21:15:53+00:00",
+  "status:66": "2026-11-20T21:15:53+00:00"
+ },
+ "updated": "2026-11-20T21:15:53+00:00"
+}

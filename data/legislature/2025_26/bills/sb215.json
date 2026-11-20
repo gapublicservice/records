@@ -1,0 +1,88 @@
+{
+ "key": "SB 215",
+ "slug": "sb215",
+ "session": "2025_26",
+ "legislation_id": 70555,
+ "page": "https://www.legis.ga.gov/legislation/70555",
+ "document_type": "SB",
+ "number": 215,
+ "legislation_type": "GEN",
+ "caption": "State Bar of Georgia; responsibilities of the administrative arm of the Supreme Court relative to the practice of law in this state; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 19 of Title 15 of the Official Code of Georgia Annotated, relating to the State Bar of Georgia, so as to provide for the responsibilities of the administrative arm of the Supreme Court relative to the practice of law in this state; to repeal provisions for the establishment of a unified self-governing bar association to be known as the 'State Bar of Georgia,' composed of all persons licensed to practice law in this state; to repeal provisions relative to the amendment of rules and regulations of the State Bar of Georgia; to provide for legislative findings and intent; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4926,
+   "name": "Robertson, Randy 29th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5067,
+   "name": "Echols, Drew 49th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 752,
+   "name": "Gooch, Steve 51st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Judiciary",
+   "id": 80
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-19T14:17:28",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-20T10:32:21",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233057,
+   "label": "As introduced LC 49 2262",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233057"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:31:28+00:00",
+  "version:233057": "2026-11-20T20:31:28+00:00",
+  "status:67": "2026-11-20T20:31:28+00:00",
+  "status:3": "2026-11-20T20:31:28+00:00"
+ },
+ "updated": "2026-11-20T20:31:28+00:00"
+}

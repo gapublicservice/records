@@ -1,0 +1,129 @@
+{
+ "key": "HB 620",
+ "slug": "hb620",
+ "session": "2025_26",
+ "legislation_id": 70795,
+ "page": "https://www.legis.ga.gov/legislation/70795",
+ "document_type": "HB",
+ "number": 620,
+ "legislation_type": "GEN",
+ "caption": "State holidays; Blood Plasma Donation Awareness Day; designate",
+ "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 1 of the Official Code of Georgia Annotated, relating to holidays and observances, so as to designate Blood Plasma Donation Awareness Day in Georgia; to provide for legislative findings; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 867,
+   "name": "Clark, David 100th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4970,
+   "name": "Campbell, Joe 171st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5045,
+   "name": "Martinez, Reynaldo \"Rey\" 111th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T10:44:29",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-03T17:33:57",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-11T10:38:24",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242316,
+   "label": "LC 64 0058S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242316"
+  },
+  {
+   "doc_id": 233928,
+   "label": "LC 57 0244/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233928"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:57+00:00",
+  "version:242316": "2026-11-20T18:45:57+00:00",
+  "version:233928": "2026-11-20T18:45:57+00:00",
+  "status:40": "2026-11-20T18:45:57+00:00",
+  "status:33": "2026-11-20T18:45:57+00:00",
+  "status:34": "2026-11-20T18:45:57+00:00",
+  "status:39": "2026-11-20T18:45:57+00:00",
+  "status:50": "2026-11-20T18:45:57+00:00"
+ },
+ "updated": "2026-11-20T18:45:57+00:00"
+}

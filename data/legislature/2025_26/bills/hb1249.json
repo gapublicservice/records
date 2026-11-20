@@ -1,0 +1,67 @@
+{
+ "key": "HB 1249",
+ "slug": "hb1249",
+ "session": "2025_26",
+ "legislation_id": 73016,
+ "page": "https://www.legis.ga.gov/legislation/73016",
+ "document_type": "HB",
+ "number": 1249,
+ "legislation_type": "GEN",
+ "caption": "Education; require public elementary and secondary schools to display the Bill of Rights in multiple locations",
+ "summary": "A BILL to be entitled an Act to amend Article 19A of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to American history recognition and significant documents, so as to require public elementary and secondary schools in this state to display the Bill of Rights in multiple locations; to provide for specifications for such displays; to provide for rules and regulations; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-09T11:36:37",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T10:29:07",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T10:36:04",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242015,
+   "label": "LC 60 0186/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242015"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:47+00:00",
+  "version:242015": "2026-11-20T19:15:47+00:00",
+  "status:40": "2026-11-20T19:15:47+00:00",
+  "status:33": "2026-11-20T19:15:47+00:00",
+  "status:34": "2026-11-20T19:15:47+00:00"
+ },
+ "updated": "2026-11-20T19:15:47+00:00"
+}

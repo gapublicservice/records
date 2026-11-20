@@ -1,0 +1,67 @@
+{
+ "key": "SB 265",
+ "slug": "sb265",
+ "session": "2025_26",
+ "legislation_id": 70862,
+ "page": "https://www.legis.ga.gov/legislation/70862",
+ "document_type": "SB",
+ "number": 265,
+ "legislation_type": "GEN",
+ "caption": "Insurance; health benefit policy coverage for medically necessary orthotic devices and prosthetic devices; require",
+ "summary": "A BILL to be entitled an Act to amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to require health benefit policy coverage for medically necessary orthotic devices and prosthetic devices and their materials and components; to provide for definitions; to provide for requirements; to provide for reporting; to provide for rules and regulations; to provide for related matters; to provide for an effective date and appropriations; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5016,
+   "name": "Still, Shawn 48th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T14:22:17",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:30:00",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234036,
+   "label": "As introduced LC 52 0771",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234036"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:33:59+00:00",
+  "version:234036": "2026-11-20T20:33:59+00:00",
+  "status:67": "2026-11-20T20:33:59+00:00",
+  "status:3": "2026-11-20T20:33:59+00:00"
+ },
+ "updated": "2026-11-20T20:33:59+00:00"
+}

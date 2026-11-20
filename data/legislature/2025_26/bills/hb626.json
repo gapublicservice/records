@@ -1,0 +1,142 @@
+{
+ "key": "HB 626",
+ "slug": "hb626",
+ "session": "2025_26",
+ "legislation_id": 70803,
+ "page": "https://www.legis.ga.gov/legislation/70803",
+ "document_type": "HB",
+ "number": 626,
+ "legislation_type": "GEN",
+ "caption": "Criminal procedure; extend retention period of evidence of sexual assault when victim elects not to immediately report assault",
+ "summary": "A BILL to be entitled an Act to amend Code Section 17-5-71 of the Official Code of Georgia Annotated, relating to preservation of evidence, so as to extend the retention period of evidence of sexual assault when the victim elects not to immediately report the assault; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4894,
+   "name": "Mathiak, Karen 82nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4886,
+   "name": "Dubnik, Matt 29th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary Non-Civil",
+   "id": 146
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T11:12:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-04T12:07:26",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-02-24T08:57:57",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2026-03-03T19:57:14",
+   "code": "HPOST",
+   "action": "House Postponed",
+   "id": 54
+  },
+  {
+   "date": "2026-03-04T21:43:03",
+   "code": "HPOST",
+   "action": "House Postponed",
+   "id": 54
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243626,
+   "label": "LC 48 1769S/hs",
+   "version": 6,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243626"
+  },
+  {
+   "doc_id": 235080,
+   "label": "LC 57 0216S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235080"
+  },
+  {
+   "doc_id": 233930,
+   "label": "LC 57 0246/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233930"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:46:19+00:00",
+  "version:243626": "2026-11-20T18:46:19+00:00",
+  "version:235080": "2026-11-20T18:46:19+00:00",
+  "version:233930": "2026-11-20T18:46:19+00:00",
+  "status:40": "2026-11-20T18:46:19+00:00",
+  "status:33": "2026-11-20T18:46:19+00:00",
+  "status:34": "2026-11-20T18:46:19+00:00",
+  "status:39": "2026-11-20T18:46:19+00:00",
+  "status:50": "2026-11-20T18:46:19+00:00",
+  "status:54": "2026-11-20T18:46:19+00:00"
+ },
+ "updated": "2026-11-20T18:46:19+00:00"
+}

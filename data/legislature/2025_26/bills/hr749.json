@@ -1,0 +1,68 @@
+{
+ "key": "HR 749",
+ "slug": "hr749",
+ "session": "2025_26",
+ "legislation_id": 71705,
+ "page": "https://www.legis.ga.gov/legislation/71705",
+ "document_type": "HR",
+ "number": 749,
+ "legislation_type": "PRIV",
+ "caption": "Gordon, Lorenzo; occasion of District 58 Day; recognize",
+ "summary": "A RESOLUTION recognizing and commending Lorenzo Gordon on the occasion of District 58 Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-25T14:19:05",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-25T15:09:32",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T15:09:34",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237317,
+   "label": "LC 112 3414/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237317"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:47:41+00:00",
+  "version:237317": "2026-11-20T19:47:41+00:00",
+  "status:40": "2026-11-20T19:47:41+00:00",
+  "status:33": "2026-11-20T19:47:41+00:00",
+  "status:48": "2026-11-20T19:47:41+00:00"
+ },
+ "updated": "2026-11-20T19:47:41+00:00"
+}

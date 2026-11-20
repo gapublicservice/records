@@ -1,0 +1,88 @@
+{
+ "key": "HR 1663",
+ "slug": "hr1663",
+ "session": "2025_26",
+ "legislation_id": 74041,
+ "page": "https://www.legis.ga.gov/legislation/74041",
+ "document_type": "HR",
+ "number": 1663,
+ "legislation_type": "GEN",
+ "caption": "Dr. Anthony Smith Highway; Clayton County; dedicate",
+ "summary": "A RESOLUTION recognizing Dr. Anthony W. Smith and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-12T11:27:57",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T10:49:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T10:10:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245756,
+   "label": "LC 39 4934/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245756"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:25+00:00",
+  "version:245756": "2026-11-20T20:08:25+00:00",
+  "status:40": "2026-11-20T20:08:25+00:00",
+  "status:33": "2026-11-20T20:08:25+00:00",
+  "status:34": "2026-11-20T20:08:25+00:00"
+ },
+ "updated": "2026-11-20T20:08:25+00:00"
+}

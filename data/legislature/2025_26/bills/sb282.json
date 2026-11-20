@@ -1,0 +1,88 @@
+{
+ "key": "SB 282",
+ "slug": "sb282",
+ "session": "2025_26",
+ "legislation_id": 70924,
+ "page": "https://www.legis.ga.gov/legislation/70924",
+ "document_type": "SB",
+ "number": 282,
+ "legislation_type": "GEN",
+ "caption": "\"Fair Business Practices Act of 1975,\"; requirements for earned wage access services; provide",
+ "summary": "A BILL to be entitled an Act to amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the \"Fair Business Practices Act of 1975,\" so as to provide requirements for earned wage access services; to provide for fees that may be charged for such services; to provide for prohibitions; to provide for consumer protections; to provide that earned wage access payments are nonrecourse; to provide that earned wage access services shall not be considered lending activity or money transmission; to provide for definitions; to provide for applicability; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4977,
+   "name": "Goodman, Russ 8th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 209,
+   "name": "Sims, Freddie Powell 12th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Agriculture and Consumer Affairs",
+   "id": 107
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T17:47:36",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-02-27T10:32:06",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  },
+  {
+   "date": "2026-02-12T11:04:17",
+   "code": "SW&C",
+   "action": "Senate Withdrawn & Recommitted",
+   "id": 7
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234234,
+   "label": "As Introduced LC 55 0560",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234234"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:34:30+00:00",
+  "version:234234": "2026-11-20T20:34:30+00:00",
+  "status:67": "2026-11-20T20:34:30+00:00",
+  "status:3": "2026-11-20T20:34:30+00:00",
+  "status:7": "2026-11-20T20:34:30+00:00"
+ },
+ "updated": "2026-11-20T20:34:30+00:00"
+}

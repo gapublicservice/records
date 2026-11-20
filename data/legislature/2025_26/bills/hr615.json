@@ -1,0 +1,89 @@
+{
+ "key": "HR 615",
+ "slug": "hr615",
+ "session": "2025_26",
+ "legislation_id": 71435,
+ "page": "https://www.legis.ga.gov/legislation/71435",
+ "document_type": "HR",
+ "number": 615,
+ "legislation_type": "PRIV",
+ "caption": "Herring, Paster Wallace B., Sr.; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Pastor Wallace B. Herring Sr.; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5050,
+   "name": "Reese, Tremaine Teddy 140th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-18T16:29:40",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-18T17:00:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-18T17:00:48",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236417,
+   "label": "LC 129 0331/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236417"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:44:30+00:00",
+  "version:236417": "2026-11-20T19:44:30+00:00",
+  "status:40": "2026-11-20T19:44:30+00:00",
+  "status:33": "2026-11-20T19:44:30+00:00",
+  "status:48": "2026-11-20T19:44:30+00:00"
+ },
+ "updated": "2026-11-20T19:44:30+00:00"
+}

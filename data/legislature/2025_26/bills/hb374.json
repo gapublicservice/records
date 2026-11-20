@@ -1,0 +1,109 @@
+{
+ "key": "HB 374",
+ "slug": "hb374",
+ "session": "2025_26",
+ "legislation_id": 70136,
+ "page": "https://www.legis.ga.gov/legislation/70136",
+ "document_type": "HB",
+ "number": 374,
+ "legislation_type": "GEN",
+ "caption": "Local government; residential rental property; establish housing management databases",
+ "summary": "A BILL to be entitled an Act to amend Article 2 of Chapter 74 of Title 36 of the Official Code of Georgia Annotated, relating to local enforcement boards created on or after January 1, 2003, so as to authorize local governing bodies to establish housing management databases of residential rental property; to provide for applicability; to provide for registration with the databases; to provide for penalties; to provide for disclosure of ownership by foreign adversaries; to provide for exemptions; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4937,
+   "name": "Ehrhart, Ginny 36th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-10T14:52:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-11T10:45:06",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-12T10:08:02",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-02-27T11:31:40",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234329,
+   "label": "LC 47 3486S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234329"
+  },
+  {
+   "doc_id": 231888,
+   "label": "LC 44 3018/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231888"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:34:43+00:00",
+  "version:234329": "2026-11-20T18:34:43+00:00",
+  "version:231888": "2026-11-20T18:34:43+00:00",
+  "status:40": "2026-11-20T18:34:43+00:00",
+  "status:33": "2026-11-20T18:34:43+00:00",
+  "status:34": "2026-11-20T18:34:43+00:00",
+  "status:39": "2026-11-20T18:34:43+00:00",
+  "status:50": "2026-11-20T18:34:43+00:00"
+ },
+ "updated": "2026-11-20T18:34:43+00:00"
+}

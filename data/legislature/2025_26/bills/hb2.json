@@ -1,0 +1,102 @@
+{
+ "key": "HB 2",
+ "slug": "hb2",
+ "session": "2025_26",
+ "legislation_id": 69282,
+ "page": "https://www.legis.ga.gov/legislation/69282",
+ "document_type": "HB",
+ "number": 2,
+ "legislation_type": "GEN",
+ "caption": "Safe Storage Tax Credit Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes, so as to provide for a tax credit for certain eligible expenses incurred for firearm safe storage devices; to provide for an aggregate annual cap; to provide for definitions; to provide for terms and conditions; to provide for tax credit preapproval by the department; to provide for rules and regulations; to provide for a short title; to provide for automatic repeal; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4983,
+   "name": "Au, Michelle 50th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 765,
+   "name": "Neal, Yasmin 79th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-13T13:03:18",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-14T11:42:47",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-15T10:15:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 229745,
+   "label": "LC 62 0014/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229745"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:16:05+00:00",
+  "version:229745": "2026-11-20T18:16:05+00:00",
+  "status:40": "2026-11-20T18:16:05+00:00",
+  "status:33": "2026-11-20T18:16:05+00:00",
+  "status:34": "2026-11-20T18:16:05+00:00"
+ },
+ "updated": "2026-11-20T18:16:05+00:00"
+}

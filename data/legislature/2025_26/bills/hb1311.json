@@ -1,0 +1,81 @@
+{
+ "key": "HB 1311",
+ "slug": "hb1311",
+ "session": "2025_26",
+ "legislation_id": 73199,
+ "page": "https://www.legis.ga.gov/legislation/73199",
+ "document_type": "HB",
+ "number": 1311,
+ "legislation_type": "GEN",
+ "caption": "Survivor Civil Protection Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 15 of Title 9 and Chapter 6 of Title 13 of the Official Code of Georgia Annotated, relating to court and litigation costs and damages and costs generally, respectively, so as to prohibit courts from awarding attorney's fees to defendants who have been found guilty of or pleaded guilty or nolo contendere to a sexual offense when the plaintiff is the victim of such offense; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-12T12:59:51",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-17T10:40:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-18T11:12:35",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242579,
+   "label": "LC 62 0281/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242579"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:18:43+00:00",
+  "version:242579": "2026-11-20T19:18:43+00:00",
+  "status:40": "2026-11-20T19:18:43+00:00",
+  "status:33": "2026-11-20T19:18:43+00:00",
+  "status:34": "2026-11-20T19:18:43+00:00"
+ },
+ "updated": "2026-11-20T19:18:43+00:00"
+}

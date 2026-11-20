@@ -1,0 +1,61 @@
+{
+ "key": "SR 804",
+ "slug": "sr804",
+ "session": "2025_26",
+ "legislation_id": 73355,
+ "page": "https://www.legis.ga.gov/legislation/73355",
+ "document_type": "SR",
+ "number": 804,
+ "legislation_type": "PRIV",
+ "caption": "Heyward, Lieutenant Colonel (Ret.) Geneva; recognize",
+ "summary": "A RESOLUTION recognizing and commending Lieutenant Colonel (Ret.) Geneva Heyward; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:17:19",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-19T11:32:22",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243042,
+   "label": "Read and adopted LC 129 1176",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243042"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:09+00:00",
+  "version:243042": "2026-11-20T21:09:09+00:00",
+  "status:67": "2026-11-20T21:09:09+00:00",
+  "status:66": "2026-11-20T21:09:09+00:00"
+ },
+ "updated": "2026-11-20T21:09:09+00:00"
+}

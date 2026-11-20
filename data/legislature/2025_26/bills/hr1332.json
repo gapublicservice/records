@@ -1,0 +1,89 @@
+{
+ "key": "HR 1332",
+ "slug": "hr1332",
+ "session": "2025_26",
+ "legislation_id": 73146,
+ "page": "https://www.legis.ga.gov/legislation/73146",
+ "document_type": "HR",
+ "number": 1332,
+ "legislation_type": "PRIV",
+ "caption": "Jackson, Edna Branch; commend",
+ "summary": "A RESOLUTION recognizing and commending Edna Branch Jackson; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 303,
+   "name": "DeLoach, Buddy 167th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:43:00",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242425,
+   "label": "LC 129 1038/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242425"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:57+00:00",
+  "version:242425": "2026-11-20T20:00:57+00:00",
+  "status:40": "2026-11-20T20:00:57+00:00",
+  "status:33": "2026-11-20T20:00:57+00:00",
+  "status:48": "2026-11-20T20:00:57+00:00"
+ },
+ "updated": "2026-11-20T20:00:57+00:00"
+}

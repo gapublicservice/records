@@ -1,0 +1,61 @@
+{
+ "key": "SR 807",
+ "slug": "sr807",
+ "session": "2025_26",
+ "legislation_id": 73359,
+ "page": "https://www.legis.ga.gov/legislation/73359",
+ "document_type": "SR",
+ "number": 807,
+ "legislation_type": "PRIV",
+ "caption": "Jones, Denise Olivia; recognize",
+ "summary": "A RESOLUTION recognizing and commending Denise Olivia Jones; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5065,
+   "name": "Wicks, Kenya 34th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 807,
+   "name": "Anderson, Tonya 43rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:29:07",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-19T11:32:38",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243055,
+   "label": "Read and adopted LC 129 1182",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243055"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:13+00:00",
+  "version:243055": "2026-11-20T21:09:13+00:00",
+  "status:67": "2026-11-20T21:09:13+00:00",
+  "status:66": "2026-11-20T21:09:13+00:00"
+ },
+ "updated": "2026-11-20T21:09:13+00:00"
+}

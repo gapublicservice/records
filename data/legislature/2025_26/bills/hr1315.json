@@ -1,0 +1,89 @@
+{
+ "key": "HR 1315",
+ "slug": "hr1315",
+ "session": "2025_26",
+ "legislation_id": 73097,
+ "page": "https://www.legis.ga.gov/legislation/73097",
+ "document_type": "HR",
+ "number": 1315,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Wildlife Federation; honoring the accomplishments; commend",
+ "summary": "A RESOLUTION honoring the accomplishments of Georgia Wildlife Federation; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:11:44",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:51",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:53",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242256,
+   "label": "LC 129 1052/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242256"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:27+00:00",
+  "version:242256": "2026-11-20T20:00:27+00:00",
+  "status:40": "2026-11-20T20:00:27+00:00",
+  "status:33": "2026-11-20T20:00:27+00:00",
+  "status:48": "2026-11-20T20:00:27+00:00"
+ },
+ "updated": "2026-11-20T20:00:27+00:00"
+}

@@ -1,0 +1,116 @@
+{
+ "key": "HB 168",
+ "slug": "hb168",
+ "session": "2025_26",
+ "legislation_id": 69645,
+ "page": "https://www.legis.ga.gov/legislation/69645",
+ "document_type": "HB",
+ "number": 168,
+ "legislation_type": "GEN",
+ "caption": "Sales and use tax; SPLOST; require enactment of a local Act for reimposition of such tax",
+ "summary": "A BILL to be entitled an Act to amend Part 1 of Article 3 of Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to County Special Purpose Local Option Sales Tax (SPLOST), so as to require the enactment of a local Act for the reimposition of such tax; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4883,
+   "name": "Ridley, Jason 6th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T11:27:46",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T10:14:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-03T10:08:48",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2025-03-03T18:32:53",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  },
+  {
+   "date": "2025-04-04T14:54:39",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230655,
+   "label": "LC 50 0978/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230655"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:24:33+00:00",
+  "version:230655": "2026-11-20T18:24:33+00:00",
+  "status:40": "2026-11-20T18:24:33+00:00",
+  "status:33": "2026-11-20T18:24:33+00:00",
+  "status:34": "2026-11-20T18:24:33+00:00",
+  "status:39": "2026-11-20T18:24:33+00:00",
+  "status:50": "2026-11-20T18:24:33+00:00"
+ },
+ "updated": "2026-11-20T18:24:33+00:00"
+}

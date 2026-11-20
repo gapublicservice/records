@@ -1,0 +1,81 @@
+{
+ "key": "HB 800",
+ "slug": "hb800",
+ "session": "2025_26",
+ "legislation_id": 71485,
+ "page": "https://www.legis.ga.gov/legislation/71485",
+ "document_type": "HB",
+ "number": 800,
+ "legislation_type": "GEN",
+ "caption": "Motor vehicles; optional vehicle equipment inspections and premium discounts if policyholders obtain such inspections; provide",
+ "summary": "A BILL to be entitled an Act to amend Titles 33 and 40 of the O.C.G.A., relating to insurance and motor vehicles and traffic, respectively, so as to provide for optional vehicle equipment inspections and premium discounts if policyholders obtain such inspections; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 849,
+   "name": "Tarvin, Steve 2nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-20T10:38:23",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-21T10:10:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-25T10:15:33",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-18T11:56:19",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 236605,
+   "label": "LC 52 0827/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236605"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:54:26+00:00",
+  "version:236605": "2026-11-20T18:54:26+00:00",
+  "status:40": "2026-11-20T18:54:26+00:00",
+  "status:33": "2026-11-20T18:54:26+00:00",
+  "status:34": "2026-11-20T18:54:26+00:00",
+  "status:50": "2026-11-20T18:54:26+00:00"
+ },
+ "updated": "2026-11-20T18:54:26+00:00"
+}

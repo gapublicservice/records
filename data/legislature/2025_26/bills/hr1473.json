@@ -1,0 +1,102 @@
+{
+ "key": "HR 1473",
+ "slug": "hr1473",
+ "session": "2025_26",
+ "legislation_id": 73641,
+ "page": "https://www.legis.ga.gov/legislation/73641",
+ "document_type": "HR",
+ "number": 1473,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Lupus; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Lupus; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4916,
+   "name": "Schofield, Kim 63rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 19,
+   "name": "Hawkins, Lee 27th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4947,
+   "name": "Davis, Viola 87th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-25T12:33:15",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-26T09:53:38",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T09:38:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-27T10:26:05",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244072,
+   "label": "LC 46 1452/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244072"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:04:18+00:00",
+  "version:244072": "2026-11-20T20:04:18+00:00",
+  "status:40": "2026-11-20T20:04:18+00:00",
+  "status:33": "2026-11-20T20:04:18+00:00",
+  "status:34": "2026-11-20T20:04:18+00:00",
+  "status:39": "2026-11-20T20:04:18+00:00"
+ },
+ "updated": "2026-11-20T20:04:18+00:00"
+}

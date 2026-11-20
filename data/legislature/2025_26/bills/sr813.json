@@ -1,0 +1,95 @@
+{
+ "key": "SR 813",
+ "slug": "sr813",
+ "session": "2025_26",
+ "legislation_id": 73387,
+ "page": "https://www.legis.ga.gov/legislation/73387",
+ "document_type": "SR",
+ "number": 813,
+ "legislation_type": "NP",
+ "caption": "Department of Public Health; to conduct a study on the relationship between sudden unexpected deaths of infants and children and the administration of vaccinations; urge",
+ "summary": "A RESOLUTION urging the Department of Public Health to conduct a study on the relationship between sudden unexpected deaths of infants and children, ages two and under, and the administration of vaccinations; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4905,
+   "name": "Williams, Rick 25th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4971,
+   "name": "Summers, Carden 13th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4984,
+   "name": "Hatchett, Bo 50th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 754,
+   "name": "Albers, John 56th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 723,
+   "name": "Anderson, Lee 24th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Health and Human Services",
+   "id": 76
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T13:37:00",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-02-19T10:16:46",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243125,
+   "label": "As Introduced LC 65 0013",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243125"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:09:21+00:00",
+  "version:243125": "2026-11-20T21:09:21+00:00",
+  "status:67": "2026-11-20T21:09:21+00:00",
+  "status:3": "2026-11-20T21:09:21+00:00"
+ },
+ "updated": "2026-11-20T21:09:21+00:00"
+}

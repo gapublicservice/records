@@ -1,0 +1,102 @@
+{
+ "key": "HB 965",
+ "slug": "hb965",
+ "session": "2025_26",
+ "legislation_id": 72214,
+ "page": "https://www.legis.ga.gov/legislation/72214",
+ "document_type": "HB",
+ "number": 965,
+ "legislation_type": "GEN",
+ "caption": "Health; copies of certain patient records to parents or legal guardians of unemancipated minors; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 33 of Title 31 of the Official Code of Georgia Annotated, relating to health records, so as to provide for copies of certain patient records to parents or legal guardians of unemancipated minors; to provide for parent or legal guardian access to such records in a patient portal; to provide a definition; to provide for exceptions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5075,
+   "name": "Kahaian, Noelle 81st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 75,
+   "name": "Byrd, Charlice 20th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5092,
+   "name": "Fincher, Bill 23rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-14T12:18:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-15T10:52:25",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-16T08:36:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239838,
+   "label": "LC 52 0907/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239838"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:03:45+00:00",
+  "version:239838": "2026-11-20T19:03:45+00:00",
+  "status:40": "2026-11-20T19:03:45+00:00",
+  "status:33": "2026-11-20T19:03:45+00:00",
+  "status:34": "2026-11-20T19:03:45+00:00"
+ },
+ "updated": "2026-11-20T19:03:45+00:00"
+}

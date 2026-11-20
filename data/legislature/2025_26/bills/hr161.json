@@ -1,0 +1,82 @@
+{
+ "key": "HR 161",
+ "slug": "hr161",
+ "session": "2025_26",
+ "legislation_id": 69906,
+ "page": "https://www.legis.ga.gov/legislation/69906",
+ "document_type": "HR",
+ "number": 161,
+ "legislation_type": "PRIV",
+ "caption": "Children's Healthcare of Atlanta; opening the new Arthur M. Blank Hospital; commend",
+ "summary": "A RESOLUTION recognizing Children's Healthcare of Atlanta upon the opening of the new Arthur M. Blank Hospital; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 86,
+   "name": "Cooper, Sharon 45th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:02:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231269,
+   "label": "LC 112 2825/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231269"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:29+00:00",
+  "version:231269": "2026-11-20T19:34:29+00:00",
+  "status:40": "2026-11-20T19:34:29+00:00",
+  "status:33": "2026-11-20T19:34:29+00:00",
+  "status:48": "2026-11-20T19:34:29+00:00"
+ },
+ "updated": "2026-11-20T19:34:29+00:00"
+}

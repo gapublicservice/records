@@ -1,0 +1,96 @@
+{
+ "key": "SR 46",
+ "slug": "sr46",
+ "session": "2025_26",
+ "legislation_id": 69531,
+ "page": "https://www.legis.ga.gov/legislation/69531",
+ "document_type": "SR",
+ "number": 46,
+ "legislation_type": "PRIV",
+ "caption": "Bryan Day; recognize January 28, 2025",
+ "summary": "A RESOLUTION recognizing January 28, 2025, as Bryan Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5007,
+   "name": "Mallow, Derek 2nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4972,
+   "name": "Hickman, Billy 4th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4878,
+   "name": "Walker, III, Larry 20th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4980,
+   "name": "Anavitarte, Jason 31st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5013,
+   "name": "Hodges, Mike 3rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 161,
+   "name": "Mangham, Randal 55th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T12:28:03",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-29T11:12:37",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230318,
+   "label": "Read and adopted LC 112 2752",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230318"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:51:22+00:00",
+  "version:230318": "2026-11-20T20:51:22+00:00",
+  "status:67": "2026-11-20T20:51:22+00:00",
+  "status:66": "2026-11-20T20:51:22+00:00"
+ },
+ "updated": "2026-11-20T20:51:22+00:00"
+}

@@ -1,0 +1,104 @@
+{
+ "key": "HB 831",
+ "slug": "hb831",
+ "session": "2025_26",
+ "legislation_id": 71627,
+ "page": "https://www.legis.ga.gov/legislation/71627",
+ "document_type": "HB",
+ "number": 831,
+ "legislation_type": "GEN",
+ "caption": "Elections; make certain registration information confidential; expand provisions",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to elections and primaries generally, so as to expand provisions related to making certain registration information confidential; to provide for the VoteSafe program managed by the Secretary of State; to authorize persons that believe they are at risk of or threatened by physical harm or that are the victims of domestic violence, dating violence, sexual assault, stalking, or human trafficking to have the address of their voter registration made confidential; to provide procedures for application and renewal for such program; to provide definitions; to authorize rule making related to such program; to provide for training of local election officials and persons assisting applicants to such program; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 230,
+   "name": "Williams, Al 168th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-25T11:53:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T10:39:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-28T09:56:11",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237122,
+   "label": "LC 47 3446/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237122"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [
+  "election_law"
+ ],
+ "first_seen": {
+  "bill": "2026-11-20T18:55:45+00:00",
+  "version:237122": "2026-11-20T18:55:45+00:00",
+  "status:40": "2026-11-20T18:55:45+00:00",
+  "status:33": "2026-11-20T18:55:45+00:00",
+  "status:34": "2026-11-20T18:55:45+00:00"
+ },
+ "updated": "2026-11-20T18:55:45+00:00"
+}

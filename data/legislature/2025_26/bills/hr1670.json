@@ -1,0 +1,116 @@
+{
+ "key": "HR 1670",
+ "slug": "hr1670",
+ "session": "2025_26",
+ "legislation_id": 74048,
+ "page": "https://www.legis.ga.gov/legislation/74048",
+ "document_type": "HR",
+ "number": 1670,
+ "legislation_type": "NP",
+ "caption": "RESCUER initiative; recognize importance of voluntary community based resource recovery efforts; encourage counties to explore voluntary resource recovery programs",
+ "summary": "A RESOLUTION recognizing the importance of voluntary community based  resource recovery efforts through the RESCUER initiative and encouraging counties and municipal corporations in this state to explore voluntary resource recovery programs utilizing digital platforms to facilitate food sharing within local communities; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4991,
+   "name": "Thomas, Brad 21st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 847,
+   "name": "Prince, Brian 132nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Technology and Infrastructure Innovation",
+   "id": 200
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-12T12:07:30",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-16T10:49:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T10:10:53",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-18T13:14:38",
+   "code": "HRECM",
+   "action": "House Withdrawn, Recommitted",
+   "id": 50
+  },
+  {
+   "date": "2026-03-25T13:38:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 245769,
+   "label": "LC 61 0472/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/245769"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:08:34+00:00",
+  "version:245769": "2026-11-20T20:08:34+00:00",
+  "status:40": "2026-11-20T20:08:34+00:00",
+  "status:33": "2026-11-20T20:08:34+00:00",
+  "status:34": "2026-11-20T20:08:34+00:00",
+  "status:50": "2026-11-20T20:08:34+00:00",
+  "status:39": "2026-11-20T20:08:34+00:00"
+ },
+ "updated": "2026-11-20T20:08:34+00:00"
+}

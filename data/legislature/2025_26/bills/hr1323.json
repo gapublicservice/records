@@ -1,0 +1,75 @@
+{
+ "key": "HR 1323",
+ "slug": "hr1323",
+ "session": "2025_26",
+ "legislation_id": 73105,
+ "page": "https://www.legis.ga.gov/legislation/73105",
+ "document_type": "HR",
+ "number": 1323,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Purebred Dog Day; May 1, 2026; benefits and contributions of purebred dogs to the State of Georgia; recognize",
+ "summary": "A RESOLUTION commending the benefits and contributions of purebred dogs to the State of Georgia and recognizing May 1, 2026, as Georgia Purebred Dog Day; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5073,
+   "name": "Howard, Jutt 71st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-10T13:15:02",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-10T14:03:53",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T14:03:55",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242268,
+   "label": "LC 129 1018/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242268"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:40+00:00",
+  "version:242268": "2026-11-20T20:00:40+00:00",
+  "status:40": "2026-11-20T20:00:40+00:00",
+  "status:33": "2026-11-20T20:00:40+00:00",
+  "status:48": "2026-11-20T20:00:40+00:00"
+ },
+ "updated": "2026-11-20T20:00:40+00:00"
+}

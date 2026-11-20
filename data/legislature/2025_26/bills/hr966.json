@@ -1,0 +1,61 @@
+{
+ "key": "HR 966",
+ "slug": "hr966",
+ "session": "2025_26",
+ "legislation_id": 72095,
+ "page": "https://www.legis.ga.gov/legislation/72095",
+ "document_type": "HR",
+ "number": 966,
+ "legislation_type": "PRIV",
+ "caption": "Stokes, Carl; retirement as Chairman of the Rabun County Republican Party; commend",
+ "summary": "A RESOLUTION recognizing and commending Carl Stokes upon his retirement as Chairman of the Rabun County Republican Party; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:43:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:43",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239400,
+   "label": "LC 112 3668/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239400"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:27+00:00",
+  "version:239400": "2026-11-20T19:52:27+00:00",
+  "status:40": "2026-11-20T19:52:27+00:00",
+  "status:33": "2026-11-20T19:52:27+00:00",
+  "status:48": "2026-11-20T19:52:27+00:00"
+ },
+ "updated": "2026-11-20T19:52:27+00:00"
+}

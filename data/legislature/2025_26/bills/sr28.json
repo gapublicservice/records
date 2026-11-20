@@ -1,0 +1,96 @@
+{
+ "key": "SR 28",
+ "slug": "sr28",
+ "session": "2025_26",
+ "legislation_id": 69441,
+ "page": "https://www.legis.ga.gov/legislation/69441",
+ "document_type": "SR",
+ "number": 28,
+ "legislation_type": "PRIV",
+ "caption": "Consulate-General of Japan in Atlanta; recognize",
+ "summary": "A RESOLUTION recognizing the 51st anniversary of the Consulate-General of Japan in Atlanta; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4908,
+   "name": "Tillery, Blake 19th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 768,
+   "name": "Parent, Elena 44th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4981,
+   "name": "Jackson, Kim 41st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4942,
+   "name": "McLaurin, Josh 14th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 6
+  },
+  {
+   "member_id": 855,
+   "name": "Rhett, Michael 'Doc' 33rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 7
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-16T13:38:48",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-17T11:07:50",
+   "code": "SRA",
+   "action": "Senate Read and Adopted",
+   "id": 66
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230111,
+   "label": "Read and adopted LC 112 2699",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230111"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:50:58+00:00",
+  "version:230111": "2026-11-20T20:50:58+00:00",
+  "status:67": "2026-11-20T20:50:58+00:00",
+  "status:66": "2026-11-20T20:50:58+00:00"
+ },
+ "updated": "2026-11-20T20:50:58+00:00"
+}

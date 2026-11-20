@@ -1,0 +1,96 @@
+{
+ "key": "HR 126",
+ "slug": "hr126",
+ "session": "2025_26",
+ "legislation_id": 69745,
+ "page": "https://www.legis.ga.gov/legislation/69745",
+ "document_type": "HR",
+ "number": 126,
+ "legislation_type": "PRIV",
+ "caption": "Subash, Sirish; winner of the 3M Young Scientist Challenge; commend",
+ "summary": "A RESOLUTION recognizing and commending Sirish Subash, the winner of the 3M Young Scientist Challenge; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5044,
+   "name": "Adeyina, Segun 110th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5076,
+   "name": "Beckles, Arlene 96th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-30T11:36:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-30T11:51:01",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-30T11:51:03",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230846,
+   "label": "LC 112 2808/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230846"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:33:42+00:00",
+  "version:230846": "2026-11-20T19:33:42+00:00",
+  "status:40": "2026-11-20T19:33:42+00:00",
+  "status:33": "2026-11-20T19:33:42+00:00",
+  "status:48": "2026-11-20T19:33:42+00:00"
+ },
+ "updated": "2026-11-20T19:33:42+00:00"
+}

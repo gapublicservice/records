@@ -1,0 +1,74 @@
+{
+ "key": "HB 895",
+ "slug": "hb895",
+ "session": "2025_26",
+ "legislation_id": 71939,
+ "page": "https://www.legis.ga.gov/legislation/71939",
+ "document_type": "HB",
+ "number": 895,
+ "legislation_type": "GEN",
+ "caption": "Legislative Retirement System; increase retirement benefit amounts payable to certain legislators upon retirement",
+ "summary": "A BILL to be entitled an Act to amend Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia Legislative Retirement System, so as to increase the retirement benefit amounts payable to certain legislators upon retirement; to provide for related matters; to provide conditions for an effective date and automatic repeal; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Retirement",
+   "id": 108
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-03-31T17:53:26",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-02T10:28:46",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:26:06",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 238438,
+   "label": "LC 56 0408/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238438"
+  },
+  {
+   "doc_id": 238439,
+   "label": "Auditor's Certification LC 56 0408",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238439"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:00:55+00:00",
+  "version:238438": "2026-11-20T19:00:55+00:00",
+  "version:238439": "2026-11-20T19:00:55+00:00",
+  "status:40": "2026-11-20T19:00:55+00:00",
+  "status:33": "2026-11-20T19:00:55+00:00",
+  "status:34": "2026-11-20T19:00:55+00:00"
+ },
+ "updated": "2026-11-20T19:00:55+00:00"
+}

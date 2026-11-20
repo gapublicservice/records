@@ -1,0 +1,89 @@
+{
+ "key": "HR 1333",
+ "slug": "hr1333",
+ "session": "2025_26",
+ "legislation_id": 73147,
+ "page": "https://www.legis.ga.gov/legislation/73147",
+ "document_type": "HR",
+ "number": 1333,
+ "legislation_type": "PRIV",
+ "caption": "American Heart Month in Macon-Bibb County; February 2026; recognize",
+ "summary": "A RESOLUTION recognizing February 2026 as American Heart Month in Macon-Bibb County; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 794,
+   "name": "Paris, Miriam 142nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5081,
+   "name": "Jones, Anissa 143rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5083,
+   "name": "Griffin, Floyd 149th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-11T13:43:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-11T14:22:08",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-11T14:22:10",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 242427,
+   "label": "LC 129 1055/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242427"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:00:58+00:00",
+  "version:242427": "2026-11-20T20:00:58+00:00",
+  "status:40": "2026-11-20T20:00:58+00:00",
+  "status:33": "2026-11-20T20:00:58+00:00",
+  "status:48": "2026-11-20T20:00:58+00:00"
+ },
+ "updated": "2026-11-20T20:00:58+00:00"
+}

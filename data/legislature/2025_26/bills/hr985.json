@@ -1,0 +1,96 @@
+{
+ "key": "HR 985",
+ "slug": "hr985",
+ "session": "2025_26",
+ "legislation_id": 72113,
+ "page": "https://www.legis.ga.gov/legislation/72113",
+ "document_type": "HR",
+ "number": 985,
+ "legislation_type": "PRIV",
+ "caption": "Makhlouf, Very Reverend Father George Shukri; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of the Very Reverend Father George Shukri Makhlouf; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4954,
+   "name": "Holly, El-Mahdi 116th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4999,
+   "name": "Lim, Marvin 98th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:58:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:45",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:47",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239394,
+   "label": "LC 129 0496/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239394"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:51+00:00",
+  "version:239394": "2026-11-20T19:52:51+00:00",
+  "status:40": "2026-11-20T19:52:51+00:00",
+  "status:33": "2026-11-20T19:52:51+00:00",
+  "status:48": "2026-11-20T19:52:51+00:00"
+ },
+ "updated": "2026-11-20T19:52:51+00:00"
+}

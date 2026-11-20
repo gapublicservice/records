@@ -1,0 +1,89 @@
+{
+ "key": "HR 1235",
+ "slug": "hr1235",
+ "session": "2025_26",
+ "legislation_id": 72860,
+ "page": "https://www.legis.ga.gov/legislation/72860",
+ "document_type": "HR",
+ "number": 1235,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Community Service Boards; Community Service Boards' Day at the state capitol; February 5, 2026; recognize",
+ "summary": "A RESOLUTION commending Georgia Community Service Boards and recognizing February 5, 2026, as Community Service Boards' Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 92,
+   "name": "Dempsey, Katie 13th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4967,
+   "name": "Burchett, James 176th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5084,
+   "name": "O'Steen, Angie 169th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:21:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:43",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241554,
+   "label": "LC 129 0834/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241554"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:30+00:00",
+  "version:241554": "2026-11-20T19:58:30+00:00",
+  "status:40": "2026-11-20T19:58:30+00:00",
+  "status:33": "2026-11-20T19:58:30+00:00",
+  "status:48": "2026-11-20T19:58:30+00:00"
+ },
+ "updated": "2026-11-20T19:58:30+00:00"
+}

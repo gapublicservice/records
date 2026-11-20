@@ -1,0 +1,96 @@
+{
+ "key": "HR 552",
+ "slug": "hr552",
+ "session": "2025_26",
+ "legislation_id": 71246,
+ "page": "https://www.legis.ga.gov/legislation/71246",
+ "document_type": "HR",
+ "number": 552,
+ "legislation_type": "PRIV",
+ "caption": "Sumner, Michael Ernest; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Michael Ernest Sumner; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5005,
+   "name": "Jenkins, David 136th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-06T22:11:25",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-06T22:45:52",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-06T22:45:54",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235676,
+   "label": "LC 112 3254/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235676"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:43:06+00:00",
+  "version:235676": "2026-11-20T19:43:06+00:00",
+  "status:40": "2026-11-20T19:43:06+00:00",
+  "status:33": "2026-11-20T19:43:06+00:00",
+  "status:48": "2026-11-20T19:43:06+00:00"
+ },
+ "updated": "2026-11-20T19:43:06+00:00"
+}

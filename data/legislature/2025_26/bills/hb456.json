@@ -1,0 +1,102 @@
+{
+ "key": "HB 456",
+ "slug": "hb456",
+ "session": "2025_26",
+ "legislation_id": 70328,
+ "page": "https://www.legis.ga.gov/legislation/70328",
+ "document_type": "HB",
+ "number": 456,
+ "legislation_type": "GEN",
+ "caption": "Ad valorem tax; additional period to appeal certain property assessments; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad valorem taxation of property, so as to provide for an additional period to appeal certain property assessments; to require the annual notice of assessment for property taxes to include an estimate of the current year's taxes and a statement regarding such estimate; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 806,
+   "name": "Alexander, Kimberly 66th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-13T11:03:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-18T13:44:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-19T10:16:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232432,
+   "label": "LC 50 1080/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232432"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:38:51+00:00",
+  "version:232432": "2026-11-20T18:38:51+00:00",
+  "status:40": "2026-11-20T18:38:51+00:00",
+  "status:33": "2026-11-20T18:38:51+00:00",
+  "status:34": "2026-11-20T18:38:51+00:00"
+ },
+ "updated": "2026-11-20T18:38:51+00:00"
+}

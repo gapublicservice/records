@@ -1,0 +1,102 @@
+{
+ "key": "HR 1755",
+ "slug": "hr1755",
+ "session": "2025_26",
+ "legislation_id": 74210,
+ "page": "https://www.legis.ga.gov/legislation/74210",
+ "document_type": "HR",
+ "number": 1755,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Alternative Investments for Local Governments; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Alternative Investments for Local Governments; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 778,
+   "name": "Williamson, Bruce 112th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5057,
+   "name": "Chastain, Johnny 7th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4960,
+   "name": "Williams, Jr., Noel 148th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-18T13:48:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-19T10:34:21",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-20T10:10:01",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-25T10:29:50",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246401,
+   "label": "LC 62 0487/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246401"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:23+00:00",
+  "version:246401": "2026-11-20T20:10:23+00:00",
+  "status:40": "2026-11-20T20:10:23+00:00",
+  "status:33": "2026-11-20T20:10:23+00:00",
+  "status:34": "2026-11-20T20:10:23+00:00",
+  "status:39": "2026-11-20T20:10:23+00:00"
+ },
+ "updated": "2026-11-20T20:10:23+00:00"
+}

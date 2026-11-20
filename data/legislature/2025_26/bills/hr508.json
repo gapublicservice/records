@@ -1,0 +1,61 @@
+{
+ "key": "HR 508",
+ "slug": "hr508",
+ "session": "2025_26",
+ "legislation_id": 71180,
+ "page": "https://www.legis.ga.gov/legislation/71180",
+ "document_type": "HR",
+ "number": 508,
+ "legislation_type": "PRIV",
+ "caption": "Jaynes, Harry; Marion County High School's 2025 STAR Teacher; commend",
+ "summary": "A RESOLUTION commending Harry Jaynes, Marion County High School's 2025 STAR Teacher; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-04T19:20:42",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-04T19:26:55",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T19:26:57",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 235275,
+   "label": "LC 112 3259/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235275"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:42:08+00:00",
+  "version:235275": "2026-11-20T19:42:08+00:00",
+  "status:40": "2026-11-20T19:42:08+00:00",
+  "status:33": "2026-11-20T19:42:08+00:00",
+  "status:48": "2026-11-20T19:42:08+00:00"
+ },
+ "updated": "2026-11-20T19:42:08+00:00"
+}

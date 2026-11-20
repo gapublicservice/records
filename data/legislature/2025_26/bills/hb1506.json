@@ -1,0 +1,88 @@
+{
+ "key": "HB 1506",
+ "slug": "hb1506",
+ "session": "2025_26",
+ "legislation_id": 73875,
+ "page": "https://www.legis.ga.gov/legislation/73875",
+ "document_type": "HB",
+ "number": 1506,
+ "legislation_type": "GEN",
+ "caption": "Contracts; payment terms for business to business transactions; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 11 of Title 13 of the Official Code of Georgia Annotated, relating to prompt payment, so as to provide for payment terms for business to business transactions; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4953,
+   "name": "Clark, Jasmine 108th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4901,
+   "name": "Park, Sam 107th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5025,
+   "name": "Adesanya, Solomon 43rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-04T11:39:03",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T10:42:48",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-09T13:20:34",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244984,
+   "label": "LC 48 1798/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244984"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:25:18+00:00",
+  "version:244984": "2026-11-20T19:25:18+00:00",
+  "status:40": "2026-11-20T19:25:18+00:00",
+  "status:33": "2026-11-20T19:25:18+00:00",
+  "status:34": "2026-11-20T19:25:18+00:00"
+ },
+ "updated": "2026-11-20T19:25:18+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 1004",
+ "slug": "hr1004",
+ "session": "2025_26",
+ "legislation_id": 72155,
+ "page": "https://www.legis.ga.gov/legislation/72155",
+ "document_type": "HR",
+ "number": 1004,
+ "legislation_type": "PRIV",
+ "caption": "Bartlett, Claire Ann; condolences",
+ "summary": "A RESOLUTION honoring the life and memory of Claire Ann Bartlett; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5051,
+   "name": "Ballard, Bethany 147th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5064,
+   "name": "Rice, Carmen 139th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-01-12T12:27:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-12T12:49:30",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-12T12:49:32",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239669,
+   "label": "LC 129 0517/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239669"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:53:21+00:00",
+  "version:239669": "2026-11-20T19:53:21+00:00",
+  "status:40": "2026-11-20T19:53:21+00:00",
+  "status:33": "2026-11-20T19:53:21+00:00",
+  "status:48": "2026-11-20T19:53:21+00:00"
+ },
+ "updated": "2026-11-20T19:53:21+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 1425",
+ "slug": "hb1425",
+ "session": "2025_26",
+ "legislation_id": 73528,
+ "page": "https://www.legis.ga.gov/legislation/73528",
+ "document_type": "HB",
+ "number": 1425,
+ "legislation_type": "GEN",
+ "caption": "Worker Tariff Relief Program Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations, so as to enact the \"Worker Tariff Relief Program Act\"; to provide for types of assistance provided by the program; to provide for requirements for individuals to receive assistance; to provide authority to the Department of Labor to promulgate rules and regulations to administer the program; to provide for an annual report; to provide for funding; to provide for definitions; to provide for construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5011,
+   "name": "Jackson, Edna 165th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4880,
+   "name": "Cannon, Park 58th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Industry and Labor",
+   "id": 180
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-24T11:24:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-25T10:35:15",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-26T11:15:31",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243718,
+   "label": "LC 64 0059/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243718"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:22:39+00:00",
+  "version:243718": "2026-11-20T19:22:39+00:00",
+  "status:40": "2026-11-20T19:22:39+00:00",
+  "status:33": "2026-11-20T19:22:39+00:00",
+  "status:34": "2026-11-20T19:22:39+00:00"
+ },
+ "updated": "2026-11-20T19:22:39+00:00"
+}

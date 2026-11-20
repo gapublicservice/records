@@ -1,0 +1,102 @@
+{
+ "key": "HB 1146",
+ "slug": "hb1146",
+ "session": "2025_26",
+ "legislation_id": 72706,
+ "page": "https://www.legis.ga.gov/legislation/72706",
+ "document_type": "HB",
+ "number": 1146,
+ "legislation_type": "GEN",
+ "caption": "Georgia Ready to Learn Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1A of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to early care and learning, so as to establish a pilot program to expand Georgia's Pre-K Program to three-year-old children; to provide for annual reporting; to provide for legislative intent relating to funding for such program; to provide for automatic repeal; to provide for related matters; to provide a short title; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5082,
+   "name": "Herring, Tangie 145th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:23:11",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241188,
+   "label": "LC 61 0357/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241188"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:11:25+00:00",
+  "version:241188": "2026-11-20T19:11:25+00:00",
+  "status:40": "2026-11-20T19:11:25+00:00",
+  "status:33": "2026-11-20T19:11:25+00:00",
+  "status:34": "2026-11-20T19:11:25+00:00"
+ },
+ "updated": "2026-11-20T19:11:25+00:00"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "HR 1874",
+ "slug": "hr1874",
+ "session": "2025_26",
+ "legislation_id": 74395,
+ "page": "https://www.legis.ga.gov/legislation/74395",
+ "document_type": "HR",
+ "number": 1874,
+ "legislation_type": "PRIV",
+ "caption": "Natural Gas Association of Georgia; 10th anniversary; recognize",
+ "summary": "A RESOLUTION honoring the Natural Gas Association of Georgia's 10th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 184,
+   "name": "Parsons, Don 44th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4965,
+   "name": "Erwin, Chris 32nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5040,
+   "name": "Reeves, Matt 99th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-23T16:40:24",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-23T17:05:28",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-23T17:05:30",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 247164,
+   "label": "LC 129 1387/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/247164"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:12:55+00:00",
+  "version:247164": "2026-11-20T20:12:55+00:00",
+  "status:40": "2026-11-20T20:12:55+00:00",
+  "status:33": "2026-11-20T20:12:55+00:00",
+  "status:48": "2026-11-20T20:12:55+00:00"
+ },
+ "updated": "2026-11-20T20:12:55+00:00"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "HR 155",
+ "slug": "hr155",
+ "session": "2025_26",
+ "legislation_id": 69902,
+ "page": "https://www.legis.ga.gov/legislation/69902",
+ "document_type": "HR",
+ "number": 155,
+ "legislation_type": "PRIV",
+ "caption": "East Paulding High School's Career and Technical Student Organizations; commend",
+ "summary": "A RESOLUTION recognizing and commending East Paulding High School's Career and Technical Student Organizations; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4935,
+   "name": "Momtahan, Martin 17th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5030,
+   "name": "New, Kimberly 40th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4990,
+   "name": "Smith, Tyler Paul 18th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-04T13:00:20",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-04T14:06:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-04T14:06:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231282,
+   "label": "LC 129 01112/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231282"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:34:22+00:00",
+  "version:231282": "2026-11-20T19:34:22+00:00",
+  "status:40": "2026-11-20T19:34:22+00:00",
+  "status:33": "2026-11-20T19:34:22+00:00",
+  "status:48": "2026-11-20T19:34:22+00:00"
+ },
+ "updated": "2026-11-20T19:34:22+00:00"
+}

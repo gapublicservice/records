@@ -1,0 +1,95 @@
+{
+ "key": "HB 1233",
+ "slug": "hb1233",
+ "session": "2025_26",
+ "legislation_id": 72954,
+ "page": "https://www.legis.ga.gov/legislation/72954",
+ "document_type": "HB",
+ "number": 1233,
+ "legislation_type": "GEN",
+ "caption": "Local government; waive development impact fees for certain projects related to development of affordable or workforce housing; authorize",
+ "summary": "A BILL to be entitled an Act to amend Chapter 71 of Title 36 of the Official Code of Georgia Annotated, relating to development impact fees, so as to authorize local governments to waive development impact fees for certain projects related to the development of affordable or workforce housing without increasing other impact fees to offset such lost funds; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5002,
+   "name": "Crowe, Clint 118th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5080,
+   "name": "Clifton, Rob 131st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4958,
+   "name": "Washburn, Dale 144th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T10:40:59",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:41",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241853,
+   "label": "LC 47 3984/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241853"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:01+00:00",
+  "version:241853": "2026-11-20T19:15:01+00:00",
+  "status:40": "2026-11-20T19:15:01+00:00",
+  "status:33": "2026-11-20T19:15:01+00:00",
+  "status:34": "2026-11-20T19:15:01+00:00"
+ },
+ "updated": "2026-11-20T19:15:01+00:00"
+}

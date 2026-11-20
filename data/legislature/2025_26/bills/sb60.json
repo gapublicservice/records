@@ -1,0 +1,88 @@
+{
+ "key": "SB 60",
+ "slug": "sb60",
+ "session": "2025_26",
+ "legislation_id": 69638,
+ "page": "https://www.legis.ga.gov/legislation/69638",
+ "document_type": "SB",
+ "number": 60,
+ "legislation_type": "GEN",
+ "caption": "Pharmacy Benefits Managers; managers have a duty of care to insureds, health plans, and providers; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 64 of Title 33 of the Official Code of Georgia Annotated, relating to regulation and licensure of pharmacy benefits managers, so as to provide that such managers have a duty of care to insureds, health plans, and providers; to provide for definitions; to provide for rules and regulations; to provide for a priority of duties; to provide for a private right of action; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 838,
+   "name": "Hufstetler, Chuck 52nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4910,
+   "name": "Kirkpatrick, Kay 32nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 784,
+   "name": "Watson, Ben 1st",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 33,
+   "name": "Orrock, Nan 36th",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 835,
+   "name": "Strickland, Brian 42nd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Insurance and Labor",
+   "id": 78
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-29T11:21:28",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2025-01-30T10:15:47",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230606,
+   "label": "As Introduced LC 46 1012",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230606"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:22:32+00:00",
+  "version:230606": "2026-11-20T20:22:32+00:00",
+  "status:67": "2026-11-20T20:22:32+00:00",
+  "status:3": "2026-11-20T20:22:32+00:00"
+ },
+ "updated": "2026-11-20T20:22:32+00:00"
+}

@@ -1,0 +1,75 @@
+{
+ "key": "HR 808",
+ "slug": "hr808",
+ "session": "2025_26",
+ "legislation_id": 71786,
+ "page": "https://www.legis.ga.gov/legislation/71786",
+ "document_type": "HR",
+ "number": 808,
+ "legislation_type": "PRIV",
+ "caption": "Williams, Denise; commend",
+ "summary": "A RESOLUTION recognizing and commending Denise Williams; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 3877,
+   "name": "Carter, Doreen 93rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 811,
+   "name": "Stinson, Patty Marie 150th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-03-27T14:00:13",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-27T14:37:22",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-27T14:37:24",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 237679,
+   "label": "LC 129 0404/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237679"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:48:59+00:00",
+  "version:237679": "2026-11-20T19:48:59+00:00",
+  "status:40": "2026-11-20T19:48:59+00:00",
+  "status:33": "2026-11-20T19:48:59+00:00",
+  "status:48": "2026-11-20T19:48:59+00:00"
+ },
+ "updated": "2026-11-20T19:48:59+00:00"
+}

@@ -1,0 +1,60 @@
+{
+ "key": "SR 560",
+ "slug": "sr560",
+ "session": "2025_26",
+ "legislation_id": 72168,
+ "page": "https://www.legis.ga.gov/legislation/72168",
+ "document_type": "SR",
+ "number": 560,
+ "legislation_type": "NP",
+ "caption": "Congress; reaffirming the 35th parallel as Georgia's northern border; urge",
+ "summary": "A RESOLUTION reaffirming the 35th parallel as Georgia's northern border and any rights therein, and urging Congress, the federal Department of the Interior, and all other relevant federal, state, and local authorities to recognize and take all steps reasonably necessary to correct the boundary line currently dividing Georgia from Tennessee and North Carolina; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4933,
+   "name": "Moore, Colton 53rd",
+   "role": "author",
+   "type": "SenateAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "Senate",
+   "name": "Interstate Cooperation",
+   "id": 79
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-12T15:50:56",
+   "code": "SH",
+   "action": "Senate Hopper",
+   "id": 67
+  },
+  {
+   "date": "2026-01-13T10:07:57",
+   "code": "SRAR",
+   "action": "Senate Read and Referred",
+   "id": 3
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239711,
+   "label": "As Introduced 60 0238",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239711"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T21:03:33+00:00",
+  "version:239711": "2026-11-20T21:03:33+00:00",
+  "status:67": "2026-11-20T21:03:33+00:00",
+  "status:3": "2026-11-20T21:03:33+00:00"
+ },
+ "updated": "2026-11-20T21:03:33+00:00"
+}

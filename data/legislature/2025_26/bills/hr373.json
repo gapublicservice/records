@@ -1,0 +1,82 @@
+{
+ "key": "HR 373",
+ "slug": "hr373",
+ "session": "2025_26",
+ "legislation_id": 70755,
+ "page": "https://www.legis.ga.gov/legislation/70755",
+ "document_type": "HR",
+ "number": 373,
+ "legislation_type": "PRIV",
+ "caption": "University of Georgia Block and Bridle Club; occasion of its 50th Great Southland Stampede Rodeo; recognize",
+ "summary": "A RESOLUTION recognizing and commending the University of Georgia Block and Bridle Club on the occasion of its 50th Great Southland Stampede Rodeo; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 876,
+   "name": "Rhodes, Trey 124th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:39:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:24:59",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:01",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233720,
+   "label": "LC 112 2866/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233720"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:08+00:00",
+  "version:233720": "2026-11-20T19:39:08+00:00",
+  "status:40": "2026-11-20T19:39:08+00:00",
+  "status:33": "2026-11-20T19:39:08+00:00",
+  "status:48": "2026-11-20T19:39:08+00:00"
+ },
+ "updated": "2026-11-20T19:39:08+00:00"
+}

@@ -1,0 +1,102 @@
+{
+ "key": "HB 405",
+ "slug": "hb405",
+ "session": "2025_26",
+ "legislation_id": 70208,
+ "page": "https://www.legis.ga.gov/legislation/70208",
+ "document_type": "HB",
+ "number": 405,
+ "legislation_type": "GEN",
+ "caption": "Insurance; require licensed adjusters to be licensed contractors",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 23 of Title 33 of the Official Code of Georgia Annotated, relating to licensing of agents, agencies, subagents, counselors, and adjusters, so as to require licensed adjusters to be licensed contractors; to limit an adjuster's license based on the type of contractor license held; to provide for licensed contractors to become licensed adjusters; to provide for rules and regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 819,
+   "name": "Frye, Spencer 122nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5041,
+   "name": "Okoye, Gabe 102nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Insurance",
+   "id": 96
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-11T12:21:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-12T10:44:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-13T09:42:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 232111,
+   "label": "LC 52 0724/a",
+   "version": 3,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232111"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:36:06+00:00",
+  "version:232111": "2026-11-20T18:36:06+00:00",
+  "status:40": "2026-11-20T18:36:06+00:00",
+  "status:33": "2026-11-20T18:36:06+00:00",
+  "status:34": "2026-11-20T18:36:06+00:00"
+ },
+ "updated": "2026-11-20T18:36:06+00:00"
+}

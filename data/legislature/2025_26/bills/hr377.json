@@ -1,0 +1,89 @@
+{
+ "key": "HR 377",
+ "slug": "hr377",
+ "session": "2025_26",
+ "legislation_id": 70759,
+ "page": "https://www.legis.ga.gov/legislation/70759",
+ "document_type": "HR",
+ "number": 377,
+ "legislation_type": "PRIV",
+ "caption": "Wright, William; outstanding public service; commend",
+ "summary": "A RESOLUTION recognizing and commending William Wright on his outstanding public service; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4992,
+   "name": "McDonald III, Lauren 26th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5060,
+   "name": "Persinger, Holt 119th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4956,
+   "name": "Wiedower, Marcus 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-02-24T13:40:27",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-24T14:25:00",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T14:25:02",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233719,
+   "label": "LC 129 0176/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233719"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:39:13+00:00",
+  "version:233719": "2026-11-20T19:39:13+00:00",
+  "status:40": "2026-11-20T19:39:13+00:00",
+  "status:33": "2026-11-20T19:39:13+00:00",
+  "status:48": "2026-11-20T19:39:13+00:00"
+ },
+ "updated": "2026-11-20T19:39:13+00:00"
+}

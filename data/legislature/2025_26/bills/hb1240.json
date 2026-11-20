@@ -1,0 +1,109 @@
+{
+ "key": "HB 1240",
+ "slug": "hb1240",
+ "session": "2025_26",
+ "legislation_id": 72967,
+ "page": "https://www.legis.ga.gov/legislation/72967",
+ "document_type": "HB",
+ "number": 1240,
+ "legislation_type": "GEN",
+ "caption": "Local government; total ad valorem tax digest limitation upon creating new tax allocation districts shall also apply to the renewal of existing tax allocation districts; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 44 of Title 36 of the Official Code of Georgia Annotated, relating to redevelopment powers, so as to provide that the total ad valorem tax digest limitation upon creating new tax allocation districts shall also apply to the renewal of existing tax allocation districts; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 164,
+   "name": "Martin, Chuck 49th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5021,
+   "name": "Cox, Brent 28th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-06T10:55:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-09T10:22:43",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-10T10:13:54",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-26T10:20:27",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241865,
+   "label": "LC 47 3889/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241865"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:15:17+00:00",
+  "version:241865": "2026-11-20T19:15:17+00:00",
+  "status:40": "2026-11-20T19:15:17+00:00",
+  "status:33": "2026-11-20T19:15:17+00:00",
+  "status:34": "2026-11-20T19:15:17+00:00",
+  "status:39": "2026-11-20T19:15:17+00:00"
+ },
+ "updated": "2026-11-20T19:15:17+00:00"
+}

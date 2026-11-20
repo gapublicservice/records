@@ -1,0 +1,95 @@
+{
+ "key": "HB 564",
+ "slug": "hb564",
+ "session": "2025_26",
+ "legislation_id": 70617,
+ "page": "https://www.legis.ga.gov/legislation/70617",
+ "document_type": "HB",
+ "number": 564,
+ "legislation_type": "GEN",
+ "caption": "Georgia Prevention and Plan Act; enact",
+ "summary": "A BILL to be entitled an Act to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to health of students, so as to provide that the Department of Education shall develop a mental health crisis plan to rapidly provide mental health services to students experiencing incidents of violence, threats of violence, natural disasters, or other crisis situations; to provide for a definition; to provide for the development and distribution of promotional materials, training programs, and curricula; to provide for the adoption of rules and regulations; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5069,
+   "name": "Berry, Bryce 56th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5078,
+   "name": "Santos, Mary Ann 117th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5068,
+   "name": "Sanchez, Gabriel 42nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Education",
+   "id": 102
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T13:18:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:18",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233282,
+   "label": "LC 61 0123/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233282"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:43:13+00:00",
+  "version:233282": "2026-11-20T18:43:13+00:00",
+  "status:40": "2026-11-20T18:43:13+00:00",
+  "status:33": "2026-11-20T18:43:13+00:00",
+  "status:34": "2026-11-20T18:43:13+00:00"
+ },
+ "updated": "2026-11-20T18:43:13+00:00"
+}

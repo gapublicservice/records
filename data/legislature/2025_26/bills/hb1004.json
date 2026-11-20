@@ -1,0 +1,102 @@
+{
+ "key": "HB 1004",
+ "slug": "hb1004",
+ "session": "2025_26",
+ "legislation_id": 72299,
+ "page": "https://www.legis.ga.gov/legislation/72299",
+ "document_type": "HB",
+ "number": 1004,
+ "legislation_type": "GEN",
+ "caption": "Public Safety, Department of; security guards to leaders of the Senate and House of Representatives and their families; provisions",
+ "summary": "A BILL to be entitled an Act to amend Article 3 of Chapter 2 of Title 35 of the Official Code of Georgia Annotated, relating to the security guard division of the Department of Public Safety, so as to authorize the commissioner of public safety to provide security guards to the majority and minority leaders of the Senate and House of Representatives and their families  or any member of the General Assembly who is subject to a creditable threat to his or her safety or security in the same manner as currently provided for the Governor, Lieutenant Governor, and Speaker of the House of Representatives; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 760,
+   "name": "Wilkerson, David 38th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5023,
+   "name": "Campbell, Lisa 35th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5026,
+   "name": "Panitch, Esther 51st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5039,
+   "name": "Romman, Ruwa 97th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5035,
+   "name": "Lupton, Karen 83rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:19:07",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:05",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240027,
+   "label": "LC 47 3811/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240027"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:37+00:00",
+  "version:240027": "2026-11-20T19:05:37+00:00",
+  "status:40": "2026-11-20T19:05:37+00:00",
+  "status:33": "2026-11-20T19:05:37+00:00",
+  "status:34": "2026-11-20T19:05:37+00:00"
+ },
+ "updated": "2026-11-20T19:05:37+00:00"
+}

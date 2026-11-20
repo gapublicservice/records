@@ -1,0 +1,81 @@
+{
+ "key": "HB 1002",
+ "slug": "hb1002",
+ "session": "2025_26",
+ "legislation_id": 72295,
+ "page": "https://www.legis.ga.gov/legislation/72295",
+ "document_type": "HB",
+ "number": 1002,
+ "legislation_type": "GEN",
+ "caption": "Social services; transfer Medicaid coverage for foster children from managed care to fee-for-service",
+ "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to medical assistance generally, so as to transfer Medicaid coverage for foster children from managed care to fee-for-service; to provide for definitions; to provide for submission of state plan amendments if necessary; to provide for automatic repeal; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5004,
+   "name": "Camp, Beth 135th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 781,
+   "name": "Hatchett, Matt 155th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Health",
+   "id": 196
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-01-16T11:13:10",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-01-27T11:49:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-01-28T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-19T08:57:46",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 240035,
+   "label": "LC 33 9857/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/240035"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:05:35+00:00",
+  "version:240035": "2026-11-20T19:05:35+00:00",
+  "status:40": "2026-11-20T19:05:35+00:00",
+  "status:33": "2026-11-20T19:05:35+00:00",
+  "status:34": "2026-11-20T19:05:35+00:00",
+  "status:39": "2026-11-20T19:05:35+00:00"
+ },
+ "updated": "2026-11-20T19:05:35+00:00"
+}

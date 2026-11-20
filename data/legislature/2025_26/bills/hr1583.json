@@ -1,0 +1,88 @@
+{
+ "key": "HR 1583",
+ "slug": "hr1583",
+ "session": "2025_26",
+ "legislation_id": 73879,
+ "page": "https://www.legis.ga.gov/legislation/73879",
+ "document_type": "HR",
+ "number": 1583,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on Small Business Technology Adoption; create",
+ "summary": "A RESOLUTION creating the House Study Committee on Small Business Technology Adoption; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4936,
+   "name": "Gullett, Joseph 19th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 81,
+   "name": "Cheokas, Mike 151st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4885,
+   "name": "Jones, Todd 25th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-03-04T11:43:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-06T10:42:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-09T13:20:34",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-18T10:17:00",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244986,
+   "label": "LC 65 0048/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244986"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:06:41+00:00",
+  "version:244986": "2026-11-20T20:06:41+00:00",
+  "status:40": "2026-11-20T20:06:41+00:00",
+  "status:33": "2026-11-20T20:06:41+00:00",
+  "status:34": "2026-11-20T20:06:41+00:00",
+  "status:39": "2026-11-20T20:06:41+00:00"
+ },
+ "updated": "2026-11-20T20:06:41+00:00"
+}

@@ -1,0 +1,95 @@
+{
+ "key": "HB 1371",
+ "slug": "hb1371",
+ "session": "2025_26",
+ "legislation_id": 73360,
+ "page": "https://www.legis.ga.gov/legislation/73360",
+ "document_type": "HB",
+ "number": 1371,
+ "legislation_type": "GEN",
+ "caption": "Georgia Secure Tomorrow Act of 2026; enact",
+ "summary": "A BILL to be entitled an Act to amend Chapter 7 of Title 48 of the O.C.G.A., relating to income taxes, so as to create income tax credits for business enterprises that meet certain job and investment requirements; to provide for an application and review process for certification of qualified projects; to provide for wage, capital enhancement, and location based incentives for income tax credits; to provide for reporting requirements; to provide for limitations in the amount of credits issued; to provide for refundability of credits; to provide for related matters; to provide a short title; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5019,
+   "name": "Ridley, Jordan 22nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 4911,
+   "name": "Carpenter, Kasey 4th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5018,
+   "name": "Horner, Mitchell 3rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 825,
+   "name": "Kelley, Trey 16th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4964,
+   "name": "Scoggins, Mitchell 14th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-18T12:39:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-19T10:32:35",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-20T08:58:00",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243107,
+   "label": "LC 59 0237/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243107"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:20:48+00:00",
+  "version:243107": "2026-11-20T19:20:48+00:00",
+  "status:40": "2026-11-20T19:20:48+00:00",
+  "status:33": "2026-11-20T19:20:48+00:00",
+  "status:34": "2026-11-20T19:20:48+00:00"
+ },
+ "updated": "2026-11-20T19:20:48+00:00"
+}

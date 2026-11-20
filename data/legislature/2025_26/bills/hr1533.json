@@ -1,0 +1,89 @@
+{
+ "key": "HR 1533",
+ "slug": "hr1533",
+ "session": "2025_26",
+ "legislation_id": 73803,
+ "page": "https://www.legis.ga.gov/legislation/73803",
+ "document_type": "HR",
+ "number": 1533,
+ "legislation_type": "PRIV",
+ "caption": "Georgia Environmental Finance Authority; occasion of its 40th anniversary; recognize",
+ "summary": "A RESOLUTION commending and congratulating the Georgia Environmental Finance Authority on the occasion of its 40th anniversary; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 212,
+   "name": "Smith, Lynn 70th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 215,
+   "name": "Smith, Vance 138th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 859,
+   "name": "Corbett, John 174th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 71,
+   "name": "Buckner, Debbie 137th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-03T15:52:56",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-03T16:28:02",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-03T16:28:04",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244800,
+   "label": "LC 129 0979/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244800"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:05:36+00:00",
+  "version:244800": "2026-11-20T20:05:36+00:00",
+  "status:40": "2026-11-20T20:05:36+00:00",
+  "status:33": "2026-11-20T20:05:36+00:00",
+  "status:48": "2026-11-20T20:05:36+00:00"
+ },
+ "updated": "2026-11-20T20:05:36+00:00"
+}

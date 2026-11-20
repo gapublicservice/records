@@ -1,0 +1,102 @@
+{
+ "key": "HB 621",
+ "slug": "hb621",
+ "session": "2025_26",
+ "legislation_id": 70796,
+ "page": "https://www.legis.ga.gov/legislation/70796",
+ "document_type": "HB",
+ "number": 621,
+ "legislation_type": "GEN",
+ "caption": "Georgia Bureau of Investigation; provide for members of the General Assembly to request assistance",
+ "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 3 of Title 35 of the Official Code of Georgia Annotated, relating to general provisions regarding the Georgia Bureau of Investigation, so as to provide for members of the General Assembly to request assistance from the Georgia Bureau of Investigation; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5071,
+   "name": "Baker, Sylvia Wayfer 64th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5003,
+   "name": "Henderson, Sharon 113th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5024,
+   "name": "Cummings, Terry 39th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5031,
+   "name": "Glaize, Lydia 67th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 845,
+   "name": "McClain, Dewey 109th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5079,
+   "name": "Myles, L.C. 126th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Public Safety and Homeland Security",
+   "id": 129
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-26T10:44:45",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-27T10:46:54",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-28T09:19:15",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233938,
+   "label": "LC 56 0305/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233938"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:45:59+00:00",
+  "version:233938": "2026-11-20T18:45:59+00:00",
+  "status:40": "2026-11-20T18:45:59+00:00",
+  "status:33": "2026-11-20T18:45:59+00:00",
+  "status:34": "2026-11-20T18:45:59+00:00"
+ },
+ "updated": "2026-11-20T18:45:59+00:00"
+}

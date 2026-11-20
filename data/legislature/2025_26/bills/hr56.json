@@ -1,0 +1,68 @@
+{
+ "key": "HR 56",
+ "slug": "hr56",
+ "session": "2025_26",
+ "legislation_id": 69516,
+ "page": "https://www.legis.ga.gov/legislation/69516",
+ "document_type": "HR",
+ "number": 56,
+ "legislation_type": "PRIV",
+ "caption": "Bryan Day at the state capitol; January 28, 2025; recognize",
+ "summary": "A RESOLUTION recognizing January 28, 2025, as Bryan Day at the state capitol; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 862,
+   "name": "Petrea, Jesse 166th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-01-27T11:34:14",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-27T12:26:37",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T12:26:39",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230335,
+   "label": "LC 129 0057/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230335"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:58+00:00",
+  "version:230335": "2026-11-20T19:31:58+00:00",
+  "status:40": "2026-11-20T19:31:58+00:00",
+  "status:33": "2026-11-20T19:31:58+00:00",
+  "status:48": "2026-11-20T19:31:58+00:00"
+ },
+ "updated": "2026-11-20T19:31:58+00:00"
+}

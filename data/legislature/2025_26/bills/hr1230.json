@@ -1,0 +1,61 @@
+{
+ "key": "HR 1230",
+ "slug": "hr1230",
+ "session": "2025_26",
+ "legislation_id": 72855,
+ "page": "https://www.legis.ga.gov/legislation/72855",
+ "document_type": "HR",
+ "number": 1230,
+ "legislation_type": "PRIV",
+ "caption": "Georgia School of Orthodontics; commend",
+ "summary": "A RESOLUTION recognizing and commending the Georgia School of Orthodontics; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 219,
+   "name": "Stephens, Ron 164th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-02-04T13:19:09",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-04T13:52:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T13:52:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241547,
+   "label": "LC 129 0872/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241547"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:58:23+00:00",
+  "version:241547": "2026-11-20T19:58:23+00:00",
+  "status:40": "2026-11-20T19:58:23+00:00",
+  "status:33": "2026-11-20T19:58:23+00:00",
+  "status:48": "2026-11-20T19:58:23+00:00"
+ },
+ "updated": "2026-11-20T19:58:23+00:00"
+}

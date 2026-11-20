@@ -1,0 +1,116 @@
+{
+ "key": "HB 1135",
+ "slug": "hb1135",
+ "session": "2025_26",
+ "legislation_id": 72689,
+ "page": "https://www.legis.ga.gov/legislation/72689",
+ "document_type": "HB",
+ "number": 1135,
+ "legislation_type": "GEN",
+ "caption": "Education; participate in federal tax credit program for contributions of individuals to scholarship granting organizations; provide",
+ "summary": "A BILL to be entitled an Act to amend Chapter 2A of Title 20 of the Official Code of Georgia Annotated, relating to student scholarship organizations, so as to provide for the State of Georgia to participate in the federal tax credit program for contributions of individuals to scholarship granting organizations; to prohibit state agencies from promulgating rules or regulations; to make conforming changes; to amend Code Section 48-7-29.16 of the Official Code of Georgia Annotated, relating to tax credits for contributions to student scholarship organizations, so as to make a conforming change; to provide for legislative intent; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4899,
+   "name": "Hilton, Scott 48th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 142,
+   "name": "Jones, Jan 47th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 846,
+   "name": "Efstration, Chuck 104th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5058,
+   "name": "Cannon, Chas 172nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5055,
+   "name": "Townsend, Rick 179th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 4955,
+   "name": "Gaines, Houston 120th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Ways & Means",
+   "id": 101
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T11:10:01",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:33",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-03-03T11:30:48",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 244612,
+   "label": "LC 49 2766S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244612"
+  },
+  {
+   "doc_id": 241173,
+   "label": "LC 49 2535/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241173"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:10:57+00:00",
+  "version:244612": "2026-11-20T19:10:57+00:00",
+  "version:241173": "2026-11-20T19:10:57+00:00",
+  "status:40": "2026-11-20T19:10:57+00:00",
+  "status:33": "2026-11-20T19:10:57+00:00",
+  "status:34": "2026-11-20T19:10:57+00:00",
+  "status:39": "2026-11-20T19:10:57+00:00"
+ },
+ "updated": "2026-11-20T19:10:57+00:00"
+}

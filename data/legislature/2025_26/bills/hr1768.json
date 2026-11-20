@@ -1,0 +1,82 @@
+{
+ "key": "HR 1768",
+ "slug": "hr1768",
+ "session": "2025_26",
+ "legislation_id": 74231,
+ "page": "https://www.legis.ga.gov/legislation/74231",
+ "document_type": "HR",
+ "number": 1768,
+ "legislation_type": "PRIV",
+ "caption": "Gardner, George \"Coach\"; commend",
+ "summary": "A RESOLUTION recognizing and commending George \"Coach\" Gardner; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4887,
+   "name": "Silcox, Deborah 53rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 826,
+   "name": "Lumsden, Eddie 12th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4989,
+   "name": "Anderson, Victor 10th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5042,
+   "name": "Hong, Soo 103rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2026-03-18T14:42:17",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-03-18T15:21:50",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-03-18T15:21:52",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 246450,
+   "label": "LC 129 1403/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/246450"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T20:10:40+00:00",
+  "version:246450": "2026-11-20T20:10:40+00:00",
+  "status:40": "2026-11-20T20:10:40+00:00",
+  "status:33": "2026-11-20T20:10:40+00:00",
+  "status:48": "2026-11-20T20:10:40+00:00"
+ },
+ "updated": "2026-11-20T20:10:40+00:00"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "HR 961",
+ "slug": "hr961",
+ "session": "2025_26",
+ "legislation_id": 72090,
+ "page": "https://www.legis.ga.gov/legislation/72090",
+ "document_type": "HR",
+ "number": 961,
+ "legislation_type": "PRIV",
+ "caption": "Bell, Sherilyn P.; commend",
+ "summary": "A RESOLUTION commending Sherilyn P. Bell; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5037,
+   "name": "Barnes, Imani 86th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 810,
+   "name": "Bennett, Karen 94th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 133,
+   "name": "Hugley, Carolyn 141st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 770,
+   "name": "Kendrick, Dar'shun 95th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 172,
+   "name": "Mitchell, Billy 88th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [],
+ "status_history": [
+  {
+   "date": "2025-04-04T09:41:36",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-04-04T10:34:40",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-04-04T10:34:42",
+   "code": "HRA",
+   "action": "House Read and Adopted",
+   "id": 48
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 239415,
+   "label": "LC 112 3667/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239415"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:52:21+00:00",
+  "version:239415": "2026-11-20T19:52:21+00:00",
+  "status:40": "2026-11-20T19:52:21+00:00",
+  "status:33": "2026-11-20T19:52:21+00:00",
+  "status:48": "2026-11-20T19:52:21+00:00"
+ },
+ "updated": "2026-11-20T19:52:21+00:00"
+}

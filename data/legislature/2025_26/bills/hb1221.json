@@ -1,0 +1,109 @@
+{
+ "key": "HB 1221",
+ "slug": "hb1221",
+ "session": "2025_26",
+ "legislation_id": 72911,
+ "page": "https://www.legis.ga.gov/legislation/72911",
+ "document_type": "HB",
+ "number": 1221,
+ "legislation_type": "GEN",
+ "caption": "Property owners' associations; written notice of certain sums; provide",
+ "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to property owners' associations, so as to provide for written notice of certain sums; to provide for a reasonable time to pay outstanding sums; to provide for an itemized list of attorney's fees claimed; to provide for an order finding reasonableness; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 762,
+   "name": "Evans, Stacey 57th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 4987,
+   "name": "Gunter, Stan 8th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-05T13:09:32",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-06T09:42:16",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-09T10:12:37",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T08:57:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported By Substitute",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 243603,
+   "label": "LC 49 2719S/hs",
+   "version": 4,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243603"
+  },
+  {
+   "doc_id": 241701,
+   "label": "LC 62 0335/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241701"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:14:40+00:00",
+  "version:243603": "2026-11-20T19:14:40+00:00",
+  "version:241701": "2026-11-20T19:14:40+00:00",
+  "status:40": "2026-11-20T19:14:40+00:00",
+  "status:33": "2026-11-20T19:14:40+00:00",
+  "status:34": "2026-11-20T19:14:40+00:00",
+  "status:39": "2026-11-20T19:14:40+00:00"
+ },
+ "updated": "2026-11-20T19:14:40+00:00"
+}

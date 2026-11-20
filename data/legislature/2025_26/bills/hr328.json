@@ -1,0 +1,81 @@
+{
+ "key": "HR 328",
+ "slug": "hr328",
+ "session": "2025_26",
+ "legislation_id": 70615,
+ "page": "https://www.legis.ga.gov/legislation/70615",
+ "document_type": "HR",
+ "number": 328,
+ "legislation_type": "GEN",
+ "caption": "Jeffrey E. Turner Highway; Clayton County; dedicate",
+ "summary": "A RESOLUTION recognizing Chief Jeffrey E. Turner and dedicating a road in his honor; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4895,
+   "name": "Burnough, Rhonda 77th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 766,
+   "name": "Scott, Sandra 76th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 5074,
+   "name": "Flournoy, Robert 74th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-20T12:55:41",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-21T09:58:19",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-24T10:09:17",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 233280,
+   "label": "LC 39 4631/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233280"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:38:11+00:00",
+  "version:233280": "2026-11-20T19:38:11+00:00",
+  "status:40": "2026-11-20T19:38:11+00:00",
+  "status:33": "2026-11-20T19:38:11+00:00",
+  "status:34": "2026-11-20T19:38:11+00:00"
+ },
+ "updated": "2026-11-20T19:38:11+00:00"
+}

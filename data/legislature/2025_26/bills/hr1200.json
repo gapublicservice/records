@@ -1,0 +1,102 @@
+{
+ "key": "HR 1200",
+ "slug": "hr1200",
+ "session": "2025_26",
+ "legislation_id": 72738,
+ "page": "https://www.legis.ga.gov/legislation/72738",
+ "document_type": "HR",
+ "number": 1200,
+ "legislation_type": "NP",
+ "caption": "Secretary of State; continue to protect private and protected information contained in Georgia's voter registration list; urge",
+ "summary": "A RESOLUTION urging the Georgia Secretary of State to continue to protect private and protected information contained in Georgia's voter registration list from an unwarranted request from the United States Department of Justice to produce unredacted copies of such voter registration list; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5091,
+   "name": "Gisler, Eric 121st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5038,
+   "name": "Draper, Saira 90th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 4994,
+   "name": "Roberts, Shea 52nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5034,
+   "name": "Tran, Long 80th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 5028,
+   "name": "Olaleye, Phil 59th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  },
+  {
+   "member_id": 5029,
+   "name": "Miller, Tanya F. 62nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 6
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Governmental Affairs",
+   "id": 92
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2026-02-02T12:51:53",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2026-02-03T10:39:39",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2026-02-04T10:11:18",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 241218,
+   "label": "LC 47 3921/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241218"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:57:44+00:00",
+  "version:241218": "2026-11-20T19:57:44+00:00",
+  "status:40": "2026-11-20T19:57:44+00:00",
+  "status:33": "2026-11-20T19:57:44+00:00",
+  "status:34": "2026-11-20T19:57:44+00:00"
+ },
+ "updated": "2026-11-20T19:57:44+00:00"
+}

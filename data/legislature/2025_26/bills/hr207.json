@@ -1,0 +1,95 @@
+{
+ "key": "HR 207",
+ "slug": "hr207",
+ "session": "2025_26",
+ "legislation_id": 70070,
+ "page": "https://www.legis.ga.gov/legislation/70070",
+ "document_type": "HR",
+ "number": 207,
+ "legislation_type": "NP",
+ "caption": "House Study Committee on the Eradication of Homelessness; create",
+ "summary": "A RESOLUTION creating the House Study Committee on the Eradication of Homelessness; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5061,
+   "name": "Bell, Eric 75th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 5033,
+   "name": "Huddleston, David 72nd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5027,
+   "name": "Willis, Inga 55th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  },
+  {
+   "member_id": 4893,
+   "name": "Bonner, Josh 73rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 5
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Special Rules",
+   "id": 117
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-06T12:48:54",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-02-10T13:42:14",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-02-11T10:10:24",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 231687,
+   "label": "LC 59 0022/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231687"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:35:28+00:00",
+  "version:231687": "2026-11-20T19:35:28+00:00",
+  "status:40": "2026-11-20T19:35:28+00:00",
+  "status:33": "2026-11-20T19:35:28+00:00",
+  "status:34": "2026-11-20T19:35:28+00:00"
+ },
+ "updated": "2026-11-20T19:35:28+00:00"
+}

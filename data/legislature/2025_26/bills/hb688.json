@@ -1,0 +1,95 @@
+{
+ "key": "HB 688",
+ "slug": "hb688",
+ "session": "2025_26",
+ "legislation_id": 71023,
+ "page": "https://www.legis.ga.gov/legislation/71023",
+ "document_type": "HB",
+ "number": 688,
+ "legislation_type": "GEN",
+ "caption": "Appeal and error; service of process; provide by certified mail and statutory overnight delivery, return receipt requested",
+ "summary": "A BILL to be entitled an Act to amend Code Section 5-3-10 of the Official Code of Georgia Annotated, relating to manner for service of process, so as to provide for service by certified mail and statutory overnight delivery, return receipt requested; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 5036,
+   "name": "Crawford, Omari 89th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 769,
+   "name": "Holcomb, Scott 101st",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  },
+  {
+   "member_id": 181,
+   "name": "Oliver, Mary Margaret 84th",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 3
+  },
+  {
+   "member_id": 5054,
+   "name": "Westbrook, Anne Allen 163rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 4
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Judiciary",
+   "id": 106
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-02-28T10:56:50",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-03-03T10:43:04",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-03-04T09:54:12",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  },
+  {
+   "date": "2026-02-24T08:57:56",
+   "code": "HCFR",
+   "action": "House Committee Favorably Reported",
+   "id": 39
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 234597,
+   "label": "LC 48 1483/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234597"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T18:49:02+00:00",
+  "version:234597": "2026-11-20T18:49:02+00:00",
+  "status:40": "2026-11-20T18:49:02+00:00",
+  "status:33": "2026-11-20T18:49:02+00:00",
+  "status:34": "2026-11-20T18:49:02+00:00",
+  "status:39": "2026-11-20T18:49:02+00:00"
+ },
+ "updated": "2026-11-20T18:49:02+00:00"
+}

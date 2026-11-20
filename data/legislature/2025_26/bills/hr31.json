@@ -1,0 +1,74 @@
+{
+ "key": "HR 31",
+ "slug": "hr31",
+ "session": "2025_26",
+ "legislation_id": 69416,
+ "page": "https://www.legis.ga.gov/legislation/69416",
+ "document_type": "HR",
+ "number": 31,
+ "legislation_type": "GEN",
+ "caption": "R. George Strickland, Jr. Memorial Bridge; Madison County; dedicate",
+ "summary": "A RESOLUTION honoring the life of Mr. R. George Strickland, Jr., and dedicating a bridge in his memory; and for other purposes.",
+ "sponsors": [
+  {
+   "member_id": 4993,
+   "name": "Leverett, Rob 123rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 1
+  },
+  {
+   "member_id": 187,
+   "name": "Powell, Alan 33rd",
+   "role": "author",
+   "type": "HouseAuthor",
+   "order": 2
+  }
+ ],
+ "committees": [
+  {
+   "chamber": "House",
+   "name": "Transportation",
+   "id": 110
+  }
+ ],
+ "status_history": [
+  {
+   "date": "2025-01-16T11:11:04",
+   "code": "HH",
+   "action": "House Hopper",
+   "id": 40
+  },
+  {
+   "date": "2025-01-17T09:38:13",
+   "code": "HFR",
+   "action": "House First Readers",
+   "id": 33
+  },
+  {
+   "date": "2025-01-27T10:24:29",
+   "code": "HSR",
+   "action": "House Second Readers",
+   "id": 34
+  }
+ ],
+ "versions": [
+  {
+   "doc_id": 230067,
+   "label": "LC 39 4486/a",
+   "version": 2,
+   "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230067"
+  }
+ ],
+ "votes": [],
+ "act_veto_number": null,
+ "scope": [],
+ "first_seen": {
+  "bill": "2026-11-20T19:31:16+00:00",
+  "version:230067": "2026-11-20T19:31:16+00:00",
+  "status:40": "2026-11-20T19:31:16+00:00",
+  "status:33": "2026-11-20T19:31:16+00:00",
+  "status:34": "2026-11-20T19:31:16+00:00"
+ },
+ "updated": "2026-11-20T19:31:16+00:00"
+}
