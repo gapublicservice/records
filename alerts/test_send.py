@@ -52,6 +52,8 @@ def main() -> None:
     if not subs:
         sys.exit("That member isn't subscribed to any newsletter, so no alert could reach them. Nothing was changed.")
     nl = sorted(subs, key=lambda n: n.get("sort_order", 0))[0]
+    # The member record lists newsletters without their slug; read it.
+    nl = g.call("GET", f"/newsletters/{nl['id']}/")["newsletters"][0]
     print(f"Member found; newsletter used: {nl['name']}")
 
     labels = [{"name": l["name"]} for l in m.get("labels") or [] if l["slug"] != SLUG]
@@ -67,6 +69,11 @@ def main() -> None:
         if not args.send:
             print("Dry run: no email sent")
             return
+        title = f"Test alert: docket {args.docket}"
+        for old in g.call("GET", "/posts/", filter="status:draft", limit="all", fields="id,title,email_only")["posts"]:
+            if old.get("title") == title and old.get("email_only"):
+                g.call("DELETE", f"/posts/{old['id']}/")
+                print("Earlier unsent test draft deleted")
         f = latest_filing(args.docket)
         doc = f.get("document_id")
         html = (f"<p>This is a one-time test of docket alerts from the Public Service record. "
@@ -74,7 +81,7 @@ def main() -> None:
                 f"<p><strong>Docket {args.docket}</strong>, newest filing ({f.get('filed_date', '')}): "
                 f"{(f.get('description') or '').strip()}</p>"
                 f"<p><a href=\"https://records.gapublicservice.org/docket/{args.docket}/\">Docket page on the record</a></p>")
-        post = g.call("POST", "/posts/", {"posts": [{"title": f"Test alert: docket {args.docket}", "html": html,
+        post = g.call("POST", "/posts/", {"posts": [{"title": title, "html": html,
                                                      "status": "draft", "email_only": True}]}, source="html")["posts"][0]
         post_id = post["id"]
         pub = g.call("PUT", f"/posts/{post_id}/", {"posts": [{"status": "published", "updated_at": post["updated_at"]}]},
@@ -91,6 +98,11 @@ def main() -> None:
         if em.get("status") != "submitted" or em.get("email_count") != 1:
             sys.exit("The send did not finish as one email to one member; see the line above.")
     finally:
+        if post_id:
+            p = g.call("GET", f"/posts/{post_id}/")["posts"][0]
+            if p.get("status") == "draft":
+                g.call("DELETE", f"/posts/{post_id}/")
+                print("Unsent test draft deleted")
         m2 = g.call("GET", f"/members/{m['id']}/", include="labels")["members"][0]
         keep = [{"name": l["name"]} for l in m2.get("labels") or [] if l["slug"] != SLUG]
         g.call("PUT", f"/members/{m['id']}/", {"members": [{"labels": keep}]})
