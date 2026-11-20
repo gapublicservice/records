@@ -2,15 +2,19 @@
   "attachments": [
     {
       "attachment_id": 109723,
+      "bytes": 227726,
       "name": "dkt_56368_-_gpc_evaluation_team_list_-_rev_17.zip",
-      "text": "not read yet",
+      "text": "zip (2 read)",
+      "text_file": "data/text/228/228442/109723.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228442/109723"
     },
     {
       "attachment_id": 109724,
+      "bytes": 63268,
       "name": "DKT 56368 - GPC Evaluation Team List - Rev 17 - Transmittal.pdf",
-      "text": "not read yet",
+      "text": "pdftotext",
+      "text_file": "data/text/228/228442/109724.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228442/109724"
     }
@@ -22,7 +26,7 @@
   ],
   "document_id": 228442,
   "filed_date": "2026-09-16",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-09-16",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=228442"
 }

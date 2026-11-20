@@ -2,8 +2,10 @@
   "attachments": [
     {
       "attachment_id": 109850,
+      "bytes": 260171,
       "name": "dkt_56368_2026_all-source_2032-2033_cop_team_list_-_20th_rev.zip",
-      "text": "not read yet",
+      "text": "zip (3 read)",
+      "text_file": "data/text/228/228942/109850.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228942/109850"
     }
@@ -15,7 +17,7 @@
   ],
   "document_id": 228942,
   "filed_date": "2026-09-23",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-09-23",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=228942"
 }

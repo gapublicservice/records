@@ -2,15 +2,19 @@
   "attachments": [
     {
       "attachment_id": 109957,
+      "bytes": 151131,
       "name": "2026 All Source RFP COP Team List Letter - Rev 21 (1) Combined.pdf",
-      "text": "not read yet",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229036/109957.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229036/109957"
     },
     {
       "attachment_id": 109958,
+      "bytes": 260944,
       "name": "dkt_56368_2026_all-source_2032-2033_cop_team_list_-_21st_rev.zip",
-      "text": "not read yet",
+      "text": "zip (3 read)",
+      "text_file": "data/text/229/229036/109958.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229036/109958"
     }
@@ -22,7 +26,7 @@
   ],
   "document_id": 229036,
   "filed_date": "2026-10-06",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-10-06",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=229036"
 }

@@ -2,8 +2,10 @@
   "attachments": [
     {
       "attachment_id": 108188,
+      "bytes": 3777399,
       "name": "2032-2033_all-source_rfp_-_final_approved_rfp_documents.zip",
-      "text": "not read yet",
+      "text": "zip (7 read)",
+      "text_file": "data/text/226/226846/108188.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226846/108188"
     }
@@ -15,7 +17,7 @@
   ],
   "document_id": 226846,
   "filed_date": "2026-06-11",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-06-11",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=226846"
 }

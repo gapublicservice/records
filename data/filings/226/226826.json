@@ -2,15 +2,18 @@
   "attachments": [
     {
       "attachment_id": 108164,
+      "bytes": 236957,
       "name": "DN56368 Order approving RFP Documents.docx",
-      "text": "not read yet",
+      "text": "docx",
+      "text_file": "data/text/226/226826/108164.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226826/108164"
     },
     {
       "attachment_id": 108165,
+      "bytes": 2626527,
       "name": "226826.pdf",
-      "text": "not read yet",
+      "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226826/108165"
     }
@@ -22,7 +25,7 @@
   ],
   "document_id": 226826,
   "filed_date": "2026-06-09",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-06-09",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=226826"
 }

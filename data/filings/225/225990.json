@@ -2,8 +2,10 @@
   "attachments": [
     {
       "attachment_id": 107321,
+      "bytes": 165730,
       "name": "georgia_power_companys_2026_all-source_capacity_rfp_for_2032-2033_evaluation_team_list_-_rev__11 (1).zip",
-      "text": "not read yet",
+      "text": "zip (4 read)",
+      "text_file": "data/text/225/225990/107321.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225990/107321"
     }
@@ -15,7 +17,7 @@
   ],
   "document_id": 225990,
   "filed_date": "2026-03-24",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-03-24",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=225990"
 }

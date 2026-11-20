@@ -2,15 +2,19 @@
   "attachments": [
     {
       "attachment_id": 107332,
+      "bytes": 56400,
       "name": "Phase 2 All Source Capacity RFP - Docket No. 56368 - Transmittal Letter of Fifth Revised Bid Team List.docx",
-      "text": "not read yet",
+      "text": "docx",
+      "text_file": "data/text/225/225999/107332.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225999/107332"
     },
     {
       "attachment_id": 107333,
+      "bytes": 309786,
       "name": "Phase 2 All Source Capacity RFP - Docket No. 56368 - Transmittal Letter of Fifth Revised Bid Team List.pdf",
-      "text": "not read yet",
+      "text": "pdftotext",
+      "text_file": "data/text/225/225999/107333.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225999/107333"
     }
@@ -22,7 +26,7 @@
   ],
   "document_id": 225999,
   "filed_date": "2026-03-24",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-20",
   "received_date": "2026-03-24",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=225999"
 }
