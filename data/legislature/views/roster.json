@@ -1,0 +1,35 @@
+{
+ "note": "Kinds of source an expert view may come from. Set before session and applied to both sides alike. The publisher and its affiliates are never sources. Takes effect once approved_by is filled in.",
+ "approved_by": null,
+ "approved_at": null,
+ "kinds": [
+  {
+   "key": "committee_testimony",
+   "label": "Testimony before a General Assembly committee"
+  },
+  {
+   "key": "psc_record",
+   "label": "Public Service Commission filings, staff testimony or orders"
+  },
+  {
+   "key": "utility_industry",
+   "label": "Utilities and industry groups"
+  },
+  {
+   "key": "consumer_advocate",
+   "label": "Consumer advocates"
+  },
+  {
+   "key": "environmental_advocate",
+   "label": "Environmental advocates"
+  },
+  {
+   "key": "academic",
+   "label": "Academic researchers"
+  },
+  {
+   "key": "think_tank",
+   "label": "Think tanks across the spectrum"
+  }
+ ]
+}
