@@ -1,0 +1,11 @@
+{
+  "source": "U.S. Energy Information Administration, Form EIA-860M",
+  "url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx",
+  "rows": 767,
+  "rows_by_sheet": {
+    "Operating": 575,
+    "Planned": 28,
+    "Retired": 138,
+    "Canceled or Postponed": 26
+  }
+}
