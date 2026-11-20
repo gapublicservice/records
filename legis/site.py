@@ -202,8 +202,22 @@ def index_page(session: str, bills: list[dict]) -> str:
     return _page("Bills", body, depth=1)
 
 
+def _latest_text(bill: dict) -> str:
+    if not bill.get("versions"):
+        return ""
+    last = store.ordered_versions(bill)[-1]
+    p = store.version_path(bill["session"], bill["slug"], last["doc_id"])
+    return p.read_text() if p.exists() else ""
+
+
 def build(session: str) -> int:
-    bills = [b for b in store.all_bills(session) if b.get("scope")]
+    # Scope is worked out again from the current rule, so a change to
+    # legis/scope.py shows on the site at once, not after the next full pass.
+    bills = []
+    for b in store.all_bills(session):
+        b["scope"] = scope.reasons(b, _latest_text(b))
+        if b["scope"]:
+            bills.append(b)
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "index.html").write_text(index_page(session, bills))
     for b in bills:

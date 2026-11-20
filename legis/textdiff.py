@@ -92,6 +92,14 @@ def compare(old: str, new: str) -> dict:
     }
 
 
+def _line_run(nums: list[str]) -> bool:
+    """1 2 3 4: page line numbers that slipped into the text, not figures."""
+    if len(nums) < 3 or not all(n.isdigit() for n in nums):
+        return False
+    v = [int(n) for n in nums]
+    return all(b - a == 1 for a, b in zip(v, v[1:]))
+
+
 def _seckey(s: str):
     m = re.match(r"(\d+)(.*)", s)
     return (int(m.group(1)), m.group(2)) if m else (0, s)
@@ -116,8 +124,12 @@ def summary_lines(s: dict) -> list[str]:
         out.append("New sections: " + ", ".join(s["sections_added"]) + ".")
     if s["sections_dropped"]:
         out.append("Sections no longer in the bill: " + ", ".join(s["sections_dropped"]) + ".")
-    for n in s["numbers_changed"][:5]:
-        out.append(f'A figure changed from {" ".join(n["from"]) or "none"} to {" ".join(n["to"]) or "none"}.')
+    # Only a figure that was swapped for another counts. A number that merely
+    # appears or vanishes is nearly always a heading or a line number that moved.
+    real = [n for n in s["numbers_changed"] if n["from"] and n["to"]
+            and not (_line_run(n["from"]) or _line_run(n["to"]))]
+    for n in real[:5]:
+        out.append(f'A figure changed from {" ".join(n["from"])} to {" ".join(n["to"])}.')
     if s["code_sections_newly_touched"]:
         out.append("Now also amends Code Section " + ", ".join(s["code_sections_newly_touched"]) + ".")
     if s["code_sections_no_longer_touched"]:

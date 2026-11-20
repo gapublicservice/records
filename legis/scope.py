@@ -6,8 +6,10 @@ never by anyone's watchlist, so the list of bills signals no position.
 A bill is in scope when any of these is true:
   1. it amends Title 46 of the Official Code of Georgia (public utilities);
   2. it names the Public Service Commission;
-  3. it is referred to a utilities committee (House Energy, Utilities and
-     Telecommunications; Senate Regulated Industries and Utilities);
+  3. it is referred to the House Energy, Utilities and Telecommunications
+     committee, or to Senate Regulated Industries and Utilities and its
+     caption or summary is about utilities (that Senate committee also hears
+     professional licensing, alcohol and other business bills);
   4. it changes statewide election law (amends Title 21 and is not a local act).
 
 Local acts (one county or city) are left out unless they amend Title 46.
@@ -20,10 +22,16 @@ import re
 
 from .textdiff import code_titles
 
-UTILITY_COMMITTEES = (
+HOUSE_UTILITY_COMMITTEES = (
     "energy, utilities", "energy, utilities & telecommunications",
-    "energy, utilities and telecommunications", "regulated industries and utilities",
+    "energy, utilities and telecommunications",
 )
+SENATE_SHARED_COMMITTEE = "regulated industries and utilities"
+UTILITY_COMMITTEES = HOUSE_UTILITY_COMMITTEES + (SENATE_SHARED_COMMITTEE,)
+UTILITY_TOPIC = re.compile(
+    r"\b(utilit\w*|electric\w*|energy|power|natural gas|gas (?:service|pipeline|utilit\w*)|"
+    r"telecommunications?|broadband|9-1-1|solar|nuclear|water service|sewer|pipeline|"
+    r"data cent\w*|ratepayer\w*|franchise fee\w*)\b", re.I)
 PSC = re.compile(r"\bPublic Service Commission\b|\bPublic Service Commissioners?\b", re.I)
 HONORARY = re.compile(r"\b(commend|recogniz|honor|congratulat|condolence|dedicat|"
                       r"designat\w+ .{0,40}\b(day|week|month)\b)", re.I)
@@ -66,8 +74,10 @@ def reasons(bill: dict, text: str = "") -> list[str]:
         return []
     if PSC.search(blob) or PSC.search(text[:50000]):
         out.append("psc")
-    names = " ".join((c.get("name") or "").lower() for c in bill.get("committees", []))
-    if any(c in names for c in UTILITY_COMMITTEES):
+    names = [(c.get("name") or "").lower() for c in bill.get("committees", [])]
+    house = any(h in n for n in names for h in HOUSE_UTILITY_COMMITTEES)
+    senate = any(SENATE_SHARED_COMMITTEE in n for n in names) and bool(UTILITY_TOPIC.search(blob))
+    if house or senate:
         out.append("utility_committee")
     if 21 in titles and not local:
         out.append("election_law")
