@@ -1,0 +1,1315 @@
+BEFORE THE
+               GEORGIA PUBLIC SERVICE COMMISSION
+In Re:
+GEORGIA POWER COMPANY’S APPLICATION     )
+FOR CERTIFICATION OF THE ROBINS, MOODY, )          DOCKET NO. 55378
+HAMMOND, AND MCGRAU FORD PHASE I AND )
+II BATTERY ENERGY STORAGE SYSTEMS       )
+
+
+                        DIRECT TESTIMONY
+
+                           AND EXHIBITS
+
+                                  OF
+
+                      DOUGLAS A. SMITH AND
+                      KATHERINE PALACIOS
+
+
+                        PUBLIC DISCLOSURE
+
+
+                            On Behalf of the
+                   Georgia Public Service Commission
+                     Public Interest Advocacy Staff
+
+
+                           October 11, 2024
+
+                                       PUBLIC DISCLOSURE
+
+
+1                             DIRECT TESTIMONY OF
+2                    DOUGLAS A. SMITH AND KATHERINE PALACIOS
+
+3    IN THE MATTER OF GEORGIA POWER COMPANY’S APPLICATION FOR THE
+4    CERTIFICATION OF THE ROBINS, MOODY, HAMMOND, AND MCGRAU FORD
+5    PHASE I AND II BATTERY ENERGY STORAGE SYSTEMS
+6
+7                                       DOCKET NO. 55378
+
+
+8    I.   INTRODUCTION
+
+
+ 9   Q.   PLEASE STATE YOUR NAMES AND BUSINESS ADDRESS.
+
+10   A.   This testimony is being jointly offered by Douglas A. Smith and Katherine Palacios, both
+
+11        from Daymark Energy Advisors, Inc. (“Daymark”). Mr. Smith is a Principal Consultant
+
+12        and Ms. Palacios is a Managing Consultant and registered professional engineer in the state
+
+13        of Texas. Our business address is 370 Main Street, Suite 325, Worcester, Massachusetts
+
+14        01608.
+
+
+15   Q.   PLEASE SUMMARIZE DAYMARK’S BUSINESS.
+
+16   A.   Daymark provides energy planning, market analysis, and regulatory policy consulting and
+
+17        advisory services to support decision making within the electricity and natural gas
+
+18        industries. We serve a broad range of clients in North America, including private and public
+
+19        utilities, energy producers and traders, energy consumers and consumer advocates,
+
+20        regulatory agencies, and public policy and energy research organizations, and other
+
+21        industry stakeholders. Our technical skills include power market forecasting models and
+
+22        methods, economics, management, planning, rates and pricing, and energy procurement,
+
+23        and contracting. Our experience includes detailed analyses of energy and environmental
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                           Page 1 of 17
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1        performance of the electric systems, economic planning for transmission, and market
+
+ 2        analytics.
+
+
+ 3   Q.   MR.     SMITH,       PLEASE       SUMMARIZE           YOUR       EXPERIENCE          AND
+
+ 4        QUALIFICATIONS.
+
+ 5   A.   I have over twenty years of experience in the energy industry, primarily supporting clients
+
+ 6        advance or review infrastructure projects. I have advised clients regarding competitive
+
+ 7        transmission project development, including determination of need, solution building and
+
+ 8        outreach to stakeholders. I have led evaluations of proposed transmission projects,
+
+ 9        including assessment of regional benefits, in SPP, PJM, NYISO, ISO-NE and in the
+
+10        province of Manitoba. I have also evaluated non-wires alternatives in Vermont and Maine.
+
+11        Additional detail on my experience and qualifications is provided in my resume, attached
+
+12        hereto as Public Interest Advocacy (“PIA”) Staff Exhibit_SP-1.
+
+
+13   Q.   MR.    SMITH,      HAVE     YOU PREVIOUSLY TESTIFIED BEFORE                         THIS
+
+14        COMMISSION?
+
+15   A.   Yes. I testified in this docket regarding Georgia Power Company’s 2023 Integrated
+
+16        Resource Plan (“IRP”) Update.
+
+
+17   Q.   MS.    PALACIOS,        PLEASE      SUMMARIZE          YOUR       EXPERIENCE         AND
+
+18        QUALIFICATIONS.
+
+19   A.   I am a professional Electrical Engineer with a license in Texas. I have over 14 years of
+
+20        experience working in the energy industry, 12 of which, I was working in various roles in
+
+21        the Transmission Planning department for a major utility in Texas where I would perform
+
+
+                       Direct Testimony of Douglas Smith and Katherine Palacios
+                                          Docket No. 55378
+                                             Page 2 of 17
+
+                                      PUBLIC DISCLOSURE
+
+
+1         various transmission analyses, set the planned 5-year budget, and develop supporting
+
+2         documentation to advance projects through rate case filing. Throughout my career, I have
+
+3         performed dozens of load and generator interconnection studies, conducting and leading
+
+4         both steady-state and stability analysis to assess the impact of the proposed changes and
+
+5         develop robust and cost-effective solutions if any issues were observed. My experience
+
+6         includes performing analysis and evaluating projects in ERCOT, ISO-NE, PJM, NYISO,
+
+7         MISO, and SPP. Additional detail on my experience and qualifications is provided in my
+
+8         resume, attached hereto as PIA Staff Exhibit_SP-2.
+
+
+9    Q.   MS. PALACIOS, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS
+
+10        COMMISSION?
+
+11   A.   Yes. I testified in this docket regarding Georgia Power Company’s 2023 IRP Update.
+
+
+12   Q.   ON WHOSE BEHALF ARE YOU TESTIFYING?
+
+13   A.   We are presenting testimony on behalf of the Commission’s PIA Staff.
+
+
+14   Q.   WHAT IS THE PURPOSE OF YOUR TESTIMONY IN THIS PROCEEDING?
+
+15   A.   The purpose of our testimony is to respond to Georgia Power Company’s (“Company” or
+
+16        “Georgia Power”) Application for Certification of Robins, Moody, Hammond, and
+
+17        McGrau Ford Phase II Battery Energy Storage Systems (“BESS”) in Docket No. 55378
+
+18        (“Application”). We address issues pertaining to the Company’s screening analysis for
+
+19        potential BESS sites and their subsequent transmission analysis regarding the selected
+
+20        BESS sites.
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                           Page 3 of 17
+
+                                      PUBLIC DISCLOSURE
+
+
+ 1        We reviewed the Company’s analysis and conclusions related to the transmission upgrades
+
+ 2        proposed in the BESS Certification filing. Our scope included a thorough review of the
+
+ 3        Company’s assumptions, methodology, and conclusions, including a review of the power
+
+ 4        flow analyses, sizing of the projects, siting of the projects, and the interconnecting
+
+ 5        equipment specified in the Company’s plans.
+
+
+ 6   Q.   PLEASE SUMMARIZE YOUR FINDINGS WITH RESPECT TO THE ISSUES
+
+ 7        BEFORE THE COMMISSION IN THIS PROCEEDING.
+
+ 8   A.   Based on our review of the Company’s filings, testimony, data request responses, and other
+
+ 9        pertinent information for this case, we have the following recommendations for the
+
+10        Commission’s consideration:
+
+11        1. Our investigative analysis revealed that the identified thermal overloads are highly
+
+12           sensitive to generation dispatch scenarios. By adjusting the dispatch of certain
+
+13           generating units—specifically, units at the XXXXXXXX—we observed that the
+
+14           overloads could be alleviated without the need for transmission upgrades. This
+
+15           indicates that operational adjustments may be sufficient to mitigate the minor
+
+16           overloads. We encourage Georgia Power to consider potential operational adjustments
+
+17           or dispatch changes first before embedding the upgrades identified in the McGrau Ford
+
+18           Phase II screening analysis into the 10-year plan.
+
+19        2. Although not currently mandated in the transitional cluster study process, evaluating
+
+20           Alternative Transmission Technologies (ATTs) could provide cost-effective solutions
+
+21           to address potential transmission constraints. We encourage Georgia Power to
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                           Page 4 of 17
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1           incorporate such evaluations in alignment with Federal Energy Regulatory
+
+ 2           Commission (“FERC”) Order 2023 requirements for future studies.
+
+ 3        3. Georgia Power’s use of the conservative Area Max cases, while ensuring reliability
+
+ 4           under high generation deliverability conditions, may identify issues under unlikely or
+
+ 5           extreme conditions. This methodology may lead to the recommendation of
+
+ 6           transmission upgrades that are not necessary under normal operating conditions. The
+
+ 7           Commission should monitor the use of the Area Max cases in future filings.
+
+ 8        4. The interconnection study for McGrau Ford Phase II BESS is currently ongoing as a
+
+ 9           part of the 2024 transitional cluster study process. The results of this study are expected
+
+10           in November 2024. We recommend that the Company provide Staff a copy of this study
+
+11           when complete, and an evaluation of how the results might impact the expected costs
+
+12           of the project.
+
+
+13   Q.   PLEASE DESCRIBE HOW THE REMAINDER OF YOUR TESTIMONY IS
+
+14        ORGANIZED.
+
+15   A.   Section II of our testimony provides an overview of the Company’s filing as it pertains to
+
+16        the investment sought, and the process used by the Company to identify the final BESS
+
+17        project sites. Section III describes the transmission analysis for the interconnection of the
+
+18        BESS projects and their impacts on the system. Section IV addresses the Company’s
+
+19        transmission analysis and conclusions of the required transmission upgrades for McGrau
+
+20        Ford Phase II. Section V concludes our testimony.
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                           Page 5 of 17
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1   II.   OVERVIEW OF COMPANY FILING
+
+
+ 2   Q.    PLEASE SUMMARIZE THE COMPANY'S FILING RELATED TO THE
+
+ 3         APPLICATION FOR THE CERTIFICATION OF THE ROBINS, MOODY,
+
+ 4         HAMMOND, AND MCGRAU FORD PHASE II BESS PROJECTS.
+
+ 5   A.    The Application contains a request for the approval of 500 megawatts (“MW”) of Company
+
+ 6         owned BESS, consisting of the following 4-hour duration lithium-ion BESS resources:
+
+ 7                •   128 MW Robins BESS in Bibb County, GA
+
+ 8                •   49.5 MW Moody BESS in Lowndes County, GA
+
+ 9                •   57.5 MW Hammond BESS in Floyd County, GA
+
+10                •   265 MW McGrau Ford Phase II BESS in Cherokee County, GA
+
+11         This filing is a result of the 2023 IRP Update Order which approved 500 MW of Company
+
+12         owned BESS. McGrau Ford Phase II will be sited with McGrau Ford Phase I, which was
+
+13         approved as a part of the 2022 IRP.
+
+
+14         The McGrau Ford Phase I and II Projects share a single point of interconnection (“POI”).
+
+15         The Robins BESS Project will be co-located with the existing Robins 115 kV Photovoltaic
+
+16         (“PV”) site, allowing the utilization of a single POI. Similarly, the proposed Moody’s
+
+17         battery storage will be co-located with the existing Moody PV facility. Hammond is a
+
+18         stand-alone BESS and requires new interconnection facilities. Each of the proposed
+
+19         projects will be comprised of Tesla Megapack 2 XL Lithium-Ion batteries.
+
+
+                      Direct Testimony of Douglas Smith and Katherine Palacios
+                                         Docket No. 55378
+                                            Page 6 of 17
+
+                                               PUBLIC DISCLOSURE
+
+
+ 1   Q.      PLEASE DESCRIBE THE PROCESS USED BY THE COMPANY TO IDENTIFY
+
+ 2           THE PROPOSED BESS SITES.
+
+ 3   A.      In the 2023 IRP Update Order which approved a stipulation, the Company received
+
+ 4           approval to pursue BESS at the sites of the Robins and Moody solar facilities. 1 In addition,
+
+ 5           the Company received approval to develop up to 500 MW of BESS, inclusive of the 178
+
+ 6           MW planned for the Robins and Moody sites.
+
+ 7           Prior to filing the 2023 IRP Update, the Company had already begun the process of
+
+ 8           identifying sites where new BESS capacity could be interconnected with limited
+
+ 9           transmission upgrades to quickly bring capacity online before the winter 2026/27 peak
+
+10           season. 2
+
+
+11           Initiated in October 2023, the process began with a high-level preliminary screening study
+
+12           to assess the feasibility of multiple sites across the service territory. As noted by the
+
+13           Company:
+
+14                    Given the limited time available to identify sites for a 2026 COD, the
+15                    Company initiated preliminary transmission screens for the potential sites
+16                    listed above. These preliminary screens offer guidance on size, location-
+17                    specific issues, and interconnection voltage, as well as insight into issues
+18                    related to meeting a COD as early as 2026. While not as detailed as full
+19                    transmission planning studies, the review gave the Company initial
+20                    feasibility insights on potential site locations and project timing for
+21                    achieving COD. Importantly, comprehensive transmission planning studies
+22                    take many months to conduct. 3
+
+
+     1
+       Paragraphs 7 and 8 of the 2023 IRP Update Stipulation.
+     2
+       Company‘s Response to Data Request STF-PIA-17-1.
+     3
+       Id.
+
+                           Direct Testimony of Douglas Smith and Katherine Palacios
+                                              Docket No. 55378
+                                                 Page 7 of 17
+
+                                           PUBLIC DISCLOSURE
+
+
+ 1   Q.      WHICH SITES WERE EVALUATED IN THE PRELIMINARY SCREENING
+
+ 2           STUDY PHASE?
+
+ 3   A.      The    Company      evaluated       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 4           XXXXX. These sites were selected due to “available land, potential incremental Inflation
+
+ 5           Reduction Act (“IRA”) tax benefits related to energy communities, and potential
+
+ 6           transmission related benefits.” 4
+
+
+ 7   Q.      WHAT WERE THE CONCLUSIONS OF THE PRELIMINARY SCREENING
+
+ 8           STUDY?
+
+ 9   A.      The preliminary screening study determined that only the Hammond site could
+
+10           interconnect a new BESS by 2026, and that the charging capability at Hammond was
+
+11           limited. 5 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+12           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXX
+
+13           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXX
+
+14           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+15   Q.      AFTER THE CONCLUSION OF THE PRELIMINARY SCREENING STUDY,
+
+16           HOW DID THE COMPANY IDENTIFY THE FINAL SITES?
+
+17   A.      When the Company determined that Hammond was the only feasible location to site a
+
+18           BESS project, and that there were some charging limitations at that site, it looked to other
+
+19           potential sites. 6 The Company conducted a screening analysis on the site of the McGrau
+
+
+     4
+       Id.
+     5
+       Id.
+     6
+       Id.
+
+                         Direct Testimony of Douglas Smith and Katherine Palacios
+                                            Docket No. 55378
+                                               Page 8 of 17
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1        Ford Phase I Project and determined that a second 265 MW phase could be added by winter
+
+ 2        2026/27.
+
+
+ 3        With the capacity from Robins, Moody, and McGrau Ford Phase II, the Company was
+
+ 4        short of the 500 MW by 57.5 MW. Since the Hammond site was the only remaining option
+
+ 5        for a 2026 COD, the Company moved forward with a full transmission study to assess
+
+ 6        whether the site could accommodate 57.5 MW.
+
+
+ 7   Q.   DO YOU AGREE WITH THE FINAL SITES IDENTIFIED IN THE
+
+ 8        PRELIMINARY SCREENING STUDY?
+
+ 9   A.   After reviewing the information provided by the Company in the screening study, we agree
+
+10        that the Company's siting of these projects is reasonable for interconnecting a significant
+
+11        number of BESS projects to the transmission system by 2026 with minimal transmission
+
+12        loading issues. Additionally, based on the data provided by the Company, the MW sizing
+
+13        of the BESS facilities at their selected locations is reasonable to prevent major thermal
+
+14        loading issues while interconnecting 500 MW of BESS to the transmission system before
+
+15        the 2026/27 winter peak season.
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                           Page 9 of 17
+
+                                           PUBLIC DISCLOSURE
+
+
+1    III.   DISCUSSION OF THE TRANSMISSION ANALYSIS AND RESULTS
+
+
+2    Q.     PLEASE CHARACTERIZE THE COMPANY’S FILING WITH RESPECT TO
+
+3           THE TRANSMISSION ANALYSIS PERFORMED ON THE FOUR FINAL BESS
+
+4           SITES.
+
+ 5   A.     The Company’s transmission analysis studied the Series 2024 Summer Peak (S), Off-Peak
+
+ 6          (O), Daylight Shoulder (D), and Dusk Shoulder (H) Base Cases for the study years 2027 –
+
+ 7          2034 using base load levels.
+
+
+ 8   Q.     BASED ON YOUR REVIEW, DID THE COMPANY’S ANALYSIS FOLLOW ITS
+
+ 9          CONVENTIONAL PLANNING PROCESSES?
+
+10   A.     Yes. The Company’s analysis is consistent with its conventional planning process in the
+
+11          study cases used and the methods for transmission analysis. The analysis included
+
+12          evaluating seasonal cases and scenarios for generating units out of service as well as
+
+13          additional cases known as “Area Max” scenarios.
+
+
+14   Q.     IS THE PROCESS USED BY THE COMPANY TO EVALUATE THESE
+
+15          PROJECTS        CONSISTENT         WITH      INDUSTRY-STANDARD             PLANNING
+
+16          PROCESSES?
+
+17   A.     Mostly, with a few notable exceptions. The use of four seasonal base case scenarios is
+
+18          consistent with standard planning processes. These cases represent the expected load and
+
+19          generation levels forecasted for the respective planning years. Summer Peak, Off-Peak,
+
+20          Daylight Shoulder, and Dusk Shoulder base cases were used to evaluate these projects. The
+
+21          Company uses standard procedures and software to evaluate the cases.
+
+
+                       Direct Testimony of Douglas Smith and Katherine Palacios
+                                          Docket No. 55378
+                                            Page 10 of 17
+
+                                                 PUBLIC DISCLOSURE
+
+
+ 1            Based on our experience in other jurisdictions, we have identified a few elements of the
+
+2             Company’s analysis that are less common transmission planning practices. The use of Area
+
+3             Max cases is a more conservative approach taken by the Company than that of many
+
+4             transmission utilities. In the Area Max scenarios, generation within a specific geographic
+
+5             area is evaluated at its maximum output, typically at or near Pmax 7 while N-1 contingency
+
+6             analysis 8 is performed to identify thermal overloads and voltage constraints. Area Max
+
+7             cases are developed by the Company for each season and planning year. Area Max cases
+
+8             are not a direct requirement under North American Electric Reliability Corporation
+
+ 9            (“NERC”) reliability standards. 9 While these cases can identify overloads during extreme
+
+10            grid conditions, they represent potentially unlikely circumstances where a particular region
+
+11            is being dispatched at or near it’s maximum rated limit. Typically, this is a low-probability
+
+12            circumstance, and thus reflects conservative planning.
+
+
+13   Q.       ARE OTHER SCENARIOS THAT WERE USED BY THE COMPANY TO
+
+14            EVALUATE THESE PROJECTS CONSISTENT WITH INDUSTRY-STANDARD
+
+15            PLANNING PROCESSES?
+
+16   A.       Yes. The Company also evaluates various generator outage scenarios for each planning
+
+17            year and season. In these analyses, an N-1 contingency analysis is performed with a pre-
+
+18            existing generator outage. These cases are known as N-G-1, with “G” signifying generator.
+
+19            The N-G-1 cases constitute a P3 contingency scenario as defined in NERC TPL-001-5
+
+
+     7
+       Pmax is transmission planning software’s definition of maximum facility output in megawatts.
+     8
+       N-1 contingency analysis is a typical method for testing system reliability with the loss of a single element, such as
+     a generator, transmission line, transformer or other facility.
+     9
+       NERC reliability standards function as a minimum level of reliability required. Therefore, the Company is correct
+     when it states that their inclusion of Area Max cases is consistent with NERC Standards. It is not required, however.
+
+                            Direct Testimony of Douglas Smith and Katherine Palacios
+                                               Docket No. 55378
+                                                 Page 11 of 17
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        Transmission System Planning Performance Requirements. As part of the NERC Criteria,
+
+ 2        corrective re-dispatching of appropriate generation resources is allowed as a corrective
+
+3         action after the initial N-G scenario.
+
+
+ 4        As discussed in Section IV, it is these two types of scenarios, Area Max and N-G-1, which
+
+ 5        caused the overloads that triggered the need for transmission system upgrades for McGrau
+
+ 6        Ford Phase II.
+
+
+ 7   Q.   DO YOU HAVE ANY OTHER OBSERVATIONS ABOUT THE COMPANY’S
+
+ 8        PLANNING PROCESS?
+
+ 9   A.   Yes. The Company submitted the interconnection request for the McGrau Ford Phase II
+
+10        Project prior to the April 2024 compliance deadline for FERC Order 2023, meaning that
+
+11        the study is currently ongoing as a part of the 2024 transitional cluster study process which
+
+12        began in June 2024. The results of this study are expected in November 2024. The results
+
+13        of this study could impact interconnection costs for the project. We recommend that the
+
+14        Company provide a copy of this study when complete, and an evaluation of how the results
+
+15        might impact the expected costs of the project.
+
+
+16        In addition to the potential impact on costs, the transitional cluster study did not mandate
+
+17        that ATTs be evaluated to determine whether the overloads could be mitigated without the
+
+18        need for potentially more costly transmission network upgrades. Therefore, the Company
+
+19        did not evaluate any ATTs. The Company states that they will begin evaluating ATTs as
+
+20        mandated by FERC Order 2023 once annual cluster studies commence in 2025. This study
+
+
+                      Direct Testimony of Douglas Smith and Katherine Palacios
+                                         Docket No. 55378
+                                           Page 12 of 17
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1         approach is consistent with the version of the tariff that was effective when the
+
+ 2         interconnection request was submitted for the McGrau Ford Phase II Project.
+
+
+ 3         Finally, as was the case in the 2023 IRP Update transmission analysis, the transmission
+
+ 4         planning cases in this docket included certain generators that had been identified and
+
+ 5         ordered retired in the 2022 IRP. These generators were dispatched throughout this
+
+ 6         transmission analysis.
+
+
+ 7   Q.    WHAT WERE THE PRIMARY CONCLUSIONS OF THE COMPANY’S
+
+ 8         ANALYSIS OF THE FOUR BATTERY SITES?
+
+ 9   A.    The Company’s analysis concluded that the Robins, Moody, and Hammond sites could be
+
+10         interconnected without any transmission upgrades but identified a need for two upgrades
+
+11         associated with the interconnection of the McGrau Ford Phase II Project.
+
+
+12   IV.   DISCUSSION        OF     TRANSMISSION          ANALYSIS        AND     TRANSMISSION
+
+13         UPGRADES FOR MCGRAU FORD II
+
+
+14   Q.    PLEASE SUMMARIZE THE SPECIFIC CONCLUSIONS OF THE COMPANY’S
+
+15         TRANSMISSION SCREENING ANALYSIS AND THE COMPANY’S REQUESTS
+
+16         TO THE COMMISSION RELATED TO THE INTERCONNECTION OF THE
+
+17         MCGRAU FORD PHASE II BESS PROJECT.
+
+18   A.    The Company’s transmission analysis identified two thermal overloads associated with the
+
+19         charging and discharging of the McGrau Ford Phase II BESS Project. No attributable
+
+20         transmission projects were identified for Moody, Robins, or Hammond. The BESS
+
+21         Certification requests that the overloads be mitigated by transmission projects required to
+
+                      Direct Testimony of Douglas Smith and Katherine Palacios
+                                         Docket No. 55378
+                                           Page 13 of 17
+
+                                               PUBLIC DISCLOSURE
+
+
+ 1              both deliver power and charge the project. The McGrau Ford Phase II BESS attributable
+
+ 2              transmission projects are the XXXXXXXXXXXXXXXXXXXXXXXX as shown below
+
+ 3              in Table 1.
+
+ 4             Table 1: Attributable Transmission Projects – McGrau Ford Phase II BESS 10
+
+                                                                                  Lead
+                               Project                        Cost Estimate       Time           Need Date
+                                                                                (months)
+             XXXXXXXXXXXXXXXXXXXXX                            XXXXXXX              XX              XXXX
+                     XXXXX
+             XXXXXXXXXXXXXXXXXXXXX                            XXXXXXX              XX              XXXX
+                                 Total                        $14,350,000
+
+ 5   Q.         PLEASE DESCRIBE THE RESULTS OF THE COMPANY’S TRANSMISSION
+
+ 6              ANALYSIS AS IT PERTAINS TO THE MCGRAU FORD PHASE II PROJECT.
+
+ 7   A.         The analysis for McGrau Ford Phase II identified thermal loading constraints observed
+
+ 8              under two studied case scenarios. These thermal loadings are the results of scenarios that
+
+ 9              led to the identification of transmission constraints that identified a possible need for
+
+10              transmission upgrade projects. The scenarios are:
+
+11                      1. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+12                      2. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+13              The XXXXXXXXXXXXX case led to overloads of XXXXX beginning in XXX while the
+
+14              XXXXXXXXXXXXXXX case led to an overload of XXXX in XXX.
+
+
+15              These study results are in line with Southern Company’s study methodology. However, it
+
+16              is notable that this methodology is more conservative than methodologies used in other
+
+
+     10
+          Application, Appendix F – Transmission Analysis for Hammond and McGrau Ford Phase II BESS.
+
+                              Direct Testimony of Douglas Smith and Katherine Palacios
+                                                 Docket No. 55378
+                                                   Page 14 of 17
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1        regions. The Area Max cases study a dispatch of generators in a given region, in this case
+
+ 2        XXXXXXXX, at or near their Pmax values and while the system is at its most stressed in
+
+ 3        the summer peaking case. Therefore, in this analysis, the McGrau Ford Phase II Project
+
+ 4        discharges at its designated 265 MW rating. Likewise, in the XXXXXXXXXXXXXX
+
+ 5        case, the McGrau Ford Phase II Project is charging at its designated charging level of
+
+ 6        133MW.
+
+
+ 7   Q.   ARE THERE ANY ADDITIONAL CONCERNS AS IT PERTAINS TO MCGRAU
+
+ 8        FORD PHASE II THERMAL LOADING RESULTS?
+
+ 9   A.   Yes. It is notable that the thermal loading issues identified for the addition of the McGrau
+
+10        Ford Phase II Project are relatively nominal, the XXXXXXXXXXXXXXXXXXXX
+
+11        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXX
+
+12        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXX
+
+13        XXXXXXXX. In our professional experience, this is a minor exceedance that falls within
+
+14        the margin of error. Given the inherent uncertainties in power system studies – such as
+
+15        solution settings, tolerances in load forecasting differences, modeling assumptions,
+
+16        assumed generator dispatch, additional analysis and studies should determine whether such
+
+17        upgrades are truly necessary at this time. This sensitivity to dispatch and system changes
+
+18        is made evident by XXXXXXXXXX included in the XXXXXXXXXXXXXXXX which
+
+19        shows that the thermal loading issues are XXXXXXXXXXXXXXXXXXXXXXX.
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                          Page 15 of 17
+
+                                      PUBLIC DISCLOSURE
+
+
+ 1   Q.   DID DAYMARK PERFORM ANY INVESTIGATIVE ANALYSIS? IF SO, PLEASE
+
+ 2        DESCRIBE THE ANALYSIS?
+
+ 3   A.   Yes. The analysis included comparing the generation dispatch modeled within the
+
+ 4        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXX
+
+ 5        XXXXXXXXXXXXXXXXXXX power flow cases. These two modeling scenarios were
+
+ 6        selected because the thermal results shared by Georgia Power showed that there was no
+
+ 7        thermal overload of the XXXXXXXXXXXXXXXXXXXXXXXX line in the XXX
+
+ 8        XXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+
+ 9   Q.   PLEASE DESCRIBE THE FINDINGS OF YOUR ANALYSIS.
+
+10   A.   We observed that when the dispatch of key generators in the 2034 study was changed to
+
+11        match the dispatch of the 2033 study year model, the impact was significant enough to
+
+12        alleviate the observed XXXXXXXXXXXXXXXXXXXXXXX overload. It was noted that
+
+13        the XXXXX generating units XXXXXXXXXXX were offline in the 2033 case, which
+
+14        alleviated the thermal loading issue seen on the XXXXXXXXXXXXXXXXXXXXXX
+
+15        and XXXXXXXXXXXXXXXXXXXX. While this generation dispatch may not be the
+
+16        most optimal solution to solve a marginal thermal loading issue, it does reflect the
+
+17        sensitivity of generation dispatch and how it can impact the identified overloads. We
+
+18        recommend that additional analysis be performed by Georgia Power, including sensitivity
+
+19        studies with varied generation dispatch scenarios that will likely alleviate the thermal
+
+20        loading issues identified in the Company’s analysis caused by the McGrau Ford Phase II
+
+21        Project.
+
+
+                     Direct Testimony of Douglas Smith and Katherine Palacios
+                                        Docket No. 55378
+                                          Page 16 of 17
+
+                                PUBLIC DISCLOSURE
+
+
+1   V.   CONCLUSION
+
+2
+
+3   Q.   DOES THIS CONCLUDE YOUR TESTIMONY?
+
+4   A.   Yes.
+
+
+                Direct Testimony of Douglas Smith and Katherine Palacios
+                                   Docket No. 55378
+                                     Page 17 of 17
+
+                                                                                            PIA Staff Exhibit_ (SP-1).
+
+
+Douglas A. Smith
+Vice President and Principal Consultant
+
+Doug provides clients with strategic insights and customized analysis of the impacts of market dynamics
+and policy choices on infrastructure development. He advises project developers, utilities, and regulators
+who are navigating through new business opportunities and market environments. He has extensive
+experience forecasting wholesale electricity prices, leading market and power system analyses, and
+directing integrated resource planning processes and evaluations. Doug has appeared as an expert before
+U.S. state and Canadian provincial regulatory agencies.
+
+SELECTED PROFESSIONAL EXPERIENCE
+Po w er S y st em Pl an ni n g
+    •   For a national not-for-profit, advised on the state of state, regional and national transmission
+        development conditions, including barriers to development, efforts to change processes, and
+        methods for engagement with key stakeholders. Produced multiple reports and presentations to
+        staff and senior decision makers. Reviewed and assisted in the development of an engagement
+        strategy.
+    •   For Central Maine Power, led a team that provided analysis, advisory services, and testimony in
+        support of the New England Clean Energy Connect (NECEC); provided market analytical modeling
+        and analysis to assess cost implications, benefits, and risks to customer and the client; led
+        presentations of results to internal and external parties. The effort led to filed reports with the
+        Federal Energy Regulatory Commission and the Maine Public Utilities Commission as well as
+        multiple rounds of oral and written testimony.
+    •   For Central Maine Power, managed the analysis of a combined proposal for wind energy and
+        transmission in northern New England; assisted team members in understanding the impacts of
+        various quantities of wind energy and the respective transmission needed to deliver wind energy
+        and crafted scenario analysis to quantify the range of potential benefits, all of which resulted in
+        multiple public reports as components of the client’s response to the 2016 Clean Energy RFP by
+        Massachusetts, Connecticut and Rhode Island and the 2018 Section 83D RFP by Massachusetts.
+    •   Led a team providing transmission planning and development advisory and analytical services to
+        a confidential developer. Work spans multiple regions and involves consideration of multiple
+        projects, alternatives, and integration with potential renewable generation developers.
+    •   For multiple confidential developers, leads teams to provide electric market analytical modeling
+        and analysis supporting the development of multiple bids into state procurement processes
+        seeking renewable generation. Teams deliver reports detailing the economic benefits to the
+        region of several separate portfolios of generating assets.
+    •   For the Maryland Office of Peoples’ Counsel (MD OPC), provided advisory evaluation services
+        regarding a certificate of public convenience and necessity related to a proposed competitive
+        transmission project in Maryland. Assisted the MD OPC through review of the regulatory record
+        and consideration of potential testimony options. Resulted in multiple rounds of written and oral
+
+
+    DAYMARK ENERGY ADVISORS  370 MAIN STREET, SUITE 325  WORCESTER, MA 01608
+                                 TEL: (617) 778-5515  DAYMARKEA.COM
+
+                                                                                 Résumé of Douglas A. Smith
+                                                                                                Page 2 of 7
+
+
+       testimony outlining the results of the review and potential alternative approaches to the
+       transmission solution identified.
+   •   Managed a team to advise a confidential transmission developer’s business development team
+       regarding a bid into a regional request for proposal. The work included advising the client on
+       various financial and transmission tariff related matters to ensure the client could properly
+       account for regulated transmission requirements when bidding into a competitive solicitation.
+   •   Provided advisory services to a confidential distribution utility regarding a regional transmission
+       constraint and potential solutions to that constraint. Designed key aspects of the benefit-cost
+       screening tools used to evaluate the options identified. Advised the client on use of the screening
+       tools and considerations important to their review of potential solutions. The effort resulted in
+       utility action to champion support for several transmission upgrade projects.
+   •   For NRG Energy Inc, analyzed the regional benefits of the proposed Canal 3 peaker plant; advised
+       and managed the Daymark team regarding emissions impact scenarios, with the plant operating
+       as either an energy unit or a reserve unit; investigated state emissions policies and their potential
+       impact on plant operations.
+   •   For a confidential client, led the creation of a proof of concept model of the Southern Company
+       balancing authority and surrounding areas, including benchmarking to available public data and
+       forecasting of potential future capacity expansion outcomes.
+   •   As an input to several economic studies for NYSERDA, provided review and critical analysis of a
+       third-party, long-term forecast of growth and pricing in New York’s energy and capacity markets.
+   •   Managed the review of a large generation owner’s internal electric market price forecasting
+       process relied upon to evaluate business decisions; provided recommendations for (1) process
+       improvements designed to more-closely align forecasting efforts to better address internal
+       requirements, (2) updated and extended the client’s New York modeling capabilities using the
+       AURORA production cost model, and (3) recommended key benchmarking tools that should be
+       used to evaluate specific forecasting results.
+  Non-Transmission Alternative Assessments
+   •   Assisted in evaluating non-transmission alternatives (NTAs) as compared to a set of proposed
+       transmission upgrades in Vermont; assisted in the development of an economic scorecard
+       designed to facilitate the comparison of transmission and non-transmission solutions on equal
+       footing and compared potential rate impacts of the proposed solutions.
+   •   Assisted in evaluating non-transmission alternatives (NTAs) as compared to a set of proposed
+       transmission upgrades in Maine; evaluated the economics of transmission and non-transmission
+       solutions and leveraged market simulation models to estimate the impact of solutions on energy
+       clearing prices in Maine and in New England.
+   •   On behalf of Vermont-based utility, developed and analyzed non-transmission alternatives (NTAs)
+       to a set of proposed transmission upgrades that would impact the distribution-level supply
+       system; developed an economic tool to evaluate the cost of operating “pre-contingency”
+       generation options.
+
+
+DAYMARKEA.COM
+
+                                                                                   Résumé of Douglas A. Smith
+                                                                                                  Page 3 of 7
+
+
+C l ea n E n erg y
+    •   For a confidential developer, led a team that produced an offshore wind siting feasibility study
+        related to a potential investment in offshore leasing. Investigated the project’s interconnection
+        and market risks and opportunities.
+   Asset Valuation’
+    •   For a confidential client, led a valuation of storage as a transmission asset designed to enhance
+        transfer capability. Advised on potential operational outcomes and method for valuing impact on
+        regional energy and capacity markets.
+    •   For a confidential client, led a valuation of a hydropower asset in consideration of a potential sale.
+        Evaluated the asset considering multiple potential ownership structures and reported the range
+        of valuation.
+    •   For Calpine Corporation, led a team that assessed the financial condition and cashflows of several
+        nuclear plants located in New Jersey, Ohio, and Pennsylvania in light of the stranded cost
+        payments determined at the time of the initial stranded cost determinations in 1999 and 2001
+        and compared them to the financial conditions as estimated based on actual market outcomes.
+    •   For multiple clients, advised on and assisted with the creation of financial models of natural gas
+        and hydro-electric facilities for tax valuation.
+
+C o mp et i ti v e Pro cu remen t
+    •   Oversaw development of and currently managing the quantitative evaluation for a procurement
+        process for SaskPower to procure low-carbon energy for delivery over an expanded transmission
+        line between SPP and Saskatchewan. (Ongoing)
+    •   Advisor to Southwest Louisiana Electric Membership Corporation (SLEMCO), Pointe Coupee
+        Electric, and Concordia Electric Cooperative for an appropriate long-term contracting plan for
+        energy and capacity by developing, documenting, and recommending a planning process and the
+        resulting steps needed to acquire its next sources of power supply. Prepared the quantitative
+        review for the responses to a Request for Proposal (RFP) to solicit diverse offerings to meet load.
+        Prepared and delivered multiple rounds of testimony.
+    •    For a confidential developer, led multiple investigations into potential competitive bid requests
+        for proposal to assess client’s likely competitive position relative to the market. This effort
+        included assessment of RFP conditions, potential solutions, cost evaluation, evaluation of net
+        benefits and advising on potential competition. The outcome of each effort was a bid / no bid
+        decision in part based on the overall team recommendation.
+
+Reg u l a t o ry E co n o mics
+    •   For the Georgia PSC Public Interest Advocacy Staff, reviewed and provided testimony regarding
+        transmission and interconnection issues regarding the Georgia Power 2023 IRP Update filing.
+        Reviewed the Company’s methodology and results. Oversaw a team of transmission planners who
+        reviewed and tested the Company’s results. Provided recommendations regarding the analysis
+        and results of the Company’s transmission plan for new generation requested in the IRP Update.
+    •   Served as an Independent Expert Consultant to the Manitoba Public Utilities Board to provide an
+        independent expert opinion of Manitoba Hydro’s export revenue forecast as part of the utility’s
+        2017/18 & 2018/19 General Rate Application (GRA) and the 2023/24 GRA. Directed the review of
+
+DAYMARKEA.COM
+
+                                                                               Résumé of Douglas A. Smith
+                                                                                              Page 4 of 7
+
+
+       Manitoba Hydro’s long-term market price forecast, its projection of surplus energy, existing
+       contracts, the markets fundamentals, and a comprehensive review of the economics and
+       decision-making behind one power sale and transmission construction project. Reviewed utility’s
+       hedge trading and risk policies and its performance during drought. Thess accuracy and
+       reasonableness reviews culminated in public and confidential independent expert reports and
+       oral testimony that together were key inputs to regulators’ consideration of the utility’s rate
+       increase request.
+   •   For the Arkansas Public Service Commission Staff, led the review of a utility’s proposal to use a
+       tax equity partner in the acquisition of wind power plants. Analyzed the risks and benefits of the
+       proposal to utility customers and reviewed potential alternative financing options. The analysis
+       led to the provision of written testimony before the Arkansas Public Service Commission.
+   •   Assisted in the assessment of a request to the Arkansas Public Service Commission for a
+       declaratory order; the request sought a finding that installation of environmental controls at the
+       Flint Creek power plant was in the public interest.
+   •   For the Interconnection Rights Holders (IRH) Management Committee (IMC) of an HVDC
+       transmission facility between HQ and ISO-NE, led a team to prepare a cost-benefits study to assess
+       the merits of extending the agreement for a period of up to twenty years. The purpose of the
+       study was to measure both ratepayer and shareholder impacts by isolating the net benefits that
+       would potentially accrue to the contract holders. Project resulted in a comprehensive report
+       documenting the cost and benefit analysis approach, assumptions, results, and conclusions.
+   •   For the Southern Environmental Law Center (SELC), led a team that reviewed the Integrated
+       Resource Planning (IRP) performed by Duke Energy Carolinas and Duke Energy Progress and
+       identified, modeled, and compiled results of alternative resource plans that illustrated the
+       benefits of a more aggressive renewable generation focus. Provided a report that was relied upon
+       by SELC to craft testimony for submission in the docketed case.
+
+EMPLOYMENT HISTORY
+   Daymark Energy Advisors, Inc.                                                         Worcester, MA
+    Principal Consultant                                                                 2021 – Present
+    Treasurer                                                                            2016 – Present
+    Managing Consultant                                                                    2017 – 2021
+    Various consulting positions                                                           2004 – 2017
+   The Sports Authority                                                                Ft. Lauderdale, FL
+     Senior POS/EDP Programmer/Analyst                                                       2002 – 2004
+   SHL USA Inc.                                                                             Boulder, CO
+     Software Engineer                                                                      2000 – 2001
+   Strategic Technologies Group                                                             Boulder, CO
+     Senior Consultant                                                                      1995 – 2000
+
+EDUCATION
+   Syracuse University                                                                      Syracuse, NY
+     B.S., Accounting, Summa Cum Laude                                                             1991
+
+
+DAYMARKEA.COM
+
+                                                                              Résumé of Douglas A. Smith
+                                                                                             Page 5 of 7
+
+
+PUBLICATIONS & TESTIMONY
+Invited Speaker
+      •   Webinar on Northeast transmission
+
+Publications
+      •   Independent Expert Consultant Report: SaskPower Contract-Economic Review; Confidential
+          Report prepared for the Manitoba Public Utilities Board regarding Manitoba Hydro’s 20-year
+          power contract with SaskPower and associated transmission, December 15, 2017.
+          Contributing Author.
+
+      •   Independent Expert Consultant Report: Export Pricing and Revenues Review; Confidential
+          Report prepared for the Manitoba Public Utilities Board regarding Manitoba Hydro’s 20-year
+          forecast of its export revenues submitted in its 2017/18 and 2018/19 General Rate
+          Application, November 16, 2017. Contributing Author.
+
+      •   MCPC Project Benefits; Quantitative and Qualitative Benefits, Confidential Report prepared
+          for Central Maine Power regarding the benefits of the Maine Clean Power Connection, a 345-
+          kV transmission expansion accompanied by 1100 MW of wind energy project development
+          offered in the Massachusetts RFP for Clean Energy Resources, July 27, 2017. Contributing
+          Author.
+
+      •   NECEC Project Benefits; Quantitative and Qualitative Benefits, Confidential Report prepared
+          for Central Maine Power and H.Q. Energy Services regarding the benefits of the New England
+          Clean Energy Connection, 1200 MW HVDC transmission expansion accompanied by 1090 MW
+          of hydropower and wind energy project development offered in the Massachusetts RFP for
+          Clean Energy Resources, July 27, 2017. Contributing Author.
+
+      •   MREI Project Benefits; Direct, Indirect, Qualitative and Other Benefits, prepared for Central
+          Maine Power Company and Emera Maine regarding the benefits of the Maine Renewable
+          Energy Initiative, a 345 kV transmission expansion accompanied by 1200 MW of wind energy
+          project development, January 28, 2016. Contributing Author.
+      •   MCPC Project Benefits; Direct, Indirect, Qualitative and Other Benefits”, prepared for Central
+          Maine Power Company regarding the benefits of the Maine Clean Power Connection, a 345-
+          kV transmission expansion accompanied by nearly 600 MW of wind energy project
+          development, January 28, 2016. Contributing Author.
+      •   Maine Power Connection: Analysis of Benefits in Maine and New England, Report for Central
+          Maine Power. September 5, 2014. Contributing Author.
+
+
+DAYMARKEA.COM
+
+                                                                                           Résumé of Douglas A. Smith
+                                                                                                          Page 6 of 7
+
+
+Expert Testimony
+FORUM                     ON BEHALF OF                     MATTER
+Georgia Public Service    Georgia PSC Public Interest      Prefiled Direct testimony and expert witnessing
+Commission                Advocacy Staff                   regarding the transmission and interconnection
+                                                           analyses and results from the Georgia Power 2023
+                                                           Integrated Resource Plan Update.
+                                                           Docket 5538
+The Louisiana Public      Southwest Louisiana              Prefiled Direct and Surrebuttal testimony and expert
+Service Commission        Membership Corporation           witnessing regarding the Application of SLEMCO,
+                          (SLEMCO), Concordia              Concordia, and PC Electric to enter into contracts for
+                          Electric Cooperative             full requirements power services and solar PPAs.
+                          (Concordia), and Point           Docket No. U-36514, U-36515, and U-36516. August
+                          Coupee Electric Cooperative      2022, May 2023.
+                          (PC Electric)
+The Public Utilities      Daymark Energy Advisors          Manitoba Hydro 2023/24 General Rate Application -
+Board of Manitoba         (independent expert              independent expert for the review of specific issues
+                          consultant, under contract       regarding Manitoba Hydro’s forecast of export
+                          to the Public Utilities Board)   revenues, review of MH power contracts, evaluation
+                                                           of utility hedging and risk policies and review of utility
+                                                           performance during drought. Testimony addressed
+                                                           reasonableness of forecast methods and results. May
+                                                           2023
+Rhode Island Division     Rhode Island Division of         Prefiled Direct testimony in the form of a report to the
+of Public Utilities and   Public Utilities and Carriers    RIDPUC and brief accompanying testimony. Testimony
+Carriers                  (RIDPUC Staff)                   related to utility’s filing for approval to join a revolving
+                                                           credit facility and evaluation of potential impacts to
+                                                           ratepayers.
+                                                           Docket No. D-22-13 January 2023
+The Maryland Public       The Maryland Office of           Prefiled Direct and Surrebuttal testimony and expert
+Service Commission        Consumer Advocates               witnessing regarding the Application of Transource
+                                                           Maryland, LLC for a CPCN to construct new
+                                                           transmission lines in Maryland. Testimony related to
+                                                           proposed settlement and stipulation and addressed
+                                                           applicant’s forecasted economic impacts of proposed
+                                                           transmission.
+                                                           Docket No. 9471. April 2019, May 2019, June 2019,
+                                                           December 2019, February 2020
+The Arkansas Public       The General Staff of the         Application of the Empire District Electric Company for
+Service Commission        Arkansas Public Service          Approval to Acquire Renewable Wind Generation
+                          Commission                       Facilities and to Establish a Regulatory Asset.
+                                                           Testimony addressed reasonableness of applicant’s
+                                                           proposal to use tax equity financing.
+                                                           Docket No. 17-61-U. February 2018
+The Arkansas Public       The General Staff of the         Application of the Empire District Electric Company for
+Service Commission        Arkansas Public Service          Approval to Acquire Renewable Wind Generation
+                          Commission                       Facilities and to Establish a Regulatory Asset.
+                                                           Testimony addressed reasonableness of applicant’s
+                                                           proposal to use tax equity financing.
+                                                           Docket No. 17-61-U. February 2018
+
+
+DAYMARKEA.COM
+
+                                                                                       Résumé of Douglas A. Smith
+                                                                                                      Page 7 of 7
+
+
+FORUM                    ON BEHALF OF                     MATTER
+The Public Utilities     Daymark Energy Advisors          Manitoba Hydro 2017/18 & 2018/19 General Rate
+Board of Manitoba        (independent expert              Application - independent expert for the review of
+                         consultant, under contract       specific issues regarding Manitoba Hydro’s forecast of
+                         to the Public Utilities Board)   export revenues and review of MH power contracts.
+                                                          Testimony addressed reasonableness of forecast
+                                                          methods and results. January 2018
+Maine Public Utilities   Central Maine Power              Witness in support of CMP’s request for approval of a
+Commission                                                certificate of finding of public convenience and
+                                                          necessity for the New England Clean Energy Connect
+                                                          construction of a 1,200 MW HVDC transmission line
+                                                          from the Quebec-Maine border to Lewiston, Maine.
+                                                          Testimony addressed the economic benefits
+                                                          associated with interregional transmission connection
+                                                          and associated clean energy development benefits.
+                                                          Docket No. 2017-00232. December 2017, April 2018,
+                                                          August 2018, November 2018, January 2019
+Maine Public Utilities   Central Maine Power              Emera Maine’s application for approval of the Maine
+Commission                                                Power Connection Transmission project. Testimony
+                                                          addressed the economic benefits associated with
+                                                          interregional transmission connection and associated
+                                                          wind energy development benefits.
+                                                          Docket No. 2014-00048. September 2014
+
+
+DAYMARKEA.COM
+
+                                                                                          PIA Staff Exhibit_ (SP-2).
+
+
+Katherine Palacios, PE
+Managing Consultant
+
+Kate leads our grid services team. She works closely with clients to provide strategic power system
+solutions. She advises project developers and utilities who are navigating new business opportunities and
+evolving market environments. Her expertise includes renewable energy, energy storage interconnection,
+and transmission planning. Kate is a registered professional engineer.
+
+SELECTED PROFESSIONAL EXPERIENCE
+T ra n smi ssi o n Pl an n in g
+    •   Testified on behalf of Georgia PSC as an expert witness in the 2023 IRP Update.
+    •   Leveraged QGIS and Powerflow results to correlate transmission power flow results with
+        transmission lines on a map, effectively identifying high-congestion regions within the grid.
+    •   Identified locations where gas lines and transmission lines intersected with high-capacity lines
+        using, ensuring efficient connectivity.
+    •   Developed Transmission Planning Models for company area which included over 400
+        Transmission and Distribution substations in coordination with the ERCOT Steady State Working
+        Group (SSWG) to develop new modeling techniques. Developed procedures and tools for steady-
+        state model validation and tracking.
+            o    Worked with ERCOT SSWG to develop quarterly updates to the state-wide transmission
+                 system model.
+            o    Active role in SSWG meetings, advocating for company’s needs and ultimately taking part
+                 in writing ERCOT procedure manual revisions.
+            o    Developed first CenterPoint nodal based planning model. Worked with real-time
+                 engineers to integrate NMMS data into system planning model.
+            o    Developed Python and VBA tools to automate steady-state analysis, increasing the
+                 number of projects delivered for the entire team.
+
+I n t erco n n ecti o n S tud i es
+    •   Used QGIS to perform comprehensive analysis and determine optimal locations for Point of
+        Interconnection (POI) for a new generator developer.
+    •   Developed a methodology that incorporated the use of QGIS, proprietary maps, open-source land
+        use data, and statistical analysis to identify the most viable POI locations.
+    •   Developed Full Interconnection Studies for multiple wind, solar, and natural gas generation
+        customers in parallel. Developed solutions for transmission level upgrades and reconfigurations
+        to meet NERC TPL, and ERCOT requirements. Worked in internal compliance task forces, providing
+        evidence and creating procedures for CIP compliance tracking.
+
+
+    DAYMARK ENERGY ADVISORS  370 MAIN STREET, SUITE 325  WORCESTER, MA 01608
+                                  TEL: (617) 778-5515  DAYMARKEA.COM
+
+                                                                         Résumé of Katherine Palacios, P.E.
+                                                                                               Page 2 of 3
+
+
+   •   Created interconnection studies for large (50 MW – 500 MW) transmission level load
+       interconnections. Developed solutions for Transmission level upgrades and reconfigurations to
+       meet NERC TPL standards. Managed capital projects budget of over $300 Million for Transmission
+       Planning based on electrical and financial needs.
+   •   Completed FIS packages for 7 renewable generation stations, (150 MW – 750 MW), 4 battery
+       storage facilities, 3 natural gas facilities; including:
+           o   Steady state impact analysis
+                      Developed equivalent steady state models, performed contingency analysis using
+                       NERC TPL, ERCOT, and CenterPoint standards. Short Circuit Modeling and Analysis
+                       using ANSI standards.
+                      Created solutions and worked with customers to develop the best cost-effective
+                       option for interconnection.
+           o   Transient stability analysis
+                      Integrated dynamic data parameters from datasheets and customer provided
+                       sources into PSSE analytical models.
+                      Performed Voltage Ride Through analysis and model validation analysis.
+                      Worked with customer to provide updates and changes to models if necessary.
+                      Provided a clear and concise report that summarizes the impact analysis to all
+                       stakeholders.
+   •   Developed transmission upgrade and reconfiguration solutions and proposed several $30 Million
+       projects to perform necessary system upgrades identified through analysis which included:
+           o   Power flow analysis, motor start and voltage droop mitigation analysis, short circuit ANSI
+               studies, reactive device and voltage support, PV and QV analysis, N-1-1, long-term
+               autotransformer replacement outages.
+   •   Worked with internal Asset Management team to develop standards of project priority ranking
+       based on the DCA per MW for the entire Transmission Planning project portfolio.
+   •   Presented large transmission level projects at public meetings to advocate for the company’s
+       project need.
+   •   Developed with executives and management, the annual 5-year forecasted budget for
+       Transmission Planning sponsored projects totaling over $300 Million. Provided critical evidence
+       for transmission projects’ needs depending on NERC TPL criteria and internal criteria.
+   •   Presented large project updates with executives in quarterly meetings, showcasing presentation
+       capabilities across all levels of the organization.
+
+Po w er S y st em Mo d el i n g
+   •   Developed a Python automation tool to expediate the FIS process. Integrated Excel input and
+       created automated plot reporting tools that utilize parallel multiprocessing, increasing the
+       workflow for the Special Studies group.
+   •   Performed model validation analysis to check existing generators’ new models with MOD-025,
+       MOD-026, and MOD-027 standards.
+
+
+DAYMARKEA.COM
+
+                                                                        Résumé of Katherine Palacios, P.E.
+                                                                                              Page 3 of 3
+
+
+   •   Performed steady state analysis for projects converting older 69kV lines to 138kV. Developed PSSE
+       and system modeling skills with the help of excellent mentors. Developed tools in Python and
+       PSSE to automate breaker-level load rollover into the bus-branch PSSE model.
+
+EMPLOYMENT HISTORY
+   Daymark Energy Advisors, Inc.                                                         Worcester, MA
+    Managing Consultant                                                                  2023 – Present
+    Senior Consultant                                                                      2021 – 2023
+   Centerpoint Energy                                                                       Houston, TX
+     Staff Engineer – Special Studies                                                       2018 – 2021
+     Staff Engineer – Transmission Planning                                                 2014 – 2018
+     Engineer – Transmission Planning System Modeling                                       2010 - 2014
+     Associate Engineer – Transmission Planning                                             2009 - 2010
+
+EDUCATION
+   Texas A&M                                                                         College Station, TX
+     B.S., Electrical Engineering                                                                  2009
+
+Continuing Education
+   •   Advanced PSSE Training, Advanced Dynamics PSSE Training, PSSE Version 34 Training
+   •   Siemens Digital Grid Summit 2019 Courses, Siemens PTI MOD Training, Siemens PTI NMMS
+       Training
+   •   Integrating Python and PSSE Training
+   •   ERCOT Dynamics Working Group, ERCOT Steady State Working Group
+
+LICENSES
+Texas Certified Professional Engineer License#118980 (current)
+
+
+DAYMARKEA.COM

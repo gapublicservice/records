@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 102670,
+      "bytes": 265630,
+      "name": "STF-JKA-2.DR-56002 & 56003.PD.docx",
+      "text": "docx",
+      "text_file": "data/text/221/221524/102670.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221524/102670"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-JKA-2)",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 221524,
+  "filed_date": "2025-02-19",
+  "harvested": "2026-11-20",
+  "received_date": "2025-02-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=221524"
+}

@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 98043,
+      "bytes": 224031,
+      "name": "DN55378 2023 IRP Update Fee Order Final.docx",
+      "text": "docx",
+      "text_file": "data/text/216/216815/98043.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216815/98043"
+    },
+    {
+      "attachment_id": 98044,
+      "bytes": 989416,
+      "name": "216815.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216815/98044"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ESTABLISHING FEE",
+  "dockets": [
+    55378
+  ],
+  "document_id": 216815,
+  "filed_date": "2023-12-19",
+  "harvested": "2026-11-19",
+  "received_date": "2023-12-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=216815"
+}

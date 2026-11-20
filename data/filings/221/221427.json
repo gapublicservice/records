@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 102544,
+      "bytes": 566937,
+      "name": "fermata_energy_application_georgia_puc_docket_56002_final_v2.pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/221/221427/102544.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221427/102544"
+    }
+  ],
+  "company": "Fermata Energy",
+  "description": "Application for Leave to Intervene",
+  "dockets": [
+    56002
+  ],
+  "document_id": 221427,
+  "filed_date": "2025-02-13",
+  "harvested": "2026-11-20",
+  "received_date": "2025-02-13",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=221427"
+}

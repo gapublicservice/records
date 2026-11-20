@@ -1,0 +1,404 @@
+===== DKT 55378 STF-JKA-5 PD/DRSUM 55378 STF-JKA-5 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    January 11, 2024
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-JKA-5
+1
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+2
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+3
+COMPLETE
+NONE
+55378
+STF-JKA-5
+4
+COMPLETE
+NONE
+55378
+STF-JKA-5
+5
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+6
+COMPLETE
+NONE
+55378
+STF-JKA-5
+7
+COMPLETE
+NONE
+55378
+STF-JKA-5
+8
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+9
+COMPLETE
+NONE
+55378
+STF-JKA-5
+10
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+11
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-5
+12
+COMPLETE
+TRADE SECRET
+
+
+===== DKT 55378 STF-JKA-5 PD/PD STF-JKA-5-10.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-5-10
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-10 (“Response”). In the Response, the Company has provided confidential details of resource projects proposed in the 2023 IRP Update (the “Information”). All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to resources proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. Lastly, the Company’s competitors are not required to reveal or publish similar information and to require the Company to do so would place it at an economic disadvantage.  
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+
+STF-JKA-5-10
+
+Question:
+Regarding real-time operations BESS charging and discharging: 
+Does the Company have the logic completed to compute optimal dispatch for BESS projects.  What is the timeline for developing this logic? Please explain. 
+Please discuss the various use cases the Company believes the BESS projects are capable of providing (e.g. economic arbitrage, grid services, load following, frequency control, etc.) 
+Please explain the expected “State Of Charge” management practices the Company expects to utilize for the BESS projects and how they will determine the optimal usage case for the BESS. 
+Please discuss the constraints of the various use cases with respect to “State of Charge” management. 
+Please explain how the Company’s Aurora model for generic BESS resources in the Resource Mix Study aligns with the various use cases.  Please explain the Company’s utilization of a demand shaping model in Aurora.     
+Please explain how the Company’s Aurora modeling for Moody, Robins, and REDACTED in the economic analysis aligns with the various use cases.  Please explain if the modeling assumes an economic arbitrage model dispatched against avoided cost, and if these resources would be operate in a demand shaping model in actual operations.
+
+ 
+Response:
+Yes. The Automated Generation Control (“AGC”) algorithm has been configured and is ready for operational testing. This algorithm uses data from the unit commitment and real-time processes to provide an optimal operational schedule for the Battery Energy Storage System (“BESS”) facility.
+Generic BESS resources may be able to provide multiple use cases subject to the availability of transmission and general system conditions. The proposed BESS facilities can provide energy arbitrage benefits and capacity value benefits. During real time operations, the BESS may also be able to provide operating reserve benefits and similar benefits during periods when the adjacent solar resources are not utilizing the interconnection capacity. The Company’s economic analysis for BESS resources conservatively assumed only energy arbitrage and capacity value benefits. During real-time operations, system operators will evaluate system conditions and make the best decision on BESS operation based on system needs that occur during real-time or near real-time periods. 
+Georgia Power does not expect that there will be a vendor specific state of charge (“SOC”) requirement for degradation warranty purposes, but one of the most important ways to ensure battery longevity is to maintain a SOC < 80% (recommendations by vendor can vary slightly). AGC operation can maintain an average SOC within any desired range. This metric can be tracked and, if necessary, manual adjustments can be made to the operational schedule. Additionally, if desired, the AGC algorithm can be placed in regulation mode whereby the SOC is maintained within a certain range and the BESS provides regulation services only. Regarding optimal use case determination, when on AGC, the BESS will automatically deviate from the day-ahead operational schedule in real-time for reliability or system needs based on economic evaluations.  When peak load hits a high threshold, the BESS will be held back and prioritized for system reliability concerns. In that case, the BESS will be maintained near full SOC until the reliability event is over.
+If manual adjustments are made to the operational schedule for the sole purpose of SOC management or if the AGC system is placed in a mode where only regulation is utilized, there is the potential that some use cases may not be utilized for a period of time to ensure the desired SOC range is maintained. For example, the BESS may be temporarily limited in the ability for energy arbitrage if it is not desirable to have the BESS at low or high states of charge. However, at this time, it is not expected that this will be a routine occurrence.  
+Generic BESS resources, as modeled in the Resource Mix Study, dispatch to mainly provide capacity value benefits. The Aurora model dispatches BESS to minimize the variance of the demand net storage and reduce overall volatility of the demand shape. Additionally, the generic BESS resource is modeled as a quick start resource to provide operating reserve benefits and frequency regulation benefits.
+Please see the response to part (b). System operators will monitor system conditions and dispatch the battery to minimize costs and preserve system reliability during real time operations. 
+
+===== DKT 55378 STF-JKA-5 PD/PD STF-JKA-5-11.docx =====
+STF-JKA-5-11
+
+Question:
+It appears that the Company’s RFI responses included REDACTED REDACTED REDACTED. Table 2-3-2 of the RFI report appears to REDACTED REDACTED REDACTED REDACTED. Did the Company approach any of these possible counterparties for contract and/or acquisition?  Please explain.  If not, why not.
+
+
+Response:
+No, the Company did not approach any of these possible counterparties. In addition, please see the Company’s response to JKA-4-10(e). 
+
+
+===== DKT 55378 STF-JKA-5 PD/PD STF-JKA-5-12.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-5-12
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-12 (“Response”). In the Response, the Company has provided data supporting the economic analysis of projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current or future negotiations, as counterparties may use the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information.  
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+
+STF-JKA-5-12
+
+Question:
+Regarding the Company’s Aurora modeling for Moody, Robins, and REDACTED BESS projects which are all expected to be co-located with solar. For each project, please explain the following: 
+Please provide the interconnection MW limit at these locations and confirm that they are sized for the solar projects. Please explain what operational impacts the Company expects when adding BESS to these locations.
+Please explain what generation limitations are modeled in Aurora to reflect the interconnection constraints at these locations. 
+Please confirm that the Company’s combined modeling and output of these resources never generate beyond the interconnection limit.  Please explain how the Company is ensuring this constraint is met. 
+Please confirm that the Company’s modeling of an assigned “charging resource” in the Aurora set up sufficiently captures the impacts of the co-located solar.  Does this setting preclude the use of grid charging?  Please explain. 
+Please confirm that the Company utilized a “price” shaping method for the BESS projects in the Economic evaluation, but utilizes a “demand” shaping method for new BESS when performing Aurora production cost studies for the system.  Please explain what impact these shaping methods have on the assumed dispatch of the BESS projects.  
+
+Response:
+The interconnection MW limits for the BESS locations are as follows. The limits are sized for the solar projects. Please see TS Technical Appendix Robins and Moody BESS as well as TS Technical Appendix BESS Co-located Solar for more information on operational and interconnection impacts. Please also see STF-JKA-5-10 for operational impacts.
+Moody BESS – 49.5 MW
+Robins BESS – 128 MW
+REDACTED Solar/BESS – 200 MW
+The interconnection MW limits referenced in part (a) were modeled in Aurora. In the storage table the “Charging Resource Generation Limit” variable establishes an upper limit on the total hourly generation from the storage and charging resource. 
+The Company did confirm that the output of these resources did not exceed the interconnection limit in any hour of the Aurora simulations. The “Charging Resource Generation Limit” variable referenced in part (b) ensures the interconnection constraint is met in Aurora simulations.
+The “charging resource” in the Aurora set up specifies that the BESS resource can only be charged by the co-located solar. For the economic analysis, the Company did not assume that the BESS projects could be charged from the grid. 
+The Company utilized the price shaping method for BESS dispatch in the economic evaluation and utilized a demand shaping method for BESS dispatch in the Resource Mix Study. The Company’s economic analysis for BESS resources conservatively assumed only energy arbitrage and capacity value benefits. This enables BESS to dispatch against avoided costs and maximize the energy arbitrage value of the storage resources. In the Resource Mix Study, BESS utilizes the demand shaping method for BESS dispatch to ensure that BESS is used optimally to minimize the variance of the demand net storage and reduce overall volatility of the demand shape, thereby providing capacity, operating reserves, and energy arbitrage value when available. 
+
+===== DKT 55378 STF-JKA-5 PD/PD STF-JKA-5-5.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-5-5
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-5 (“Response”). In the Response, the Company has provided specific competitive trade secret pricing. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains non-public trade secret pricing for a Company-owned battery storage project. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. Lastly, the Company’s competitors are not required to reveal or publish similar information and to require the Company to do so would put it at an economic disadvantage.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-5-5
+
+Question:
+Refer to the Company’s resource mix Aurora analysis; specifically, Unit “Battery Storage-GPC-O3_MOSSY_BRANCH_DEMO”
+Please confirm the latest estimate is that this resource will be online by January 2027.  
+Please confirm the expected firm capacity of 61.75 MW, equivalent to what would be used in the winter load and resource table.
+Please provide the nameplate capacity for this unit.
+Please explain if any degradation is assumed in the economic evaluation or the Aurora modeling.
+Please explain what the Company’s expected build cost is.  Please provide on both a $, and $/kW basis.
+Please provide a narrative explanation as to the status of the build or procurement of this resource.
+Please explain if this Aurora resource is modeled in the Company’s load and resource balance.  Why or why not?
+Response:
+The latest estimate is that this resource will be online by June 2024. However, the Company does not include Mossy Branch as expected firm capacity until the conclusion of testing, which is estimated to be January 2027. 
+Yes, the winter load and resource table showed 61.75 MW for the resource, as labeled Mossy Branch.
+The nameplate capacity for this resource is expected to be 65 MW.
+There is no degradation assumed in the Aurora modeling.
+The expected build cost is estimated at approximately REDACTED, which is as filed, and that is REDACTED for this four-hour battery system.
+The Mossy Branch project is 70% completed with all battery containers, transformers and inverters installed. The project level substation is 100% constructed and energized. A commissioning kick off meeting is scheduled for early January 2024 and the project is expected to achieve COD in June 2024.
+Yes, the winter load and resource balance includes the 61.75 MW resource, as labeled “Mossy Branch.” This is included in the balance to reflect a placeholder for the Mossy Branch storage project that is part of the storage demonstration projects approved in the 2019 Georgia Power Integrated Resource Plan.
+
+
+===== DKT 55378 STF-JKA-5 PD/PD STF-JKA-5-8.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-5-8
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-8 (“Response”).  In the Response, the Company has provided data supporting the economic analysis of projects proposed in the 2023 IRP Update (the “Information”).  All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use.  Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. Lastly, the Company’s competitors are not required to reveal or publish similar information and to require the Company to do so would place it at an economic disadvantage.
+
+The Information is subject to substantial procedures to maintain its secrecy.  Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis.  Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-5-8
+
+Question:
+Regarding Fixed and Variable O&M Costs for proposed BESS resources.
+Please explain what the VOM costs for BESS resources in the mix studies includes.
+Please explain what VOM costs are assumed for the BESS resources in the economic analysis for REDACTED REDACTED.
+Please reconcile parts a and b to explain if VOM assumptions are consistent between generic BESS in the mix study and VOM modeling for the economic analysis of REDACTED REDACTED REDACTED.
+Please explain what the Fixed O&M costs for BESS resources in the mix studies includes.
+Please explain what Fixed O&M costs are assumed for the BESS resources in the economic analysis for REDACTED REDACTED.
+Please reconcile parts d and e to explain if Fixed O&M assumptions are consistent between generic BESS in the mix study and Fixed O&M modeling for the economic analysis of REDACTED REDACTED.
+
+Response:
+The Variable Operations and Maintenance (“VOM”) costs represent the difference in augmentation costs needed to maintain beginning of life capacity between a system with only calendar year degradation (the passive degradation incurred in the battery cells over time) and the additional degradation incurred by a 365 cycle per year operation schedule.
+No VOM costs were assumed for the BESS resources in the economic analysis for Moody, Robins, or REDACTED. Rather, augmentation costs were modeled as maintenance capital costs in the economic analysis.
+Both the economic analysis and the Resource Mix Study take BESS augmentation into account to maintain the capacity of the BESS through the end of the resource life.  The Resource Mix Study, or generic BESS, accounts for augmentation as a combination of annual capital maintenance outlays with an additional VOM component to account for BESS usage as mentioned in part (a) above.
+The economic analysis accounts for all augmentation spending as periodic maintenance capital investments in the SAM model. The augmentation outlays for the economic analysis align with project specific expectations that can cause them to differ from the generic resources.
+Fixed O&M costs in the mix studies include remote troubleshooting expense, degradation guarantees, 24/7 monitoring, insurance premiums, and labor required to manage the BESS system.
+Fixed O&M costs in the economic analysis for the BESS resources mentioned include monitoring expenses, insurance, labor required to manage the BESS system, and service costs associated with maintaining the project substation and other power delivery equipment.   
+The categorization of Fixed O&M costs assumed for the BESS resources in the various analysis are largely consistent. Differences in estimates for the specific resources mentioned and generic resources are primarily due to cost estimates being updated specifically for the proposed resources.  
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5 Verification and Attestation.pdf =====
+
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-1/PD STF-JKA-5-1 Attachment.docx =====
+
+
+This file has been redacted in its entirety.
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-1/STF-JKA-5-1.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-5-1 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-1 (“Response”). In the Response, the Company has provided data supporting the resource costs and confidential financial information (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive details plant operating costs and detailed financial data. Specifically, the Information contains material that if revealed to the public, original equipment manufacturers and other vendors could use the Information to tailor proposals according to the Company’s expected costs to the detriment of customers. Georgia Power's ability to negotiate the optimum price and contract terms and conditions would be undermined if competitors and suppliers had access to the Information. Also, a generation wholesaler, power marketer, or other competitor could use this Information to tailor proposals with the intention of pricing products that could undermine the Company’s market position. Furthermore, the Company’s competitors are not required to disclose similar information. Finally, portions of the Information belong to a third party and is in the Company’s possession under a license agreement with the provider. Publicly disclosing such information would violate the license. 
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+
+STF-JKA-5-1
+
+Question:
+Refer to the Company’s responses to JKA 2-8 and 2-30 and regarding the possible extension of the Gaston Units 1-4, and Gaston A.
+Please provide the Company’s projected annual recurring capital costs and associated revenue requirements in the case of an extension of each unit through the end of the study period.
+Please provide the Company’s projected annual maintenance capital costs and associated revenue requirements in the case of an extension of each unit through the end of the study period.
+Please provide the Company’s projected annual Fixed O&M revenue requirement in the case of an extension of each unit through the end of the study period.
+Please provide any other annual forward, unavoidable costs/investments and revenue requirement derivation associated with the possible extension of the Gaston Units through the end of the study period.
+Response:
+The Company has not made a final decision on a recommendation for possible extension of Plant Gaston Units 1-4 or Gaston A. The Company plans to address the retirement decisions for these units in the 2025 Integrated Resource Plan (“IRP”). However, the Company did compile this information on a preliminary indicative basis for Plant Gaston Units 1-4. 
+Please see TS STF-JKA-5-1 Attachment.
+Please see TS STF-JKA-5-1 Attachment.
+Please see TS STF-JKA-5-1 Attachment.
+Asset retirement obligations (“ARO”), net book value, and similar costs are considered unavoidable in a retirement scenario. The costs included in TS STF-JKA-5-1 Attachment are all considered avoidable in retirement. 
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-2/PD STF-JKA-5-2 Attachment.docx =====
+
+
+This file has been redacted in its entirety.
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-2/PD STF-JKA-5-2.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-5-2 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-5-2 (“Response”). In the Response, the Company has provided data supporting the economic analysis of the projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired, or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current and future negotiations, as counterparties may use the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information. 
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+STF-JKA-5-2
+
+Question:
+Refer to the Company’s responses to JKA 2-8 and 2-30 and regarding the possible extension of the GPC share of the Scherer 3 unit.
+Please provide the Company’s projected annal recurring capital costs and associated revenue requirements in the case of an extension through the end of the study period.
+Please provide the Company’s projected annual maintenance capital costs and associated revenue requirements in the case of an extension through the end of the study period.
+Please provide the Company’s projected annual Fixed O&M revenue requirement in the case of an extension through the end of the study period.
+Please provide any other annual forward, unavoidable costs/investments and revenue requirement derivation associated with the possible extension of the Scherer 3 Unit through the end of the study period.
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.
+
+Response:
+The Company has not made a final decision on a recommendation for possible extension of Plant Scherer Unit 3. The Company plans to address the retirement decision in the 2025 Integrated Resource Plan (“IRP”). Therefore, the Company did not explicitly produce this information for the Company’s ownership share of Plant Scherer Unit 3. However, the information requested is expected to be largely consistent with a previously provided workpaper. The Company updated that workpaper to approximate the requested values. Please see TS STF-JKA-5-2 Attachment for an approximation of the requested values. 
+
+Please see TS STF-JKA-5-2 Attachment.
+Please see TS STF-JKA-5-2 Attachment.
+Please see TS STF-JKA-5-2 Attachment. 
+Please see TS STF-JKA-5-2 Attachment. Common costs are not considered avoidable unless Plant Scherer Units 1-4 retire. This includes effluent limitation guidelines (“ELG”) and landfill costs. Fixed Operations and Maintenance (“FOM”) is not readily available on a common and unit specific basis in the workpaper. Therefore, total FOM is represented as a conservative assumption. Additionally, asset retirement obligations (“ARO”), net book value, and similar costs are considered unavoidable in a retirement scenario. 
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. 
+
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-3.docx =====
+STF-JKA-5-3
+
+Question:
+Refer to the Company’s resource mix Aurora analysis; specifically, Unit “Battery Storage-GPC-O3_2022_IRP_ESS.”  
+Please confirm the Company has an actual plan to have this resource online in January 2029.
+Please confirm the expected winter firm capacity of 475 MW, equivalent to what would be used in the winter load and resource table.
+Please provide the nameplate capacity for this unit.
+Please explain if any degradation is assumed in the economic evaluation or the Aurora modeling.
+Please explain what the Company’s expected build cost is.  Please provide on both a $, and $/kW basis.
+Please provide a narrative explanation as to the status of the build or procurement of this resource.
+Please explain if this Aurora resource is modeled in the Company’s load and resource balance.  Why or why not?
+
+Response:
+The Company plans to issue the Energy Storage System (“ESS”) Request for Proposals (“RFP”) in 2024 and certify the selected resources in early 2026. Georgia Power expects that the full 500 MW will be online by the end of 2028.
+Yes, the winter load and resource table showed 475 MW for the resource, as labeled “2022 IRP ESS RFP.”
+This is not a specific unit. It is a placeholder for the 500 MW ESS RFP approved in Georgia Power’s 2022 Integrated Resource Plan (“IRP”). The specific resources will be modeled once the RFP is completed and resources are approved by the Commission.
+There is no degradation assumed in the Aurora modeling. This unit reflects a placeholder for the 500 MW ESS RFP.
+Please see the response for part (c).
+Please see the response for part (c).
+The 500 MW ESS RFP resource is modeled in the “Purchased Generating Capacity (MW)” category and is labeled “2022 IRP ESS RFP” in all “B2023…” and “2023 IRP Update…” worksheets within the “Figures 4, 5, 6, & 9 – Capacity Needs Data for B22, B23, and 2023 IRP Update” workpaper provided to Commission Staff on October 27, 2023. However, as indicated in Note (C) on each of these worksheets, the total capacity does not include the 500 MW ESS RFP in order to show total procurement and development capacity needs in those tables.
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-4.docx =====
+STF-JKA-5-4
+
+Question:
+Refer to the Company’s resource mix Aurora analysis; specifically, Unit “Battery Storage-GPC-O3_2022_IRP_MCGRAU_FORD”
+Please confirm the latest estimate is that this resource will be online by January 2027.
+Please confirm the expected winter firm capacity of 251.75 MW, equivalent to what would be used in the winter load and resource table.
+Please provide the nameplate capacity for this unit.
+Please explain if any degradation is assumed in the economic evaluation or the Aurora modeling.
+Please explain what the Company’s expected build cost is.  Please provide on both a $, and $/kW basis.
+Please provide a narrative explanation as to the status of the build or procurement of this resource.
+Please explain if this Aurora resource is modeled in the Company’s load and resource balance.  Why or why not?
+
+Response:
+Yes, the latest estimate is that this resource will be online by January 2027.
+Yes, the winter load and resource table showed 251.75 MW for the resource, as labeled “2022 IRP McGrau Ford 2 HR Battery.”
+The nameplate capacity for this resource is expected to be 265 MW.
+There is no degradation assumed in the Aurora modeling. 
+An initial cost estimate for the McGrau Ford Battery Facility was provided in the 2022 Integrated Resource Plan (“IRP”). Following completion of Georgia Power’s Request for Proposals (“RFP”) evaluations and final bidder selection, the Company will bring the McGrau Ford Battery Energy Storage System (“BESS”) Supply and EPC Agreements to the Commission for approval and a deemed certified amount for the project will be determined in accordance with the 2022 IRP Order.
+The design and vendor selection for the Main Power Transformers (“MPT”) is complete, and it is anticipated that the transformer will be able to arrive to site in time for site construction and operation of the BESS. The Company issued RFPs for battery supply and EPC in November of 2023. The Company is reviewing the responses to the battery supply RFP and is awaiting responses from the EPC RFP. By the end of 2024, following completion of RFP evaluations and final bidder selection, the Company will bring the McGrau Ford BESS Supply and EPC Agreements to the Commission for approval and a deemed certified amount for the project will be determined in accordance with the 2022 IRP Order. 
+Yes, the winter load and resource balance includes the 251.75 MW resource, as labeled “2022 IRP McGrau Ford 2 HR Battery.” This is included in the balance to reflect a placeholder for the McGrau Ford Battery Facility that was approved in the 2022 IRP.
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-6.docx =====
+STF-JKA-5-6
+
+Question:
+Refer to the Company’s resource mix Aurora analysis.  Please provide a narrative explanation as to the latest status of the construction or procurement of the following resources and include a description of the nameplate and firm capacity assumptions:
+Solar-GPC-O1_2022_IRP_US_RFP_1, online 2027
+Solar-GPC-O1_2022_IRP_US_RFP_2, online 2028
+Solar-GPC-O1_2022_IRP_SOLAR_D, online 2031
+Solar-GPC-O1_2022_IRP_SOLAR_E, online 2032
+Solar-GPC-O1_2022_IRP_SOLAR_F, online 2033
+Solar-GPC-O1_2022_IRP_SOLAR_G, online 2034
+Solar-GPC-O1_2022_IRP_SOLAR_H, online 2035
+
+Response:
+The Company issued the CARES US 1 RFP, associated with the Solar- GPC-O1_2022_IRP_US_RFP_1 site listed in part a, on December 22, 2023 with the expectation that once the sites are certified, they would achieve COD in the 2026 – 2028 timeframe. 
+The Company plans to issue the CARES US 2 RFP, associated with the Solar-GPC-O1_2022_IRP_US_RFP_2 in late 2024 or early 2025 with the expectation that once the sites are certified, they would achieve COD in the 2027-2029 timeframe. As part of both CARES US 1 and 2 RFPs, the Company is seeking 3,350 MW of solar (2,100 MW from the 2022 IRP and 1,250 MW rollover from previous RFPs), representing 167.5 MW of firm winter capacity and 1,507.5 MW of firm summer capacity.
+– g. For the solar sites listed in parts (c) through (g), the Company includes the remaining balance (3,700 MW modeled as 2022 IRP Solar D-H in Aurora) of the 6,000 MW of new renewable resources from the 2022 IRP.  This 3,700 MW of new renewables may change in the future as the Company will continue to propose to add renewable resources through its steady and regular procurements and will evaluate and update the long-term procurement strategy for the economically optimal amount of renewable resource additions in future IRPs, including the 2025 IRP. 
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-7/STF-JKA-5-7.docx =====
+STF-JKA-5-7
+
+Question:
+Please provide an excel spreadsheet mapping between the GPC resources provided in the load and resource balance spreadsheet and the GPC resources modeled in Aurora.  For any GPC specific resources modeled in Aurora that are not modeled in the GPC load and resource balance spreadsheet, please explain why they are not included.
+
+
+Response:
+The mapping information can be found in the attached spreadsheet, labeled STF-JKA-5-7 Attachment. Some Georgia Power-specific resources modeled in Aurora do not appear in the Georgia Power load and resource balance spreadsheet. These facilities have been labeled accordingly. The primary reason for this exclusion is due to the fact that these Qualifying Facilities (“QFs”) contribute solely to energy production and do not influence the overall resource balance. Consequently, they are not represented within the balance spreadsheet.
+
+===== DKT 55378 STF-JKA-5 PD/STF-JKA-5-9.docx =====
+STF-JKA-5-9
+
+Question:
+Regarding Automatic Generation Control (“AGC”) for BESS.   
+Does the Company expect all new BESS projects to be controlled by AGC. 
+If the answer to part a is yes, would that be expected at COD or another time. Please explain.  
+ 
+Response:
+Yes, the plan is for all transmission connected Battery Energy Storage System (“BESS”) projects to be controlled by AGC.
+After the BESS facilities achieve commercial operation, the facilities will be operated on AGC.

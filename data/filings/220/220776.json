@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 101963,
+      "bytes": 213461,
+      "name": "44280.Rate Update 2025 Compliance Order.docx",
+      "text": "docx",
+      "text_file": "data/text/220/220776/101963.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220776/101963"
+    },
+    {
+      "attachment_id": 101982,
+      "bytes": 1064041,
+      "name": "220776.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220776/101982"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER APPROVING UPDATED TARIFFS IN THE 2022 RATE CASE",
+  "dockets": [
+    44280
+  ],
+  "document_id": 220776,
+  "filed_date": "2024-12-20",
+  "harvested": "2026-11-20",
+  "received_date": "2024-12-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=220776"
+}

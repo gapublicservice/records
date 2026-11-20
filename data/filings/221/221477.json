@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 102590,
+      "bytes": 277948,
+      "name": "STF-DEA-1.DR-56002 & 56003.docx",
+      "text": "docx",
+      "text_file": "data/text/221/221477/102590.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221477/102590"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-DEA-1)",
+  "dockets": [
+    56002,
+    56003
+  ],
+  "document_id": 221477,
+  "filed_date": "2025-02-14",
+  "harvested": "2026-11-20",
+  "received_date": "2025-02-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=221477"
+}

@@ -1,0 +1,28 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 100953,
+      "name": "dkt_43083_stf-ccr-10_pd.zip",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/219799/100953"
+    },
+    {
+      "attachment_id": 100961,
+      "name": "STF CCR-10 TS Assertion.pdf",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/219799/100961"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-CCR-10 Data Request Responses",
+  "dockets": [
+    43083
+  ],
+  "document_id": 219799,
+  "filed_date": "2024-08-30",
+  "harvested": "2026-11-20",
+  "received_date": "2024-08-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=219799"
+}

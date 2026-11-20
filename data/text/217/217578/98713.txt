@@ -1,0 +1,484 @@
+BEFORE THE
+
+GEORGIA PUBLIC SERVICE COMMISSION
+
+
+In the Matter of:
+
+GEORGIA POWER COMPANY’S)DOCKET NO. 55378
+2023 INTEGRATED RESOURCE PLAN)
+UPDATE)
+
+
+DIRECT TESTIMONY AND EXHIBITS
+
+OF
+
+DOUGLAS A. SMITH AND KATHERINE PALACIOS
+
+
+ON BEHALF OF THE 
+
+GEORGIA PUBLIC SERVICE COMMISSION
+PUBLIC INTEREST ADVOCACY STAFF
+
+FEBRUARY 15, 2024
+PUBLIC DISCLOSURE
+
+
+TABLE OF CONTENTS
+
+I.INTRODUCTION1
+II.OVERVIEW OF COMPANY FILING5
+III.DISCUSSION OF THE TRANSMISSION SCREENING ANALYSIS AND RESULTS10
+IV.DISCUSSION OF UPDATED TRANSMISSION ANALYSIS AND RESULTS15
+V.DISCUSSION OF TRANSMISSION ANALYSIS AND TRANSMISSION UPGRADES FOR PLANT YATES17
+VI.THE INCLUSION OF THE ASSUMED EXTENSION UNITS DESIGNATED FOR RETIREMENT IN THE 2022 IRP BIASES THE RESULTS OF THESE ANALYSES19
+VII.THE TIMING AND MAGNITUDE OF THE NEED FOR PROJECT 7 SUGGESTS THE REQUESTED EXPENSE TO ADVANCE THE PROJECT ONE YEAR BE DENIED21
+VIII.THE TIMING AND MAGNITUDE OF THE NEED FOR PROJECT 8 SUGGESTS THE REQUESTED EXPENSE BE REJECTED PENDING A MORE COMPLETE ANALYSIS IN THE NEXT IRP23
+IX.DISCUSSION OF DAYMARK’S ANALYSIS ON TRANSMISSION UPGRADES FOR PLANT YATES24
+X.OTHER OBSERVATIONS REGARDING THE SCOPE AND SCALE OF THE TRANSMISSION ANALYSIS PERFORMED27
+XI.CONCLUSIONS AND RECOMMENDATIONS33
+
+Staff Exhibit #Description
+Exhibit_SP-1Resume for Douglas A. Smith
+Exhibit_SP-2Resume for Katherine Palacios
+Exhibit_SP-3[TS] 2023 GPC IRP Update - Transmission Planning - Analysis Overview
+Exhibit_SP-4PSC Informal Transmission Request – GPC Responses
+
+INTRODUCTION
+Q.PLEASE STATE YOUR NAMES, TITLES, AND BUSINESS ADDRESS.
+A.This testimony is being jointly offered by Douglas A. Smith and Katherine Palacios, both from Daymark Energy Advisors, Inc. (Daymark). Mr. Smith is a Principal Consultant and Ms. Palacios is a Managing Consultant and registered professional engineer in the state of Texas. Our business address is 370 Main Street, Suite 325, Worcester, Massachusetts 01608.
+Q.Please summarize daymark’s business.
+A.Daymark provides energy planning, market analysis, and regulatory policy consulting and advisory services to support decision making within the electricity and natural gas industries. We serve a broad range of clients in North America, including private and public utilities, energy producers and traders, energy consumers and consumer advocates, regulatory agencies, and public policy and energy research organizations, and other industry stakeholders. Our technical skills include power market forecasting models and methods, economics, management, planning, rates and pricing, and energy procurement, and contracting. Our experience includes detailed analyses of energy and environmental performance of the electric systems, economic planning for transmission, and market analytics.
+Q.Mr. Smith, please summarize your experience and qualifications.
+A.I have over twenty years of experience in the energy industry, primarily supporting clients advance or review infrastructure projects. I have advised clients regarding competitive transmission project development, including determination of need, solution building and outreach to stakeholders. I have led evaluations of proposed transmission projects, including assessment of regional benefits, in SPP, PJM, NYISO, ISO-NE and in the province of Manitoba. I have also evaluated non-wires alternatives in Vermont and Maine. Additional detail on my experience and qualifications is provided in my resume, attached hereto as Exhibit_SP-1. 
+Q.Have you previously testified before this commission?
+A.I have not previously testified before this Commission. I have previously appeared as an expert witness before regulatory commissions in Arkansas, Louisiana, Maryland, Maine, Rhode Island, and the province of Manitoba. A full list of my appearances is included in Exhibit_SP-1.
+Q.Ms. Palacios, please summarize your experience and qualifications.
+A.I am a professional Electrical Engineer with a license in Texas. I have over 14 years of experience working in the energy industry, 12 of which, I was working in various roles in the Transmission Planning department for a major utility in Texas where I would perform various transmission analysis, set the planned 5-year budget, and develop supporting documentation to advance projects through rate case filing. Throughout my career, I have performed dozens of load and generator interconnection studies, conducting and leading both steady-state and stability analysis to assess the impact of the proposed changes and develop robust and cost-effective solutions if any issues were observed.  My experience includes performing analysis and evaluating projects in ERCOT, ISO-NE, PJM, NYISO, MISO, and SPP. Additional detail on my experience and qualifications is provided in my resume, attached hereto as Exhibit_SP-2.
+Q.Have you previously testified before this commission?
+A.No, I have not.
+Q.WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+A.We are testifying on behalf of the Public Interest Advocacy Staff (“Staff”) of the Georgia Public Service Commission (“Commission”). The purpose of our testimony is to respond to certain elements of Georgia Power Company’s (“Company” or “Georgia Power”) 2023 Updated Integrated Resource Plan (“IRP Update”) filing. We address issues pertaining to the Company’s transmission planning processes and the resulting proposed investments.
+We reviewed the Company’s analysis and conclusions related to the transmission system upgrades proposed in the IRP Update. Our scope included a thorough review of the Company’s assumptions, methodology, and conclusions, including a review of the power flow analyses conducted by the Company in support of its filing.
+Q.please summarize your recommendations.
+A.Our recommendations are as follows:
+We recommend that, pending resolution of the need for 3 Plant Yates CTs and the resolution of retirement dates of the units the Company has questioned in its 2023 IRP Update, that the question of advancing transmission solutions in support of the Plant Yates CTs be delayed and restudied in the 2025 IRP.
+Should the question of the need for Plant Yates CTs be resolved in the affirmative in this docket, we separately recommend the following:
+The requested expense to advance Project 7 by one year should be denied. Determination of whether Project 7 remains the optimal solution to any future transmission needs should be considered as part of the Company’s full 2025 IRP.
+Project 8 should be denied and the potential need for this or other similar projects should be reconsidered as part of the 2025 IRP transmission analysis.
+The Company should consider expanding its potential transmission solutions to include non-wires alternatives as well as new substations and/or right of way solutions to ensure a robust test to find the most cost-effective solution. 
+Q.PLEASE EXPLAIN HOW THE REMAINDER OF THE TESTIMONY IS ORGANIZED.
+A.Section II provides an overview of the Company’s filing as it pertains to the transmission investment sought. Section III of the testimony describes the first round of transmission screening analysis and the results of the analysis as filed in the 2023 IRP on December 4, 2023. Section IV of the testimony addresses the second round of transmission planning analysis filed on January 12, 2024, and the updates made to the screening analysis results. Section V of the testimony describes our observations regarding the Company’s transmission analysis and conclusions of the required transmission upgrades for Plant Yates. Section VI discusses our concerns with the assumptions regarding Plants Gaston and Plant Scherer unit 3 with respect to the transmission analyses performed. Section VII discusses our recommendation regarding Project 7 and Section VIII discusses our recommendation regarding Project 8. Section IX discusses our analysis and general observations regarding the analysis of Plant Yates transmission upgrades and the sensitivity of those results to the amount of planned capacity at Plant Yates. Section X discusses other transmission planning observations and Section XI concludes our testimony.
+
+OVERVIEW OF COMPANY FILING
+Q.pLEASE SUMMARIZE THE cOMPANY'S FILING RELATED TO TRANSMISSION INVESTMENTS.
+A.The IRP Update contains a request for approval of transmission infrastructure investments that the Company claims are required in support of the portfolio of new proposed supply resources. Specifically, the IRP states that “[t]he Company requests approval of the transmission investments necessary to accommodate the proposed resources and the Load and Energy Forecast in the 2023 IRP Update.”
+Q.PLEASE CHARACTERIZE THE COMPANY’S FILING WITH RESPECT TO THE TRANSMISSION ANALYSIS PERFORMED.
+A.The Company performed and submitted two rounds of transmission analysis and findings in this updated IRP. The first consisted of “transmission screens for various generation resource options considered by the Company,”  which was as filed with the Company’s IRP Update on October 27, 2023. This first analysis, referred to by the Company as the “Transmission Screening Analysis”, studied the thermal impacts of the transmission grid from the addition of new loads and potential supply options to serve that load.
+The IRP Update included a Transmission Screening Analyses Overview in the Technical Appendix, which provides a summary of the conclusions of the Company’s Transmission Screening Analysis. As noted in this document, at the time of filing the IRP Update, the Company only had preliminary results, and additional studies were underway.
+The additional analysis was filed in part on January 12th and additional material was made available on January 19, 2024. In it, the Company studied higher levels of load to reflect the 2023 updated load forecast.
+Q.How do transmission analyses typically relate to irp analyses?
+A.At the highest level, the objective of an IRP analysis is to forecast future needs for capacity and energy to serve customers and identify an optimized portfolio of infrastructure investments to meet those needs, subject to a variety of physical, economic, and policy constraints. Transmission analyses are an important component of an IRP because changes in load and generation can have a significant impact on the reliable operation of the transmission grid, and the need for transmission investments to serve certain loads or enable certain resource additions can have a significant impact on the economics of resource portfolios. Simply put, the transmission grid can limit the supply options that are available at any given time and chosen supply can have an impact on future transmission needs.
+A typical transmission analysis in this context will evaluate specific load conditions and will use power flow models to evaluate whether the dispatch of the generation resources to meet load will lead to reliability violations on the transmission system. If violations are identified, these analyses typically identify the upgrades needed to resolve the reliability issue and quantify the cost of those upgrades.
+Q.Please summarize the specific conclusions of the Company’s transmission screening analysis and the company’s requests to the commission related to transmission investments?
+A.The initial Transmission Screening Analysis Overview filed with the IRP Update identified transmission projects needed to integrate the full capacity of the three Yates CTs, with an estimated cost of $80 million. No other transmission costs to integrate the requested supply were identified by the Company. In the supplemental analysis filed in January 2024, no new or different transmission needs or solutions were identified by the Company. The Company’s estimated costs of the transmission solution to integrate the three Yates CTs was reduced by roughly $20 million to approximately $60 million. Daymark’s review of these upgrades will be discussed in more detail in the following sections.
+The Company also concluded that certain supply options did not require transmission upgrades. These supply options included a Power Purchase Agreement (“PPA”) with Mississippi Power Company (“MS PPA”), a PPA with the Santa Rosa Energy Center LLC (“Santa Rosa PPA”), as well as up to 600 megawatts (“MW”) of capacity at the Plant Yates site. The Company also concluded that it could incorporate up to 1,000 MW of battery energy storage systems (“BESS”) at various locations without needing transmission upgrades.
+In addition to these conclusions regarding the potential need for transmission upgrades, the Company’s analysis was also used to rule out certain generation projects.  Specifically, the Lindsay Hill PPA was eliminated as an option because the transmission screening determined that required transmission upgrades could not be completed in time to meet the anticipated capacity need.
+Q.HOW DID THE COMPANY CHARACTERIZE THE STATE OF THE FILING BEFORE THE ADDITIONAL ANALYSIS WAS MADE AVAILABLE?
+A.During the November 27th technical conference, the Company also provided some responses to informal requests made by Staff. In those responses, the Company characterized the IRP Update filing as “complete” without the supplemental analysis. Furthermore, the Company stated that “Since the Company needed to move quickly on its filing, the full transmission investment required will be filed subsequently in January as a supplemental filing. Staff has been provided preliminary information to assist with their review of the transmission impacts and the Company will provide the remainder of the information in January.”
+Q.HOW DID DAYMARK CONSIDER THE TWO ANALYSES GIVEN THIS CHARACTERIZATION?
+A.Daymark reviewed both sets of analyses and offers observations and conclusions regarding each. However, we consider the transmission request to be predominantly based on the Transmission Screening Analysis. The loads in that analysis are those the Company has testified to as being the most concerning from a timing perspective. Additionally, the supplemental analysis, while producing different line loadings, did not identify any new transmission needs that had not previously been identified in the Transmission Screening Analysis. 
+
+DISCUSSION OF THE TRANSMISSION SCREENING ANALYSIS AND RESULTS 
+Q.PLEASE DESCRIBE THE DRIVERS FOR THE SCREENING ANALYSIS IN THE 2023 IRP UPDATE.
+A.As presented by the Company, the update to the 2022 IRP was produced to meet the growing electrical demands occurring in Georgia. Largely driven by policy and emerging industries, the expected load forecast has increased significantly – with the Company projecting growth of 6,600 MW by 2030. To meet this increase, Georgia Power stated that it needed to act quickly to procure generation supply and upgrade the transmission grid to ensure the reliable integration of this new load and supply. The 2023 IRP Update describes the Company’s forecast of:
+The magnitude of economic growth occurring in Georgia.
+The changes in the load caused by the forecasted rapid economic growth.
+The capacity needs resulting from the growth and the advancement of this capacity need. 
+Plans to address the state’s rapidly growing energy needs.
+Q.PLEASE DESCRIBE THE SCREENING ANALYSIS PERFORMED BY GEORGIA POWER COMPANY IN THE 2023 IRP UPDATE. 
+A.A set of supply options and transmission upgrades were identified as potentially feasible means to serve the Company’s projected capacity need. The updated loads and supply options served as the basis for the Transmission Screening Analysis. The Company performed transmission screens for various generation resource options under consideration by the Company to support its generation resource needs. This analysis was performed by utilizing PSS/E, an industry standard planning tool, to identify thermal overloads caused by the new loads and assumed supply when tested under a standard set of seasonal base cases with stressed conditions applied. The development of these base cases is a typical step in transmission planning studies such as these, and they are designed to test the impact of changes to the system (new load, new and retired generation, new transmission, etc.) in the conditions that are most likely to result in a reliability violation. The seasonal base cases used by the Company in this analysis were a limited set compared to the complete list that is typically used in the Company’s long-term transmission studies. For this analysis, the base cases modeled were:
+
+Name
+Abbr.
+Load Level
+Solar
+Hydro
+MISO Transfer
+Summer Peak
+S
+Summer Peak
+On
+On
+1000 S  ̶> N
+Off Peak
+O
+Off Peak (70%)
+On
+Motor
+1000 S  ̶> N
+Daylight Shoulder
+D
+Shoulder (93%)
+On
+Motor
+1000 S  ̶> N
+
+Summer Peak – This case represents the highest summer loading conditions for the planning horizon. Hydro units are online.
+Off Peak – This case developed with approximately 70% of the Summer Peak Demand. In this case, hydro generation acts as a synchronous condenser to supply voltage support to the grid – otherwise known as ‘motoring’ however they are not providing a significant supply of MW. 
+Daylight Shoulder – This case represents the hour of the seasonal peak day just before hydro units ramp up. This case utilizes approximately 93% of the Summer Peak load. As in the Off Peak case, the hydro generation is acting as a synchronous condenser.
+
+Q.Which generation options were evaluated in the Screening analysis?
+A.According to the Company, the following supply scenarios were tested:
+
+Scenario
+Description
+Base
+Includes all large loads which have selected Georgia Power (v2 base cases) and prior queued projects.
+A1
+Base scenario with other retail operating company potential unit extensions and the following Georgia Power resource extensions:
+Gaston 1-4, Bowen 1-4, and Scherer 3 available through 2035
+Base scenario with the following potential power purchase agreements (“PPAs”):
+Lindsay Hill (895MW) years 2026-2035
+Santa Rosa (225MW) years 2024-2028
+A2
+Scenario A1 with Lindsay Hill PPA starting on 5/2029 (due to transmission constraints and project timing limitations)
+B
+Scenario A1 with proposed Yates CTs and their respective commercial operation dates:
+2 Units – 11/2026
+1 Unit – 2/2027
+C
+Scenario B with proposed 200MW battery energy storage systems (“BESS”) co
+located with 200MW solar project at XXXXXXX Solar.
+  
+As can be seen in the table above, the later scenarios built upon earlier ones. Scenario C was the final cumulative scenario in the screening analysis and produced the recommended transmission solutions.
+Q.WHAT WERE THE FINAL SET OF SUPPLY OPTIONS STUDIED IN SCENARIO C?
+A.According to the Company’s technical presentation, the new supply studied in Scenario C are as follows:
+Mississippi Power PPA through 2028 
+Santa Rosa PPA through 2028 
+Yates CTs beginning 2026/2027 
+BESS co-located with MW Solar (location is Trade Secret) 
+In addition to the new supply, the following units, originally designated for retirement by 2028 by the 2022 IRP Order have been assumed to be extended in the transmission analyses as follows:
+Gaston Units 1-4 extended until 2035.
+Scherer Unit 3 extended until 2035.
+Q.FOR THOSE UNITS ASSUMED TO HAVE LIFE EXTENSIONs, WERE THEY DISPATCHED IN CASES that IDENTIFIED TRANSMISSION NEEDS?
+A.Yes. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxX
+Q.PLEASE DESCRIBE THE RESULTS OF THE SCREENING ANALYSIS.
+A.The Company’s Screening Analysis focused on the transmission upgrades that were identified as necessary to reliably use the supply options available to serve the Company’s projected incremental load. The analysis determined that Mississippi Power Company PPA can be accommodated along with the PPA for capacity and energy from the Santa Rosa combined cycle facility with no required transmission project upgrades. Additionally, the Company determined that the proposed 200 MW of solar co-located with 200 MW of BESS did not require any transmission projects to accommodate the facility’s full output.   The initial transmission screens to fully deliver the combustion turbines proposed at Plant Yates revealed approximately $80 million in additional transmission upgrades to accommodate the full capacity of the facility. The transmission options considered in developing the proposed solution were limited only to “the use of operating guides, generation redispatch, and transmission line rebuilds/reconductors to alleviate identified constraints." 
+DISCUSSION OF UPDATED TRANSMISSION ANALYSIS AND RESULTS 
+Q.CAN YOU DESCRIBE THE SUPPLEMENTAL ANALYSIS THAT WAS FILED IN JANUARY 2024?
+A.The Supplemental analysis, filed on January 12, 2024, provided more power flow analysis on additional cases to reflect the 2023 IRP Update load forecast. In addition to the case modeling committed loads, the supplemental analysis added roughly XXXXX additional load for a total of nearly XXXXX of load growth. The supplemental filing evaluated the same portfolio of generation resources included in the 2023 IRP update. 
+According to the updated Supplemental Filing as filed on January 12, 2024, the transmission planning analysis was performed for the years 2024 through 2033. The study was performed using 2023 version 2 load flow cases with different seasonal cases: Summer- Peak, Off-Peak and Daylight Shoulder. The load level included in the 2023 version 2 base cases was XXXXXX and the 2023 IRP Update forecasts XXXXXX of load levels including committed and potential customer choice loads.  
+Q.FOR THOSE UNITS ASSUMED TO HAVE LIFE EXTENSIONs, WERE THEY also DISPATCHED IN the january analysis?
+A.Yes, at least some of them were. For example, XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Q.PLEASE DESCRIBE THE RESULTS OF THE JANUARY ANALYSIS.
+A.In the Supplemental Filing the Company reaffirmed its position that the PPAs with Mississippi Power and Santa Rosa Energy Center can be accommodated without any transmission upgrades.  A $19,334,000 reduction from $79,204,000 to $59,870,000 in the transmission upgrades cost attributable to the Yates CTs was noted from Transmission Screening Analysis filed as part of the 2023 IRP update. This change was not the result of any change in solution, but rather a correction in the amount of cost attributable to the Yates CT generation. Some of the Yates Attributable Transmission Projects were previously identified in the Company’s Ten-Year Plan, so the cost of these projects attributable to the Yates CT request is the cost of accelerating the projects that are being proposed by the Company. 
+The analysis also determined that the Yates CTs will be limited to 600 MW of firm output until the required transmission upgrades are in service by the summer of 2028. Additionally, the updated analysis limits the XXXXXX BESS & Solar project to 200 MW output until the summer of 2029 when all prior planned transmission projects are in service. 
+
+DISCUSSION OF TRANSMISSION ANALYSIS AND TRANSMISSION UPGRADES FOR PLANT YATES
+Q.PLEASE LIST THE TRANSMISSION PROJECTS ASSOCIATED WITH BRINGING THE THREE COMBUSTION TURBINES ONLINE AT pLANT YATES.
+A.As provided in response to STF-DEA-4-1, the following projects were identified as being required to support the deliverability of the 1,350 MW of capacity from the Plant Yates turbines:
+Project #
+Project Description
+Planning Grade Estimate
+Lead – Time
+(months)
+Need Date
+P1
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+48
+11/2026
+P2
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+48
+5/2027
+P3
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+24
+5/2027
+P4
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+48
+5/2027
+P5
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+48
+5/2027
+P6
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+42
+5/2027
+P7
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+42
+5/2030
+P8
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX
+36
+5/2032
+
+Total =
+$59,870,000
+
+
+Q.Based on your analysis, do you have any concerns with the Company’s conclusions regarding these projects?
+A.Yes, we do.  Given the system assumptions modeled in the Company’s analysis, we have the following concerns and observations:
+Both analyses assume extensions of certain power plants targeted for retirement by the end of 2028. While the Company is saying that it plans to re-evaluate those retirements in the 2025 IRP, the assumption of an extension for each of those units in this analysis biases the results and assumes a result of the 2025 IRP with respect to those units that is unsupported in the record.
+Project 7, which is a plan to accelerate a previously approved project by one year, is not clearly shown as necessary in the Transmission Screening Analysis.
+Project 8, which is a rebuild of a line near the proposed Yates CTs, is not needed for 8 years and the thermal loadings in the Transmission Screening Analysis do not show a clear need for a decision on this project at this time.
+The remaining projects’ needs are impacted by the assumed need for all three CTs to be constructed at Plant Yates. To the extent that the need for capacity can be mitigated, Projects 2-6 may not be necessary, or at least may not be most cost effective. If it is determined that the need for all three CTs has not been established, then additional analysis would be warranted before moving to approval of the associated transmission projects.
+We will discuss these in more detail in the following sections.
+THE INCLUSION OF THE ASSUMED EXTENSION UNITS DESIGNATED FOR RETIREMENT IN THE 2022 IRP BIASES THE RESULTS OF THESE ANALYSES
+Q.WHY IS THE INCLUSION OF THESE UNITS IN THE ANALYSIS PROBLEMATIC?
+A.As discussed in Sections III and IV above, there are a few units that were ordered to be retired by the end of 2028 that the Company has indicated “the Company will likely evaluate extending the operation of certain units, particularly Plant Scherer Unit 3, beyond 2028. This evaluation will include updated unit retirement studies for these units in the 2025 IRP and may recommend extending their operation. In the 2025 IRP, the Company will make a formal recommendation at that time regarding the retirement or extended operation of the units.” For the purposes of the transmission analyses presented in the 2023 IRP Update, these units were assumed extended until 2035. This produces a disconnect between the capacity currently being assumed as online and available beginning in 2029 for supply purposes as compared to the capacity available for dispatch in determining transmission need. 
+The assumed extension of these units means there is close to 2,000 MW online in the transmission analysis that is currently not in the Company’s long-term resource plan. The ability to run these units changes the dispatch utilized by transmission planners for their base cases and for the testing of new loads and supply. It is impossible to identify how thermal loading would be affected by the exclusion of these units without running all cases with them unavailable starting in 2029. At a minimum this calls into question the transmission needs identified for 2029 and further out.
+ 
+THE TIMING AND MAGNITUDE OF THE NEED FOR PROJECT 7 SUGGESTS THE REQUESTED EXPENSE TO ADVANCE THE PROJECT ONE YEAR BE DENIED
+Q.Please DESCRIBE THE OVERLOADS IDENTIFIED AND SOLUTIONS PROFFERED BY THE COMPANY RELATED TO THE COMPANY’S IDENTIFED PROJECT 7.
+A.The Company’s response to TS STF-DEA-4-1 lists an overload associated with Project 7 as XXXXXXXXXXXXXXXXXXXXXX transmission line, given an outage of the XXXX XXXXXXXXXXXXXXXXXX. This XXXXXXXXXXXXXXXXXXXX transmission line is a section of the XXXXXXXXXXXXXXXXXXXXXX transmission line. With the observed overload of the line section, the Company is recommending that XXXXXXXXX XXXXXXXXXXXXXXX transmission line be reconductored in 2030. This line was already scheduled to be reconductored in 2031 based on the Company’s existing transmission plan, so the incremental cost attributable to the IRP Update proposal is XXXXXX, which is the incremental cost to advance the project by one year. The total project cost is XXXXXX.
+Q.HAS THE COMPANY ESTABLISHED A CLEAR NEED FOR PROJECT 7 AT THIS TIME?
+A.No. The worst-case overload related to the Project 7 solution occurs in a scenario which represents a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXX. However, the thermal loading issue in question does not occur until 2030 and is at XXXX in the Transmission Screening Analysis and only increases to XXXX of its thermal rating in the January update. Furthermore, these overloads are occurring in years where the modeled dispatch is in question pending a resolution of the final status of the units targeted for retirement in the 2022 IRP Order.
+The project itself is simply a one-year advancement of a previously approved project. Under the circumstances, there appears to be insufficient evidence in the record of the need to incur additional costs to advance the project one year. Given that the Company identifies the lead time for Project 7 at 42 months, the Commission should defer consideration of this upgrade until the 2025 IRP proceeding.
+Q.WHAT DO YOU RECOMMEND WITH RESPECT TO PROJECT 7?
+A.We recommend the requested expense to advance the project one year be denied at this time. Determination of whether Project 7 remains the optimal solution to any future transmission needs should be considered as part of the Company’s full 2025 IRP.
+
+THE TIMING AND MAGNITUDE OF THE NEED FOR PROJECT 8 SUGGESTS THE REQUESTED EXPENSE BE REJECTED PENDING A MORE COMPLETE ANALYSIS IN THE NEXT IRP
+Q.Please DESCRIBE THE OVERLOADS IDENTIFIED AND SOLUTIONS PROFFERED BY THE COMPANY RELATED TO THE COMPANY’S IDENTIFED PROJECT 8.
+A.TS STF-DEA-4-1 lists an overload associated with Project 8 as a XXXXXXXXXXXXX XXXXXXX transmission line, given an outage of the XXXXXXXXXXXXXXXXXXX transmission line. This XXXXXXXXXXXXXXXXXXXX transmission line is a section of the XXXXXXXXXXXXXXXXXXXXXXXXX transmission line. With the observed overload of the line section, the Company is recommending that the XXXXXXXXXXX XXXXXXXXXXX transmission line be rebuilt with a XXXXXXX cost. The overloads in question begin in 2032 and are approximately XXX of its normal thermal rating. Like the overloads associated with Project 7, these overloads also occur in years implicated by the uncertainty regarding the units designated for retirement in the 2022 IRP Order.
+Q.HAS THE COMPANY ESTABLISHED A CLEAR NEED FOR PROJECT 8 AT THIS TIME?
+A.No. The worst-case overload related to the Project 8 solution occurs in a scenario which represents a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXX. However, the overload in question does not occur until eight years from now, and the line in question is only approximately XXX overloaded. The solution being proposed has a 36-month lead time, which provides the latitude to delay a final decision until the 2025 IRP which allows for full study of future transmission needs. 
+Q.WHAT DO YOU RECOMMEND WITH RESPECT TO PROJECT 8?
+A.Such a small overload so far in the future suggests that the Company has time to incorporate this potential issue in a fuller study of the transmission needs of their system. We recommend that the requested project be denied and that the potential need for this or other similar projects be considered in the 2025 IRP.
+
+DISCUSSION OF DAYMARK’S ANALYSIS ON TRANSMISSION UPGRADES FOR PLANT YATES
+ Q. did the company provide any data indicating a study of plant yates output limited to less than the final company plan of three units??
+A.        No. The two rounds of transmission screening analysis results did not produce any analysis of Plant Yates combustion turbines below the full capacity of 1,350, or three CTs. 
+Q.        PLEASE DESCRIBE THE ANALYSIS THAT WAS CONDUCTED BY DAYMARK.
+A.        The team used the provided power flow files from the transmission screening analysis and supplemental transmission filing, reducing the output of the modeled Plant Yates output from 1,350 MW to 900 MW. The team did not alter the modeled generation dispatches in any other way, using the modelled slack bus to account for additional generation. The team analyzed the five scenarios indicated in TS STF-DEA-4-1, which were deemed as worst-case scenarios for establishing the transmission upgrades needed to support the Plant Yates output at 1,350 MW. The same scenarios, or their close counterparts, from the January analysis were used to investigate the decrease in output.
+
+Q.        Please DESCRIBE THE OVERLOADS IDENTIFIED WHEN YATES OUTPUT IS LIMITED TO the capacity of two cts in the daymark analysis.
+a.       With respect to the project justifications identified in TS STF-DEA-4-1, the Daymark analysis showed line loadings are reduced by approximately 3.5 to 9.5% as follows:
+Project
+Constraint
+Contingency
+Rating (MVA)
+Case
+Yates 1350
+Yates 900
+Percent Change
+ 
+ 
+ 
+Summer
+Winter
+
+
+P2
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P3
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P3
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P4
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P5
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P6
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P6
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P7
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+P8
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXX
+XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXX
+XXXXX
+XXXXX
+
+
+Q. WHAT did the analysis indicate regarding the potential impact of a decision regarding two versus three ct units AT YATES?
+A.The thermal analysis results when Plant Yates is limited to an output of 900 MW show a drop in thermal loadings for all impacted elements that drove the transmission need. While the Daymark analysis is indicative only, it does show that the third Yates CT has a material impact on the determination of need from a thermal loading perspective. Most notably, the impacts on the P8 line upgrade XXXXXXXXXXXXXXXXXXXXXXXXX are reduced to XXX in our analysis with only 900 MW dispatched at Yates. This is a nearly 5% reduction in thermal loading from XXXXX noted in the Screening Analysis. This analysis suggests that, should the third CT not be necessary, it is possible that some of the transmission solutions identified by the Company might also be unnecessary or that other solutions might be more cost effective.
+OTHER OBSERVATIONS REGARDING THE SCOPE AND SCALE OF THE TRANSMISSION ANALYSIS PERFORMED
+Q.Please summarize your OBSERVATIONS REGARDING THE COMPANY’S TRANSMISSION ANALYSIS AND CONCLUSIONS.
+A.Given the Company’s characterization of the immediacy of the incoming load and the timing for completing analysis of options to serve that load, transmission analysis was necessarily limited as compared to a complete study as would occur in a standard planning cycle. This limitation did not lead to improper transmission planning analysis but did curtail the ability of the planners to fully consider options and to test for the resilience of the plan to uncertainty. Specifically, we observe that:
+Transmission solution options considered were limited and did not include newer technologies and approaches that could provide rapid, more cost-effective solutions to some needs.
+The analysis did not include an evaluation of the voltage and stability impacts of the proposed options to serve the load, nor did it include the cost for any reactive devices. Static synchronous Compensators (“STATCOMs”), Static VAR Compensators (“SVCs”), or other equipment needed to provide voltage support if deemed necessary.
+There was limited modeling of key uncertainties including variations on the timing, location or volume of load or the potential impact of various retirement scenarios on potential future transmission needs.
+Q.What alternative solutions did the company not consider?
+A.Based on Daymark’s analysis, the Company did not provide sufficient evidence of considering alternatives to traditional solution options that could be more cost-effective to the Company’s proposed transmission upgrade projects filed in the 2023 IRP Update on January 12, 2024. Potential alternative solutions include FACTS devices, and other non-wires alternatives, such as dynamic line rating capabilities.
+Q.PLEASE DESCRIBE potential ALTERNATIVE SOLUTIONS TO THE TRANSMISSION UPGRADES ASSOCIATED WITH PLANT YATES. 
+A.Customers who are required to pay for transmission understandably want assurance that the existing cables are being used to their maximum capacity. The state regulators should ensure that efficient, low-cost options are being evaluated by the Company to achieve maximum ratepayer benefit from existing transmission assets. There are a set of technologies that can increase the flexibility, reliability, and utilization of the existing grid. While the Company’s transmission planners may be aware of these technologies, stakeholders lack evidence of their consideration for this IRP update. 
+There are a number of emerging transmission technologies which may offer cost effective, expedient, and flexible solutions to the transmission issues that the Company has highlighted in this IRP update.
+Dynamic Line Ratings, (“DLR”) are designed to allow increases in the thermal limits of existing transmission lines. DLR supports grid resilience by offering condition-based line capabilities when contingencies occur. 
+Topology optimization software is a technology that can be identify line reconfigurations and potential switching scenarios that can lead to a more robust operations solution to alleviate thermal loading conditions. While there is evidence that the Company has implemented several operating solutions to thermal loading concerns, the framework under which they have been evaluated has not been documented.
+Flexible AC Transmission System Devices (“FACTS”) devices can help push or pull power away from overloaded lines and onto underutilized lines. FACTS devices such as phase angle regulating transformers and thyristor-controlled series capacitors are proven technologies that can make the transmission system more flexible and able to react to shifting load patterns. By adjusting the voltage, phase angle, or impedance, the characteristics of the transmission grid can be changed to optimize the load flow on the grid, potentially unlocking capacity on the existing transmission lines. 
+Q.DID THE COMPANY PRESENT INFORMATION RELATED TO RISKS OTHER THAN THERMAL LOADS IN THIS DOCKET?
+A.No. From the provided materials, no evidence was shown that the Company performed any analysis beyond thermal in their Screening Analysis. 
+Q. From a transmission planning perspective, What other costs could have been evaluated in the Analysis?
+A. Both analyses were thermal studies, meaning they studied the potential for changes in the system to overload individual elements. To determine the full transmission impact of new generation plants and retirements, voltage and stability analysis should be performed as well. With the implementation of new solar, BESS plants and plant retirements on the horizon, there could be a scenario where additional voltage or reactive power support is needed to maintain a reliable and robust transmission system. Stability issues are typically resolved by implementing a dynamic reactive device (“DRD”) that can react to system changes within cycles and provide the system with voltage support under contingency conditions.
+The screening process implemented in this IRP update, from the evidence provided, does not evaluate the implications of possible upgrades needed to address any voltage, or stability issues nor does it delve into if voltage or stability issues were observed. 
+It is our understanding that these additional studies are a normal part of the Company’s IRP process and therefore will be performed for the 2025 IRP. Until that time, there is no guarantee that the proposed set of generation and transmission solutions do not have additional transmission costs beyond those identified by the Company for solving thermal loading issues.
+Q.  How does the retirement of conventional generation units affect grid stability and voltage?
+A. Conventional units, such as coal, natural gas, and hydroelectric generators provide essential inertia and reactive power to the grid largely due to their rotating mass. The retirement of these units would lead to a reduction in system inertia, making the grid more susceptible to frequency and voltage fluctuation. In turn, this could lead to the need for the development of new substations, line reconfigurations or new sources of reactive power support, including through dynamic reactive devices such as SVCs or STATCOMs to compensate for the loss of voltage regulation previously provided by the retired units.
+Q.HOW DO THE LIMITATIONS ON SCENARIO ANALYSIS IMPACT THE COMPANY’S RECOMMENDATIONS?
+A.There are risks related to either overstating or understating the range of inputs that are key drivers of transmission need. For example, load may grow faster or more slowly than forecast. It might differ in location or timing. Retirements may occur as currently planned or on a different schedule. Clean energy can be expanded at faster or slower rates and can occur in different locations within the state. All these uncertainties can have a significant impact on power flows and therefore on future transmission needs.
+This can lead to suboptimal project design, building either too little or too much transmission relative to future needs. The risks of building too much transmission are clear: building transmission upgrades that are not ultimately needed will impose costs on ratepayers without providing value.  There is also risk that the Company could decide to pursue a certain set of upgrades based on a limited evaluation of scenarios, and then loads ultimately grow in such a way that a larger transmission solution may have been the optimal choice. This also represents a risk to customers of suboptimal deployment of investment dollars.
+This uncertainty is at the heart of all IRP work and is a primary reason why plans that provide optionality are preferred over singular solution sets. Allowing for a feedback loop that can learn as trends in key variables unfold can reduce the risk of regretted decisions by delaying decisions until the point at which they need to be made, therefore increasing the amount of information available for each decision.
+Q.GIVEN THE UNCERTAINTY IN THIS DOCKET, WHAT DOes this mean for the company’s transmission planning?
+A.Given the wide range of potential future outcomes, the impact of potentially doing the wrong thing could exceed the impact of doing nothing in this IRP Update proceeding, particularly with respect to the transmission related to the Plant Yates CTs. The Company is likely to learn a great deal with respect to how quickly their counterparties are turning to building the infrastructure these loads represent. The 2025 IRP will be another opportunity to investigate the needs and costs of serving that load and could provide clarity as to what generators should be assumed available for what timeframe. Also, a full IRP will provide more opportunity to optimize transmission solutions, whether larger or smaller.
+Deciding these matters in this docket means doing so with only a limited amount of concrete information, and significant uncertainty regarding the location and timing of load materialization and the future operation of existing resources. All these factors have a significant impact on the outcome of transmission analyses, and the Company has not conducted sufficient scenarios to support a comprehensive assessment of potential future conditions. Deciding on project capital spending should be a last resort when dealing with this much uncertainty.  
+Whether the 2025 IRP confirms the transmission solution as optimal or produces a different solution set due to additional information, in either case, stakeholders will have more confidence in the results.
+
+ CONCLUSIONS AND RECOMMENDATIONS
+Q.please summarize your recommendations.
+A.Our recommendations are as follows:
+We recommend that, pending resolution of the need for 3 Plant Yates CTs and the resolution of retirement dates of the units the Company has questioned in its 2023 IRP Update, that the question of advancing transmission solutions in support of the Plant Yates CTs be delayed and restudied in the 2025 IRP.
+Should the question of the need for Plant Yates CTs be resolved in the affirmative in this docket, we separately recommend the following:
+The requested expense to advance Project 7 by one year should be denied. Determination of whether Project 7 remains the optimal solution to any future transmission needs should be considered as part of the Company’s full 2025 IRP.
+Project 8 should be denied and the potential need for this or other similar projects should be reconsidered as part of the 2025 IRP transmission analysis.
+The Company should consider expanding its potential transmission solutions to include non-wires alternatives as well as new substations and/or right of way solutions to ensure a robust test to find the most cost-effective solution. 
+Q.Does this conclude Staff’s testimony?
+A.Yes.

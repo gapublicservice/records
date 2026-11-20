@@ -1,0 +1,71 @@
+===== DKT 55378 STF-PIA-12 PD/DRSUM_55378_STF-PIA-12 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:     February 22, 2024
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-PIA-12
+1
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-12
+2
+COMPLETE
+NONE
+
+
+===== DKT 55378 STF-PIA-12 PD/STF-PIA-12 Verification and Attestation.pdf =====
+
+
+===== DKT 55378 STF-PIA-12 PD/STF-PIA-12-1/PD STF-PIA-12-1.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-PIA-12-1 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-12-1 (“Response”).  In the Response, the Company has provided data supporting proposed projects including an acquisition with sensitive pricing and confidential details (the “Information”).  All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use.  Specifically, the Information contains contained herein include competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in future negotiations, as counterparties may fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information. 
+ 
+The Information is subject to substantial procedures to maintain its secrecy.  Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis.  Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+
+
+STF-PIA-12-1
+
+Question:
+For each resource listed in Figure 8 on page 26 if the 2023 IRP Update Main Document, please provide the following data in an excel spreadsheet: 
+Projections of monthly generation for every year in which they are available, or at the highest level of granularity if monthly generation is not available. 
+The capacity factor at which the Company anticipates each resource will operate in every year for which data is available. 
+
+Response:
+Monthly generation for the Figure 8 resources: Robins, Moody, REDACTED, Santa Rosa, and Yates is available and provided in the TS STF-PIA-12-1 Attachment. The resource labeled “Other BESS” should result in similar generation outcomes as Robins, Moody, and REDACTED, but since no additional projects have been identified there are no specific generation projections available for that resource at this time. Because no specific resources have been named to serve the MPC PPA, no projection of monthly generation has been forecasted. Generation for the Distributed Energy Resource (“DER”) and Flex program resources will depend on the specific assets and associated fuel sources and the level of customer participation. Demand Response programs do not provide generation. As stated in the direct testimony filed on December 4, 2023, the Company is no longer pursuing the potential acquisition of additional ownership interests in an existing generation asset within the Southern Company footprint.; therefore, no estimated monthly generation is provided for that resource.   
+Annual capacity factors for the Figure 8 resources: Robins, Moody, REDACTED, Santa Rosa, and Yates are available and are provided in the TS STF-PIA-12-1 Attachment. Please see the response to part (a) above regarding the capacity factors for the other Figure 8 resources. 
+
+
+===== DKT 55378 STF-PIA-12 PD/STF-PIA-12-2.docx =====
+STF-PIA-12-2
+
+Question:
+For each of the six scenarios in the TS Resource Mix Study (MG0, LG0, HG0, MG20, MG50, and EL), please provide the following an Excel spreadsheet: 
+
+Annual generation from each resource in each year from 2024-2043. Please provide data separately for the Southern Company as a whole and for GPC only and include both existing resources and new builds. 
+The capacity factor at which the Company anticipates each resource will operate in every year from 2024-2043. Please provide data separately for the Southern Company as a whole and for GPC only, and include both existing resources and new builds. 
+ 
+
+Response:
+Annual generation from each existing resource as well as each system expansion resource has been provided in each scenario’s respective Aurora output file. Please refer to column labeled “Generation_MWh” in the Resource-Year report of the output files. The Aurora software has the capability to export this report to Excel. New build resources in the expansion plans for each scenario are assigned at the system level only and have not been allocated to Georgia Power and therefore cannot be separately provided.  
+Annual capacity factor for each existing resource as well as each system expansion resource has been provided in each scenario’s respective Aurora output file. Please refer to column labeled “Capacity_Factor” in the Resource-Year report of the output files. The Aurora software has the capability to export this report to Excel. New build resources in the expansion plans for each scenario are assigned at the system level only and have not been allocated to Georgia Power and therefore cannot be separately provided.

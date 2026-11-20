@@ -1,0 +1,926 @@
+BEFORE THE
+
+              GEORGIA PUBLIC SERVICE COMMISSION
+
+IN RE: GEORGIA POWER COMPANY’S 2023        )   DOCKET NO. 55378
+       INTEGRATED RESOURCE PLAN            )
+       UPDATE, CERTIFICATION OF THE        )
+       POWER PURCHASE AGREEMENT            )
+       BETWEEN GEORGIA POWER               )
+       COMPANY AND MISSISSIPPI POWER       )
+       COMPANY, CERTIFICATION OF THE       )
+       POWER PURCHASE AGREEMENT            )
+       BETWEEN GEORGIA POWER               )
+       COMPANY AND SANTA ROSA              )
+       ENERGY CENTER LLC, AND              )
+       AMENDED CERTIFICATION OF THE        )
+       RESIDENTIAL THERMOSTAT              )
+       DEMAND RESPONSE DEMAND SIDE         )
+       MANAGEMENT PROGRAM                  )
+
+
+                      DIRECT TESTIMONY
+
+                         AND EXHIBITS
+
+                              OF
+
+                      COLIN T. FITZHENRY
+
+
+                       ON BEHALF OF THE
+      UNITED STATES DEPARTMENT OF DEFENSE AND ALL OTHER
+                 FEDERAL EXECUTIVE AGENCIES
+
+
+                       FEBRUARY 15, 2024
+
+                                                       BEFORE THE
+
+                             GEORGIA PUBLIC SERVICE COMMISSION
+
+
+ IN RE: GEORGIA POWER COMPANY’S 2023                                                     )            DOCKET NO. 55378
+        INTEGRATED RESOURCE PLAN                                                         )
+        UPDATE, CERTIFICATION OF THE                                                     )
+        POWER PURCHASE AGREEMENT                                                         )
+        BETWEEN GEORGIA POWER                                                            )
+        COMPANY AND MISSISSIPPI POWER                                                    )
+        COMPANY, CERTIFICATION OF THE                                                    )
+        POWER PURCHASE AGREEMENT                                                         )
+        BETWEEN GEORGIA POWER                                                            )
+        COMPANY AND SANTA ROSA                                                           )
+        ENERGY CENTER LLC, AND                                                           )
+        AMENDED CERTIFICATION OF THE                                                     )
+        RESIDENTIAL THERMOSTAT                                                           )
+        DEMAND RESPONSE DEMAND SIDE                                                      )
+        MANAGEMENT PROGRAM                                                               )
+
+
+                                               TABLE OF CONTENTS
+
+A.    Qualifications..................................................................................................................... 1
+
+B.    Summary ............................................................................................................................ 1
+
+C.    IRP Update Summary ...................................................................................................... 2
+
+D.    Capacity Need.................................................................................................................... 5
+
+E.    IRP Update Modeling ....................................................................................................... 8
+
+F.    Conclusion ....................................................................................................................... 12
+
+Exhibit___(CTF-1) through Exhibit___(CTF-2)
+
+                                     DIRECT TESTIMONY
+                                    OF COLIN T. FITZHENRY
+ 1                           I. QUALIFICATIONS AND SUMMARY
+
+
+ 2   A.   Qualifications
+ 3   Q.   Please state your name and business address.
+ 4   A.   My name is Colin T. Fitzhenry. My business address is 16690 Swingley Ridge Road,
+ 5        Suite 140, Chesterfield, MO 63017.
+
+
+ 6   Q.   What is your occupation and by whom are you employed?
+ 7   A.   I am a Senior Consultant in the field of public utility regulation with the firm of Brubaker
+ 8        & Associates, Inc. (“BAI”), energy, economic and regulatory consultants.
+
+
+ 9   Q.   Please describe your educational and professional experience.
+10   A.   My educational and professional experience are detailed in my Exhibit___(CTF-1).
+
+
+11   Q.   On whose behalf are you testifying?
+12   A.   I am offering testimony on behalf of the Federal government (Department of Defense and
+13        all other Federal Executive Agencies, or “DoD-FEA”).
+
+
+14   B.   Summary
+15   Q.   What is the purpose of your testimony?
+16   A.   The purpose of my testimony is to address Georgia Power Company’s (“Georgia Power”
+17        or “Company”) modeling efforts to support it’s 2023 Integrated Resource Plan
+18        Update (“2023 IRP Update). I will also address the resource selection process utilized by
+19        Georgia Power to develop its 2023 IRP Update resource plan.
+
+
+20        The fact that I do not address certain aspects of the 2023 IRP Update proposals should not
+21        indicate agreement with any specific element of such proposals.
+
+
+                                               Docket No. 55378
+                                     Direct Testimony of Colin T. Fitzhenry
+                                                 Page 1 of 13
+
+ 1   Q.     Please summarize your recommendations and conclusions.
+ 2   A.     My conclusions and recommendations can be summarized as follows:
+ 3          ● The capacity accreditation of resource options the Company includes in its Integrated
+ 4             Resource Plan (“IRP”) modeling does not accurately reflect the capacity contribution
+ 5             of either solar or thermal generating resources. Georgia Power should utilize the
+ 6             Effective Load Carrying Capability studies it performs for variable renewable
+ 7             resources and incorporate more appropriate analyses of thermal unit performance to
+ 8             correctly model the contribution of all potential generating resources being considered.
+ 9             This will better inform the Company’s selection of resources in its resource plan.
+10          ● Georgia Power did not update its Reserve Margin Study for the 2023 IRP Update, and
+11             the target reserve margin may not accurately reflect the Company’s capacity obligation.
+12             As a result, Georgia Power may be overstating its need for capacity resources.
+13          ● Georgia Power’s proposed 2023 IRP Update resource plan presents risk of cost
+14             increases if new environmental regulation increases the cost of operating fossil fuel
+15             generating resources.
+16          ● Georgia Power’s Updated Economic Analysis of Capacity Resources limited the
+17             Aurora production cost modeling to only six capacity resources.1 As a result, Georgia
+18             Power potentially misses an opportunity to identify alternative lower cost generating
+19             resources to fulfill its capacity obligation.
+20          ● Georgia Power has not demonstrated through rate impact studies that its proposed
+21             resource plan will put downward pressure on the rates of its existing customers.
+
+
+22   C.     IRP Update Summary
+23   Q.     Please provide an overview of Georgia Power’s IRP process.
+24   A.     Since the IRP Act of 1991, the Georgia Public Service Commission (“Commission”) has
+25          overseen the resource planning process for Georgia Power. Georgia Power periodically
+26          updates its IRP to account for changes to forecasted load, generating resources, system
+27          reliability and environmental regulation.2
+
+
+     1
+       Georgia Power, Updated Economic Analysis of Capacity Resources, 2023 Integrated Resource Plan
+     Update, page 5.
+     2
+       Georgia Power 2022 Integrated Resource Plan, Chapter 1, page 1.
+                                                 Docket No. 55378
+                                       Direct Testimony of Colin T. Fitzhenry
+                                                   Page 2 of 13
+
+ 1          The last full IRP filed with the Commission was the Georgia Power 2022 IRP (Docket
+ 2          No. 44160). In the 2022 IRP, Georgia Power updated its seasonal Target Reserve Margins
+ 3          for the short-term (2022-2024) and long-term (2025-2041) planning periods based on the
+ 4          Company’s 2021 Reserve Margin Study.3                  In addition, the Company updated its
+ 5          supply-side strategy in its 2022 IRP to recommend the retirement of eleven of its coal and
+ 6          oil generating units between 2022 and 2028.4 The Company chose to retire these resources
+ 7          because economic analysis did not support continued operation due to their forecast of low
+ 8          natural gas prices, modest load growth, environmental risk and substantial renewable
+ 9          penetration.5 To accommodate the retirement of the coal and oil units, the Company
+10          proposed to add 2,356 megawatts (“MW”) of capacity from natural gas power purchase
+11          agreements (“PPAs”) procured through the Company’s 2022-2028 Capacity Request for
+12          Proposal (“RFP”).6 The Company is also planning for an additional 6,000 MW of new
+13          renewable resources by 2035.7 At the time of the 2022 IRP filing, Georgia Power
+14          determined that it did not need to procure additional capacity until 2029.8
+
+
+15   Q.     Do you have any concerns about how Georgia Power developed its capacity expansion
+16          plan in its 2022 IRP filing?
+17   A.     Yes. When Georgia Power used the Aurora production cost model to develop its capacity
+18          expansion plan it did not assign the appropriate level of accredited capacity to the modeled
+19          generating resources. According to Company witness Jeffrey Grubb, the Company used a
+20          0% capacity accreditation for solar resources, and only modeled them as energy resources.9
+21          In addition, the capacity accreditation for thermal resources was modeled at 100%. This
+22          capacity accreditation does not accurately reflect the capacity contribution of either solar
+23          or thermal resources. With respect to solar, it is also inconsistent with the Company’s own
+24          Effective Load Carrying Capacity (“ELCC”) study provided in the 2022 IRP.
+
+
+     3
+       Georgia Power 2022 Integrated Resource Plan, Chapter 1, page 2.
+     4
+       Georgia Power 2022 Integrated Resource Plan, Chapter 1, page 5.
+     5
+       Georgia Power 2022 Integrated Resource Plan, Chapter 11, page 73.
+     6
+       Georgia Power 2022 Integrated Resource Plan, Chapter 1, page 5.
+     7
+       Georgia Power 2022 Integrated Resource Plan, Chapter 1, page 6.
+     8
+       Georgia Power 2022 Integrated Resource Plan, Chapter 10, page 68.
+     9
+       Exhibit___(CTF-2), Docket No. 55378 Transcript, Wednesday January 17, 2024, pages 0584 & 0585.
+                                                 Docket No. 55378
+                                       Direct Testimony of Colin T. Fitzhenry
+                                                   Page 3 of 13
+
+ 1   Q.     Do you have the same concerns regarding how the Company conducted modeling in
+ 2          the 2023 IRP Update?
+ 3   A.     Yes. Company witness Mr. Grubb indicated in the hearing addressing Direct Testimony
+ 4          that in the 2023 IRP modeling, the Company continued to model generic solar resources
+ 5          assuming they provide no capacity value.
+
+
+ 6   Q.     Did the Company perform a study to determine the appropriate accreditation value
+ 7          for solar resources?
+ 8   A.     Yes, in its 2022 IRP the Company provided a Study of Renewable Capacity Values using
+ 9          the ELCC Methodology in the Southern Company System (“ELCC Study”) that indicated
+10          the accredited capacity contribution that wind, solar, and battery energy storage resources
+11          could be expected to provide at various levels of adoption in the market. That study showed
+12          that even in high adoption scenarios (where there was 3,000 MW of incremental solar
+13          installed), the accredited capacity value of solar would be expected to be 25% in non-winter
+14          months and 5% in winter.10
+
+
+15   Q.     How does modeling solar resources as an energy only resource limit Georgia Power’s
+16          ability to develop a least-cost resource plan?
+17   A.     Solar resources provide significant contributions to offsetting the summer peak demand
+18          and provide limited, but non-zero, capacity contributions in the winter. By assigning a 0%
+19          capacity accreditation to solar resources in its modeling, the Company’s modeling is both
+20          inaccurately valuing the resource and inconsistent with the Company’s own ELCC study.
+21          In addition, assigning a 100% capacity accreditation for thermal resources does not
+22          accurately reflect the forced outage rates of thermal generators, which has the potential to
+23          reduce their availability during periods of peak demand. As a result, the model’s economic
+24          evaluation of solar and thermal resources may be inaccurate and result in the selection of a
+25          resource plan that is not least-cost or the best possible fit for the needs of Georgia Power’s
+26          customers.
+
+
+     10
+      Table IV-2: “Wind and Solar Resource ICE Factors Using the CWFT,” 2022 IRP ELCC Study, Technical
+     Appendix 1, page 10.
+                                                 Docket No. 55378
+                                       Direct Testimony of Colin T. Fitzhenry
+                                                   Page 4 of 13
+
+ 1   Q.     How would you recommend the Company improve its IRP modeling for future IRPs?
+ 2   A.     Georgia Power should be required to continue performing studies to determine the ELCC
+ 3          of potential generating resources being modeled, and be required to utilize the findings of
+ 4          those studies in its capacity expansion modeling. This will better inform the Company’s
+ 5          selection of resources in its resource planning process.
+
+
+ 6   Q.     Has this recommendation been made before?
+ 7   A.     Yes, and in fact, the Company is now ordered to utilize ELCC in its IRPs. The 2022 IRP
+ 8          Order Adopting Stipulation mentions that “The Commission finds and concludes that
+ 9          ELCC is the industry standard…” and “In its next IRP, and any upcoming RFPs issued
+10          before the next IRP, the Company agrees to use the ELCC Methodology to determine the
+11          renewable resource capacity values.”11
+
+
+12   Q.     Why did Georgia Power file a 2023 IRP Update?
+13   A.     The Company filed the update to respond to changes in its load forecast that have occurred
+14          since the 2022 IRP was approved by the Commission. More specifically, Georgia Power’s
+15          updated load forecast includes the addition of numerous new large load customers that the
+16          Company has procured in the intervening months following the 2022 IRP.12 Georgia
+17          Power claims that this extraordinary growth in load requires the Company to either procure
+18          or build new supply and demand-side capacity resources to meet the increases in
+19          customers’ demand and energy. Georgia Power claims that the updated load forecast
+20          creates a winter capacity deficit of 1,875 MW as soon as December 2026.13
+
+
+21   D.     Capacity Need
+22   Q.     How did Georgia Power determine that it will have a capacity deficit?
+23   A.     In support of the 2023 IRP Update, Georgia Power prepared the 2023 IRP Update Load
+24          and Energy Forecast (“2023 IRP Update Load Forecast”). The 2023 IRP Update Load
+25          Forecast provides a twenty-year forecast of energy sales and peak demand to determine the
+
+
+     11
+        Public Interest Staff’s Proposed Order Adopting Stipulation” July 29, 2022. Fact No. 32.
+     12
+        Direct Testimony of Grubb, Valle, Evans, and Bush, page 9 of 56, lines 8-10.
+     13
+        Georgia Power, 2023 Integrated Resource Plan Update, Figure 4: Georgia Power Winter Capacity Needs.
+                                                  Docket No. 55378
+                                        Direct Testimony of Colin T. Fitzhenry
+                                                    Page 5 of 13
+
+ 1        energy and capacity needs of the Company. The summer and winter peak demands are
+ 2        then compared to the total available capacity of all resources to determine a net capacity
+ 3        position. Based on this analysis, the Company determined that it will experience a capacity
+ 4        deficit by the winter of 2026/2027.
+
+
+ 5   Q.   What is Georgia Power’s current level of available capacity to meet its forecasted
+ 6        peak demand?
+ 7   A.   Georgia Power’s available capacity is the sum of its owned generating capacity, purchased
+ 8        generating capacity, and dispatchable demand-side resources. In 2027, the Company’s
+ 9        total available accredited capacity is about 21.8 gigawatts (“GW”) in winter and 23.2 GW
+10        in the summer of 2027. The Company has 1.4 GW less available accredited capacity in
+11        the winter to meet its peak demand because Georgia Power has almost 2 GW less purchased
+12        generating capacity in the winter of 2027 than the summer. The Company’s net capacity
+13        position, which is the difference between its planning reserve margin (“PRM”) and
+14        available capacity, is shown in Table 1 below.
+
+
+15   Q.   Did Georgia Power procure more purchased generating capacity for the summer than
+16        the winter because it has a higher summer capacity obligation?
+17   A.   No, not according to the Company. Despite the fact that the Company experiences it’s
+18        highest peak demand in the summer months, and is forecasting that it will continue to be
+
+
+                                              Docket No. 55378
+                                    Direct Testimony of Colin T. Fitzhenry
+                                                Page 6 of 13
+
+ 1             summer peaking,14 the Company projects that it will require approximately the same
+ 2             amount of available capacity for both seasons. This is because the PRM, also referred to
+ 3             as the target reserve margin, is significantly higher in winter than summer. The Company
+ 4             proposes a summer target reserve margin of 15.28% over the long-term and 14.78% in the
+ 5             short-term. Its proposed winter target reserve margin will be 25.18% over the long-term
+ 6             and 24.69% over the short-term.
+
+
+ 7   Q.        How does the PRM impact the Company’s seasonal net capacity position?
+ 8   A.        As shown on Table 1, in the year 2027, the forecasted peak demand is about 1,700 MW
+ 9             greater in the summer than the winter; however, the PRM, which informs the capacity
+10             obligation, is only about 70 MW greater. Because Georgia Power uses a higher PRM for
+11             the winter than the summer, the Company’s capacity obligations end up nearly the same
+12             for both seasons. Table 1 illustrates the impact of the higher PRM and compares the net
+13             capacity position of Georgia Power in the winter to the summer. However, despite the fact
+14             that Georgia Power requires the same levels of capacity for both seasons, its winter net
+15             capacity position is a 1,875 MW deficit.
+
+
+16   Q.        Did Georgia Power update its Reserve Margin Study for the 2023 IRP Update?
+17   A.        No. Georgia Power is still relying on its 2021 Reserve Margin Study used in the 2022 IRP
+18             to determine the PRM for the summer and winter months.
+
+
+19   Q.        Was the Company’s selected winter reserve margin explicitly endorsed in the
+20             2022 IRP proceeding or its concluding Order?
+21   A.        No. In the Order approving the Stipulation in the 2022 IRP, the Commission noted that
+22             the matter was not fully settled; rather the Company was allowed to continue using the
+23             26% winter reserve margin “until such time as a winter TRM is agreed to between PIA
+24             Staff and the Company and approved by the Commission,” and that the “use of the
+25             26% winter TRM for planning purposes is not an endorsement by Stipulating parties of
+
+
+     14
+          2023 IRP Update Load and Energy Forecast, pages 3-5.
+                                                    Docket No. 55378
+                                          Direct Testimony of Colin T. Fitzhenry
+                                                      Page 7 of 13
+
+ 1         that TRM, and no Stipulating Party is foreclosed from proposing an alternative winter TRM
+ 2         in a future case.”15
+
+
+ 3   Q.    Is it clear to you why there was no explicit endorsement of a particular reserve margin
+ 4         in the Order?
+ 5   A.     I was not involved in the 2022 proceeding; however, the Order implies that there was no
+ 6         need to act on the TRM at the time because there were no near term capacity additions
+ 7         needed at the time. With the filing of the 2023 IRP Update this is obviously no longer the
+ 8         case, so the matter of whether a 26% winter reserve margin is appropriate seems to continue
+ 9         to be an open question.
+
+
+10   Q.    Would it have been best practice for the Company to update its reserve margin study
+11         in the 2023 IRP Update filing?
+12   A.     Yes. The appropriate reserve margin for a planning area is highly dependent on the
+13         magnitude and shape of load on the system at peak demand periods. Given that the
+14         Company is filing this IRP in anticipation of significant incremental load, much of which
+15         is attributed to high load factor customers, the shape of Georgia Power’s overall load may
+16         be changing. This means that the 2021 study may no longer accurately reflect the
+17         appropriate capacity margin for the company to provide reliable service.
+
+
+18   E.     IRP Update Modeling
+19   Q.    What resources is the Company requesting approval for in its IRP Update?
+20   A.     In total Georgia Power is requesting approval for potentially up to 3,380 MW of
+21         supply-side capacity resources.16 The Company’s proposed resource plan consists of:
+22         (1) a PPA with Mississippi Power Company (“Mississippi Power”) to procure power from
+23         its existing generating assets; (2) a PPA with Santa Rosa Energy Center LLC for capacity
+24         and energy from a natural gas-fired combined cycle (“CC”) plant located in Pace, Florida;
+25         (3) potential acquisition of an additional ownership interest in an existing generating asset
+
+
+     15
+       Public Interest Staff’s Proposed Order Adopting Stipulation” July 29, 2022. Fact No. 16.
+     16
+       Total Capacity = 750 MW (Mississippi Power PPA) + 230 MW (Santa Rosa PPA) + 1000 MW (BESS
+     or BESS/Solar Hybrid) + 1,400 MW (3 Duel-Fuel CTs at Plant Yates) = 3,380 MW.
+                                                Docket No. 55378
+                                      Direct Testimony of Colin T. Fitzhenry
+                                                  Page 8 of 13
+
+1          within the Southern Company footprint; (4) battery energy storage systems (“BESS”) at
+2          existing solar facilities, such as Company-owned facilities at military bases; (5) a new
+3          BESS co-located with a new solar facility at a site with existing transmission
+ 4         interconnection facilities; (6) three simple-cycle combustion turbines (“CTs”) at Plant
+ 5         Yates; and (7) expansion of distributed energy resource (“DER”) and demand response
+ 6         (“DR”) programs.
+
+
+ 7   Q.    Do you have any concerns about 2023 IPR Update resource plan?
+ 8   A.    Yes. The resource plan is heavily reliant on fossil-fuel fired generating resources, which
+ 9         are subject to fuel price volatility. In addition, there is added risk that new environmental
+10         regulation could impose additional cost on the operation of these resources.            The
+11         Mississippi Power PPA is expected to be filled, at least in part, with coal-fired generating
+12         resources that would have otherwise been retired or remarketed outside of system reserve
+13         sharing17 if not for this PPA with its affiliate company. Ostensibly, those resources were
+14         proposed for retirement because economic analysis determined they were no longer cost
+15         effective to keep online relative to Mississippi Power’s needs.
+
+
+16   Q.    How did Georgia Power select these resources to meet its capacity and energy
+17         obligations?
+18   A.    Georgia Power relied on its internal knowledge of existing generating resources with
+19         available capacity and self-build options that could be built prior to the winter of
+20         2026/2027. The Company also conducted a Request for Information (“RFI”) to gather
+21         market information regarding the availability of existing and planned Capacity Resources
+22         for the capacity need identified for years 2026 through 2028, the timeframe being
+23         addressed in the Company’s 2023 IRP Update.18 However, there were limitations to the
+24         RFI; Georgia Power limited responses to existing facilities of 100 MW or greater.
+25         In addition, the Company did not conduct an all-resource RFP prior to filing the 2023 IRP
+26         Update to determine the alternative generating resources available. Lastly, as discussed in
+
+
+     17
+      Georgia Power, 2023 Integrated Resource Plan Update, page 13.
+     18
+       Georgia Power, 2023 Request for Information for Capacity Resources – Summary of Results,
+     December 4, 2023.
+                                                Docket No. 55378
+                                      Direct Testimony of Colin T. Fitzhenry
+                                                  Page 9 of 13
+
+ 1             greater detail in the testimony of my colleague, Christopher C. Walters, it did not appear
+ 2             to solicit broad-based customer feedback to determine the magnitude of renewable
+ 3             resources needed to fulfill customer sustainability goals.
+
+
+ 4   Q.        What modeling was performed by Georgia Power to support its 2023 IRP Update?
+ 5   A.        The Company prepared the 2023 IRP Update Load Forecast to account for the new load
+ 6             acquired by Georgia Power. Georgia Power continued to rely on models from its 2022 IRP
+ 7             filing in the 2023 IRP Update. The Company did not update its Reserve Margin Study or
+ 8             its ELCC Study for the 2023 IRP Update. In addition, Georgia Power utilized Aurora
+ 9             production cost modeling in its Updated Economic Analysis of Capacity Resources to
+10             evaluate the Net Present Value (“NPV”) of six capacity resources under various
+11             sensitivities.
+
+
+12   Q.        How is the Aurora production cost model typically utilized in the Georgia Power IRP
+13             process?
+14   A.        In its 2022 IRP, Southern Company used Aurora to simultaneously model its three
+15             operating subsidiaries, and then assign capacity to individual subsidiaries depending on
+16             which operating area has a deficit. The combination of new resources assigned to each
+17             subsidiary is the utility’s System expansion plan. The System expansion plan identifies
+18             the capacity and energy additions that inform the type of resources that are most
+19             economical within a particular timeframe for the given assumptions. In addition, the
+20             Aurora production cost model is used to evaluate the different generation technologies.
+21             The Aurora model considers all possible combinations of capacity additions, on a yearly
+22             basis, that satisfy the Company’s target reserve margin constraints.        The resulting
+23             combination of candidate resources with the smallest production and capital cost over the
+24             planning horizon represents a least-cost plan, given the assumptions used.19 As a result of
+25             the modeling performed in the 2022 IRP filing, the Company determined that the most
+
+
+     19
+          Georgia Power, 2022 Integrated Resource Plan, Chapter 10, page 63.
+                                                     Docket No. 55378
+                                           Direct Testimony of Colin T. Fitzhenry
+                                                      Page 10 of 13
+
+ 1         economical approach to long-term planning would be to retire approximately 3,500 MW
+ 2         of coal and oil generating resources and double the amount of renewables.20
+
+
+ 3   Q.    Does the modeling the Company provided directly correlate to what it is proposing in
+ 4         this resource plan?
+ 5   A.    It appears it does not. For example, the Mid-Gas Zero Carbon (“MG0”) case forms the
+ 6         Base Case for the Company’s Capacity Expansion Plan, but the resources the Company is
+ 7         actually proposing the Commission approve are not aligned with the resources included in
+ 8         that modeling. The Company speaks to this in the Direct Testimony hearing, where it says
+ 9         that it used the modeling to inform its proposed plan, but the plan is not directly a reflection
+10         of modeling. I would note that this is not uncommon; every planner must use their
+11         professional judgment in selecting a proposed plan based on modeling and other factors.
+12         However, it is clear that the proposed Plan deviates from the modeling and it is not clear
+13         that the Company performed a full assessment of costs and risks associated with the Plan
+14         it actually is proposing.
+
+
+15   Q.    What would a fulsome analysis include?
+16   A.    For customers and stakeholders to understand the costs and risks of the proposed plan more
+17         fully, the Company would present a Base Case set of estimated capital and operating costs
+18         (including both fixed and variable operations and maintenance costs); compare it to a set
+19         of sensitivities to reasonably assess the risk that the future of key inputs looked different
+20         than the Base Case (for example, high and low fuel prices, different technology price
+21         outlooks, different load levels, different capacity prices, or different future environmental
+22         costs); it would assess the selected plan’s impact to customer rates and/or bills
+23         quantitatively; and it would assess the environmental impacts of the plan.
+
+
+     20
+        S&P Global, Georgia Power’s resource plan would retire 3,500 MW, double renewables,
+     January 31, 2022.
+                                                 Docket No. 55378
+                                       Direct Testimony of Colin T. Fitzhenry
+                                                  Page 11 of 13
+
+ 1   Q.        How can customers be assured the 2023 IRP Update resource plan is a least-cost best
+ 2             fit plan without a fulsome analysis of costs?
+ 3   A.        In my opinion, they cannot. In particular, it does not appear the Company conducted or
+ 4             provided a rate or bill impact analysis in the record of this IRP filing. The Company
+ 5             repeatedly stated in its Direct Testimony that the proposed plan will put downward pressure
+ 6             on rates for existing customers, due to increased load anticipated; however, it has not
+ 7             provided any analysis of expected rate impact on customers resulting from the plan.
+
+
+ 8   Q.        Do you have any additional concerns with the Company’s modeling in this IRP?
+ 9   A.        Yes. In response to questioning during Direct Testimony, Company witness Mr. Grubb
+10             stated repeatedly that the Company has not performed an evaluation of how this plan
+11             affects the Company’s overall energy mix.21 Both Southern Company and its customers
+12             have ambitious sustainability goals that include decarbonization of their energy sources.
+13             Without an assessment of how this plan will affect the underlying mix of energy resources,
+14             neither Georgia Power itself, nor its customers, have a clear expectation of how this plan
+15             affects their ability to achieve these goals long-term. This proposed plan is also affecting
+16             the operations of its other operating companies, both from a cost and emissions perspective,
+17             in a way that should be assessed and reported transparently. In sum, the Company’s alleged
+18             lack of modeling regarding the energy mix resulting from this plan is a significant
+19             weakness in its analysis, and, therefore, its ability to be responsive to customer cost,
+20             reliability and environmental needs.
+
+
+21   F.        Conclusion
+22   Q.        What are your recommendations?
+23   A.        I recommend that Georgia Power take the following actions: (1) update its Reserve Margin
+24             Study to ensure that the 2023 IRP Update accurately reflects the Company’s capacity
+25             obligations; (2) utilize Aurora production cost modeling to compare potential resource
+26             expansion plans to ensure that the least-cost resource plan is being proposed; and (3) utilize
+27             the existing, or conduct a new, ELCC study of potential generating resources so that the
+
+
+     21
+          Exhibit___(CTF-2), Docket No. 55378 Transcript, Wednesday January 17, 2024, pages 0552 & 0553.
+                                                    Docket No. 55378
+                                          Direct Testimony of Colin T. Fitzhenry
+                                                     Page 12 of 13
+
+1        Company is accurately reflecting the accredited capacity value the resource provides to
+2        Georgia Power and supports its ability to supply firm service to its customers.
+
+
+3   Q.   Does this conclude your testimony?
+4   A.   Yes, it does.
+
+
+                                             Docket No. 55378
+                                   Direct Testimony of Colin T. Fitzhenry
+                                              Page 13 of 13
+
+                        BEFORE THE
+
+             GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN RE:   GEORGIA POWER COMPANY’S      )   DOCKET NO. 55378
+         2023 INTEGRATED RESOURCE     )
+         PLAN UPDATE                  )
+
+
+                          EXHIBITS
+
+                             OF
+
+                     COLIN T. FITZHENRY
+
+
+                     ON BEHALF OF THE
+    UNITED STATES DEPARTMENT OF DEFENSE AND ALL OTHER
+               FEDERAL EXECUTIVE AGENCIES
+
+
+                      FEBRUARY 15, 2024
+
+                                                                            Exhibit___(CTF-1)
+                                                                                    Page 1 of 2
+
+
+                              Qualifications of Colin T. Fitzhenry
+
+ 1   Q.   Please state your name and business address.
+ 2   A.   Colin T. Fitzhenry. My business address is 16690 Swingley Ridge Road, Suite 140,
+ 3        Chesterfield, MO 63017.
+ 4
+ 5   Q.   Please state your occupation.
+ 6   A.   I am a Senior Consultant in the field of public utility regulation with the firm of
+ 7        Brubaker & Associates, Inc. (“BAI”), energy, economic and regulatory consultants.
+ 8
+ 9   Q.   Please summarize your educational background and experience.
+10   A.   I received a Bachelor of Science in General Engineering from the University of Illinois
+11        Urbana-Champaign, which provided a broad background in mechanics and control
+12        systems. Prior to joining BAI, I served as an Engineer Intern for Dynegy Inc., where I
+13        was involved with generation operation at both Vermilion Power Station and Tilton
+14        Power Station.
+15
+16        Since joining BAI in January 2013, I have provided assistance in several regulated
+17        utility matters. Some of these include resource planning, transmission planning, fuel
+18        cost recovery, environmental compliance plans, mergers, asset transfers, electrical and
+19        commodity price forecasting, and power procurement.
+20
+21        The firm of Drazen-Brubaker & Associates, Inc. was incorporated in 1972 and
+22        assumed the utility rate and economic consulting activities of Drazen Associates, Inc.,
+23        founded in 1937. In April, 1995 the firm of Brubaker & Associates, Inc. was formed.
+24        It includes most of the former DBA principals and staff. Our staff includes consultants
+25        with backgrounds in accounting, engineering, economics, finance, mathematics,
+26        computer science and business.
+27
+28        Brubaker & Associates, Inc. and its predecessor firm have participated in over
+29        700 major utility rate and other cases and statewide generic investigations before
+
+
+                                     BRUBAKER & ASSOCIATES, INC.
+
+                                                                          Exhibit___(CTF-1)
+                                                                                  Page 2 of 2
+
+
+ 1   utility regulatory commissions in 40 states, involving electric, gas, water, and steam
+ 2   rates and other issues. Cases in which the firm has been involved have included more
+ 3   than 80 of the 100 largest electric utilities and over 30 gas distribution companies and
+ 4   pipelines.
+ 5
+ 6   While the firm has always assisted its clients in negotiating contracts for utility
+ 7   services in the regulated environment, increasingly there are opportunities for certain
+ 8   customers to acquire power on a competitive basis from a supplier other than its
+ 9   traditional electric utility.     The firm assists clients in identifying and evaluating
+10   purchased power options, conducts RFPs and negotiates with suppliers for the
+11   acquisition and delivery of supplies.            We have prepared option studies and/or
+12   conducted RFPs for competitive acquisition of power supply for industrial and other
+13   end-use customers throughout the Unites States and in Canada, involving total needs
+14   in excess of 3,000 megawatts. The firm is also an associate member of the Electric
+15   Reliability Council of Texas.
+16
+17   In addition to our main office in St. Louis, the firm also has branch offices in Corpus
+18   Christi, Texas; Louisville, Kentucky and Phoenix, Arizona.
+
+
+                                     BRUBAKER & ASSOCIATES, INC.
+
+                                                       Exhibit___(CTF-2)
+                                                               Page 1 of 5
+
+ 1            BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+ 2                          STATE OF GEORGIA
+
+ 3
+
+ 4   In Re:
+
+ 5   Georgia Power Company’s 2023       )
+     Integrated Resource Plan Update    )      Docket No. 55378
+ 6   ___________________________________)
+
+ 7
+
+ 8                                Hearing Room 110
+                                  244 Washington Street
+ 9                                Atlanta, Georgia
+
+10                                Wednesday, January 17, 2024
+
+11            The above-entitled matter came on for hearing
+
+12   pursuant to Notice at 9:30 a.m.
+
+13
+
+14
+
+15   PRESENT WERE:
+                       JASON SHAW, Chairman
+16                     TIM ECHOLS, Vice-Chairman
+                       FITZ JOHNSON, Commissioner
+17                     LAUREN "BUBBA" MCDONALD, Commissioner
+                       TRICIA PRIDEMORE, Commissioner
+18
+
+19
+
+20
+
+21                         ATHENS REPORTING, LLC
+                           490 N. Thomas Street
+22                        Athens, Georgia 30601
+                              (770) 225-7663
+23                       www.athensreporting.com
+
+24
+
+25               Copyright 2024 - Athens Reporting, LLC
+
+
+                                                                     0392
+
+                                                         Exhibit___(CTF-2)
+                                                                 Page 2 of 5
+
+ 1   can it be grid charged?
+
+ 2        A    (Witness Grubb) It could be grid charged, if we
+
+ 3   needed that.     There are some periods of time we expect it
+
+ 4   will be grid charged.
+
+ 5        Q    What percentage of Georgia Power's current
+
+ 6   energy mix is fossil gas?
+
+ 7        A    (Witness Grubb) I have that.     We actually had
+
+ 8   it in the filing.
+
+ 9             So it is 45 percent of capacity.       I'm not sure
+
+10   energy -- it's slightly higher in 2022.     I don't have --
+
+11        Q    Would you accept 48?
+
+12        A    (Witness Grubb) Yeah.     On energy?
+
+13        Q    Yes.
+
+14        A    (Witness Grubb) Yes, 48.
+
+15        Q    That was from your 2023 Facts and Figures by
+
+16   the Numbers published online?
+
+17        A    (Witness Grubb) No.     That's correct.     I think
+
+18   that's what I have here, too.
+
+19        Q    All right.     So if the Commission approves the
+
+20   resources proposed in this 2023 IRP Update, what will
+
+21   that percentage be for the winter of 2027-2028?
+
+22        A    (Witness Grubb) I don't have those numbers.           I
+
+23   don't think I've run.     Not that aspect of it.    I don't
+
+24   have them here.
+
+25        Q    Will it increase or decrease Georgia Power's
+
+
+                                                                         0552
+
+                                                      Exhibit___(CTF-2)
+                                                              Page 3 of 5
+
+ 1   reliance on gas?
+
+ 2        A    (Witness Grubb) This filing?
+
+ 3        Q    Yes.
+
+ 4        A    (Witness Grubb) So it depends on how much we
+
+ 5   can dispatch the CTs.     And as Mr. Bush has said, if we
+
+ 6   do, it would be a more economic gas usage than what the
+
+ 7   system is now.     So we don't have those numbers, but it
+
+ 8   won't drastically increase.
+
+ 9        Q    All right.     Well, this kind of gets back to the
+
+10   conversation that was started earlier.     Many, many times
+
+11   in the last two days we heard that this plan will put
+
+12   downward pressure on rates.     But I think we got beyond
+
+13   that earlier today and we started talking about other
+
+14   bill impacts.    Because people -- you know, customers
+
+15   ultimately pay a bill, not just a rate.
+
+16             Is it true that over a quarter of residential
+
+17   customer bill is the fuel rider?
+
+18        A    (Witness Grubb) I haven't -- subject to check.
+
+19   I don't remember what the latest fuel rates are.
+
+20        Q    And another roughly 8 percent on the EECR?
+
+21        A    (Witness Grubb) Subject to check.
+
+22        Q    Thank you.
+
+23             Have you analyzed the bill impacts from this
+
+24   request for -- especially for residential customers?
+
+25        A    (Witness Grubb) Not to bills because that
+
+
+                                                                    0553
+
+                                                        Exhibit___(CTF-2)
+                                                                Page 4 of 5
+
+ 1   let you off the hook.
+
+ 2         A    (Witness Grubb)    I believe we filed them in the
+
+ 3   DR.   I just can't remember which DR since there has been
+
+ 4   270 of them filed.
+
+ 5         Q    But there weren't any hybrid projects that were
+
+ 6   modeled as a resource in the capacity expansion model;
+
+ 7   right?
+
+ 8         A    (Witness Grubb)    No.   When you say "hybrid,"
+
+ 9   I'm assuming you mean solar-plus storage?
+
+10         Q    Solar-plus storage, yes.
+
+11         A    (Witness Grubb)    No.   What Aurora -- what the
+
+12   expansion plan model is doing is it is looking at solar
+
+13   from an energy production standpoint, and it is looking
+
+14   at storage from a capacity standpoint.      So it is not --
+
+15   it is not dependent on location, if they are located
+
+16   together or not.     It is looking simply at solar providing
+
+17   energy value and storage providing capacity model.
+
+18   Whether you model them as a hybrid or not, it wouldn't
+
+19   really change the outcome at all.
+
+20         Q    Well, so does solar not get a -- some sort of
+
+21   an accredited value for Aurora, or is it set at zero?
+
+22         A    (Witness Grubb)    Not generic solar.
+
+23         Q    It is set at zero in the model?
+
+24         A    (Witness Grubb)    It is set at zero.   So if
+
+25   we -- once we know solar resources through an RFP, they
+
+
+                                                                      0584
+
+                                                       Exhibit___(CTF-2)
+                                                               Page 5 of 5
+
+ 1   would get it, but a generic solar does not.
+
+ 2        Q       And so --
+
+ 3        A       (Witness Grubb)   Because again, it is being
+
+ 4   added for energy value.
+
+ 5        Q       So the company performed an effective load
+
+ 6   carrying capacity analysis for solar, though; right?
+
+ 7        A       (Witness Grubb)   To use on projects that we
+
+ 8   have project profiles for in evaluating RFPs, that's
+
+ 9   correct.
+
+10        Q       But you didn't include that evaluation in the
+
+11   model for capacity expansion?
+
+12        A       (Witness Grubb)   That is my recollection
+
+13   because, again, it is looking at adding it for energy
+
+14   resources.     And it does allow it to be added before we
+
+15   have a capacity need, so it does do that.
+
+16        Q       All the batteries that are added in the
+
+17   model -- well, all the resources in the model are modeled
+
+18   as company-owned resources; is that correct?
+
+19        A       (Witness Grubb)   So as we have always done,
+
+20   Commissioners, not knowing the results of RFPs, we have
+
+21   always shown the avoided cost or the cost of a capacity
+
+22   is the company's cost to build, which is a standard
+
+23   utility practice.
+
+24                So when you are talking about a generic
+
+25   expansion plan, you model that cost to build, because
+
+
+                                                                     0585

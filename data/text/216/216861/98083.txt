@@ -1,0 +1,680 @@
+===== DKT 55378 STF-DEA-3 PD/DRSUM 55378 STF-DEA-3 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    December 21, 2023
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-DEA-3
+1
+COMPLETE
+NONE
+55378
+STF-DEA-3
+2
+COMPLETE
+NONE
+55378
+STF-DEA-3
+3
+COMPLETE
+NONE
+55378
+STF-DEA-3
+4
+COMPLETE
+NONE
+55378
+STF-DEA-3
+5
+COMPLETE
+NONE
+55378
+STF-DEA-3
+6
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-3
+7
+COMPLETE
+NONE
+55378
+STF-DEA-3
+8
+COMPLETE
+NONE
+55378
+STF-DEA-3
+9
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-3
+10
+COMPLETE
+NONE
+55378
+STF-DEA-3
+11
+COMPLETE
+NONE
+55378
+STF-DEA-3
+12
+COMPLETE
+NONE
+55378
+STF-DEA-3
+13
+COMPLETE
+NONE
+55378
+STF-DEA-3
+14
+COMPLETE
+NONE
+55378
+STF-DEA-3
+15
+COMPLETE
+NONE
+55378
+STF-DEA-3
+16
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-3
+17
+COMPLETE
+NONE
+55378
+STF-DEA-3
+18
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-3
+19
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-3
+20
+COMPLETE
+TRADE SECRET
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3 Verification and Attestation (Evans).pdf =====
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3 Verification and Attestation (Grubb).pdf =====
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3 Verification and Attestation (Valle).pdf =====
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-1.docx =====
+STF-DEA-3-1
+
+Question:
+The company currently reports on its website that there are 2,366,818 residential customers and indicates in the 2023 IRP update that it has plans to include an additional 25,000 customers in its Thermostat Control program to reduce peak; with this addition the Company will have 50,000 customers in the program for 2024 and remains at that level.  
+Do you agree that this is approximately 2.1% of all residential customers?  
+How many customers in total could be offered this program?  
+Why is the Company not proposing to increase as much as possible in the short run to address growth in peak since, as indicated in Attachment C of the Load Forecast Update,  the program now passes the TRC test?
+
+Response:
+a. Yes. 50,000 customers would equate to approximately 2.1% of 2,366,818.
+b. While all eligible residential customers could be offered the program, the Company is requesting to expand the program cap from 25,000 to 50,000 customers, as shown on page 23 of the IRP Update filing. 
+c. The Company believes doubling the existing TSTAT DR program over the remainder of the DSM cycle reflects an aggressive but achievable expansion of the program.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-10.docx =====
+
+STF-DEA-3-10
+
+Question:
+Please provide a backcast for each of the equations utilized in the load forecast in the previous question, including a comparison of each backcast to actuals for each year of the backcast. Essentially, provide an in-sample analysis of each equation.
+
+
+Response:
+Georgia Power reviews backcasts in the forecasting process but does not save them separately, as they are readily accessible in E-Views.
+
+The instructions for creating/viewing backcasts in E-views are as follows: 
+Open a model in E-views (e.g., choose any of the E-views models already provided by the Company).
+Go to “View” and choose “Actual-Fitted Residual.” then choose your option for viewing (table or graph) in the drop-down box.
+If “Actual-Fitted-Residual Table” is chosen from the drop-down box, the following will be displayed:
+obs
+Actual
+Fitted
+Residual
+Residual Plot
+2012M01
+ 33.8643
+ 35.0119
+-1.14757
+|     *  .  |  .       |
+2012M02
+ 33.4606
+ 33.2077
+ 0.25295
+|        .  |* .       |
+2012M03
+ 28.5485
+ 28.9709
+-0.42234
+|        .* |  .       |
+2012M04
+ 25.7056
+ 25.1815
+ 0.52401
+|        .  |  *       |
+2012M05
+ 29.8141
+ 29.0793
+ 0.73471
+|        .  |  .*      |
+2012M06
+ 35.3915
+ 34.8764
+ 0.51514
+|        .  |  *       |
+2012M07
+ 46.4037
+ 46.2995
+ 0.10425
+|        .  |* .       |
+2012M08
+ 45.6250
+ 44.7745
+ 0.85053
+|        .  |  .*      |
+2012M09
+ 38.0288
+ 37.7131
+ 0.31569
+|        .  | *.       |
+2012M10
+ 28.3243
+ 29.3585
+-1.03422
+|      * .  |  .       |
+2012M11
+ 26.9220
+ 27.2824
+-0.36037
+|        .* |  .       |
+2012M12
+ 30.6805
+ 30.5578
+ 0.12263
+|        .  |* .       |
+
+
+If “Actual-Fitted-Residual Graph” is chosen from the drop-down box, the following will be displayed:
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-11.docx =====
+
+STF-DEA-3-11
+
+Question:
+Please provide all the economic parameters utilized in the models used by Georgia Power to complete its forecast including historic values since 2000 and projected values for the forecast period.
+
+
+Response:
+The data requested were provided with the filing of the 2023 IRP Update in file “TS 2_2023 IRP Update Load Forecast_FC_Inputs_May.xlsx.” The historical and forecasted economic variables can be found in the following tabs: B24, Monthly Econ, IP, GSP.  
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-12/STF-DEA-3-12.docx =====
+
+STF-DEA-3-12
+
+Question:
+Please provide since 2000, a matrix showing the error of each energy and peak forecast by sector.  This matrix should include the error of the 2000 forecast for each year (2001, 2002, 2003, etc.) through the end of the period of the forecast and for each forecast since 2000.  Please provide the difference (positive or negative) and the percentage error of each.
+
+
+Response:
+Georgia Power does not track forecast errors for every forecast by class for every year since 2000. However, each IRP since 2000 contains similar information for the most recent 4-6 years of history and the 4-5 most recent forecasts. A comparison with actuals and weather normal actuals are included. 
+
+Please refer to STF-DEA-3-12 Attachment A for information on energy forecasts by class. Peak forecast information is presented in STF-DEA-3-12 Attachment B. Total peak is presented until the 2019 IRP. The 2022 IRP contains information on both Summer and Winter Peaks.
+
+Please note that these tables were pulled directly from the Forecasting Technical Appendix in each IRP from 2001 through 2022.    
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-13/STF-DEA-3-13 Attachment.docx =====
+2022 IRP Technical Appendix, Budget 2022 Load and Energy Forecast, Section 6.0PEAK DEMAND FORECAST
+
+Georgia Power used MetrixND and MetrixLT in Budget 2022 to develop peak demand forecasts. These are Itron products used to make regression models and calibrate the hourly models to monthly energy forecasts. These models were originally developed for Budget 2021 forecasts and are re-evaluated each year to track with recent data.  
+
+MetrixND uses historical hourly load research data for each customer class to derive regression models that utilize the day’s weather, day of week, holiday flags, month of year, and other pertinent independent variables. To predict class demands, the following components are used: the relationships of load and weather developed in MetrixND from the historical load research data, the description of “typical” weather and the class monthly energy forecast. Both the coincident and non-coincident demands by class are produced with the model.  
+
+The Georgia Power hourly load forecasting models use load shapes primarily based on class to define its territory. Currently, there are the five primary classes: residential, commercial, industrial, governmental lighting and MARTA; plus two additional categories: electric vehicles and behind the meter solar. Most of the class input historical load shapes use load research historical data from 2015, 2016, 2017, and 2018. The electric vehicle and behind the meter solar categories require several specific load shapes to properly capture their expected behavior. In Budget 2022, four load shapes were used for electric vehicles (representing different charging patterns), and three were used for behind the meter solar. 
+
+The methodology determining “typical” weather uses 41 years of average daily temperatures which were rank ordered and then averaged to form a “temperature duration curve”. The most representative pattern of actual temperatures was chosen using a least sum of squares criteria. The temperature duration curve was then re-sorted to the chronological order of the representative pattern.  
+
+The final component in the development of the demand forecast is the input of the monthly calendar-based energies. The forecasted energies are based on a 41-year average weather assumption. Using the forecasted energies directly in the peak demand model maintains consistency between projected energy sales and the forecast demands.
+
+The hourly load forecasting models also expand the monthly sales data to supply level (sales plus losses) for generation required for the projected energy and demands. The models use expansion factors to go from sales to the customer to the supply level energy and demands. The expansion factors used in Budget 2022 were derived using the results from the Georgia Power 2021 loss study with updated 2019 peak and energy load data.  
+
+The results from the peak model are unadjusted for RTP response, additional cogeneration projects and additional DSM programs that were previously approved by the Commission. Estimates for RTP response, cogeneration, and DSM are made for the reduction in demand and incorporated externally into the peak demand forecast. The estimated adjustment for the RTP Response is derived from a model provided by Christensen Associates Energy Consulting. The Real Time Pricing response model, updated in the Spring of 2021, estimates load response at various prices. As with the previous model developed in 2018, the updated study used metered hourly data for each RTP customer and segmented the responses by Hour Ahead and Day Ahead customers. This model estimates the historical MW response and applies this relationship to estimate the projected MW response. SCS Resource Planning develops an expected RTP forecast that is used in the Christensen model to forecast the projected MW response.
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-13/STF-DEA-3-13.docx =====
+
+STF-DEA-3-13
+
+Question:
+Please provide documentation for the Peak Metrix Model including a description of the key parameters in the modeling, sources of historical information and projected information.  Please describe how the energy forecasts are used for the peak projections.
+
+
+Response:
+Please see STF-DEA-3-13 Attachment for a description of the Metric Peak Demand models, the data needed to run them, and how the energy forecasts are used. The description in this attachment was taken from Section 6 of the Load and Energy Forecast Technical Appendix found in the 2022 IRP filing.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-14.docx =====
+
+STF-DEA-3-14
+
+Question:
+Please provide documentation for the @Risk model utilized and describe how the quarterly load is ultimately calculated.
+
+
+Response:
+The maker of @Risk software has created a guide that explains the basics of using @Risk. It can be accessed using the following link: @RISK-Getting-Started-Guide.pdf (palisade.com). It begins with an explanation of a Monte Carlo Simulation on page 3. Section 3 discusses how to create and run a model, including ways to choose the proper distribution. Additional documentation is available for different topics, if needed, but this introductory guide is a good reference to begin working with @Risk.  
+With respect to quarterly loads, please see the Company’s response to TS STF-DEA-1-15. 
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-15.docx =====
+
+STF-DEA-3-15
+
+Question:
+For the @Risk tool, please develop peak projections for each scenario below:
+Assume all the low values occur for the three parameters modeled, and show the MW forecast and the probability of forecast expectation.
+Assume all the mid values for the three parameters modeled, and show the MW forecast and the probability of forecast expectation.
+Assume all the high values for the three parameters modeled, and show the MW forecast and the probability of forecast expectation.
+
+Response:
+The Company has not previously created any of the three requested scenarios. As a result, the information is unavailable.  
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-16/STF-DEA-3-16.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-DEA-3-16
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF- DEA-3-16 (“Response”). In the Response, the Company has provided information on how the short and long-term forecasts are combined into a single energy forecast. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive commercial and strategic information related to Georgia Power’s projected load forecasts and corresponding short- and long-term capacity needs. The Information includes the Company’s short- and long-term forecast estimates and impacts. Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the identity of the various projects and the details of their specific opportunities were disseminated to the public, competing projects could use the information to leverage less-than-competitive prices for Georgia Power’s services. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices to bidders, ultimately harming customers as well as Georgia Power. 
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+
+
+STF-DEA-3-16
+
+Question:
+
+Please identify whether the shift between the short and long-term models requires external adjustments and if yes, identify what approach is used and provide the before and after adjustment data.
+
+
+Response:
+
+Yes, the shift between short and long-term models requires smoothing. TS STF-DEA-3-16 Attachment outlines the smoothing process for the Residential, Commercial, and Industrial classes. The steps are as follows:
+
+After running the long-term LoadMAP model, its results are calibrated to the short-term model.
+The process then smooths the transition to the long-term forecast at the conclusion of the short-term forecast period (2028), ensuring a seamless progression from short-term to long-term projections.
+For the year 2028, the smoothed energy figure is derived by averaging the growth rates of 2027 and 2029. This adjusted growth rate is applied to the energy value of 2027 to calculate the smoothed energy for 2028.
+Subsequent to the calculation, the total smoothed value for the year is allocated based on housing type (residential) or segment (commercial and industrial) and monthly distribution:
+Monthly distribution percentages are ascertained from the distribution data of the preceding year (2027).
+Housing type or Segment allocation percentages are likewise derived from the distribution of the prior year (2027).
+Using these percentages, the total smoothed value is distributed evenly across each month and housing type or segment for the year 2028.
+After smoothing in 2028, projections for 2029 and subsequent years are re-calculated from this adjusted base.
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-17.docx =====
+STF-DEA-3-17
+
+Question:
+Please provide a written summary of the structure of your load forecast model, explaining the following:
+The construction/structure of the model and any structural assumptions made in the model (random drift, fixed effects, transformations of variables, etc.) 
+The key drivers for load growth in the non-customer choice portion of load.
+The time period of the data underlying the model and the extent to which they vary.
+
+Response:
+The load forecast model is formulated as a linear regression using Ordinary Least Squares (“OLS”) estimation. The model aims to predict the load (Yt​) at time t based on a set of predictor variables (X1t​,X2t​,…,Xkt​). The general form of the model is expressed as: Yt​=β0​+β1​X1t​+β2​X2t​+…+βk​Xkt​+ϵt​ where β0​ is the intercept, β1​,β2​,…,βk​ are the estimated coefficients, and ϵt​ represents the error term.
+The model relies on key assumptions inherent in OLS regression:
+Linearity: The relationship between the load and predictor variables is assumed to be linear.
+No endogeneity: There should be no relationship between the errors and the independent variables. 
+Normality and homoscedasticity: The error term is normally distributed and should have equal variance. 
+No autocorrelation: Residuals are assumed to be uncorrelated.
+
+The key drivers for load growth in the non-customer choice portion of load is the energy sales forecast.
+The time period of the data underlying the model is:
+     
+Model
+Model Training Data Period
+Residential
+1/1/2020-12/31/2022
+Commercial
+1/1/2019-12/31/2022
+Industrial
+1/1/2021-12/31/2022
+MARTA
+1/1/2022-12/31/2022
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-18/STF-DEA-3-18.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+Data Request No. STF-DEA-3-18
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-3-18 (“Response”). In the Response, the Company has provided confidential data on the business plans of individual customers. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive commercial and strategic information related to Georgia Power’s projected load forecasts and corresponding short- and long-term capacity needs. The Information also identifies the various projects and businesses anticipated to increase the Company’s load requirements. Finally, the Information identifies individual customer load opportunities specific to those projects and businesses.   
+
+Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the identity of the various projects and the details of their specific opportunities were disseminated to the public, competing projects could use the information to leverage less-than-competitive prices for Georgia Power’s services. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices, ultimately harming customers as well as Georgia Power. The identified projects may also lose the competitive incentives to locate within Georgia Power’s service territory, to the detriment of those businesses, their workforces, and the state of Georgia.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+
+STF-DEA-3-18
+
+Question:
+
+Refer to the 2023 IRP Update, Page 1 of the Update Load and Energy Forecast, Section 1.0 Executive Summary Overview, stating that Large load projects where Georgia Power was selected in 2022 represented almost 2,200 MW.  For each customer that makes up the 2,200 MW please identify the customer, customer’s load (MW) and whether the customer is located inside Georgia Power service territory or outside service territory.
+
+Response:
+
+Please refer to TS STF-DEA-3-18 Attachment for the information requested about the large load projects that selected Georgia Power in 2022.   
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-19/STF-DEA-3-19.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+Data Request No. STF-DEA-3-19
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-3-19 (“Response”). In the Response, the Company has provided confidential data on the business plans of individual customers. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive commercial and strategic information related to Georgia Power’s projected load forecasts and corresponding short- and long-term capacity needs. The Information also identifies the various projects and businesses anticipated to increase the Company’s load requirements. Finally, the Information identifies individual customer load opportunities specific to those projects and businesses.   
+
+Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the identity of the various projects and the details of their specific opportunities were disseminated to the public, competing projects could use the information to leverage less-than-competitive prices for Georgia Power’s services. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices, ultimately harming customers as well as Georgia Power. The identified projects may also lose the competitive incentives to locate within Georgia Power’s service territory, to the detriment of those businesses, their workforces, and the state of Georgia.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+
+
+STF-DEA-3-19
+
+Question:
+
+Please provide the Large load projects where Georgia Power was selected in 2023 to date For each customer that selected Georgia Power please identify the customer’s load (MW) and whether the customer is located inside Georgia Power service territory or outside service territory.
+
+Response:
+
+Please refer to TS STF-DEA-3-19 Attachment for the information requested about the large load projects that have selected Georgia Power in 2023.   
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-2.docx =====
+
+STF-DEA-3-2
+
+Question:
+How is the cost of electricity incorporated into the energy and peak forecasts by customer class?
+
+
+Response:
+The cost of electricity is incorporated into the energy forecasts as an input to the long-term LoadMap models for the residential, commercial, and industrial classes. The energy forecasts are a key driver of the peak demand model. 
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-20/STF-DEA-3-20.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+Data Request No. STF-DEA-3-20
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-3-20 (“Response”). In the Response, the Company has provided confidential data on the business plans of individual customers. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive commercial and strategic information related to Georgia Power’s projected load forecasts and corresponding short- and long-term capacity needs. The Information also identifies the various projects and businesses anticipated to increase the Company’s load requirements. Finally, the Information identifies individual customer load opportunities specific to those projects and businesses.   
+
+Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the identity of the various projects and the details of their specific opportunities were disseminated to the public, competing projects could use the information to leverage less-than-competitive prices for Georgia Power’s services. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices, ultimately harming customers as well as Georgia Power. The identified projects may also lose the competitive incentives to locate within Georgia Power’s service territory, to the detriment of those businesses, their workforces, and the state of Georgia.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+
+
+STF-DEA-3-20
+
+Question:
+
+For each new large customer in the Company’s response to STF-DEA-1-2 please identify whether the customer is located inside Georgia Power service territory or outside service territory.
+
+Response:
+
+Please refer to TS STF-DEA-3-20 Attachment for information on whether each new large customer in the response to STF-DEA-1-2 is located inside or outside the Georgia Power service territory.   
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-3.docx =====
+
+STF-DEA-3-3
+
+Question:
+How does price of elasticity get addressed in the various load forecasting models utilized by Georgia Power?
+
+
+Response:
+Please refer to STF-DEA-3-2.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-4/STF-DEA-3-4.docx =====
+
+STF-DEA-3-4
+
+Question:
+Please provide monthly historical average electricity prices by customer class from 1990 through YTD 2023 in spreadsheet format.
+
+
+Response:
+Monthly historical average electricity prices by customer class from 1990 through year-to-date 2023 are provided in STF-DEA-3-4 Attachment. Please note that these are average total prices that include base revenue and fuel. The data provided in this attachment are consistent with what is used in the Company’s forecast models and reflect certain adjustments, such as customer reclassifications or customer refunds.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-5.docx =====
+
+STF-DEA-3-5
+
+Question:
+
+Please provide anticipated price increases as a result of the expected January 1, 2024 approved increase and other base and fuel increases over the coming years to reflect the inclusion of Vogtle Unit 4 in rate base going forward.
+
+Response:
+
+Georgia Power continues to implement the 2022 Base Rate Case Order approved in Docket No. 44280, with an expected increase for January 2024 of 1.9% for the average retail customer, which translates to $3.54 per month for the typical residential customer using an average of 1,000 kWh/month.  
+
+Per Commission approval of the Stipulation in Georgia Power’s Application to Adjust Rates to Include Reasonable and Prudent Plant Vogtle Units 3 and 4 Costs in Docket No. 29849, the base rate change will result in an increase of approximately 5% for the average retail customer, which translates to $8.95 per month for a typical residential customer using an average of 1,000 kWh/month. This base rate change will occur the month following the commercial operation date (“COD”) of Plant Vogtle Unit 4. Based on the current schedule, rates would change April 1, 2024.
+
+No other rate changes from Vogtle Unit 4 are expected at this time.
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-6/PD STF-DEA-3-6 Attachments B-G.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-6/STF-DEA-3-6.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-DEA-3-6
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-3-6 (“Response”). In the Response, the Company has provided forward-looking estimates of revenues, loads, and costs for specific capacity projects. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains detailed data related to the Company’s load and revenue forecast in addition to the estimated costs for capacity, financing, capital costs, unit, and operation assumptions.  Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-DEA-3-6
+
+Question:
+
+Provide a forecast of upcoming price increases as a result of the inclusion of Plant Vogtle Units 3 and 4 into rate base as well as the new load acquisitions necessary to serve major new load growth.
+
+Response:
+
+Per Commission approval of the Stipulation in Georgia Power’s Application to Adjust Rates to Include Reasonable and Prudent Plant Vogtle Units 3 and 4 Costs in Docket No. 29849, the base rate change will result in an increase of approximately 5% for the average retail customer, which translates to $8.95 per month for a typical residential customer using an average of 1,000 kWh/month. This base rate change will occur the month following the commercial operation date (“COD”) of Plant Vogtle Unit 4. Based on the current schedule, rates would change April 1, 2024.
+
+All else being equal, the Company expects that the projected revenues associated with incremental load from known new customer projects, which necessitate the additional capacity requested in the 2023 IRP Update, will fully offset the costs of those resources requested in the 2023 IRP Update and put downward pressure on overall retail rates. Please note, the projected revenues provided are preliminary estimates at this point in time and may differ from future revenues. See TS STF-DEA-3-6 Attachments A-I for additional information.
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-7/STF-DEA-3-7 Attachment.pdf =====
+STF-DEA-3-7 Attachment
+
+                                     Annual Forecast Process Timeline
+
+                  January – May             Set-up for Next Forecast & Variance Reporting
+
+
+                                                                                            •Energy, customer and revenue variance
+                             May                         Economic Forecast
+
+                                                         Customer Forecast
+                         May/June
+                                                     Short Term Energy Forecast
+
+                                                                                                                                                                         All Year
+                                                     Long Term Energy Forecast
+
+
+                                                                                            consolidation for Finance and earnings call support
+                     July/August
+
+
+                                                                                                                                                  • Regulatory support
+                                                       Peak Demand Forecast
+                         September
+
+                                                           Load Scenarios
+
+            October – December                           Revenue Forecast
+
+STF-DEA-3-7 Attachment
+
+
+                                           Forecasting Modeling Approach
+                                                                       •    Forecasted Variables:
+                                                                            Economic, Price, etc.
+                                                                       •    Normal Weather                                    Actual Weather
+                    Actual Weather Data
+                   Temperatures, Cooling
+    Residential                                                                                                                 End Use of
+                  & Heating Degree Hours                                                                                                           Residential
+                                                                                                                                 Appliances
+
+
+                                              Short-erm Sales Models
+    Commercial                                                                                                               Stock, Saturation
+                                                                            3 to 5            3 to 40                                              Commercial
+                    Energy Usage Data
+
+
+                                                                                                           End USE Models
+    Industrial                                                             year out          Year out                       Appliance Efficiency
+                                                                            Energy            Energy                             Standards         Industrial
+                      Customer Data                                        Forecast
+    MARTA                                                                                    Forecast
+                                                                                                                                Fuel Prices
+    Street        Economic/Demographic
+    Lighting          Data: Income,
+                      Employment,                                                                                              Economic &
+                     Production, etc.                                                                                         Customers Data
+
+
+                                                                       Peak Model          Peak Forecast
+
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-7/STF-DEA-3-7.docx =====
+
+STF-DEA-3-7
+
+Question:
+Please provide a process map showing how each of the load forecasting steps relates and how the overall energy and peak forecasts develop including identifying the models utilized.
+
+
+Response:
+Please see STF-DEA-3-7 Attachment for the requested load forecasting process map.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-8.docx =====
+
+STF-DEA-3-8
+
+Question:
+Please provide documentation for the LoadMap model including a description of the key parameters in the modeling and model interactions, and sources of historic information and projected information.
+
+
+Response:
+Please refer to the Company’s response to STF-DEA-1-20.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-9/PD STF-DEA-3-9 Attachments A-E.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 55378 STF-DEA-3 PD/STF-DEA-3-9/STF-DEA-3-9.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-DEA-3-9
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF- DEA-3-9 (“Response”). In the Response, the Company has provided information on how the final short-term forecast models are chosen, as well as why other models are rejected. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive commercial and strategic information related to Georgia Power’s forecasting methodologies and approach to choosing forecast models. Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the identity of the various projects and the details of their specific opportunities were disseminated to the public, competing projects could use the information to leverage less-than-competitive prices for Georgia Power’s services. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices to bidders, ultimately harming customers as well as Georgia Power. 
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.    
+
+
+STF-DEA-3-9
+
+Question:
+
+Please provide each regression equation utilized to complete the short-term energy forecast and show the alternative models not selected with rationale for rejection. For each equation/model, provide summary statistics (mean, median, min, max, std. deviation, variance, R2, etc).
+
+
+Response:
+
+Please refer to the following attachments for the requested information:
+TS STF-DEA-3-9 Attachment A: Residential use per customer and customer models
+TS STF-DEA-3-9 Attachment B: Commercial use per customer and customer models
+TS STF-DEA-3-9 Attachment C: Industrial energy and customer models
+TS STF-DEA-3-9 Attachment D: MARTA energy models
+TS STF-DEA-3-9 Attachment E: Governmental Lighting energy and customer models
+
+The Company uses a systematic approach in determining which forecast models to select. A number of different criteria are utilized to identify the best performing model, including:
+Variable Coefficients: Models with variables exhibiting an incorrect sign on their coefficients are eliminated from consideration, ensuring consistency with the expected relationships.
+Adjusted R-squared: Models with relatively low adjusted R-squared values are excluded.
+Growth Rates: Models with unreasonable growth rates for the dependent variable (e.g. customers, energy sales, use per customer) are omitted from consideration.
+Insignificant Variables: Models containing variables deemed statistically insignificant are excluded, emphasizing the importance of including only meaningful predictors.
+Statistical Tests: Models with inferior overall statistical performance are eliminated, employing various tests to assess the goodness of fit and model validity. Tests include, but are not limited to tests for heteroskedasticity, serial correlation, and unit roots. Other tests (e.g., for outliers, structural breaks, etc.) are used when needed.
+The selection of the best model is based on a comprehensive evaluation considering the criteria above. This multi-step process is aimed at ensuring that the chosen model not only demonstrates favorable statistical properties but is also aligned with theoretical expectations and captures the essential features of the data.

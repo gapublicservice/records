@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 99320,
+      "bytes": 1995021,
+      "name": "IRP UPDATE STAFF COVER.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218271/99320"
+    },
+    {
+      "attachment_id": 99321,
+      "bytes": 11679399,
+      "name": "55378- Staff Proposed Order Adopting the Stipulation.docx",
+      "text": "docx",
+      "text_file": "data/text/218/218271/99321.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218271/99321"
+    }
+  ],
+  "company": "Staff",
+  "description": "PROPOSED ORDER ADOPTING STIPULATION",
+  "dockets": [
+    55378
+  ],
+  "document_id": 218271,
+  "filed_date": "2024-04-04",
+  "harvested": "2026-11-19",
+  "received_date": "2024-04-04",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=218271"
+}

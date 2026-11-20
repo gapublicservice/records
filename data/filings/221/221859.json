@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 102985,
+      "bytes": 244805,
+      "name": "dkt_44280_stf-pia-28_pd.zip",
+      "text": "zip (7 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/221/221859/102985.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221859/102985"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-PIA-28 PD",
+  "dockets": [
+    44280
+  ],
+  "document_id": 221859,
+  "filed_date": "2025-03-17",
+  "harvested": "2026-11-20",
+  "received_date": "2025-03-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=221859"
+}

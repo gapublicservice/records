@@ -1,0 +1,575 @@
+===== DKT 55378 STF-JKA-3 PD/DRSUM 55378 STF-JKA-2 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    December 20, 2023
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-JKA-3
+1
+COMPLETE
+NONE
+55378
+STF-JKA-3
+2
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+3
+COMPLETE
+NONE
+55378
+STF-JKA-3
+4
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+5
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+6
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+7
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+8
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+9
+COMPLETE
+NONE
+55378
+STF-JKA-3
+10
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+11
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+12
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-3
+13
+COMPLETE
+NONE
+55378
+STF-JKA-3
+14
+COMPLETE
+NONE
+55378
+STF-JKA-3
+15
+COMPLETE
+NONE
+55378
+STF-JKA-3
+16
+COMPLETE
+NONE
+
+
+===== DKT 55378 STF-JKA-3 PD/PD STF-JKA-3-12.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-3-12
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-12 (“Response”). In the Response, the Company has provided assumptions and information about proposed expansion projects used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive details regarding sites that are being proposed for new BESS projects. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-3-12
+
+Question:
+Regarding the Company’s Battery modeling Aurora:
+Please explain what ELCC study the Company is relying on in modeling the reliable capacity for new BESS projects as proposed (Robins, Moody, REDACTED) and what reliable capacity/capacity contribution is assumed. Provide a copy of any study that was conducted.
+Please explain what ELCC study the Company is relying on modeling generic BESS in the Mix Study and what reliable capacity/capacity contribution is assumed.  Provide a copy of any study that was conducted.
+Please explain if the ELCC studies relied on consider degradation, what degradation is assumed, and how that impacts the reliable capacity/capacity contribution as modeled.
+
+Response:
+The Company is using the BESS ELCC values referenced in part (b) and STF-JKA-2-11 or 100% for the aggregate facility consisting of both the solar and BESS components. The capacity contribution of Robins and Moody are adjusted to account for the point of interconnection (“POI”) limits associated with transmission system limitations. This adjustment subtracts the POI limit by the existing solar resource’s current capacity value to ensure that the combined facility (existing solar and incremental BESS) capacity value does not exceed the POI limit. Therefore, the Robins and Moody proposed BESS resources are only assigned the incremental capacity value, but the overall aggregate facility (consisting of both the existing solar and incremental BESS components) equates to 100% ELCC. Please see STF-JKA-1-4 Attachment for these calculations, which are on rows 54 and below on the Robins and Moody tabs. Since REDACTED is a new incremental resource for both the solar and BESS additions, the paired resource will receive a capacity credit of 200 MW.
+
+The workpaper detailing the development of the generic BESS ELCC values used in the Resource Mix Study was provided with the response to STF-JKA-2-11. The first 3 GW of 4-hour BESS penetration are expected to have average capacity values of 100% in both the winter and summer seasons.
+
+The ELCC studies do not consider degradation. The Company’s economic analysis assumes augmentation costs for BESS resources. These maintenance capital investments preserve the BESS nominal capacity, mitigating degradation.
+
+===== DKT 55378 STF-JKA-3 PD/PD STF-JKA-3-5.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-5
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-5 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating unit operation assumptions, forecasted capacity and capital costs, outage information, and other critical unit operation information. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+ 
+
+
+STF-JKA-3-5
+
+Question:
+Provide the following assumptions that have occurred in actual operations for the REDACTED REDACTED. Please provide these assumptions by year, by unit in an excel spreadsheet.
+Ramp rate assumptions
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+
+Response:
+
+Please see the response to STF-JKA-3-6. The assumptions used in the economic evaluation are generally expected to match actual operations unless otherwise noted in STF-JKA-3-6. 
+
+
+===== DKT 55378 STF-JKA-3 PD/PD STF-JKA-3-7.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-7
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-7 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating unit operation assumptions, forecasted capacity and capital costs, outage information, and other critical unit operation information. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+
+
+STF-JKA-3-7
+
+Question:
+It appears the Company’s modeling in Aurora for the generic “CT with SCR” resource is different than the modeling for Yates 8 – 10.
+
+For each input assumption that is modeled differently in Aurora for those resources, please compare and contrast and explain the modeling difference.
+As an example, it appears that the Company is modeling a 50% minimum capacity assumption for the “CT with SCR” in Aurora, and a different assumption for Yates 8-10.    Please be sure to explain this difference. Please see STF-JKA-3-6 Attachment A for rate ramp assumptions as modeled in the economic evaluation.
+
+Response:
+
+The assumptions for the generic CT with SCR resource and Plant Yates Units 8-10 are based off the same generic B2024 Technology Application Standards (“TAS”). However, there are a few differences in the way the generic CT with SCR and Yates CTs were modeled in the economic analysis.
+
+Fuel Source: 
+Generic CT with SCR – oil primary, operates on oil year-round. 
+
+Yates 8-10 CTs – dual fuel, with oil operation in January, February, and December and natural gas operation in all other months. Please see STF-JKA-2-22(c) for more information on this assumption.
+
+Heat Rate: 
+Generic CT with SCR – modeled with seasonal heat rates based on oil operation. The winter oil heat rate was REDACTED Btu/kWh, spring oil heat rate was REDACTED Btu/kWh, and summer oil heat rate was REDACTED Btu/kWh.
+
+Yates 8-10 CTs – modeled with seasonal heat rates based on mode of operation. The winter oil heat rate was REDACTED Btu/kWh, spring natural gas heat rate was REDACTED Btu/kWh, and summer natural gas heat rate was REDACTED Btu/kWh. The expected winter oil heat is REDACTED Btu/kWh, consistent with the generic CT with SCR. The higher winter oil heat rate used for Yates CTs was based on preliminary engineering analysis. Subsequent analysis revealed that REDACTED Btu/kWh is the expected value at this time. This does not impact the economic analysis results as Plant Yates Units 8-10 are not expected to provide any energy value when dispatching on oil.
+
+Minimum Capacity: 
+Both the generic CT with SCR and Yates CTs were modeled with a 50% minimum capacity assumption. The minimum capacity in Aurora can be input in the resource table as well as the heat rate definition table. The generic CT with SCR was entered in the resource table, and the Yates CTs were entered in the heat rate definition table.
+
+Fuel Prices: 
+Generic CT with SCR – modeled with a generic oil price year-round.
+
+Yates 8-10 CTs – modeled with site specific fuel pricing using Plant Yates Units 6-7 for delivered natural gas and Plant Wilson for cost to operate on oil as a proxy.
+
+Maintenance Rate: 
+Generic CT with SCR – modeled with a 3.84% annual rate. This equates to two weeks of planned outages per year. 
+
+Plant Yates Units 8-10 – modeled with a monthly 9% maintenance rate, input as a forced outage, in March, April, May, October, and November. This equates to two weeks of planned outages per year.
+
+As stated in the “Minimum Capacity” section of part (a) of this response, both the generic CT with SCR and Plant Yates Units 8-10 were modeled with a 50% minimum capacity assumption. The minimum capacity in Aurora can be input in the resource table as well as the heat rate definition table. The generic CT with SCR was entered in the resource table, and the Plant Yates Units 8-10 were entered in the heat rate definition table.
+
+===== DKT 55378 STF-JKA-3 PD/PD STF-JKA-3-8.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-3-8
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-8 (“Response”). In the Response, the Company has provided planning assumptions and future technology build limitations. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive details on the assumptions of future natural gas infrastructure and build limitations within planning models. If these assumptions and Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-3-8
+
+Question:
+Refer to Aurora mix study (B2024 GPC IRP MG0 - P95.apz).  Please explain the Company’s maximum CC build constraint of REDACTED REDACTED REDACTED REDACTED REDACTED. 
+How was it derived and how did the Company determine it was reasonable?  
+How is it different than what was assumed in the 2022 IRP?  What has changed?
+
+Response:
+Please refer to the Company’s response to STF-JKA-2-14 (e) regarding pipeline infrastructure challenges. Given the challenges facing the pipeline infrastructure industry, the Company applied a limit on new combined cycles (“CCs”) in the model. The Company assumed natural gas firm transportation (“FT”) used for existing units would be available to use for new CCs as the existing units either retired or power purchase agreement (“PPA”) expired. Beyond this FT, based on recent industry experience and its own judgement, the Company assumed an additional REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. Please note that new CCs were allowed to be selected beginning in 2030. While this constraint may limit new CCs selection in some years, overall, there is enough FT between existing FT becoming available and the new FT to add approximately REDACTED by 2050.
+
+In the 2022 IRP, there wasn’t a limit applied to new CCs in the expansion plan; however, the Company reviewed each plan and compared against the existing FT that was projected to become available due to unit retirements and PPA expirations to ensure the CC build was reasonable. Beginning in 2023, when including the increased loads associated with the significant economic development that also has a high load factor, CCs were selected in large quantities in the expansion plans. When doing the FT comparison, there was more CC selected than what could be served with the existing FT portfolio. This prompted the Company to begin including a constraint in the model to limit CCs (see response to subpart a).
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3 Verification and Attestation (Grubb).pdf =====
+
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-1.docx =====
+
+STF-JKA-3-1
+
+Question:
+Provide the following assumptions expected to occur in actual operations for Yates 8-10.  Please provide these assumptions by year, by unit in an excel spreadsheet:
+Ramp rate assumptions 
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+Response:                                 
+ 
+Please see the response to STF-JKA-3-2. The assumptions used in the economic evaluation are generally expected to occur in actual operations unless otherwise noted in STF-JKA-3-2. Please see STF-JKA-3-7 for more information on why modeling Plant Yates Units 8-10 heat rate on oil operation may not reflect expected operations.
+
+ 
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-10/STF-JKA-3-10.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-10
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-10 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices and fuel assumptions. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+
+
+STF-JKA-3-10
+
+Question:
+It appears that in the B2023 Aurora database (B2023_Final_GPC_IRP_update.apz), the Yates CT 8-10 units are mapped to a fuel price proxy “Yates CT 8-10_Marginal_Fuel_B23_MG0_DEPS_202209”. Please provide a B2024 database fuel price proxy that can be used as a fuel price proxy assumption for the Santa Rosa contract.  
+
+Response:
+
+The Company assumes the last sentence in the question was simply a copy and paste error. Therefore, the Company assumes the question is seeking the fuel price proxy assumption for Plant Yates Units 8-10 and not Santa Rosa as requested in STF-JKA-3-9. 
+
+The “Yates CT 8-10_Marginal_Fuel_B23_MG0_DEPS_202209” fuel price proxy was created using a combination of Wilson Unit 1A oil prices in winter months (January, February, December) and Yates Units 6-7 gas prices in non-winter months. The B2024 fuel price proxies needed to recreate Plant Yates Units 8-10 oil/gas fuel prices are identified below: 
+
+mn_Wilson 1A_Marginal_Fuel_B24_MG0_DEPS_202309_v2 (January, February, December)
+mn_Yates 6_Marginal_Fuel_B24_MG0_DEPS_202309_v2 (March – November)
+
+For convenience, Plant Yates Units 8-10 B2024 oil/gas prices are provided in TS STF-JKA-3-10 Attachment.
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-11/PD STF-JKA-3-11.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-3-11
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-11 (“Response”). In the Response, the Company has provided contracted capacity and energy pricing. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive details of capacity and energy pricing in a power purchase agreement. Publicly disclosing these costs would allow bidders in future solicitations to tailor their proposals and potentially set an artificial floor on bidding, which would harm customers by not allowing the Company to conduct a proper solicitation and obtain the best cost resources. In addition, the Company’s competitors are not required to disclose similar information and to require the Company to do so would put it at an economic disadvantage. 
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-3-11
+
+Question:
+Refer to Aurora mix study (B2024 GPC IRP MG0 - P95.apz) and the modeling of change set “New Resource Availability – MG0” that includes the “new GPC PPA” resource.  
+Please provide the workpapers deriving the “SOCO Time Series Annual” table, “NEW_GPC_PPA_Capacity_Price” time series of REDACTED REDACTED in 2027 and REDACTED REDACTED in 2028. Please reconcile the derivation in to the provided costs included in the “TS Economic Analysis of Capacity Resources.xlsx.”
+Refer to the VOM $/MWh input mapped to “SOCO Time Series Monthly” table, “REDACTED REDACTED REDACTED” time series.  Please explain how the Company derived this energy price and how the Company determined it was a reasonable proxy for the REDACTED REDACTED.
+
+Response:
+Please see TS STF-JKA-3-11 Attachment for the derivation of the “NEW_GPC_PPA_Capacity_Price” time series. The derivation uses the same $/kW-month pricing included in the “TS Economic Analysis of Capacity Resources.xlsx.”
+
+The “NEW GPC PPA Energy Price” time series is derived from the REDACTED REDACTED REDACTED, which serve as a proxy for the REDACTED. The time series is a REDACTED REDACTED REDACTED REDACTED REDACTED. Please see TS STF-JKA-2-7 Attachment for the B23 MG0 Aurora files and TS STF-JKA-2-6 Attachment A for the REDACTED REDACTED REDACTED REDACTED.
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-13.docx =====
+STF-JKA-3-13
+
+Question:
+Refer to the Load and Resource Balance presented in “TS 2023 IRP Update Models and Workpapers.zip\Main Document\Figures 4, 5, 6, & 9 - Capacity Needs Data for B22, B23, and 2023 IRP Update.xlsx”  
+Please explain if these tables reflect the ongoing Hydro modernization projects.  If not, explain why not and provide the anticipated revisions.
+Please explain if these tables reflect the Company’s current expected online date for the BESS demonstration projects Mossy Branch and McGrau Ford.  If not, please explain why not.
+Response:
+All Georgia Power hydroelectric generating units are included in the “Existing Capability” tables for the 2022 IRP, Budget 2023, and 2023 IRP Update. For units approved for hydro modernization projects, Georgia Power’s planning assumptions do not project hydro unit capacity values to change because unit capacity changes for IRP ratings are not final until the modernized equipment is procured, installed, and tested. Unit capacities will be updated, as available, for resource planning purposes in the assumptions for IRP modeling following the finalization of these values. 
+
+While there have been no changes to unit capacity assumptions from the 2022 IRP to the 2023 IRP Update, unit availability assumptions have been updated for near-term unit outages for hydro modernization project work and for the following units that are offline indefinitely due to equipment that has become inoperable until repairs or replacements can be completed as part of the Company’s future Hydro Modernization projects:
+Goat Rock Unit 5 offline indefinitely,
+Morgan Falls Unit 4 offline indefinitely, and
+Oliver Unit 4 offline until after modernization; currently assumed to be available in 2029.
+
+These tables reflect the currently expected commercial operation of the McGrau Ford BESS project by the end of 2026, accounting for capacity from this project starting in the winter of 2026/2027. While the Mossy Branch demonstration project is currently expected to be online in 2nd Quarter 2024, Georgia Power’s planning assumptions do not include any capacity until the winter of 2026/2027, following the completion of testing.
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-14.docx =====
+STF-JKA-3-14
+
+Question:
+Regarding the setup of the Resource Mix study Aurora runs.
+Why did the Company decide to leave out from modeling the resources the Company proposes to acquire to satisfy short term requirements?
+When the Company conducts IRPs, does it always leave out of the Resource Mix study proposed resources from the modeling? For example, why in past IRPs did the Company include as locked in resources solar capacity even those that solar capacity resource were only proposed resources at the time the Resource Mix study was performed.
+
+Response:
+The MPC PPA was the only proposed resource allowed to be selected in the Resource Mix Study. The MPC PPA negotiations were near final when the modeling was being conducted, and the MPC resources are already included in the model as pool resources making it easy to implement this assumption. The other proposed resources will be included in future modeling, if approved in this docket.   
+No, the Company doesn’t always leave out proposed resources in the Resource Mix Study modeling. The Company has included proposed resources in the Resource Mix Study modeling in past IRPs. For example, in the 2022 GPC IRP, the Company included the proposed RFP resources totaling over 2,350 MW in the mix study. In that case, an RFP process pursuant to Commission RFP Rules to address the 2025-2028 capacity needs had been conducted. Regarding the Company’s inclusion of proposed solar resources in past IRPs, solar resources have little to no winter reliable capacity value (0% ELCC), and therefore would not influence a capacity resource decision. While there isn’t a capacity need impact, the proposed solar would impact the avoided energy costs used to make demand and supply side decisions, so the Company determined it was important to include the proposed solar resources. For the 2023 IRP Update, the generic CT and battery resources serve as appropriate proxies for many of the proposed resources as it relates to the impact to avoided energy costs. 
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-15.docx =====
+STF-JKA-3-15
+
+Question:
+Please see the last bullet on page 13 of PD Resource Mix Study.docx, which concerns capacity needs in 2027.  
+Please try to explain in more detail why this had to be done, as the Company’s explanation requires clarification.
+How can the Company model a purchase agreement with Mississippi Power for just one year. What happens in the remaining years.
+If the Mississippi Power PPA is acquired, how would the modeling of the Mississippi Power resources be different than they are modeled today. Please explain. 
+In any modeling performed for the IRP, did the Company model the Mississippi Power PPA per the proposed new contract terms? If so, please identify the inputs used to model the Mississippi Power PPA contract terms.
+
+Response:
+As stated in response to STF-JKA-2-2, the Company included the Mississippi Power PPA (“MPC PPA”) as an option in the Resource Mix Study. The capacity need for the Company is 1,875 MW in Winter 2026/2027. While the Company did not have to offer the MPC PPA, given the magnitude of the capacity need and to demonstrate the extraordinary value of the MPC PPA, it was offered as a selection option to help reduce the capacity need if economic to do so. As shown in the Resource Mix Study, it was an economic option and helped reduce the capacity need to be met with other resource options.  
+The Resource Mix Study is used to determine a roadmap for capacity resource additions once a capacity need has been identified. Because the System does not have a capacity need until Winter 2026/2027, the MPC PPA is modeled to reflect it being selected at the time of the capacity need. While this won’t capture the full 5-year cost of the MPC PPA, it will capture the market rate of capacity in the years 2027 and 2028 to allow generic capacity resource options to compete alongside it. 
+With the execution of the MPA PPA, the resource ledgers for Mississippi Power and Georgia Power will be appropriately adjusted to reflect the capacity that is purchased from Mississippi Power. This also includes updates to assumed unit unavailability dates for a few Mississippi Power units that were originally assumed to retire earlier but are now needed to support the MPC PPA. For modeling purposes, the Mississippi Power units will continue to be modeled as they are today in economic dispatch as Mississippi Power resources and the modeled pool energy accounting will incorporate energy sales associated with the MPC PPA.
+The Resource Mix Study models the capacity and energy costs of the MPC PPA per the executed PPA provided in the Technical Appendix.  
+
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-16.docx =====
+STF-JKA-3-16
+
+Question:
+With regard to solar and battery storage resources, please provide a reconciliation of the requirements of the 2022 IRP Commission Order to where the same specific resources were modeled in the 2023 IRP Aurora database to be able to match up the corresponding resources.
+
+
+Response:
+The reconciliation below is between the 2023 IRP Update Aurora database as submitted and the descriptions provided in the Main Document of the 2023 IRP Update filing.
+
+Description
+2023 IRP Update Aurora Resource Name
+McGrau – Ford battery
+O3_2022_IRP_MCGRAU_FORD
+Additional 2100 MW solar CARES Utility Scale Renewable RFPs
+O1_2022_IRP_US_RFP_1
+O1_2022_IRP_US_RFP_2
+Additional 200 MW solar DG Renewable RFPs
+O1_2022_IRP_DG_RFP_1
+O1_2022_IRP_DG_RFP_2
+500 MW ESS RFP
+O3_2022_IRP_ESS
+
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-2/STF-JKA-3-2.docx =====
+
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-2
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-2 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating unit operation assumptions, forecasted capacity and capital costs, outage information, and other critical unit operation information. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+ 
+
+
+STF-JKA-3-2
+
+Question:
+Provide the following assumptions as modeled in the economic evaluation (B2023_Final_GPC_IRP_update.apz ) for Yates 8-10.  Please provide these assumptions by year, by unit in an excel spreadsheet.  To the extent that the modeling does not reflect expected operations, please explain.
+Ramp rate assumptions 
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+Response:
+ 
+Unless otherwise noted below, all modeling assumptions used in the economic evaluation for Plant Yates Units 8-10 are based on the best available information at the time of the analysis. This information is generally expected to match operations.
+
+Please see TS STF-JKA-3-2 Attachment for ramp rate assumptions as modeled in the economic evaluation.
+ 
+Please see TS STF-JKA-3-2 Attachment for min up and down time assumptions as modeled in the economic evaluation.
+ 
+Please see TS STF-JKA-3-2 Attachment for start cost assumptions as modeled in the economic evaluation.
+ 
+Please see TS STF-JKA-3-2 Attachment for heat rate assumptions as modeled in the economic evaluation. Please see STF-JKA-3-7 that addresses why Plant Yates Units 8-10 oil heat rate modeling may not reflect expected operations.
+ 
+Please see TS STF-JKA-3-2 Attachment for maintenance rate assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-2 Attachment for FOR assumptions as modeled in the economic evaluation. 
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-3.docx =====
+
+STF-JKA-3-3
+
+Question:
+Provide the following assumptions expected to occur in actual operations for the Santa Rosa PPA. Please provide these assumptions by year, by unit in an excel spreadsheet.
+Ramp rate assumptions 
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+Response:
+
+Please see the response to STF-JKA-3-4. Unless otherwise noted in STF-JKA-3-4, the assumptions used in the economic evaluation are based on the terms of the PPA and are generally expected to occur in actual operations.
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-4/STF-JKA-3-4.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-4
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-4 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating unit operation assumptions, forecasted capacity and capital costs, outage information, and other critical unit operation information. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+ 
+
+
+STF-JKA-3-4
+
+Question:
+Provide the following assumptions as modeled in the economic evaluation (B2023_Final_GPC_IRP_update.apz ) for Santa Rosa PPA.  Please provide these assumptions by year, by unit in an excel spreadsheet. To the extent that the modeling does not reflect expected operations, please explain.
+Ramp rate assumptions 
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+Answer:
+
+Unless otherwise noted below, all modeling assumptions used in the economic evaluation for the Santa Rosa PPA are generally expected to match operations.
+
+Please see TS STF-JKA-3-4 Attachment for rate ramp assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-4 Attachment for min up and down time assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-4 Attachment for start cost assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-4 Attachment for heat rate assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-4 Attachment for maintenance rate assumptions as modeled in the economic evaluation. The Santa Rosa PPA states that actual duration and frequency of scheduled maintenance outages will be coordinated with the Buyer. Therefore, specific maintenance outage schedules were not available and no maintenance rates were modeled in the economic analysis. 
+
+Please see TS STF-JKA-3-4 Attachment for FOR rate assumptions as modeled in the economic evaluation.
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-6/PD STF-JKA-3-6.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+ 
+GEORGIA POWER COMPANY 
+DOCKET NO. 55378 
+ 
+Data Request No. STF-JKA-3-6
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET 
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-3-6 (“Response”). In the Response, the Company has provided various assumptions used in the economic analysis of the resources proposed as part of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11. 
+ 
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating unit operation assumptions, forecasted capacity and capital costs, outage information, and other critical unit operation information. Disclosure of the Information would provide extensive insight into the Company’s projected unit operations. If revealed to the public, a generation wholesaler, power marketer, or original equipment manufacturer could use the Information to arbitrarily tailor proposals with the intention of pricing products and services according to the Company’s expected costs, which could undermine the Company’s ability to procure the best cost products and services for customers. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage.
+ 
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.   
+ 
+ 
+
+
+STF-JKA-3-6
+
+Question:
+Provide the following assumptions as modeled in the economic evaluation (B2023_Final_GPC_IRP_update.apz) for the REDACTED units. Please provide these assumptions by year, by unit in an excel spreadsheet. To the extent that the modeling does not reflect expected operations, please explain.
+Ramp rate assumptions
+min up and down time
+start costs
+heat rate
+maintenance rate
+FOR rate
+
+Response:
+
+Unless otherwise noted below, all modeling assumptions used in the economic evaluation for the REDACTED REDACTED are generally expected to match operations if the units are not retired.
+
+Please see TS STF-JKA-3-6 Attachment for ramp rate assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-6 Attachment for min up and down time assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-6 Attachment for start cost assumptions as modeled in the economic evaluation.
+
+Please see TS STF-JKA-3-6 Attachment for heat rate assumptions as modeled in the economic evaluation. The heat rate assumptions in the economic evaluation may be slightly different than operational results due to various conditions occurring during operations. Southern Company Services (“SCS”) Fleet Operations regularly evaluates unit heat rate curves and updates economic dispatch as needed. Modeling inputs are updated as part of the annual planning scenario process so there is often a lag in modeling inputs and real time operations. Any differences are not anticipated to be material. 
+
+Please see TS STF-JKA-3-6 Attachment for maintenance rate assumptions as modeled in the economic evaluation. REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. This reduces the need to explicitly model planned or maintenance related outages in the economic evaluation. 
+
+Please see TS STF-JKA-3-6 Attachment for FOR assumptions as modeled in the economic evaluation. The forced outage rates used in the economic evaluation are input as monthly values as opposed to an expected annual forced outage rate. This is done for modeling purposes to spread forced outage events over the year. The aggregate of the monthly forced outage events is equal to the expected annual amount. During real time operations, forced outages may not occur at the same monthly distribution. 
+
+===== DKT 55378 STF-JKA-3 PD/STF-JKA-3-9.docx =====
+STF-JKA-3-9
+
+Question:
+It appears that in the B2023 Aurora database (B2023_Final_GPC_IRP_update.apz), the Santa Rosa contract is modelled and is mapped to a fuel price proxy “mn_Smith 3_Marginal_Fuel_B23_MG0_DEPS_202209”. Please provide a B2024 database fuel price proxy that can be used as a fuel price proxy assumption for the Santa Rosa contract.
+
+
+Response:
+Smith 3 was used as a fuel price proxy for the Santa Rosa contract in the B2023 economic analysis. In the B2024 database, the fuel price proxy below can be used in the absence of Smith 3:
+“mn_Wash Co Cogen 1_Marginal_Fuel_B24_MG0_DEPS_202309_v2.”

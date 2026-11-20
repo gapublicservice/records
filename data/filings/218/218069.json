@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 99102,
+      "bytes": 303568,
+      "name": "STF-ASR-1.DR-44280.docx",
+      "text": "docx",
+      "text_file": "data/text/218/218069/99102.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218069/99102"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-ASR-1)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 218069,
+  "filed_date": "2024-03-21",
+  "harvested": "2026-11-19",
+  "received_date": "2024-03-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=218069"
+}

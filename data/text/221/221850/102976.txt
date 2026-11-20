@@ -1,0 +1,1170 @@
+===== DKT 56002 & 56003 STF-DEA-1 PD/DRSUM 56002 & 56003 STF-DEA-1 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      March 17, 2025
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+56002 & 56003
+STF-DEA-1
+1
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+2
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+3
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+4
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+5
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+6
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+7
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+8
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+9
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+10
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+11
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+12
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+13
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+14
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+15
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+16
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+17
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+18
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+19
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+20
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+21
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+22
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+23
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+24
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+25
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+26
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+27
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+28
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+29
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+30
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+31
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+32
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+33
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+34
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+35
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+36
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+37
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+38
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+39
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+40
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+41
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+42
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+43
+COMPLETE
+TRADE SECRET
+56002 & 56003
+STF-DEA-1
+44
+COMPLETE
+NONE
+56002 & 56003
+STF-DEA-1
+45
+COMPLETE
+NONE
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1 Verification.pdf =====
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-1.docx =====
+STF-DEA-1-1
+
+Question:
+
+For the period January 2024 through January 2025, please provide actual historical energy sales (GWh) on a monthly basis. If data is not available for specific months, please explain why and provide the remaining data. 
+
+Response:
+
+Please refer to STF-DEA-1-1 Attachment for the requested historical energy sales. Please note that the attachment contains both Billed and Calendar sales data.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-10.docx =====
+STF-DEA-1-10
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 25, p. 29, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please describe how the Company avoids over-specification in each of its regression models identified below. Specifically refer to the R2 values as summarized below and the model specifications for each model identified. 
+Model 
+Dependent Variable 
+R2 Value 
+Residential Use Per Customer 
+B_UPC_BD_R 
+0.99154325 
+Commercial Use Per Customer 
+B_UPC_BD_C 
+0.992057 
+
+
+Response:
+
+The high R2 values in both models reflect the high weather sensitivity of the residential and commercial class. Weather explains the majority of these classes’ usage variance. Weather, measured in degree hours, is the primary driver of usage and therefore essential to the models. The models are correctly specified. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-11.docx =====
+STF-DEA-1-11
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 26, p. 30, p. 34, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please describe how the Company’s Residential Use Per Customer, Commercial Use Per Customer, and MARTA sales models account for perfect collinearity. Particularly respond to the inclusion of all 12 month variables interacted with heating or cooling degree hours. 
+
+Response:
+
+Perfect collinearity is not an issue on the above listed models because there is no regressor that can be written as a linear combination of the other regressors. Specifically on weather, since the identity matrix is interacted with degree hours, it is no longer a linear combination of the intercept. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-12.docx =====
+STF-DEA-1-12
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 26. Please justify the inclusion of the “AR(1)” autoregressive term in the Residential Use per Customer model.
+
+
+Response:
+
+The inclusion of the AR(1) term in the Residential Use per Customer model is to correct for autocorrelation. 
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-13.docx =====
+STF-DEA-1-13
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 27. The Company refers to an “efficiency variable derived from the long-term energy forecast model.” Please describe how this variable is calculated and justify why it is appropriate to include the result of a long-term energy model as an input to the short-term energy model.  
+
+Response:
+
+The efficiency variable is an index that represents the weighted average end-use efficiency from the long-term energy model, LoadMap. The variable is the sum product of the average stock efficiency and the usage share of each end-use. The B2025 efficiency variables were developed based on the B2024 LoadMap model.
+
+It is appropriate to consider efficiency in the short-term energy model because efficiency improvement is one of the usage drivers. Since S&P Global, our economic forecast provider, does not provide a similar series in the economic forecast, the Company developed its efficiency variables to ensure it is not omitting any important variables during the model development process.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-14.docx =====
+STF-DEA-1-14
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 31. Please justify the inclusion of the autoregressive term in the Commercial Use Per Customer model.
+
+Response:
+
+The inclusion of the AR(1) term in the Commercial Use per Customer model is to correct for autocorrelation. 
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-15.docx =====
+STF-DEA-1-15
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 32. Please describe the “IPGA” variable and justify the inclusion of this Industrial Production Index. 
+
+Response:
+
+An Industrial Production Index (“IPI”) measures the real output of the manufacturing, mining, and utilities sectors in an economy. It is a key economic indicator used to gauge the level of industrial activity and production over time. The index is typically expressed relative to a base year, which is set to 100. For example, an index value of 103 indicates that industrial production in an economy has increased by 3% compared to the base year.
+The IPI for the United States is published by the Board of Governors of the Federal Reserve System. There is no official IPI at the state level. However, S&P Global, the Company’s provider of historical economic data and forecasts, produces one for each state based on the U.S. index. “IPGA” is the IPI provided by S&P Global for the State of Georgia. The Georgia IPI is preferred because it is calculated based on the state’s industrial mix, rather than the national average. The expectation is that the IPGA should thus be a better indicator of industrial activity in the state, which is why it is included in the forecast model for Industrial sales.    
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-16.docx =====
+STF-DEA-1-16
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 34. Please justify the inclusion of both autoregressive variables.
+
+
+Response:
+
+The inclusion of both autoregressive terms is to correct for autocorrelation.  
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-17.docx =====
+STF-DEA-1-17
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 34. Please demonstrate the cubic spline interpolation performed to moderate the rate of decline for Governmental Lighting Sales.
+
+Response:
+
+Please refer to STF-DEA-1-17 Attachment TRADE SECRET for how the cubic spline interpolation is performed.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-18.docx =====
+STF-DEA-1-18
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 35. Please clarify if the unit of measurement for the Residential Customer model is a) residential customers or b) growth in residential customers.
+
+Response:
+
+The dependent variable in the Residential customer model is the annual change (growth) in residential customers.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-19.docx =====
+STF-DEA-1-19
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 35. Please describe the process by which the Company selected the final variables in the Residential Customer Model.  
+
+Response:
+
+The following is the general variable selection process: 
+Examine the fundamental relationship between the independent and dependent variables. 
+If economic theories support the empirical correlation, check for statistical significance of the coefficients. 
+Once all relevant variables have been selected, verify that the ordinary least squares (“OLS”) assumptions are not violated and mitigate any issues if necessary. 
+Final model is selected based on its conceptual soundness and statistical performance.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-2.docx =====
+STF-DEA-1-2
+
+Question:
+
+For the period January 2024 through January 2025, please provide actual historical peak demand (MW) on a monthly basis. If data is not available for specific months, please explain why and provide the remaining data. 
+
+
+Response:
+
+Please refer to STF-DEA-1-2 Attachment for the requested historical peak demand. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-20.docx =====
+STF-DEA-1-20
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 35. Please explain if the Company has considered including the Residential price of electricity as an independent variable in the Residential Customer model. If not, why not?  
+
+Response:
+
+The Company did not consider including the Residential price of electricity as an independent variable in the Residential Customer model because, in Georgia, Residential customers are not allowed to shop for their provider of electricity. Thus, the Company does not expect price to be a driver of the number of customers. Instead, customer growth is more likely to be driven by economic conditions in the Company’s service territory such as population growth, household formation, and increases in housing stock. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-21.docx =====
+STF-DEA-1-21
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 35. Please describe the “estimate of the monthly historical pattern” used to distribute annual residential customer forecasts. If appropriate, provide this distribution in spreadsheet format with any assumptions clearly stated and all formulas intact.
+
+Response:
+
+The Residential customer forecast model is an annual change model, using the annual change in customers as the dependent variable in the model. Since the output of the model is the change in customers over the last 12 months, it needs to be converted into monthly values so it can be used in the monthly use per customer models. To do this, the Company develops ratios for allocating the annual change in customers to a monthly change. The calculation of these ratios utilizes actual customer data from the most recent five complete years (2019-2023 for Budget 2025). Please refer to STF-DEA-1-21 Attachment TRADE SECRET for the data and calculations.     
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-22.docx =====
+STF-DEA-1-22
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 36, please explain how the exclusion of Unmetered Devices allows the Company to more accurately measure the “true growth of typical commercial customers…”
+
+Response:
+
+From 2014 to 2023, the monthly average use per customer of Unmetered Device is just 6% of the average use per customer for the total Commercial class (511 kWh vs 8,593 kWh). During the same period, the number of Unmetered Device accounts has grown 58% vs 9% for the total Commercial class. By excluding Unmetered Device accounts from the Commercial class customers, the Company was able to better capture the growth trend of Commercial customers. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-23.docx =====
+STF-DEA-1-23
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 36. Please describe the process by which the Company selected the final variables in the Commercial Customer model.  
+
+Response:
+
+The following is the general variable selection process: 
+Examine the fundamental relationship between the independent and dependent variables. 
+If economic theories support the empirical correlation, check for statistical significance of the coefficients. 
+Once all relevant variables have been selected, verify that the ordinary least squares (“OLS”) assumptions are not violated and mitigate any issues if necessary. 
+Final model is selected based on its conceptual soundness and statistical performance.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-24.docx =====
+STF-DEA-1-24
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 36. Please explain if the Company has considered including the Commercial price of electricity as an independent variable in the Commercial Customer model. If not, why not?
+
+Response:
+
+The Company did not consider including the Commercial price of electricity as an independent variable in the Commercial Customer model because, in Georgia, only large Commercial and Industrial customers (>900 kW) are allowed to choose their provider of electricity, as specified in the Georgia Territorial Electric Service Act of 1973. Typical Commercial customers are not allowed to shop for their electricity provider. Rather, they use the electric utility that serves the territory where the customer’s business is located. Thus, the Company does not expect price to be a driver of the number of customers. Instead, customer growth is more likely to be driven by economic conditions in the Company’s service territory such as population growth, an increase in housing stock, and general economic growth in the state. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-25.docx =====
+STF-DEA-1-25
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 37. Please describe the process by which the Company selected the final variables in the Industrial Customer model.  
+
+
+Response:
+
+The following is the general variable selection process: 
+Examine the fundamental relationship between the independent and dependent variables. 
+If economic theories support the empirical correlation, check for statistical significance of the coefficients. 
+Once all relevant variables have been selected, verify that the ordinary least squares (“OLS”) assumptions are not violated and mitigate any issues if necessary. 
+Final model is selected based on its conceptual soundness and statistical performance.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-26.docx =====
+STF-DEA-1-26
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 37. Please explain if the Company has considered including the Industrial price of electricity as an independent variable in the Industrial Customer model. If not, why not?
+
+Response:
+
+The Company did not consider including the Industrial price of electricity as an independent variable in the Industrial Customer model because, in Georgia, only large Commercial and Industrial customers (>900 kW) are allowed to choose their provider of electricity, as specified in the Georgia Territorial Electric Service Act of 1973. Typical Industrial customers are not allowed to shop for their electricity provider. Rather, they use the electric utility that serves the territory where the customer’s business is located. Thus, the Company does not expect price to be a driver of the number of customers. Instead, customer growth is driven by general economic conditions in the Company’s service territory. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-27.docx =====
+STF-DEA-1-27
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 37. Please justify the inclusion of both a single-term lag and an auto-regressive term in the Governmental Lighting Customer model.
+
+Response:
+
+There is no better economic indicator available to drive Governmental Lighting customers than its own lag. The auto-regressive term is used to correct for autocorrelation. Please note that the Governmental Lighting customer forecast does not drive the governmental lighting energy forecast. 
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-28.docx =====
+STF-DEA-1-28
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, please explain if the short-term energy forecast models have been revised for model specification and construction since the 2023 IRP Update. If so, please explain what variables were tested and how the Company decided upon the current model specification.
+
+Response:
+
+Yes, the Company revises the short-term energy forecast models every budget year. The Company tested variables that are supported by economic theory as relevant drivers of the dependent variables. Variables tested include, but are not limited to, economic and demographic variables from S&P Global, electricity prices, weather data, etc. 
+
+The following is the general variable selection process: 
+Examine the fundamental relationship between the independent and dependent variables. 
+If economic theories support the empirical correlation, check for statistical significance of the coefficients. 
+Once all relevant variables have been selected, verify that the ordinary least squares (“OLS”) assumptions are not violated and mitigate any issues if necessary. 
+A final model is selected based on its conceptual soundness and statistical performance.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-29.docx =====
+STF-DEA-1-29
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please provide the historical input data for each model in spreadsheet format with the relevant source.
+
+Response:
+
+Please refer to the two workpapers that were provided to Commission Staff on January 31, 2025,  with the original 2025 IRP filing: 1_B2025 Weather data 80-24_weightsupd2023_TRADE SECRET.xlsm; and 2_B2025_FC_Inputs_TRADE SECRET.xlsx for the historical input data for each model in spreadsheet format with the relevant source. 
+The first file contains historical and forecast weather by class, including Cooling Degree Hours (“CDH”) and Heating Degree Hours (“HDH”). Key tabs include “Budget;” “ForFCInput_BillWEATHER_perDay;” and “ForFCInput_AccrWEATHER_perDay.” The source of weather data is The Weather Company. Georgia Power uses a Company-developed application called Weather Data Viewer to summarize the data for use in forecasting. Weather variables needed for the forecast are copied from here into the second file mentioned above. 
+2_B2025_FC_Inputs_TRADE SECRET.xlsx contains all the data needed for the forecast models. Economic drivers from S&P Global are in the “B25” tab. The variable description is in row 3, the source of the historical data is in row 4, and the mnemonic is in row 5. Customer data by class is found in the “CUSTOMERS” tab, while billed energy data (kWh) and calendar energy (kWh) by class is found in the “BILNRG” and “CALNRG” tabs. Customer and energy information is from Company records.  
+Each class has a tab containing the data needed to run the short-term models. For example, the “RES_MODEL_INPUT_Bill” tab contains variables used for the Residential billed use per customer models, and “RES_CUST_MODEL_INPUT_annual” tab contains variables used for estimating the Residential customer model. These input files are read into EViews for model building and model testing.
+The short-term EViews models, also provided to Commission Staff on January 31, 2025, with the 2025 IRP filing, contain only the variables needed to run the models reported in “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.xlsx.”     
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-3.docx =====
+STF-DEA-1-3
+
+Question:
+
+Referring to the 2025 IRP Main Document, p. 39, Figure 4, please explain if the Capital Investment values are in nominal or real dollars.
+
+
+Response:
+
+The Capital Investment values in Figure 4 of the 2025 IRP Main Document are in nominal dollars.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-30.docx =====
+STF-DEA-1-30
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please describe how the Company evaluates “goodness of fit” and “predictive power” in its model. In your response, include a description of any statistical tests for which data is provided in the workpaper (such as the Durbin-Watson Test), any retrospective analyses of error (such as an analysis of the mean absolute percentage error), or any other relevant tests along with a description of these tests are used to evaluate the fit and predictive power of the model.
+
+Response:
+
+Below is a general list of statistics/statistical tests the Company used to evaluate models’ “goodness of fit” and “predictive power.”  Dependent on the specific model, the Company might conduct further tests.  
+Statistics/Statistical tests
+Description
+Coefficients
+Signs match economic intuition
+Newey-West T-statistics
+Statistical significance 
+P-values
+Statistical significance 
+R-squared
+The coefficient of determination
+Adjusted R-squared
+The coefficient of determination adjusted for number of regressors
+Residual plot
+Residual visual check
+Durbin-Watson 
+Residual autocorrelation test 
+Residual correlogram 
+Residual autocorrelation function
+Breusch-Pagan-Godfrey Test
+Residual heteroscedasticity test
+Breusch-Godfrey Serial Correlation LM Test
+Residual autocorrelation test 
+Augmented Dickey-Fuller Test
+Residual stationarity test
+Mean Absolute Percentage Error (MAPE)
+Backcast accuracy
+Out of Sample MAPE
+Out of sample accuracy
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-31.docx =====
+STF-DEA-1-31
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please provide a residuals plot for each model provided in the workpaper.
+
+Response:
+
+Please refer to STF-DEA-1-31 Attachment for the requested residual plots.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-32.docx =====
+STF-DEA-1-32
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 25-37, and the associated workpaper titled “B2025 Section 4 Tables TRADE SECRET.” Please provide a mean absolute percentage error analysis for each model provided in the workpaper.
+
+Response:
+
+See table below for the mean absolute percentage error (“MAPE”) for each econometric model provided in the workpaper:
+
+Model 
+MAPE (model) 
+MAPE (final)
+Residential Usage Per Customer
+1.4%
+1.4%
+Residential Customer Change
+21.4% *
+0.1%
+Commercial Usage Per Customer
+0.7%
+0.7%
+Commercial Customer Change
+293.3% *
+0.8% 
+Industrial Energy
+2.0%
+2.0%
+Industrial Customer
+0.1%
+0.1%
+Government Lighting Customer
+0.2%
+0.2%
+Marta Energy
+3.2%
+3.2%
+
+*Change model MAPEs are not representative of the final customer count projection due to first differenced modeling approach. After first difference to level conversion, and annual frequency to monthly frequency conversion, final MAPEs are in line with other models. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-33.docx =====
+STF-DEA-1-33
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 38. Please describe the term “unbilled sales,” and why these occur. 
+
+Response:
+
+Unbilled sales refer to the electricity that has been delivered to customers but has not yet been billed in a month. The Company bills its customers across the month in 21 different Bill Groups. Calendar energy sales are the basis of the Company’s actual financial record. Both billed and unbilled sales are utilized to calculate calendar sales, where unbilled represents sales in the portion of the month that has not yet been billed but must be estimated. 
+
+The forecast is estimated on a billing basis, and unbilled energy is estimated as to mimic how actual sales data are ultimately reported on the calendar month basis. Calendar sales = Billed sales + current month Unbilled sales – previous month Unbilled sales.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-34.docx =====
+STF-DEA-1-34
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 40. Please explain if the Company has considered software other than LoadMAP for its long-term energy forecasting process. If so, when was the last time alternatives were considered.
+Response:
+The Commission’s Rules for Integrated Resource Plans (“IRP”) prescribe an end-use approach to long-term forecasting. The Company uses the LoadMap models for both the long-term forecast and for demand-side program evaluation because of the end-use capabilities. The Company relies on Applied Energy Group’s (“AEG”) LoadMap model and expertise. The Company has not considered other software.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-35.docx =====
+STF-DEA-1-35
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 40. Please explain why the LoadMAP model is initialized to a base year of 2016. Explain the conditions under which the initialization year would change.
+Response:
+The base year of 2016 was chosen in 2020 for the then upcoming 2021 Technical and Achievable Potential Study. 2016 was chosen because there was a Company specific 2016 residential saturation survey to help determine appliance ownership. The U.S. Energy Information Administration’s (“EIA”) 2020 Annual Energy Outlook was used to supplement the Company’s end-use consumption and saturation estimates. Typically, the Company will choose a base year a few years prior to the time the rebase is performed to track and calibrate the performance of the model and assumptions. A base year change is multifaceted and resource intensive. Conditions to change the base year may include deteriorating model performance, changing markets, or regulatory requests.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-36.docx =====
+STF-DEA-1-36
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 42. Please explain how the company disaggregates its econometric customer forecasts to the single family, multi-family, and manufactured home categories. 
+
+Response:
+Residential customers are forecasted at an aggregate level using the model presented in Technical Appendix Volume 1, Section 4.2.1. This forecast is then disaggregated into single family, multi-family, and manufactured homes using housing type trends from the S&P Global housing stock forecast and calibrated to historic Georgia Power billing data splits. 
+The Company does this by first applying the historical housing type splits from the Company’s billing data to the total residential customer count. Then, the Company uses the forecasted growth rates and percentages (share) for each housing type from the S&P Global data to grow from the historical values of the three segments listed above to create a long-term disaggregated customer forecast.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-37.docx =====
+STF-DEA-1-37
+Question: 
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 43, Attachment 5.1.1-1. The results of the Residential Long-Term Forecasts are adjusted in the “ST and LT Adjusted Calendar” column by amounts ranging from -2.41% in 2027 up to ~13% in 2044.   Please explain if adjustments of this magnitude are typical in the calibration process between the short-term and long-term energy models. In addition to a narrative response, provide quantitative evidence in spreadsheet format where possible. Provide the same data for the “ST and LT Adjusted Billed” data. If these adjustments are not historically typical, provide a narrative explanation as to the drivers of these changes.  Demonstration of the range of calibration adjustments are provided in the table below. 
+ 
+DEA Calcs - Adjustments to LT End-Use Model Forecast 
+Year 
+LT Calendar End-Use Model 
+ST & LT Adjusted Calendar 
+Adjustment 
+Adjustment % 
+2024 
+                30,243  
+           29,514  
+              (729) 
+-2.41% 
+2025 
+                30,262  
+           29,783  
+              (479) 
+-1.58% 
+2026 
+                30,303  
+           30,213  
+                 (91) 
+-0.30% 
+2027 
+                30,370  
+           30,761  
+                 391  
+1.29% 
+2028 
+                30,445  
+           31,374  
+                 929  
+3.05% 
+2029 
+                30,565  
+           31,820  
+             1,255  
+4.11% 
+2030 
+                30,639  
+           32,194  
+             1,556  
+5.08% 
+2031 
+                30,737  
+           32,490  
+             1,753  
+5.70% 
+2032 
+                30,865  
+           32,807  
+             1,942  
+6.29% 
+2033 
+                31,022  
+           33,136  
+             2,114  
+6.81% 
+2034 
+                31,184  
+           33,468  
+             2,284  
+7.33% 
+2035 
+                31,363  
+           33,834  
+             2,471  
+7.88% 
+2036 
+                31,566  
+           34,243  
+             2,677  
+8.48% 
+2037 
+                31,771  
+           34,655  
+             2,884  
+9.08% 
+2038 
+                31,920  
+           35,004  
+             3,084  
+9.66% 
+2039 
+                32,084  
+           35,378  
+             3,294  
+10.27% 
+2040 
+                32,260  
+           35,767  
+             3,507  
+10.87% 
+2041 
+                32,443  
+           36,162  
+             3,719  
+11.46% 
+2042 
+                32,654  
+           36,578  
+             3,924  
+12.02% 
+2043 
+                32,889  
+           37,018  
+             4,129  
+12.55% 
+2044 
+                33,153  
+           37,486  
+             4,333  
+13.07% 
+
+Response: 
+Please see STF-DEA-1-37 Attachment TRADE SECRET for numerical details related to the Company’s calibration and adjustment process. The calibration process is a standard procedure used by the Company to align the long-term model with the short-term model’s energy forecast. These models are of the same magnitude before calibration, as they both model the organic growth of the class. 
+The Company also adjusts the forecasts for the reductions in sales resulting from the additional DSM, additional behind-the-meter distributed solar, and for the additions to sales resulting from growth in electric vehicles. These adjustments are the normal process for the residential class.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-38.docx =====
+STF-DEA-1-38
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 73, Attachment 5.1.2-1. The results of the Commercial Long-Term Forecast are adjusted in the “ST and LT Adjusted Calendar” column by amounts ranging from ~0% in 2024 up to ~174% in 2044.   Please explain if adjustments of this magnitude are typical in the calibration process between the short-term and long-term energy models. In addition to a narrative response, provide quantitative evidence in spreadsheet format where possible. Provide the same data for the “ST and LT Adjusted Billed” data. If these adjustments are not historically typical, provide a narrative explanation as to the drivers of these changes.  Demonstration of the range of calibration adjustments are provided in the table below. 
+ 
+DEA Calcs - Adjustments to LT End-Use Model Forecast 
+Year 
+LT Calendar End-Use Model 
+ST & LT Adjusted Calendar 
+Adjustment 
+Adjustment % 
+2024 
+            33,934  
+                   33,853  
+                 (81) 
+0% 
+2025 
+            34,197  
+                   36,329  
+              2,132  
+6% 
+2026 
+            34,503  
+                   42,097  
+              7,594  
+22% 
+2027 
+            34,874  
+                   53,997  
+           19,123  
+55% 
+2028 
+            35,277  
+                   68,914  
+           33,637  
+95% 
+2029 
+            35,664  
+                   82,120  
+           46,455  
+130% 
+2030 
+            36,066  
+                   91,263  
+           55,197  
+153% 
+2031 
+            36,472  
+                   96,240  
+           59,767  
+164% 
+2032 
+            36,890  
+                   98,995  
+           62,105  
+168% 
+2033 
+            37,319  
+                100,677  
+           63,359  
+170% 
+2034 
+            37,760  
+                102,400  
+           64,640  
+171% 
+2035 
+            38,210  
+                103,999  
+           65,789  
+172% 
+2036 
+            38,662  
+                105,401  
+           66,739  
+173% 
+2037 
+            39,115  
+                106,408  
+           67,293  
+172% 
+2038 
+            39,574  
+                107,629  
+           68,055  
+172% 
+2039 
+            40,035  
+                109,106  
+           69,071  
+173% 
+2040 
+            40,506  
+                110,727  
+           70,221  
+173% 
+2041 
+            40,977  
+                111,947  
+           70,970  
+173% 
+2042 
+            41,458  
+                113,326  
+           71,868  
+173% 
+2043 
+            41,954  
+                114,696  
+           72,741  
+173% 
+2044 
+            42,465  
+                116,312  
+           73,847  
+174% 
+
+Response:
+Please see STF-DEA-1-38 Attachment TRADE SECRET for numerical details related to the Company’s calibration and adjustment process. The calibration process is a standard procedure used by the Company to align the long-term model with the short-term model’s energy forecast. These models are of the same magnitude before calibration, as they both model the organic growth of the class. 
+The Company also adjusts the forecasts for the reductions in sales resulting from additional DSM programs, cogeneration, the projected adoption of behind-the-meter solar, the additional sales resulting from growth in electric vehicles and from large customers. For the commercial class, all of these adjustments are a normal procedure outside of the adjustments made for the sales growth coming from large customers. 
+As in the 2023 IRP Update, Budget 2025 includes an external adjustment to its baseline, organic forecast to account for the increased large load additions described herein. An external adjustment is needed for these loads since Georgia’s unprecedented economic development growth would not otherwise be captured in the historical trends underlying the baseline forecast. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-39.docx =====
+STF-DEA-1-39
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 73, Attachment 5.1.3-1. The results of the Industrial Long-Term Forecast are adjusted in the “ST and LT Adjusted Calendar” column by amounts ranging from -3% in 2024 up to 5% in 2044.   Please explain if adjustments of this magnitude are typical in the calibration process between the short-term and long-term energy models. In addition to a narrative response, provide quantitative evidence in spreadsheet format where possible. Provide the same data for the “ST and LT Adjusted Billed” data. If these adjustments are not historically typical, provide a narrative explanation as to the drivers of these changes.  Demonstration of the range of calibration adjustments are provided in the table below. 
+DEA Calcs - Adjustments to LT End-Use Model Forecast 
+Year 
+LT Calendar End-Use Model 
+ST & LT Adjusted Calendar 
+Adjustment 
+Adjustment % 
+2024 
+           24,938  
+     24,067  
+       (870) 
+-3% 
+2025 
+           25,359  
+     24,923  
+       (436) 
+-2% 
+2026 
+           25,768  
+     25,702  
+          (67) 
+0% 
+2027 
+           26,134  
+     26,473  
+          339  
+1% 
+2028 
+           26,518  
+     27,609  
+      1,090  
+4% 
+2029 
+           26,940  
+     28,337  
+      1,397  
+5% 
+2030 
+           27,368  
+     29,039  
+      1,671  
+6% 
+2031 
+           27,700  
+     29,844  
+      2,144  
+8% 
+2032 
+           28,036  
+     30,215  
+      2,179  
+8% 
+2033 
+           28,357  
+     30,475  
+      2,118  
+7% 
+2034 
+           28,655  
+     30,715  
+      2,060  
+7% 
+2035 
+           28,965  
+     30,978  
+      2,013  
+7% 
+2036 
+           29,260  
+     31,230  
+      1,970  
+7% 
+2037 
+           29,551  
+     31,447  
+      1,896  
+6% 
+2038 
+           29,796  
+     31,619  
+      1,824  
+6% 
+2039 
+           30,029  
+     31,777  
+      1,748  
+6% 
+2040 
+           30,226  
+     31,926  
+      1,700  
+6% 
+2041 
+           30,496  
+     32,120  
+      1,624  
+5% 
+2042 
+           30,783  
+     32,341  
+      1,558  
+5% 
+2043 
+           31,045  
+     32,533  
+      1,487  
+5% 
+2044 
+           31,338  
+     32,761  
+      1,422  
+5% 
+
+Response:
+Please see STF-DEA-1-39 Attachment TRADE SECRET for numerical details related to the Company’s calibration and adjustment process. The calibration process is a standard procedure used by the Company to align the long-term model with our short-term model’s energy forecast. These models are of the same magnitude before calibration, as they both model the organic growth of the class. 
+The Company also adjusts the forecasts for the reductions in sales resulting from cogeneration, behind-the-meter solar, and the additional sales resulting from growth in large customers. For the Industrial class, all of these adjustments are a normal procedure outside of the adjustments made for the sales growth coming from large customers. 
+As in the 2023 IRP Update, Budget 2025 includes an external adjustment to its baseline, organic forecast to account for the increased large load additions described herein. An external adjustment is needed for these loads since Georgia’s unprecedented economic development growth would not otherwise be captured in the historical trends underlying the baseline forecast. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-4.docx =====
+STF-DEA-1-4
+
+Question:
+
+Refer to the 2025 IRP Main Document, p. 35, stating that "Georgia Power has been selected to serve…a considerable pipeline of potential future projects." Please defined and explain the term "selected."  If the definition varies by project, please explain for each project. 
+
+
+Response:
+
+In the statement referred to in the question, the term “selected to serve” refers to those customers that have signed a Request for Electric Service (“RFS”). The Company also refers to these customers as committed customers. Prospective customers that have not signed an RFS with the company are considered potential customers.  
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-40.docx =====
+STF-DEA-1-40
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 40-42, 69-72, and 78- 80. Please explain why the variables selected in the long-term energy forecast are different than those in the short-term energy forecast.
+
+Response:
+The long-term LoadMap model determines usage via an energy simulation model on an annual basis and is driven by assumptions of end-use equipment usage, ownership, and modifiers such as weather. The econometric estimations used in the near-term capture current trends in the drivers of usage. The long-term results are calibrated to the short-term results to obtain a cohesive forecast.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-41.docx =====
+STF-DEA-1-41
+Question:
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, pp. 40-42, 69-72, and 78- 80. Please confirm that all data sources underlying the long-term energy sales forecasts are provided in the Company’s filing. If this data is not provided, please provide it in response to this data request.
+Response:
+The LoadMap data sources are described in Section 5 of the Load and Energy Forecast found in Technical Appendix Volume 1 of the 2025 IRP filing. 
+
+Please note that the LoadMap models require an extensive amount of input variables. Most of the variables that are not stated in the referenced pages in the filing, for both historical and future periods, are obtained from Applied Energy Group’s (“AEG”) proprietary models.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-42.docx =====
+STF-DEA-1-42
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 85. Please explain how the Company develops the “hourly segment level end-use load shapes to project energy use by segment and by end use…”.
+
+Response:
+The weather sensitive, HVAC and water heating, end-use kWh projections are used to guide the monthly sales allocations of the annual LoadMap results after the short-term sales horizon to capture changing monthly trends through time.
+The estimates of the hourly end-use consumption were developed using the Open Studio energy simulations as described in Section 5, pages 41 and 71 of the Load and Energy Forecast included in Technical Appendix Volume 1 to the 2025 IRP.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-43.docx =====
+STF-DEA-1-43
+
+Question:
+
+For all large load projects that have been cancelled or otherwise removed from the pipeline since the 2023 IRP Update, include projects introduced in that proceeding, provide data showing the amount of time these projects remained in the pipeline. Provide your response in spreadsheet format with all formulas and references intact. Provide sourcing for any external data, where applicable.
+
+Response:
+
+Please refer to STF-DEA-1-43 Attachment TRADE SECRET for information on projects that have been removed from the large load pipeline since the 2023 IRP Update. As discussed in STF-DEA-1-6, the Company has not produced information on when projects in the 2023 IRP Update entered the large load pipeline because it was not being tracked at the time of the filing. In STF-DEA-1-43 Attachment TRADE SECRET, Columns CN – CP contain information on whether the project was removed from the pipeline in 1Q24, 2Q24 or 3Q24. In total, 27 of the original 51 projects in the 2023 IRP Update pipeline have been removed. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-44.docx =====
+STF-DEA-1-44
+
+Question:
+
+Referring to the Large Load Realization Model, please explain if the Company has updated any of the model assumptions since the 2023 IRP Update. If not, why not? 
+
+Response:
+
+Since the 2023 IRP Update, the Company has updated customer information to reflect the latest available data as of Q2 2024, which was used in preparing the Budget 2025 projections that support the 2025 IRP. However, the underlying assumptions of the Load Realization Model, such as correlations, load realization percentages, and standard delays, have remained unchanged.
+
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-45.docx =====
+STF-DEA-1-45
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 116-118 and Table 8.2-1. Please explain why the Company only selects two potential load views in its scenario design process. 
+
+Response:
+
+In the scenario design for the Resource Mix Study, the Company included a view consistent with the Load and Energy Forecast for the 2025 IRP as well as an alternative view considering the effects of higher natural gas prices on its forecast of load growth. This is not an unusual occurrence. To support previous Integrated Resource Plan (“IRP”) Resource Mix Studies, the Company has considered as few as zero and as many as three alternatives to its official load forecast, which were not meaningfully different from one another from either a mix study perspective or when used to perform resource-specific economic evaluations for both demand-side and supply-side options. The Company’s scenario design strives to assemble views into scenarios that are meaningfully different from one another. For the set of scenarios analyzed in the 2025 IRP, it was determined that one alternative was sufficient, especially when combined with other key uncertainties in developing the wide range of possible futures in the nine scenarios in the 2025 IRP. Other alternative load views (e.g., High Load in the Company’s Financial Review) were produced as sensitivities in the Company’s B2025 Load and Energy Forecast and Financial Review.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-5.docx =====
+STF-DEA-1-5
+
+Question:
+
+Refer to the 2025 IRP Main documents, pp. 35-36, stating that “The size of many of these [new large load] projects far exceed historical annual norms.” Please provide data demonstrating that the new large loads exceed historical norms in spreadsheet format with all formulas and references intact. Provide sourcing for any external data, where applicable. 
+
+
+Response:
+
+The statement that “The size of many of these [new large load] projects far exceed historical annual norms” was based on qualitative rather than quantitative analysis. From 2015 to 2020, the Company made only one external adjustment to the forecast due to the expected addition of a large load customer. The adjustment made was less than 200 MW. Beginning in 2022 and continuing through 2024, numerous large load customers began looking at the state of Georgia and Georgia Power to build new projects. Many of the new loads exceeded 500 MW, and some have even exceeded 1 GW. These loads are much larger than anything that the Company has ever seen before. As a result, there is no spreadsheet with data and formulas to provide that demonstrates the new large loads exceed historical norms.
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-6.docx =====
+STF-DEA-1-6
+
+Question:
+
+Referring to the 2025 IRP Main document, p. 36, Figure 5b, please provide the spreadsheet underlying the data at the project level. For each project, include a column that identifies the quarter (Q3 2024, etc.) in which the project was introduced to the pipeline. Provide your response in spreadsheet format with all formulas and references intact. Provide sourcing for any external data, where applicable. 
+
+Response:
+
+Please refer to STF-DEA-1-6 Attachment TRADE SECRET for the information requested about the quarter that large load projects were introduced to the pipeline. This attachment has tabs for 1Q24, 2Q24, and 3Q24. For 1Q24, column W indicates whether the project is new to the pipeline in this quarter. For 2Q24 and 3Q24, this information is found in Column AA. This information is not available for the 2023 IRP Update because it was not being tracked prior to the 2023 IRP Update filing. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-7.docx =====
+STF-DEA-1-7
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 15. Please describe the process by which the Company selected nine (9) scenarios to evaluate resource planning uncertainties. 
+
+
+Response:
+
+For a description of the process by which the Company selected (9) scenarios to evaluate resource planning uncertainties, please refer to the 2025 IRP Main Document, Sections 3.2, 3.3 and 3.4, pp. 18-30.  
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-8.docx =====
+STF-DEA-1-8
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 15. Please explain if the seven (7) “forecast sensitivities” were run on each of the nine (9) scenarios. If so, please provide each of these results. 
+
+
+Response:
+
+The seven forecast sensitivities are stand-alone forecasts prepared for use in the B2025 Load and Energy Forecast Technical Appendix. The Company does not run each of the nine scenarios on these sensitivities. 
+
+===== DKT 56002 & 56003 STF-DEA-1 PD/STF-DEA-1-9.docx =====
+STF-DEA-1-9
+
+Question:
+
+Refer to the document titled “B2025 Load and Energy Forecast PUBLIC DISCLOSURE,” in Technical Appendix Volume 1, p. 16, Attachment 2.0-1. Please explain how the Company calculates its “Territorial Supply (GWh)”. 
+
+
+Response:
+
+Retail energy is energy at the customer level, which is referred to as Level D. Territorial Supply is measured at the generator level, which the Company refers to as Level A. The difference between Level A and Level D is line losses that occur between the generator and the delivery to the customer’s meter. To calculate Territorial Supply, Retail sales are multiplied by the estimates of loss factors.

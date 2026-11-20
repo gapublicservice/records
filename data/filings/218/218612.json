@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 99689,
+      "bytes": 238915,
+      "name": "R-5.docx",
+      "text": "docx",
+      "text_file": "data/text/218/218612/99689.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218612/99689"
+    },
+    {
+      "attachment_id": 99690,
+      "bytes": 3249720,
+      "name": "218612.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218612/99690"
+    }
+  ],
+  "company": "GPSC",
+  "description": "PROCEDURAL AND SCHEDULING ORDER",
+  "dockets": [
+    55378
+  ],
+  "document_id": 218612,
+  "filed_date": "2024-05-08",
+  "harvested": "2026-11-19",
+  "received_date": "2024-05-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=218612"
+}

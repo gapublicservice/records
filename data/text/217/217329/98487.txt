@@ -1,0 +1,118 @@
+===== DKT 55378 STF-JKA-7/DRSUM 55378 STF-JKA-7 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    February 5, 2024
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-JKA-7
+1
+COMPLETE
+NONE
+55378
+STF-JKA-7
+2
+COMPLETE
+NONE
+55378
+STF-JKA-7
+3
+COMPLETE
+NONE
+55378
+STF-JKA-7
+4
+COMPLETE
+NONE
+55378
+STF-JKA-7
+5
+COMPLETE
+NONE
+
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7 Verification and Attestation.pdf =====
+.
+
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7-1.docx =====
+STF-JKA-7-1
+
+Question:
+
+Comparing the 2022 IRP to the 2023 IRP Update and the Georgia Power specific Reserve Margin Load and Resource Table provided in, “Georgia Power Territorial Base Case Load vs. Existing Capability Table.xlsx”:
+Please explain how the Company determines a short-term RM and a long-term reserve margin.  Explain what period the short-term applies and how it is derived.
+Please explain what the company utilized as the short-term RM in the 2022 IRP, and over what period it was assumed, and the derivation of that reserve margin.
+Please explain what the company utilized as the short-term RM in the 2023 IRP Update, and over what period it was assumed, and the derivation of that reserve margin.
+To the extent that answers b and c are not identical, please explain all changes in the Company’s approach to setting a short-term and long-term Reserve Margin.
+
+
+Response:
+The Georgia Power short-term reserve margin (“RM”) is determined from historical load diversity factors. See the Company’s response to STF-JKA-6-1, part (f) for the diversity factor calculations. The short-term RM applies to studies inside of a three-year window. The long-term RM has not been updated since the 2022 Integrated Resource Plan (“IRP”) as referenced in the Company’s response to STF-JKA-6-1, part (e).
+See the Company’s response to STF-JKA-6-1, part (d) for details regarding the Georgia Power 2022 IRP short-term RM. The short-term period assumed for the 2022 IRP was 2023-2025.
+See the Company’s response to STF-JKA-6-1, part (d) for details regarding the Georgia Power 2023 IRP Update short-term RM. The short-term period assumed for the 2023 IRP Update is 2024-2026.
+See the Company’s response to STF-JKA-6-1, part (d) for details regarding the differences between the Georgia Power short-term RMs between the 2022 IRP and 2023 IRP Update.
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7-2.docx =====
+STF-JKA-7-2
+
+Question:
+
+Comparing the 2022 IRP to the 2023 IRP Update and the Southern Company specific Reserve Margin enforced in the Aurora Mix Study runs.
+Please explain how the Company determines a short-term RM and a long-term reserve margin.  Explain what period the short-term applies and how it is derived.
+Please explain what the company utilized as the short-term RM in the 2022 IRP, and over what period it was assumed, and the derivation of that reserve margin.
+Please explain what the company utilized as the short-term RM in the 2023 IRP Update, and over what period it was assumed, and the derivation of that reserve margin.
+To the extent that answers b and c are not identical, please explain all changes in the Company’s approach to setting a short-term and long-term Reserve Margin.
+
+
+Response:
+See Georgia Power’s 2022 Integrated Resource Plan (“IRP”) Docket No. 44160 Technical Appendix Vol 1., Section 1 – Reserve Margin Study. The long-term reserve margin (“RM”) applies to studies looking out four or more years. The short-term RM applies to studies inside of a three-year window.
+See Georgia Power’s 2022 IRP Docket No. 44160, Main Document page 1-2. See pages 58 & 60 of the Reserve Margin Study referenced in part (a) of this response for derivation details. 
+See Note E in file “Georgia Power Territorial Base Case Load vs. Existing Capability Table.xlsx” referenced in STF-JKA-7-1. The same Reserve Margin Study submitted in the 2022 IRP was used to derive the Southern Company short-term RM in the 2023 IRP Update.
+The Southern Company short-term and long-term RMs are the same across the 2022 IRP and 2023 IRP Update filings.
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7-3/STF-JKA-7-3.docx =====
+STF-JKA-7-3
+
+Question:
+Refer to row 16, and footnote E of “Georgia Power Territorial Base Case Load vs. Existing Capability Table.xlsx.”
+Please provide all workpapers and calculations supporting the derived diversity adjustment captured in the analysis translating the 26% Southern Company reserve margin to a GPC specific reserve margin. 
+Provide the specific year of analysis, the GPC Non-Coincident peak and the GPC coincident peak for that year.  
+Response:
+All calculations to determine the diversity factor that was used in the 2023 IRP Update to determine the Georgia Power-specific target reserve margin are provided in TS JKA-2-10 Attachment A. The calculations that detail how the Georgia Power target reserve margin was derived from the diversity factor and 26% Southern Company target reserve margin are provided in TS JKA-6-1 Attachment B.
+The diversity factor is calculated based on using a 10-year historical forecast (2013 – 2022) of the Southern Company operating companies’ non-coincident peaks. The Georgia Power non-coincident peaks and coincident peaks for the 10-year period are provided in STF-JKA-7-3 Attachment.
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7-4/STF-JKA-7-4.docx =====
+STF-JKA-7-4
+
+Question:
+Please reconcile the GPC column in the Auora mix study load input table, “Loads_B24_MG0_P95_v1” as adjusted by the change set, “B2024 Final IRP – Diversified Loads – MG0 P95” to the peak load forecast provided in “Georgia Power Territorial Base Case Load vs. Existing Capability Table.xlsx”
+Identify the peak hour for each year in the aurora data base that matches to the peak in the Georgia Power, “Georgia Power Territorial Base Case Load vs. Existing Capability Table.xlsx”
+For year 2030, it appears the non-coincident peak value in Aurora is 21,255 MW and the coincident peak is 21,075 (to SOCOnoSPC).  Please reconcile to the provided 21,326 value.
+Response:
+See STF-JKA-7-4 Attachment for the hour that corresponds with the Georgia Power Winter peak loads that are found in the Load and Resource balance table. 
+The Resource Mix Study identifies the capacity resources needed to meet the aggregate retail operating companies’ needs. The system peak demand forecasts are derived by summing each retail operating companies’ non-coincident peaks (“NCPs”) and then applying a load diversity factor. This process is carried out by applying the diversified peak load change set used within the Aurora model. When this change set file is activated within Aurora, hourly loads that correspond to the System (SOCOnoSPC) peak hour will be adjusted so that the sum of the retail operating companies will equal the winter diversified system peak demand. In year 2030, the System winter peak occurs on January 24 at hour 8. The retail operating companies’ loads in that same hour are adjusted proportionally to sum to the winter diversified system peak. In this case, the Company NCP of 21,326 MW corresponds with the System peak, so it is adjusted from 21,326 MW to 21,075 MW. This change set only applies to hours where the sum of the retail operating companies’ NCPs exceeds the system diversified peak demand, which was January 24 at hour 8. In hour 9 on the same day, the Company’s forecasted load is 21,225 MW. This value was not adjusted because the sum of each retail operating companies’ load did not exceed the System diversified peak in that hour. Therefore, due to the adjustment to the Company’s NCP that coincided with the system diversified peak demand and no other hours, it appears that 21,225 MW is the Company’s NCP, but that is only because of adjustments being made in some hours and no other adjustments are necessary. In 2030, the Resource Mix Study builds to the system diversified peak on January 24 hour 8 because that is the hour when the aggregate retail operating companies experience the peak demand.
+
+===== DKT 55378 STF-JKA-7/STF-JKA-7-5.docx =====
+STF-JKA-7-5
+
+Question:
+Please refer to the file TS_PRICEM_B2021_MG0_6_24_2021 STF-DEA-1-2.xlsm provided in the response to Staff Data Request DEA 1-2. Please provide the following information.
+On the Reports Tab in row 46 please explain the purpose of the line items in cell F46 and H46.
+Please provide an explanation of the components of these calculations.  
+Please refer to the Tab Calc cell BL 92.  This calculation includes a difference between two NPV amounts.  Please explain what these NPV amounts are intended to represent.   Please also explain the purpose of multiplier (1+H56)^31 used in the formula in this cell.   
+Please refer to the Tab Calc cell AE92, BJ92 and BK 92.  Please explain the purpose of this calculation and what each of these cells represents.  
+
+
+Response:
+The purpose of these calculations is to ensure that the Company is using the Economic Carrying Cost (“ECC”) to evaluate the Customer costs during the assumed project life. In a long-term economic analysis where project and asset lives differ, the ECC is appropriate rather than the Declining Revenue Requirement (“DRR”) .  
+Reports Tab F46 is the DRR to ECC True Up for combustion turbine (“CT”) Capacity. The formula includes a sum of all capacity types, several of which are not used in this example.  Reports Tab H46 is the DRR to ECC True Up for Bulk Transmission. 
+These calculations convert the DRR stream to an ECC by calculating the difference between the net present value (“NPV”) of the ECC stream over 30 years and the NPV of the DRR stream over 30 years. 
+This cell calculates the DRR to ECC True Up for CT Capacity. The two NPV amounts are the NPV of the ECC and the NPV of the DRR streams. Multiplier (1+H56)^31 intends to convert the NPV from year 1 dollars to year 31 dollars as year 31 is where the true up is incorporated on the RIM report and included in the NPV calculation. 
+In the RIM analysis the customer’s load is removed at the end of the assumed project life, resulting in available capacity. Cell AE92 is the resulting capacity benefit in the final year in terms of the Build Cost (real terms). Cell BJ92 then converts this capacity benefit in the final year (Cell AE92) to a DRR. Cell BK92 is the summation of the last year’s DRR cost (Cell AP92) plus the DRR for the capacity benefit (Cell BJ92) to the customer in the final year.

@@ -1,0 +1,36 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 102610,
+      "name": "Cover Letter (period ending 12.31.24) PD (stamp).docx",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221494/102610"
+    },
+    {
+      "attachment_id": 102611,
+      "name": "DKT 42310 44160 Hydro Mod 2025-02 PD.pdf",
+      "text": "not read yet",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221494/102611"
+    },
+    {
+      "attachment_id": 102612,
+      "name": "Cover Letter (period ending 12.31.24) TS (stamp).docx",
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221494/102612"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Hydro Modernization Report for 2025-02 PD",
+  "dockets": [
+    42310,
+    44160
+  ],
+  "document_id": 221494,
+  "filed_date": "2025-02-17",
+  "harvested": "2026-11-20",
+  "received_date": "2025-02-17",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=221494"
+}

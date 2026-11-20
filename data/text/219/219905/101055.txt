@@ -1,0 +1,472 @@
+===== DKT 55378 STF-PIA-15 PD/DRSUM_55378_STF-PIA-15 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    September 13, 2024
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-PIA-15
+1
+COMPLETE
+NONE
+55378
+STF-PIA-15
+2
+COMPLETE
+NONE
+55378
+STF-PIA-15
+3
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-15
+4
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-15
+5
+COMPLETE
+NONE
+55378
+STF-PIA-15
+6
+COMPLETE
+NONE
+55378
+STF-PIA-15
+7
+COMPLETE
+NONE
+55378
+STF-PIA-15
+8
+COMPLETE
+NONE
+55378
+STF-PIA-15
+9
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-15
+10
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-15
+11
+COMPLETE
+TRADE SECRET
+55378
+STF-PIA-15
+12
+COMPLETE
+NONE
+55378
+STF-PIA-15
+13
+COMPLETE
+NONE
+55378
+STF-PIA-15
+14
+COMPLETE
+NONE
+55378
+STF-PIA-15
+15
+COMPLETE
+NONE
+55378
+STF-PIA-15
+16
+COMPLETE
+TRADE SECRET
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15 Verification.pdf =====
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-1.docx =====
+STF-PIA-15-1
+
+Question:
+Please refer to the Application for Certification, pg. 4, stating that the Robins and Moody BESS will “be constructed with the capability to grid-charge if constraints are not present on the transmission system.” 
+Please describe the constraints that would prevent the BESS from charging from the grid. 
+In the economic analysis of the Robins and Moody projects, including the Aurora modeling, did the Company assume the projects are capable of charging from the grid? Please provide a narrative description of the modeling treatment of this constraint. 
+
+
+Response:
+Please see the Company’s response to STF-DEA-9-5. Until firm transmission delivery service has been studied for the Robins and Moody BESS, grid-charging constraints related to congestion or stability issues on the bulk power system are unknown. The Company will investigate firm transmission deliverability service for charging in the future to expand the operational flexibility of the resources.
+The Robins and Moody BESS projects will be primarily charged by the existing solar resources at each site. In the Aurora simulations, the Company limited charging to the adjacent solar facility. During real-time operations, the Company will grid-charge when transmission is available and it makes economic sense.  Given that firm transmission delivery for charging is currently unknown, this modeling approach is a reasonable approximation of energy benefits.
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-10/PD STF-PIA-15-10.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+
+GEORGIA POWER COMPANY 
+DOCKET NOS. 55378 
+
+ Data Request No. STF-PIA-15-10 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-10 (“Response”). In the Response, the Company has provided information and data supporting the proposed projects, including sensitive terms and conditions contained within the Engineering, Procurement, and Construction (“EPC”) Agreements and the Battery and Equipment Supply Agreements (“BESA”), pricing information, resource operational capability data, and development timelines, as well as certain information regarding the Company’s proprietary planning processes, financial data, technology screening assumptions, generic technology and resource cost information, specific resource and technology cost information, economic analyses, including confidential details regarding current and future transmission projects (the “Information”). Certain portions of the Information are trade secrets of Georgia Power and Southern Company and their affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+The trade secret portions of the Information derive economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the trade secret portions of the Information contained herein include competitively sensitive pricing and operational capability data specific to the resources under contract and proposed to be developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. 
+The trade secret portions of the Information also contain competitively sensitive cost information related to available technology options, financial data used in the Company’s resource analyses, and other confidential details including data supporting resource economic evaluations. Public dissemination of the trade secret portions of the Information would allow Georgia Power’s competitors and suppliers to have access to such processes and strategies and thereby gain an unfair competitive advantage in the marketplace. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can utilize such trade secret portions of the Information to manipulate pricing and timing of supply to the disadvantage of Georgia Power. Competitors would also unfairly benefit in having access and insight into the Company’s planning processes and methodologies. This competitive advantage for the Company’s suppliers and competitors would mean that Georgia Power will potentially pay higher prices to suppliers, ultimately harming Georgia Power and its customers.  
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+STF-PIA-15-10
+
+Question:
+Please refer to Trade Secret Attachment B.
+Please provide a description of each data column in the table.
+By dividing Total_Hours_Run by Startups, the average run time per start is REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. Please explain how the units are expected to operate, and reconcile the data provided in Attachment B.
+By dividing Output_MWH by Startups, the average output per hour is REDACTED REDACTED REDACTED REDACTED. Please explain how the units are expected to operate, and reconcile the data provided in Attachment B.
+
+Response:
+Description of each data column in the table is as follows:
+Capability_MWh: The total capability of the resource for the time period in MWh.
+Generation_MWh: This column reports the total positive output in MWh over the time period for the unit. It will only be different from the Output_MWh column when the unit has negative output over the time period (e.g. storage unit).
+Startups: The total number of startups for the resource during the given time period. This refers to periods where the BESS generates.
+Total_Hours_Run: The total number of hours in the Time_Period that the resource operated; both charging and generating.
+EFOR: Equivalent Forced Outage Rate; For these BESS projects, EFOR was set at REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.  This assumption is based in part on the track record of the equipment supplier.  
+Round Trip Efficiency: This column is round-trip efficiency defined as a fraction, typically between 0 and 1. The efficiency is applied on the charging side. The energy used from the grid and the energy stored in a given hour are based on the efficiency such that Energy Stored = (Efficiency)*Energy Used.
+
+The units are expected to operate at different levels of output based on the needs of the system in weather-normal conditions in Aurora (inclusive of point of interconnection [“POI”] limitations like at Robins and Moody).  From Attachment B, consider that Total_Hours_Run column factors both hours where the BESS generates as well as hours where it charges. The Startups column signifies hours where the BESS starts generating after an hour where the BESS was either idle or charging.  
+
+Please see the to the response to b. above.  Because the BESS are flexible assets to the system, the model will dispatch the resources in the most optimal fashion to provide lowest system production cost, which can be at levels below nameplate.
+ 
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-11/PD STF-PIA-15-11.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+
+GEORGIA POWER COMPANY 
+DOCKET NOS. 55378 
+
+ Data Request No. STF-PIA-15-11 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-11 (“Response”). In the Response, the Company has provided information and data supporting the proposed projects, including sensitive terms and conditions contained within the Engineering, Procurement, and Construction (“EPC”) Agreements and the Battery and Equipment Supply Agreements (“BESA”), pricing information, resource operational capability data, and development timelines, as well as certain information regarding the Company’s proprietary planning processes, financial data, technology screening assumptions, generic technology and resource cost information, specific resource and technology cost information, economic analyses, including confidential details regarding current and future transmission projects (the “Information”). Certain portions of the Information are trade secrets of Georgia Power and Southern Company and their affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+The trade secret portions of the Information derive economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the trade secret portions of the Information contained herein include competitively sensitive pricing and operational capability data specific to the resources under contract and proposed to be developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. 
+The trade secret portions of the Information also contain competitively sensitive cost information related to available technology options, financial data used in the Company’s resource analyses, and other confidential details including data supporting resource economic evaluations. Public dissemination of the trade secret portions of the Information would allow Georgia Power’s competitors and suppliers to have access to such processes and strategies and thereby gain an unfair competitive advantage in the marketplace. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can utilize such trade secret portions of the Information to manipulate pricing and timing of supply to the disadvantage of Georgia Power. Competitors would also unfairly benefit in having access and insight into the Company’s planning processes and methodologies. This competitive advantage for the Company’s suppliers and competitors would mean that Georgia Power will potentially pay higher prices to suppliers, ultimately harming Georgia Power and its customers.  
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+STF-PIA-15-11
+
+Question:
+Please refer to Trade Secret Attachment C. Please explain why the Hammond BESS project is REDACTED REDACTED on a $/kW basis than the other three proposed projects. 
+
+Response:
+The need for a new 230 kV project level substation and associated generation tie-line, coupled with Hammond BESS being a smaller project, results in the BESS being more expensive on a $/kW basis than the other three projects. 
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-12.docx =====
+STF-PIA-15-12
+
+Question:
+Please provide a detailed explanation regarding how contingency was calculated for each of the proposed BESS projects.
+
+
+Response:
+As outlined in the Company’s Application for Certification of Robins, Moody, Hammond, and McGrau Ford Phase II Battery Energy Storage Systems; Docket No. 55378, the Company has secured multiple fixed price contracts to derisk the battery energy storage projects. The contingency for the Battery Energy Storage System (“BESS”) projects was determined by considering risk factors related to the development and deployment of BESS projects. These factors include market fluctuations, project complexity, supplier lead times, contractual terms, and the clarity and stability of the project scope. The rapid development, the complexity of managing multiple interdependent agreements and the critical need for a 2026 commercial operation date (“COD”) were also considered. Contingency was applied across all projects in consideration of these risks. Any unused contingency funds will not be included in the final cost of the project, and the Company expects to report out on contingency as part of the Construction Monitoring requirements. 
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-13.docx =====
+STF-PIA-15-13
+
+Question:
+How will Georgia Power maintain system output for each of the full 20-year terms?  Are replacement components anticipated in the final 5-10 years? What is the estimated cost of these components? 
+
+
+Response:
+Please see the Company’s response to STF-PIA-15-6 for details related to maintaining system output and estimated costs. As shown in the BESS augmentation schedules referenced in STF-PIA-15-6, the Company does anticipate replacement components in the final 5 – 10 years of operation.
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-14.docx =====
+STF-PIA-15-14
+
+Question:
+Referring to the Application for Certification, pg. 2, how will the Company be able to “streamline the contracting and construction process”? What best engineering practices and lessons learned provide this assurance? Does the use of the same contractor from Phase I, result in a reduced timeline for deployment?
+
+Response:
+Retaining the same contractor for McGrau Ford Phase I and II offers numerous advantages. The Company can streamline the contracting and construction processes by leveraging existing contract terms negotiated for Phase I, providing economies of scale for cost and labor, simplifying oversight by reducing interfaces and stakeholders and ensuring a consistent standard is maintained across the project site. 
+The use of a single EPC contractor for both phases of McGrau Ford will result in a more efficient and expediated project deployment versus utilization of two separate contractors.
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-15.docx =====
+STF-PIA-15-15
+
+Question:
+Please refer to Trade Secret Attachment A spreadsheet “Cost Inputs” tab. Please explain the calculation for “Fixed O&M” for the year 2046 for each project.
+
+
+Response:
+The Company escalates fixed O&M across the life of these projects. Additionally, in the final year of each project, the company adds an estimate of the cost of removal and remediation for each project site including this expense under the Fixed O&M line item. This is consistent with the approach used for the resources submitted for the 2023 IRP Update.  Please see the workpapers “TS SAM ('23) - 7.0.1 Hammond BESS Certification Final.xlsm,”  “TS SAM ('23) - 7.0.1 MF2 BESS Certification Final.xlsm,” “TS SAM ('23) - 7.0.1 Moody BESS Certification Final.xlsm,” and “TS SAM ('23) - 7.0.1 Robins BESS Certification Final.xlsm” provided concurrently with the Certification Application on August 16, 2024, for more information on the costs that produce this input value. 
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-16/PD STF-PIA-15-16.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION  
+  
+GEORGIA POWER COMPANY  
+DOCKET NO. 55378  
+  
+Data Request No. STF-PIA-15-16
+  
+BASIS FOR THE ASSERTION THAT THE   
+INFORMATION SUBMITTED IS A TRADE SECRET  
+  
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 5537 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-16 (“Response”). In the Response, the Company has provided various models used in the preparation of the 2023 IRP Update. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.  
+  
+The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the Information includes detailed information regarding the Company’s forecasted prices, generating units, forecasted capacity and capital costs, and other critical information. Disclosure of the Information would provide extensive insight into the future plans of the Company. If revealed to the public, a generation wholesaler or power marketer could use the Information to tailor proposals with the intention of pricing products that could undermine the Company’s market position. Such disclosure could unfairly allow competitors to artificially manipulate the wholesale market and ultimately harm the Company. Portions of the Information are also the result of an immense amount of expenditures on the part of the Company and reflect the Company’s accumulated expertise. To allow competitors of the Company to access the Information without expending similar resources would unfairly bestow a competitive advantage on such customers. Lastly, the Company’s competitors are generally not required to file similar forecast information and to require the Company to do so would put it at an economic disadvantage. 
+  
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.    
+  
+STF-PIA-15-16
+
+Question:
+Please refer to Trade Secret Attachment A spreadsheet, “Summary” tab. Please explain how “WACC” was calculated. Identify capital structure components and their weights. Identify cost of equity and cost of debt. If these values are not consistent with capital structure and cost of equity approved by the Commission in the Company’s 2022 Rate Case order, provide an explanation for the difference.
+
+Response:
+The value in Attachment A on the “Summary” tab is based on the Company’s assumed marginal weighted average cost of capital (“WACC”). This differs from the 2022 Rate Case order as it relates to incremental expenditures.
+
+The “Cost Inputs” tab in Attachment A uses a revenue requirement developed in the Company’s Standard Analysis Model (“SAM”), which has been provided to Commission Staff. The 2022 Rate Case order included a capital structure of 56% equity and 44% long term debt, with an approved ROE of 10.5%. The SAM data is an input to economic analysis. The REDACTED WACC in Attachment A for the Economic Analysis is based on a marginal cost of capital and is only used for discounting cash flows in Attachment A for the Economic Analysis. A description of each WACC is provided in the table below.  The SAM model used in the economic ranking analysis used the 10.5% ROE and capitalization ratios approved in the 2022 Rate Case order. However, for the cost of debt, the Company appropriately used a marginal cost of debt (REDACTED) consistent with the 2023 IRP Update filing. This marginal cost of debt is appropriate for incremental capital expenditures not currently included in rates and therefore not contemplated in the overall embedded cost of debt, as established in the 2022 Rate case order.   If the Company were to move forward with incremental capital investment(s), it would issue debt at the current, or marginal, market debt rates, not the overall embedded debt cost rates. The table below summarizes the two WACCs assumed. 
+
+Financing Assumptions
+BESS SAM models
+Attachment A
+Economic Analysis
+ROE
+10.5%
+REDACTED
+Debt
+REDACTED
+REDACTED
+Debt Ratio (%)
+44%
+45%
+Equity Ratio (%)
+56%
+55%
+
+
+Federal Tax Rate
+21%
+21%
+State Tax Rate
+5.44%
+5.75%
+Composite Tax Rate
+25.3%
+25.5%
+
+
+WACC (after-tax)
+REDACTED
+REDACTED
+Inflation
+REDACTED
+REDACTED
+*Values reflect rounding  
+
+ The Company also completed a sensitivity analysis of the economic ranking analysis Attachment A. Please see the TS STF-PIA-15-16 Attachment. This changes the WACC on the Summary tab to REDACTED.
+
+The sensitivity analysis, using the alternative WACC, results in an economic ranking that is the same as what was filed.    
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-2.docx =====
+STF-PIA-15-2
+
+Question:
+
+Please refer to the Application for Certification, Figures 4-15; please provide a narrative description of each column/row in each figure.
+
+Response:
+
+The values included in Figures 4-15 were provided in accordance with Commission Rule 515-3-4-.07(3). Each figure offers a detailed breakdown of the costs associated with the respective Battery Energy Storage System (“BESS”) projects, including annual depreciation, financing costs, income taxes, fixed Operations and Maintenance (“O&M”), insurance, property taxes, and capital additions. The expenditure plans outline the costs over multiple years, while the Allowance for Funds Used During Construction (“AFUDC”), ad valorem, and sales tax estimates provide a detailed look at these specific costs.
+Figure 4, 7, 10, and 13: 
+Estimated Annual Depreciation: This represents the annual book depreciation expense for each BESS resource.
+Estimated Annual Debt and Equity Financing Costs on Capital Investment: The annual costs associated with financing the capital investment through debt and equity.
+Estimated Annual Income Taxes on Capital Investment: The annual income tax expense related to the capital investment inclusive of applicable tax credits.
+Estimated Fixed O&M: Fixed O&M costs are the expenses required to keep the BESS operational over its life. 
+Estimated Insurance: This is the estimated annual cost of insuring each BESS resource against certain risks. 
+Estimated Property Taxes: This represents the annual property tax expenses forecasted for each BESS resource.
+Estimated Annual Capital Additions: These are the capital additions expected for the assumed augmentation cycles. 
+Figure 5, 8, 11, and 14: 
+These figures show the different categories of expenditures for 2024-2026. Below each figure is a section with the heading “Descriptions of each category are provided below,” which offers a narrative description of each row. This section explains the nature of each expenditure category, such as planning, licensing, EPC contract costs, and more.
+
+Figure 6, 9, 12, and 15: 
+A narrative description of these figures is provided in the preceding paragraph for each figure. These figures detail the AFUDC, ad valorem, and sales tax estimates. AFUDC represents the cost of financing the construction of the BESS before it is operational. Ad valorem taxes are property taxes, and sales tax estimates are provided for applicable items.
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-3/PD STF-PIA-15-3 Attachments A-D.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-3/STF-PIA-15-3.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION 
+
+GEORGIA POWER COMPANY 
+DOCKET NOS. 55378 
+
+ Data Request No. STF-PIA-15-3 
+ 
+BASIS FOR THE ASSERTION THAT THE  
+INFORMATION SUBMITTED IS A TRADE SECRET
+ 
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-3 (“Response”). In the Response, the Company has provided information and data supporting the proposed projects, including sensitive terms and conditions contained within the Engineering, Procurement, and Construction (“EPC”) Agreements and the Battery and Equipment Supply Agreements (“BESA”), pricing information, resource operational capability data, and development timelines, as well as certain information regarding the Company’s proprietary planning processes, financial data, technology screening assumptions, generic technology and resource cost information, specific resource and technology cost information, economic analyses, including confidential details regarding current and future transmission projects (the “Information”). Certain portions of the Information are trade secrets of Georgia Power and Southern Company and their affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+ The trade secret portions of the Information derive economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the trade secret portions of the Information contained herein include competitively sensitive pricing and operational capability data, including project development timelines where applicable, specific to the resources under contract and proposed to be developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. 
+The trade secret portions of the Information also contain competitively sensitive cost information related to available technology options, processes and data used by Georgia Power in analyzing resource addition schedules, financial data used in the Company’s resource analyses, and other confidential details including data supporting resource economic evaluations. Public dissemination of the trade secret portions of the Information would allow Georgia Power’s competitors and suppliers to have access to such processes and strategies and thereby gain an unfair competitive advantage in the marketplace. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can utilize such trade secret portions of the Information to manipulate pricing and timing of supply to the disadvantage of Georgia Power. Competitors would also unfairly benefit in having access and insight into the Company’s planning processes and methodologies. This competitive advantage for the Company’s suppliers and competitors would mean that Georgia Power will potentially pay higher prices to suppliers, ultimately harming Georgia Power and its customers.  
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+STF-PIA-15-3
+
+Question:
+The Application for Certification refers to a “Supply Chain RFP process” related to both the EPCs and BESAs. See, e.g. discussion of Robins major contracts on pg. 14. 
+Was the Supply Chain RFP process the same process used for both the EPC and BESA? 
+Please provide a narrative description of the Supply Chain RFP process, including steps, schedule, entities involved, etc. 
+Provide documentation (reports, analyses, presentations, etc.) summarizing the process and results of the RFP. 
+ 
+
+Response:
+Yes. 
+The Company issued two Requests for Proposal (“RFPs”) in November 2023 to perspective vendors that could support upcoming battery storage projects. The first RFP focused on Battery Energy Storage System (“BESS”) suppliers, and the second RFP focused on engineering, procurement and construction (“EPC”) contractors. The Company considered several indicative qualitative and quantitative factors in evaluating each RFP response. The Company awarded contracts in the first and second quarters of 2024. Please see the attached files: TS STF-PIA-15-3 Attachments A, B, C, & D for further details. 
+See the following attachments, which represent internal documents prepared by the Company during the preliminary project assessment. Please note that several developments and changes have occurred since these documents were prepared.  
+Attachment 
+Description 
+TS STF-PIA-15-3 Attachment A 
+BESA Evaluation Summary
+TS STF-PIA-15-3 Attachment B
+BESA Recommendation Presentation
+TS STF-PIA-15-3 Attachment C
+EPC RFP Evaluation Summary
+TS STF-PIA-15-3 Attachment D
+EPC RFP Recommendation Presentation
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-4/PD STF-PIA-15-4 Attachments A-D.docx =====
+
+
+These files have been redacted in their entirety.
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-4/STF-PIA-15-4.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NOS. 55378
+
+Data Request No. STF-PIA-15-4
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-4 (“Response”). In the Response, the Company has provided information and data supporting the proposed projects, including sensitive terms and conditions contained within the battery supplier Long-Term Commitments Agreement (“LTCA”), such as pricing information, resource operational capability data, and development timelines (the “Information”). Certain portions of the Information are trade secrets of Georgia Power and Southern Company and their affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive contractual terms and conditions, pricing and operational capability data, including project development timelines where applicable, specific to the resources under contract and proposed to be developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Furthermore, public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, terms included in the LTCAs, provide for the confidentiality and protection of the Information. This proprietary information cannot be disclosed publicly, and if disclosed could harm Georgia Power’s ability to negotiate favorable terms with vendors in the future. Lastly, the Company’s competitors are not required to reveal or publish similar information.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-PIA-15-4
+
+Question:
+Please refer to the Application for Certification, pg. 14.  Provide the Long-Term Commitments Agreement for each of the proposed BESS projects. 
+
+Response:
+The attachments for the Long-Term Commitments Agreements (“LTCA”) are included as:
+
+Attachment
+Description
+TS STF-PIA-15-4 Attachment A
+24-93099-C-GPC McGrau II LTCA
+TS STF-PIA-15-4 Attachment B
+24-93102-C-GPC Moody LTCA
+TS STF-PIA-15-4 Attachment C
+24-93100-C-GPC Hammond LTCA
+TS STF-PIA-15-4 Attachment D
+24-93101-C-GPC Robins LTCA
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-5.docx =====
+STF-PIA-15-5
+
+Question:
+Regarding the McGrau Ford Phase II project. 
+How does this expansion impact the design of Phase I? 
+How is the Company allocating the common costs of the two projects between the Certification Applications for the two phases? 
+How does Phase II impact the interconnection requirements for the combined project? 
+
+
+Response:
+Adding the McGrau Ford Phase II project to the same site as the McGrau Ford Phase I project did not impact the design of Phase I. 
+Common costs, such as the O&M building, water line, and land, are included within the McGrau Ford Phase I cost estimates. McGrau Ford Phase II covers any incremental costs associated with common facilities beyond what was originally planned for McGrau Phase I, such as the project level substation expansion.
+McGrau Ford Phase I and Phase II will utilize the same Point of Interconnection (“POI”) and generation tie-line to the McGrau Ford Battery project level substation. McGrau Ford Phase II will be an incremental addition to the McGrau Ford Phase I project and will utilize the same interconnection. 
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-6.docx =====
+STF-PIA-15-6
+
+Question:
+Please refer to the Application for Certification, pg. 4.  Please provide augmentation schedules and narrative summaries to ensure all proposed BESS facilities maintain adequate energy capacity over the 20-year life of the resources. Who is responsible for augmentation cost (e.g. Battery vendor or Georgia Power)? What is the estimated cost for augmentation for each project?
+
+
+Response:
+The BESS Certification Application included the requested augmentation schedules and cost estimates. Please see the Application in column 8- “Estimated Annual Capital Additions” of Figure 4 - Robins BESS Estimated Annual Costs on page 10, Figure 7- Moody BESS Estimated Annual Costs on page 18, Figure 10 – Hammond BESS Estimated Annual Costs on page 26, and Figure 13 – McGrau Ford Phase II BESS Estimated Annual Costs on page 34.
+Regarding energy capacity over time, please see Attachment A through Attachment D provided in the Company’s response to STF-PIA-15-4. These Long-Term Commitments Agreements (“LTCA”) with Tesla performance guarantee.  Under the LTCAs, Tesla has provided a guaranteed energy retention curve. The LTCA includes remedies if the energy capacity fades below performance guarantees. In addition, the Company plans to augment sites to mitigate impacts from normal degradation over the lifetime of the assets. The Company is responsible for these regular augmentations and associated costs over the 20-year life of the asset.   
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-7.docx =====
+STF-PIA-15-7
+
+Question:
+Please refer to the Application for Certification, pg. 2, stating that “these projects save time and avoid additional capital investment otherwise required to construct interconnection facilities and transmission system upgrades to charge and discharge the BESS.”  Please reconcile this statement with the transmission analysis results presented in Trade Secret Attachment F.
+
+Response:
+The Company brought forth a 500 MW portfolio of BESS projects that required minimal network upgrades in years later than the commercial operation date and for only one BESS project, as discussed in Attachment F. Using existing transmission infrastructure, such as generator step-up (“GSU”) transformers, tie-lines and interconnection substations, will allow the Company to cost-effectively bring this portfolio of BESS projects online to meet capacity needs for the Winter of 2026/2027. 
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-8.docx =====
+STF-PIA-15-8
+
+Question:
+Please refer to the Application for Certification, Figure 1 (pg. 4). 
+Please explain why there are differences in the site round-trip efficiency (“RTE”) for the different projects.
+Please explain why the RTE values provided in TS Attachment B do not match the values provided in TS Attachment C.
+
+
+Response:
+The RTE variations are related to site specifics, such as variations in cabling and equipment losses that differ on a site-to-site basis.
+The Company initiated Aurora simulations before the Battery Energy Supply Agreements (“BESA”) were finalized. The Company utilized a simplified RTE assumption in its Aurora simulations as a reasonable approximation, designated in the output data noted in “TS Attachment B – BESS Operational Data.xlsb” to the Application for Certification filed on August 16, 2024. Final contractual values for RTE ultimately reflect an improvement, providing greater customer benefits than the assumed amounts in the economic analysis and associated Aurora simulation.
+
+
+===== DKT 55378 STF-PIA-15 PD/STF-PIA-15-9/STF-PIA-15-9.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION  
+  
+GEORGIA POWER COMPANY  
+DOCKET NO. 55378  
+  
+Data Request No. STF-PIA-15-9
+  
+BASIS FOR THE ASSERTION THAT THE   
+INFORMATION SUBMITTED IS A TRADE SECRET  
+  
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 5537 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-PIA-15-9 (“Response”). In the Response, the Company has provided information and data supporting the proposed projects, including sensitive terms and conditions contained within the Engineering, Procurement, and Construction (“EPC”) Agreements and the Battery and Equipment Supply Agreements (“BESA”), pricing information, resource operational capability data, and development timelines, as well as certain information regarding the Company’s proprietary planning processes, financial data, technology screening assumptions, generic technology and resource cost information, specific resource and technology cost information, economic analyses, including confidential details regarding current and future transmission projects (the “Information”). Certain portions of the Information are trade secrets of Georgia Power and Southern Company and their affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+The trade secret portions of the Information derive economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from their disclosure or use. Specifically, the trade secret portions of the Information contained herein include competitively sensitive pricing and operational capability data specific to the resources under contract and proposed to be developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. 
+The trade secret portions of the Information also contain competitively sensitive cost information related to available technology options, financial data used in the Company’s resource analyses, and other confidential details including data supporting resource economic evaluations. Public dissemination of the trade secret portions of the Information would allow Georgia Power’s competitors and suppliers to have access to such processes and strategies and thereby gain an unfair competitive advantage in the marketplace. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can utilize such trade secret portions of the Information to manipulate pricing and timing of supply to the disadvantage of Georgia Power. Competitors would also unfairly benefit in having access and insight into the Company’s planning processes and methodologies. This competitive advantage for the Company’s suppliers and competitors would mean that Georgia Power will potentially pay higher prices to suppliers, ultimately harming Georgia Power and its customers.  
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.    
+  
+
+STF-PIA-15-9
+
+Question:
+Please refer to Trade Secret Attachment A spreadsheet, ‘Energy Benefits tab. Please provide the workpapers calculating each of these values, including the source data from Aurora output files used for the calculations. Workpapers should be provided in electronic spreadsheet format with formulas intact.
+
+
+Response:
+Please see TS STF-PIA-15-9 Attachment for more information. The Aurora files were provided to PSC Staff concurrently with the certification filing on August 16, 2024.

@@ -1,0 +1,1722 @@
+BEFORE THE
+               GEORGIA PUBLIC SERVICE COMMISSION
+In Re:
+
+GEORGIA POWER COMPANY’S APPLICATION     )
+FOR CERTIFICATION OF THE ROBINS, MOODY, )          DOCKET NO. 55378
+HAMMOND, AND MCGRAU FORD PHASE I AND )
+II BATTERY ENERGY STORAGE SYSTEMS       )
+
+
+                        DIRECT TESTIMONY
+
+                           AND EXHIBITS
+
+                                  OF
+
+                           BOBBY ISELEY
+
+                                 AND
+
+                        JEFFREY D. BOWER
+
+
+                        PUBLIC DISCLOSURE
+
+
+                            On Behalf of the
+                   Georgia Public Service Commission
+                     Public Interest Advocacy Staff
+
+
+                           October 11, 2024
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1                               DIRECT TESTIMONY OF
+ 2                        BOBBY ISELEY AND JEFFREY D. BOWER
+
+ 3   IN THE MATTER OF GEORGIA POWER COMPANY’S APPLICATION FOR THE
+ 4   CERTIFICATION OF THE ROBINS, MOODY, HAMMOND, AND MCGRAU FORD
+ 5   PHASE I AND II BATTERY ENERGY STORAGE SYSTEMS
+ 6
+ 7                                      DOCKET NO. 55378
+
+
+ 8   I.   INTRODUCTION
+
+
+ 9   Q.   MR. ISELEY, PLEASE STATE YOUR NAME, TITLE, EMPLOYER, AND
+
+10        BUSINESS ADDRESS.
+
+11   A.   My name is Bobby Iseley, and I am a Public Utilities Engineer in the Energy Efficiency
+
+12        and Renewable Energy Unit with the Georgia Public Service Commission
+
+13        (“Commission”). My business address is 244 Washington Street SW, Atlanta, GA 30334.
+
+
+14   Q.   MR. ISELEY, PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND
+
+15        WORK EXPERIENCE.
+
+16   A.   My educational background and work experience are provided in my resume, which is
+
+17        attached as Public Interest Advocacy Staff (“PIA Staff”) Exhibit_ (IB-1).
+
+
+18   Q.   MR. BOWER, PLEASE STATE YOUR NAME, TITLE, EMPLOYER, AND
+
+19        BUSINESS ADDRESS.
+
+20   A.   My name is Jeffrey D. Bower. I am a Managing Consultant at Daymark Energy Advisors
+
+21        (“Daymark”), which provides energy planning, market analysis, and regulatory policy
+
+22        consulting and advisory services to support decision making within the electricity and
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                                Page 1 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        natural gas industries. We serve a broad range of clients in North America, including
+
+ 2        private and public utilities, energy producers and traders, energy consumers and consumer
+
+ 3        advocates, regulatory agencies, and public policy and energy research organizations, and
+
+ 4        other industry stakeholders. Our technical skills include power market forecasting models
+
+ 5        and methods, economics, management, planning, rates and pricing, and energy
+
+ 6        procurement, and contracting. Our experience includes detailed analyses of energy and
+
+ 7        environmental performance of the electric systems, economic planning for transmission,
+
+ 8        and market analytics. My business address is 370 Main Street, Suite 325, Worcester, MA
+
+ 9        01608.
+
+
+10   Q.   MR. BOWER, PLEASE STATE YOUR EDUCATIONAL BACKGROUND AND
+
+11        WORK EXPERIENCE.
+
+12   A.   My educational background and work experience are provided in my resume, which is
+
+13        attached as PIA Staff Exhibit_ (IB-2).
+
+
+14   Q.   MR. ISELEY, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS
+
+15        COMMISSION?
+
+16   A.   No. I have not.
+
+
+17   Q.   MR. BOWER, HAVE YOU PREVIOUSLY TESTIFIED BEFORE THIS
+
+18        COMMISSION?
+
+19   A.   Yes. I testified in Docket Nos. 4822, 16573, and 19279 regarding the application of
+
+20        Georgia Power Company’s Renewable Cost Benefit Framework (“RCB Framework”) to
+
+21        Public Utility Regulatory Policies Act of 1978 (“PURPA”) qualifying facilities (“QFs”). I
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                 Page 2 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        also testified in Docket No. 44160, Georgia Power Company’s 2022 Integrated Resource
+
+ 2        Plan (“IRP”), regarding multiple issues related to renewable and battery storage proposals.
+
+ 3        In addition, I have testified before regulatory commissions in other states and Canadian
+
+ 4        provinces. I have also supported Commission Staff’s evaluation of Georgia Power
+
+ 5        Company’s (“Georgia Power” or “Company”) RCB Framework since 2016.
+
+
+ 6   Q.   ON WHOSE BEHALF ARE YOU TESTIFYING?
+
+ 7   A.   We are presenting testimony on behalf of the Commission PIA Staff.
+
+
+ 8   Q.   WHAT IS THE PURPOSE OF YOUR TESTIMONY IN THIS PROCEEDING?
+
+ 9   A.   The primary purpose of our testimony is to address Georgia Power’s request to certify 500
+
+10        megawatts (“MW”) of Battery Energy Storage Systems (“BESS”) described in its August
+
+11        16, 2024 Application for the Certification of Robins, Moody, Hammond, and McGrau Ford
+
+12        Phase II Battery Energy Storage System in Docket No. 55378 (“Application”). In addition,
+
+13        our testimony will also address Georgia Power’s request to proceed with the McGrau Ford
+
+14        Phase I BESS, which is a 265 MW BESS project described in its August 9, 2024
+
+15        Engineering, Procurement, and Construction (“EPC”) Agreement Compliance Filing in
+
+16        Docket No. 44160 (“Compliance Filing”). The specific issues that we address in our
+
+17        testimony include the review of the costs estimated to build the BESS projects, the
+
+18        Company’s requested certified amount, and the reporting requirements associated with the
+
+19        construction of these projects.
+
+
+20        On September 4, 2024, the Commission approved a Procedural and Scheduling Order that
+
+21        consolidated consideration of the Company’s Application and the Company’s Compliance
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                 Page 3 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1        Filing from Docket No. 44160 into the evidentiary proceedings under this docket. The
+
+ 2        Robins, Moody, Hammond, and McGrau Ford Phases I and II projects will collectively be
+
+ 3        referred as the “Five BESS Projects” for the remainder of our testimony.
+
+
+ 4   Q.   PLEASE SUMMARIZE YOUR CONCLUSIONS AND RECOMMENDATIONS.
+
+ 5   A.   Based on our review of the Company’s filings, testimony, data request responses, and other
+
+ 6        pertinent information for this case, we have the following recommendations for the
+
+ 7        Commission’s consideration:
+
+ 8        1. The Company should provide updated costs of augmentation, actual decline rates in
+
+ 9           duration, and performance of BESS pre- and post-augmentation in an Annual BESS
+
+10           Report.
+
+11        2. The Company should be required to file quarterly Construction Monitoring Reports for
+
+12           the Five BESS Projects.
+
+13        3. The Commission should approve the Company’s proposal to include information on
+
+14           capital expenditures and financial cost data, detailed schedule reporting on critical path
+
+15           activities, status updates on the procurement of any new licenses and permits, variances
+
+16           in major contracts, and the procurement status of long-lead time equipment in the
+
+17           Construction Monitoring Reports. The Company should also be required to include
+
+18           information in the Construction Monitoring Reports regarding contingency assessment,
+
+19           construction work in progress (“CWIP”), allowance for funds used during construction
+
+20           (“AFUDC”), and Ad Valorem balances.
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                                Page 4 of 31
+
+                                           PUBLIC DISCLOSURE
+
+
+ 1         4. The Company’s request to proceed with the McGrau Ford Phase I BESS Project should
+
+ 2            be approved.
+
+3          5. The Company’s request to certify the Robins, Moody, Hammond, and McGrau Ford
+
+4             Phase II BESS Projects should be approved.
+
+ 5         6. The Company’s requested certified amounts for the Five BESS Projects should be
+
+ 6            reduced by the contingency amount of XXXXXXX for Changes in Import Tariffs or
+
+ 7            other Regulatory Impacts. Therefore, Staff’s recommended total certified cost amount
+
+ 8            for the Five BESS Projects, provided in Table 10, is XXXXXXXX. Staff will monitor
+
+ 9            the status of the risks identified along with the cumulative contingency spending
+
+10            through the Construction Monitoring Reports.
+
+
+11   II.   BACKGROUND
+
+
+12   Q.    PLEASE DESCRIBE THE COMPANY’S SPECIFIC REQUESTS CONTAINED IN
+
+13         THE APPLICATION AND COMPLIANCE FILINGS.
+
+14   A.    In the Application, the Company requested that the Commission certify 500 MW of
+
+15         Company-owned BESS projects located at Robins, Moody, Hammond, and McGrau Ford
+
+16         Phase II sites and approve the total certified amounts for each BESS project. In its
+
+17         Compliance Filing, the Company requested that the Commission allow the Company to
+
+18         proceed with the McGrau Ford Phase I BESS Project and approve the deemed certified
+
+19         cost contained in the filing.
+
+
+                             Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                               Docket No. 55378
+                                                  Page 5 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1   Q.   HAS THE COMMISSION ALREADY AUTHORIZED THE COMPANY TO
+
+ 2        DEVELOP 500 MW OF BESS PROJECTS?
+
+ 3   A.   Yes. On April 26, 2024, the Commission issued the 2023 IRP Update Order Adopting
+
+ 4        Stipulated Agreement in Docket No. 55378 (“IRP Update Order”), which authorized the
+
+ 5        Company to develop, own, and operate up to 500 MW of BESS resources. Specifically,
+
+ 6        Paragraph 7 of the Commission approved stipulation states the following:
+
+ 7               The Company’s request to own and operate up to a total of 1,000 MW of
+ 8               Battery Energy Storage Systems (“BESS”) is not approved. The Company
+ 9               is granted authority to develop, own, and operate up to 500 MW of BESS
+10               resources at various sites that will be identified by the Company to help
+11               meet the needs of economic development customer loads in the winter of
+12               2026/2027. This BESS development will be exempted from the RFP process
+13               under Commission Rules 515-3-4-.04(3)(f)(6) and (7). The Company shall
+14               file for expedited certification of projects once EPC agreements for the
+15               projects have been executed. Specific reporting requirements will be
+16               determined in the certification proceeding. Should the projects not be
+17               certified, the Commission will consider, during the certification proceeding,
+18               whether any incurred project cost not useful or transferable to other
+19               potential future projects shall be deferred to a regulatory asset for recovery
+20               in the next base rate case. The Commission will monitor the load growth
+21               under the reporting provided in Paragraph 2 and the Company or Staff may
+22               request an adjustment to the amount of BESS resources procured under this
+23               paragraph as needed to ensure that customers’ needs can be met in the
+24               winter of 2026/2027.
+
+
+25   Q.   HAS THE COMPANY’S SPECIFIC REQUEST TO ADD BESS PROJECTS AT
+
+26        ROBINS AND MOODY AIR FORCE BASES ALREADY BEEN APPROVED BY
+
+27        THE COMMISSION?
+
+28   A.   Yes. Paragraph 8 of the Commission approved stipulation states the following:
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                                Page 6 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1               The Company’s specific request for Battery Energy Storage System
+ 2               (“BESS”) projects at Robins and Moody Air Force Bases are exempted
+ 3               from the Commission’s RFP process under Commission Rules 515-3-4-
+ 4               .04(3)(f)(6) and (7) and approved. The capacity of these projects is included
+ 5               in the 500 MW of BESS resources approved for development in Paragraph
+ 6               7. The Company shall file for expedited certification of the Robins and
+ 7               Moody projects once the EPC agreements for the projects have been
+ 8               executed. The Company will file semi-annual construction monitoring
+ 9               reports from the date construction begins through the date of commercial
+10               operation. Specific reporting requirements will be determined in the
+11               certification proceeding. Should the projects not be certified, the
+12               Commission will consider, during the certification proceeding, whether any
+13               incurred project cost not useful or transferable to other potential future
+14               projects shall be deferred to a regulatory asset for recovery in the next base
+15               rate case.
+
+
+16   Q.   HAS THE COMPANY INCLUDED THE CAPACITY FOR THE ROBINS AND
+
+17        MOODY PROJECTS IN ITS 500 MW BESS CERTIFICATION REQUEST?
+
+18   A.   Yes. The capacity for the Robins and Moody BESS Projects was included in the
+
+19        Company’s 500 MW BESS Certification request.
+
+
+20   Q.   REGARDING MCGRAU FORD PHASE I, WHEN DID THE COMMISSION
+
+21        AUTHORIZE THE COMPANY TO DEVELOP THIS PROJECT?
+
+22   A.   On July 29, 2022, the Commission approved the 2022 IRP Order Adopting Stipulation
+
+23        (“2022 IRP Order”) which provisionally authorized the Company to own and operate the
+
+24        McGrau Ford Phase I BESS Project. Paragraph 13 of the Commission approved stipulation
+
+25        states the following:
+
+26               The Company is provisionally authorized to develop, own, and operate the
+27               McGrau Ford Battery Facility (the “McGrau Ford Project”). The
+28               Company will be required to provide the final McGrau Ford Engineering
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                 Page 7 of 31
+
+                                         PUBLIC DISCLOSURE
+
+
+ 1                 Procurement and Construction (“EPC”) agreement (or agreements if more
+ 2                 than one) to the Commission prior to undertaking procurement for or
+ 3                 construction of the McGrau Ford Project. Following the Company’s
+ 4                 provision of the EPC agreement to the Commission, the Commission will
+ 5                 determine whether to proceed with the McGrau Ford Project and provide
+ 6                 a deemed certified amount for the McGrau Ford Project. If the Company
+ 7                 exceeds the deemed certified amount, the Company has the burden of
+ 8                 showing that such costs were prudently incurred. The Company will also
+ 9                 file quarterly construction monitoring reports from the date construction
+10                 begins through the date of commercial operation.
+
+
+11   Q.     HAS THE COMPANY MET THE REQUIREMENT TO FILE FOR AN
+
+12          EXPEDITED CERTIFICATION?
+
+13   A.     Yes. In order to file for an expedited certification, the Company was required to file
+
+14          executed EPC agreements for the Five BESS Projects. In the Application and Compliance
+
+15          Filing, the Company provided executed EPC Agreements for all Five BESS Projects.
+
+
+16   III.   BESS PROJECT SPECIFICS
+
+
+17   Q.     PLEASE DESCRIBE IN MORE DETAIL THE FIVE BESS PROJECTS THAT
+
+18          COMPRISE THE COMPANY’S CERTIFICATION REQUEST.
+
+19   A.     The Five BESS Projects will utilize the Tesla Megapack 2 XL battery storage unit. As part
+
+20          of the Application and Compliance Filing, the Company provided the executed Battery
+
+21          Energy Supply Agreements (“BESA”) for each BESS project. Specific project details for
+
+22          the Five BESS Projects are as follows:
+
+23             •   Robins is a 128 MW, 4-hour duration, BESS facility located in Warner Robins,
+
+24                 Georgia. The BESS will be collocated with the existing 128 MW Robins solar
+
+                             Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                               Docket No. 55378
+                                                  Page 8 of 31
+
+                                         PUBLIC DISCLOSURE
+
+
+ 1               facility. The Company has executed an EPC agreement with Burns and McDonnell
+
+ 2               for the construction of the facility.
+
+ 3           •   Moody is a 49.5 MW, 4-hour duration, BESS facility located in Valdosta, Georgia.
+
+ 4               The BESS will be collocated with the existing 49.5 MW Moody solar facility. The
+
+ 5               Company has executed an EPC agreement with Crowder for the construction of the
+
+ 6               facility.
+
+ 7           •   Hammond is a 57.5 MW, 4-hour duration, standalone BESS facility located in
+
+ 8               Rome, Georgia. The Company has executed an EPC agreement with Crowder for
+
+ 9               the construction of the facility.
+
+10           •   McGrau Ford Phase I is a 265 MW, 2-hour duration, standalone BESS facility
+
+11               located in Ball Ground, Georgia. The Company has executed an EPC agreement
+
+12               with Burns and McDonnell for the construction of the facility.
+
+13           •   McGrau Ford Phase II is a 265 MW, 4-hour duration, standalone BESS facility
+
+14               located in Ball Ground, Georgia. The Company has executed an EPC agreement
+
+15               with Burns and McDonnell for the construction of the facility.
+
+
+16   Q.   HOW DID THE COMPANY DETERMINE WHERE TO SITE THESE BESS
+
+17        PROJECTS?
+
+18   A.   The Company sited the Five BESS Projects in locations that allowed it to meet the required
+
+19        Commercial Operation Date (“COD”) and would have limited transmission impacts
+
+20        (Direct Testimony of Jeffrey R. Grubb, Michael A. Bush, and Steven M. Goedjen, page
+
+21        (“p”). 6, lines 3-7). The review of the siting of the projects and associated transmission
+
+
+                             Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                               Docket No. 55378
+                                                  Page 9 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        review will be addressed in the testimony of PIA Staff panel of Douglas A. Smith and
+
+ 2        Katherine Palacios.
+
+
+ 3   Q.   ARE THE FIVE BESS PROJECTS FORECASTED TO HELP MEET THE
+
+ 4        COMPANY’S CAPACITY NEEDS IN THE WINTER OF 2026/2027?
+
+ 5   A.   Yes. All of the Five BESS Projects are anticipated to be online by the winter of 2026/2027
+
+ 6        and will help meet the needs of economic development customer loads in the winter of
+
+ 7        2026/2027. The table below provides the anticipated COD for each of the Five BESS
+
+ 8        Projects:
+
+ 9                           Table 1. BESS Commercial Operation Dates
+
+                                BESS Project                       COD
+                                    Robins                      June 2026
+                                    Moody                       May 2026
+                                  Hammond                   November 2026
+                            McGrau Ford Phase I             November 2026
+                           McGrau Ford Phase II             September 2026
+
+
+10   Q.   WHAT TOTAL CERTIFIED COST HAS THE COMPANY REQUESTED FOR
+
+11        EACH OF THE FIVE BESS PROJECTS?
+
+12   A.   As contained in the Application and Compliance Filing, the Company requested the
+
+13        following total certified cost amounts:
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 10 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1                                 Table 2. Requested Certified Cost
+
+          BESS Project                     Capacity        Requested Certified      Cost per
+                                            (MW)                  Cost                MW
+          Robins                                 128             XXXXXXXX           XXXXXXX
+          Moody                                 49.5             XXXXXXXX           XXXXXXX
+          Hammond                               57.5             XXXXXXXX           XXXXXXX
+          McGrau Ford Phase I                    265             XXXXXXXX           XXXXXXX
+          McGrau Ford Phase II                   265             XXXXXXXX           XXXXXXX
+
+
+ 2   Q.    PLEASE DESCRIBE THE COST CATEGORIES THAT WERE INCLUDED IN
+
+3          THE COMPANY’S REQUESTED CERTIFIED COST.
+
+ 4   A.    The Company separated the requested certified cost into the following categories:
+
+ 5         Planning, Licensing, EPC Contract, BESA Contract, Engineering and Construction, Start-
+
+ 6         Up, Transmission, Contingency, Financing (AFUDC), and Ad Valorem Taxes.
+
+
+ 7   Q.    IN ADDITION TO THE REQUESTED CERTIFIED COST, ARE THERE OTHER
+
+ 8         EXPENSES THAT MUST BE CONSIDERED DURING THE LIFE OF THE BESS
+
+ 9         PROJECTS?
+
+10   A.    Yes. In the Application and Compliance Filing, the Company provided estimated annual
+
+11         costs that include the following categories: Depreciation, Debt and Equity Financing Costs
+
+12         on Capital Investment, Income Taxes on Capital Investment, Fixed Operations and
+
+13         Maintenance (“O&M”), Insurance, Property Taxes, and Capital Additions. The Company
+
+14         also provided a list of transmission projects attributable to the McGrau Ford Phase II
+
+15         Project (Attachment F, Application).
+
+
+16   Q.    PLEASE DESCRIBE IN DETAIL THE INTENDED PURPOSE OF FIXED O&M.
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 11 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1   A.   In response to a data request, the Company stated that Fixed O&M includes the following
+
+ 2        annual expense categories: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+3         XXXXXXXXXXXXXXXXX. The Robins BESS Project uniquely has an annual
+
+4         Administrative Fee for the Central Georgia Joint Development Authority included in the
+
+5         Fixed O&M (Company’s Response to STF-PIA-17-11). Additionally, in the final year of
+
+6         life for each project, the Company included in Fixed O&M, costs for the removal and
+
+7         remediation of the project site (Company’s Response to STF-PIA-15-15).
+
+
+ 8   Q.   DID THE COMPANY INCLUDE CONTINGENCY IN ITS COST ESTIMATES
+
+ 9        AND IF SO, WHAT IS THE PURPOSE OF CONTINGENCY?
+
+10   A.   Yes. The Company included contingency in its total certified cost requests to address risks
+
+11        associated with the completion of the projects. The Company stated that it considered
+
+12        multiple risk factors in its determination of the contingency amount and that any unused
+
+13        contingency funds will not be included in the final cost of the projects. The Company also
+
+14        stated that it expects to report on contingency as part of its construction monitoring
+
+15        requirements (Company’s Response to STF-PIA-15-12). The Company provided the
+
+16        following contingency amounts in its risk register spreadsheet tool for each of the Five
+
+17        BESS Projects (Company’s Response to STF-PIA-18-6):
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                               Page 12 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1                                    Table 3. Risk identification
+
+                                Project
+                                                                    XXXXXXXXXXXX
+                 BESS          Estimate            Total
+                                                                   XXXXXXXXXXXXXX
+                Project       (Excluding        Contingency
+                                                                     XXXXXXXXXX
+                             Contingency)
+
+                Robins        XXXXXXX            XXXXXXX                   XXXXXXX
+                Moody         XXXXXXX            XXXXXXX                   XXXXXXX
+              Hammond         XXXXXXX            XXXXXXX                   XXXXXXX
+             McGrau Ford
+               Phase I        XXXXXXX            XXXXXXX                   XXXXXXX
+
+             McGrau Ford
+               Phase II       XXXXXXX            XXXXXXX                   XXXXXXX
+
+                 Total        XXXXXXX            XXXXXXX                   XXXXXXX
+
+
+ 2   Q.   PLEASE DESCRIBE THE RISK FACTORS USED BY THE COMPANY TO
+
+ 3        DETERMINE THE CONTINGENCY FOR THE FIVE BESS PROJECTS.
+
+ 4   A.   The risks factors that were considered by the Company in the contingency calculation
+
+ 5        include: market fluctuations, project complexity, supplier lead times, contractual terms,
+
+ 6        clarity and stability of the project scope, rapid development, complexity of managing
+
+ 7        multiple interdependent agreements, and the need for a 2026 COD. The Company provided
+
+ 8        a detailed breakdown of the risk categories and then assigned probabilities for each of the
+
+ 9        Five BESS Projects (Company’s Response to STF-PIA-18-6). Worth noting, for the Five
+
+10        BESS Projects, the Company identified several risk categories XXXXXXXXXXXXX
+
+11        XXXXX. The risks that are outside of the Company’s control include: XXXXXXXX
+
+12        Index Impact XXXXXXXXX EPC Cost Relief for Force Majeure, and Changes in Import
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                               Page 13 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        Tariffs or other Regulatory Impacts. The risks that the Company has some control over are
+
+ 2        Vendor-caused Schedule Delays and Controls Integration. The risks the Company has
+
+ 3        primary control over is Quality Issues, Transmission Facilities Cost Increase, and Owner-
+
+4         caused Schedule Delays. The only risk category that was identified as XXXX is Changes
+
+5         in Import Tariffs or other Regulatory Impacts. This risk is outside of the Company’s
+
+6         control and makes up a significant portion of the Company’s total contingency request.
+
+
+ 7   Q.   WHAT CONCERNS DOES STAFF HAVE REGARDING THE CONTINGENCY
+
+ 8        AMOUNT REQUESTED BY THE COMPANY AS PART OF THE CERTIFIED
+
+ 9        COST FOR THE FIVE BESS PROJECTS?
+
+10   A.   Staff has concerns regarding the risk category Changes in Import Tariffs or other
+
+11        Regulatory Impacts being included in the Company’s contingency request. If a change in
+
+12        law does occur and Georgia Power incurs costs associated with changes in tariffs or other
+
+13        regulatory impacts being implemented, under the Commission’s IRP Act, the Company
+
+14        would be allowed to request recovery of such costs even if the costs are not included in the
+
+15        certified amount. Staff would likely support the recovery of such costs if associated directly
+
+16        with the implementation of the change in law. However, if the change in law does not
+
+17        occur but the contingency for those costs has been included in the certified cost, there is no
+
+18        mechanism available to challenge the reasonableness of any project cost unless the project
+
+19        costs exceed the approved certified amount. In other words, if Georgia Power spends the
+
+20        contingency amount on something different, ratepayers would have no opportunity to
+
+21        challenge the reasonableness of such costs. The Commission should preserve the right of
+
+22        the ratepayers to challenge costs based on the legal standard of reasonableness.
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 14 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1   Q.   WHAT IS STAFF’S RECOMMENDATION REGARDING THE CONTINGENCY
+
+ 2        AMOUNT REQUESTED BY THE COMPANY?
+
+ 3   A.   Staff recommends that the contingency amount requested for Changes in Import Tariffs or
+
+ 4        other Regulatory Impacts, in the cumulative amount of XXXXXXX for the Five BESS
+
+ 5        Projects, not be approved as part of the total certified cost. For the other contingency items,
+
+ 6        the Company has provided Staff the risk registers for each project. Staff will monitor the
+
+ 7        status of the risks identified along with the cumulative contingency spending through the
+
+ 8        Construction Monitoring Reports.
+
+
+ 9   Q.   PLEASE       DESCRIBE        HOW       THE      COMPANY           SELECTED       THE     EPC
+
+10        CONTRACTORS FOR THE FIVE BESS PROJECTS.
+
+11   A.   In November 2023, the Company issued a Request for Proposals (“RFP”) for an EPC
+
+12        contractor for the Robins, Moody, and McGrau Ford Phase I BESS Projects. The responses
+
+13        to the RFP were to include all installation and equipment costs excluding the procurement
+
+14        of the BESS. Once the responses were received and reviewed, the Company ranked each
+
+15        proposal considering quantitative and qualitative factors which included weighted
+
+16        categories such as the bidder’s XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+17        XXXXXXXXXXXXXXXXXXXXXXXXXXXX (Company’s Response to TS STF-PIA-
+
+18        15-3 Attachment C).
+
+
+19   Q.   PLEASE DESCRIBE THE PROCRESS USED BY THE COMPANY TO SELECT
+
+20        TESLA AS THE SOLE BESS SUPPLIER.
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 15 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1   A.   In November 2023, the Company issued an RFP for a BESS supplier for the Robins,
+
+ 2        Moody, and McGrau Ford Phase I BESS Projects. In response to a data request, the
+
+ 3        Company provided the total cost with breakout of cost categories submitted in each
+
+4         vendor’s bid (Company’s Response to TS STF-PIA-15-3 Attachment A). Similar to the
+
+5         EPC RFP, bidders from this RFP were ranked considering several qualitative and
+
+ 6        quantitative factors XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 7        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+
+ 8   Q.   PLEASE DESCRIBE THE COMPANY’S ECONOMIC EVALUATION OF THE
+
+ 9        FIVE BESS PROJECTS.
+
+10   A.   As part of the Application, the Company conducted an economic evaluation for four of the
+
+11        Five BESS Projects, excluding McGrau Ford Phase I. This evaluation assessed the costs
+
+12        and benefits of the projects over time. The economic analysis provided in the Application
+
+13        is structured to be consistent with the 2023 IRP Update Economic Analysis (Application,
+
+14        Attachment A: 500 MW BESS Economic Analysis, p. 2). The period of analysis covers
+
+15        the 20-year assumed life of the asset, plus additional years using the “term equalization”
+
+16        method which used in the 2023 IRP Update filing. This method allowed the comparison of
+
+17        assets of varying lifespans. The Company conducted the analysis using five scenarios:
+
+18        Medium Gas Price, Zero Carbon Price (MG0); Low Gas, Zero Carbon Price (LG0); High
+
+19        Gas Price, Zero Carbon Price (HG0); Medium Gas Price, $20 Carbon Price (MG20); and
+
+20        Medium Gas Price, $50 Carbon Price (MG50).
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                               Page 16 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        The Company did not provide an updated economic benefits analysis for McGrau Ford
+
+ 2        Phase I BESS in the Compliance Filing. In the 2022 IRP, when the project was initially
+
+ 3        approved, the Company conducted a generic analysis of the economic costs and benefits
+
+ 4        of incremental battery storage resources. The analysis, provided in Technical Appendix 2
+
+ 5        of the 2022 IRP filing, was structurally similar to the analysis included in the Application,
+
+ 6        including energy benefits from the Aurora model and benefits related to reducing the cost
+
+ 7        of integrating renewable resources. While the Company did not provide an updated
+
+ 8        economic analysis in the Compliance Filing, the analysis conducted on McGrau Ford Phase
+
+ 9        II BESS provides an indication of the potential benefits, with the caveat that McGrau Ford
+
+10        Phase I is a 2-hour battery and Phase II is a 4-hour battery.
+
+
+11   Q.   WHAT ARE THE PRIMARY COMPONENTS OF THE PROJECT COSTS OVER
+
+12        THE LIFE OF THE ASSETS?
+
+13   A.   The table below provides the cost and benefit components reproduced from the Company’s
+
+14        economic analysis summary (Application, PD Attachment A 500 MW BESS Economic
+
+15        Analysis, p. 4). The table includes cost component categories grouped into asset costs,
+
+16        system costs, and benefits categories.
+
+17                     Table 4. Economic Analysis Cost and Benefit Categories
+
+           Asset Costs                 System Costs                    Benefits
+           Capacity Costs              Transmission                    Energy Benefit
+           Accounting Lease            Term Equalization               Renewable Integration Benefit
+           Additional Sum
+           In-Service Capital
+           Environmental
+           Maintenance Capital
+           Fixed O&M
+           FT
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 17 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        XXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 2        XXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 3        XXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 4        XXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ 5        XXXXX
+
+
+ 6   Q.   PLEASE DESCRIBE THE COMPANY’S TREATMENT OF TAX CREDITS IN
+
+ 7        ITS APPLICATION AND COMPLIANCE FILINGS.
+
+ 8   A.   The value of federal and state investment tax credits (“ITCs”) is included as an element of
+
+ 9        the In-Service Capital line item. The Company used project-specific tax credit qualification
+
+10        assumptions based on the specific circumstances of each project (Company’s Response to
+
+11        STF-PIA-17-6). The table below summarizes the tax credit assumptions for each project:
+
+12                           Table 5. Federal and State ITC Assumptions
+
+                     Project                          Federal ITC         State ITC
+                     Robins                           30%                 5%
+                     Moody                            30%                 5%
+                     Hammond                          40%                 5%
+                     McGrau Ford Phase I              30%                 3%
+                     McGrau Ford Phase II             30%                 3%
+
+13        The difference in the Federal ITC amounts is due to the siting of the Hammond project at
+
+14        a retired coal plant. The Federal Inflation Reduction Act (“IRA”) provides a bonus 10%
+
+15        tax credit for projects sited within “energy communities,” defined as United States (“US”)
+
+16        census tracts near where a coal-fired generating plant was retired after 2009. The difference
+
+17        in the state tax credits for the McGrau Ford Phase I and II Projects and the other BESS
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 18 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1        Projects is due to the county in which the projects are located (Company’s Response to
+
+ 2        STF-PIA-17-6).
+
+
+ 3   Q.   ARE THERE NOTABLE RISKS ASSOCIATED WITH THE TAX CREDIT
+
+ 4        ASSUMPTIONS?
+
+ 5   A.   Yes. There are risks related to qualification for specific tax credits. Tax credits are subject
+
+ 6        to specific tax code provisions that are driven by policies of the Federal Government.
+
+ 7        Qualification for specific credits is based on compliance with the provisions of the
+
+ 8        regulations, some of which are outside of the control of the Company. For example, the
+
+ 9        Federal ITC under the IRA has specific Prevailing Wage and Apprenticeship (“PWA”)
+
+10        requirements,” which set threshold requirements in order to qualify for the maximum credit
+
+11        amounts. The Company has confirmed that the vendors are “guaranteeing compliance with
+
+12        [PWA] requirements relevant to their works scope for the Company to remain eligible” for
+
+13        the assumed ITC levels (Company’s Response to STF-PIA-17-10-a). Furthermore, the
+
+14        Company has stated that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+15        XXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+16        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (Trade Secret (“TS”) Company’s
+
+17        Response to STF-PIA-17-10-a). Therefore, while there are still some risks associated with
+
+18        full qualification for the tax credits, the Company XXXXXXXXXXXXXXXXXXXXX
+
+19        XXXXXX.
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 19 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1   Q.   ARE THERE SIGNIFICANT DIFFERENCES IN THE COSTS BETWEEN THE
+
+ 2        PROJECTS?
+
+ 3   A.   Yes. While many of the cost elements are very similar, there are some notable exceptions
+
+ 4        which resulted in a meaningful difference in the relative costs of the projects. The Company
+
+5         provided a breakdown of costs on a $/kilowatt (“kW”) basis for the aggregated cost
+
+6         categories with the economic analysis (Application, TS Attachment A: 500 MW BESS
+
+7         Economic Analysis, p.4). In the table below, we have expanded the table to highlight key
+
+8         sub-categories:
+
+9                     Table 6. Cost Components by Project (NPV $/kW, 2024$)
+
+                                                                                    McGrau McGrau
+                                                Robins      Moody      Hammond
+                                                                                    Ford I  Ford II
+           Nameplate Capacity (MW)                   128        49.5           57.5     265     265
+                         XXXXXX
+           In-Service                              XXX         XXX            XXX     XXX        XXX
+                         XXXXXX
+           Capital
+                         XXXXXX                    XXX         XXX            XXX     XXX        XXX
+           Maintenance
+                         XXXXXX                    XXX         XXX            XXX     XXX        XXX
+           Capital
+                         XXXXXX                    XXX         XXX            XXX     XXX        XXX
+                         XXXXXX                    XXX         XXX            XXX     XXX        XXX
+           Fixed O&M
+                         XXXXXX
+                                                   XXX         XXX            XXX     XXX        XXX
+                         XXXXXX
+
+10        As shown in the table, there are a few notable differences between the projects. First, the
+
+11        McGrau Ford Phase I Project is a 2-hour BESS, while the other projects are 4-hour BESS,
+
+12        so the capital cost is lower on a per-kW basis. The Hammond Project has a higher
+
+13        interconnection cost on a per-kW basis. The Company addressed this item, noting that:
+
+14        “The need for a new 230 kV project level substation and associated generation tie-line,
+
+15        coupled with Hammond BESS being a smaller project, results in the BESS being more
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 20 of 31
+
+                                           PUBLIC DISCLOSURE
+
+
+ 1        expensive on a $/kW basis than the other three projects” (Company’s Response to STF-
+
+ 2        PIA-15-11). Lastly, the augmentation cost is higher for the Robins and Moody Projects due
+
+ 3        to the strategy used by the Company for these projects. This issue will be discussed in more
+
+ 4        detail later in our testimony.
+
+
+5    Q.   WHAT ARE THE COMPONENTS OF THE PROJECT BENEFITS?
+
+6    A.   The project benefits included in the Company’s economic evaluation consist of two
+
+7         elements: Energy Benefits and Renewable Integration Benefits.
+
+
+8    Q.   PLEASE DESCRIBE THE COMPANY’S CALCULATION OF ENERGY
+
+9         BENEFITS.
+
+10   A.   Energy Benefits reflect the change in overall system production cost due to the addition of
+
+11        the BESS project. Consistent with the 2023 IRP Update analysis, the Company used the
+
+12        Aurora production cost model to quantify these benefits. The Company did not provide
+
+13        Energy Benefit results for the McGrau Ford Phase I Project. The analysis models a “Base
+
+14        Case” without the project in-service, and a “Change Case” with the project in service. The
+
+15        addition of the project results in a reduction in the total system production cost due to the
+
+16        reduction in fuel purchases as the battery displaces the use of less efficient peaking plants.
+
+
+17   Q.   DO THE PROJECTS PROVIDE SIMILAR ENERGY BENEFITS?
+
+18   A.   Yes. The table below provides the Energy Benefits on $/kW basis and demonstrates that
+
+19        the results are similar across the projects:
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 21 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1                                  Table 7. Energy Benefit Results
+
+                                                                                           McGrau Ford
+                                           Robins         Moody           Hammond          Phase II
+           Energy         $000 NPV,
+                                                  XXX             XXX               XXX           XXX
+           Benefit        2024$
+           Nameplate
+                                                    128            49.5             57.5           265
+           Capacity       MW
+           Energy         $/kW NPV,
+                                                  XXX             XXX               XXX           XXX
+           Benefit        2024$
+
+ 2        There were minor differences in how the projects were represented in the Aurora model,
+
+ 3        which helps account for the discrepancies. The Robins and Moody Projects are designed
+
+ 4        to charge from the co-located solar facility and this limitation is reflected in the Aurora
+
+ 5        modeling (Company’s Response to STF-PIA-15-1). This constraint on operations prevents
+
+ 6        these facilities from using the same optimized charging and discharging cycles that was
+
+ 7        used by the other facilities in the model. However, in actual operation, the Company plans
+
+ 8        to charge the battery from the grid when conditions allow. In addition, the Company plans
+
+ 9        to “investigate firm transmission deliverability service for charging in the future to expand
+
+10        the operational flexibility of the resources” (Company’s Response to STF-PIA-15-1).
+
+
+11   Q.   PLEASE DESCRIBE THE RENEWABLE INTEGRATION BENEFIT.
+
+12   A.   The Renewable Integration Benefit derives from the operational value of BESS to a grid
+
+13        with more intermittent renewable resources. During the 2022 IRP proceeding, the
+
+14        Company filed the Renewable Integration Study conducted by Astrapé Consulting (Docket
+
+15        No. 44160. Georgia Power Company 2022 Integrated Resource Plan, Volume 1.
+
+16        Renewable Integration Study. November 18, 2021). That study concluded that the addition
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 22 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+1         of battery storage resources lowers the cost of reliably integrating renewable resources.
+
+2         This cost reduction is reflected in the Renewable Integration Benefit.
+
+
+3    Q.   HOW DID THE COMPANY QUANTIFY THE RENEWABLE INTEGRATION
+
+4         BENEFIT?
+
+5    A.   The Company used the results of the analysis Renewable Integration Study to quantify the
+
+ 6        benefit of the BESS projects on a $/kW basis. The Company compared the production cost
+
+ 7        deltas between two sets of Aurora model runs: a case with 3,000 MW of incremental solar
+
+ 8        and no new BESS capacity, and a case with 3,000 MW of incremental solar and 1,150 MW
+
+ 9        of BESS capacity. The Company divided the reduction in production costs due to the BESS
+
+10        by the total BESS capacity to yield a value of the BESS in $/kW.
+
+
+11        In the benefits analysis, the Company credited the BESS projects with a Renewable
+
+12        Integration Benefit by multiplying the project capacity by the $/kW value. The
+
+13        methodology and result of the Renewable Integration Study is consistent with the
+
+14        evaluation of bids in the Company’s ongoing All-Source Capacity RFP. The results of the
+
+15        renewable integration benefit are summarized in the table below:
+
+16                         Table 8. Renewable Integration Benefit Results
+
+                                                                                           McGrau Ford
+                                           Robins        Moody           Hammond           Phase II
+           Renewable
+           Integration    $000 NPV,              XXX             XXX            XXX               XXX
+           Benefit        2024$
+           Nameplate
+                                                   128            49.5              57.5           265
+           Capacity       MW
+           Renewable
+           Integration    $/kW NPV,              XXX             XXX            XXX               XXX
+           Benefit        2024$
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 23 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1   Q.   WHAT IS THE CONCLUSION OF THE COMPANY’S ECONOMIC ANALYSIS?
+
+ 2   A.   When considering the asset costs, system costs, and benefits (Energy Benefits and
+
+ 3        Renewable Integration Benefits), the BESS Projects yield a net cost to customers, as the
+
+ 4        combined benefits are not sufficient to outweigh the costs. This outcome is expected for a
+
+ 5        resource that is needed to meet capacity requirements.
+
+
+ 6   Q.   PLEASE DESCRIBE THE COMPANY’S AUGMENTATION PLANS FOR THE
+
+ 7        FIVE BESS PROJECTS.
+
+ 8   A.   “Augmentation,” in the context of battery storage projects, refers to periodic modifications
+
+ 9        to the battery storage facilities to maintain the desired performance characteristics. Over
+
+10        time, the ability of BESS to store energy degrades, so a project that was able to deliver four
+
+11        hours of output at the time of commissioning will lose a portion of that duration. The owner
+
+12        of a BESS can make additional capital investments in the facility to maintain the target
+
+13        duration. This is important such that the projects can maintain the same reliability value to
+
+14        the grid.
+
+
+15   Q.   WHAT ARE THE PRIMARY AUGMENTATION STRATEGIES USED IN THE
+
+16        INDUSTRY?
+
+17   A.   There are two primary approaches to augmentation. First, a BESS owner can overbuild the
+
+18        battery project at the time of commissioning, to provide a buffer for the target duration and
+
+19        extend the time before an augmentation investment is made. The second approach is to
+
+20        build the project to the desired energy level at commissioning and make augmentation
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 24 of 31
+
+                                         PUBLIC DISCLOSURE
+
+
+ 1        investments once the battery degrades and can no longer deliver the desired duration (e.g.
+
+ 2        4 hours).
+
+
+ 3   Q.   WHICH OF THE AUGMENTATION STRATEGIES IS THE COMPANY
+
+ 4        PROPOSING TO UTILIZE?
+
+ 5   A.   The Company proposes to use both strategies. For the Robins and Moody Projects, the
+
+ 6        Company is sizing the projects to their full target size at commissioning and starting
+
+ 7        augmentation sooner XXXXXX. For the Hammond and McGrau Ford Phases I and II
+
+ 8        Projects, the Company is slightly overbuilding the projects and beginning augmentation
+
+ 9        later XXXXXXX. The Company told Staff during informal discussions that the Company
+
+10        is pursuing this strategy in order to provide a balanced approach. For example, the project
+
+11        will need to be taken out of service for a short period when the augmentation investments
+
+12        are put in service, and with the Company’s approach, all five of the projects will not need
+
+13        to be taken out of service during the same year for the investment.
+
+
+14        The figure below depicts the cumulative cost of the augmentation investments for each
+
+15        project on a $/kW basis. Note that the data is presented on a per-kW basis, so the Robins
+
+16        and Moody Projects trends appear similar to each other, as do the Hammond and McGrau
+
+17        Ford Phase II trends. The McGrau Ford Phase I Project has a lower augmentation cost due
+
+18        to the fact that it is a 2-hour battery rather than a 4-hour battery.
+
+
+                             Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                               Docket No. 55378
+                                                 Page 25 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1
+
+ 2           TS Figure 1. Augmentation Cost, Cumulative Present Value ($/kW, 2024$)
+
+
+ 3   Q.   DOES STAFF AGREE WITH THE COMPANY’S APPROACH?
+
+ 4   A.   Yes. Staff agrees with the Company’s augmentation strategy, which represents a
+
+ 5        reasonable balance of risks and provides some operational benefits.
+
+
+ 6   Q.   WHAT PORTION OF THE COSTS OF THE BESS PROJECTS ARE RELATED
+
+ 7        TO THE AUGMENTATION?
+
+ 8   A.   For the Robins and Moody Projects, the NPV of the cost of augmentation capital is
+
+ 9        approximately XXXX or slightly less than XX of the total asset revenue requirement. For
+
+10        the Hammond and McGrau Ford Projects, which are designed to be overbuilt, the cost of
+
+11        augmentation is XXX. The table below summarizes the values for each project:
+
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                               Page 26 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1                             Table 9. Augmentation Costs by Project
+
+                                                                               McGrau Ford   McGrau
+                                       Robins       Moody      Hammond
+                                                                                   I         Ford II
+           Nameplate Capacity
+                                            128         49.5           57.5            265        265
+           (MW)
+           Total          $000
+           Revenue       NPV,
+           Requirement 2024$               XXX        XXX             XXX             XXX        XXX
+                          $000
+           Augmentation NPV,
+           Cost          2024$             XXX        XXX             XXX             XXX        XXX
+           Percent                         XXX        XXX             XXX             XXX        XXX
+                         $/kW
+           Augmentation NPV,
+           Cost          2024$             XXX        XXX             XXX             XXX        XXX
+
+
+ 2   Q.   DOES      STAFF       HAVE        ANY      RECOMMENDATIONS                RELATED       TO
+
+ 3        AUGMENTATION?
+
+ 4   A.   Yes. Given that the Company is expected to add more battery storage in the future, the
+
+ 5        experience gained from these initial BESS projects provides an opportunity for the
+
+ 6        Company to refine its future strategies. Since the Company is using multiple augmentation
+
+ 7        approaches, it can use the lessons learned with these projects to inform planning for future
+
+ 8        BESS projects. Staff recommends that the Company provide information regarding its
+
+ 9        augmentation plans in an Annual BESS Report. Specific information provided in this report
+
+10        should include costs of augmentation, actual decline rates in duration, and performance of
+
+11        the BESS pre- and post-augmentation.
+
+
+12   Q.   PLEASE DESCRIBE THE COMPANY’S DECOMMISSIONING PLANS FOR
+
+13        THE FIVE BESS PROJECTS.
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 27 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+ 1   A.   As part of the total certified cost requests, the Company included decommissioning and
+
+ 2        dismantlement costs which represent additional estimated costs at the end of the life of the
+
+ 3        BESS for site remediation. It is Staff’s understanding that the Company plans to recycle
+
+ 4        the recyclable materials of the Tesla Megapack 2 XL after the 20-year expected life. The
+
+ 5        Company did not include any additional value or cost of the recycled BESS in the estimated
+
+ 6        decommissioning costs. The Company told Staff that the basis for this assumption is that
+
+ 7        the future market for recycled BESS is relatively unknown; therefore, the Company chose
+
+ 8        not to include a salvage value in its cost estimates.
+
+
+ 9   IV. CONSTRUCTION MONITORING REPORTING
+
+
+10   Q.   PLEASE DESCRIBE THE REPORTING REQUIREMENTS FOR THE FIVE BESS
+
+11        PROJECTS        THAT       HAVE       ALREADY           BEEN       APPROVED     BY    THE
+
+12        COMMISSION.
+
+13   A.   As part of the 2023 IRP Update Order, the Commission ordered the Company to file semi-
+
+14        annually, Construction Monitoring Reports for the Robins and Moody BESS Projects;
+
+15        however, the Order stated that specific reporting requirements for the 500 MW of BESS
+
+16        would be determined during the certification proceeding. For the McGrau Ford Phase I
+
+17        Project, the approved 2022 IRP Stipulation requires quarterly filings but did not specify
+
+18        reporting requirements.
+
+
+19   Q.   HOW FREQUENTLY DID THE COMPANY PROPOSE TO FILE THE
+
+20        CONSTRUCTION MONITORING REPORTS FOR THE FIVE BESS PROJECTS?
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 28 of 31
+
+                                        PUBLIC DISCLOSURE
+
+
+1    A.   In the Compliance Filing, the Company stated that it will file quarterly Construction
+
+2         Monitoring Reports for the McGrau Ford Phase I Project; however, the Compliance Filing
+
+3         was silent on what information would be provided in the reports. For the Robins, Moody,
+
+4         Hammond, and McGrau Ford Phase II Projects, the Company proposed to file semi-annual
+
+5         Construction Monitoring Reports and provide information regarding capital expenditures
+
+6         and financial cost data, detailed schedule reporting on critical path activities, status updates
+
+7         on the procurement of any new licenses and permits, variances in major contracts, and the
+
+8         procurement status of long-lead time equipment (Company’s Direct Testimony, p. 17, lines
+
+9         12-21).
+
+
+10   Q.   DOES STAFF AGREE THAT SEMI-ANNUAL REPORTING REQUIREMENTS
+
+11        ARE SUFFICENT GIVEN THE FAST CONSTRUCTION TIMELINE AND
+
+12        CAPITAL-INTENSIVE NATURE OF THE BESS PROJECTS?
+
+13   A.   No. Staff does not agree that semi-annual reporting is sufficient when considering the fast-
+
+14        approaching COD and capital-intensive projects. It is Staff’s position that Construction
+
+15        Monitoring Reporting for these projects should be done more often than twice a year.
+
+
+16   Q.   WHAT IS STAFF’S RECOMMENDATION REGARDING THE FREQUENCY OF
+
+17        CONSTRUCTION MONITORING REPORTING AND THE INFORMATION TO
+
+18        BE PROVIDED IN THE REPORT?
+
+19   A.   Staff recommends quarterly Construction Monitoring Reporting for the Robins, Moody,
+
+20        Hammond and McGrau Ford Phase II BESS Projects to allow the Commission to stay
+
+21        properly informed regarding the status of the construction and associated spending for
+
+
+                            Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                              Docket No. 55378
+                                                Page 29 of 31
+
+                                       PUBLIC DISCLOSURE
+
+
+ 1        these projects. The Commission has already approved a quarterly reporting requirement
+
+ 2        for the McGrau Ford Phase I Project. In addition to the information that the Company has
+
+ 3        agreed to provide, Staff recommends that the following information also be provided in the
+
+ 4        quarterly reports: contingency assessment, CWIP, AFUDC, and Ad Valorem balances.
+
+
+ 5   Q.   DOES STAFF RECOMMEND APPROVAL OF THE COMPANY’S REQUEST TO
+
+ 6        PROCEED WITH THE MCGRAU FORD PHASE I BESS PROJECT?
+
+ 7   A.   Yes. Staff recommends approval of the Company’s request to proceed with the 265 MW
+
+ 8        McGrau Ford Phase I Project.
+
+
+ 9   Q.   DOES STAFF RECOMMEND APPROVAL OF THE COMPANY’S REQUEST TO
+
+10        CERTIFY THE ROBINS, MOODY, HAMMOND, AND MCGRAU FORD PHASE
+
+11        II BESS PROJECTS?
+
+12   A.   Yes. As provided in the testimony of PIA Staff panel of Douglas A. Smith and Katherine
+
+13        Palacios, Staff agrees with the Company’s siting of the Five BESS Projects. Since these
+
+14        projects are anticipated to be online by the winter of 2026/2027 to meet the needs of
+
+15        economic development customers and are sited at locations that should have minimal
+
+16        transmission impacts, Staff recommends approval of the Company’s request to certify
+
+17        Robins, Moody, Hammond and McGrau Ford Phase II BESS Projects.
+
+
+18   Q.   DOES STAFF RECOMMEND APPROVAL OF THE COMPANY’S REQUESTED
+
+19        TOTAL CERTIFIED AMOUNTS FOR THE FIVE BESS PROJECTS?
+
+20   A.   No. Staff recommends that the Company’s contingency amount requested for Changes in
+
+21        Import Tariffs or other Regulatory Impacts, in the amount of XXXXXXXX for the Five
+
+                           Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                             Docket No. 55378
+                                               Page 30 of 31
+
+                                      PUBLIC DISCLOSURE
+
+
+1        BESS Projects, not be approved as part of the total certified cost. With this
+
+2        recommendation, the total certified amount for each project is as follows:
+
+3                         Table 10. Certified Cost Adjustments by Project
+
+                                Company’s                   XXXXX Changes in             Staff’s
+             Project         Requested Certified          Import Tariffs or Other     Recommended
+                                    Cost                    Regulatory Impacts        Certified Cost
+          Robins               XXXXXXXX                       XXXXXXXX                XXXXXXXX
+          Moody                XXXXXXXX                       XXXXXXXX                XXXXXXXX
+          Hammond              XXXXXXXX                       XXXXXXXX                XXXXXXXX
+          McGrau Ford          XXXXXXXX                                               XXXXXXXX
+                                                                XXXXXXXX
+          Phase I
+          McGrau Ford           XXXXXXXX                                              XXXXXXXX
+                                                                XXXXXXXX
+          Phase II
+          Total                 XXXXXXXX                        XXXXXXXX              XXXXXXXX
+
+4   Q.   DOES THIS CONCLUDE YOUR TESTIMONY?
+
+5   A.   Yes.
+
+
+                          Direct Testimony of Bobby Iseley and Jeffrey D. Bower
+                                            Docket No. 55378
+                                              Page 31 of 31
+
+                                                                         PIA Staff Exhibit_ (IB-1)
+
+
+                                   Bobby Iseley
+               Professional Experience and Educational Background
+
+
+Mr. Iseley graduated from the University of Florida in 2021 with a Bachelor of Science
+degree in Electrical Engineering. He received a Master of Science degree in Natural
+Resources and Energy Policy from the Colorado School of Mines in 2023. In 2023, Mr.
+Iseley was hired as a Public Utilities Engineer in the Energy Efficiency and Renewable
+Energy Unit. During Mr. Iseley’s time at the Commission, he participated in Docket No.
+55378, Georgia Power Company’s 2023 Integrated Resource Plan Update, Docket No.
+44880, Georgia Power Company’s 2023 Biomass Request for Proposals, Docket No. 45084,
+Georgia Power Company’s 2023 CARES Utility Scale Request for Proposals, Docket No.
+44942, Georgia Power Company’s 2023 Distributed Generation Request for Proposals, and
+Docket No. 4822, Capacity and Energy Payments to Cogenerators under PURPA.
+
+
+                                     Page 1 of 1
+
+                                                                                           PIA Staff Exhibit_ (IB-2)
+
+
+Jeffrey D. Bower
+Managing Consultant
+
+Jeff advises infrastructure developers, utilities, and regulators pursuing commercial opportunities and
+policies to develop and deploy renewable energy resources and enabling transmission projects. He has
+broad experience in integrated resource planning, power market modeling, and the integration of
+offshore wind, land-based renewable energy, and transmission into RTO/ISO markets. His work includes
+economic and operational cost-benefit analysis and assessments of strategies to meet utility and state
+decarbonization goals. Jeff has testified before FERC and before state regulatory agencies in Arkansas,
+Georgia, and Maine, as well as the province of Manitoba.
+
+SELECTED PROFESSIONAL EXPERIENCE
+I n t eg ra t ed Reso u rce Pl a n ni n g
+    •   Evaluated a multi-state IRP in the western U.S. on behalf of a state’s public service commission
+        staff, assessing models, methods, assumptions, and conclusions.
+    •   Reviewed the IRP of a vertically-integrated utility in the southeastern U.S., with specific focus on
+        evaluation of renewable resource options and reserve margin. Provided expert witness testimony
+        in regulatory approval proceeding.
+
+E co n o mi c Ben efi t s A n a l ysi s
+    •   Conducted market and environmental benefits studies for multiple transmission, offshore wind
+        and land-based renewable project proposals. Summarized results for submission by project
+        developers into competitive procurements.
+    •   Analyzed multiple midwestern utility proposals for build-own-transfer transactions for a large
+        solar facilities. Provided expert witness testimony evaluating project need, consistency with IRP,
+        and the utility’s forecast of benefits to customers.
+    •   Evaluated a large wind project proposed in the SPP RTO. Provided expert witness testimony
+        regarding project benefits analysis, production cost modeling methodology, congestion risk, and
+        associated transmission proposal benefits.
+    •   Conducted detailed review of a western utility proposal to repower 1 GW of existing wind
+        projects, examining PTC qualification, economic benefits to ratepayers, and project risks.
+
+W h o l esa l e Ma rk et A d v i so ry S erv i ces
+    •   Served as independent expert to Canadian energy regulator, advising on U.S. wholesale market
+        trends and revenue opportunities for export sales
+    •   Analyzed wholesale market pricing risks for generation developers, incorporating long-term price
+        forecasting and market rule changes over time.
+    •   Evaluated a midwestern utility proposal to join a regional transmission organization (RTO).
+        Analyzed the impacts of the transition on transmission and generation resource adequacy and
+        planning, as well as retail rates
+
+    DAYMARK ENERGY ADVISORS  370 MAIN STREET, SUITE 325  WORCESTER, MA 01608
+                                TEL: (617) 778-5515  DAYMARKEA.COM
+
+                                                                                Résumé of Jeffrey D. Bower
+                                                                                                Page 2 of 3
+
+
+    •   Authored a market survey of PJM for an independent power producer considering plant
+        acquisitions. Evaluated market opportunities and risks, as well as projections of plant revenues
+        and impacts of policy changes.
+
+C l ea n E n erg y St ra t eg y a n d Po li cy
+    •   Evaluated a methodology for determining costs and benefits of renewable energy for a
+        southeastern U.S. vertically-integrated utility. Advised state agency on avoided cost methodology,
+        modeling techniques, and application of results to quantify system value of renewables.
+    •   Analyzed Massachusetts’ Alternative Energy Portfolio Standard, evaluating barriers to adoption
+        of renewable thermal technologies and developing policy recommendations for the state agency
+        to improve program participation and efficacy.
+    •   Authored a market intelligence report for an offshore wind developer considering participation in
+        a BOEM offshore wind lease auction. Summarized key market opportunities and barriers across
+        multiple states and wholesale energy markets, including evaluation of renewable energy policies,
+        market structures, and drivers of future demand for offshore wind and RECs.
+    •   Supported the development of a transmission planning engagement strategy for a national
+        environmental NGO. Advised on opportunities for high-impact engagement to promote rapid
+        integration of renewables. Authored detailed surveys of regional differences in transmission
+        planning needs and processes, and provided recommendations for high-leverage strategy
+        elements.
+
+INDUSTRY EXPERIENCE
+    Daymark Energy Advisors, Inc.                                                         Worcester, MA
+     Managing Consultant                                                                  2022 – Present
+     Senior Consultant                                                                      2017 – 2022
+     Consultant                                                                             2013 – 2017
+     Analyst                                                                                2010 – 2013
+
+        Consulting practice includes:
+            Power market modeling and price forecasting
+            Power project financial pro-forma modeling and risk analysis
+            Economic benefits analyses for generation and transmission infrastructure projects
+            Energy policy analysis
+            Integrated resource plan evaluation
+            Competitive market design advisory services
+            Potential assessment of renewable energy and energy efficiency resources
+            Expert witness testimony
+
+    Climate Change Policy Partnership at Duke University                                     Durham, NC
+    Transportation Research Assistant                                                        2009 – 2010
+
+    North Carolina Sustainable Energy Association                                            Durham, NC
+    Wind Power Research Analyst Intern                                                             2009
+
+
+DAYMARKEA.COM
+
+                                                                                       Résumé of Jeffrey D. Bower
+                                                                                                       Page 3 of 3
+
+
+EDUCATION
+         Master of Environmental Management | Nicholas School of the Environment at Duke
+                University, Durham, NC | 2010
+         Certificate in Geospatial Analysis | Duke University, Durham, NC | 2010
+         B.A. Sociology | Tufts University, Medford, MA | 2004
+
+EXPERT TESTIMONY
+FORUM                      ON BEHALF OF              MATTER
+Arkansas Public Service    Arkansas PSC General      Petition of Entergy Arkansas, LLC for Approval of Power
+Commission                 Staff                     Purchase Agreements. Docket No. 22-082-U.
+Arkansas Public Service    Arkansas PSC General      Application of Southwestern Electric Power Company for
+Commission                 Staff                     Approval to Acquire New Renewable Generation Facilities
+                                                     and to Recover the cost of Power Purchase Agreements.
+                                                     Docket No. 22-019-U.
+Arkansas Public Service    Arkansas PSC General      Petition of Entergy Arkansas, LLC for Approval of a Build-
+Commission                 Staff                     Own-Transfer Arrangement for a Solar Facility. Docket
+                                                     No. 20-067-U.
+Arkansas Public Service    Arkansas PSC General      Petition of Entergy Arkansas, LLC for Approval of a Build-
+Commission                 Staff                     Own-Transfer Arrangement for a Solar Facility. Docket
+                                                     No. 20-052-U.
+Arkansas Public Service    Arkansas PSC General      Application of Southwestern Electric Power Company for
+Commission                 Staff                     Approval to Acquire Wind Generating Facilities. Docket
+                                                     No. 19-035-U.
+Arkansas Public Service    Arkansas PSC General      Petition of Entergy Arkansas, LLC for Approval of a Build-
+Commission                 Staff                     Own-Transfer Arrangement for a Solar Facility. Docket
+                                                     No. 19-019-U.
+Georgia Public Service     Georgia PSC Public        Georgia Power Company’s 2022 Integrated Resource
+Commission                 Interest Advocacy Staff   Plan. Docket No. 44160.
+Georgia Public Service     Georgia PSC Public        Capacity and Energy Payments to Cogenerators Under
+Commission                 Interest Advocacy Staff   PURPA. Docket Nos. 4822, 16573, 19279.
+Maine Public Utilities     Central Maine Power       Application for Certificate of Convenience and Public
+Commission                 Company                   Necessity (CPCN) for the New England Clean Energy
+                                                     Connect. Provided analysis of economic benefits of HVDC
+                                                     transmission project. Docket No. 2017-00232.
+North Carolina Utilities   Avangrid Renewables       Biennial Consolidated Carbon Plan and Integrated
+Commission                                           Resource Plans Duke Energy. Docket No. E-100, Sub 190.
+Manitoba Public            Independent Expert        Manitoba Hydro 2023/24 and 2024/25 General Rate
+Utilities Board            Consultant to the Board   Application.
+FERC                       New York Utility          FERC Notice of Proposed Rulemaking (NOPR): Offer Caps
+                           Intervention Unit         in Markets Operated by Regional Transmission
+                                                     Organizations and Independent System Operators.
+                                                     Submitted comments addressing the adverse efficiency
+                                                     impact of setting the offer cap too high and of
+                                                     maintaining different caps in adjacent regions. No. RM16-
+                                                     5-000. April 2016.
+
+
+DAYMARKEA.COM

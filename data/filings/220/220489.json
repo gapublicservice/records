@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 101673,
+      "bytes": 23453672,
+      "name": "dkt_44280_stf-wg-14_pd.zip",
+      "text": "zip (12 read, 9 not read, 8 trade-secret-marked files skipped)",
+      "text_file": "data/text/220/220489/101673.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220489/101673"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "STF-WG-14 Data Request Responses PD",
+  "dockets": [
+    44280
+  ],
+  "document_id": 220489,
+  "filed_date": "2024-11-21",
+  "harvested": "2026-11-20",
+  "received_date": "2024-11-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=220489"
+}

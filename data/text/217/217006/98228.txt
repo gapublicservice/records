@@ -1,0 +1,220 @@
+===== DKT 55378 STF-DEA-5 PD/DRSUM 55378 STF-DEA-5 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    January 10, 2024
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-DEA-5
+1
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-5
+2
+COMPLETE
+NONE
+55378
+STF-DEA-5
+3
+COMPLETE
+NONE
+55378
+STF-DEA-5
+4
+COMPLETE
+NONE
+55378
+STF-DEA-5
+5
+COMPLETE
+NONE
+55378
+STF-DEA-5
+6
+COMPLETE
+NONE
+55378
+STF-DEA-5
+7
+COMPLETE
+NONE
+55378
+STF-DEA-5
+8
+COMPLETE
+TRADE SECRET
+55378
+STF-DEA-5
+9
+COMPLETE
+NONE
+
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5 Verification and Attestation.pdf =====
+
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-1/STF-DEA-5-1.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-DEA-5-1
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-5-1 (“Response”). In the Response, the Company has provided information used in the Company’s load forecast sensitivity models. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive details on the Company’s forecast methodology for determining the impacts of new large loads. Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis.  
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-DEA-5-1
+
+Question:
+Referring to the short-term energy forecast, please describe the threshold values used to identify large load customers that are beyond what could reasonably be calculated as organic growth and provide the historical data and methodology used to develop the threshold values. Also describe how these thresholds are implemented for both commercial and industrial models for the forecast of load.
+
+
+Response:
+The Company has established thresholds for commercial and industrial customers at 115 and 45 MW, respectively. The purpose behind these specific thresholds is to ensure that we accurately account for the large load customers through external adjustments without duplicating what is already included in the short-term baseline forecasts for these customer categories.
+
+These thresholds are developed based on the annual average growth forecast for the commercial and industrial customer classes over the 2023 to 2027 period. If a customer’s anticipated load increase is greater than the growth projected for their entire class, the project is classified as an external adjustment due to its magnitude, which our current short-term forecasting methods cannot accommodate. Projects below the identified thresholds, however, are considered part of the organic growth included in the Company’s baseline forecast. 
+
+It is important to note that in calculating this growth, the Company has intentionally omitted the energy efficiency factor. This exclusion helps us to present a clearer picture of actual organic growth, as energy efficiency tends to reduce overall growth figures. Please refer to STF-DEA-5-1 Attachment for how the thresholds are calculated. 
+
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-2.docx =====
+
+STF-DEA-5-2
+
+Question:
+Please refer to the LoadMAP IND (Uncalibrated) model. 
+For the tab titled "Control Panel," describe the variables and how the "Incentive Levels" in cells Y2:Z6 are intended to affect the model.
+For the tab titled "Saturations," please describe why the saturation levels might change over time. Generally, these changes are identified in the Miscellaneous and Solar PV Technologies. 
+For the tab titled "UECs & EUIs," please describe why some do not have minimum and maximum lifetime data.
+For the tab titled "Utilization," describe how the data-set elasticities are determined.
+For the tab titled "Equipment Results," 
+Describe how these results are used in the ultimate peak and energy forecasts.
+Confirm that the total winter peak load for each sector in each year would be a sum of all sectoral winter peak demands provided in this spreadsheet. If not, explain why.
+For all calibrated LoadMAP models, please describe the units associated with the baseline forecast results for peak demand.
+Response:
+The “Control Panel” tab can be used to be used to review selected inputs and results. In the lower part of the tab, the following information is available for review: base-year usage (kWh); purchase shares; and relative energy use.
+Incentive levels affect the level of achievability possible during the calculation of savings in the Technical, Economic, Achievable Potential (“TEAPot”) study, which the baseline model feeds into. The incentive levels do not affect the baseline calculations or purchase decisions.
+Saturations may change over time when new direct sampled data (direct surveys of Georgia customers) or regional/national data becomes available (e.g. the US Energy Information Administration’s Annual Energy Outlook) and is trended between such data points. For the specific identified technologies; however, the projection of “Solar PV” was provided by Georgia Power’s load forecasting department, and the “Miscellaneous” technology growth is a standing assumption brought forward from the two previous iterations of LoadMAP modeling for Georgia Power (in 2020 and 2016 respectively). This modest load growth continues to appear to track well to actual loads.
+This question appears to refer to rows 641-1167, which are specially aggregated data labels derived from the technologies above. They serve a function in the downstream TEAPot model to aggregate certain unit loads for savings calculations but are not discrete technologies in themselves, and do not affect the baseline forecast.
+AEG often starts with a set of elasticities developed by Electric Power Research Institute (“EPRI”) for use in end-use modeling; however, these can be adjusted to align with real-world load responses as observed. While starting points for elasticities can be suggested by coefficients used in econometric modeling by the client utility, there is usually some trial and manual adjustment that takes place before elasticities are deemed reasonable. Calibration factors always receive an elasticity of 100% to ensure that they are applied fully.
+i. These results are the model output of energy loads, peak impact, and unit counts at the technology and segment level. The total sector forecast is the sum of these items. Please note that Georgia Power’s peak forecast is developed in the Metrix Peak Demand model. The demand numbers from the LoadMAP models may be used in the evaluation of energy efficiency programs. 
+ii. Confirmed, the total winter peak is the sum of all sectoral winter peaks provided in the “Equipment Results” tab.
+Summer and Winter peak data on the “Equipment Results” tab is in megawatts (MW). The Avg. Replacement Summer and Winter Demand rows are in kW per market normalization unit by sector (Residential: Households, Commercial: sq.ft, Industrial: Employees).
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-3.docx =====
+
+STF-DEA-5-3
+
+Question:
+Please refer to the large Load Realization Model
+On the "Assumptions" tab, 
+
+Describe the extent to which historical data was used to determine the Low/Mid/High probabilities in columns G:I. Please name specific Class/Segment combinations and refer to a source where applicable.
+Describe why Cryptocurrency and Datacenter load is more likely to materialize than the other industrial segments.
+
+Response:
+
+The Company has limited historical experience with large contracted loads across the various industry segments that are considering Georgia Power. Consequently, the company relied on informed judgment to establish key assumptions, including the Low, Mid, and High percentages shown in columns G to I. These percentages reflect the ratio between actual metered load and the announced load.
+Columns G:I on the “Assumptions” tab of the Load Realization Model represent the ratio (in %) between actual metered load and announced load. Due to the continuous operation of their equipment, Cryptocurrency and Datacenters are expected to use most of their connected load. Consequently, their percentage is higher than that of other segments included in the model. In contrast, industrial segments, which do not operate their connected load simultaneously, are assigned a lower percentage.
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-4/STF-DEA-5-4.docx =====
+
+STF-DEA-5-4
+
+Question:
+Please provide a description of each variable used in the regressions that develop the energy and peak forecasts – include the short name from the model and then describe the variable and data source.
+
+Response:
+Please refer to STF-DEA-5-4 Attachment for the requested information. 
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-5.docx =====
+
+STF-DEA-5-5
+
+Question:
+Please provide Georgia Power’s forecasting groups model selection procedures in a document – this process of assessing the intuitive economic and statistical fit as described in the December 6, 2023 technical session.
+
+Response:
+Please refer to STF-DEA-3-9 for the requested information. 
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-6.docx =====
+
+STF-DEA-5-6
+
+Question:
+Please provide the methodology and workpapers used to document and demonstrate that the commercial and industrial models already in use address only “organic” growth but not growth from large customer choice loads.
+
+Response:
+No workpapers are available to demonstrate that the baseline portion of the forecast exclusively addresses organic growth. In this context, ‘organic growth’ refers to the natural expansion of the Company’s existing operations. The Company’s baseline forecast models are specifically designed to project and forecast this organic growth, relying on a statistical analysis of past trends and relationships. Notably, there is no historical data accounting for growth from new lines of business or large customer choice loads, as there is no precedent for such loads in the historical records.
+       
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-7.docx =====
+
+STF-DEA-5-7
+
+Question:
+Please provide the efficiency trends and assumptions used to develop each customer usage included in the LoadMap models for the forecast period.
+
+
+Response:
+Please refer to the LoadMap models. The efficiency trends are created/derived by the replacement of existing equipment with the new equipment on the “Tech Data” tab. The “Tech Data” tab identifies when equipment leaves the market and then is replaced with the new standard equipment and its usage. An example is in the residential LoadMap “Tech Data” tab. Lines 2 and 3 show the new standard 15 SEER Central AC replacing the old SEER 14 standard. 
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-8/STF-DEA-5-8.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-DEA-5-8
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-DEA-5-8 (“Response”). In the Response, the Company has provided projections of electricity prices by class used in the long-term forecast models. All of such information (the “Information”) constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information contains competitively sensitive electric pricing information used to develop Georgia Power’s energy forecasts. Public dissemination of the Information would allow Georgia Power’s competitors, suppliers, and customers access to the Company’s anticipated load strategies and objectives, thereby bestowing insight into the Company’s strategic initiatives and forecasting capabilities. Competitors would obtain an unfair advantage because they are not required to reveal similar information and can structure their offers for competitive choice opportunities based on the Information rather than their own costs, capacity, abilities, strategies, or analysis. Prospective bidders may artificially set their bids and proposal prices to their advantage based on the Information. Any sensitive budgetary Information, if disseminated, would provide insight to competitors regarding the Company’s financial positions, performance, and status. If the Information were revealed to the public, the Company could lose business to competitors and pay artificially higher prices to bidders, ultimately harming customers as well as Georgia Power.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-DEA-5-8
+
+Question:
+Please provide historic and forecasted electricity price by customer class used in the models and describe the assumptions about known rate increases or potential increases to add plant to rate base in the forecast prices.
+
+Response:
+Historic prices by class through November 2023 were previously provided in STF-DEA-3-4. 
+
+The retail prices are contained within the LoadMap models. They are shown as real 2016 prices. The Company’s Financial Planning group provides base price escalators that have estimated known and projected increases. Ordered as part of the most recently approved base rate case (Docket No. 44280), the Company is under a three-year Alternate Rate Plan (“ARP”) structure that has served Georgia and our customers well since 1995. The current ARP period spans years 2023-2025, the base rate increases for these periods is reasonably known. Beyond this three-year ARP window, the Company assumes base rate recovery of prudently incurred investments and expenses that are necessary to continue providing clean, safe, reliable, and affordable energy to Georgia Power’s 2.8 million customers. At the time the base rate escalators were developed, the assumption was that the longer-term base rate increases would be in-line with inflation (2-3%, annually on average). Additionally, fuel costs are also incorporated into prices. Future fuel prices are estimated within the Aurora production cost model.
+
+Forecasted prices by class are provided in STF-DEA-5-8 Attachment. Since the LoadMap models are annual, STF-DEA-5-8 Attachment includes both monthly and annual price data by class.   
+
+After the Company completed the 2023 IRP Update Load and Energy Forecast, a discrepancy was discovered that had a minor impact on the overall forecast results. The discrepancy was found in the prices used in the commercial and industrial LoadMAP models, which impacted the energy and peak forecast results. The impact on commercial and industrial sales in 2030 was +138 GWh or 0.1% of total retail sales. The impact on peak was just +26 MW in 2030. By 2043, the impact on peak is +76 MW, or just 0.2% of winter peak.          
+
+Given the minimal impact on the forecast, no changes were made to the 2023 IRP Update Load and Energy Forecast. 
+
+
+===== DKT 55378 STF-DEA-5 PD/STF-DEA-5-9.docx =====
+
+STF-DEA-5-9
+
+Question:
+Please provide the report cited during the December 6, 2023 technical session relative to the elasticity to electric pricing in the short and long term of 0.1% and 1.5% respectively.
+
+Response:
+The report referenced during the December 6, 2023 technical meeting comes from the U.S. Energy Information Administration. The report can be found using the following link: Price Elasticity for Energy Use in Buildings in the United States (eia.gov).

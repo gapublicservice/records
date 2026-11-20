@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 97671,
+      "bytes": 245936,
+      "name": "DN55378-2023 IRP Update PSO Final.docx",
+      "text": "docx",
+      "text_file": "data/text/216/216450/97671.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216450/97671"
+    },
+    {
+      "attachment_id": 97672,
+      "bytes": 4169446,
+      "name": "216450.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216450/97672"
+    }
+  ],
+  "company": "GPSC",
+  "description": "PROCEDURAL AND SCHEDULING ORDER",
+  "dockets": [
+    55378
+  ],
+  "document_id": 216450,
+  "filed_date": "2023-11-21",
+  "harvested": "2026-11-19",
+  "received_date": "2023-11-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=216450"
+}

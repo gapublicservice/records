@@ -1,0 +1,232 @@
+===== DKT 55378 STF-JKA-1 PD/DRSUM 55378 STF-JKA-1 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    November 30, 2023
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+55378
+STF-JKA-1
+1
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-1
+2
+COMPLETE
+NONE
+55378
+STF-JKA-1
+3
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-1
+4
+COMPLETE
+TRADE SECRET
+55378
+STF-JKA-1
+5
+COMPLETE
+TRADE SECRET
+
+
+===== DKT 55378 STF-JKA-1 PD/JKA-1-4/PD STF-JKA-1-4 Attachment.docx =====
+
+
+This file has been redacted in its entirety.
+
+===== DKT 55378 STF-JKA-1 PD/JKA-1-4/PD STF-JKA-1-4.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-1-4
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-1-4 (“Response”). In the Response, the Company has provided data supporting the economic analysis of projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current and future negotiations, as counterparties may use the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-1-4
+
+Question:
+See the file – TS Economic Analysis of Capacity Resources.xlsx, and the tab – Term Equalization.
+For each capacity value between cells G4 and BC16 that are pasted in, provide workpapers used to derive the pasted values.
+Row 2 of the tab shows capacity need years and shows that a need exists in 2027.  Does that represent 2 years advancement of the need year or 3?  If it represents 2 years explain why that was used as opposed to 3 years given the Company latest position is that the need year has advanced by 3 years compared to the 2022 IRP.  
+Cell J20 contains a pasted value of REDACTED. Please provide all workpapers used to derive that value, electronically with all formulae intact.  Also, explain why REDACTED REDACTED costs were used for the Marginal cost of capacity.  Also, please confirm that value includes both capacity and energy value.
+Explain why in the case of REDACTED, capacity value exists in REDACTED, not REDACTED, and then again beginning in REDACTED and after.  Why doesn’t it exist in REDACTED?
+Explain why capacity value for Yates 8-10 REDACTED REDACTED?
+Explain why capacity value for REDACTED BESS +Solar REDACTED.  
+Explain what the Cost of Equalization is assumed to represent.
+
+
+Response:
+Please see TS STF-JKA-1-4 Attachment. This attached is redacted in its entirety to preserve working formulae.  
+The Company has a need in the winter of 2025/2026 or a 3-year advancement from the 2022 IRP. The need in winter 2025/2026 is 175 MW which grows to 1,875 MW in the winter 2026/2027. Given the relatively small winter of 2025/2026 need, the Company’s economic ranking analysis assumed the first year for term equalization costs would be winter 2026/2027 to establish a relative economic ranking of resource options. 
+Please see cell F2 in the “YatesCT” tab of the “TS SAM ('23) - 7.0.1 YatesCT Final.xlsm” workpaper provided to Commission Staff on October 27, 2023. A combustion turbine resource continues to represent the lowest repeatable fixed costs option or capacity resource to meet peak demands. Plant Yates Units 8-10 represent the most recent information on the costs of a new combustion turbine. Therefore, it was used to represent the marginal costs of capacity. 
+The value in cell J20 is only the fixed costs and does not include energy value. Energy value is reflected on row 21 and included in the net cost of capacity on row 22 of the same spreadsheet and tab. 
+The value in 2030 is not for capacity value of the resource. Rather, it represents term equalization capacity and is used to impute a capacity cost to the resource to reflect periods when REDACTED REDACTED cannot provide reliable capacity. This is considered for the summer of 2030 as the transmission system upgrades will not be in place by the summer of 2030 for this option. In calendar year 2030, the Company’s capacity constraint switches from winter to summer due to the timing of PPA expirations. REDACTED REDACTED  REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. Please see TS STF-JKA-1-4 Attachment for more information. 
+The values in 2027 and 2028 are not for capacity value of the resource. Rather, they represent term equalization capacity and are used to impute a capacity cost to the resource to reflect periods when the proposed Plant Yates Units 8-10 cannot provide full output. Transmission system upgrades will not be completed until May of 2028. Until these upgrades are completed, Plant Yates Units 8-10 will be limited to 600 MW during peak conditions. An additional capacity cost is imputed to the resource to reflect the resource limitations. Please see TS STF-JKA-1-4 Attachment for more information.   
+The value in 2030 is not for capacity value of the resource. Rather, it represents term equalization capacity and is used to impute a capacity cost to the resource during the summer of 2030, which is the constraining season for that year. REDACTED BESS + Solar is assumed to provide 100% ELCC in the winter and 50% ELCC in the summer. Please see TS STF-JKA-1-4 Attachment for more information.  
+Please see section 3.5 of Technical Appendix Economic Analysis of Capacity Resources. 
+
+
+===== DKT 55378 STF-JKA-1 PD/PD STF-JKA-1-1.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-1-1
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-1-1 (“Response”). In the Response, the Company has provided data supporting the economic analysis of the projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current and future negotiations, as counterparties may use the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-1-1
+
+Question:
+See the file - TS Economic Analysis of Capacity Resources.xlsx, and the tab - Cost Inputs. 
+Provide a description of how each row in the tab was derived.  If different approaches were used for the different resources evaluated, please provide separate explanations.
+Provide all workpapers, electronically with all formulae intact, showing the derivation of each cost input line and value.  Do not include any workpapers with pasted values.  If additional source workpapers were used, please provide those, and identify the spreadsheets that were used for each input so a full calculation trail exists.  If data was taken from another model, provide the output from the other model so that the calculation trail can be followed.
+
+Response:
+
+The costs on each row were pulled from the SAM workpapers provided to Commission Staff on October 27, 2023. 
+All resources have an associated SAM workpaper except for the Mississippi Power Company (“MPC”) Power Purchase Agreement (“PPA”) resource. For the MPC PPA, the capacity costs row contains formulas that multiply the capacity costs, size, and number of months to determine the annual costs. Also, for the MPC PPA, the additional sum row multiplies $3/kW-yr times the capacity of the PPA to determine the annual costs. 
+
+
+Please see the table below for the list of workpapers that support each cost input row. The data was pulled from the “SAM” models provided to Commission Staff on October 27th, 2023.
+
+Resource
+SAM File
+REDACTED
+REDACTED REDACTED REDACTED. Output values traceable on rows 84-87 of the “REDACTED” tab. 
+REDACTED
+REDACTED REDACTED REDACTED. Output values traceable on rows 84-87 of the “REDACTED” tab.
+MPC PPA
+None (TS Economic Analysis of Capacity Resources.xlsx)
+Santa Rosa PPA
+TS SAM ('23) - 7.0.1 - Santa Rosa Final.xlsm. Output values traceable on rows 33-36 of the “Santa Rosa” tab.
+Yates 8-10 CTs
+TS SAM ('23) - 7.0.1 YatesCT Final.xlsm. Output values traceable on rows 83-87 of the “YatesCT” tab.
+Robins BESS
+TS SAM ('23) - 7.0.1 Robins 4 Hour BESS Final.xlsm. Output values traceable on rows 37-40 of the “Robins BESS Inputs” tab.
+Moody BESS
+TS SAM ('23) - 7.0.1 Moody 4 Hour BESS Final.xlsm. Output values traceable on rows 36-39 of the “Moody” tab.
+REDACTED REDACTED
+REDACTED REDACTED REDACTED. Output values traceable on rows 33-36 of the “REDACTED” tab.
+REDACTED REDACTED REDACTED. Output values traceable on rows 36-40 of the “REDACTED” tab.
+
+
+===== DKT 55378 STF-JKA-1 PD/PD STF-JKA-1-3.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-1-3
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-1-3 (“Response”). In the Response, the Company has provided data supporting the economic analysis of projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current or future negotiations, as counterparties may use the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information. Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-1-3
+
+Question:
+See the file – TS Economic Analysis of Capacity Resources.xlsx, and the tab – Transmission.
+Explain the process the Company went through to identify the capital investments for these projects.  Provide information separate for the REDACTED and the Yates units. 
+Provide all workpapers, spreadsheets that were developed to create the capital investments values.  Provide this electronically with all formulae intact.
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. 
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.
+
+Response:
+The process used by the Company to identify the capital investments for the projects included in the 2023 IRP Update is described in Technical Appendix Transmission Screening Analyses and consistent with the approach used in prior Georgia Power Integrated Resource Plans (“IRPs”). The Company completed power flow analyses using Power System Simulator for Engineering (“PSSE”) to evaluate the need for transmission system improvements associated with each resource decision. Screening analyses consisted of N-1-G contingency criteria consistent with North American Electric Reliability Corporation (“NERC”) TPL-001-5 requirements. The Company’s analyses identify the need for potential improvements required to mitigate the identified reliability challenges. The capital costs represent the projected cost of these improvements. 
+As outlined in Technical Appendix Transmission Screening Analyses, scenario A1 reflects the results for the Mississippi Power Company (“MPC”) Power Purchase Agreement (“PPA”) and Santa Rosa PPA. Plant Scherer Unit 3 was also evaluated in Scenario A1. The Company did not identify any required capital projects to support the MPC PPA, Santa Rosa PPA, or extension of Plant Scherer Unit 3. 
+
+Scenario B reflects the impact of the proposed Plant Yates units. The process assumes the results for Plant Yates Units 8-10 are incremental to the results in Scenarios A1 and A2. During the screening analysis it was determined that 600 MW of the Yates CTs can be accommodated until improvements are completed in the summer of 2028. Upon completion of the improvements, the full output of the units can be accommodated.
+
+A previous screening analysis identified transmission system issues that required improvements to support REDACTED REDACTED REDACTED. Given the long-lead time nature of the necessary transmission system improvements, REDACTED REDACTED REDACTED in the screening analysis for the other resource evaluations. 
+
+The PSSE model information was provided to Commission Staff on October 31, 2023. Please see “TS Economic Analysis of Capacity Resources.xlsx” for information on how these capital costs are reflected in the economic analysis.
+REDACTED REDACTED is currently operating. Therefore, transmission capacity continues to be preserved to support ongoing operations. Transmission screening analysis indicated that REDACTED REDACTED REDACTED REDACTED REDACTED can be accommodated through the planning horizon. 
+REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. 
+Robins and Moody Battery Energy Storage System (“BESS”) are utilizing the point of interconnection and associated transmission system capacity available to the adjacent solar facilities. These facilities had been previously designated. The output of the combined BESS and solar system is limited to the transmission system capacity of the current solar interconnection. 
+
+The MPC PPA consists of extensions of existing units. Screening analysis indicated that these extensions can be accommodated during the PPA time period with no directly assignable projects. Similarly, screening analysis of the Santa Rosa PPA did not identify any attributable projects. 
+
+Transmission screening analysis for REDACTED Solar + BESS identified local area constraints driven by the addition of the prior-queued resources. Therefore, two transmission projects were already identified for completion in 2026 in the area. The completion of these projects allows for the delivery of up to 200 MWs. This amount increases to 415 MW as additional prior planned projects reach completion in 2029. 
+
+
+===== DKT 55378 STF-JKA-1 PD/PD STF-JKA-1-5.docx =====
+BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION
+
+GEORGIA POWER COMPANY
+DOCKET NO. 55378
+
+Data Request No. STF-JKA-1-5
+
+BASIS FOR THE ASSERTION THAT THE 
+INFORMATION SUBMITTED IS A TRADE SECRET
+
+As part of Georgia Power Company’s 2023 Integrated Resource Plan Update filed in Docket No. 55378 (“2023 IRP Update”), Georgia Power Company (“Georgia Power” or the “Company”) submits to the Georgia Public Service Commission its response to STF-JKA-1-5 (“Response”). In the Response, the Company has provided data supporting the economic analysis of projects proposed in the 2023 IRP Update including an acquisition with sensitive pricing and confidential details (the “Information”). All of such information constitutes trade secret information of Southern Company, Georgia Power, and its affiliates and is therefore protected from public disclosure under Commission Rule 515-3-1-.11.
+
+ The Information derives economic value from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use. Specifically, the Information includes competitively sensitive details specific to the resources under contract, proposed to be acquired or developed. If the Information were made public, competitors, bidders, and suppliers could use the Information to unfairly manipulate the request for proposals process and competitive market to structure future bids and set an artificial price floor to arbitrarily increase prices to the detriment of the Company and its customers. Public dissemination of the Information would undermine Georgia Power’s ability to negotiate the best price and contract terms and could harm the Company’s ability to secure the best cost bids and resources for the benefit of customers. In addition, the terms of the agreements themselves provides for the confidentiality and protection of the Information. Compromising the confidentiality of such Information could harm Georgia Power in current or future negotiations, as counterparties may us the Information as a bargaining tool in negotiations or fear compelled disclosure of key contractual terms. Lastly, the Company’s competitors are not required to reveal or publish similar information.
+
+The Information is subject to substantial procedures to maintain its secrecy. Only select Georgia Power and Southern Company Services personnel are granted access to the Information.  Those personnel receive access only on a “need to know” basis. Parties outside the Company who have been granted access to the Information, if any, have been required to sign confidentiality agreements with respect to the Information.  
+
+
+STF-JKA-1-5
+
+Question:
+See the file – TS Economic Analysis of Capacity Resources.xlsx, and the tab – Annual Economics.
+For Additional Benefits that are pasted in at rows 19, 41, 64, and 174, please provide all workpapers used to derive those values and provide that electronically, with all formulae intact.
+Explain how the years for which additional benefits were included was decided. 
+
+Response:
+Please see “REDACTED REDACTED REDACTED REDACTED” workpaper provided to Commission Staff on October 27, 2023, for the values rows 19 and 41. On the REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED are on row 80. 
+The formulas are intact for the values on row 64. These values represent the benefit associated with the sale of 500 MW to a regional electrical service provider for January 1, 2024, through September 30, 2025. 
+Please see “REDACTED REDACTED REDACTED REDACTED” workpaper provided to Commission Staff on October 27, 2023, for the values in row 174. On the REDACTED tab, the benefits associated with the production tax credit (“PTC”) are on row 40. 
+The additional benefits for REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED. Therefore, the benefits are reflected over those years. 
+The additional benefits for the Mississippi Power Company (“MPC”) Power Purchase Agreement (“PPA”) are for the years consistent with the wholesale capacity sale. 
+The additional benefits for REDACTED are associated with PTCs. Per the Inflation Reduction Act, this benefit lasts for 10 years. 
+
+===== DKT 55378 STF-JKA-1 PD/STF-JKA-1-2.docx =====
+STF-JKA-1-2
+
+Question:
+See the file - TS Economic Analysis of Capacity Resources.xlsx, and the tab – Energy Benefits. 
+Provide a description of how each row in the tab was derived.  If different approaches were used for the different resources evaluated, please provide separate explanations.
+Provide all workpapers, electronically with all formulae intact, showing the derivation of each Cost and Benefit line and value.  Do not include any workpapers with pasted values.  If additional source workpapers were used, please provide those, and identify the spreadsheets that were used for each input so a full calculation trail exists.  If data was taken from another model, provide the output from the other model so that the calculation trail can be followed.  If any avoided cost analyses or Genval analyses were used in the evaluation, please provide such analyses.  
+
+Response:
+To produce the results on each row in the tab, the Company utilized the Aurora production costs model using the avoided energy costs approach. For the Mississippi Power Company (“MPC”) Power Purchase Agreement (“PPA”), the Company did not use the Aurora model. Rather, the Company assumed zero production costs savings or energy benefits consistent with the structure of the PPA. Please see Technical Appendix Economic Analysis of Capacity Resources for more information. 
+The Aurora workpapers and model data were provided to Commission Staff on or before October 30, 2023. 
+
+===== DKT 55378 STF-JKA-1 PD/verification & attestation.pdf =====

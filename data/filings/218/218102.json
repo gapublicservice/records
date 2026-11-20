@@ -1,0 +1,38 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 99141,
+      "bytes": 371309,
+      "name": "55378 stip cover.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99141"
+    },
+    {
+      "attachment_id": 99142,
+      "bytes": 7291439,
+      "name": "55378 stip.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99142"
+    },
+    {
+      "attachment_id": 99143,
+      "bytes": 1639240,
+      "name": "55378 stip cos.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99143"
+    }
+  ],
+  "company": "Staff",
+  "description": "Stipulation Between Staff and Georgia Power Company",
+  "dockets": [
+    55378
+  ],
+  "document_id": 218102,
+  "filed_date": "2024-03-27",
+  "harvested": "2026-11-19",
+  "received_date": "2024-03-27",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=218102"
+}

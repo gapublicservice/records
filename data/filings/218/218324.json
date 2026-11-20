@@ -1,0 +1,31 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 99382,
+      "bytes": 221372,
+      "name": "DN55378 Plant Yates Certification Fee Order.docx",
+      "text": "docx",
+      "text_file": "data/text/218/218324/99382.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218324/99382"
+    },
+    {
+      "attachment_id": 99383,
+      "bytes": 995167,
+      "name": "218324.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218324/99383"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ESTABLISHING FEE",
+  "dockets": [
+    55378
+  ],
+  "document_id": 218324,
+  "filed_date": "2024-04-11",
+  "harvested": "2026-11-19",
+  "received_date": "2024-04-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=218324"
+}

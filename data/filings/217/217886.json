@@ -1,0 +1,40 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 98986,
+      "bytes": 2019077,
+      "name": "55378.Cover Ltr-COS-Signed- Staff Hearing Requests.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217886/98986"
+    },
+    {
+      "attachment_id": 98987,
+      "bytes": 25865,
+      "name": "55378.Response- Staff Hearing Requests.docx",
+      "text": "docx",
+      "text_file": "data/text/217/217886/98987.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217886/98987"
+    },
+    {
+      "attachment_id": 98988,
+      "bytes": 229143,
+      "name": "55378.Cover Ltr-COS- Staff Hearing Requests.docx",
+      "text": "docx",
+      "text_file": "data/text/217/217886/98988.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217886/98988"
+    }
+  ],
+  "company": "Staff",
+  "description": "Staff's Response to Hearing Requests Regarding Staff's Testimony",
+  "dockets": [
+    55378
+  ],
+  "document_id": 217886,
+  "filed_date": "2024-03-08",
+  "harvested": "2026-11-19",
+  "received_date": "2024-03-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=217886"
+}

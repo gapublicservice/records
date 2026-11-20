@@ -1,0 +1,58 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 101316,
+      "bytes": 215870,
+      "name": "55378 BESS Certification - PIA Staff Direct Testimony - Filing Letter.pdf",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220169/101316"
+    },
+    {
+      "attachment_id": 101342,
+      "bytes": 518861,
+      "name": "55378 Iseley and Bower Direct Testimony and Exhibits(f) (Public Disclosure).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/220/220169/101342.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220169/101342"
+    },
+    {
+      "attachment_id": 101343,
+      "bytes": 99572,
+      "name": "55378 PIA Staff - Iseley and Bower Testimony and exhibits(f).docx",
+      "text": "docx",
+      "text_file": "data/text/220/220169/101343.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220169/101343"
+    },
+    {
+      "attachment_id": 101344,
+      "bytes": 54289,
+      "name": "55378 PIA Staff - Smith and Palacios Direct Testimony(f) (Public Disclosure).docx",
+      "text": "docx",
+      "text_file": "data/text/220/220169/101344.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220169/101344"
+    },
+    {
+      "attachment_id": 101345,
+      "bytes": 542289,
+      "name": "55378 Smith and Palacios Direct Testimony and Exhibits(f) (Public Disclosure).pdf",
+      "text": "pdftotext",
+      "text_file": "data/text/220/220169/101345.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220169/101345"
+    }
+  ],
+  "company": "Staff",
+  "description": "BESS Certification - PIA Staff Direct Testimony & Exhibits",
+  "dockets": [
+    55378
+  ],
+  "document_id": 220169,
+  "filed_date": "2024-10-11",
+  "harvested": "2026-11-20",
+  "received_date": "2024-10-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=220169"
+}
