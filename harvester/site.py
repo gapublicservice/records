@@ -402,7 +402,7 @@ def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
     link = f'<a href="{e(ev["url"])}">{what}</a>' if ev.get("url") else what
     if ev.get("other"):
         link += ' <span class="tag">Not a Commission event</span>'
-    dks = sorted({int(d) for d in ev.get("dockets") or []} | {int(d) for d in (agendas.get(ev.get("url")) or {}).get("dockets") or []})
+    dks = sorted({int(d) for d in ev.get("dockets") or []})  # the agenda page lists the rest
     dk = " ".join(f'<a class="mono" href="docket/{d}/">{d}</a>' for d in dks if str(d) in known)
     ag = agenda_link(ev.get("url"), agendas).strip() if ev.get("url") else ""
     adds = ""
