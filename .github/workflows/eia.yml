@@ -29,17 +29,20 @@ jobs:
       - name: Find and download the latest EIA-860M file
         run: |
           curl -sSL -m 60 -A "public-record-reader" -o page.html https://www.eia.gov/electricity/data/eia860m/
-          link=$(grep -oE 'href="[^"]+\.xlsx"' page.html | head -1 | sed -E 's/href="//; s/"$//')
-          echo "link: $link"
-          case "$link" in
-            http*) url="$link" ;;
-            /*) url="https://www.eia.gov$link" ;;
-            *) url="https://www.eia.gov/electricity/data/eia860m/$link" ;;
-          esac
-          case "$url" in https://www.eia.gov/*) ;; *) echo "not an EIA address"; exit 1 ;; esac
-          echo "$url" > url.txt
-          curl -sSL -m 300 -A "public-record-reader" -o eia860m.xlsx "$url"
-          file eia860m.xlsx
+          grep -oE 'href="[^"]+\.xlsx"' page.html | sed -E 's/href="//; s/"$//' > links.txt
+          echo "xlsx links on the page:"; cat links.txt
+          while read -r link; do
+            case "$link" in
+              http*) url="$link" ;;
+              /*) url="https://www.eia.gov$link" ;;
+              *) url="https://www.eia.gov/electricity/data/eia860m/$link" ;;
+            esac
+            case "$url" in https://www.eia.gov/*) ;; *) continue ;; esac
+            curl -sSL -m 300 -A "public-record-reader" -o eia860m.xlsx "$url" || continue
+            if file eia860m.xlsx | grep -qiE "Microsoft|Zip"; then echo "$url" > url.txt; echo "using $url"; break; fi
+            echo "not a spreadsheet: $url"
+          done < links.txt
+          test -s url.txt
       - name: Keep the Georgia rows
         run: python -m harvester.eia eia860m.xlsx "$(cat url.txt)"
       - name: Save to the record
