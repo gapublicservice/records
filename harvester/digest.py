@@ -38,15 +38,15 @@ def flags_for(rec: dict, day: str) -> list[str]:
         return ["stored file can't be read"]
     fd = rec.get("filed_date") or ""
     if not fd:
-        out.append("no filed date")
+        out.append("PSC page gives no filed date")
     elif fd < EARLIEST_PLAUSIBLE:
         out.append(f"filed date {fd} looks like a placeholder")
     elif fd > day:
         out.append(f"filed date {fd} is in the future")
     if not rec.get("company"):
-        out.append("no filer named")
+        out.append("PSC page names no filer")
     if not rec.get("dockets"):
-        out.append("no docket number")
+        out.append("PSC page lists no docket")
     for att in rec.get("attachments", []):
         if att.get("trade_secret_marked"):
             out.append(f"attachment {att['attachment_id']} marked trade secret, not stored")
