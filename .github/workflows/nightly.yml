@@ -33,6 +33,9 @@ jobs:
       - name: Store titles of new dockets
         if: always()
         run: python -m harvester.dockets --max 200
+      - name: Read hearing and session dates from the Commission calendar
+        if: always()
+        run: python -m harvester.calendar
       - name: Tag units, committees, places and disagreements
         if: always()
         run: python -m harvester.tags

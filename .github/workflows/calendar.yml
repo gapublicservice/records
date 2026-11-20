@@ -1,0 +1,27 @@
+name: Commission calendar
+
+# Reads hearing, session and committee dates from the Commission calendar.
+# The nightly harvest runs this too; this lets it run on its own.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s tests -t .
+      - run: python -m harvester.calendar
+      - name: Save to the record
+        run: scripts/save.sh "Commission calendar $(date -u +%F)" nightly
