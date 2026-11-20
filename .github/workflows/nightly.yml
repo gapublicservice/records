@@ -31,9 +31,4 @@ jobs:
       - name: Harvest new filings
         run: python -m harvester.run nightly --seed "${{ github.event.inputs.seed || '229480' }}"
       - name: Save to the record
-        run: |
-          git config user.name "records-harvester"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || git commit -m "Nightly harvest $(date -u +%F)"
-          git pull --rebase && git push
+        run: scripts/save.sh "Nightly harvest $(date -u +%F)" nightly
