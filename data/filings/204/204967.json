@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 86306,
+      "bytes": 249423,
+      "fetched": "2026-11-20T08:04:46+00:00",
+      "name": "dkt_44280_tou-evc_tariff_jun_2023.zip",
+      "sha256": "1c266907879a899c329b68135e54c6bf3198e91149145bdbd7369b8004d58de7",
+      "text": "zip (3 read)",
+      "text_file": "data/text/204/204967/86306.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/204967/86306"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Georgia Power Company’s Electric Vehicle Time of Use Tariff, TOU-EVC-1",
+  "dockets": [
+    44280
+  ],
+  "document_id": 204967,
+  "filed_date": "2023-06-30",
+  "harvested": "2026-11-20",
+  "received_date": "2023-06-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=204967"
+}

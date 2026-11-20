@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 87137,
+      "bytes": 9459454,
+      "fetched": "2026-11-20T08:18:54+00:00",
+      "name": "dkt_44280_inc_qual_disc_20230926.zip",
+      "sha256": "c6669f7c8c24c803f8787b2454c606336a416d709034622a35cfcf363893b637",
+      "text": "zip (9 read, 1 not read)",
+      "text_file": "data/text/205/205788/87137.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205788/87137"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Income Qualified Discount Options Report",
+  "dockets": [
+    44280
+  ],
+  "document_id": 205788,
+  "filed_date": "2023-09-26",
+  "harvested": "2026-11-20",
+  "received_date": "2023-09-26",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=205788"
+}

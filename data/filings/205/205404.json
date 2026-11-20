@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 86707,
+      "bytes": 208827,
+      "fetched": "2026-11-20T08:12:19+00:00",
+      "name": "Docket No. 44280 Order Approving Staff's Recommendation for the 2023 Community Charger Plan.docx",
+      "sha256": "32d67c5d920735e5fb0e8b7e69004a729e5c59c7887e1bed49931e0e93a68807",
+      "text": "docx",
+      "text_file": "data/text/205/205404/86707.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205404/86707"
+    },
+    {
+      "attachment_id": 86708,
+      "bytes": 1372035,
+      "fetched": "2026-11-20T08:12:20+00:00",
+      "name": "205404.pdf",
+      "sha256": "31d0a5f1b39bef7e67cb3745342257baf13447184bf649d4f91fd92abeca0b83",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205404/86708"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER APPROVING STAFF’S RECOMMENDATION FOR THE 2023 COMMUNITY CHARGER PLAN",
+  "dockets": [
+    44280
+  ],
+  "document_id": 205404,
+  "filed_date": "2023-08-11",
+  "harvested": "2026-11-20",
+  "received_date": "2023-08-11",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=205404"
+}

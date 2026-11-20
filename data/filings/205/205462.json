@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 86770,
+      "bytes": 378883,
+      "fetched": "2026-11-20T08:13:19+00:00",
+      "name": "dkt_44280_grid_invest_2023-08_pd.zip",
+      "sha256": "8ca081576f80f1ff39302b6746f568f3134af60a9eb692edd205de9eb1910737",
+      "text": "zip (3 read, 1 not read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/205/205462/86770.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205462/86770"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Grid Investment Program for Period January 2023 through June 2023",
+  "dockets": [
+    44280
+  ],
+  "document_id": 205462,
+  "filed_date": "2023-08-16",
+  "harvested": "2026-11-20",
+  "received_date": "2023-08-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=205462"
+}

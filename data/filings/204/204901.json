@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 86226,
+      "bytes": 416559,
+      "fetched": "2026-11-20T08:03:38+00:00",
+      "name": "dkt_44280_et_term_sheet_update_franchise_auto_dealer.zip",
+      "sha256": "3d0dd9d66ca43d17e3df0f0688f1e8f9f11510858aa483a78f6c4095b067b983",
+      "text": "zip (4 read)",
+      "text_file": "data/text/204/204901/86226.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/204901/86226"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 2022 Rate Case Electric Transportation Compliance Filing",
+  "dockets": [
+    44280
+  ],
+  "document_id": 204901,
+  "filed_date": "2023-06-23",
+  "harvested": "2026-11-20",
+  "received_date": "2023-06-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=204901"
+}

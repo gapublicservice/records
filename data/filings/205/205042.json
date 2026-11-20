@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 86426,
+      "bytes": 485744,
+      "fetched": "2026-11-20T08:06:05+00:00",
+      "name": "documents (9).zip",
+      "sha256": "66981bdc632448461762eb81bdfcaa4355e65f97e1cc7f6679a0df83b5246088",
+      "text": "zip (2 read)",
+      "text_file": "data/text/205/205042/86426.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205042/86426"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Response to Americans for Affordable Clean Energy's Comments on Georgia Power Company's Community Charging Plan",
+  "dockets": [
+    44280
+  ],
+  "document_id": 205042,
+  "filed_date": "2023-07-10",
+  "harvested": "2026-11-20",
+  "received_date": "2023-07-10",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=205042"
+}
