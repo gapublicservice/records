@@ -118,7 +118,7 @@ def dockets_in(text: str) -> list[dict]:
                 if 10000 <= d <= 99999 and d not in items:
                     # the item often runs onto the next line; keep up to 240 characters
                     nxt = lines[i + 1] if i + 1 < len(lines) else ""
-                    joins = len(line) <= 60 and nxt and not re.match(r"(\d+|[A-Za-z]|[ivx]+)[.)]\s|docket", nxt, re.I)
+                    joins = (len(line) <= 100 or line.endswith(":")) and nxt and not re.match(r"(\d+|[A-Za-z]|[ivx]+)[.)]\s|docket", nxt, re.I)
                     ctx = f"{line} {nxt}" if joins else line
                     items[d] = ctx[:240].rstrip()
     return [{"docket": d, "line": items[d]} for d in sorted(items)]

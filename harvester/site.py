@@ -275,6 +275,68 @@ def load_calendar() -> list[dict]:
     return json.loads(p.read_text()).get("events", []) if p.exists() else []
 
 
+def load_agendas() -> dict:
+    """Agenda files by calendar event address, from harvester.agendas."""
+    p = DATA / "index" / "agendas.json"
+    return json.loads(p.read_text()).get("events", {}) if p.exists() else {}
+
+
+def agendas_by_docket(agendas: dict, known) -> dict:
+    """For each known docket, the agenda items that name it, newest meeting first."""
+    out = collections.defaultdict(list)
+    for url, ev in agendas.items():
+        for f in ev.get("files", []):
+            for it in f.get("items", []):
+                if str(it["docket"]) in known:
+                    out[str(it["docket"])].append({"date": ev["date"], "time": ev["time"], "kind": ev["kind"],
+                                                   "event": url, "label": f["label"], "file": f["url"],
+                                                   "line": it["line"]})
+    for v in out.values():
+        v.sort(key=lambda x: x["date"], reverse=True)
+    return out
+
+
+def agenda_link(ev_url: str, agendas: dict, cls: str = "tk-agenda") -> str:
+    """'Agenda' straight to the file when there is one, else 'Agendas' to the Commission's event page."""
+    files = (agendas.get(ev_url) or {}).get("files") or []
+    if not files:
+        return ""
+    if len(files) == 1:
+        return f' <a class="{cls}" href="{e(files[0]["url"])}">Agenda</a>'
+    return f' <a class="{cls}" href="{e(ev_url)}">Agendas ({len(files)})</a>'
+
+
+def agenda_pick(items: list[dict], today: str) -> dict | None:
+    """The next meeting whose agenda lists the docket, else the latest one in the last 30 days."""
+    ahead = [x for x in items if x["date"] >= today]
+    if ahead:
+        return min(ahead, key=lambda x: x["date"])
+    recent = (dt.date.fromisoformat(today) - dt.timedelta(days=30)).isoformat()
+    past = [x for x in items if recent <= x["date"] < today]
+    return past[0] if past else None
+
+
+def agenda_button(items: list[dict], today: str) -> str:
+    ag = agenda_pick(items, today)
+    if not ag:
+        return ""
+    when = "On the" if ag["date"] >= today else "Was on the"
+    return (f' <a class="pin-follow agenda-btn" href="{e(ag["file"])}">{when} {e(_day(ag["date"]))} agenda</a>')
+
+
+def agenda_table(items: list[dict]) -> str:
+    if not items:
+        return ""
+    trs = "".join(
+        f'<tr><td class="mono">{e(x["date"])}</td><td>{e(x["label"])}</td>'
+        f'<td>{e(_short(x["line"], 220))}</td><td><a href="{e(x["file"])}">Agenda</a></td></tr>' for x in items)
+    return ('<h2>On Commission agendas</h2><p class="muted">Meetings whose agenda names this docket, read from the '
+            'agenda files the Commission attaches to its calendar. The line shown is the agenda\'s own wording; '
+            'agendas are often amended, so the Commission\'s file is the one to cite.</p>'
+            '<table class="wide"><thead><tr><th>Meeting</th><th>Agenda</th><th>Item</th><th>File</th></tr></thead>'
+            f'<tbody>{trs}</tbody></table>')
+
+
 def ticker(name: str, items: list[str], empty: str) -> str:
     if not items:
         return (f'<div class="ticker"><span class="tk-label">{e(name)}</span>'
@@ -286,7 +348,7 @@ def ticker(name: str, items: list[str], empty: str) -> str:
             f'</div></div></div>')
 
 
-def front_tickers(events: list[dict], dockets: dict, today: str) -> str:
+def front_tickers(events: list[dict], dockets: dict, today: str, agendas: dict | None = None) -> str:
     horizon = (dt.date.fromisoformat(today) + dt.timedelta(days=60)).isoformat()
     up = []
     for ev in events:
@@ -299,7 +361,7 @@ def front_tickers(events: list[dict], dockets: dict, today: str) -> str:
         plain = ev["kind"] in ("session", "committee") or kind.lower() == title.lower()
         what = "" if plain else f' {e(_short(title, 70))}'
         up.append(f'<b>{e(_day(ev["date"], True))}</b> <span class="muted">{e(ev["time"])}</span> '
-                  f'<a href="{e(ev["url"])}">{e(kind)}</a> {dk}{what}')
+                  f'<a href="{e(ev["url"])}">{e(kind)}</a>{agenda_link(ev["url"], agendas or {})} {dk}{what}')
     hot = sorted(((k, v) for k, v in dockets.items() if v.get("contested")),
                  key=lambda kv: kv[1].get("last_filed") or "", reverse=True)
     cont = []
@@ -311,7 +373,7 @@ def front_tickers(events: list[dict], dockets: dict, today: str) -> str:
             + ticker("Contested", cont, "No contested dockets right now."))
 
 
-def pinned_cards(dockets: dict, events: list[dict], today: str) -> str:
+def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict | None = None) -> str:
     cards = []
     for pin in PINNED:
         d = pin["docket"]
@@ -328,6 +390,11 @@ def pinned_cards(dockets: dict, events: list[dict], today: str) -> str:
         lines = f'<p class="pin-facts mono">{e(" · ".join(facts))}</p>'
         if nxt:
             lines += f'<p class="pin-next">Next: <a href="{e(nxt["url"])}">{e(KIND_LABEL.get(nxt["kind"], "Meeting"))}, {e(_day(nxt["date"], True))}</a></p>'
+        ag = agenda_pick((on_agenda or {}).get(str(d), []), today)
+        if ag:
+            when = "On the agenda" if ag["date"] >= today else "Was on the agenda"
+            lines += (f'<p class="pin-next">{when}: <a href="{e(ag["file"])}">'
+                      f'{e(KIND_LABEL.get(ag["kind"], "Meeting"))}, {e(_day(ag["date"], True))}</a></p>')
         if v.get("contested"):
             lines += '<p><span class="tag dis">Contested</span></p>'
         follow = (f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow</a>' if FOLLOW_URL else "")
@@ -393,11 +460,13 @@ def build():
              f'<div><b>{since}</b><span>complete record since</span></div>'
              f'<div><b>{len(new_ids)}</b><span>new filings last night</span></div></div>')
     events = load_calendar()
+    agendas = load_agendas()
+    on_agenda = agendas_by_docket(agendas, dockets)
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5))).date().isoformat()
-    body = front_tickers(events, dockets, now) + f"""<div class="kicker">Georgia Public Service Commission</div>
+    body = front_tickers(events, dockets, now, agendas) + f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Every public filing, searchable.</h1>
 <p class="lede">A nightly copy of every filing posted to the Commission's public site since September 2022, tagged by staff unit, place and disagreement. Every result links to the Commission's own page.</p>
-{pinned_cards(dockets, events, now)}
+{pinned_cards(dockets, events, now, on_agenda)}
 {latest_strip(rows)}
 <h2>Search the record</h2>
 {stats}
@@ -462,8 +531,9 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-{f'<p><a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a></p>' if FOLLOW_URL else ""}
+<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now)}</p>
 <table>{stat}</table>
+{agenda_table(on_agenda.get(d, []))}
 <h2>Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
