@@ -239,9 +239,9 @@ SEARCH_JS = r"""
 
 
 # Front page: pinned dockets (Paul's list, Nov 20) and two tickers.
-# FOLLOW_URL stays None until the follow-a-docket page is approved and live;
-# no button that collects an email appears before then.
-FOLLOW_URL = None
+# The follow-a-docket page on the main site (live Nov 20, on Paul's yes).
+# Set to None to take every Follow button off the records site.
+FOLLOW_URL = "https://www.gapublicservice.org/follow/"
 PINNED = [
     {"label": "Affordability", "docket": None,
      "title": "Affordability docket",
@@ -462,6 +462,7 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
+{f'<p><a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a></p>' if FOLLOW_URL else ""}
 <table>{stat}</table>
 <h2>Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
