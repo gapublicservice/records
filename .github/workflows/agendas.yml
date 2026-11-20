@@ -1,0 +1,36 @@
+name: Commission agendas
+
+# Re-reads the Commission calendar's event pages for agenda files and the
+# dockets they list. The nightly harvest runs this too; this lets it run alone.
+on:
+  workflow_dispatch:
+    inputs:
+      back:
+        description: "Days back to rescan"
+        default: "60"
+      ahead:
+        description: "Days ahead to rescan"
+        default: "45"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  agendas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils antiword
+      - run: python -m unittest discover -s tests -t .
+      - run: python -m harvester.calendar
+      - run: python -m harvester.agendas --back "${{ inputs.back }}" --ahead "${{ inputs.ahead }}"
+      - name: Save to the record
+        run: scripts/save.sh "Commission agendas $(date -u +%F)" nightly
