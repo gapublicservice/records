@@ -1,0 +1,1786 @@
+===== Exhibit to Testimony of Legg_Evans.docx =====
+ILLUSTRATION OF MONTHLY NETTING COST SHIFT
+The following chart illustrates the annual cost shift of $1,356 resulting from an average monthly netting pilot participant taking service under the Residential Service or “R” rate, which is a primarily volumetric rate. 
+
+The following chart illustrates the annual cost shift of $291 resulting from an average monthly netting pilot participant taking service under the three-part Smart Usage (or TOU-RD) rate.
+
+
+===== GPC Supplemental Direct Testimony .pdf =====
+
+                          SUPPLEMENTAL DIRECT TESTIMONY OF
+
+                                LEE EVANS AND LARRY LEGG
+
+                                            ON BEHALF OF
+
+                                 GEORGIA POWER COMPANY
+
+
+                                           DOCKET NO. 44280
+
+
+ 1                                    I.      INTRODUCTION
+
+ 2   Q.   PLEASE STATE YOUR NAMES, TITLES, AND BUSINESS ADDRESSES.
+
+ 3   A.   Lee Evans, Director of Demand Planning & Analysis for Southern Company Services, Inc.
+ 4        (“SCS”). My business address is 241 Ralph McGill Boulevard N.E., Atlanta, Georgia
+ 5        30308.
+
+ 6   A.   Larry T. Legg, Director of Pricing and Rates for Georgia Power Company (“Georgia
+ 7        Power” or the “Company”), 241 Ralph McGill Boulevard N.E., Atlanta, Georgia 30308.
+
+ 8   Q.   MR. LEGG AND MR. EVANS, DID YOU PRESENT DIRECT TESTIMONY AND
+ 9        EXHIBITS ON BEHALF OF GEORGIA POWER IN THIS PROCEEDING?
+
+10   A.   Yes.
+
+11   Q.   ARE YOU PROVIDING ANY EXHIBITS TO YOUR TESTIMONY?
+
+12   A.   Yes. Exhibit___(LPE/LTL-1) provides a comparison of the cost shift for customers
+13        participating in the monthly netting pilot on a primarily volumetric base rate (for example,
+14        the Residential Service or “R” rate) versus a three-part base rate such as the Time of Use-
+15        Residential Demand rate (“TOU-RD,” otherwise known as “Smart Usage”).
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                                Page 1 of 17
+
+ 1   Q.       WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+
+ 2   A.       Our testimony provides Georgia Power’s response to the August 5, 2022, Second Amended
+ 3            Procedural and Scheduling Order (“PSO”) issued in this proceeding by the Georgia Public
+ 4            Service Commission (“Commission”). The PSO is based on Commissioner Shaw’s motion
+ 5            in Georgia Power’s 2022 Integrated Resource Plan (“IRP”), ordering the Company to
+ 6            “address the appropriate structure and pricing of [the Company’s Renewable and
+ 7            Nonrenewable Resources (“RNR”) tariff] in the current rate case so that the Commission
+ 8            can move towards a fair and long-term way of addressing the issue.”
+
+ 9            Our testimony demonstrates that based on the analysis of data from the monthly netting
+10            pilot, monthly netting excessively compensates monthly netting customers for the energy
+11            they push back onto the electric grid and in so doing, disproportionately shifts costs from
+12            participating to non-participating customers. Considering this analysis, the Company
+13            recommends that the Commission not expand the monthly netting pilot that it first
+14            authorized in the 2019 base rate case. Additionally, because a cost shift also occurs from
+15            instantaneous netting customers taking service under the R rate to non-participating
+16            customers, the Company recommends that the Commission require all customers who
+17            enroll in the RNR tariff on or after January 1, 2023 take service under a three-part rate,1
+18            such as the Company’s TOU-RD or Smart Usage rate or an equivalent Commercial or
+19            Industrial rate. Finally, to protect customers from dishonest and misleading business
+20            practices in the marketplace for behind the meter (“BTM”) generation resources, the
+21            Company recommends that the Commission establish a formal framework for the
+22            Commission’s referral of consumer complaints to the Consumer Protection Division of the
+23            Georgia Attorney General’s Office.
+
+
+     1
+      As explained in more detail in our testimony, a three-part rate is a rate that separately prices the three primary cost
+     components that comprise a customer’s bill; specifically, the customer, demand, and energy charges, and in so
+     doing, better reflects and aligns cost recovery from customers using BTM resources.
+
+                                 Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                          On Behalf of Georgia Power Company
+                                                     Docket No. 44280
+                                                        Page 2 of 17
+
+ 1   Q.      PLEASE BRIEFLY DESCRIBE THE COMPANY’S RNR TARIFF.
+
+ 2   A.      The Company designed the RNR tariff in 2002 in response to the Georgia Cogeneration
+ 3           and Distributed Generation Act of 2001 (“Cogen Act”), and the Commission approved the
+ 4           tariff in August 2002 (Order in Docket No. 15363). The RNR tariff, which is currently in
+ 5           its tenth version (“RNR-10”), establishes the terms and conditions by which the Company
+ 6           compensates customers with qualifying BTM generation resources for the energy they
+ 7           provide to the electric grid. Residential, commercial, and industrial customers take electric
+ 8           service under any of the Company’s rate plans for which they qualify, and additionally,
+ 9           enroll in the RNR tariff to be compensated for the energy they provide to the electric grid.2
+10           The types of generation resources installed under the RNR tariff predominantly consist of
+11           rooftop solar generation installed behind the customer’s meter.
+
+12           In the Company’s 2019 base rate case, the Commission ordered Georgia Power to
+13           implement a new payment methodology – monthly netting – under the RNR tariff and
+14           directed the Company to offer monthly netting on a pilot basis for the first 5,000 subscribers
+15           or until newly installed capacity reached 32 MW, whichever came first. The monthly
+16           netting pilot reached 5,000 participant applications and is now closed to new applicants.
+17           The Company’s longstanding instantaneous netting program remains open to new
+18           customer enrollments.
+
+19   Q.      PLEASE DESCRIBE INSTANTANEOUS NETTING.
+
+20   A.      Prior to the start of the monthly netting pilot in the 2019 base rate case, the Company
+21           exclusively offered instantaneous netting to customers under the RNR tariff. Under
+22           instantaneous netting, the Company credits the excess energy that a participating customer
+23           generates and pushes back to the grid at a value equal to the Company’s Solar Avoided
+24           Energy Cost, which is established under the Company’s Commission-approved Renewable
+25           Cost Benefit (“RCB”) Framework and filed annually with the Commission. With
+26           instantaneous netting, a BTM generation system first offsets the customer’s electricity use.
+
+     2
+      The RNR monthly netting pilot is not available to customers receiving service under the Company’s FlatBill, Pre-
+     Pay, Community Solar, or Real Time Pricing tariffs.
+
+                               Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                        On Behalf of Georgia Power Company
+                                                   Docket No. 44280
+                                                      Page 3 of 17
+
+ 1            Then, for each instant that a customer produces electricity in excess of its demand, the
+ 2            customer receives a bill credit for the energy pushed back to the grid valued at the Solar
+ 3            Avoided Energy Cost rate. These bill credits for excess generation are summed on a
+ 4            monthly basis and an aggregate credit is reflected on the customer’s monthly electric bill,
+ 5            thereby lowering the customer’s overall bill.
+
+ 6            By way of example, a customer participating in instantaneous netting with a rooftop solar
+ 7            generation system that delivers 400 kWh of energy back to the grid during the month would
+ 8            receive a bill credit in the amount of $10.71. This credit represents the amount of excess
+ 9            energy delivered to the system – 400 kWh – multiplied by the current Solar Avoided
+10            Energy Cost rate of just under 3 cents per kWh.3 Again, the monthly credit to the
+11            customer’s bill is in addition to the benefit the customer receives from reducing their
+12            energy purchases by supplying some of their energy needs from their BTM generation
+13            system.
+
+14   Q.       PLEASE DESCRIBE MONTHLY NETTING.
+
+15   A.       Under monthly netting, the Company subtracts the total amount of energy a participating
+16            customer delivers to the grid from the total amount of energy the customer purchased from
+17            Georgia Power during a bill period. Monthly netting compensates the customer for the
+18            excess energy they deliver to the grid at the full volumetric portion of the retail electric rate
+19            the customer pays to Georgia Power, which substantially overpays the customer for the
+20            energy it delivers to the grid. This substantial overpayment disproportionately shifts costs
+21            from participating to non-participating customers.
+
+22            For example, assume a customer on the R rate, who averages 1,000 kWh of monthly
+23            consumption, has a rooftop solar generation system delivering 400 kWh of energy back to
+24            the grid. Unlike the instantaneous netting customer in the previous example, the monthly
+
+
+     3
+       The Company’s current Solar Avoided Energy Cost rate is $0.026763/kWh. This compensation to BTM customers
+     is designed to comply with the Cogen Act’s mandates that customers be credited “at an agreed to rate as filed with the
+     commission” that is not “above avoided energy cost.” O.C.G.A. §§ 46-3-55(1)(C)(ii), -56(a).
+
+
+                                Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                         On Behalf of Georgia Power Company
+                                                    Docket No. 44280
+                                                       Page 4 of 17
+
+ 1   netting customer does not pay for the full 1,000 kWh of energy that the Company delivers
+ 2   to that customer during the billing period. Instead, the monthly netting customer’s excess
+ 3   energy (400 kWh) reduces what the customer pays for their actual monthly consumption
+ 4   from 1,000 kWh to 600 kWh (1,000 kWh – 400 kWh). The Company would then bill the
+ 5   monthly netting customer for only 600 kWh on the retail rate. Figure 1 below further
+ 6   illustrates the difference in how the monthly and instantaneous netting methodologies
+ 7   compensate customers for the excess energy they provide to the grid.
+
+ 8                                            FIGURE 1
+
+
+ 9
+
+10   As the example above demonstrates, a customer participating in the monthly netting pilot
+11   pays substantially less for the same electric service than a customer participating in
+12   instantaneous netting, despite that both scenarios assume the same monthly usage (1000
+13   kWh) and provide the same amount of excess energy (400 kWh) back to the grid. Because
+14   Georgia Power recovers its full cost of service through established revenue requirements,
+15   monthly netting shifts the costs that are not recovered from the monthly netting customer
+16   to non-participating customers. This cost shift creates an unjustified and disproportionate
+17   subsidy that only benefits the customer participating in the monthly netting pilot.
+
+
+                    Supplemental Direct Testimony of Lee Evans and Larry Legg
+                             On Behalf of Georgia Power Company
+                                        Docket No. 44280
+                                           Page 5 of 17
+
+ 1   Q.   IN LIGHT OF THE                   ABOVE,        WHAT         ARE      THE   COMPANY’S
+ 2        RECOMMENDATIONS?
+
+ 3   A.   This case represents the first opportunity for the Commission to evaluate the results of the
+ 4        monthly netting pilot since its adoption in the 2019 base rate case. The Company
+ 5        recognizes the benefits that BTM renewable energy resources provide to the Company’s
+ 6        system. However, the Company requests the Commission balance these benefits with the
+ 7        costs shifted to all other non-participating customers under the predominant volumetric
+ 8        rate structure. The Company does not recommend continuing to subsidize BTM solar
+ 9        customers at the expense of other customers by using the monthly netting methodology
+10        combined with volumetric rate structures.
+
+11        Independent of the monthly netting pilot, Georgia Power has seen a rapid increase in
+12        renewable energy development. This growth stems from this Commission’s measured and
+13        deliberate approach to procuring and incentivizing renewable energy resources in Georgia.
+14        This rapid growth demonstrates that the Commission’s existing programs are working as
+15        intended, particularly as renewable resources become even more cost competitive as a
+16        result of further technological maturation and the generous incentives that the recent
+17        federal Inflation Reduction Act (“IRA”) provides.
+
+18        In developing a holistic approach to Georgia Power’s other renewable energy programs
+19        under the IRP process, the Company has identified several core principles that equally
+20        apply to the RNR tariff, which include ensuring customer fairness by minimizing cross
+21        subsidization and appropriately valuing the costs and benefits of renewable energy. This
+22        holistic approach, together with the continued refinement of the Company’s RCB
+23        Framework, will appropriately and fairly compensate customer generation in a way that
+24        encourages the development of BTM resources while also protecting non-participating
+25        customers from cost-shifting.
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                                Page 6 of 17
+
+ 1   In response to the Commission’s PSO, the Company:
+
+ 2      Opposes expansion of the RNR monthly netting pilot because it results in significant
+ 3       subsidization to customers participating in the pilot while disproportionately shifting
+ 4       costs to non-participating customers;
+
+ 5      Recommends requiring all customers who enroll in RNR on or after January 1, 2023,
+ 6       to take service under a three-part rate, such as the Company’s TOU-RD rate or an
+ 7       equivalent Commercial or Industrial rate, to mitigate the disproportionate cost shift to
+ 8       non-participating customers; and
+
+ 9      Recommends the development of a formal framework for the Commission’s referral of
+10       consumer complaints to the Consumer Protection Division of the Georgia Attorney
+11       General’s Office to help protect customers from dishonest and misleading business
+12       practices in the marketplace for BTM generation resources, which appear to have
+13       increased in frequency since the start of the monthly netting pilot.
+
+14   As we explain in this testimony, given the sustained growth of BTM solar resources in
+15   Georgia under the existing RNR tariff structure and the expected effect of new incentives
+16   resulting from the federal IRA, the Commission does not need to further expand BTM
+17   incentives at this time, particularly at the expense of homeowners and businesses that are
+18   unable or unwilling to install BTM resources. The compensation rate paid to RNR monthly
+19   netting customers—almost the Company’s full retail rate of electricity—worsens a cost
+20   shift already present under instantaneous netting. The compensation rate paid to RNR
+21   monthly netting customers significantly exceeds the rate the Company otherwise pays for
+22   renewable energy and instead compensates participants for utility services they are not
+23   providing—such as the costs incurred for delivering that electricity, which includes capital
+24   costs and reasonable and necessary operating expenses. The Company is then left to
+25   recover these unrecovered costs from non-participating customers.
+
+
+                     Supplemental Direct Testimony of Lee Evans and Larry Legg
+                              On Behalf of Georgia Power Company
+                                         Docket No. 44280
+                                            Page 7 of 17
+
+ 1                          II.      RNR TARIFF AND RATE DESIGN
+
+ 2   Q.   PLEASE DESCRIBE THE HISTORY OF THE RNR TARIFF.
+
+ 3   A.   Georgia Power designed and implemented the RNR tariff as its customer offering to
+ 4        comply with the requirements of the Cogen Act and the federal Public Utility Regulatory
+ 5        Policies Act (“PURPA”). Georgia Power introduced the RNR tariff in 2002 and the
+ 6        Commission originally approved it in its August 22, 2002 Order in Docket No. 15363.
+
+ 7   Q.   CAN YOU PLEASE DESCRIBE THE                             COMPANY’S           APPROACH   TO
+ 8        INTEGRATING BTM RESOURCES?
+
+ 9   A.   The Company’s longstanding approach to successfully integrating BTM resources under
+10        the RNR tariff has been to develop an equitable rate design that encourages the
+11        development of BTM resources while ensuring that the costs associated with operating the
+12        Company’s electric system continue to be fairly recovered among its customers based upon
+13        appropriate cost causation principles. Following the enactment of the Cogen Act in 2001,
+14        the Company’s approach has relied upon the instantaneous netting approach currently
+15        reflected in the Company’s RNR tariff. Under instantaneous netting, participating
+16        customers can offset their own consumption of electricity while also receiving
+17        compensation for excess energy they deliver to the Company’s electric system at a rate that
+18        reflects the Commission-approved value of solar energy—a value derived from the
+19        Company’s RCB Framework. Conversely, under the monthly netting pilot approved in the
+20        2019 base rate case, the Company must compensate monthly netting customers for the
+21        energy generated by the customer’s BTM generation system at the full volumetric portion
+22        of the Company’s retail electric service rate.
+
+23        The current monthly netting methodology significantly overpays customers for the energy
+24        they deliver, whereas instantaneous netting better follows established cost causation
+25        principles that more appropriately compensate participating customers for the excess
+26        generation they provide to the grid. For this reason, the Company’s consistent and
+27        appropriate solution to integrating BTM resources has been to pay for this excess
+
+
+                          Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                   On Behalf of Georgia Power Company
+                                              Docket No. 44280
+                                                 Page 8 of 17
+
+ 1        generation pushed to the grid under an instantaneous rather than monthly netting
+ 2        methodology. As compared to monthly netting, this approach strikes a better balance
+ 3        between incentivizing BTM resources and protecting non-participating customers from the
+ 4        additional cost shift associated with monthly netting. However, as we discuss in the
+ 5        remainder of our testimony, even the instantaneous netting approach can cause
+ 6        disproportionate cost shifts that require appropriate rate design to mitigate.
+
+ 7   Q.   DOES THE COMPANY’S RETAIL BASE RATE INCLUDE COST
+ 8        COMPONENTS BEYOND JUST THE VALUE OF THE ENERGY DELIVERED?
+
+ 9   A.   Yes. The Company’s retail rates are designed to recover various costs that the Company
+10        must incur to serve customers, such as generation, transmission, and distribution capacity,
+11        as well as other costs, like metering, billing, and customer service support. Although some
+12        tariffs include individual pricing components for customer-, energy-, and demand-related
+13        costs, for other tariffs the demand-related costs are recovered through the energy price. For
+14        example, under any rate that primarily relies upon volumetric energy charges, such as the
+15        R rate, the actual cost of energy is only a small percentage of the overall retail base rate.
+16        As Mr. Evans explained in his Direct Testimony filed in this proceeding, the Company’s
+17        cost allocation methodology seeks to apportion respective costs into three primary
+18        classifications – demand-related, energy-related and customer-related. These cost
+19        classifications can be descried as follows:
+
+20           (1) Demand-related costs are incurred to serve customers’ peak requirements for
+21           electricity. This generally refers to costs incurred by the Company to provide the
+22           capacity necessary to serve the customers’ peak kilowatt loads (demands) throughout
+23           the year. Examples of demand-related costs include costs associated with generation,
+24           transmission, and portions of distribution investments and associated expenses.
+
+25           (2) Energy-related costs vary with the amount of energy the customer consumes. These
+26           costs comprise primarily production fuel and variable operations and maintenance
+27           (“VO&M”) expenses, which vary with the kilowatt-hours consumed by the customer.
+
+
+                          Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                   On Behalf of Georgia Power Company
+                                              Docket No. 44280
+                                                 Page 9 of 17
+
+ 1      (3) Customer-related costs are associated with establishing service to customers but
+ 2      are independent of customers’ kW and kWh consumption. This classification generally
+ 3      refers to the costs the Company incurs to attach a customer to the distribution system
+ 4      and be ready to serve that customer, and for customer metering, customer billing, and
+ 5      certain administrative costs.
+
+ 6   As the chart below demonstrates, the bill for customers taking service on the R rate is
+ 7   overwhelmingly made up of volumetric energy charges. Because this rate does not include
+ 8   a large enough monthly customer charge and has no demand charge, all or portions of
+ 9   demand-related costs are collected through the energy charge. Therefore, when monthly
+10   netting compensates customers at the volumetric energy rate for the excess energy pushed
+11   back to the grid, the Company is crediting them for fixed customer and demand related
+12   services they are still using. See Figure 2 below.
+
+13                                            FIGURE 2
+
+
+14
+
+15   Notably, a customer participating under the RNR tariff is likely not providing any
+16   immediate demand- or customer-related services when they deliver energy back onto the
+17   grid. Instead, they are only providing and offsetting the cost of the energy. The amount the
+
+                    Supplemental Direct Testimony of Lee Evans and Larry Legg
+                             On Behalf of Georgia Power Company
+                                        Docket No. 44280
+                                          Page 10 of 17
+
+ 1        Company pays to BTM customers should reflect the value of the energy being pushed back
+ 2        onto the grid and nothing more. Without this change, the Company is overcompensating
+ 3        participating customers and other customers are shouldering the additional cost.
+
+ 4   Q.   WHAT OCCURS WHEN THE COMPANY COMPENSATES A CUSTOMER AT
+ 5        THE RETAIL RATE UNDER MONTHLY NETTING?
+
+ 6   A.   When a customer enrolls in monthly netting and is compensated at the prevailing retail
+ 7        rate, that customer sheds or “shifts” cost recovery to all other customers. Compensating a
+ 8        customer for intermittent energy they deliver to the grid at the retail rate allows these
+ 9        customers to avoid paying their proportional share of the costs to build, operate, and
+10        maintain the system. In certain situations where fixed costs are recovered entirely through
+11        variable volumetric charges, monthly netting can result in a customer paying less than the
+12        actual fixed costs the Company incurs to serve that customer. For a monthly netting
+13        customer on the R rate, the Company has calculated the resulting shift in cost to be
+14        approximately $1,356 per year for the average monthly netting participant.
+
+15   Q.   WHAT IS THE ANNUAL COST SHIFT RESULTING FROM THE MONTHLY
+16        NET METERING PILOT?
+
+17   A.   In addition to the cost shift resulting generally from BTM solar, the monthly netting pilot
+18        results in an annual cost shift of $1.4 million. As Mr. Legg identified in his Direct
+19        Testimony filed in this proceeding, to address this cost shift, the Company has made an
+20        adjustment of approximately $1.4 million to rates related to the projected cost shift from
+21        the monthly netting pilot. All customers will pay for this adjustment, including customers
+22        who do not have BTM generation.
+
+23   Q.   DOES THE COMPANY HAVE DATA BASED ON THE MONTHLY NETTING
+24        PILOT TO DEMONSTRATE THIS COST SHIFT?
+
+25   A.   Yes. The Company has reviewed the load profiles of residential customers enrolled in the
+26        monthly netting pilot with at least twelve months of participation and accounted for the
+27        installed behind the meter solar capacity. Using this data, the Company formed before-
+28        solar and after-solar loadshapes for participants in order to calculate the cost shift that
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                               Page 11 of 17
+
+ 1        occurs with monthly netting. The Company utilized these same inputs to calculate the
+ 2        instantaneous netting cost shift. Figure 3 below illustrates the incremental levels of cost
+ 3        shift associated with an average pilot participant receiving service under the R rate who is
+ 4        enrolled in instantaneous netting and a residential customer on the R rate who is enrolled
+ 5        in monthly netting.
+
+ 6                                              FIGURE 3
+
+
+ 7
+
+ 8        As shown in Figure 3 above, although a significant cost shift already exists when
+ 9        customers install BTM solar due to the volumetric design of the R rate, the monthly
+10        netting pilot exacerbates this cost shift.
+
+11   Q.   DOES THE COMPANY’S ANALYSIS FOCUS PRIMARILY ON RESIDENTIAL
+12        CUSTOMERS?
+
+13   A.   Yes. The Company’s analysis to date has focused on residential customers primarily on the
+14        R rate. 74% of Georgia Power’s residential customers are on the R rate, and 84% of the
+15        RNR monthly netting pilot customers are on the R rate. Although commercial and
+
+                          Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                   On Behalf of Georgia Power Company
+                                              Docket No. 44280
+                                                Page 12 of 17
+
+ 1        industrial customers are also eligible for the RNR tariff, the Company has not reviewed the
+ 2        cost shifts presented by those customer classes and prevailing rates due to the relatively
+ 3        small population of non-residential customers currently enrolled in RNR monthly netting.
+ 4        Although the residential R rate provides the best “apples to apples” comparison by
+ 5        providing the Company with the largest data set, the principles and trends identified in the
+ 6        residential analysis are likely to carry over to commercial and industrial customers
+ 7        receiving service under volumetric energy rates.
+
+ 8   Q.   THE COMPANY HAS IDENTIFIED A DISPROPORTIONATE COST SHIFT
+ 9        ASSOCIATED WITH MONTHLY NETTING, BUT HAS IT ATTEMPTED TO
+10        QUANTIFY THE BENEFITS?
+
+11   A.   Yes. Under monthly netting, as with instantaneous netting, the Company avoids the
+12        incremental costs of fuel and generation variable operations and maintenance expenses.
+13        Currently, RNR customers do not offset any existing transmission and distribution costs.
+
+14   Q.   DOES A MONTHLY NETTING CUSTOMER STILL UTILIZE THE COMPANY’S
+15        ELECTRIC SYSTEM?
+
+16   A.   Yes. Monthly netting customers rely on the full capacity of the electric system in two
+17        critical ways: first, to receive energy from the electric system when their BTM system is
+18        not fully offsetting their energy usage, and second, to export energy generated by their
+19        BTM system to the grid. With this in mind, the practice of monthly netting is merely an
+20        accounting construct that allows the customer to bank its excess generation for future use.
+21        The reality, however, is the grid does not physically store the excess electricity produced
+22        and supplied to the grid by the customer. When the monthly netting customer exports
+23        power in excess of its onsite load, the energy must be immediately utilized elsewhere on
+24        the system and cannot be banked for later use. This happens even though monthly netting
+25        pays for this delivered power as if this banking were physically possible.
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                               Page 13 of 17
+
+ 1   Q.   IS THE COMPANY RECOMMENDING THAT THE COMMISSION CONSIDER
+ 2        OTHER POLICY OPTIONS?
+
+ 3   A.   Yes. The Company recommends the Commission consider three-part rates as a solution to
+ 4        the disproportionate cost shift occurring today by requiring all customers who enroll in
+ 5        RNR on or after January 1, 2023 to take service under a three-part rate. Such rates better
+ 6        align with the Company’s underlying costs, and further mitigate the cost shift between
+ 7        participating and non-participating customers. As shown in Exhibit___(LPE/LTL-1),
+ 8        broader adoption of three-part rates, such as the Company’s TOU-RD rate, would
+ 9        significantly reduce the cost shift currently associated with the misalignment of BTM
+10        customer generators on primarily volumetric rates, such as the residential R rate.
+
+11   Q.   HAS THE COMPANY PREVIOUSLY RECOMMENDED ADOPTION OF A
+12        RESIDENTIAL DEMAND RATE TO MITIGATE DISPROPORTIONATE COST
+13        SHIFTS FROM BTM CUSTOMER INSTALLATIONS?
+
+14   A.   Yes. When the Company introduced the TOU-RD tariff in the 2013 rate case, it was
+15        presented as a complement to the then-proposed Supplemental Power Service (“SPS”)
+16        tariff. At that time, to avoid cost shifts between customers with BTM generation and those
+17        without, the Company proposed that a residential BTM customer generator either
+18        participate on a demand rate like TOU-RD or remain on the residential R rate and pay an
+19        additional flat monthly capacity charge. As stated in Witness Roberts’ testimony from the
+20        2013 base rate case, the TOU-RD tariff was designed to be (i) revenue neutral to the
+21        standard residential tariff, (ii) provide “residential customers with a demand rate option to
+22        satisfy the requirement of SPS,” and (iii) approximate energy credits at the Company’s
+23        avoided cost and provide capacity credits for reductions in peak demands provided by the
+24        customers’ BTM generation. Since the inception of TOU-RD, the Company has supported
+25        the use of demand rates with time of use components to mitigate cost shifts from customers
+26        with BTM generation to those customers without. As the Company, this Commission, and
+27        the market embraces the growth in BTM customer generation, Georgia Power recommends
+28        the Commission again consider the Company’s arguments in support of transitioning
+29        customers with BTM generation to three-part rates.
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                               Page 14 of 17
+
+ 1   Q.   IF THE COMMISSION ADOPTS THE COMPANY’S RECOMMENDATION TO
+ 2        ENROLL NEW RNR CUSTOMERS IN A THREE-PART RATE, WHAT WILL
+ 3        HAPPEN TO EXISTING RNR CUSTOMERS WHO ARE NOT CURRENTLY ON
+ 4        A THREE-PART RATE?
+
+ 5   A.   Assuming the monthly netting pilot remains capped at 5,000 customers, the Company’s
+ 6        proposal is to move all future RNR customers to a three-part rate, such as the TOU-
+ 7        RD/Smart Usage rate or an equivalent Commercial or Industrial rate. If adopted, this
+ 8        change would apply to all customers who enroll in RNR on or after January 1, 2023.
+ 9        Additional policy questions for the Commission are:
+
+10               1. Whether and for how long existing RNR customers, including the 5,000 monthly
+11                  netting pilot customers, should be allowed to remain on a rate other than a three-
+12                  part rate (i.e., TOU-RD/Smart Usage) or an equivalent Commercial or Industrial
+13                  rate.
+
+14               2. Whether and for how long the 5,000 monthly netting pilot customers should
+15                  continue to be compensated under monthly as opposed to instantaneous netting. For
+16                  example, the Commission could consider allowing the 5,000 monthly netting pilot
+17                  customers to continue monthly netting for a time period sufficient to recover their
+18                  investment in their BTM generation system.
+
+19        The purpose of the Company’s proposal is to help ensure that, going forward, the
+20        disproportionate cost shift between customers with BTM generation and non-participating
+21        customers is minimized to the greatest extent possible. With this in mind, the Company
+22        and the Commission can also continue to address the appropriate rate structures for BTM
+23        customers in future regulatory cycles.
+
+24        III.      BTM SOLAR MARKETPLACE AND CONSUMER PROTECTIONS
+
+25   Q.   HOW WOULD YOU DESCRIBE THE CURRENT BTM SOLAR MARKET IN
+26        THE COMPANY'S SERVICE TERRITORY?
+
+27   A.   The Company has experienced robust and continued growth in the BTM market, as
+28        demonstrated by increasing enrollments in the Company’s RNR tariff. This steady growth
+
+                            Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                     On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 15 of 17
+
+ 1        has continued notwithstanding the full subscription of the monthly netting pilot. In fact,
+ 2        BTM project applications in 2022 are on pace to equal or exceed the volume experienced
+ 3        in 2020 and 2021. This steady and consistent growth shows that BTM development in
+ 4        Georgia remains strong and that monthly netting is not necessary to encourage rooftop
+ 5        solar adoption in Georgia.
+
+ 6        Considering the recent passage of the federal IRA, demand for BTM generation is likely
+ 7        to continue and we will likely see a further increase in the number of applications received
+ 8        under the RNR tariff regardless of any further extension of the monthly netting pilot. With
+ 9        this expected increase in demand, there is no need to further incentivize the BTM transition
+10        through additional rate design programs such as an expanded monthly netting program.
+
+11   Q.   DO YOU HAVE ANY ADDITIONAL CONCERNS ABOUT THE ROOFTOP
+12        SOLAR MARKET IN GEORGIA?
+
+13   A.   Yes. The Company is aware of unethical business practices employed by some solar
+14        marketers, lead generators, solar installers, and solar loan providers offering services to
+15        Georgia Power’s BTM customers. Unlike some other states dealing with this issue, the
+16        state of Georgia does not yet have a certification requirement to ensure that BTM service
+17        providers have the expertise and financial capability to serve customers. Increasing the
+18        incentives for BTM resources without additional oversight of BTM service providers
+19        invites potentially more unqualified actors and additional customer complaints. Therefore,
+20        the Company supports the development of a more formal framework for the Commission’s
+21        referral of consumer complaints to the Consumer Protection Division of the Georgia
+22        Attorney General’s Office. Georgia Power’s customers are at the center of everything we
+23        do, and it would be a disservice to our customers and the continued growth of rooftop solar
+24        in Georgia for customers to be taken advantage of through unfair and deceptive business
+25        practices.
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                               Page 16 of 17
+
+ 1                                      IV.     CONCLUSION
+
+ 2   Q.   PLEASE SUMMARIZE THE COMPANY’S RECOMMENDATIONS.
+
+ 3   A.   As the Company’s analysis of the monthly netting pilot demonstrates, monthly netting
+ 4        disproportionately shifts costs from RNR monthly netting customers to non-participating
+ 5        customers. The Company recommends that the monthly netting pilot remain capped at
+ 6        5,000 customers. Additionally, given the cost shifts also inherent in the Company’s
+ 7        instantaneous netting program, the Company recommends that the Commission require all
+ 8        customers who enroll in the RNR tariff on or after January 1, 2023, to take service under a
+ 9        three-part rate, such as the Company’s TOU-RD rate, to mitigate the disproportionate cost
+10        shift to non-participating customers. These recommendations appropriately balance the
+11        need to protect non-participating customers while continuing to support the rapid adoption
+12        and growth of BTM resources. Finally, to protect customers from dishonest and misleading
+13        business practices in the BTM marketplace, the Company requests that the Commission
+14        establish a more formal framework for the Commission’s referral of consumer complaints
+15        to the Consumer Protection Division of the Georgia Attorney General’s Office.
+
+16   Q.   DOES THIS CONCLUDE YOUR TESTIMONY?
+
+17   A.   Yes.
+
+
+                         Supplemental Direct Testimony of Lee Evans and Larry Legg
+                                  On Behalf of Georgia Power Company
+                                             Docket No. 44280
+                                               Page 17 of 17
+
+                                                                        Exhibit___ (LPE/LTL-1)
+
+
+                ILLUSTRATION OF MONTHLY NETTING COST SHIFT
+The following chart illustrates the annual cost shift of $1,356 resulting from an average monthly
+netting pilot participant taking service under the Residential Service or “R” rate, which is a
+primarily volumetric rate.
+
+
+The following chart illustrates the annual cost shift of $291 resulting from an average monthly
+netting pilot participant taking service under the three-part Smart Usage (or TOU-RD) rate.
+
+                           SUPPLEMENTAL DIRECT TESTIMONY
+
+                                     OF DR. DAVID GATTIE
+
+                                           ON BEHALF OF
+
+                                 GEORGIA POWER COMPANY
+
+
+                                          DOCKET NO. 44280
+
+
+                                     I.       INTRODUCTION
+
+ 1   Q.   PLEASE STATE YOUR NAME, TITLE, AND BUSINESS ADDRESS
+
+ 2   A.   My name is Dr. David Gattie. I am an Associate Professor of Engineering in the School of
+ 3        Environmental, Civil, Agricultural, and Mechanical Engineering at the University of
+ 4        Georgia. My business address is Driftmier Engineering Center, Room 1211, 597 D. W.
+ 5        Brooks Drive, Athens, Georgia 30602.
+
+ 6   Q.   ON WHOSE BEHALF ARE YOU SUBMITTING TESTIMONY?
+
+ 7   A.   I am testifying on behalf of Georgia Power Company (“Georgia Power” or the
+ 8        “Company”).
+
+ 9   Q.   HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE GEORGIA PUBLIC
+10        SERVICE COMMISSION?
+
+11   A.   Yes. I previously submitted testimony on behalf of Georgia Power in Georgia Public
+12        Service Commission (“Commission”) Docket No. 29849.
+
+13   Q.   DR. GATTIE, PLEASE SUMMARIZE                              YOUR         EDUCATION   AND
+14        PROFESSIONAL EXPERIENCE.
+
+15   A.   I am an Associate Professor of Engineering in the University of Georgia’s (“UGA”)
+16        College of Engineering, and a Senior Fellow in UGA’s Center for International Trade and
+17        Security, which is in UGA’s School of Public and International Affairs. I have fourteen
+18        years of private industry experience as an energy services engineer and environmental
+19        engineer. Currently, my research is in the area of energy policy and integrated energy
+
+                             Supplemental Direct Testimony of Dr. David Gattie
+                                   On Behalf of Georgia Power Company
+                                            Docket No. 44280
+                                               Page 1 of 25
+
+ 1           resource planning for the power sector and the security implications of transitioning the
+ 2           U.S. economy to low- or zero-carbon energy resources. A particular focus of mine is the
+ 3           national security implications of U.S. nuclear power. I established UGA’s first
+ 4           environmental engineering undergraduate program in 2009, which I ushered through full
+ 5           accreditation in 2012, and I teach graduate and undergraduate courses in energy systems
+ 6           and energy security for both the College of Engineering and the Center for International
+ 7           Trade and Security. I serve on the Advisory Board for the Energy Policy Institute at Boise
+ 8           State University and as an uncompensated member on the Advocacy Council for Nuclear
+ 9           Matters.
+
+10           I’ve conducted research in natural resources engineering and in material and energy flows
+11           in ecosystems as a basis for understanding the limitations of energy flows in ecological and
+12           coupled human-natural systems, and the importance of stored energy for sustaining growth
+13           in ecological systems and industrialized economies. Based on my extensive international
+14           experiences and firsthand involvement around the challenges of meeting electricity needs
+15           in developing and recently developed countries, my current research focus is energy policy
+16           for the electric power sector. Part of my current research efforts have included research
+17           with the 1 MW solar demonstration project in Athens, GA and a solar plus storage project
+18           as a resource for renewable generation intermittence (both in collaboration with Georgia
+19           Power)
+
+20           With increased attention and national policy efforts directed at transitioning the U.S. away
+21           from conventional resources to low- or zero-carbon resources, I’ve dedicated my most
+22           recent research efforts toward evaluating the broader security implications of such an
+23           unprecedented shift in the world’s largest industrialized economy and greatest military
+24           power. Over the past eight years, I have made over one hundred presentations at the local,
+25           state, national, and international levels and have authored or co-authored over thirty journal
+26           articles and commentaries on energy policy. One of these is a co-authored article with
+27           President Ronald Reagan’s former National Security Advisor, Robert “Bud” McFarlane,
+28           entitled, “China and the Importance of Civil Nuclear Energy,” which was published in The
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                   Page 2 of 25
+     132112719
+
+ 1           National Interest. For the past five years, I’ve spent time in fourteen states, including
+ 2           Georgia, meeting with individuals associated with the electric power industry to discuss
+ 3           the energy transition issue, as well as my own research on the security implications of
+ 4           energy policy at the state and national levels. These meetings and discussions have
+ 5           included industry professionals, state legislators, academicians, and working-class citizens.
+ 6           Moreover, I have been, and continue to be, engaged in extended energy policy summits
+ 7           with practitioners, policymakers, and academics from South Korea and Japan (two key
+ 8           U.S. allies in global and national security) to discuss our respective countries’ energy and
+ 9           nuclear power policy within the energy transition framework and the challenges
+10           confronting us in such a transition. I am particularly engaged with South Korea having
+11           recently participated as an invited participant for the Inaugural US-ROK Energy Security
+12           Dialogue held in Seoul, South Korea. This was followed up by a reciprocal Multilateral
+13           Nuclear Energy Dialogue that I organized and hosted on the University of Georgia campus.
+14           In all, these summits and deliberations focus on energy as a national, economic and climate
+15           security issue.
+
+16           I am currently leading the development of the Applied Energy Studies (AES) initiative at
+17           UGA. This is a collaboration between UGA’s College of Engineering and Center for
+18           International Trade and Security in the School of Public and International Affairs. Whereas
+19           energy is generally debated in the U.S. as either a market commodity or as a climate change
+20           issue, the mission of the AES initiative is to elevate the security implications of energy
+21           policy within the energy policy debate. To this end, I have led the development of the
+22           Energy Security track within the School of Public and International Affairs’ Master of
+23           International Policy degree program. This has included the development of three graduate
+24           courses: INTL 8278 Energy Statecraft, INTL 8279 Energy Security and Policy and MCHE
+25           8500 Technical Foundations of Energy for Policymakers.
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                   Page 3 of 25
+     132112719
+
+ 1           I also have provided testimony before the U.S. House Energy and Commerce Committee
+ 2           on energy, climate, and nuclear power policy and the critical role of energy diversity.1
+
+ 3           In summary, my research efforts are focused on elevating energy security, national
+ 4           security, economic security, and climate security as core issues around which our energy
+ 5           and climate policy debate, as well as any energy transition we pursue, should revolve. And,
+ 6           germane to these efforts, is the role of renewable energy resources such as solar.
+
+ 7   Q.      WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+
+ 8   A.      The purpose of my testimony is to respond to the Commission’s request for Georgia Power
+ 9           to address whether its monthly netting program is a fair and long-term way to compensate
+10           customers with behind the meter generation resources such as rooftop solar photovoltaic
+11           (“PV”). In this testimony I offer to the Commission my opinion on whether monthly
+12           netting, known in other states as monthly net metering, is the right policy choice for
+13           Georgia. Directly, my recommendation is that the Commission should not extend Georgia
+14           Power’s monthly netting pilot whereby solar customer-generators are compensated at
+15           approximately the retail rate for excess energy exported onto the grid. In my testimony, I
+16           recommend that the Commission adopt a rate structure and compensation rate that ensures
+17           solar customer-generators pay their fair share of the costs to operate the Company’s electric
+18           system while also fairly compensating customer-generators for the energy they export to
+19           the grid.
+
+20   Q.      PLEASE SUMMARIZE YOUR RECOMMENDATIONS.
+
+21   A.      I recommend that the Commission reject expanding Georgia Power’s monthly netting pilot
+22           as monthly netting represents a fundamentally flawed mechanism for compensating
+23           customers with behind the meter (“BTM”) generation in Georgia. I make this
+24           recommendation for a variety of reasons, including the discrepancy in value placed on
+25           electricity exported by solar customer-generators onto the grid, the lack of consensus on
+
+     1
+      Gattie, D. (2019). Testimony before the U.S. House Energy & Commerce Committee. December 5, 2019.
+     https://energycommerce.house.gov/sites/democrats.energycommerce.house.gov/files/documents/Witness%20Testim
+     ony_12.05.19_Gattie.pdf
+
+                                  Supplemental Direct Testimony of Dr. David Gattie
+                                        On Behalf of Georgia Power Company
+                                                 Docket No. 44280
+                                                    Page 4 of 25
+     132112719
+
+ 1           the use of monthly net metering as a policy tool in other states, and because
+ 2           disproportionately compensating customer-generators as a means to increase solar
+ 3           development does not align with Georgia’s energy policy goals. I base this conclusion on
+ 4           the following key considerations:
+
+ 5                  Disparity in Value: Under monthly netting, a customer-generator who exports
+ 6                   electricity onto the grid is treated as providing all of the services, like transmission
+ 7                   and distribution, traditionally associated with electric utility service. But the cost to
+ 8                   provide electricity coming from the grid to the solar customer-generator is higher
+ 9                   than the value of electricity exported from the solar customer-generator onto the
+10                   grid. This is because the solar customer-generator is not providing the same
+11                   transmission, distribution and other services required to transmit power across the
+12                   Company’s system and maintain reliable electric service for its customers. As I
+13                   explain further below, any rate structure or compensation rate that does not
+14                   appropriately account for this discrepancy unfairly shifts costs to other customers
+15                   by compensating customer-generators for services they do not provide. This cost
+16                   shift most egregiously occurs under monthly netting but can occur under any rate
+17                   design or compensation mechanism that fails to align the compensation provided
+18                   to customer-generators for the energy they export to the grid with the actual costs
+19                   of providing them with electric service.
+
+20                  Excess Subsidization: The Inflation Reduction Act (“IRA”), President Biden’s
+21                   signature climate change policy, includes a 30% tax credit specifically designed to
+22                   spur investment and lower barriers for entry into rooftop solar. All estimates
+23                   suggest the IRA’s impact on the rooftop solar market will be profound and that it
+24                   is likely to have a transformative effect on the rooftop solar industry. The
+25                   Commission should, therefore, allow the financial impacts of this game-changing
+26                   federal subsidy to unfold before committing additional ratepayer dollars in the form
+27                   of expanded monthly net metering subsidies. This is especially the case when these
+28                   additional ratepayer subsidies may not be needed for continued and stable solar
+
+
+                                  Supplemental Direct Testimony of Dr. David Gattie
+                                        On Behalf of Georgia Power Company
+                                                 Docket No. 44280
+                                                    Page 5 of 25
+     132112719
+
+ 1                  customer-generator deployment in Georgia. Federal dollars, not state ratepayer
+ 2                  dollars, should be the first to support these resources. And federal IRA subsidies
+ 3                  may be enough.
+
+ 4           While I do not offer my opinion as to a specific rate structure and compensation rate for
+ 5           solar customer-generators, I do urge the Commission to only compensate these resources
+ 6           for the services they actually provide—and not provide a level of compensation that
+ 7           unfairly shifts costs to other customers. The right mechanism will ensure that solar
+ 8           customer-generators pay their fair share of the costs of electric service and fairly
+ 9           compensate them for the energy they export to the grid.
+
+10           From a policy perspective, my testimony also provides a broader view of the implications
+11           associated with leveraging monthly net metering as a tool for regulators and policy makers
+12           to accelerate the transition away from conventional energy resources. In this regard,
+13           monthly net metering is a national issue, as the U.S. is in a sharply divided debate as to
+14           which energy resources will power its 21st century economy. States that have led the way
+15           in adopting aggressive net metering strategies as a means to achieve their energy policy
+16           goals are now walking back or reevaluating net metering policies, on account of significant
+17           negative externalities and issues of ratepayer fairness. My recommendation is that the
+18           Commission consider the lessons learned in other jurisdictions and that it avoids the
+19           expansion of monthly net metering in Georgia, which is a flawed policy with fading
+20           national support.
+
+                                          II.     NET METERING
+
+21   Q.      PLEASE EXPLAIN THE HISTORY OF NET METERING POLICY.
+
+22   A.      The origins of net metering are rooted in the Public Utility Regulatory Policies Act of 1978,
+23           which was enacted following the energy crisis of the 1970s and required utilities to
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                   Page 6 of 25
+     132112719
+
+ 1           compensate solar customer-generators based on the utility’s avoided cost.2,3 The first actual
+ 2           application of net metering was in 1979 in Massachusetts.4 Some of the original motivation
+ 3           for, and interest in, net metering is summarized in the National Renewable Energy
+ 4           Laboratory’s (NREL) Net Metering Programs Topical Issues Brief, published in 1996:
+
+ 5                        There has been a recent surge of interest from the renewable energy
+ 6                        industry and environmental groups in net metering. The reason for
+ 7                        this interest is that net metering is a simple, low-cost, and easily
+ 8                        administered method to encourage direct customer investment in
+ 9                        renewable energy technologies. The renewable energy industry
+10                        supports net metering because it removes an economic disincentive
+11                        for potential customers by increasing the value of the electricity
+12                        generated by renewable energy technologies. Environmental groups
+13                        support net metering because it promotes clean energy production.5
+
+14           NREL defines net metering as “a metering and billing arrangement designed to compensate
+15           distributed energy generation (DG) system owners for any generation that is exported to
+16           the utility grid.”6 The Congressional Research Service, in 2019, defined net metering as “a
+17           policy that allows electricity customers with their own generation capacity to be financially
+18           compensated for the energy they produce.”7
+
+19           Net metering, then, is a policy that governs the billing arrangement and compensation
+20           structure between a solar customer-generator and the utility providing the grid and utility
+21           services to which the solar customer-generator is connected. In other words, this debate
+22           examines the appropriate compensation level paid by the utility to the solar customer-
+23           generator for the excess energy they deliver to the grid. The billing arrangement,
+
+     2
+       American Public Power Association. (2020). The Public Utility Regulatory Policies Act of 1978.
+     https://www.publicpower.org/system/files/documents/PURPA%20-%20January%202020.pdf.
+     3
+       Michigan Public Service Commission. (2019). Issue Brief: Public Utility Regulatory Policies Act (PURPA).
+     https://www.michigan.gov/-/media/Project/Websites/mpsc/consumer/info/briefs/MPSC_Issue_Brief_--
+     _PURPA.pdf?rev=cf1855f9f14c476dbfa86974a67206d0.
+     4
+       Verzola, R. (2015). Net Metering History & Logic. https://cleantechnica.com/2015/09/06/net-metering-history-
+     logic-part-1/.
+     5
+       Wan, Y. H. (1996). Net metering programs (No. NREL/SP-460-21651). National Renewable Energy Lab.(NREL),
+     Golden, CO (United States).
+     6
+       National Renewable Energy Laboratory. Net Metering. https://www.nrel.gov/state-local-tribal/basics-net-
+     metering.html.
+     7
+       Lawson, A. J. (2019). Net metering: In brief. Congressional Research Service. Link:
+     https://sgp.fas.org/crs/misc/R46010.pdf.
+
+                                   Supplemental Direct Testimony of Dr. David Gattie
+                                         On Behalf of Georgia Power Company
+                                                  Docket No. 44280
+                                                     Page 7 of 25
+     132112719
+
+ 1           compensation structure, and the value assigned to this excess energy are the points of
+ 2           contention. Currently, there is no shortage of studies, papers, briefs, and reports on the
+ 3           issues of net metering, with myriad proposals for how solar PV customer-generators should
+ 4           be compensated.8,9,10,11 One literature review in 2006 found twenty-two distinct definitions
+ 5           for the term “net metering” and proposed “a taxonomy that distinguishes between sixteen
+ 6           distinct compensation practices.”12 For the purpose of my testimony and my
+ 7           recommendation around the appropriate rate of compensation for solar customer-
+ 8           generators, I primarily address concerns associated with monthly netting, which provides
+ 9           compensation for excess generation at or near the retail rate of electricity.
+
+10   Q.      HOW DO YOU DEFINE THE “RETAIL RATE OF ELECTRICITY”?
+
+11   A.      The retail rate of electricity includes a utility’s fuel costs, generation costs, transmission
+12           costs, distribution costs, grid infrastructure costs, and administrative support costs provided
+13           by the utility. All costs beyond fuel and marginal operations and maintenance costs
+14           incurred at the power plant represent added value provided solely by the utility to move
+15           electricity reliably and safely from the generating source to its customers—including
+16           moving electricity to those customers with distributed solar generation. Because of these
+17           delivery costs, the value of electricity generated at the power plant is much lower than the
+18           value of electricity delivered to the meter of a customer. This discrepancy in value reflects
+19           all the costs associated with transmission, distribution, grid infrastructure, and support
+20           services provided by the utility—costs that go unrecovered where a solar customer-
+
+     8
+       Eid, C., Guillén, J. R., Marín, P. F., & Hakvoort, R. (2014). The economic effect of electricity net-metering with
+     solar PV: Consequences for network cost recovery, cross subsidies and policy objectives. Energy Policy, 75, 244-
+     254. (From Eid, et. Al, 2014): “Furthermore, the impact of net-metering on public and network utilities’ income has
+     been studied within numerous policy reports. Those reports argue differently regarding financial impacts of PV
+     penetration, possibly due to the influence of main stakeholders involved (California Public Utilities Commission,
+     2013; Cohen, 2013; NREL, 1996). Consequently, different efforts have been made to deal with the issue of net-
+     metering focused on financial stability of network utilities and preserving equity between ratepayers”.
+     9
+       California Public Utilities Commission, 2013. California Net Energy Metering (NEM) Draft Cost- Effectiveness
+     Evaluation.
+     10
+        Cohen, R., & Khermouch, G. (2013). The giant headache that is net energy metering. The Electricity Journal, 26
+     (6), 5-7.
+     11
+        Wan, Y. H. (1996). Net metering programs (No. NREL/SP-460-21651). National Renewable Energy Lab.
+     (NREL), Golden, CO (United States).
+     12
+        Hughes, L., & Bell, J. (2006). Compensating customer-generators: a taxonomy describing methods of
+     compensating customer-generators for electricity supplied to the grid. Energy Policy, 34(13), 1532-1539.
+
+                                     Supplemental Direct Testimony of Dr. David Gattie
+                                           On Behalf of Georgia Power Company
+                                                    Docket No. 44280
+                                                       Page 8 of 25
+     132112719
+
+ 1            generator fails to pay its fair cost of electric service or is overpaid for the excess energy it
+ 2            exports to the grid, as is the case under monthly net metering.
+
+ 3   Q.       HOW DO YOU DEFINE MONTHLY NETTING?
+
+ 4   A.       Under monthly netting, when a solar customer-generator generates sufficient electricity to
+ 5            meet its own demand, no electricity flows to the customer from the grid through the meter.
+ 6            When a solar customer-generator generates less than its own energy demand, the
+ 7            insufficiency is made up by consuming electricity from the grid, in which case, the meter
+ 8            spins forward and registers the customer’s consumption of electricity. When the solar
+ 9            customer-generator generates electricity in excess of its own demand, the excess electricity
+10            is exported to the grid through the meter, which then essentially “spins backwards,”
+11            reversing the customer’s previously registered consumption of electricity from the grid. As
+12            I understand Georgia Power’s monthly netting pilot, participating customers are billed
+13            based upon the lower netted usage, meaning that the customer-generated electricity that is
+14            exported to the grid is valued at close to the retail rate of electricity.13
+
+15   Q.       CAN YOU PROVIDE AN EXAMPLE?
+
+16   A.       Yes. The following hypothetical example illustrates how I interpret monthly netting.
+17            Consumption for an Oconee County, Georgia residence was compiled for the month of
+18            April 2022, during which time the residence consumed and paid for 1,343 kWh of
+19            electricity (Figure 1). PVWatts was then used to model electricity output from a 10 kW
+20            solar PV system installed at this location.14 This output was estimated to be 1,333 kWh.
+21            This would then translate to a net difference of 10 kWh, which, under monthly netting
+22            would result in a bill to the customer-generator for 10 kWh of measured consumption.
+23            However, this is only measured consumption since electricity from the grid and electricity
+
+
+     13
+        When I say “close” to the retail rate, I mean that certain charges are excluded from the retail rate when credited
+     back under monthly netting. While this varies by jurisdiction, certain non-volumetric, non-bypassable and other
+     fixed charges embedded in the retail rate are not compensated under monthly netting. While these charges are
+     usually a small amount of the overall retail rate, they are nonetheless not included when compensating customer-
+     owned generation, resulting in a rate that is close to—but not the full—retail rate.
+     14
+        PVWatts Solar Calculator. https://pvwatts.nrel.gov/.
+
+
+                                      Supplemental Direct Testimony of Dr. David Gattie
+                                            On Behalf of Georgia Power Company
+                                                     Docket No. 44280
+                                                        Page 9 of 25
+     132112719
+
+ 1           to the grid are considered equivalent under monthly netting arrangements that do not
+ 2           account for the difference between actual consumption and export. In reality, based on
+ 3           hourly data for both the residence and from PVWatts, the residence with a solar PV system
+ 4           would have consumed 826 kWh during times when the PV system either was not
+ 5           generating electricity or was not generating sufficient electricity to meet the solar
+ 6           customer-generator’s demands. At the same time, the solar customer-generator would have
+ 7           exported 816 kWh of excess electricity to the grid during times when solar PV generation
+ 8           exceeded the solar customer-generator’s demands. Monthly netting would report this as a
+ 9           10 kWh consumption, even though the solar customer-generator was still dependent on the
+10           grid for providing its consumption of 826 kWh of electricity. Such is the difference
+11           between “measured consumption” under monthly netting, which in this case is 10 kWh,
+12           and “actual consumption” which in this case is 826 kWh.
+
+
+13
+
+14                  Figure 1. Net metering simulation profile of the grid and PV electricity
+15                  consumption and export for a residence in Georgia.
+16           Under monthly netting type arrangements, all electricity moving through the meter, in
+17           either direction, is treated equally at the retail rate, with no distinction in value. The
+18           question then comes down to the value of electricity coming from the grid to the solar
+19           customer-generator compared with the value of electricity exported from the solar
+
+
+                                Supplemental Direct Testimony of Dr. David Gattie
+                                      On Behalf of Georgia Power Company
+                                               Docket No. 44280
+                                                 Page 10 of 25
+     132112719
+
+ 1           customer-generator onto the grid. And in my determination, this value of excess energy
+ 2           exported by the customer-generator is nearly always less than the value of the energy
+ 3           delivered to the customer.
+
+ 4   Q.      WHY SHOULD THE COMPENSATION RATE OF ELECTRICITY EXPORTED
+ 5           FROM THE SOLAR CUSTOMER-GENERATOR BE LOWER THAN THE
+ 6           RETAIL RATE OF ELECTRICITY?
+ 7   A.      Customers with solar resources are still dependent on the grid itself, including the
+ 8           generation, transmission, and distribution services a utility provides — but which the solar
+ 9           customer-generator avoids paying under a monthly netting arrangement. Under monthly
+10           netting arrangements, solar customer-generators are compensated at approximately the full
+11           retail rate and are thus significantly overpaid for the energy they export. As such, the solar
+12           customer-generator essentially avoids paying for the fixed operating costs of generation,
+13           transmission, and distribution, even though it uses them and, in fact, depends on access to
+14           them to export its own energy to the electric grid. As such, monthly netting represents a
+15           regressive policy that favors and rewards those who choose to participate at the expense of
+16           those who choose not to participate or who can’t participate in behind-the-meter solar
+17           generation. This underscores the need for an appropriate rate structure that ensures solar
+18           customer-generators pay their fair share of the costs associated with electric service while
+19           also being fairly compensated for the energy they export to the grid.
+
+                               III.    STATE-LEVEL POLICY CHOICES
+
+20   Q.      PLEASE FRAME THE NET METERING DEBATE.
+
+21   A.      States have adopted monthly net metering primarily as a means to achieve renewable
+22           energy and energy resiliency goals. In the nascent days of rooftop solar PV, excess
+23           compensation in the form of monthly netting was used by some state regulators and
+24           policymakers to encourage the growth of small-scale renewables. At the time of its
+25           adoption, monthly netting provided a simple but crude billing solution for the small subset
+26           of customer-generators participating on an electric utility’s system. As solar PV technology
+27           has matured and solar PV costs have declined, participation rates in monthly net metering
+28           programs nationwide have rapidly expanded. This rapid expansion has forced state
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 11 of 25
+     132112719
+
+ 1              policymakers and regulators to reexamine net metering policies more holistically, with an
+ 2              eye towards fairness, affordability, energy diversity, and reliability. As I describe in the
+ 3              balance of my testimony, monthly netting is not a recommended approach for Georgia,
+ 4              given the negative externalities these policies have produced in other parts of the U.S. and
+ 5              the other far more preferable ways Georgia can achieve these objectives.
+
+ 6   Q.         HAVE YOU REVIEWED NATIONAL NET METERING PARTICIPATION
+ 7              RATES?
+
+ 8   A.         Yes, I have. In 2021, there were 3,012,404 residential net metering customers in the U.S.15
+ 9              Since 2011, the number of residential solar PV net metering customers has increased
+10              1,790% while net metering capacity increased over 2,350% (Figures 2 & 3).
+
+
+11
+
+12                       Figure 2. U.S. solar PV residential net metering customers, 2011-2021.
+
+
+     15
+          U.S. Energy Information Administration. https://www.eia.gov/electricity/data/eia861m/#netmeter.
+
+                                       Supplemental Direct Testimony of Dr. David Gattie
+                                             On Behalf of Georgia Power Company
+                                                      Docket No. 44280
+                                                        Page 12 of 25
+     132112719
+
+1
+
+2                  Figure 3. U.S. solar PV residential net metering capacity (MW) from 2011—
+3                  2021.
+
+4           A breakdown of 2021 shows that two-thirds (66.19%) of residential solar PV net metering
+5           customers were located in five states—California, Arizona, New York, New Jersey, and
+6           Massachusetts—with California alone accounting for almost half (45.56%) of the
+7           country’s total residential solar PV net metering customers (Table 1).
+
+                                                    Solar PV Net-Metering: 2021
+
+                                                    Capacity                Number of NEM Customers
+                                      Residential NEM     % Share of U.S.   Residential   % Share of U.S.
+                        State
+                                           (MW)           Residential NEM      NEM        Residential NEM
+
+                         CA               7,952.4              39.76         1,372,586         45.56
+
+                         AZ               1,465.3              7.33          211,133           7.01
+
+                         NY               1,045.4              5.23          153,802           5.11
+
+                         NJ               1,041.2              5.21          140,635           4.67
+
+                         MA                801.5               4.01          115,705           3.84
+
+                     Rest of U.S.         7,692.9              38.47         1,018,543         33.81
+
+8                  Data Source: U.S. EIA-861M; https://www.eia.gov/electricity/data/eia861m/#netmeter
+
+
+9                  Table 1. Breakdown of residential solar PV net metering customers.
+
+
+                                    Supplemental Direct Testimony of Dr. David Gattie
+                                          On Behalf of Georgia Power Company
+                                                   Docket No. 44280
+                                                     Page 13 of 25
+    132112719
+
+ 1           As it is the dominant net metering state, California merits a closer look. In 2020, while
+ 2           about 1.86% of all U.S. residential grid customers were net metering customers, 8.62% of
+ 3           California’s residential grid customers were net metering customers while in the remaining
+ 4           U.S. states, 1.1% of residential grid customers were net metering customers (Table 1).
+ 5           Meaning, while California constituted about 10.12% of U.S. residential grid customers in
+ 6           2020, it also constituted about 40.93% of U.S. residential net metering capacity and 46.84%
+ 7           of U.S. net metering customers.
+
+                                              2020 Residential Solar PV
+                                                                     CA 4                  Rest of U.S.
+                                                  U.S.
+                                                               Value     % of U.S.       Value     % of U.S.
+                    Net-Metering Capacity
+                                                16,441       6,729.873     40.93         9,711        59.07
+                           (MW)
+
+                          Net-Metering
+                                               2,545,326     1,192,208     46.84       1,353,118      53.16
+                           Customers
+
+                        Grand Total of U.S.
+                                              136,682,001 13,834,719       10.12     122,847,282      89.88
+                         Grid Customers
+                    1
+                     1.86% of U.S. residential grid customers are U.S. NEM customers
+                    2
+                     8.62% of CA residential grid customers are NEM customers
+                    3
+                     For Rest of U.S., 1.10% of residential grid customers are NEM customers
+                    4
+                     CA constitutes 10.12% of U.S. residential grid customers, but 40.93% of U.S. residential
+                    NEM capacity and 46.84% of U.S. NEM residential customers
+ 8                  Data Source: U.S. EIA-861M; https://www.eia.gov/electricity/data/eia861m/#netmeter
+
+
+ 9                 Table 2. Comparison of net metering customers for the U.S., California and the
+10                 rest of U.S. states.
+
+11           Trends of California’s share of solar PV net metering customers and capacity show that
+12           while the state’s share of the U.S. total is trending down for both number of customers and
+13           capacity, it remains the dominant state, therefore a dominant voice in the net metering
+14           policy debate (Figures 4 & 5).
+
+
+                                    Supplemental Direct Testimony of Dr. David Gattie
+                                          On Behalf of Georgia Power Company
+                                                   Docket No. 44280
+                                                     Page 14 of 25
+     132112719
+
+ 1
+
+ 2                  Figure 4. Residential solar PV net metering customers for California and the rest
+ 3                  of the U.S.
+
+
+ 4
+
+ 5                  Figure 5. Residential solar PV net metering capacity (MW) for California and the
+ 6                  rest of the U.S.
+
+ 7   Q.      YOU HIGHLIGHT STATES SUCH AS CALIFORNIA AND OTHERS; WHAT
+ 8           APPROACHES HAVE THESE STATES TAKEN WITH RESPECT TO NET
+ 9           METERING?
+
+10   A.      Unlike Georgia’s measured approach towards net metering, many states, including
+11           California, have implemented net metering in a manner that compensates the solar
+12           customer-generator for exported electricity on a monthly basis at the retail rate (i.e.,
+
+                                Supplemental Direct Testimony of Dr. David Gattie
+                                      On Behalf of Georgia Power Company
+                                               Docket No. 44280
+                                                 Page 15 of 25
+     132112719
+
+ 1           monthly net metering), similar to the monthly netting approach piloted here in Georgia.
+ 2           Policymakers in these states made a policy choice to use monthly net metering as a tool to
+ 3           deliver rapid rooftop solar development as part of an overall decarbonization and energy
+ 4           transition strategy, and these policies have indeed delivered on this goal. However, this
+ 5           rapid development of rooftop solar has come at a cost, not only in the form of increased
+ 6           electric rates, but also as a result of additional stresses on these state’s electric grids and
+ 7           unhealthy cross-subsidies that negatively impact customers who either cannot or chose not
+ 8           to adopt rooftop solar.
+
+ 9           I contend there is a better way to achieve decarbonization and energy transition goals,
+10           without relying on methodologies that increase costs, penalize existing ratepayers, and
+11           skew the efficient development of renewable energy resources. In fact, in many
+12           jurisdictions, monthly net metering has become a victim of its own success, delivering too
+13           high of a subsidy resulting in too much growth, too fast, at too high a cost, causing many
+14           state regulators and policymakers to reevaluate net metering policies in their respective
+15           jurisdictions. Despite the prevalence of monthly net metering in other jurisdictions, in my
+16           view this methodology is rapidly becoming a disfavored approach, given the negative
+17           externalities it is apt to cause when adopted at scale. No state exemplifies this more than
+18           California.
+
+19   Q.      WOULD YOU CONCLUDE THEN THAT STATES ARE MOVING AWAY FROM
+20           MONTHLY NET METERING AS A PREFERRED POLICY OPTION?
+
+21   A.      I would conclude it is near universally accepted that monthly net metering at the retail rate
+22           is no longer the preferred policy option, even in states with aggressive decarbonization and
+23           energy transition targets. Many states have adopted, or are in the process of adopting, so-
+24           called net metering “successor tariffs” intended to replace monthly net metering at close to
+25           the retail rate with new methodologies to compensate excess generation delivered to the
+26           grid. While I disagree with many of these “value of solar” studies that apply unrealistic and
+27           ethereal valuations to supposed grid benefits from distributed solar generation, my main
+28           point is to underscore that most states with aggressive net metering policies have begun to
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 16 of 25
+     132112719
+
+ 1           acknowledge the inadequacy of monthly net metering at close to the retail rate as a fair and
+ 2           sensible method for compensating distributed generation.
+
+ 3           California’s ongoing NEM 3.0 proceeding, for example, is poised to dramatically scale
+ 4           back monthly net metering for distributed energy resources. While the details are still under
+ 5           debate, the ultimate result is very likely to be a compensation mechanism that is less
+ 6           lucrative to customer-generators than the prior net metering practice present in California,
+ 7           and results in less of a cost shift to all other customers. Other states such as Arizona,
+ 8           Indiana, Kentucky, Utah, and others have moved away from net metering entirely, or
+ 9           implemented compensation rates that are significantly less than the retail rate, fixed
+10           customer charges, time of use rates, or any combination of these measures to reduce the
+11           overall unfair cost shifts associated with monthly net metering. My objective is for the
+12           Commission to be aware that many state policy makers and regulators are moving away
+13           from—and not towards—monthly net metering at approximately the retail rate. The
+14           decision before the Commission then is to consider whether to adopt or expand the monthly
+15           netting policy at a time when the national trend is moving away from compensating behind-
+16           the-meter generation resources at approximately the retail rate. The Commission has an
+17           opportunity to avoid the problems encountered in these other jurisdictions by incorporating
+18           the lessons learned in other states and avoid adopting a disfavored methodology (i.e.,
+19           monthly netting) as other states are moving away from this approach.
+
+                       IV.     GEORGIA’S APPROACH TO ENERGY POLICY
+
+20   Q.      WITH THIS NATIONAL CONTEXT, WHAT DO YOU RECOMMEND FOR
+21           GEORGIA?
+
+22   A.      Georgia has always taken a measured and practical approach to the integration of
+23           renewable resources, and this wisdom has paid dividends for all stakeholders in this
+24           ongoing debate. Solar is Georgia’s most promising renewable energy resource, and
+25           integrating it into Georgia’s energy portfolio, in the responsible manner the Commission
+26           has done for the past several years, has improved the resource and technology diversity of
+27           the state’s power sector without sacrificing reliability or putting upward pressure on retail
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 17 of 25
+     132112719
+
+ 1            rates. I am in favor of the most economic and cost-effective ways of deploying renewable
+ 2            energy. As such, I’m a proponent of utility-scale solar as it directly benefits all ratepayers
+ 3            in Georgia, and I am agnostic on residential rooftop solar PV as it is a customer-choice
+ 4            issue. However, monthly net metering (or monthly netting here in Georgia) is a separate
+ 5            policy issue that involves shifting costs to ratepayers who do not participate as solar
+ 6            customer-generators. Significantly, my testimony on monthly netting should not be
+ 7            misconstrued as opposition to residential rooftop solar PV nor should it be misinterpreted
+ 8            as opposition to compensating solar customer-generators for electricity exported onto the
+ 9            grid. Quite the opposite, customer-generators should be compensated for the energy they
+10            export to the grid, and at a rate that is fair and equitable for all Georgia ratepayers and that
+11            does not shift costs to ratepayers who do not participate in distributed solar PV.
+
+12   Q.       HOW DO GEORGIA’S ENERGY POLICY OBJECTIVES DIFFER FROM
+13            OTHER STATES?
+
+14   A.       California is prioritizing carbon reduction, which has resulted in one of the lowest carbon
+15            footprints in the country, but also some of the highest electricity rates with regular threats
+16            of blackouts and power shortages. This can be contrasted with Texas, which is optimizing
+17            its power sector for lowest rates—and indeed has affordable rates—but has experienced
+18            severe reliability issues the past two years. States in other deregulated markets are dealing
+19            with premature closure of nuclear power plants due to deregulated markets structured
+20            around lowest marginal costs, oftentimes meaning low-cost natural gas and subsidized
+21            renewables.16
+
+22            As states discuss how best to organize their respective electric power sectors within what
+23            would be an unprecedented energy paradigm for an industrial economy, some states are
+24            having heated debates and taking aggressive policy actions around renewable energy—
+
+
+     16
+       Gattie, D., Darnell, J., Massey, J., 2018. The Role of U.S. Nuclear Power in the 21st Century. The Electricity
+     Journal, 31(10):1-5.
+
+                                     Supplemental Direct Testimony of Dr. David Gattie
+                                           On Behalf of Georgia Power Company
+                                                    Docket No. 44280
+                                                      Page 18 of 25
+     132112719
+
+ 1           particularly solar. And monthly net metering at approximately the retail rate is embedded
+ 2           in many of these policy debates.17,18,19
+
+ 3           Georgia has taken a different approach than that of states such as California and Texas as
+ 4           it has prioritized reliability, affordability, and resource diversity within its long-term
+ 5           integrated resource planning process and regulated market structure (Figure 6).20,21 I argue
+ 6           Georgia has struck the right balance between these competing objectives. Some data points
+ 7           that support Georgia’s approach towards these issues are:
+
+ 8                  Among regulated and deregulated market states, residential rates for Georgia’s total
+ 9                   electric power sector remain below the national average and below those in most
+10                   deregulated market states (Figures 7 & 8).22
+11                  Georgia has reduced carbon emissions from its electric power sector by 58% from
+12                   2007-2020.23
+13                  Among the top eight states with the highest GDPs in the U.S., Georgia residential
+14                   rates are third lowest (Figure 9).24
+15                  Georgia ranks seventh in the country for utility-scale solar PV generation (Figure
+16                   10).25
+
+
+     17
+        National Renewable Energy Laboratory. Net Metering. https://www.nrel.gov/state-local-tribal/basics-net-
+     metering.html.
+     18
+        Murphy, P. (2022). As contentious net metering debates persist across the US, Connecticut and Hawaii show a
+     way forward. Utility Dive. June 3, 2022. https://www.utilitydive.com/news/as-contentious-net-metering-debates-
+     persist-across-the-us-connecticut-and/624658/.
+     19
+        Energy Fairness. (2020). Net Metering: Costs, Customers, and a Smarter Way Forward for Florida. Energy
+     Fairness. January 2020.
+     20
+        Energy Information Administration. https://www.eia.gov/electricity/data.php.
+     21
+        Gattie, D. (2022). Georgia’s Future of Prioritizing Energy Security and Reliability. James Magazine.
+     September/October, 2022. https://www.paperturn-view.com/insideradvantage/james-septemberoctober-2022-
+     web?pid=MjY269511&p=27&fbclid=IwAR3UEiARUamH069gDamIYuUKITtYNdA1dKQP2yo1e3fUNUcERanK
+     -TDLgDQ.
+     22
+        Ibid.
+     23
+        Ibid.
+     24
+        Ibid.
+     25
+        Ibid.
+
+                                   Supplemental Direct Testimony of Dr. David Gattie
+                                         On Behalf of Georgia Power Company
+                                                  Docket No. 44280
+                                                    Page 19 of 25
+     132112719
+
+1
+
+2               Figure 6. Energy resource trend for Georgia’s total electric power sector, 1990-
+3               2021.
+
+
+4
+
+5               Figure 7. Retail residential rate trends for states operating under deregulated
+6               electricity market structures, 1990-2021.
+
+
+                           Supplemental Direct Testimony of Dr. David Gattie
+                                 On Behalf of Georgia Power Company
+                                          Docket No. 44280
+                                            Page 20 of 25
+    132112719
+
+1
+
+2               Figure 8. Retail residential rate trends for states operating regulated electricity
+3               market structures, 1990-2021. Georgia is below the national average and
+4               competitive with other states.
+
+
+5
+
+6               Figure 9. Trends for residential electricity rates among the top eight states with
+7               highest GDPs in the U.S.
+
+
+                            Supplemental Direct Testimony of Dr. David Gattie
+                                  On Behalf of Georgia Power Company
+                                           Docket No. 44280
+                                             Page 21 of 25
+    132112719
+
+ 1
+
+ 2                    Figure 10. Percent share, by state, of utility-scale solar in the U.S. for 2021.
+
+ 3           Georgia’s approach to its electric power sector has been calculated, deliberative and
+ 4           pragmatic, particularly with respect to solar PV.
+
+ 5   Q.      HOW WILL THE RECENTLY PASSED FEDERAL IRA IMPACT GEORGIA’S
+ 6           ROOFTOP SOLAR MARKET?
+
+ 7   A.      The IRA26, signed into law on August 16, 2022, provides historic federal support to the
+ 8           solar industry. From tax incentives for both businesses and individuals to direct
+ 9           investments, the significance of the IRA to the solar industry is difficult to overstate.
+10           According to a recent study, the IRA will be a massive growth catalyst for the solar industry
+11           and will triple solar installations by 2027.27 Other studies suggest investment in the solar
+12           industry will increase solar manufacturing capacity by 25 GW28 or a fivefold annual
+13           increase from 10 GW in 2020 to 49 GW in 2024.29
+
+14           In addition to many supply-side subsidies for solar that will drive down overall equipment
+15           costs for customers choosing to install solar, the IRA also provides direct incentives to
+
+
+     26
+        Pub. Law No. 117-169.
+     27
+        Wood Mackenzie and Solar Energy Industry Association, US Solar Market Insight, September 2022.
+     28
+        Roth Capital Partners: The Solar Snapshot - IRA on its Way; NEM3, UFLPA Updates (Aug. 5, 2022).
+     29
+        Princeton University Rapid Energy Policy Evaluation and Analysis Toolkit, Preliminary Report: The Climate and
+     Energy Impacts of the Inflation Reduction Act of 2022 (Aug. 2022)
+
+                                    Supplemental Direct Testimony of Dr. David Gattie
+                                          On Behalf of Georgia Power Company
+                                                   Docket No. 44280
+                                                     Page 22 of 25
+     132112719
+
+ 1           individual taxpayers and families to further encourage rooftop solar development. For
+ 2           example, the IRA’s Residential Clean Energy Credit aims to further subsidize the cost of
+ 3           solar by providing a 30% tax credit to homeowners choosing to install solar through 2032.
+ 4           Under the Residential Clean Energy Credit, a taxpayer that spends $10,000 on solar PV
+ 5           panels installed at their residence in 2022 may claim a 30% ($3,000) tax credit—further
+ 6           reducing the overall system cost and encouraging additional deployments of rooftop solar
+ 7           in Georgia. Nationally, it is estimated that this credit will allow 7.5 million more residential
+ 8           customers to install solar, reducing the cost to install these systems at an estimated $9,000
+ 9           over the life of the system, or at least $300 per year.30
+
+10           The IRA represents a first-of-its-kind expansion of federal subsidies for rooftop solar, and
+11           the Commission should consider the magnitude of these historic federal investments before
+12           significantly altering Georgia’s longstanding net metering policy. As I have explained in
+13           my testimony, Georgia has struck the right balance by encouraging renewable energy
+14           development without significantly increasing electric rates or negatively impacting the
+15           reliability of the electric system. As a result of the IRA, Georgia is likely to see considerable
+16           growth in the rooftop solar market in the coming years—without any modification to
+17           Georgia’s existing compensation structures for customer-owned generation. As stated
+18           previously, I strongly disagree with compensating customer-generators at a rate that
+19           exceeds the value such resources provide to the grid. As such, I recommend that the
+20           Commission carefully consider not only whether additional ratepayer dollars are actually
+21           needed to encourage rooftop solar investment in the first place, but whether it is appropriate
+22           to subsidize rooftop solar at the expense of other customers. Given the generous benefits
+23           provided by the IRA and Georgia’s proven track record in developing these resources, I
+24           conclude that further ratepayer investments are not needed to encourage this growth, and
+25           additional subsidies would likely result in nothing more than additional windfall payments
+26           to solar installers and developers on the backs of other ratepayers.
+
+
+     30
+       By the Numbers: The Inflation Reduction Act, The White House Briefing Room (August 15, 2022),
+     https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-
+     act/
+
+                                   Supplemental Direct Testimony of Dr. David Gattie
+                                         On Behalf of Georgia Power Company
+                                                  Docket No. 44280
+                                                    Page 23 of 25
+     132112719
+
+ 1   Q.      HOW   SHOULD               GEORGIA            COMPENSATE                CUSTOMER-OWNED
+ 2           GENERATION?
+
+ 3   A.      The Commission has been calculated, measured, and conservative as to the integration of
+ 4           utility-scale solar PV into the grid. It now has a policy choice with respect to distributed
+ 5           solar PV. Based on the aforementioned discussion of issues and impacts associated with
+ 6           compensating net metering solar customer-generators at approximately the retail rate, as is
+ 7           done with monthly netting, I recommend that the Commission not extend the monthly
+ 8           netting pilot or methodology in Georgia. As mentioned upfront in my testimony, I do not
+ 9           offer a recommendation for a specific rate for solar customer-generators. However, I do
+10           recommend that, moving forward, the Commission guard against enacting any program
+11           that over-subsidizes solar customer-generators, particularly given the robust set of
+12           incentives to be delivered by the federal IRA. Any net metering policy should therefore
+13           align with the broader energy legacy objectives of Georgia as pertains to fairness,
+14           affordability, energy diversity and reliability. Specifically, any policy objectives for
+15           compensating solar customer-generators, as first principles, should:
+
+16                  Provide equitable credit to those who choose to be solar customer-generators;
+17                  Retain energy diversity as Georgia determines its own long-term energy transition
+18                   priorities, irrespective of the direction taken by some states with more aggressive
+19                   net metering policies; and
+20                  Avoid shifting any costs to ratepayers who elect not to or are unable to participate
+21                   in distributed solar PV.
+
+22           Electricity from the grid is more than a resource or commodity—it is a service from a utility
+23           that comes with a 24/7 commitment that if service is ever disrupted, the utility responds
+24           and restores service. The value of this service and commitment is calculated into the retail
+25           rate. This value is something solar customer-generators do not, and cannot, provide. They
+26           are therefore not entitled to receive equal compensation at or near the retail rate for their
+27           excess energy. This is not intended to discourage distributed solar PV, but is only intended
+28           to keep the value prospect of electricity from a solar customer-generator in the proper
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 24 of 25
+     132112719
+
+ 1           comparative context with the value prospect of the electrical service supplied from the
+ 2           utility. They are not equivalent. Therefore, state energy policy should not artificially equate
+ 3           these resources through a policy such as monthly net metering.
+
+                                           V.       CONCLUSION
+
+ 4   Q.      DO YOU HAVE ANY FINAL RECOMMENDATIONS?
+
+ 5   A.      Yes. Rather than extend the monthly netting pilot first approved in the 2019 base rate case,
+ 6           I recommend the Commission adopt compensation rates for rooftop solar customers that
+ 7           ensure these customers pay their fair share of the Company’s cost of service while
+ 8           receiving appropriate compensation for the excess energy they provide to the grid. When
+ 9           adopting such a compensation rate, the Commission should avoid disproportionately
+10           shifting costs to customers who are not participating in distributed solar generation. By
+11           compensating customers with BTM generation at close to the retail rate, monthly netting
+12           worsens this cost shift. Ultimately, the goal of the Commission should be twofold—to
+13           protect customers from these cost shifts while simultaneously enabling the development of
+14           rooftop solar in Georgia. I contend that with revised compensation rates that more
+15           accurately and fairly compensate these resources, coupled with the generous incentives
+16           provided by the IRA, the Commission can strike the right balance between these two
+17           objectives.
+
+18   Q.      DOES THIS CONCLUDE YOUR TESTIMONY?
+
+19   A.      Yes.
+
+
+                                 Supplemental Direct Testimony of Dr. David Gattie
+                                       On Behalf of Georgia Power Company
+                                                Docket No. 44280
+                                                  Page 25 of 25
+     132112719
+
+
+===== Net Metering Direct Testimony Legg_Evans FINAL.docx =====
+SUPPLEMENTAL DIRECT TESTIMONY OF 
+LEE EVANS AND LARRY LEGG
+ON BEHALF OF
+GEORGIA POWER COMPANY
+
+DOCKET NO. 44280
+
+I.INTRODUCTION
+Q.PLEASE STATE YOUR NAMES, TITLES, AND BUSINESS ADDRESSES.
+A.Lee Evans, Director of Demand Planning & Analysis for Southern Company Services, Inc. (“SCS”). My business address is 241 Ralph McGill Boulevard N.E., Atlanta, Georgia 30308.
+A.Larry T. Legg, Director of Pricing and Rates for Georgia Power Company (“Georgia Power” or the “Company”), 241 Ralph McGill Boulevard N.E., Atlanta, Georgia 30308.
+Q.MR. LEGG AND MR. EVANS, DID YOU PRESENT DIRECT TESTIMONY AND EXHIBITS ON BEHALF OF GEORGIA POWER IN THIS PROCEEDING?
+A.Yes. 
+Q.ARE YOU PROVIDING ANY EXHIBITS TO YOUR TESTIMONY?
+A.Yes. Exhibit___(LPE/LTL-1) provides a comparison of the cost shift for customers participating in the monthly netting pilot on a primarily volumetric base rate (for example, the Residential Service or “R” rate) versus a three-part base rate such as the Time of Use- Residential Demand rate (“TOU-RD,” otherwise known as “Smart Usage”). 
+Q.WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+A.Our testimony provides Georgia Power’s response to the August 5, 2022, Second Amended Procedural and Scheduling Order (“PSO”) issued in this proceeding by the Georgia Public Service Commission (“Commission”). The PSO is based on Commissioner Shaw’s motion in Georgia Power’s 2022 Integrated Resource Plan (“IRP”), ordering the Company to “address the appropriate structure and pricing of [the Company’s Renewable and Nonrenewable Resources (“RNR”) tariff] in the current rate case so that the Commission can move towards a fair and long-term way of addressing the issue.” 
+Our testimony demonstrates that based on the analysis of data from the monthly netting pilot, monthly netting excessively compensates monthly netting customers for the energy they push back onto the electric grid and in so doing, disproportionately shifts costs from participating to non-participating customers. Considering this analysis, the Company recommends that the Commission not expand the monthly netting pilot that it first authorized in the 2019 base rate case. Additionally, because a cost shift also occurs from instantaneous netting customers taking service under the R rate to non-participating customers, the Company recommends that the Commission require all customers who enroll in the RNR tariff on or after January 1, 2023 take service under a three-part rate, such as the Company’s TOU-RD or Smart Usage rate or an equivalent Commercial or Industrial rate. Finally, to protect customers from dishonest and misleading business practices in the marketplace for behind the meter (“BTM”) generation resources, the Company recommends that the Commission establish a formal framework for the Commission’s referral of consumer complaints to the Consumer Protection Division of the Georgia Attorney General’s Office.
+Q. PLEASE BRIEFLY DESCRIBE THE COMPANY’S RNR TARIFF.
+A.The Company designed the RNR tariff in 2002 in response to the Georgia Cogeneration and Distributed Generation Act of 2001 (“Cogen Act”), and the Commission approved the tariff in August 2002 (Order in Docket No. 15363). The RNR tariff, which is currently in its tenth version (“RNR-10”), establishes the terms and conditions by which the Company compensates customers with qualifying BTM generation resources for the energy they provide to the electric grid. Residential, commercial, and industrial customers take electric service under any of the Company’s rate plans for which they qualify, and additionally, enroll in the RNR tariff to be compensated for the energy they provide to the electric grid. The types of generation resources installed under the RNR tariff predominantly consist of rooftop solar generation installed behind the customer’s meter.
+In the Company’s 2019 base rate case, the Commission ordered Georgia Power to implement a new payment methodology – monthly netting – under the RNR tariff and directed the Company to offer monthly netting on a pilot basis for the first 5,000 subscribers or until newly installed capacity reached 32 MW, whichever came first. The monthly netting pilot reached 5,000 participant applications and is now closed to new applicants. The Company’s longstanding instantaneous netting program remains open to new customer enrollments. 
+Q.PLEASE DESCRIBE INSTANTANEOUS NETTING.
+A.Prior to the start of the monthly netting pilot in the 2019 base rate case, the Company exclusively offered instantaneous netting to customers under the RNR tariff. Under instantaneous netting, the Company credits the excess energy that a participating customer generates and pushes back to the grid at a value equal to the Company’s Solar Avoided Energy Cost, which is established under the Company’s Commission-approved Renewable Cost Benefit (“RCB”) Framework and filed annually with the Commission. With instantaneous netting, a BTM generation system first offsets the customer’s electricity use. Then, for each instant that a customer produces electricity in excess of its demand, the customer receives a bill credit for the energy pushed back to the grid valued at the Solar Avoided Energy Cost rate. These bill credits for excess generation are summed on a monthly basis and an aggregate credit is reflected on the customer’s monthly electric bill, thereby lowering the customer’s overall bill. 
+By way of example, a customer participating in instantaneous netting with a rooftop solar generation system that delivers 400 kWh of energy back to the grid during the month would receive a bill credit in the amount of $10.71. This credit represents the amount of excess energy delivered to the system – 400 kWh – multiplied by the current Solar Avoided Energy Cost rate of just under 3 cents per kWh. Again, the monthly credit to the customer’s bill is in addition to the benefit the customer receives from reducing their energy purchases by supplying some of their energy needs from their BTM generation system. 
+Q.PLEASE DESCRIBE MONTHLY NETTING.
+ A.Under monthly netting, the Company subtracts the total amount of energy a participating customer delivers to the grid from the total amount of energy the customer purchased from Georgia Power during a bill period. Monthly netting compensates the customer for the excess energy they deliver to the grid at the full volumetric portion of the retail electric rate the customer pays to Georgia Power, which substantially overpays the customer for the energy it delivers to the grid. This substantial overpayment disproportionately shifts costs from participating to non-participating customers.
+For example, assume a customer on the R rate, who averages 1,000 kWh of monthly consumption, has a rooftop solar generation system delivering 400 kWh of energy back to the grid. Unlike the instantaneous netting customer in the previous example, the monthly netting customer does not pay for the full 1,000 kWh of energy that the Company delivers to that customer during the billing period. Instead, the monthly netting customer’s excess energy (400 kWh) reduces what the customer pays for their actual monthly consumption from 1,000 kWh to 600 kWh (1,000 kWh – 400 kWh). The Company would then bill the monthly netting customer for only 600 kWh on the retail rate. Figure 1 below further illustrates the difference in how the monthly and instantaneous netting methodologies compensate customers for the excess energy they provide to the grid. 
+FIGURE 1
+
+As the example above demonstrates, a customer participating in the monthly netting pilot pays substantially less for the same electric service than a customer participating in instantaneous netting, despite that both scenarios assume the same monthly usage (1000 kWh) and provide the same amount of excess energy (400 kWh) back to the grid. Because Georgia Power recovers its full cost of service through established revenue requirements, monthly netting shifts the costs that are not recovered from the monthly netting customer to non-participating customers. This cost shift creates an unjustified and disproportionate subsidy that only benefits the customer participating in the monthly netting pilot.
+Q.IN LIGHT OF THE ABOVE, WHAT ARE THE COMPANY’S RECOMMENDATIONS? 
+A.This case represents the first opportunity for the Commission to evaluate the results of the monthly netting pilot since its adoption in the 2019 base rate case. The Company recognizes the benefits that BTM renewable energy resources provide to the Company’s system. However, the Company requests the Commission balance these benefits with the costs shifted to all other non-participating customers under the predominant volumetric rate structure. The Company does not recommend continuing to subsidize BTM solar customers at the expense of other customers by using the monthly netting methodology combined with volumetric rate structures.
+Independent of the monthly netting pilot, Georgia Power has seen a rapid increase in renewable energy development. This growth stems from this Commission’s measured and deliberate approach to procuring and incentivizing renewable energy resources in Georgia. This rapid growth demonstrates that the Commission’s existing programs are working as intended, particularly as renewable resources become even more cost competitive as a result of further technological maturation and the generous incentives that the recent federal Inflation Reduction Act (“IRA”) provides. 
+In developing a holistic approach to Georgia Power’s other renewable energy programs under the IRP process, the Company has identified several core principles that equally apply to the RNR tariff, which include ensuring customer fairness by minimizing cross subsidization and appropriately valuing the costs and benefits of renewable energy. This holistic approach, together with the continued refinement of the Company’s RCB Framework, will appropriately and fairly compensate customer generation in a way that encourages the development of BTM resources while also protecting non-participating customers from cost-shifting. 
+In response to the Commission’s PSO, the Company: 
+Opposes expansion of the RNR monthly netting pilot because it results in significant subsidization to customers participating in the pilot while disproportionately shifting costs to non-participating customers; 
+Recommends requiring all customers who enroll in RNR on or after January 1, 2023, to take service under a three-part rate, such as the Company’s TOU-RD rate or an equivalent Commercial or Industrial rate, to mitigate the disproportionate cost shift to non-participating customers; and
+Recommends the development of a formal framework for the Commission’s referral of consumer complaints to the Consumer Protection Division of the Georgia Attorney General’s Office to help protect customers from dishonest and misleading business practices in the marketplace for BTM generation resources, which appear to have increased in frequency since the start of the monthly netting pilot.
+As we explain in this testimony, given the sustained growth of BTM solar resources in Georgia under the existing RNR tariff structure and the expected effect of new incentives resulting from the federal IRA, the Commission does not need to further expand BTM incentives at this time, particularly at the expense of homeowners and businesses that are unable or unwilling to install BTM resources. The compensation rate paid to RNR monthly netting customers—almost the Company’s full retail rate of electricity—worsens a cost shift already present under instantaneous netting. The compensation rate paid to RNR monthly netting customers significantly exceeds the rate the Company otherwise pays for renewable energy and instead compensates participants for utility services they are not providing—such as the costs incurred for delivering that electricity, which includes capital costs and reasonable and necessary operating expenses. The Company is then left to recover these unrecovered costs from non-participating customers. 
+II.RNR TARIFF AND RATE DESIGN 
+Q.PLEASE DESCRIBE THE HISTORY OF THE RNR TARIFF. 
+A.Georgia Power designed and implemented the RNR tariff as its customer offering to comply with the requirements of the Cogen Act and the federal Public Utility Regulatory Policies Act (“PURPA”). Georgia Power introduced the RNR tariff in 2002 and the Commission originally approved it in its August 22, 2002 Order in Docket No. 15363.
+Q.CAN YOU PLEASE DESCRIBE THE COMPANY’S APPROACH TO INTEGRATING BTM RESOURCES?
+A.The Company’s longstanding approach to successfully integrating BTM resources under the RNR tariff has been to develop an equitable rate design that encourages the development of BTM resources while ensuring that the costs associated with operating the Company’s electric system continue to be fairly recovered among its customers based upon appropriate cost causation principles. Following the enactment of the Cogen Act in 2001, the Company’s approach has relied upon the instantaneous netting approach currently reflected in the Company’s RNR tariff. Under instantaneous netting, participating customers can offset their own consumption of electricity while also receiving compensation for excess energy they deliver to the Company’s electric system at a rate that reflects the Commission-approved value of solar energy—a value derived from the Company’s RCB Framework. Conversely, under the monthly netting pilot approved in the 2019 base rate case, the Company must compensate monthly netting customers for the energy generated by the customer’s BTM generation system at the full volumetric portion of the Company’s retail electric service rate. 
+The current monthly netting methodology significantly overpays customers for the energy they deliver, whereas instantaneous netting better follows established cost causation principles that more appropriately compensate participating customers for the excess generation they provide to the grid. For this reason, the Company’s consistent and appropriate solution to integrating BTM resources has been to pay for this excess generation pushed to the grid under an instantaneous rather than monthly netting methodology. As compared to monthly netting, this approach strikes a better balance between incentivizing BTM resources and protecting non-participating customers from the additional cost shift associated with monthly netting. However, as we discuss in the remainder of our testimony, even the instantaneous netting approach can cause disproportionate cost shifts that require appropriate rate design to mitigate. 
+Q.DOES THE COMPANY’S RETAIL BASE RATE INCLUDE COST COMPONENTS BEYOND JUST THE VALUE OF THE ENERGY DELIVERED?
+A.Yes. The Company’s retail rates are designed to recover various costs that the Company must incur to serve customers, such as generation, transmission, and distribution capacity, as well as other costs, like metering, billing, and customer service support. Although some tariffs include individual pricing components for customer-, energy-, and demand-related costs, for other tariffs the demand-related costs are recovered through the energy price. For example, under any rate that primarily relies upon volumetric energy charges, such as the R rate, the actual cost of energy is only a small percentage of the overall retail base rate. As Mr. Evans explained in his Direct Testimony filed in this proceeding, the Company’s cost allocation methodology seeks to apportion respective costs into three primary classifications – demand-related, energy-related and customer-related. These cost classifications can be descried as follows: 
+(1) Demand-related costs are incurred to serve customers’ peak requirements for electricity. This generally refers to costs incurred by the Company to provide the capacity necessary to serve the customers’ peak kilowatt loads (demands) throughout the year. Examples of demand-related costs include costs associated with generation, transmission, and portions of distribution investments and associated expenses.
+(2) Energy-related costs vary with the amount of energy the customer consumes. These costs comprise primarily production fuel and variable operations and maintenance (“VO&M”) expenses, which vary with the kilowatt-hours consumed by the customer.
+(3) Customer-related costs are associated with establishing service to customers but are independent of customers’ kW and kWh consumption. This classification generally refers to the costs the Company incurs to attach a customer to the distribution system and be ready to serve that customer, and for customer metering, customer billing, and certain administrative costs.
+As the chart below demonstrates, the bill for customers taking service on the R rate is overwhelmingly made up of volumetric energy charges. Because this rate does not include a large enough monthly customer charge and has no demand charge, all or portions of demand-related costs are collected through the energy charge. Therefore, when monthly netting compensates customers at the volumetric energy rate for the excess energy pushed back to the grid, the Company is crediting them for fixed customer and demand related services they are still using. See Figure 2 below. 
+FIGURE 2
+
+Notably, a customer participating under the RNR tariff is likely not providing any immediate demand- or customer-related services when they deliver energy back onto the grid. Instead, they are only providing and offsetting the cost of the energy. The amount the Company pays to BTM customers should reflect the value of the energy being pushed back onto the grid and nothing more. Without this change, the Company is overcompensating participating customers and other customers are shouldering the additional cost.
+Q.WHAT OCCURS WHEN THE COMPANY COMPENSATES A CUSTOMER AT THE RETAIL RATE UNDER MONTHLY NETTING?
+A.When a customer enrolls in monthly netting and is compensated at the prevailing retail rate, that customer sheds or “shifts” cost recovery to all other customers. Compensating a customer for intermittent energy they deliver to the grid at the retail rate allows these customers to avoid paying their proportional share of the costs to build, operate, and maintain the system. In certain situations where fixed costs are recovered entirely through variable volumetric charges, monthly netting can result in a customer paying less than the actual fixed costs the Company incurs to serve that customer. For a monthly netting customer on the R rate, the Company has calculated the resulting shift in cost to be approximately $1,356 per year for the average monthly netting participant. 
+Q.WHAT IS THE ANNUAL COST SHIFT RESULTING FROM THE MONTHLY NET METERING PILOT? 
+A.In addition to the cost shift resulting generally from BTM solar, the monthly netting pilot results in an annual cost shift of $1.4 million. As Mr. Legg identified in his Direct Testimony filed in this proceeding, to address this cost shift, the Company has made an adjustment of approximately $1.4 million to rates related to the projected cost shift from the monthly netting pilot. All customers will pay for this adjustment, including customers who do not have BTM generation.
+Q.DOES THE COMPANY HAVE DATA BASED ON THE MONTHLY NETTING PILOT TO DEMONSTRATE THIS COST SHIFT?
+A.Yes. The Company has reviewed the load profiles of residential customers enrolled in the monthly netting pilot with at least twelve months of participation and accounted for the installed behind the meter solar capacity. Using this data, the Company formed before-solar and after-solar loadshapes for participants in order to calculate the cost shift that occurs with monthly netting. The Company utilized these same inputs to calculate the instantaneous netting cost shift. Figure 3 below illustrates the incremental levels of cost shift associated with an average pilot participant receiving service under the R rate who is enrolled in instantaneous netting and a residential customer on the R rate who is enrolled in monthly netting. 
+FIGURE 3
+
+As shown in Figure 3 above, although a significant cost shift already exists when customers install BTM solar due to the volumetric design of the R rate, the monthly netting pilot exacerbates this cost shift. 
+Q.DOES THE COMPANY’S ANALYSIS FOCUS PRIMARILY ON RESIDENTIAL CUSTOMERS?
+A.Yes. The Company’s analysis to date has focused on residential customers primarily on the R rate. 74% of Georgia Power’s residential customers are on the R rate, and 84% of the RNR monthly netting pilot customers are on the R rate. Although commercial and industrial customers are also eligible for the RNR tariff, the Company has not reviewed the cost shifts presented by those customer classes and prevailing rates due to the relatively small population of non-residential customers currently enrolled in RNR monthly netting. Although the residential R rate provides the best “apples to apples” comparison by providing the Company with the largest data set, the principles and trends identified in the residential analysis are likely to carry over to commercial and industrial customers receiving service under volumetric energy rates. 
+Q.THE COMPANY HAS IDENTIFIED A DISPROPORTIONATE COST SHIFT ASSOCIATED WITH MONTHLY NETTING, BUT HAS IT ATTEMPTED TO QUANTIFY THE BENEFITS?
+A.Yes. Under monthly netting, as with instantaneous netting, the Company avoids the incremental costs of fuel and generation variable operations and maintenance expenses. Currently, RNR customers do not offset any existing transmission and distribution costs. 
+Q.DOES A MONTHLY NETTING CUSTOMER STILL UTILIZE THE COMPANY’S ELECTRIC SYSTEM? 
+A.Yes. Monthly netting customers rely on the full capacity of the electric system in two critical ways: first, to receive energy from the electric system when their BTM system is not fully offsetting their energy usage, and second, to export energy generated by their BTM system to the grid. With this in mind, the practice of monthly netting is merely an accounting construct that allows the customer to bank its excess generation for future use. The reality, however, is the grid does not physically store the excess electricity produced and supplied to the grid by the customer. When the monthly netting customer exports power in excess of its onsite load, the energy must be immediately utilized elsewhere on the system and cannot be banked for later use. This happens even though monthly netting pays for this delivered power as if this banking were physically possible. 
+Q.IS THE COMPANY RECOMMENDING THAT THE COMMISSION CONSIDER OTHER POLICY OPTIONS?
+A.Yes. The Company recommends the Commission consider three-part rates as a solution to the disproportionate cost shift occurring today by requiring all customers who enroll in RNR on or after January 1, 2023 to take service under a three-part rate. Such rates better align with the Company’s underlying costs, and further mitigate the cost shift between participating and non-participating customers. As shown in Exhibit___(LPE/LTL-1), broader adoption of three-part rates, such as the Company’s TOU-RD rate, would significantly reduce the cost shift currently associated with the misalignment of BTM customer generators on primarily volumetric rates, such as the residential R rate.
+Q.HAS THE COMPANY PREVIOUSLY RECOMMENDED ADOPTION OF A RESIDENTIAL DEMAND RATE TO MITIGATE DISPROPORTIONATE COST SHIFTS FROM BTM CUSTOMER INSTALLATIONS?
+A.Yes. When the Company introduced the TOU-RD tariff in the 2013 rate case, it was presented as a complement to the then-proposed Supplemental Power Service (“SPS”) tariff. At that time, to avoid cost shifts between customers with BTM generation and those without, the Company proposed that a residential BTM customer generator either participate on a demand rate like TOU-RD or remain on the residential R rate and pay an additional flat monthly capacity charge. As stated in Witness Roberts’ testimony from the 2013 base rate case, the TOU-RD tariff was designed to be (i) revenue neutral to the standard residential tariff, (ii) provide “residential customers with a demand rate option to satisfy the requirement of SPS,” and (iii) approximate energy credits at the Company’s avoided cost and provide capacity credits for reductions in peak demands provided by the customers’ BTM generation. Since the inception of TOU-RD, the Company has supported the use of demand rates with time of use components to mitigate cost shifts from customers with BTM generation to those customers without. As the Company, this Commission, and the market embraces the growth in BTM customer generation, Georgia Power recommends the Commission again consider the Company’s arguments in support of transitioning customers with BTM generation to three-part rates. 
+Q.IF THE COMMISSION ADOPTS THE COMPANY’S RECOMMENDATION TO ENROLL NEW RNR CUSTOMERS IN A THREE-PART RATE, WHAT WILL HAPPEN TO EXISTING RNR CUSTOMERS WHO ARE NOT CURRENTLY ON A THREE-PART RATE?
+A.Assuming the monthly netting pilot remains capped at 5,000 customers, the Company’s proposal is to move all future RNR customers to a three-part rate, such as the TOU-RD/Smart Usage rate or an equivalent Commercial or Industrial rate. If adopted, this change would apply to all customers who enroll in RNR on or after January 1, 2023. Additional policy questions for the Commission are:
+Whether and for how long existing RNR customers, including the 5,000 monthly netting pilot customers, should be allowed to remain on a rate other than a three-part rate (i.e., TOU-RD/Smart Usage) or an equivalent Commercial or Industrial rate.
+Whether and for how long the 5,000 monthly netting pilot customers should continue to be compensated under monthly as opposed to instantaneous netting. For example, the Commission could consider allowing the 5,000 monthly netting pilot customers to continue monthly netting for a time period sufficient to recover their investment in their BTM generation system.
+The purpose of the Company’s proposal is to help ensure that, going forward, the disproportionate cost shift between customers with BTM generation and non-participating customers is minimized to the greatest extent possible. With this in mind, the Company and the Commission can also continue to address the appropriate rate structures for BTM customers in future regulatory cycles. 
+III.BTM SOLAR MARKETPLACE AND CONSUMER PROTECTIONS 
+Q. HOW WOULD YOU DESCRIBE THE CURRENT BTM SOLAR MARKET IN THE COMPANY'S SERVICE TERRITORY?
+A.The Company has experienced robust and continued growth in the BTM market, as demonstrated by increasing enrollments in the Company’s RNR tariff. This steady growth has continued notwithstanding the full subscription of the monthly netting pilot. In fact, BTM project applications in 2022 are on pace to equal or exceed the volume experienced in 2020 and 2021. This steady and consistent growth shows that BTM development in Georgia remains strong and that monthly netting is not necessary to encourage rooftop solar adoption in Georgia. 
+Considering the recent passage of the federal IRA, demand for BTM generation is likely to continue and we will likely see a further increase in the number of applications received under the RNR tariff regardless of any further extension of the monthly netting pilot. With this expected increase in demand, there is no need to further incentivize the BTM transition through additional rate design programs such as an expanded monthly netting program.
+Q.DO YOU HAVE ANY ADDITIONAL CONCERNS ABOUT THE ROOFTOP SOLAR MARKET IN GEORGIA?
+A.Yes. The Company is aware of unethical business practices employed by some solar marketers, lead generators, solar installers, and solar loan providers offering services to Georgia Power’s BTM customers. Unlike some other states dealing with this issue, the state of Georgia does not yet have a certification requirement to ensure that BTM service providers have the expertise and financial capability to serve customers. Increasing the incentives for BTM resources without additional oversight of BTM service providers invites potentially more unqualified actors and additional customer complaints. Therefore, the Company supports the development of a more formal framework for the Commission’s referral of consumer complaints to the Consumer Protection Division of the Georgia Attorney General’s Office. Georgia Power’s customers are at the center of everything we do, and it would be a disservice to our customers and the continued growth of rooftop solar in Georgia for customers to be taken advantage of through unfair and deceptive business practices. 
+IV.CONCLUSION
+Q.PLEASE SUMMARIZE THE COMPANY’S RECOMMENDATIONS. 
+A.As the Company’s analysis of the monthly netting pilot demonstrates, monthly netting disproportionately shifts costs from RNR monthly netting customers to non-participating customers. The Company recommends that the monthly netting pilot remain capped at 5,000 customers. Additionally, given the cost shifts also inherent in the Company’s instantaneous netting program, the Company recommends that the Commission require all customers who enroll in the RNR tariff on or after January 1, 2023, to take service under a three-part rate, such as the Company’s TOU-RD rate, to mitigate the disproportionate cost shift to non-participating customers. These recommendations appropriately balance the need to protect non-participating customers while continuing to support the rapid adoption and growth of BTM resources. Finally, to protect customers from dishonest and misleading business practices in the BTM marketplace, the Company requests that the Commission establish a more formal framework for the Commission’s referral of consumer complaints to the Consumer Protection Division of the Georgia Attorney General’s Office. 
+Q.DOES THIS CONCLUDE YOUR TESTIMONY?
+A.Yes.
+
+===== Net Metering Testimony Dr. Gattie Testimony - FINAL.docx =====
+SUPPLEMENTAL DIRECT TESTIMONY 
+OF DR. DAVID GATTIE
+ON BEHALF OF 
+GEORGIA POWER COMPANY
+DOCKET NO. 44280
+
+INTRODUCTION
+
+Q. PLEASE STATE YOUR NAME, TITLE, AND BUSINESS ADDRESS
+A. My name is Dr. David Gattie. I am an Associate Professor of Engineering in the School of Environmental, Civil, Agricultural, and Mechanical Engineering at the University of Georgia. My business address is Driftmier Engineering Center, Room 1211, 597 D. W. Brooks Drive, Athens, Georgia 30602.
+Q. ON WHOSE BEHALF ARE YOU SUBMITTING TESTIMONY?
+A.I am testifying on behalf of Georgia Power Company (“Georgia Power” or the “Company”).
+Q. HAVE YOU PREVIOUSLY TESTIFIED BEFORE THE GEORGIA PUBLIC SERVICE COMMISSION?
+A.Yes. I previously submitted testimony on behalf of Georgia Power in Georgia Public Service Commission (“Commission”) Docket No. 29849. 
+Q. DR. GATTIE, PLEASE SUMMARIZE YOUR EDUCATION AND PROFESSIONAL EXPERIENCE. 
+A. I am an Associate Professor of Engineering in the University of Georgia’s (“UGA”) College of Engineering, and a Senior Fellow in UGA’s Center for International Trade and Security, which is in UGA’s School of Public and International Affairs. I have fourteen years of private industry experience as an energy services engineer and environmental engineer. Currently, my research is in the area of energy policy and integrated energy resource planning for the power sector and the security implications of transitioning the U.S. economy to low- or zero-carbon energy resources. A particular focus of mine is the national security implications of U.S. nuclear power. I established UGA’s first environmental engineering undergraduate program in 2009, which I ushered through full accreditation in 2012, and I teach graduate and undergraduate courses in energy systems and energy security for both the College of Engineering and the Center for International Trade and Security. I serve on the Advisory Board for the Energy Policy Institute at Boise State University and as an uncompensated member on the Advocacy Council for Nuclear Matters. 
+I’ve conducted research in natural resources engineering and in material and energy flows in ecosystems as a basis for understanding the limitations of energy flows in ecological and coupled human-natural systems, and the importance of stored energy for sustaining growth in ecological systems and industrialized economies. Based on my extensive international experiences and firsthand involvement around the challenges of meeting electricity needs in developing and recently developed countries, my current research focus is energy policy for the electric power sector. Part of my current research efforts have included research with the 1 MW solar demonstration project in Athens, GA and a solar plus storage project as a resource for renewable generation intermittence (both in collaboration with Georgia Power)
+With increased attention and national policy efforts directed at transitioning the U.S. away from conventional resources to low- or zero-carbon resources, I’ve dedicated my most recent research efforts toward evaluating the broader security implications of such an unprecedented shift in the world’s largest industrialized economy and greatest military power. Over the past eight years, I have made over one hundred presentations at the local, state, national, and international levels and have authored or co-authored over thirty journal articles and commentaries on energy policy. One of these is a co-authored article with President Ronald Reagan’s former National Security Advisor, Robert “Bud” McFarlane, entitled, “China and the Importance of Civil Nuclear Energy,” which was published in The National Interest. For the past five years, I’ve spent time in fourteen states, including Georgia, meeting with individuals associated with the electric power industry to discuss the energy transition issue, as well as my own research on the security implications of energy policy at the state and national levels. These meetings and discussions have included industry professionals, state legislators, academicians, and working-class citizens. Moreover, I have been, and continue to be, engaged in extended energy policy summits with practitioners, policymakers, and academics from South Korea and Japan (two key U.S. allies in global and national security) to discuss our respective countries’ energy and nuclear power policy within the energy transition framework and the challenges confronting us in such a transition. I am particularly engaged with South Korea having recently participated as an invited participant for the Inaugural US-ROK Energy Security Dialogue held in Seoul, South Korea. This was followed up by a reciprocal Multilateral Nuclear Energy Dialogue that I organized and hosted on the University of Georgia campus. In all, these summits and deliberations focus on energy as a national, economic and climate security issue.
+I am currently leading the development of the Applied Energy Studies (AES) initiative at UGA. This is a collaboration between UGA’s College of Engineering and Center for International Trade and Security in the School of Public and International Affairs. Whereas energy is generally debated in the U.S. as either a market commodity or as a climate change issue, the mission of the AES initiative is to elevate the security implications of energy policy within the energy policy debate. To this end, I have led the development of the Energy Security track within the School of Public and International Affairs’ Master of International Policy degree program. This has included the development of three graduate courses: INTL 8278 Energy Statecraft, INTL 8279 Energy Security and Policy and MCHE 8500 Technical Foundations of Energy for Policymakers. 
+I also have provided testimony before the U.S. House Energy and Commerce Committee on energy, climate, and nuclear power policy and the critical role of energy diversity. 
+In summary, my research efforts are focused on elevating energy security, national security, economic security, and climate security as core issues around which our energy and climate policy debate, as well as any energy transition we pursue, should revolve. And, germane to these efforts, is the role of renewable energy resources such as solar.
+Q. WHAT IS THE PURPOSE OF YOUR TESTIMONY?
+A. The purpose of my testimony is to respond to the Commission’s request for Georgia Power to address whether its monthly netting program is a fair and long-term way to compensate customers with behind the meter generation resources such as rooftop solar photovoltaic (“PV”). In this testimony I offer to the Commission my opinion on whether monthly netting, known in other states as monthly net metering, is the right policy choice for Georgia. Directly, my recommendation is that the Commission should not extend Georgia Power’s monthly netting pilot whereby solar customer-generators are compensated at approximately the retail rate for excess energy exported onto the grid. In my testimony, I recommend that the Commission adopt a rate structure and compensation rate that ensures solar customer-generators pay their fair share of the costs to operate the Company’s electric system while also fairly compensating customer-generators for the energy they export to the grid. 
+Q. PLEASE SUMMARIZE YOUR RECOMMENDATIONS.
+A.I recommend that the Commission reject expanding Georgia Power’s monthly netting pilot as monthly netting represents a fundamentally flawed mechanism for compensating customers with behind the meter (“BTM”) generation in Georgia. I make this recommendation for a variety of reasons, including the discrepancy in value placed on electricity exported by solar customer-generators onto the grid, the lack of consensus on the use of monthly net metering as a policy tool in other states, and because disproportionately compensating customer-generators as a means to increase solar development does not align with Georgia’s energy policy goals. I base this conclusion on the following key considerations:
+Disparity in Value: Under monthly netting, a customer-generator who exports electricity onto the grid is treated as providing all of the services, like transmission and distribution, traditionally associated with electric utility service. But the cost to provide electricity coming from the grid to the solar customer-generator is higher than the value of electricity exported from the solar customer-generator onto the grid. This is because the solar customer-generator is not providing the same transmission, distribution and other services required to transmit power across the Company’s system and maintain reliable electric service for its customers. As I explain further below, any rate structure or compensation rate that does not appropriately account for this discrepancy unfairly shifts costs to other customers by compensating customer-generators for services they do not provide. This cost shift most egregiously occurs under monthly netting but can occur under any rate design or compensation mechanism that fails to align the compensation provided to customer-generators for the energy they export to the grid with the actual costs of providing them with electric service.
+Excess Subsidization: The Inflation Reduction Act (“IRA”), President Biden’s signature climate change policy, includes a 30% tax credit specifically designed to spur investment and lower barriers for entry into rooftop solar. All estimates suggest the IRA’s impact on the rooftop solar market will be profound and that it is likely to have a transformative effect on the rooftop solar industry. The Commission should, therefore, allow the financial impacts of this game-changing federal subsidy to unfold before committing additional ratepayer dollars in the form of expanded monthly net metering subsidies. This is especially the case when these additional ratepayer subsidies may not be needed for continued and stable solar customer-generator deployment in Georgia. Federal dollars, not state ratepayer dollars, should be the first to support these resources. And federal IRA subsidies may be enough. 
+While I do not offer my opinion as to a specific rate structure and compensation rate for solar customer-generators, I do urge the Commission to only compensate these resources for the services they actually provide—and not provide a level of compensation that unfairly shifts costs to other customers. The right mechanism will ensure that solar customer-generators pay their fair share of the costs of electric service and fairly compensate them for the energy they export to the grid. 
+From a policy perspective, my testimony also provides a broader view of the implications associated with leveraging monthly net metering as a tool for regulators and policy makers to accelerate the transition away from conventional energy resources. In this regard, monthly net metering is a national issue, as the U.S. is in a sharply divided debate as to which energy resources will power its 21st century economy. States that have led the way in adopting aggressive net metering strategies as a means to achieve their energy policy goals are now walking back or reevaluating net metering policies, on account of significant negative externalities and issues of ratepayer fairness. My recommendation is that the Commission consider the lessons learned in other jurisdictions and that it avoids the expansion of monthly net metering in Georgia, which is a flawed policy with fading national support. 
+NET METERING 
+Q.PLEASE EXPLAIN THE HISTORY OF NET METERING POLICY.
+A.The origins of net metering are rooted in the Public Utility Regulatory Policies Act of 1978, which was enacted following the energy crisis of the 1970s and required utilities to compensate solar customer-generators based on the utility’s avoided cost., The first actual application of net metering was in 1979 in Massachusetts. Some of the original motivation for, and interest in, net metering is summarized in the National Renewable Energy Laboratory’s (NREL) Net Metering Programs Topical Issues Brief, published in 1996: 
+There has been a recent surge of interest from the renewable energy industry and environmental groups in net metering. The reason for this interest is that net metering is a simple, low-cost, and easily administered method to encourage direct customer investment in renewable energy technologies. The renewable energy industry supports net metering because it removes an economic disincentive for potential customers by increasing the value of the electricity generated by renewable energy technologies. Environmental groups support net metering because it promotes clean energy production.
+NREL defines net metering as “a metering and billing arrangement designed to compensate distributed energy generation (DG) system owners for any generation that is exported to the utility grid.” The Congressional Research Service, in 2019, defined net metering as “a policy that allows electricity customers with their own generation capacity to be financially compensated for the energy they produce.”
+Net metering, then, is a policy that governs the billing arrangement and compensation structure between a solar customer-generator and the utility providing the grid and utility services to which the solar customer-generator is connected. In other words, this debate examines the appropriate compensation level paid by the utility to the solar customer-generator for the excess energy they deliver to the grid. The billing arrangement, compensation structure, and the value assigned to this excess energy are the points of contention. Currently, there is no shortage of studies, papers, briefs, and reports on the issues of net metering, with myriad proposals for how solar PV customer-generators should be compensated.,,, One literature review in 2006 found twenty-two distinct definitions for the term “net metering” and proposed “a taxonomy that distinguishes between sixteen distinct compensation practices.” For the purpose of my testimony and my recommendation around the appropriate rate of compensation for solar customer-generators, I primarily address concerns associated with monthly netting, which provides compensation for excess generation at or near the retail rate of electricity.
+Q.HOW DO YOU DEFINE THE “RETAIL RATE OF ELECTRICITY”?
+A.The retail rate of electricity includes a utility’s fuel costs, generation costs, transmission costs, distribution costs, grid infrastructure costs, and administrative support costs provided by the utility. All costs beyond fuel and marginal operations and maintenance costs incurred at the power plant represent added value provided solely by the utility to move electricity reliably and safely from the generating source to its customers—including moving electricity to those customers with distributed solar generation. Because of these delivery costs, the value of electricity generated at the power plant is much lower than the value of electricity delivered to the meter of a customer. This discrepancy in value reflects all the costs associated with transmission, distribution, grid infrastructure, and support services provided by the utility—costs that go unrecovered where a solar customer-generator fails to pay its fair cost of electric service or is overpaid for the excess energy it exports to the grid, as is the case under monthly net metering. 
+Q.HOW DO YOU DEFINE MONTHLY NETTING?
+A.Under monthly netting, when a solar customer-generator generates sufficient electricity to meet its own demand, no electricity flows to the customer from the grid through the meter. When a solar customer-generator generates less than its own energy demand, the insufficiency is made up by consuming electricity from the grid, in which case, the meter spins forward and registers the customer’s consumption of electricity. When the solar customer-generator generates electricity in excess of its own demand, the excess electricity is exported to the grid through the meter, which then essentially “spins backwards,” reversing the customer’s previously registered consumption of electricity from the grid. As I understand Georgia Power’s monthly netting pilot, participating customers are billed based upon the lower netted usage, meaning that the customer-generated electricity that is exported to the grid is valued at close to the retail rate of electricity. 
+Q.CAN YOU PROVIDE AN EXAMPLE?
+A.Yes. The following hypothetical example illustrates how I interpret monthly netting. Consumption for an Oconee County, Georgia residence was compiled for the month of April 2022, during which time the residence consumed and paid for 1,343 kWh of electricity (Figure 1). PVWatts was then used to model electricity output from a 10 kW solar PV system installed at this location. This output was estimated to be 1,333 kWh. This would then translate to a net difference of 10 kWh, which, under monthly netting would result in a bill to the customer-generator for 10 kWh of measured consumption. However, this is only measured consumption since electricity from the grid and electricity to the grid are considered equivalent under monthly netting arrangements that do not account for the difference between actual consumption and export. In reality, based on hourly data for both the residence and from PVWatts, the residence with a solar PV system would have consumed 826 kWh during times when the PV system either was not generating electricity or was not generating sufficient electricity to meet the solar customer-generator’s demands. At the same time, the solar customer-generator would have exported 816 kWh of excess electricity to the grid during times when solar PV generation exceeded the solar customer-generator’s demands. Monthly netting would report this as a 10 kWh consumption, even though the solar customer-generator was still dependent on the grid for providing its consumption of 826 kWh of electricity. Such is the difference between “measured consumption” under monthly netting, which in this case is 10 kWh, and “actual consumption” which in this case is 826 kWh. 
+
+Figure 1. Net metering simulation profile of the grid and PV electricity consumption and export for a residence in Georgia.
+Under monthly netting type arrangements, all electricity moving through the meter, in either direction, is treated equally at the retail rate, with no distinction in value. The question then comes down to the value of electricity coming from the grid to the solar customer-generator compared with the value of electricity exported from the solar customer-generator onto the grid. And in my determination, this value of excess energy exported by the customer-generator is nearly always less than the value of the energy delivered to the customer. 
+Q.WHY SHOULD THE COMPENSATION RATE OF electricity exported from the solar customer-generator BE LOWER THAN THE retail rate of electricity? 
+A.Customers with solar resources are still dependent on the grid itself, including the generation, transmission, and distribution services a utility provides — but which the solar customer-generator avoids paying under a monthly netting arrangement. Under monthly netting arrangements, solar customer-generators are compensated at approximately the full retail rate and are thus significantly overpaid for the energy they export. As such, the solar customer-generator essentially avoids paying for the fixed operating costs of generation, transmission, and distribution, even though it uses them and, in fact, depends on access to them to export its own energy to the electric grid. As such, monthly netting represents a regressive policy that favors and rewards those who choose to participate at the expense of those who choose not to participate or who can’t participate in behind-the-meter solar generation. This underscores the need for an appropriate rate structure that ensures solar customer-generators pay their fair share of the costs associated with electric service while also being fairly compensated for the energy they export to the grid. 
+STATE-LEVEL POLICY CHOICES
+Q.PLEASE FRAME THE NET METERING DEBATE. 
+A.States have adopted monthly net metering primarily as a means to achieve renewable energy and energy resiliency goals. In the nascent days of rooftop solar PV, excess compensation in the form of monthly netting was used by some state regulators and policymakers to encourage the growth of small-scale renewables. At the time of its adoption, monthly netting provided a simple but crude billing solution for the small subset of customer-generators participating on an electric utility’s system. As solar PV technology has matured and solar PV costs have declined, participation rates in monthly net metering programs nationwide have rapidly expanded. This rapid expansion has forced state policymakers and regulators to reexamine net metering policies more holistically, with an eye towards fairness, affordability, energy diversity, and reliability. As I describe in the balance of my testimony, monthly netting is not a recommended approach for Georgia, given the negative externalities these policies have produced in other parts of the U.S. and the other far more preferable ways Georgia can achieve these objectives. 
+Q.HAVE YOU REVIEWED NATIONAL NET METERING PARTICIPATION RATES?
+A.Yes, I have. In 2021, there were 3,012,404 residential net metering customers in the U.S. Since 2011, the number of residential solar PV net metering customers has increased 1,790% while net metering capacity increased over 2,350% (Figures 2 & 3). 
+
+Figure 2. U.S. solar PV residential net metering customers, 2011-2021.
+
+Figure 3. U.S. solar PV residential net metering capacity (MW) from 2011—2021.
+A breakdown of 2021 shows that two-thirds (66.19%) of residential solar PV net metering customers were located in five states—California, Arizona, New York, New Jersey, and Massachusetts—with California alone accounting for almost half (45.56%) of the country’s total residential solar PV net metering customers (Table 1). 
+
+Table 1. Breakdown of residential solar PV net metering customers.
+As it is the dominant net metering state, California merits a closer look. In 2020, while about 1.86% of all U.S. residential grid customers were net metering customers, 8.62% of California’s residential grid customers were net metering customers while in the remaining U.S. states, 1.1% of residential grid customers were net metering customers (Table 1). Meaning, while California constituted about 10.12% of U.S. residential grid customers in 2020, it also constituted about 40.93% of U.S. residential net metering capacity and 46.84% of U.S. net metering customers.
+
+Table 2. Comparison of net metering customers for the U.S., California and the rest of U.S. states.
+Trends of California’s share of solar PV net metering customers and capacity show that while the state’s share of the U.S. total is trending down for both number of customers and capacity, it remains the dominant state, therefore a dominant voice in the net metering policy debate (Figures 4 & 5). 
+
+Figure 4. Residential solar PV net metering customers for California and the rest of the U.S.
+
+Figure 5. Residential solar PV net metering capacity (MW) for California and the rest of the U.S.
+Q.YOU HIGHLIGHT STATES SUCH AS CALIFORNIA AND OTHERS; WHAT APPROACHES HAVE THESE STATES TAKEN WITH RESPECT TO NET METERING? 
+Unlike Georgia’s measured approach towards net metering, many states, including California, have implemented net metering in a manner that compensates the solar customer-generator for exported electricity on a monthly basis at the retail rate (i.e., monthly net metering), similar to the monthly netting approach piloted here in Georgia. Policymakers in these states made a policy choice to use monthly net metering as a tool to deliver rapid rooftop solar development as part of an overall decarbonization and energy transition strategy, and these policies have indeed delivered on this goal. However, this rapid development of rooftop solar has come at a cost, not only in the form of increased electric rates, but also as a result of additional stresses on these state’s electric grids and unhealthy cross-subsidies that negatively impact customers who either cannot or chose not to adopt rooftop solar. 
+I contend there is a better way to achieve decarbonization and energy transition goals, without relying on methodologies that increase costs, penalize existing ratepayers, and skew the efficient development of renewable energy resources. In fact, in many jurisdictions, monthly net metering has become a victim of its own success, delivering too high of a subsidy resulting in too much growth, too fast, at too high a cost, causing many state regulators and policymakers to reevaluate net metering policies in their respective jurisdictions. Despite the prevalence of monthly net metering in other jurisdictions, in my view this methodology is rapidly becoming a disfavored approach, given the negative externalities it is apt to cause when adopted at scale. No state exemplifies this more than California. 
+Q.WOULD YOU CONCLUDE THEN THAT STATES ARE MOVING AWAY FROM MONTHLY NET METERING AS A PREFERRED POLICY OPTION? 
+A.I would conclude it is near universally accepted that monthly net metering at the retail rate is no longer the preferred policy option, even in states with aggressive decarbonization and energy transition targets. Many states have adopted, or are in the process of adopting, so-called net metering “successor tariffs” intended to replace monthly net metering at close to the retail rate with new methodologies to compensate excess generation delivered to the grid. While I disagree with many of these “value of solar” studies that apply unrealistic and ethereal valuations to supposed grid benefits from distributed solar generation, my main point is to underscore that most states with aggressive net metering policies have begun to acknowledge the inadequacy of monthly net metering at close to the retail rate as a fair and sensible method for compensating distributed generation.
+California’s ongoing NEM 3.0 proceeding, for example, is poised to dramatically scale back monthly net metering for distributed energy resources. While the details are still under debate, the ultimate result is very likely to be a compensation mechanism that is less lucrative to customer-generators than the prior net metering practice present in California, and results in less of a cost shift to all other customers. Other states such as Arizona, Indiana, Kentucky, Utah, and others have moved away from net metering entirely, or implemented compensation rates that are significantly less than the retail rate, fixed customer charges, time of use rates, or any combination of these measures to reduce the overall unfair cost shifts associated with monthly net metering. My objective is for the Commission to be aware that many state policy makers and regulators are moving away from—and not towards—monthly net metering at approximately the retail rate. The decision before the Commission then is to consider whether to adopt or expand the monthly netting policy at a time when the national trend is moving away from compensating behind-the-meter generation resources at approximately the retail rate. The Commission has an opportunity to avoid the problems encountered in these other jurisdictions by incorporating the lessons learned in other states and avoid adopting a disfavored methodology (i.e., monthly netting) as other states are moving away from this approach. 
+GEORGIA’S APPROACH TO ENERGY POLICY
+Q.WITH THIS NATIONAL CONTEXT, WHAT DO YOU RECOMMEND FOR GEORGIA? 
+A.Georgia has always taken a measured and practical approach to the integration of renewable resources, and this wisdom has paid dividends for all stakeholders in this ongoing debate. Solar is Georgia’s most promising renewable energy resource, and integrating it into Georgia’s energy portfolio, in the responsible manner the Commission has done for the past several years, has improved the resource and technology diversity of the state’s power sector without sacrificing reliability or putting upward pressure on retail rates. I am in favor of the most economic and cost-effective ways of deploying renewable energy. As such, I’m a proponent of utility-scale solar as it directly benefits all ratepayers in Georgia, and I am agnostic on residential rooftop solar PV as it is a customer-choice issue. However, monthly net metering (or monthly netting here in Georgia) is a separate policy issue that involves shifting costs to ratepayers who do not participate as solar customer-generators. Significantly, my testimony on monthly netting should not be misconstrued as opposition to residential rooftop solar PV nor should it be misinterpreted as opposition to compensating solar customer-generators for electricity exported onto the grid. Quite the opposite, customer-generators should be compensated for the energy they export to the grid, and at a rate that is fair and equitable for all Georgia ratepayers and that does not shift costs to ratepayers who do not participate in distributed solar PV.
+Q.HOW DO GEORGIA’S ENERGY POLICY OBJECTIVES DIFFER FROM OTHER STATES? 
+A.California is prioritizing carbon reduction, which has resulted in one of the lowest carbon footprints in the country, but also some of the highest electricity rates with regular threats of blackouts and power shortages. This can be contrasted with Texas, which is optimizing its power sector for lowest rates—and indeed has affordable rates—but has experienced severe reliability issues the past two years. States in other deregulated markets are dealing with premature closure of nuclear power plants due to deregulated markets structured around lowest marginal costs, oftentimes meaning low-cost natural gas and subsidized renewables.
+As states discuss how best to organize their respective electric power sectors within what would be an unprecedented energy paradigm for an industrial economy, some states are having heated debates and taking aggressive policy actions around renewable energy—particularly solar. And monthly net metering at approximately the retail rate is embedded in many of these policy debates.,, 
+Georgia has taken a different approach than that of states such as California and Texas as it has prioritized reliability, affordability, and resource diversity within its long-term integrated resource planning process and regulated market structure (Figure 6)., I argue Georgia has struck the right balance between these competing objectives. Some data points that support Georgia’s approach towards these issues are:
+Among regulated and deregulated market states, residential rates for Georgia’s total electric power sector remain below the national average and below those in most deregulated market states (Figures 7 & 8). 
+Georgia has reduced carbon emissions from its electric power sector by 58% from 2007-2020.
+Among the top eight states with the highest GDPs in the U.S., Georgia residential rates are third lowest (Figure 9).
+Georgia ranks seventh in the country for utility-scale solar PV generation (Figure 10). 
+
+Figure 6. Energy resource trend for Georgia’s total electric power sector, 1990-2021.
+
+Figure 7. Retail residential rate trends for states operating under deregulated electricity market structures, 1990-2021.
+
+Figure 8. Retail residential rate trends for states operating regulated electricity market structures, 1990-2021. Georgia is below the national average and competitive with other states.
+
+Figure 9. Trends for residential electricity rates among the top eight states with highest GDPs in the U.S.
+
+Figure 10. Percent share, by state, of utility-scale solar in the U.S. for 2021.
+Georgia’s approach to its electric power sector has been calculated, deliberative and pragmatic, particularly with respect to solar PV. 
+Q.HOW WILL THE RECENTLY PASSED FEDERAL IRA IMPACT GEORGIA’S ROOFTOP SOLAR MARKET? 
+A.The IRA, signed into law on August 16, 2022, provides historic federal support to the solar industry. From tax incentives for both businesses and individuals to direct investments, the significance of the IRA to the solar industry is difficult to overstate. According to a recent study, the IRA will be a massive growth catalyst for the solar industry and will triple solar installations by 2027. Other studies suggest investment in the solar industry will increase solar manufacturing capacity by 25 GW or a fivefold annual increase from 10 GW in 2020 to 49 GW in 2024.
+In addition to many supply-side subsidies for solar that will drive down overall equipment costs for customers choosing to install solar, the IRA also provides direct incentives to individual taxpayers and families to further encourage rooftop solar development. For example, the IRA’s Residential Clean Energy Credit aims to further subsidize the cost of solar by providing a 30% tax credit to homeowners choosing to install solar through 2032. Under the Residential Clean Energy Credit, a taxpayer that spends $10,000 on solar PV panels installed at their residence in 2022 may claim a 30% ($3,000) tax credit—further reducing the overall system cost and encouraging additional deployments of rooftop solar in Georgia. Nationally, it is estimated that this credit will allow 7.5 million more residential customers to install solar, reducing the cost to install these systems at an estimated $9,000 over the life of the system, or at least $300 per year.
+The IRA represents a first-of-its-kind expansion of federal subsidies for rooftop solar, and the Commission should consider the magnitude of these historic federal investments before significantly altering Georgia’s longstanding net metering policy. As I have explained in my testimony, Georgia has struck the right balance by encouraging renewable energy development without significantly increasing electric rates or negatively impacting the reliability of the electric system. As a result of the IRA, Georgia is likely to see considerable growth in the rooftop solar market in the coming years—without any modification to Georgia’s existing compensation structures for customer-owned generation. As stated previously, I strongly disagree with compensating customer-generators at a rate that exceeds the value such resources provide to the grid. As such, I recommend that the Commission carefully consider not only whether additional ratepayer dollars are actually needed to encourage rooftop solar investment in the first place, but whether it is appropriate to subsidize rooftop solar at the expense of other customers. Given the generous benefits provided by the IRA and Georgia’s proven track record in developing these resources, I conclude that further ratepayer investments are not needed to encourage this growth, and additional subsidies would likely result in nothing more than additional windfall payments to solar installers and developers on the backs of other ratepayers.
+Q.HOW SHOULD GEORGIA COMPENSATE CUSTOMER-OWNED GENERATION? 
+A.The Commission has been calculated, measured, and conservative as to the integration of utility-scale solar PV into the grid. It now has a policy choice with respect to distributed solar PV. Based on the aforementioned discussion of issues and impacts associated with compensating net metering solar customer-generators at approximately the retail rate, as is done with monthly netting, I recommend that the Commission not extend the monthly netting pilot or methodology in Georgia. As mentioned upfront in my testimony, I do not offer a recommendation for a specific rate for solar customer-generators. However, I do recommend that, moving forward, the Commission guard against enacting any program that over-subsidizes solar customer-generators, particularly given the robust set of incentives to be delivered by the federal IRA. Any net metering policy should therefore align with the broader energy legacy objectives of Georgia as pertains to fairness, affordability, energy diversity and reliability. Specifically, any policy objectives for compensating solar customer-generators, as first principles, should:
+Provide equitable credit to those who choose to be solar customer-generators;
+Retain energy diversity as Georgia determines its own long-term energy transition priorities, irrespective of the direction taken by some states with more aggressive net metering policies; and 
+Avoid shifting any costs to ratepayers who elect not to or are unable to participate in distributed solar PV.
+Electricity from the grid is more than a resource or commodity—it is a service from a utility that comes with a 24/7 commitment that if service is ever disrupted, the utility responds and restores service. The value of this service and commitment is calculated into the retail rate. This value is something solar customer-generators do not, and cannot, provide. They are therefore not entitled to receive equal compensation at or near the retail rate for their excess energy. This is not intended to discourage distributed solar PV, but is only intended to keep the value prospect of electricity from a solar customer-generator in the proper comparative context with the value prospect of the electrical service supplied from the utility. They are not equivalent. Therefore, state energy policy should not artificially equate these resources through a policy such as monthly net metering.
+CONCLUSION
+Q.DO YOU HAVE ANY FINAL RECOMMENDATIONS?
+A.Yes. Rather than extend the monthly netting pilot first approved in the 2019 base rate case, I recommend the Commission adopt compensation rates for rooftop solar customers that ensure these customers pay their fair share of the Company’s cost of service while receiving appropriate compensation for the excess energy they provide to the grid. When adopting such a compensation rate, the Commission should avoid disproportionately shifting costs to customers who are not participating in distributed solar generation. By compensating customers with BTM generation at close to the retail rate, monthly netting worsens this cost shift. Ultimately, the goal of the Commission should be twofold—to protect customers from these cost shifts while simultaneously enabling the development of rooftop solar in Georgia. I contend that with revised compensation rates that more accurately and fairly compensate these resources, coupled with the generous incentives provided by the IRA, the Commission can strike the right balance between these two objectives. 
+Q.DOES THIS CONCLUDE YOUR TESTIMONY?
+A.Yes.

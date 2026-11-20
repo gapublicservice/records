@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73612,
+      "bytes": 131342,
+      "fetched": "2026-11-20T08:35:32+00:00",
+      "name": "44280 Mugrace Testimony Public.docx",
+      "sha256": "f66a92459b39e55f56237146f721a86ec3624903041fbc4fab20a47d1b7ebeba",
+      "text": "docx",
+      "text_file": "data/text/191/191872/73612.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191872/73612"
+    },
+    {
+      "attachment_id": 73613,
+      "bytes": 240766,
+      "fetched": "2026-11-20T08:35:33+00:00",
+      "name": "Exhibit DM-2 Public Disclosure Version.pdf",
+      "sha256": "0908173618b22c805ea6e3b7602c5dbbd421dbf13fd56f65fa1ad0625eda4643",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191872/73613.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191872/73613"
+    },
+    {
+      "attachment_id": 73614,
+      "bytes": 468443,
+      "fetched": "2026-11-20T08:35:34+00:00",
+      "name": "Mugrace Testimony Public Disclosure.pdf",
+      "sha256": "e9a108680b6e3c943d42f0ff04836c64ca3ab425853bc5ac962c934c1144849e",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191872/73614.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191872/73614"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Dante Mugrace",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191872,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191872"
+}

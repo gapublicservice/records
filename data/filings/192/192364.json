@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74126,
+      "bytes": 565604,
+      "fetched": "2026-11-20T08:45:02+00:00",
+      "name": "44280_chargepoint_brief.pdf",
+      "sha256": "ec65e947f78637e85e9f8b3bcf63b51d038953c65e71ebfec58b83a515f1a35e",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192364/74126.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192364/74126"
+    }
+  ],
+  "company": "ChargePoint, Inc.",
+  "description": "Post-Hearing Brief of ChargePoint, Inc.",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192364,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192364"
+}

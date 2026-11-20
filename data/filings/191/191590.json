@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73268,
+      "bytes": 351133,
+      "fetched": "2026-11-20T08:29:47+00:00",
+      "name": "documents (44).zip",
+      "sha256": "7ffa954212e4fa358f40ff1d66c4808e6902bb53beff661332899403b4270cca",
+      "text": "zip (2 read)",
+      "text_file": "data/text/191/191590/73268.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191590/73268"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Objection and Response to Lightstar Renewables, LLC Application to Intervene",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191590,
+  "filed_date": "2022-09-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-09-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191590"
+}

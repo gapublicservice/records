@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 75240,
+      "bytes": 252096,
+      "fetched": "2026-11-20T09:06:56+00:00",
+      "name": "STF-PIA-15.DR-44280.docx",
+      "sha256": "e6717ab9de3eb81c009cdcbc669ad4759d2a7aad46b9081640e75421cc9125a5",
+      "text": "docx",
+      "text_file": "data/text/193/193607/75240.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/193607/75240"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-PIA-15)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 193607,
+  "filed_date": "2023-03-15",
+  "harvested": "2026-11-20",
+  "received_date": "2023-03-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=193607"
+}

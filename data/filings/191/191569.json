@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73248,
+      "bytes": 651384,
+      "fetched": "2026-11-20T08:29:21+00:00",
+      "name": "dkt_44280_stf-pcmg-2-23_supp.zip",
+      "sha256": "53c497b60717d1e774c61863975c496ca331541577432b8611e7f9b394f8c3d0",
+      "text": "zip (3 read)",
+      "text_file": "data/text/191/191569/73248.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191569/73248"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-PCMG-2-23 Supplemental Response",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191569,
+  "filed_date": "2022-09-16",
+  "harvested": "2026-11-20",
+  "received_date": "2022-09-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191569"
+}

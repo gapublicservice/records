@@ -1,0 +1,36 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73641,
+      "bytes": 2047380,
+      "fetched": "2026-11-20T08:35:13+00:00",
+      "name": "Alvarez-Stephens 44280 Public Disclosure Testimony.docx",
+      "sha256": "48d76292811ffe1a4ca6b403ce27bb999fbb7f85d131f87672f671a860df5957",
+      "text": "docx",
+      "text_file": "data/text/191/191867/73641.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191867/73641"
+    },
+    {
+      "attachment_id": 73642,
+      "bytes": 3132721,
+      "fetched": "2026-11-20T08:35:14+00:00",
+      "name": "Alvarez-Stephens 44280 Public Disclosure Testimony.pdf",
+      "sha256": "3448547de70960e81adfb8b335aea1efb3d46a256b753b837204e92ffa95fd9f",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191867/73642.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191867/73642"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Paul J. Alvarez and Dennis Stephens",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191867,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191867"
+}

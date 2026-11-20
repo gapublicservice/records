@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 75058,
+      "bytes": 218127,
+      "fetched": "2026-11-20T09:04:14+00:00",
+      "name": "44280.Compliance Filing Order.docx",
+      "sha256": "47994dbefcc804e89939664208f5e95531fe2cd5a0ca30e72efdbe86e413c936",
+      "text": "docx",
+      "text_file": "data/text/193/193447/75058.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/193447/75058"
+    },
+    {
+      "attachment_id": 75059,
+      "bytes": 904789,
+      "fetched": "2026-11-20T09:04:15+00:00",
+      "name": "193447.pdf",
+      "sha256": "54f46965622e537f00e89f563d3977452680cfe0efbf9630bc60f77965113be4",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/193447/75059"
+    }
+  ],
+  "company": "GPSC",
+  "description": "COMPLIANCE ORDER",
+  "dockets": [
+    44280
+  ],
+  "document_id": 193447,
+  "filed_date": "2023-02-27",
+  "harvested": "2026-11-20",
+  "received_date": "2023-02-27",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=193447"
+}

@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74132,
+      "bytes": 138510,
+      "fetched": "2026-11-20T08:45:11+00:00",
+      "name": "aace_hearing_brief.zip",
+      "sha256": "7b05e120d14e64958f58da8661c734ac37cdc711ff2bc2ad72cf691b9ff7e2e6",
+      "text": "zip (1 read, 1 not read)",
+      "text_file": "data/text/192/192370/74132.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192370/74132"
+    }
+  ],
+  "company": "Americans for Affordable Clean Energy",
+  "description": "Hearing Brief of Americans for Affordable Clean Energy",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192370,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192370"
+}

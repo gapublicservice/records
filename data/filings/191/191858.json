@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73591,
+      "bytes": 86277,
+      "fetched": "2026-11-20T08:34:55+00:00",
+      "name": "kroger_not_filing_testimony_44280.pdf",
+      "sha256": "d17d6ad10301f7a2978db8eb345ee8a2f8b7e2da9fc7042a0c642aa627bf2312",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191858/73591.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191858/73591"
+    }
+  ],
+  "company": "The Kroger Co.",
+  "description": "Letter advising the Commission that The Kroger Co. has elected NOT to file Testimony.",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191858,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191858"
+}

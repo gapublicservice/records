@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74125,
+      "bytes": 326151,
+      "fetched": "2026-11-20T08:45:00+00:00",
+      "name": "marta.zip",
+      "sha256": "aa56b89908e92869a96bc6ad18d430aaf269140d9c9ee243e673e4e33696f2e4",
+      "text": "zip (2 read)",
+      "text_file": "data/text/192/192363/74125.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192363/74125"
+    }
+  ],
+  "company": "Metropolitan Atlanta Rapid Transit Authority",
+  "description": "Post Hearing Brief (and Proposed Order) of Metropolitan Atlanta Transit Authority",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192363,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192363"
+}

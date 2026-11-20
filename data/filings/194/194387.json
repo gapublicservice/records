@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 75803,
+      "bytes": 158488,
+      "fetched": "2026-11-20T09:20:04+00:00",
+      "name": "dkt_44280_ev_community_charging_plan_update.zip",
+      "sha256": "499ed10bcbe4c19de0d8cd0fe4bffa09497530542e3b8e5e3190cac6717239ae",
+      "text": "zip (2 read, 1 not read)",
+      "text_file": "data/text/194/194387/75803.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/194387/75803"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 EV Community Charging Plan Update",
+  "dockets": [
+    44280
+  ],
+  "document_id": 194387,
+  "filed_date": "2023-05-08",
+  "harvested": "2026-11-20",
+  "received_date": "2023-05-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=194387"
+}

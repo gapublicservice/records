@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74113,
+      "bytes": 405182,
+      "fetched": "2026-11-20T08:44:40+00:00",
+      "name": "gpsc_44280_evgo_post_hearing_brief.pdf",
+      "sha256": "8c8c1df1a6db531a8254434be953eeb4d780e52c4cd782a57428797f79ce7f19",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192353/74113.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192353/74113"
+    }
+  ],
+  "company": "EVgo Services, LLC",
+  "description": "EVgo's Post-Hearing Brief and Proposed Order",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192353,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192353"
+}

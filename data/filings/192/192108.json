@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73889,
+      "bytes": 657216,
+      "fetched": "2026-11-20T08:40:13+00:00",
+      "name": "dkt_44280_stf-tai-8_supplemental.zip",
+      "sha256": "4588a067c0a493c28be81500c91c178ffcf49e74f97b222b17934c3a44698cc1",
+      "text": "zip (2 read, 1 not read)",
+      "text_file": "data/text/192/192108/73889.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192108/73889"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-TAI-8-9 Supplemental Response",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192108,
+  "filed_date": "2022-11-15",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192108"
+}

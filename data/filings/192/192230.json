@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74000,
+      "bytes": 2182605,
+      "fetched": "2026-11-20T08:42:33+00:00",
+      "name": "dkt_44280_hr-2 (2).zip",
+      "sha256": "ae9136d5a1dd723f00580e57a206cf0dd9fd47a3627e93c062ecc0c596fef908",
+      "text": "zip (3 read, 1 not read)",
+      "text_file": "data/text/192/192230/74000.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192230/74000"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Hearing Request Responses HR-2",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192230,
+  "filed_date": "2022-11-28",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-28",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192230"
+}

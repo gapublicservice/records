@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74138,
+      "bytes": 1374227,
+      "fetched": "2026-11-20T08:45:22+00:00",
+      "name": "documents (33).zip",
+      "sha256": "45fa5c5df528ea312562aec6bf18b7b9a6a4bbfd87be13053360348f01d2e9fb",
+      "text": "zip (3 read)",
+      "text_file": "data/text/192/192376/74138.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192376/74138"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Post Hearing Brief and a Proposed Order",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192376,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192376"
+}

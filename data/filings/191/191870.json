@@ -1,0 +1,46 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73629,
+      "bytes": 685173,
+      "fetched": "2026-11-20T08:35:23+00:00",
+      "name": "Public Disclosure Version - Direct Testimony of Michael P. Gorman.pdf",
+      "sha256": "afaa6790f8fc64b942ec45f78bd9b9f9c1f6d8f1b2b5bae3aadbf90d3f9d8d07",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191870/73629.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191870/73629"
+    },
+    {
+      "attachment_id": 73630,
+      "bytes": 561705,
+      "fetched": "2026-11-20T08:35:24+00:00",
+      "name": "Exhibit___(MPG-1) through Exhibit___(MPG-23).pdf",
+      "sha256": "61830fb91a3b601b8e1ed8467cf8783d3016913377221a8607cd2b20728f12c7",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191870/73630.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191870/73630"
+    },
+    {
+      "attachment_id": 73631,
+      "bytes": 555616,
+      "fetched": "2026-11-20T08:35:25+00:00",
+      "name": "44280.Cover Ltr.pdf",
+      "sha256": "47493cd4800c367b7ef387593d27db1a4ddbbf5d3a292c0fb9fe051acb4430c6",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191870/73631"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Michael P. Gorman",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191870,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191870"
+}

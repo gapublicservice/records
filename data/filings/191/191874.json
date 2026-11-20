@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73632,
+      "bytes": 85875,
+      "fetched": "2026-11-20T08:35:39+00:00",
+      "name": "Docket 44280 Testimony of Raj Rana Public Disclosure Version.docx",
+      "sha256": "118d0bf8445a05db099400d1ed64bc7df506e9dcaf871c92aca4c3cc023d0085",
+      "text": "docx",
+      "text_file": "data/text/191/191874/73632.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191874/73632"
+    },
+    {
+      "attachment_id": 73633,
+      "bytes": 321438,
+      "fetched": "2026-11-20T08:35:40+00:00",
+      "name": "Docket 44280 Testimony of Raj Rana Public Disclosure Version.pdf",
+      "sha256": "89b7642a6835eab43df95e62e7d0463ace93ed45e7fa15f48c701b8407b2a15d",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191874/73633.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191874/73633"
+    },
+    {
+      "attachment_id": 73634,
+      "bytes": 210020,
+      "fetched": "2026-11-20T08:35:41+00:00",
+      "name": "Docket 44280 Testimony of Raj Rana Exhibit RR-1.pdf",
+      "sha256": "01abe37b68dc4cb9741e69bf50624ab60bcfc4781c87758581f3e2d4622c6442",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191874/73634.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191874/73634"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Rajendrasinh (Raj) Rana",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191874,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191874"
+}

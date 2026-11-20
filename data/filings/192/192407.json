@@ -1,0 +1,78 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74170,
+      "bytes": 210388,
+      "fetched": "2026-11-20T08:45:57+00:00",
+      "name": "44280.Rate Case Stip Cover.docx",
+      "sha256": "b3d08545ab64142aa431b3cf0e2d544a3670ff8677003168ffd661e48138557e",
+      "text": "docx",
+      "text_file": "data/text/192/192407/74170.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74170"
+    },
+    {
+      "attachment_id": 74171,
+      "bytes": 669917,
+      "fetched": "2026-11-20T08:45:58+00:00",
+      "name": "44280.signed cover.pdf",
+      "sha256": "f89639e49a683699d5701cf27212bb7142ec181847219ed85be497b77f734a17",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74171"
+    },
+    {
+      "attachment_id": 74172,
+      "bytes": 19734,
+      "fetched": "2026-11-20T08:45:59+00:00",
+      "name": "44280.Electric Transportation Programs Term Sheet Staff 12.14.22.DOCX",
+      "sha256": "9f42fd4aa8e289e1c941cb93af510a77f8ceabe676c4a897a3cae61e15181b46",
+      "text": "docx",
+      "text_file": "data/text/192/192407/74172.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74172"
+    },
+    {
+      "attachment_id": 74173,
+      "bytes": 100539,
+      "fetched": "2026-11-20T08:46:00+00:00",
+      "name": "44280.GP-Exhibit A-Co. Offer F.pdf",
+      "sha256": "63c9e09d396f831bc63b9afffca5fd07a14cce23bc01cc4cf480bdbf0684ab59",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192407/74173.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74173"
+    },
+    {
+      "attachment_id": 74174,
+      "bytes": 7682323,
+      "fetched": "2026-11-20T08:46:01+00:00",
+      "name": "44280.Signed.pdf",
+      "sha256": "1099a1a3fb4e6cbbe100a5eac4b507903f5280100992dd5c61fbb61fea5a9b78",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74174"
+    },
+    {
+      "attachment_id": 74175,
+      "bytes": 29742,
+      "fetched": "2026-11-20T08:46:02+00:00",
+      "name": "44280.2022 Rate Case Stipulation FINAL.docx",
+      "sha256": "e338eca87d34c3e86e19ef433f7d5b6267bd5a94733975a2f8252b6f6d76bb23",
+      "text": "docx",
+      "text_file": "data/text/192/192407/74175.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192407/74175"
+    }
+  ],
+  "company": "Staff",
+  "description": "Stipulated Agreement",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192407,
+  "filed_date": "2022-12-14",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192407"
+}

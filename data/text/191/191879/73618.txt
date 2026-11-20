@@ -1,0 +1,49 @@
+===== Docket 44280 STF-TAI-7-1 Revised/DRSUM_44280_STF-TAI-7 Revised (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:      October 20, 2022
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+44280
+STF-TAI-7
+1
+REVISED
+NONE
+
+
+===== Docket 44280 STF-TAI-7-1 Revised/STF-TAI-7-1 Revised Response.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-TAI-7
+
+
+STF-TAI-7-1
+
+Question:
+
+Please provide all data, studies and analyses that have been performed by, or on behalf of, the Company regarding cost shifting, revenue erosion, or that indicate rooftop solar customers on the RNR Monthly Netting tariff are not paying their full cost of service.  Please describe in detail how each analysis was performed and provide all studies and analyses in Excel format with formulas intact.
+
+Response:
+
+Please see STF-TAI-7 Attachment A and STF-TAI-7 Attachment B for the data, studies, and analyses performed by the Company to evaluate the cost shift from participants in the RNR Monthly Netting pilot.  
+
+STF-TAI-7 Attachment A file
+Attachment A contains a population of 1,110 RNR Monthly Netting participants who accumulated a full 12 months of experience on the pilot program in 2021. For this sample, the Company gathered the metered readings (both delivered and pushed back energy) from 2021 as well as the installed panel capacities for each customer. The Company was able to estimate the annual usage before solar for each of the 1,110 participants from this data. Using the before solar usages, the customers were then segmented into quartiles.
+
+The Summary tab shows the average estimated annual usage before solar and the average installed panel capacities for the customers within each grouping. These results were used as the basis for selecting residential samples to evaluate the cost shift from the RNR Monthly Netting pilot. The use of residential samples was necessary to perform the detailed analysis since hourly interval usage data is not available for the population of RNR customers, nor does the Company have access to hourly production data for the behind-the-meter solar generators.
+
+STF-TAI-7 Attachment B 
+Attachment B is a dynamic model that was developed to analyze the cost shift from the RNR Monthly Netting pilot. Based on the quartile groups from STF-TAI-7 Attachment A, the Company selected four representative residential hourly loadshapes, ensuring that each sample closely matched the annual usage profile and did not have solar already installed behind-the-meter. This sampling served as the basis for each quartile’s before-solar hourly loadshape.
+
+Next, an hourly solar load profile was generated from PV Watts based on each sample customer’s specific address and using the panel size for the corresponding average installed solar capacity for each quartile. Each quartile’s before-solar hourly loadshape was netted with the PV watts hourly solar shape to create an after-solar loadshape.   
+
+Using the before and after-solar hourly loadshapes, the Company developed the insights and billing determinants applied to the energy-related costs derived from the cost-of-service study to calculate the cost shift associated with the Monthly Netting pilot participants. 
+
+The results of the analysis are shown on the Matrix tab where the Company summarizes the cost shift for the Monthly Netting pilot, with results provided for each quartile as well as for the average participant – which was further extrapolated to the 5,000 customer population.

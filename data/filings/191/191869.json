@@ -1,0 +1,56 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73602,
+      "bytes": 350132,
+      "fetched": "2026-11-20T08:35:18+00:00",
+      "name": "Staff Revenue Forecast Panel 10-20-22.PublicDisclosure.pdf",
+      "sha256": "79d0e8a809f962acf16a2fa5e31b6ef38d4b96e77a597a6a760064cd5834021c",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191869/73602.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191869/73602"
+    },
+    {
+      "attachment_id": 73603,
+      "bytes": 111839,
+      "fetched": "2026-11-20T08:35:19+00:00",
+      "name": "Staff Revenue Forecast Panel 10-20-22.PublicDisclosure.docx",
+      "sha256": "645bb6e2740730c4cc8277aebec49046746ef01ace119db94613e0cc7537cca5",
+      "text": "docx",
+      "text_file": "data/text/191/191869/73603.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191869/73603"
+    },
+    {
+      "attachment_id": 73604,
+      "bytes": 180224,
+      "fetched": "2026-11-20T08:35:20+00:00",
+      "name": "STF-BW-1.doc",
+      "sha256": "63535f3476b6faa461f426bf67b91fc2a5eb6470865a8aa8a9fd5fba9e357ea0",
+      "text": "not read: .doc",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191869/73604"
+    },
+    {
+      "attachment_id": 73605,
+      "bytes": 93696,
+      "fetched": "2026-11-20T08:35:21+00:00",
+      "name": "STF-BW-2.doc",
+      "sha256": "fac705d5e8bd9c63dc2b63b377337e63214ad341f0d32788b8d8d89b3aba189a",
+      "text": "not read: .doc",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191869/73605"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Stephen J. Baron and Leah Wellborn",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191869,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191869"
+}

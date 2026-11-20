@@ -1,0 +1,46 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74313,
+      "bytes": 13246,
+      "fetched": "2026-11-20T08:48:25+00:00",
+      "name": "2022 Rate Case GPC Supplemental Order (Nuclear Decommissioning).DOCX",
+      "sha256": "550c23ffcb1f83786fb0c0fc134144b7a4b92791200a54421315f71bb220dc15",
+      "text": "docx",
+      "text_file": "data/text/192/192545/74313.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192545/74313"
+    },
+    {
+      "attachment_id": 74314,
+      "bytes": 776260,
+      "fetched": "2026-11-20T08:48:27+00:00",
+      "name": "Nuclear Decommissioning Supplemental Order - Exhibit A.pdf",
+      "sha256": "091d8a9ce0aabfa454a48817116ca8e46cf0732ff924f4eba03ced1ddd0902df",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192545/74314.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192545/74314"
+    },
+    {
+      "attachment_id": 74315,
+      "bytes": 929959,
+      "fetched": "2026-11-20T08:48:27+00:00",
+      "name": "192545.pdf",
+      "sha256": "94a547da7794ddab16851a25597d6f4343369ea9aeeb59766cfeed7d17d089db",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192545/74315"
+    }
+  ],
+  "company": "GPSC",
+  "description": "SUPPLEMENTAL ORDER ND",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192545,
+  "filed_date": "2022-12-30",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192545"
+}

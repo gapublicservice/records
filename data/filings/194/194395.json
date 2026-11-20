@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 75822,
+      "bytes": 133250,
+      "fetched": "2026-11-20T09:20:14+00:00",
+      "name": "new_scan_20230510132013.pdf",
+      "sha256": "0129cb6359b0e50f26474b2070edfdd6af6f6c5d545c4431f097335e678ab6c8",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/194395/75822"
+    }
+  ],
+  "company": "Friendly Express Inc.",
+  "description": "Notice of Intent to provide an Electric Vehicle Charging Station - 15 miles of Jesup, US 84 & US341",
+  "dockets": [
+    44280
+  ],
+  "document_id": 194395,
+  "filed_date": "2023-05-08",
+  "harvested": "2026-11-20",
+  "received_date": "2023-05-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=194395"
+}

@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74145,
+      "bytes": 1970290,
+      "fetched": "2026-11-20T08:45:26+00:00",
+      "name": "PIAS Post-Hearing Brief1.pdf",
+      "sha256": "05189bf94ff77d0dc7ac566dace54608239ba129df302f37bb560f1b47fd0fa7",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192379/74145.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192379/74145"
+    }
+  ],
+  "company": "Staff",
+  "description": "POST-HEARING BRIEF OF THE PUBLIC INTEREST ADVOCACY STAFF",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192379,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192379"
+}

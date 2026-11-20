@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73405,
+      "bytes": 1325048,
+      "fetched": "2026-11-20T08:30:49+00:00",
+      "name": "documents (45).zip",
+      "sha256": "b6a1f3622da4f486b3b5f4a8100317867bf8f27a5a34bc58a4e78f25f77529c6",
+      "text": "zip (2 read)",
+      "text_file": "data/text/191/191641/73405.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191641/73405"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Errata to the projected test period revenues for the Fixed Price Alternative rate",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191641,
+  "filed_date": "2022-09-28",
+  "harvested": "2026-11-20",
+  "received_date": "2022-09-28",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191641"
+}

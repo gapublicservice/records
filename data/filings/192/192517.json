@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74288,
+      "bytes": 8386354,
+      "fetched": "2026-11-20T08:47:55+00:00",
+      "name": "2022_rate_case_settlement_agreement_adding_kroger.pdf",
+      "sha256": "05990174ba6bfa4e7e36741ac1b11faa1c9cf00bfe5c2306b76880ebf3dfa26e",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192517/74288.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192517/74288"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Filing of the Settlement Agreement to Include The Kroger Co",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192517,
+  "filed_date": "2022-12-22",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-22",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192517"
+}

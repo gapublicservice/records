@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73601,
+      "bytes": 252840,
+      "fetched": "2026-11-20T08:35:54+00:00",
+      "name": "direct_testimony_of_kevin_hurley_-_10_20_2022.pdf",
+      "sha256": "2e29956408e1596d6881dbd28c051769557bcf71579e6ea3c5058f4b19fbadf6",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191878/73601.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191878/73601"
+    }
+  ],
+  "company": "Metropolitan Atlanta Rapid Transit Authority",
+  "description": "Direct Testimony of Kevin Hurley on behalf of MARTA",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191878,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191878"
+}

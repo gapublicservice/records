@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74165,
+      "bytes": 256990,
+      "fetched": "2026-11-20T08:45:49+00:00",
+      "name": "STF-WG-8.DR-44280.docx",
+      "sha256": "794cafcd7472389c9daa5dba52bbe2ca6c51d1e8591ebfe66c05da9fc07f9035",
+      "text": "docx",
+      "text_file": "data/text/192/192400/74165.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192400/74165"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-WG-8)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192400,
+  "filed_date": "2022-12-14",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-14",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192400"
+}

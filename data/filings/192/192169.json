@@ -1,0 +1,46 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73948,
+      "bytes": 132839,
+      "fetched": "2026-11-20T08:41:23+00:00",
+      "name": "44280.Suplemental Direct Testimony.cover ltr.pdf",
+      "sha256": "02deff40227a597751ec1f81ce830ccf1992a60ce4d791c7a05ad56fb3527c94",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192169/73948"
+    },
+    {
+      "attachment_id": 73949,
+      "bytes": 91725,
+      "fetched": "2026-11-20T08:41:24+00:00",
+      "name": "44280.RNR Monthly Netting Testimony.docx",
+      "sha256": "616cbc21f227b65101097fd550c9160321a9d46457020cd99fa024afada989ce",
+      "text": "docx",
+      "text_file": "data/text/192/192169/73949.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192169/73949"
+    },
+    {
+      "attachment_id": 73950,
+      "bytes": 4480393,
+      "fetched": "2026-11-20T08:41:25+00:00",
+      "name": "44280.RNR Monthly Netting Testimony-Staff Exhibits-PD.pdf",
+      "sha256": "5ceab943f607003e160aa3691411566744d951893b7dcebb7347174d1beee535",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192169/73950.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192169/73950"
+    }
+  ],
+  "company": "Staff",
+  "description": "Supplemental Direct Testimony and Staff Exhibits",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192169,
+  "filed_date": "2022-11-18",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-18",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192169"
+}

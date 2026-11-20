@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73818,
+      "bytes": 209603,
+      "fetched": "2026-11-20T08:38:59+00:00",
+      "name": "Third Amended PSO 44280.docx",
+      "sha256": "3e8eba52de7c20b5c79565c23d1bb5565e11493363ba18bf0245f66901a88e9d",
+      "text": "docx",
+      "text_file": "data/text/192/192039/73818.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192039/73818"
+    },
+    {
+      "attachment_id": 73819,
+      "bytes": 609529,
+      "fetched": "2026-11-20T08:39:00+00:00",
+      "name": "192039.pdf",
+      "sha256": "1d063f318b6a6de23e6b96d753663bb971607f8c018422a967f9f4ba1f9eca53",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192039/73819"
+    }
+  ],
+  "company": "GPSC",
+  "description": "THIRD AMENDED PROCEDURAL AND SCHEDULING ORDER",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192039,
+  "filed_date": "2022-11-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192039"
+}

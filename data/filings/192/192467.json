@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74238,
+      "bytes": 8195475,
+      "fetched": "2026-11-20T08:47:03+00:00",
+      "name": "settlement_agreement_adding_intervenors.pdf",
+      "sha256": "4fe0a8f5e4104bf0c67fd27eff2307f42f1d01001313266d81c160977c9be72e",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192467/74238.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192467/74238"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Filing of Settlement Agreement Adding Intervenors",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192467,
+  "filed_date": "2022-12-16",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-16",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192467"
+}

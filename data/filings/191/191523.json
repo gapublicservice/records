@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73237,
+      "bytes": 253750,
+      "fetched": "2026-11-20T08:28:34+00:00",
+      "name": "STF-TAI-6.DR-44280.docx",
+      "sha256": "fc3a0313d68ebffe5daaffde9389fef0f0a1b2a504804793c5500735c965c699",
+      "text": "docx",
+      "text_file": "data/text/191/191523/73237.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191523/73237"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-TAI-6)",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191523,
+  "filed_date": "2022-09-15",
+  "harvested": "2026-11-20",
+  "received_date": "2022-09-15",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191523"
+}

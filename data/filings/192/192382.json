@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74146,
+      "bytes": 20228,
+      "fetched": "2026-11-20T08:45:30+00:00",
+      "name": "RSM Brief 44280.docx",
+      "sha256": "5510704e5246fa7d73a8c5ad93a7e18cbe050685dc743ba07bcb029b5e804e59",
+      "text": "docx",
+      "text_file": "data/text/192/192382/74146.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192382/74146"
+    }
+  ],
+  "company": "Resource Supply Management",
+  "description": "Post Hearing Brief RSM",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192382,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192382"
+}

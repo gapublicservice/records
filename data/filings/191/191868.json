@@ -1,0 +1,36 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73615,
+      "bytes": 355163,
+      "fetched": "2026-11-20T08:35:15+00:00",
+      "name": "Barber Deitchman Watkins Testimony (Public Disclosure).docx",
+      "sha256": "8955ea6ab0562e1d771a548948bf87922f521639d1e630a8d66ccbd39909248a",
+      "text": "docx",
+      "text_file": "data/text/191/191868/73615.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191868/73615"
+    },
+    {
+      "attachment_id": 73616,
+      "bytes": 11831994,
+      "fetched": "2026-11-20T08:35:17+00:00",
+      "name": "Staff Exhibits - ALL - Public Disclosure.pdf",
+      "sha256": "d7119fd9dc6107a63148e961a4672f99c34739e5cdded9620e6a2c25d628c78e",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191868/73616.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191868/73616"
+    }
+  ],
+  "company": "Staff",
+  "description": "Joint Direct Testimony and Exhibits of Jamie Barber, Benjamin Deitchman, and Glenn A. Watkins",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191868,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191868"
+}

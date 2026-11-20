@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74134,
+      "bytes": 136008,
+      "fetched": "2026-11-20T08:45:15+00:00",
+      "name": "aace_response_letter.pdf",
+      "sha256": "a03ae5c43b9a5d68d3845c60a63556708f5d5d3f7824f1caa8e2ddfe92bb66c7",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192372/74134.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192372/74134"
+    }
+  ],
+  "company": "Americans for Affordable Clean Energy",
+  "description": "AACE Response Letter",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192372,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192372"
+}

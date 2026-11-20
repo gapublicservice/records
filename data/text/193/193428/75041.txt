@@ -1,0 +1,710 @@
+===== DKT 44280 STF-PIA-13 PD/DRSUM_44280_STF-PIA-13 (stamp).docx =====
+GEORGIA POWER COMPANY
+
+SUMMARY DATA REQUEST RESPONSE TRANSMITTAL
+
+                                  DATE:    February 27, 2023
+
+DOCKET
+SET NUMBER
+RESPONSE NUMBER
+STATUS
+COMMENTS
+44280
+STF-PIA-13
+1
+COMPLETE
+NONE
+44280
+STF-PIA-13
+2
+COMPLETE
+TRADE SECRET
+44280
+STF-PIA-13
+3
+COMPLETE
+NONE
+44280
+STF-PIA-13
+4
+COMPLETE
+NONE
+44280
+STF-PIA-13
+5
+COMPLETE
+NONE
+44280
+STF-PIA-13
+6
+COMPLETE
+NONE
+44280
+STF-PIA-13
+7
+COMPLETE
+NONE
+44280
+STF-PIA-13
+8
+COMPLETE
+NONE
+44280
+STF-PIA-13
+9
+COMPLETE
+NONE
+44280
+STF-PIA-13
+10
+COMPLETE
+NONE
+44280
+STF-PIA-13
+11
+COMPLETE
+NONE
+44280
+STF-PIA-13
+12
+COMPLETE
+NONE
+44280
+STF-PIA-13
+13
+COMPLETE
+NONE
+44280
+STF-PIA-13
+14
+COMPLETE
+NONE
+44280
+STF-PIA-13
+15
+COMPLETE
+TRADE SECRET
+44280
+STF-PIA-13
+16
+COMPLETE
+NONE
+44280
+STF-PIA-13
+17
+COMPLETE
+NONE
+44280
+STF-PIA-13
+18
+COMPLETE
+NONE
+44280
+STF-PIA-13
+19
+COMPLETE
+NONE
+44280
+STF-PIA-13
+20
+COMPLETE
+NONE
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13 affidavit.pdf =====
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-1.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-1
+
+Question:
+
+Please describe the Company’s Knowledge Base and identify when it was implemented.
+
+Response:
+
+The Company’s Knowledge Base, as used by its Customer Services organizations, is a collection of information in the form of searchable articles that provides users with access to job aids, policy and standards, and frequently asked questions, among other useful documents.
+
+The Company transitioned its Customer Service Standards to a digital format in 1999 in the form of internal intranet pages via the platform TeamSite. Customer Service Standards were then included as content in the form of articles when the eGain knowledge base was launched in 2018.
+
+The current knowledge base was developed using the Oracle Knowledge Advanced (OKA) platform, which is a component of the Oracle Service Cloud CX platform. The OKA knowledge base was implemented in November of 2022.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-10.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-10
+
+Question:
+
+Can you provide an example of a complex query that the Knowledge Base system can handle?
+
+Response:
+
+An example of a complex query handled by the knowledge base is the process that allows a customer to rate a Frequently Asked Question (FAQ) article they are viewing from the Company’s external website.
+To complete this query, the Company’s online customer care page communicates via Oracle Integration Cloud (OIC), which calls more than one OKA application programming interface (API). The first API call retrieves the article record ID and the next API call sends the selected record ID of the customer’s rating of 1-5.
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-11.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-11
+
+Question:
+
+How does the Knowledge Base system handle language variations?
+
+Response:
+
+The existing dictionary can be modified to address sociolinguistic variations as needed.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-12.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-12
+
+Question:
+
+Does the Knowledge Base system have any built-in capabilities for data visualization or reporting?
+
+Response:
+
+Yes. Oracle Knowledge Advanced (OKA) provides built-in reporting capabilities including the ability to create charts, graphs, and dashboards.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-13.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-13
+
+Question:
+
+What type of knowledge does the Knowledge Base system cover, and in what formats?
+
+Response:
+
+The Knowledge Base is currently configured for six Content Types, all of which are articles: Announcement, Department Page, FAQ, Job Aid, Knowledge Document, and Policy & Standards.
+
+FAQ articles are intended for external customer consumption to address common inquiries.
+
+Job Aid, Knowledge Document, and Policy & Standards articles are for internal use primarily by customer service employees.
+
+Announcement articles provide insights as to new features, policy updates, or other useful information relevant to customer service employees.
+
+Department Page articles include contact information and other general information that specific customer service departments want to make available to internal agents.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-14.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-14
+
+Question:
+
+How are Georgia Power employees trained to used Knowledge Base?
+
+Response:
+
+Upon implementation of Oracle Knowledge Advanced (OKA), several announcements were emailed to employees to introduce the new system.  This included a job aid attachment with step-by-step instructions on how to launch and use the OKA portal to access knowledge articles, along with an accompanying video including the same steps and information.
+
+In addition, all customer service supervisors and managers were invited to a live demonstration of the OKA portal followed by a question-and-answer session.
+
+Newly hired customer service consultants are trained to use OKA as part of the new hire training program.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-15 Attachments A&B PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-PIA-13-15 Attachments A and B have been redacted in their entirety.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-15.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-15
+
+Question:
+
+Provide a list of training material used in teaching or preparing employees to use Knowledge Base.
+
+Response:
+
+Oracle Knowledge Advanced Customer Portal Job Aid (STF-PIA-13-15 Attachment A)
+OKA Overview (STF-PIA-13-15 Attachment B)
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-16.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-16
+
+Question:
+
+Provide a list of technical support documentation related to Knowledge Base.
+
+Response:
+
+Staff Management – Creating users, profiles, assigning permissions, and configuring passwords.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/core-features.html#staff-management  
+Application Appearance – Configuring navigation sets to be used by profile and customizable menus in managing answer access levels.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/core-features.html#navigation-sets
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/core-features.html#c_crm_admin_customizable_menus  
+Message Bases – Customizing the text/string that will be displayed in Customer Portal.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/core-features.html#c_Customizing_message_bases_bi1132951   
+Products and Categories – Groups the articles together.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/service.html#t_Associate_products_and_categories_to_an_answer_aq1131451  
+Service Level Agreements – Controls the type and amount of support offered to the customer (Customer Portal Users).
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/famug/service.html#service-level-agreements  
+Manage Content – Create, modify, and curate content records.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/manage-content.html#manage-content 
+Feedback - Manage how to gather and use the feedback to groom the knowledge base and improve content quality. 
+https://docs.oracle.com/en/cloud/saas/b2c-service/22d/faaka/c-Feedback.html
+Users – Manage access to the knowledge content and functionality.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/manage-users.html#manage-users 
+
+Repository – Create and maintain content types, workflows, and views.
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/manage-content-types.html#manage-content-types  
+Content Collection
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/configure-content-collections.html#configure-content-collections 
+Intent Builder
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/build-intents.html#build-intents 
+Manage Search Query
+ https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/tune-intelligent-search.html#tune-intelligent-search 
+Reporting
+https://docs.oracle.com/en/cloud/saas/b2c-service/21c/faaka/analyze-knowledge-advanced.html#analyze-knowledge-advanced
+The SSO configuration steps are here for Console.
+https://docs.oracle.com/en/cloud/paas/identity-cloud/idcsc/oracleservicecloud.html#before-you-begin  
+The SSO configuration steps are here for Customer Portal.
+https://cx.rightnow.com/app/answers/detail/a_id/5198/~/single-sign-on-customer-login-process  
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-17.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-17
+
+Question:
+
+In what format were Georgia Power Company’s customer service standards maintained prior to the adoption of Knowledge Base? Does the Company maintain a copy of its customer service standards that were used before Knowledge Base was implemented? If so, how far back in time are these customer service standards maintained?
+
+Response:
+
+Prior to implementation of Oracle Knowledge Advanced (OKA), Customer Service Standards were maintained in a knowledge base supplied by a third-party vendor, eGain Corporation. The eGain Knowledge Base was implemented in 2018. These articles are still accessible via the eGain Console.
+
+Prior to that system, Customer Service Standards were viewed and maintained via a series of intranet web pages using a platform known as TeamSite. These pages have since been retired and are no longer accessible.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-18.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-18
+
+Question:
+
+Describe the process to make changes to customer service standards at Georgia Power Company. How are these changes implemented in Knowledge Base?
+
+Response:
+
+Please see the Company’s response to STF-PIA-13-7.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-19.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-19
+
+Question:
+
+Does Georgia Power Company document changes to its customer service standards under the Knowledge Base system? If so, how and in what format are the changes documented?
+
+Response:
+
+Please see the Company’s response to STF-PIA-13-7.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-2 Attachment PUBLIC DISCLOSURE.docx =====
+
+PUBLIC DISCLOSURE
+
+
+STF-PIA-13-2 Attachment has been redacted in its entirety.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-2.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-2
+
+Question:
+
+Was Knowledge Base developed internally by Georgia Power Company, or was it developed by a third-party? If Knowledge Base was developed by a third-party, please provide a copy of the procurement contract.
+
+Response:
+
+The current knowledge base, Oracle Knowledge Advanced, was configured and implemented using Accenture as the third-party for said configuration and implementation. Please see STF-PIA-13-2 Attachment for the copy of the contract. 
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-20 Attachment.pdf =====
+                    STF-PIA-13-20 Attachment
+
+
+Customer Services
+
+
+                                               1
+
+                                                          STF-PIA-13-20 Attachment
+                      Customer Services
+
+
+                            Customer
+                           Services VP
+
+
+                                      Strategic
+                  Executive
+                                     Initiatives
+                  Secretary
+                                    Coordinator
+
+                  Customer           Managed       Digital Customer
+Customer Care
+                  Assistance         Accounts       Engagement &
+Center Director
+                   Director          Director           Systems
+
+
+                                                                                     22
+
+                                                                                                                                                                                                   STF-PIA-13-20 Attachment
+                                                                                                                    Customer Care
+
+
+                                                                                                              Customer Care
+                                                                                                                 Director
+
+
+                                                                                                                           Strategic
+                                                                                                   Administrative
+                                                                                                                           Initiative
+                                                                                                     Assistant
+                                                                                                                          Coordinator
+
+   Residential         Residential                                      Residential                                       Business
+                                                                                                                                                                                                     Operations
+Customer Service    Customer Service                                 Customer Service                                     Solutions
+                                                                                                                                                                                                      Manager
+    Manager             Manager                                          Manager                                          Manager
+
+   Customer               Customer               Residential                                                    Business              Builders &                 Technology
+                                                                        Team Lead          Bilingual                                                                                                Facilities        Critical Response
+    Services               Services               Services                                                     Solutions               Property                   Manager                                                                     ECR Analysts (2)
+                                                                        Supervisor        Supervisor                                                                                               Supervisor         Team Supervisor
+ Supervisors (6)        Supervisors (6)        Supervisors (4)                                               Supervisors (2)        Supervisors (2)
+
+                                                                            Customer                                                                      Technology          Online Support
+        Service                Service                Service                                 Service           Sales Consultants          Service                                                   Administrative        CRT Specialists.
+                                                                          Services Team                                                                   Supervisor          Supervisor (2)
+    Consultants (106)      Consultants (106)      Consultants (56)                         Consultants(14)             (24)            Consultants (28)                                                Assistant                (11)
+                                                                           Leads (13)
+
+
+                                                                                                                                                                                    Service                                  Scheduling
+                                                                                                                                                          Analyst (6)
+                                                                                                                                                                                Consultants (40)                             Analysts (3)
+
+
+                                                                                                                                                                                                                                                                 3
+
+                                                                                                                                                                                                                                                                          STF-PIA-13-20 Attachment
+                                                                                                                          Customer Assistance
+
+                                                                                                                                                     Customer Assistance Director
+
+
+                                                                                                                                     Administrative
+                                                                                                                                                                            Customer Service Analyst
+                                                                                                                                        Assistant
+
+
+                                Billing Services
+                                                                                                                                                               Credit & Collections Manager                                                                                          Energy Assistance Manager
+                                     Manager
+
+
+                                                                                                Administrative                                                          Collections
+Billings Services Supervisors (2)                  Flexible Solutions Supervisor                                 Credit & Collections Analysts (3)                                                     Revenue Assurance Supervisor              Active Collection Supervisor            Energy Assistance Coordinators (4)
+                                                                                                  Assistant                                                           Specialists (10)
+
+
+                  Billing Services                                                                                                                                                                                                                             Active Collection
+                                                            Flexible Solutions Team Lead                                                                                                                       Revenue Assurance Team Lead                                                Energy Assistance Supervisors(2)
+                  Team Leads (4)                                                                                                                                                                                                                                  Team Lead
+
+
+                    Accounting                                                                                                                                                                                                                                      Collections                    Care Team –
+                                                          Flexible Solutions Specialists (16)                                                                                                                   Revenue Assurance Analysts
+                  Specialists (54)                                                                                                                                                                                                                                Specialists (10)                  Team Lead
+
+
+                                                                                                                                                                                                                                                                                                    Care Team
+                                                                                                                                                                                                             Revenue Assurance Specialist (13)
+                                                                                                                                                                                                                                                                                                   Specialist (12)
+
+
+                                                                                                                                                                                                                                                                                                                              4
+
+                                                                         STF-PIA-13-20 Attachment
+                        Digital Customer Engagement & Systems
+
+
+                                     Digital Cust
+                                   Engagement &
+                                  Systems Manager
+
+
+                                                                     Business
+Strategic Support         Systems and
+                                              Digital Strategist   Engagement
+    Manager             Support Manager
+                                                                    Manager
+
+
+                               Systems &
+    Strategic Support
+       Analysts (9)             Support
+                              Analysts (10)
+
+
+                                                                                                    5
+
+                                                                                              STF-PIA-13-20 Attachment
+                                           Managed Accounts
+
+
+                                                  Managed
+                                                  Accounts
+                                                  Director
+
+
+                                    Administrative
+                                      Assistant
+
+
+Industrial        Industrial         Commercial                              MUSH II           Business
+                                                        MUSH I Segment
+ Segment           Segment            Segment                                Segment           Accounts
+                                                          Manager
+Managers          Manager             Manager                                Manager          Supervisor
+
+                                                                                                  Business
+   Key Account       Key Account        Key Account          Key Account      Key Account
+                                                                                                  Accounts
+  Managers (10)     Managers (10)       Managers (7)         Managers (9)     Managers (6)
+                                                                                                Consultants (9)
+
+
+  Key Accounts      Key Accounts        Key Accounts         Key Accounts     Key Accounts
+   Analysts (2)      Analysts (2)        Analysts (2)         Analysts (2)     Analysts (2)
+
+
+                                                                                                                         6
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-20.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-20
+
+Question:
+
+Please identify the number of customer service representatives employed by Georgia Power Company. Provide an organizational chart for the customer service portion of Georgia Power’s business identifying the number of employees and titles of customer service employees. 
+ 
+Response:
+
+Please see STF-PIA-13-20 Attachment for the organizational chart. There are currently a total of 647 employees in the Customer Services organization.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-3.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-3
+
+Question:
+
+Please identify the time period over which Knowledge Base was developed.
+
+Response:
+
+Please see the Company’s response to STF-PIA-13-1. The engagement to implement Oracle Knowledge Advanced (OKA) started in April 2022 and went live November 2022.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-4.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-4
+
+Question:
+
+Please explain the architecture and underlying technologies used in the knowledge base system.
+
+Response:
+
+Oracle Knowledge Advanced (OKA) is a component of Oracle Service Cloud configured by Southern Company to meet business needs. Knowledge Administrators utilize the Agent Desktop known as the Console to maintain user roles, views, workflows, and to author and publish knowledge Content Types, Categories, and Articles. Administrators can also view and respond to feedback submitted by Knowledge Users in the Customer Portal.
+
+Knowledge Users utilize the Customer Portal to access knowledge articles and documents based on the role(s) and view(s) assigned to them. Users can provide feedback, rate articles, and recommend new content within the Portal.
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-5.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-5
+
+Question:
+
+How is information indexed and stored in the Knowledge Base system?
+
+Response:
+
+Articles are indexed within Oracle Knowledge Advanced (OKA) based on Content Type. Authors further define information within each Content Type using Categories and Subcategories which contain Articles. Authors determine what Content Types, Categories, and Articles apply based upon the business needs.
+Current Content Types:
+Announcements
+Department Pages
+FAQs
+Job Aids
+Knowledge Documents
+Policy & Standards
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-6.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-6
+
+Question:
+
+How does the Knowledge Base system handle synonyms and related terms in queries?
+
+Response:
+
+The system dictionary uses concepts and synonyms to associate different words that have the same meaning with one another. A concept is simply a word and its synonyms, which the dictionary treats as a single object.
+
+Intelligent Search uses concepts to match words in both users’ questions and in the Knowledge Base content, based on their meaning. It also recognizes that some concepts are more important to users than others and uses that information to prioritize answers within search results.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-7.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-7
+
+Question:
+
+Please describe the process of updating and maintaining the Knowledge Base system.
+
+Response:
+
+Oracle Knowledge Advanced (OKA) was configured to include several console level roles. These include KB_Author, KB_Reviewer/Approver, and KB_Manager. These roles must be requested from the Southern Company CoolCompliance. Requests must be reviewed and approved by an application owner and the employee’s manager.
+
+Once approved, the user is provided access to the OKA Console where they can review, respond to, and implement suggestions for changes from end users to existing content within published articles.
+
+All changes to article content are subject to independent review and must be approved by a KB_Reviewer/Approver or KB_Manager before publishing. An audit history of changes is captured within the platform for comparison with the current version of published articles. The audit history captures Date and Time, User, Version, Action Taken, Workflow Used, and Comments. If needed, the author can perform a side-by-side comparison of two versions of the article and can roll back changes if needed.
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-8.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-8
+
+Question:
+
+How does the Knowledge Base system handle natural language queries?
+
+Response:
+
+A “locale” designates a language as it is used in a specific region or by a specific population. In applications that support multiple locales, each supported locale has a corresponding interface.
+
+A locale or language is assigned to a “collection” to determine the available interfaces. Collections can be assigned to locales to make them available to only one interface, assigned to languages to make them available to all interfaces based on that language, or assigned to “Auto” to make documents in the collection available to any interfaces based on the detected language.
+
+
+===== DKT 44280 STF-PIA-13 PD/STF-PIA-13-9.docx =====
+GEORGIA POWER COMPANY
+Docket No. 44280
+Georgia Power Company’s 2022 Rate Case
+Staff Data Request No. STF-PIA-13
+
+
+STF-PIA-13-9
+
+Question:
+
+How does the Knowledge Base system determine the relevance of search results?
+
+Response:
+
+Natural language search is enhanced by using a pre-packaged industry specific search dictionary to provide relevant search results to the word or phrase being searched. Articles can also be manually associated with one another, which provides additional relevant search results. In addition, Oracle Knowledge Advanced (OKA) will, over time, identify which articles relate to one another based on which articles are regularly viewed in succession by users.

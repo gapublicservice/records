@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74304,
+      "bytes": 189439,
+      "fetched": "2026-11-20T08:48:16+00:00",
+      "name": "dkt_44280_temp_rate_adjustment_riders.zip",
+      "sha256": "74bb222cb15802ca928f9f223c434b691eddf9f94479ba5ead2637b9849fd1a6",
+      "text": "zip (2 read, 1 not read)",
+      "text_file": "data/text/192/192537/74304.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192537/74304"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 Georgia Power’s Temporary Rate Adjustment Riders",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192537,
+  "filed_date": "2022-12-29",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-29",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192537"
+}

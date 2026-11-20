@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73584,
+      "bytes": 210091,
+      "fetched": "2026-11-20T08:34:43+00:00",
+      "name": "direct_testimony_of_steve_w__chriss.pdf",
+      "sha256": "e6a8a010a17bd74f68e46c374109672389cb344991f87d41de9a4148c95089f4",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191852/73584.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191852/73584"
+    },
+    {
+      "attachment_id": 73585,
+      "bytes": 151108,
+      "fetched": "2026-11-20T08:34:44+00:00",
+      "name": "commercial_group_chriss_exhibits.xlsx",
+      "sha256": "e003932bcbded1354f1d03b32d815018aaa021aff17331ed26fa731d94fbf371",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191852/73585"
+    }
+  ],
+  "company": "The Commerical Group",
+  "description": "Direct Testimony of Steve W. Chriss for the Commercial Group",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191852,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191852"
+}

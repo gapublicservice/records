@@ -1,0 +1,58 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73608,
+      "bytes": 108107,
+      "fetched": "2026-11-20T08:35:27+00:00",
+      "name": "Kaufman Direct Exhibit LK-1.pdf",
+      "sha256": "9261e016c09f6eaf5c8c6c49caa2600abdb5fec8d3d26e564b1cca453747fbf3",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191871/73608.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191871/73608"
+    },
+    {
+      "attachment_id": 73609,
+      "bytes": 174755,
+      "fetched": "2026-11-20T08:35:28+00:00",
+      "name": "Kaufman Direct Exhibit LK-2.pdf",
+      "sha256": "9f6609753423ddc9e48bd01f8bebf3f112f8ae73e06f155ca324bf64bf07b519",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191871/73609.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191871/73609"
+    },
+    {
+      "attachment_id": 73610,
+      "bytes": 1251277,
+      "fetched": "2026-11-20T08:35:29+00:00",
+      "name": "Kaufman_Direct_Testimony FINAL.docx",
+      "sha256": "bd356101fb503b8146a2bdcdfe31839b1cd9d5a2ac23f1b22e62650620eb33df",
+      "text": "docx",
+      "text_file": "data/text/191/191871/73610.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191871/73610"
+    },
+    {
+      "attachment_id": 73611,
+      "bytes": 1348845,
+      "fetched": "2026-11-20T08:35:30+00:00",
+      "name": "Kaufman_Direct_Testimony FINAL.pdf",
+      "sha256": "d5e7590dac9960b8b170c6928c7d32fe3013b70be5ad60e9bf228342152ddab3",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191871/73611.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191871/73611"
+    }
+  ],
+  "company": "Staff",
+  "description": "Direct Testimony and Exhibits of Lance Kaufman",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191871,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191871"
+}

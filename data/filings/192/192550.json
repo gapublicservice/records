@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74324,
+      "bytes": 293929,
+      "fetched": "2026-11-20T08:48:33+00:00",
+      "name": "2022 GPC Settlement Rate Case Order Adopting the Settlement Agreement as Modified.docx",
+      "sha256": "99247a4e80c1b076ec0be3e5461a91337a819eb5ceac25ebcb8f557b1b202543",
+      "text": "docx",
+      "text_file": "data/text/192/192550/74324.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192550/74324"
+    },
+    {
+      "attachment_id": 74325,
+      "bytes": 19802222,
+      "fetched": "2026-11-20T08:48:35+00:00",
+      "name": "192550.pdf",
+      "sha256": "e59998263b8ceecb67d96d8f48b2e68e42906c0e0b0cfce7b55076febec73fc6",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192550/74325"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ADOPTING SETTLEMENT AGREEMENT AS MODIFIED",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192550,
+  "filed_date": "2022-12-30",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192550"
+}

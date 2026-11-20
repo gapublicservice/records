@@ -1,0 +1,47 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74117,
+      "bytes": 94708,
+      "fetched": "2026-11-20T08:44:47+00:00",
+      "name": "SIERRA CLUB 2022 GPC RATE CASE -- Transmittal Ltr to PSC Executive Secretary.pdf",
+      "sha256": "7f02ff5d161ff9ba01e1be224210a574b813ec1f7b23ae1c9b751381cb8386e8",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192357/74117.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192357/74117"
+    },
+    {
+      "attachment_id": 74118,
+      "bytes": 222972,
+      "fetched": "2026-11-20T08:44:48+00:00",
+      "name": "2022 GPC Rate Case -- Post Hearing Brief of the Sierra Club-Copy.docx",
+      "sha256": "49cb5a708ea5fc9584b4e49c8cdc95ccf8c376a2997c4ee38423d3887c7831c8",
+      "text": "docx",
+      "text_file": "data/text/192/192357/74118.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192357/74118"
+    },
+    {
+      "attachment_id": 74119,
+      "bytes": 359681,
+      "fetched": "2026-11-20T08:44:49+00:00",
+      "name": "2022 GPC Rate Case -- Post Hearing Brief of the Sierra Club.pdf",
+      "sha256": "f8681c4a900ef92a1df091d4eca6f1bae997da9195d32deb3c4300219f44d1d3",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192357/74119.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192357/74119"
+    }
+  ],
+  "company": "The Sierra Club",
+  "description": "POST-HEARING BRIEF OF THE SIERRA CLUB",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192357,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192357"
+}

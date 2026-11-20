@@ -1,0 +1,36 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73606,
+      "bytes": 666971,
+      "fetched": "2026-11-20T08:35:36+00:00",
+      "name": "O'Donnell Appndix A and Exhibits Final.pdf",
+      "sha256": "5705d211b1e0e359b6d8e9160f56ff85dc62ea77326c50aa5991c8224c0f326c",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191873/73606.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191873/73606"
+    },
+    {
+      "attachment_id": 73607,
+      "bytes": 979410,
+      "fetched": "2026-11-20T08:35:38+00:00",
+      "name": "O'Donnell Final Public Disclosure.pdf",
+      "sha256": "d381330b3074307bd65fc6de02fcd4a57b006a44c7f005ce5785f6638acd62c0",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191873/73607.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191873/73607"
+    }
+  ],
+  "company": "Staff",
+  "description": "Testimony of Kevin O'Donnell",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191873,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191873"
+}

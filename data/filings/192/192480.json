@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74252,
+      "bytes": 8378094,
+      "fetched": "2026-11-20T08:47:17+00:00",
+      "name": "settlement_agreement_adding_the_commercial_group.pdf",
+      "sha256": "bad0d12f6ffecc006323ecab34a993f3d0909ba869156ffb815bc5522d054e51",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192480/74252.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192480/74252"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Filing of the Settlement Agreement to Include the Commercial Group",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192480,
+  "filed_date": "2022-12-19",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-19",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192480"
+}

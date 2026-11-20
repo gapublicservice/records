@@ -1,0 +1,211 @@
+===== 2022.11.22 [44280] GIPL Demonstrative/2022.11.22 [44280] GIPL_Barnes Supplemental Testimony Demonstrative.pdf =====
+Flaws in Georgia Power’s “cost shift” analysis:
+1. Revenue erosion ≠ Cost shift
+2. Alleged “cost shift” is overstated by 63%.
+
+Formula error in pre-solar bill calculator
+
+= ROUND((IF(C9<1001,0,(C9-1000)*$R$10))*2,)
+Corrected:
+= ROUND((IF(C9<1001,0,(C9-1000)*$R$10)),2)
+                                        STF-TAI-7-1 (Revised), Attachment B, Tab “R”
+
+
+                      Error dramatically inflated pre-solar bills
+
+                       Excerpt
+                                     kWh           Over 1000
+                          Month     Usage            kWh
+                       June           4,332       $         652.00             $ 325.79
+                       July           4,534       $         691.00             $ 345.54
+                       August         2,919       $         375.00             $ 187.63
+                       September      2,352       $         264.00             $ 132.19
+
+
+                                       Result: Massive overstatement in
+                                       cost shift
+
+
+                                                       $1,356
+                                                                            ↆ
+                                                              $823
+
+
+===== 2022.11.22 [44280] GIPL Demonstrative/2022.11.22 [44280] GIPL_Supp. Testimony_Demonstrative_Combined.pdf =====
+
+
+                                CERTIFICATE OF SERVICE
+
+
+       I certify that the foregoing Demonstrative for the Supplemental Direct Testimony of
+
+Justin Barnes on behalf of Georgia Interfaith Power & Light was filed in Docket No. 44280
+
+with the Public Service Commission by electronic delivery on the 22nd of November, 2022. An
+
+electronic copy of the same was served upon all parties listed below by electronic mail as follows:
+
+
+                                                     ______________________________
+
+                                                     Jillian Kysor
+
+
+ Sallie Tanner                                        Kevin Greene
+ Georgia Public Service Commission                    Steven Hewitson
+ 244 Washington Street, SW                            Brandon Marzo
+ Atlanta, Georgia 30334                               Allison Pryor
+ stanner@psc.ga.gov                                   Troutman Pepper Hamilton Sanders LLP
+                                                      Bank of America Plaza
+ Jamie Barber                                         600 Peachtree Street, NE, Suite 3000
+ Preston Thomas                                       Atlanta, Georgia 30308
+ Robert Trokey                                        kevin.greene@troutman.com
+ Georgia Public Service Commission                    steven.hewitson@troutman.com
+ 244 Washington Street, SW                            brandon.marzo@troutman.com
+ Atlanta, Georgia 30334                               allison.pryor@troutman.com
+ jamib@psc.ga.gov
+ jamieb@psc.state.ga.us                               Newton M. Galloway
+ pthomas@psc.ga.gov                                   Terri M. Lyndall
+ rtrokey@psc.ga.gov                                   Galloway & Lyndall, LLP
+                                                      406 North Hill Street
+ Kelley Balkcom                                       Griffin, Georgia 30223
+ Kyle Leach                                           ngalloway@gallyn-law.com
+ Georgia Power Company                                tlyndall@gallyn-law.com
+ 241 Ralph McGill Boulevard, NE
+ Atlanta, Georgia 30308
+ mmcclosk@southernco.com
+ kcleach@southernco.com
+
+Scott F. Dunbar                          Steven C. Prenovitz, MBA
+Keyes & Fox LLP                          Concerned Ratepayers of Georgia
+1580 Lincoln Street, Suite 1105          4295 Amberglade Court
+Denver, Colorado 80203                   Norcross, Georgia 30092
+(949) 525-6016                           scprenovitz@gmail.com
+sdunbar@keyesfox.com
+                                         Angie Fiese
+Matthew Deal                             Cypress Creek Renewables, LLC
+ChargePoint Inc.                         5310 S. Alston Avenue, Bldg. 200
+254 E. Hacienda Avenue                   Durham, North Carolina 27713
+Campbell, California 95125               angie.fiese@ccrenew.com
+matthew.deal@chargepoint.com
+                                         Matt Kozey
+Alicia Zaloga                            Cypress Creek Renewables, LLC
+Keyes & Fox LLP                          1000 Wisconsin Avenue, Suite 100
+1155 Kildaire Farm Road, Suite 202-203   Washington, D.C. 20007
+Cary, North Carolina 27511               matt.kozey@ccrenew.com
+azaloga@keyesfox.com
+                                         Nikhil Vijaykar
+Jared Ballew                             Jason Keyes
+ChargePoint, Inc.                        Alicia Zaloga
+254 E. Hacienda Avenue                   Keyes & Fox LLP
+Campbell, California 95125               580 California Street, 12th Floor
+jared.ballew@chargepoint.com             San Francisco, California 94104
+                                         nvijaykar@keyesfox.com
+Lucas Fykes                              jkeyes@keyesfox.com
+Keyes & Fox LLP                          azaloga@keyesfox.com
+1580 Lincoln Street, Suite 1105
+Denver, Colorado 80203                   Charles B. Jones, III
+lfykes@keyesfox.com                      Lloyd Avram
+                                         Roy Bowen
+Alan R. Jenkins                          Georgia Association of Manufacturers
+Jenkins at Law, LLC                      The Hurt Building
+2950 Yellowtail Avenue                   50 Hurt Plaza, Suite 985
+Marathon, Florida 33050                  Atlanta, Georgia 30303
+aj@jenkinsatlaw.com                      cjones@gamfg.org
+                                         lavram@gamfg.org
+Ben J. Stockton, PE, MBA                 rbowen@gamfg.org
+Concerned Ratepayers of Georgia
+2230 Allen Road                          Jeffry C. Pollock
+Macon, Georgia 31216                     J. Pollock Incorporated
+encomanager13@gmail.com                  12647 Olive Boulevard, Suite 585
+                                         St. Louis, Missouri 63141
+                                         jcp@jpollockinc.com
+
+H. Gordon Kenna                              Donald Moreland
+DeKalb County Government                     Georgia Solar Energy Association
+Department of Public Works                   1199 Euclid Avenue
+1300 Commerce Drive                          Atlanta, Georgia 30307
+Decatur, Georgia 30030                       don@solarcrowdsource.com
+hgkenna@dekalbcountyga.gov
+                                             Scott Thomasson
+Mike Wharton                                 Thomasson Law, LLC
+Athens-Clarke County Unified Government      1025 Bond Street
+Sustainability Office                        Macon, Georgia 31201
+110 Bray Street                              scott@thomassonlaw.net
+Athens, Georgia 30601
+mike.wharton@accgov.com                      Liz Coyle
+                                             Georgia Watch
+David Nifong                                 55 Marietta Street, NW, Suite 903
+City of Decatur                              Atlanta, Georgia 30303
+Department of Public Works                   lcoyle@georgiawatch.org
+2635 Talley Street
+Decatur, Georgia 30030                       J. Brett Newsom
+david.nifong@decaturga.com                   Adam Wise
+                                             Interstate Gas Supply
+Alicia Brown                                 3344 Peachtree Road, Suite 2150
+City of Savannah, Office of Sustainability   Atlanta, Georgia 30326
+801 E. Gwinnett Street                       brett.newsom@scanaenergy.com
+Savannah, Georgia 31401                      adam.wise@scanaenergy.com
+alicia.brown@savannahga.gov
+                                             Brad Carver
+John R. Seydel                               Joel L. McKie
+City of Atlanta, Office of Resilience        Hall Booth Smith
+55 Trinity Avenue                            191 Peachtree Street NE, Suite 2900
+Atlanta, Georgia 30303                       Atlanta, Georgia 30303
+JRseydel@atlantaga.gov                       bcarver@hallboothsmith.com
+                                             jmckie@hallboothsmith.com
+Deborah Opie
+Brionte McCorkle                             Kurt J. Boehm
+Georgia Conservation Voters Education Fund   Jody Kyler Cohn
+725 Ponce De Leon Avenue, Fl. 2              Boehm, Kurtz & Lowry
+Atlanta, Georgia 30306                       36 East Seventh Street, Suite 1510
+deborah@gcvoters.org                         Cincinnati, Ohio 45202
+brionte@gcvoters.org                         kboehm@bkllawfirm.com
+                                             jkylercohn@bkllawfirm.com
+
+Kevin Higgins                                  Robert Jackson, Esq.
+Justin Bieber                                  Robert B. Jackson, IV, LLC
+Energy Strategies, LLC                         260 Peachtree Street - Suite 2200
+215 South State Street, Suite 200              Atlanta, Georgia 30303
+Salt Lake City, Utah 84111                     rbj4law@gmail.com
+khiggins@energystrat.com
+jbieber@energystrat.com                        Isabella Ariza, Esq.
+                                               Sierra Club
+Dante Mugrace                                  50 F Street NW, 8th Floor
+PCMG and Associates                            Washington, D.C. 20001
+90 Moonlight Court                             isabella.ariza@sierraclub.org
+Toms River, New Jersey 08753
+dmugrace@pcmgregcon.com                        Bryan Jacob
+                                               Southern Alliance for Clean Energy
+Kimberly (“Kasey”) A. Sturm                    1455 Hampton Hill Drive
+Weissman PC                                    Alpharetta, Georgia 30022
+One Alliance Center, Fourth Floor              bryan@cleanenergy.org
+3500 Lenox Road
+Atlanta, Georgia 30326                         Katie Southworth
+kaseys@weissman.law                            William Collier
+                                               Southface Energy Institute
+Peter J. Andrews                               241 Pine Street, NE
+Metropolitan Atlanta Rapid Transit Authority   Atlanta, Georgia 30308
+2424 Piedmont Road, NE                         ksouthworth@southface.org
+Atlanta, Georgia 30324                         wcollier@southface.org
+pandrews@itsmarta.com
+                                               L. Craig Dowdy
+Jim Clarkson                                   Steven L. Jones
+Resource Supply Management                     Taylor English Duma LLP
+135 Emerald Lake Road                          1600 Parkwood Circle, Suite 200
+Columbia, South Carolina 29209                 Atlanta, Georgia 30339
+jclarkson@rsmenergy.com                        cdowdy@taylorenglish.com
+                                               sjones@taylorenglish.com
+Nicole R. Barnett Slaughter
+H. Mark Hamlet                                 Simon Mahan
+Sarah E. Morin-Gage                            Southern Renewable Energy Association
+Jason Allen                                    11610 Pleasant Ridge Road, Suite 103 #176
+Hamlet Law                                     Little Rock, Arkansas 72223
+5215 Junction Park Circle, Suite 202           simon@southernwind.org
+Wilmington, North Carolina 28412
+nslaughter@hamlet-law.com                      Emily W. Medlyn
+mhamlet@hamlet-law.com                         U.S. Army Legal Services Agency
+smorin-gage@hamlet-law.com                     ELD Division
+jallen@hamlet-law.com                          9275 Gunston Road
+                                               Fort Belvoir, Virginia 22060
+                                               emily.w.medlyn.civ@army.mil

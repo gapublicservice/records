@@ -1,0 +1,45 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73795,
+      "bytes": 375199,
+      "fetched": "2026-11-20T08:38:46+00:00",
+      "name": "44280 2nd Errata Cover.pdf",
+      "sha256": "74864a75aaffc6a2910d2a321ab862693fda5348f8d8fb1d6b55b9cf02696570",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192029/73795"
+    },
+    {
+      "attachment_id": 73796,
+      "bytes": 128189,
+      "fetched": "2026-11-20T08:38:47+00:00",
+      "name": "2022-11-07 Errata to Smith-Troket Direct Testimony.pdf",
+      "sha256": "13cd51ad5b3b09eb0dc7e6e722aca07df59674830a8eb270bdfd70a75f77e028",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192029/73796.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192029/73796"
+    },
+    {
+      "attachment_id": 73797,
+      "bytes": 16089,
+      "fetched": "2026-11-20T08:38:48+00:00",
+      "name": "2022-11-07 Errata to Smith-Troket Direct Testimony.xlsx",
+      "sha256": "d758c9499583287e7b8016fad7de254132f9b60080df6cae41b767bac3e63f9d",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192029/73797"
+    }
+  ],
+  "company": "Staff",
+  "description": "Errata Smith-Trokey errata",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192029,
+  "filed_date": "2022-11-07",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-07",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192029"
+}

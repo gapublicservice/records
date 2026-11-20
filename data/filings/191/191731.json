@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73492,
+      "bytes": 127283,
+      "fetched": "2026-11-20T08:32:32+00:00",
+      "name": "dkt_44280_stf-la-10_pd.zip",
+      "sha256": "0ca3b8fdc3e538e6a5b93d28ac78a9fadb14f9a1c232528179bf6820158ce6cf",
+      "text": "zip (4 read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/191/191731/73492.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191731/73492"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-LA-10 Data Request Responses",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191731,
+  "filed_date": "2022-10-07",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-07",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191731"
+}

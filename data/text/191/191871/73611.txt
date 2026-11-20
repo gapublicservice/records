@@ -1,0 +1,1726 @@
+BEFORE THE
+
+             GEORGIA PUBLIC SERVICE COMMISSION
+
+
+IN RE:   GEORGIA POWER COMPANY’S         )   DOCKET NO. 44280
+         2022 RATE CASE                  )
+
+
+                     DIRECT TESTIMONY
+
+                       AND EXHIBITS
+
+                            OF
+
+                      LANCE KAUFMAN
+
+
+                      ON BEHALF OF THE
+             GEORGIA PUBLIC SERVICE COMMISSION
+              PUBLIC INTEREST ADVOCACY STAFF
+
+
+                      OCTOBER 20, 2022
+
+                       TABLE OF CONTENTS TO THE
+          PREPARED DIRECT TESTIMONY OF LANCE D. KAUFMAN, PH.D.
+
+I.     Introduction and Summary ................................................................................................. 1
+II.    Overview of Depreciation Rates and Expense.................................................................... 2
+III.   Terminal Retirement Dates ................................................................................................. 8
+IV.    Decommissioning Costs.................................................................................................... 11
+           a. Coal Plants ............................................................................................................ 11
+           b. Gas Plants.............................................................................................................. 14
+           c. Nuclear Plant ......................................................................................................... 16
+           d. Hydro Plant ........................................................................................................... 16
+           e. Solar Plant ............................................................................................................. 17
+V.     Remaining Lives ............................................................................................................... 17
+          a. Easements ............................................................................................................. 22
+          b. Structures and Improvements ............................................................................... 29
+          c. Miscellaneous Accounts ....................................................................................... 37
+
+
+                                                      EXHIBIT LIST
+
+ Exhibit LK-1:          Qualification Statement of Lance D. Kaufman
+ Exhibit LK-2:          Kaufman Depreciation Study Results
+
+
+                                                                  i
+Prepared Direct Testimony of
+Lance D. Kaufman
+Docket No. 44280
+
+ 1                                    I. INTRODUCTION AND SUMMARY
+
+ 2   Q.     PLEASE STATE YOUR NAME AND OCCUPATION.
+
+ 3   A.     My name is Lance D. Kaufman. I am a consultant providing expert testimony before state
+
+ 4          public utility commissions in the Northwest, Southwest and Intermountain West and Georgia.
+
+ 5   Q.     PLEASE IDENTIFY THE PARTY ON WHOSE BEHALF YOU ARE TESTIFYING.
+
+ 6   A.     I am testifying on behalf of the Georgia Public Service Commission Public Interest Advocacy
+
+ 7          Staff (“Staff”).
+
+ 8   Q.     PLEASE SUMMARISE YOUR BACKGROUND AND PROFESSIONAL
+ 9          EXPERIENCE.
+
+10   A.     I have a Ph.D. in Economics from the University of Oregon with field work in industrial
+
+11          organization and econometrics. I have worked in the utility industry for 10 years performing
+
+12          analysis and providing testimony on depreciation, cost of capital, rate spread and rate design,
+
+13          net power costs, cost allocations, decoupling mechanisms, load forecasting, and resource
+
+14          planning. I am a Certified Depreciation Professional. My Curriculum Vitae is provided in
+
+15          Exhibit LK-1.
+
+16   Q.     PLEASE SUMMARIZE YOUR RECOMMENDATIONS.
+
+17   A.     I make the following recommendations:
+
+18              1. Use the 2022 IRP economic lives of 2054 and 2058 as the terminal retirement dates for
+
+19                  Hatch Units 1 and 2 respectively.
+
+20              2. Remove the 25 percent contingency adder from the terminal net salvage of coal and gas
+
+21                  production facilities.
+
+22              3. Require the Company to file a decommissioning study of solar assets as part of its next
+
+23                  rate case.
+
+
+                                                        1
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1             4. Calculate remaining lives using the survival curves identified in Exhibit LK-2 pages 20
+
+ 2                    through 22.
+
+ 3                    II.    OVERVIEW OF DEPRECIATION RATES AND EXPENSE
+
+ 4   Q.     WHAT IS DEPRECIATION EXPENSE?
+
+ 5   A.     Depreciation is an expense that represents recovery of the Company’s capital investment over
+
+ 6          the expected life of the investment. Depreciation expense also accounts for the expected cost of
+
+ 7          removal (COR) and salvage value over the expected life of the investment.
+
+ 8   Q.     HOW DOES RECOVERY OF INVESTMENT DIFFER FROM RETURN ON
+ 9          INVESTMENT?
+
+10   A.     Recovery of investment is the recovery of the original investment, while return on investment
+
+11          represents the financing cost on the asset. Assets are financed with a combination of debt and
+
+12          equity.
+
+13   Q.     HOW IS DEPRECIATION EXPENSE CALCULATED?
+
+14   A.     Depreciation expense is calculated by multiplying the gross plant balance in each Federal
+
+15          Energy Regulatory Commission (“FERC”) account or subaccount by a depreciation rate
+
+16          specific to that account or subaccount. Depreciation rates are approved by the Commission in
+
+17          each general rate case and typically are not changed between rate cases. Depreciation rate
+
+18          recommendations made to the Commission are usually supported by a depreciation study.
+
+19   Q.     WHAT ARE GEORGIA POWER COMPANY’S RECOMMENDATIONS FOR
+20          DEPRECIATION RATES AND WHAT ARE THEY BASED ON?
+
+21   A.     Georgia Power Company’s (Company or Georgia Power) proposed depreciation rates are
+
+22          contained in Appendix Exhibit 2 of the Company’s filing. This appendix is a depreciation
+
+23          study performed on behalf of Georgia Power by the Alliance Consulting Group (“Alliance
+
+
+                                                       2
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1              Study”).1 The Alliance Study includes a general discussion of depreciation at pages 6 through
+
+ 2              20. I agree with this general discussion and refer the Commission to it for detail on how
+
+ 3              depreciation rates are calculated. However, I disagree with certain parameters and findings in
+
+ 4              the Alliance Study related to specific assets and plant accounts. In this testimony I identify the
+
+ 5              parameters that I disagree with, recommend alternate parameters, and provide the rates
+
+ 6              resulting from these alternate parameters.
+
+ 7   Q.         WHAT GENERAL ISSUES DO YOU RAISE IN THIS TESTIMONY?
+
+ 8   A.         I address the terminal retirement date for Hatch plant, the decommissioning costs for coal and
+
+ 9              gas plants, and the survivor curves used to model future retirements.
+
+10   Q.         HOW SHOULD THE COMMISSION EVALUATE AND RESOLVE THE DISPUTED
+11              ISSUES THAT YOU RAISE?
+
+12   A.         The Commission should weigh the evidence in the record that is specific to each plant or
+
+13              account and make a conclusion about the expected retirement outcomes based on that
+
+14              evidence.
+
+15   Q.         HOW DOES CHANGING A DEPRECIATION RATE IMPACT BOTH THE
+16              COMPANY AND CUSTOMERS?
+
+17   A.         The primary function of depreciation is to allocate costs to customers across time over the
+
+18              service life of the asset. Thus, an increase or decrease in depreciation rates does not have a
+
+19              direct impact on the total amount collected from customers or returned to the Company over
+
+20              time. The primary impact from changing a depreciation rate is the year in which the capital is
+
+
+     1
+         The Company’s filed case deviates from the Alliance Study for the following plants: Bowen 1 and 2 coal units and Ft.
+               Benning and Ft. Gordon solar facilities. The Alliance Study was produced prior to the Commission’s order in the
+               2022 IRP denying the early retirement of Bowen Units 1 and 2. The Company’s filed case contains rates for
+               Bowen Units 1 and 2 that adopt the same interim retirement characteristics but extend the terminal retirement date
+               to December 31, 2030. The Company’s filing also contained formula errors affecting the depreciation expense
+               calculations for Ft. Benning and Ft. Gordon solar facilities. I understand the Alliance Study contains the correct
+               rates for these facilities and Company has or expects to submit a correction related to this.
+                                                                   3
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1          fully recovered. A lower depreciation rate shifts the recovery of invested capital from the
+
+ 2          current time period to a future time period. A higher depreciation rate shifts the recovery of
+
+ 3          invested capital from a future time period to a current time period.
+
+ 4   Q.     WHY DO YOUR RECOMMENDATIONS FOCUS ON THE EXPECTED
+ 5          RETIREMENT OUTCOMES?
+
+ 6   A.     A commonly accepted premise of fairness is that those who benefit from a cost should bear the
+
+ 7          cost. This concept is applied when using cost of service studies to support the allocation of
+
+ 8          costs across customers. The same concept is used to support the recovery of capital across
+
+ 9          time. Customers benefit from utility plant only as long as the plant is in service. Thus, the
+
+10          recovery of the investment in plant should be spread across time that plant is expected to be in
+
+11          service. Depreciation rates calculated based on expected retirement outcomes accomplish this
+
+12          goal.
+
+13   Q.     IS IT SOUND POLICY TO COLLECT EXTRA EXPENSE IN ORDER TO
+14          ESTABLISH A BUFFER FOR UNEXPECTED RETIREMENTS OR COST OF
+15          REMOVAL?
+
+16   A.     No, this is not sound policy for several reasons. Expected outcomes are outcomes that
+
+17          represent what is expected on average. While retirements occasionally exceed or fall short of
+
+18          expectations, these shortfalls and excesses are expected to balance out. One property of a
+
+19          depreciation system is that it typically provides a mechanism for these shortfalls and excesses
+
+20          to accumulate and offset over time. Both the Alliance Study and my analysis adopt the
+
+21          Average Remaining Life Procedure. This procedure spreads excess and deficient depreciation
+
+22          reserves across the remaining lives of assets. In addition to the remaining life procedure,
+
+23          reserve transfers and regulatory asset accounting can be used to mitigate and address temporary
+
+24          excesses or shortfalls.
+
+                                                         4
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1                 Because the expected outcome represents the outcome that is most likely to happen,
+
+ 2          collecting extra depreciation expense to establish a buffer beyond the expected outcome will
+
+ 3          over-allocate costs to current customers. This is unfair to current customers.
+
+ 4   Q.     THE ALLIANCE STUDY NOTES THAT INFORMED JUDGMENT PLAYS A ROLE
+ 5          IN STUDYING DEPRECIATION. HOW DO YOU RECOMMEND INFORMED
+ 6          JUDGMENT BE APPLIED?
+
+ 7   A.     The National Association of Regulatory Utility Commissioners (“NARUC”) publication
+
+ 8          “Public Utility Depreciation Practices” offers the following guidance on the use of informed
+
+ 9          judgment:
+
+10                 The use of informed judgment can be a major factor in forecasting. A logical
+11                 process of examining and prioritizing the usefulness of information must be
+12                 employed, since there are many sources of data that must be considered and
+13                 weighed by importance. For example, the following forces of retirement need to
+14                 be considered: Do the past and current service life dispersions represent the
+15                 future? Will scrap prices rise or fall? What will be the impact of future
+16                 technological obsolescence? Will the company be in existence in the future? The
+17                 analyst must rank the factors and decide the relative weight to apply to each. The
+18                 final estimate might not resemble any one of the specific factors; however, the
+19                 result would be a decision based upon a combination of the components.
+20
+
+21          The NARUC manual highlights that informed judgment is a logical process that employs
+
+22          specific information and factors. This is important because it means that, when informed
+
+23          judgment is applied, the information considered and the logic that was applied should be
+
+24          identifiable. In this testimony, when I apply informed judgment, I identify the factors that I
+
+25          considered and the logic that I apply in order to aid the Commission in determining whether
+
+26          my judgment is reasonable.
+
+
+                                                        5
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.         WHAT GUIDANCE CAN AID THE COMMISSION IN WEIGHING THE MERITS OF
+ 2              THE INFORMED JUDGMENT THAT YOU APPLY AND THAT OF THE
+ 3              COMPANY?
+
+ 4   A.         I recommend the Commission apply the results of academic research into the reliability of
+
+ 5              judgmental forecasts. This research offers five principles for reliable judgmental forecasting:
+
+ 6                   1. Organize and present information in a form that clearly emphasizes relevant
+
+ 7                       information.
+
+ 8                   2. Limit the amount of information used in judgmental forecasting. Use a small number of
+
+ 9                       particularly important cues.
+
+10                   3. Use mechanical methods to process information.
+
+11                   4. Combine several forecasts.
+
+12                   5. Require justification of forecasts.2
+
+13              I applied these principles in developing the recommendations in my testimony. However, I
+
+14              recommend the Commission place particular emphasis on the final principle of justification of
+
+15              forecasts. This principle is important to follow in a regulatory setting.
+
+16   Q.         HOW ARE DEPRECIATION RATES CALCULATED?
+
+17   A.         The depreciation expense for an account is an amount that, if collected over the average
+
+18              remaining life for the assents in the account and combined with current accumulated
+
+19              depreciation, will be equal to the amount that needs to be recovered, or the original investment
+
+20              in the assets less expected net salvage. Annual depreciation expense, or accrual, is expressed as
+
+21              a formula below.
+
+
+     2
+         Stewart, T. R. (2001). Improving reliability of judgmental forecasts. In J. S. Armstrong (Ed.), Principles of Forecasting:
+                A Handbook for Researchers and Practitioners (pp. 81-106): Kluwer Academic Publishers.
+                                                                     6
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+                                                                  𝑃𝑙𝑎𝑛𝑡 𝑖𝑛 𝑆𝑒𝑟𝑣𝑖𝑐𝑒 − 𝑇𝑜𝑡𝑎𝑙 𝑁𝑒𝑡 𝑆𝑎𝑙𝑣𝑎𝑔𝑒 − 𝑅𝑒𝑠𝑒𝑟𝑣𝑒
+ 1                          𝐴𝑛𝑛𝑢𝑎𝑙 𝐷𝑒𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑖𝑜𝑛 𝐸𝑥𝑝𝑒𝑛𝑠𝑒 =
+                                                                          𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝑆𝑒𝑟𝑣𝑖𝑐𝑒 𝐿𝑖𝑓𝑒
+
+ 2              The depreciation accrual rate is a rate that, when multiplied by the total investment or plant
+
+ 3              balance, will return the depreciation expense. This is expressed as a formula below.
+
+                                                                          𝐴𝑛𝑛𝑢𝑎𝑙 𝐷𝑒𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑖𝑜𝑛 𝐴𝑚𝑜𝑢𝑛𝑡
+ 4                                𝐷𝑒𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑖𝑜𝑛 𝐴𝑐𝑐𝑟𝑢𝑎𝑙 𝑅𝑎𝑡𝑒 =
+                                                                               𝑃𝑙𝑎𝑛𝑡 𝑖𝑛 𝑆𝑒𝑟𝑣𝑖𝑐𝑒
+
+ 5              Exhibit LK-2 contains the calculation of depreciation rates based on my recommendations.
+
+ 6              Working backwards through the calculations on Exhibit LK-2 page 1, the Accrual Rate-Staff
+
+ 7              Proposed (depreciation rate) column is the Annual Depreciation Amount divided by the Plant
+
+ 8              in Service. Thus, when the depreciation rate is multiplied by the Plant in Service it will result
+
+ 9              in the Annual Depreciation Amount. The Annual Depreciation Amount is the Amount to Be
+
+10              Recovered divided by the Remaining Life. The Amount to Be Recovered is the Plant in
+
+11              Service minus Net Salvage Amount minus Allocated Depreciation, and the Net Salvage
+
+12              Amount is the Amount to Be Recovered multiplied by the Net Salvage %.
+
+13                       Thus, the depreciation rate requires four inputs, Plant In Service, Allocated
+
+14              Depreciation (or Reserve), Net Salvage %, and Remaining Life, and the depreciation rate is
+
+15              calculated with the following formula:
+
+                                                           𝑃𝑙𝑎𝑛𝑡 𝑖𝑛 𝑆𝑒𝑟𝑣𝑖𝑐𝑒 ∗ (1 + 𝑁𝑒𝑡 𝑆𝑎𝑙𝑣𝑎𝑔𝑒 𝑅𝑎𝑡𝑒) − 𝑅𝑒𝑠𝑒𝑟𝑣𝑒
+16                𝐷𝑒𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑖𝑜𝑛 𝐴𝑐𝑐𝑟𝑢𝑎𝑙 𝑅𝑎𝑡𝑒 =
+                                                                    𝑃𝑙𝑎𝑛𝑡 𝑖𝑛 𝑆𝑒𝑟𝑣𝑖𝑐𝑒 ∗ 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐿𝑖𝑓𝑒
+
+17              Plant in Service and Reserve are typically undisputed values that are adopted from the utility’s
+
+18              accounting records.3 The primary focus of a depreciation study is the calculation of the net
+
+19              salvage rate and remaining life.
+
+
+     3
+         Occasionally Plant in Service or Reserve are disputed, but I do not dispute these amounts in this testimony.
+                                                                     7
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.      HOW DO THE ISSUES YOU MENTIONED EARLIER REGARDING TERMINAL
+ 2           RETIREMENT DATE, DECOMMISSIONING COSTS, AND SURVIVOR CURVES
+ 3           RELATE TO THE NET SALVAGE RATE AND REMAINING LIFE?
+
+ 4   A.      The terminal retirement date affects the remaining life calculation for assets where an entire
+
+ 5           group of assets is scheduled to be retired collectively, such as generating units. The
+
+ 6           decommissioning cost is an input into the net salvage rate for assets that are decommissioned
+
+ 7           as part of terminal retirement. The survivor curves are statistical distributions that are used to
+
+ 8           calculate the remaining lives of assets.
+
+ 9
+
+10
+
+11                                 III.     TERMINAL RETIREMENT DATES
+
+12   Q.      WHAT TERMINAL RETIREMENT DATES ARE PROPOSED BY THE COMPANY
+13           FOR HATCH NUCLEAR PLANT DEPRECIATION RATES?
+
+14   A.      The Company uses a terminal retirement date of 2038 for Hatch Common and Hatch Unit 2,
+
+15           and a terminal retirement date of 2034 for Hatch Unit 1 when calculating depreciation rates.4
+
+16   Q.      WHAT ARE THE COMPANY’S EXPECTED TERMINAL RETIREMENT DATES
+17           FOR THE HATCH PLANT?
+
+18   A.      The Company currently expects to retire Hatch Unit 1 in 2054 and Unit 2 in 2058. In Docket
+
+19           No. 44160 the Company requested and received Commission approval for the capital and
+
+20           O&M costs that the Company will incur for the subsequent license renewal for Plant Hatch
+
+21           Units 1 and 2.5 The Company expects to submit an application for, and receive approval of, a
+
+22           license extension of this plant.6
+
+
+     4
+       Appendix Exhibit 2 pages 117 and 118.
+     5
+       Company Direct Hearing Transcript Day 1 page 329.
+     6
+       Georgia Power Response to Staff Data Request STF-AI-1-34.
+                                                             8
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.        HOW HAS THE COMMISSION TREATED DEPRECIATION LIVES FOR NUCLEAR
+ 2             PLANTS PRIOR TO FINAL NUCLEAR REGULATORY COMMISSION (“NRC”)
+ 3             APPROVAL FOR PAST LICENCE EXTENSIONS?
+
+ 4   A.        The Commission has granted extended depreciable lives prior to final approval in the past. In
+
+ 5             the Company’s 2007 rate case docket, Docket No. 25060, the depreciable life for the currently
+
+ 6             operating Plant Vogtle Nuclear Units 1 and 2 was extended prior to NRC approval of the
+
+ 7             corresponding license extensions.
+
+ 8   Q.        DOES THE COMPANY AGREE THAT THE COMMISSION’S TREATMENT OF
+ 9             VOGTLE’S DEPRECIABLE LIFE CAN REASONABLY BE APPLIED TO HATCH?
+
+10   A.        The Company has agreed that if the facts and circumstances for the Hatch plant are similar to
+
+11             those of Vogtle, it is reasonable to apply a similar treatment of depreciable life to the Hatch
+
+12             plant.7
+
+13   Q.        ARE THE FACTS AND CIRCUMSTANCES OF HATCH SIMMILAR TO VOTGLE?
+
+14   A.        Yes. While there are some differences between these two plants, these differences are
+
+15             immaterial in the context of setting depreciation rates. Depreciation rates reflect expectations
+
+16             about future plant retirements. While there is a small chance that the Hatch plant will not have
+
+17             its license extended, the expected outcome is a life extension, and thus depreciation rates
+
+18             should reflect this.
+
+19   Q.        WHAT IS THE BASIS FOR YOUR JUDGMENT THAT THE EXPECTED OUTCOME
+20             FOR THE HATCH PLANT IS RETIREMENT IN 2054 AND 2058?
+
+21   A.        I considered that the Company currently expects to apply for and receive a license extension
+
+22             for such dates. Based on the information provided by the Company, it appears highly likely
+
+23             that the extension will occur. There is a small but unquantified chance that the Company does
+
+
+     7
+         Company Direct Hearing Transcript Day 1 page 332.
+                                                             9
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1              not receive the license or finds it economical to retire early despite the license extension.
+
+ 2              However, given the current national concerns regarding fuel security, energy diversity, and
+
+ 3              greenhouse gas emissions, this seems unlikely. There is also a small chance that the Company
+
+ 4              extends the life beyond 2058. I concluded that impact of these alternate outcomes offset each
+
+ 5              other, and a reasonable expectation is to rely on the expected outcome of retirement in 2054
+
+ 6              and 2058.
+
+ 7   Q.         WHAT IS THE IMPACT OF YOUR RECOMMENDATION?
+
+ 8   A.         Exhibit LK-2 pages 1 through 15 provides a comparison of my recommended rates with the
+
+ 9              Company’s filed depreciation study. My recommendation reduces depreciation expense under
+
+10              December 31, 2020 plant balance by approximately $128 million per year.8 The impact of my
+
+11              recommendations within the overall context of Staff’s case is provided in the Direct Testimony
+
+12              and Exhibits of Ralph Smith and Robert Trokey.
+
+13
+
+
+     8
+         Calculated as the difference between the Alliance Study composite depreciation rate and the Staff composite depreciation
+                rate of -0.371% times the December 31, 2021 plant balance of $34,499,288,719. See Exhibit LK-2 page 15. I
+                understand that the Company’s filing may differ from the Alliance Study with respect to Bowen Units 1 and 2 and
+                other minor changes.
+                                                                  10
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1
+
+ 2                                           IV.      DECOMMISSIONING COSTS
+
+ 3   Q.         WHAT TREATMENT HAS THE COMPANY REQUESTED FOR GENERATION
+ 4              PLANT DECOMMISSIONING COSTS?
+
+ 5   A.         The Company has requested that the results of its most recent decommissioning study be
+
+ 6              implemented when calculating depreciation rates.
+
+ 7   Q.         WHAT IS YOUR RESPONSE TO THE COMPANY’S RECOMMENDATION?
+
+ 8   A.         The Company’s study appears reasonable for hydro generation. However, decommissioning
+
+ 9              expense for coal and gas plants appear overstated while decommissioning expense for solar
+
+10              plants appear understated. I recommend that the contingency component of coal and gas plants
+
+11              be removed from depreciation rates and that the Company be required to submit a revised
+
+12              study of solar decommissioning costs in its next general rate case.
+
+13   a. Coal Plants
+
+14   Q.         WHY HAVE YOU CONCLUDED THAT THE DECOMMISSIONING EXPENSE FOR
+15              COAL AND GAS PLANTS IS OVERSTATED?
+
+16   A.         The Company has finished decommissioning or is in the process of decommissioning 11 coal
+
+17              plants.9 The actual expenses incurred for decommissioning these plants provides a base line of
+
+18              actual decommissioning costs against which the Company’s decommissioning study can be
+
+19              evaluated. Of these plants, two plants, McDonough-Atkinson and Branch, have completed
+
+20              decommissioning and have similar size characteristics to the Company’s four remaining coal
+
+21              plants.10
+
+
+     9
+         Response to Staff DR STF-AI-1-15 Attachment A.
+     10
+          Yates is a coal plant that has been converted to gas fire. I analyze Yates with other coal plants because the primary
+                structures to be demolished are likely more similar to coal plants than gas plants.
+                                                                    11
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.         WHAT ARE THE CHARACTERISTICS OF THE COMPANY’S REMAINING COAL
+ 2              PLANTS?
+
+ 3   A.         The table below summarizes the capacity of the Company’s remaining coal or converted coal
+
+ 4              plants.
+
+ 5                                                              Table 1
+
+                                        Plant             MW           Units   MW per Unit
+                                        Bowen             3,376         4        844
+                                        Scherer           3,720         4        930
+                                        Wansley           1,840         2        920
+ 6                                      Yates              700          2        350
+
+ 7              Three plants consist of multiple large, nearly gigawatt-sized units, while Yates consists of two
+
+ 8              midsized 350 megawatt (MW) units. All four units are situated in geographically accessible
+
+ 9              locations without apparent decommissioning complications. The Company’s decommissioning
+
+10              study does not note any specific circumstances for these plants that would cause
+
+11              decommissioning to be more complex or costly than normal.
+
+12   Q.         WHAT ARE THE CHARACTERISTICS OF THE DECOMMISSIONED PLANTS
+13              THAT ARE COMPARABLE TO REMAINING PLANTS?
+
+14   A.         The table below summarizes the size and decommissioning costs for comparable
+
+15              decommissioned plants.11 The Branch plant is most similar to the remaining plants in size and
+
+16              scope.
+
+17                                                              Table 2
+
+                                                                                WM              Decomm. Cost
+             Plant                                       MW         Units      per Unit        Total    Per MW
+             Total McDonough-Atkinson Steam               490        2           245       $10,718,205 $21,874
+18           Total Branch Steam                          1540        4           385       $29,546,844 $19,186
+
+
+     11
+          The Company’s discovery response, prior decommissioning study, and website all disagree on the capacity of the
+               Branch plant. This table uses the capacity reported on the company’s website.
+                                                                  12
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.      HOW DID THE DECOMMISSIONING COST FOR MCDONOUGH-ATCKINSON
+ 2           AND BRANCH PLANTS COMPARE TO THE FORECASTED COSTS?
+
+ 3   A.      No decommissioning study was available for the McDonough-Atkinson plant.12 The Actual
+
+ 4           decommissioning cost of the Branch plant was half of the amount forecasted in the
+
+ 5           decommissioning study.13
+
+ 6   Q.      HOW DOES THE COMPANY’S FORECASTED DECOMMISSIONING COSTS OF
+ 7           COAL PLANTS COMPARE TO ACTUAL COSTS FOR COMPARABLE PLANTS?
+
+ 8   A.      The Company’s forecasted cost for decommissioning the remaining steam plants is provided in
+
+ 9           the Table 3 below.14 Note that on a $ per MW basis, the forecasted decommissioning costs
+
+10           exceed actual decommissioning costs in Table 4.
+
+11                                                          Table 3
+
+                                  Plant              MW         Total Cost   $/MW
+                                  Bowen             3,376      $92,081,875   $27,275
+                                  Scherer           3,720     $106,546,060   $28,641
+                                  Wansley           1,840      $56,218,640   $30,554
+                                  Yates              700       $18,351,977   $26,217
+12                                All Plants        9,636      273,198,552   $28,352
+
+13   Q.      WHAT ACCOUNTS FOR THE DIFFERENCE BETWEEN ACTUAL AND
+14           FORECASTED COAL PLANT DECOMMISSIONING COSTS?
+
+15   A.      The decommissioning study includes a 25 percent contingency adder for each plant. When the
+
+16           costs in Table 3 are adjusted to remove the contingency component forecasted costs are
+
+17           consistent with actual costs, as shown in Table 4 below.
+
+
+     12
+        Response to Staff DR STF-AI-1-15.
+     13
+        Response to Staff DR STF-AI-1-15 Attachment J Trade Secret page 3.
+     14
+        Appendix Exhibit 2 pages 166 and 167.
+                                                             13
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1                                                    Table 4
+
+               Plant           MW       Company Cost     Contingency Adjusted Cost        $/MW
+               Bowen           3,376     $92,081,875     $18,416,375 $73,665,500          $21,820
+               Scherer         3,720    $106,546,060     $21,309,212 $85,236,848          $22,913
+               Wansley         1,840     $56,218,640     $11,243,728 $44,974,912          $24,443
+               Yates            700      $18,351,977      $3,670,395 $14,681,582          $20,974
+ 2             All Plants      9,636    $273,198,552     $54,639,710 $218,558,842         $22,681
+
+ 3   Q.     SHOULD CONTINGENCY COSTS BE INCLUDED IN DEPRECIATION RATES?
+
+ 4   A.     No, depreciation rates should reflect expected outcomes rather than unexpected outcomes.
+
+ 5          Contingency costs are costs that are intended to account for unexpected outcomes.
+
+ 6   Q.     WHAT IS YOUR RECOMMENDATION REGARDING COAL PLANT
+ 7          DECOMMISSIONING?
+
+ 8   A.     I recommend that contingency cost be removed from the coal plant terminal retirement cost
+
+ 9          forecast.
+
+10   Q.     WHAT IS THE BASIS FOR YOUR JUDGMENT THAT CONTINGENCY COSTS
+11          SHOULD BE REMOVED FROM DEPRECIATION RATES?
+
+12   A.     I considered that the Company’s historic decommissioning cost per MW is substantially lower
+
+13          than the forecasted costs, the Company’s history of over forecasting coal plant
+
+14          decommissioning cost, and that contingency costs represent costs that are not expected to
+
+15          occur.
+
+16   b. Gas Plants
+
+17   Q.     WHY HAVE YOU CONCLUDED THAT GAS PLANT DECOMMISSIONING COSTS
+18          ARE OVERSTATED?
+
+19   A.     This conclusion is based on a similar rationale as coal plants. Specifically, historic experience
+
+20          does not support the utility’s decommissioning study and contingency fees are inappropriate to
+
+21          include when calculating depreciation rates.
+
+
+                                                        14
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.      HOW DO HISTORIC GAS PLANT RETIREMENT COSTS COMPARE TO THE
+ 2           COMPANY’S FORECAST?
+
+ 3   A.      The table below summarizes historic gas plant retirement costs. The total retirement costs are
+
+ 4           presented with and without three potentially abnormal costs.
+
+ 5                                                              Table 5
+
+                                                   Plant In                                 Net                  Net Salvage
+             Plant Retired             MW          Service       COR       Salvage         Salvage                Per MW
+
+     Arkwright                        30.58    $       4,830 $     61 $          (190) $               (129) $          (4.22)
+     Atkinson                         78.72            6,937     245             (810) $               (565) $          (7.18)
+     Boulevard Units 2 & 3            39.40              942     533              (72) $                461 $           11.70
+     Bowen Unit 6                     39.40            3,614     403                72 $                476 $           12.07
+     Intercession City                57.00           12,553     -             (8,139) $             (8,139) $        (142.79)
+     Kraft                            22.00            2,886       32             (10) $                  23 $           1.02
+     McManus Diesel                   61.00              626     -                -    $                -    $            -
+     Mitchell Units 4A, 4B, & 4C      39.40           12,373        2            (990) $               (987) $         (25.06)
+     All Plants                       367.50          44,761   1,276          (10,138)               (8,862) $         (24.11)
+ 6   All Except Intercession          310.50          32,208   1,276           (1,999)                 (723) $          (2.33)
+
+
+ 7   Q.      WHAT HAS THE COMPANY FORECASTED FOR THE COST TO RETIRE THE
+ 8           REMAINING GAS PLANTS?
+
+ 9   A.      The table below summarizes the decommissioning costs included in the Company’s study.
+
+10                                                              Table 6
+
+                                   Plant                      Total Cost   MW $ per MW
+                                   Boulevard                  $ 6,881         19 $ 2,382
+                                   McDonough                  14,181,833   2,772    5,116
+                                   McIntosh CC                 8,695,953   1,360    6,395
+                                   McIntosh CTs                3,879,000     756    5,131
+                                   McManus                     2,344,557     499    4,702
+                                   Robins                      1,483,423     186    7,975
+                                   Wansley                     4,287,715      32  133,574
+                                   Wilson                      1,509,586     353    4,271
+11
+
+12           The proposed cost per MW for future gas plant retirements far exceeds the historic cost per
+
+13           MW. In fact, historic costs show that salvage value has on average exceeded cost of removal.
+
+14           Georgia Power’s decommissioning study includes a 25 percent contingency. This contingency
+
+                                                                 15
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1          does not reflect expected decommissioning costs, and thus is inappropriate to include in
+
+ 2          depreciation rates.
+
+ 3   Q.     WHAT IS YOUR RECOMMENDATION REGARDING DECOMMISSIONING OF
+ 4          GAS PLANTS?
+
+ 5   A.     I recommend the costs associated with the 25% contingency factor be removed from the
+
+ 6          decommissioning expense used to calculate depreciation rates for gas plants.
+
+ 7   c. Nuclear Plant
+
+ 8   Q.     PLEASE SUMMARIZE YOUR ANALSYS OF NUCLEAR PLANT
+ 9          DECOMMISSIONING COSTS.
+
+10   A.     Nuclear decommissioning and decommissioning funding are regulated by the Nuclear
+
+11          Regulatory Commission. Georgia Power collects decommissioning funds from rate payers to
+
+12          fund nuclear decommissioning and contributes these funds to a trust. Georgia Power has
+
+13          represented that its nuclear plant decommissioning trust is fully funded and does not require
+
+14          additional contributions. No funds are requested in this rate case related to nuclear plant
+
+15          decommissioning. I recommend the Commission accept the Company’s filed nuclear plant
+
+16          decommissioning expense included in rates.
+
+17   d. Hydro Plant
+
+18   Q.     PLEASE SUMMARIZE YOUR ANALYSIS OF HYDRO PLANT
+19          DECOMMISSIONING COSTS.
+
+20   A.     Georgia Power has a limited history of hydro generation plant decommissioning, with only two
+
+21          decommissioned facilities. Georgia Power’s hydro decommissioning study does not appear to
+
+22          include contingency costs. I recommend the Commission accept the Company’s filed hydro
+
+23          plant decommissioning related depreciation expense included in rates.
+
+
+                                                        16
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   e. Solar Plant
+
+ 2   Q.         PLEASE SUMMARIZE YOUR ANALYSIS OF SOLAR PLANT
+ 3              DECOMMISSIONING COSTS.
+
+ 4   A.         The Company has assumed no net decommissioning costs for its solar facilities. This
+
+ 5              assumption is not realistic as solar facilities are expected to have decommissioning costs. One
+
+ 6              solar developer has estimated solar decommissioning costs to range from $25,000 to $50,000
+
+ 7              per MW.15 However, these estimates are not specific to the Company’s facilities. Although
+
+ 8              there is no basis for the Company’s assumption of no cost, I do not recommend an alternate
+
+ 9              rate because a formal study of the Company’s specific costs has not been performed. I
+
+10              recommend the Commission approve the Company’s proposed solar decommissioning
+
+11              expense, but also direct the Company to sponsor a solar decommissioning study of Company
+
+12              owned solar facilities and to incorporate these costs into its next depreciation study.
+
+13
+
+14
+
+15                                               V.       REMAINING LIVES
+
+16   Q.         HOW IS AN ACCOUNT’S EXPECTED REMAINING LIFE CALCULATED?
+
+17   A.         Remaining life is determined by modeling when each asset in an account is expected to retire.
+
+18              Like humans, not all assets retire at the same age. The average age of human retirement in the
+
+19              United States is currently 61 years old, but some retire before or after that age. . Retirements of
+
+20              both people and assets follow a statistical distribution, and the shape of that distribution
+
+21              determines the average age of retirement. The figures below illustrate examples of different
+
+
+     15
+          Calculated from https://solunesco.com/2018/09/10/decommissioning-of-solar-sites-a-key-consideration-of-the-project/
+                                                                 17
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1              distributions, expressed as percent surviving.16 This figure expresses distributions as proportion
+
+2              surviving. In depreciation studies, retirement distributions are typically represented in this
+
+3              format and referred to as survivor curves.
+
+4                                                               Figure 1
+
+
+5
+
+6
+
+
+    16
+         These distributions represent human mortality distributions from 1921, as presented in Robley Winfrey, (1935) Bulletin
+               125, Iowa Engineering Experiment Station page 16. Available at
+               https://hdl.handle.net/2027/mdp.35128000776532.
+                                                                  18
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1                       Remaining life is the difference between current age and retirement age. For any given
+
+ 2              retirement distribution, remaining life is a function of current age. In the simplest example,
+
+ 3              suppose every person retires at age 61, and no person retires early or late. Under this
+
+ 4              distribution remaining life follows the function:
+
+ 5                                               𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐿𝑖𝑓𝑒 = 61 − 𝐶𝑢𝑟𝑟𝑒𝑛𝑡 𝐴𝑔𝑒
+
+ 6              Different retirement distributions have different remaining life functions; however, each
+
+ 7              retirement distribution corresponds to a single remaining life function. Remaining life is thus
+
+ 8              dependent on the expected distribution of future retirements.
+
+ 9   Q.         HOW IS THE DISTRIBUTION OF FUTURE RETIREMENTS DETERMINED?
+
+10   A.         The distribution of retirements is typically expressed as a distribution shape, an average age,
+
+11              and for some accounts a terminal retirement date. The Alliance Study estimates distribution
+
+12              shape and average age by visually matching historical retirements to various standardized
+
+13              survival curves.17 For example, for the account 392.21 Light Trucks the Alliance Study
+
+14              recommends the use of the L1.5 shaped Iowa curve and an average life of 6 years. This
+
+15              distribution produces a reasonable visual fit of the historic data, as seen below.
+
+
+     17
+          Alliance Study page 17. For some accounts the Alliance study uses an alternate method called the “Simulated Plant
+                Record Procedure”. I do not dispute the Alliance results that rely on this procedure, and thus focus on the survival
+                curve fitting procedure.
+                                                                    19
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                  Figure 2: Company Proposed Survivor Curve for Account 392.2
+
+
+2
+
+3              The Alliance Study also notes that judgment was applied in modeling survivor curves.18 For
+
+4              some specific curves the Alliance Study’s recommended fit is, even on a visual basis, poor. I
+
+5              understand that for these curves the Alliance Study may be relying on the application of
+
+6              judgment to substantiate deviating from historic data. An example of a poor visual fit is
+
+7              provided below.
+
+
+    18
+         Alliance Study page 19.
+                                                              20
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1                                Figure 3: Company Proposed Survivor Curve for Account 397
+
+
+ 2
+
+ 3          I have alternate recommendations for some accounts where the Alliance Study recommends a
+
+ 4          curve that visually deviates from historic data. These alternate recommendations are based in
+
+ 5          part on a difference in judgment. The Alliance Study provides the following information
+
+ 6          regarding judgment:
+
+ 7                 Where there are multiple factors, activities, actions, property characteristics,
+ 8                 statistical inconsistencies, property mix in accounts, or a multitude of other
+ 9                 considerations that affect the analysis (potentially in various directions), judgment
+10                 is used to take all of these considerations and synthesize them into a general
+11                 direction or understanding of the characteristics of the property. Individually, no
+12                 one consideration in these cases may have a substantial impact on the analysis,
+13                 but overall, the collective effect of these considerations may shed light on the use
+14                 and characteristics of assets.
+15
+
+
+                                                            21
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1              The Alliance Study’s description of the use of judgment is problematic because it includes a
+
+ 2              long menu of factors and involves an ill-defined process of synthesis and is not transparent.
+
+ 3              This contradicts the principles of judgmental forecasting that fewer factors be considered and
+
+ 4              that forecasts be justified.19 The Alliance Study’s approach to judgment also conflicts with the
+
+ 5              NARUC depreciation guidance that judgment involve giving specific weight to specific
+
+ 6              factors.
+
+ 7   Q.         WHAT ACCOUNTS DO YOU MAKE ALTERNATE RECOMMENDATIONS FOR?
+
+ 8   A.         I have alternate recommendations for the distributional shape and average life for the following
+
+ 9              accounts, grouped by type of asset rather than function:
+
+10              1. Easements
+
+11              2. Structures and Improvements
+
+12              3. Miscellaneous
+
+13                   a. Easements
+
+14   Q.         WHAT ARE THE CHARACTERISTICS OF EASEMENTS THAT AFFECTED YOUR
+15              JUDGMENT?
+
+16   A.         Easements are not physical assets that degrade and fail over time. The Company’s easements
+
+17              have a theoretically unlimited life, but individual easements may be vacated if the Company no
+
+18              longer uses the easement. Thus, if an easement is never vacated, the easement will never be
+
+19              retired.
+
+
+     19
+          Stewart, T. R. (2001). Improving reliability of judgmental forecasts. In J. S. Armstrong (Ed.), Principles of Forecasting:
+               A Handbook for Researchers and Practitioners (pp. 81-106): Kluwer Academic Publishers.
+                                                                    22
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1   Q.         WHAT IS YOUR RECOMMENDATION FOR ACCOUNT 350 TRANSMISSION
+ 2              EASEMENTS AND HOW DOES IT COMPARE TO THE COMPANY’S
+ 3              RECOMMENDATION
+
+ 4   A.         The figure below illustrates both Georgia Power and Staff’s proposed distributions for Account
+
+ 5              350 Transmission Easements.
+
+ 6                                        Figure 4: Account 350 Transmission Easements
+
+
+ 7
+
+ 8              The Original Curve reflects the historic data. The solid blue line reflects the Company’s
+
+ 9              proposed square (SQ) survival curve with an average life of 85 years.20 The blue line with x
+
+10              represents the Staff proposal of an S6 curve and an average life of 120 years. The Company’s
+
+
+     20
+          Alliance Study page 63.
+                                                              23
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1          recommendation provides a poor visual fit after age 85 because the original survivor curve
+
+ 2          remains at 100 percent while the Company’s proposed survivor curve drops to zero percent,
+
+ 3          resulting in 100 percent error in every age after 85 years.
+
+ 4                  The Company offers the following rationale for these parameters: “Since the longest
+
+ 5          life in this functional group is 85 years, this study recommends retaining an 85-year life and
+
+ 6          SQ dispersion for this account.” While not explicitly stated, the underlying assumption is that
+
+ 7          all transmission easements will survive for the expected average life of the longest lived
+
+ 8          transmission asset (in this case transmission structures and improvements), and that all
+
+ 9          easements will be abandoned the year following the average life.
+
+10                  The unreasonableness of this assumption is demonstrated by the Company’s grid
+
+11          investment program. As transmission assets are retired in the grid investment program, rather
+
+12          than vacating the corresponding easements, the Company is rebuilding transmission assets,
+
+13          thus extending the expected use of the transmission easements. There is no technology
+
+14          currently being contemplated that would lead to the wholesale abandonment of the Company’s
+
+15          easements. While it is possible that the Company occasionally abandons transmission
+
+16          easements in the future, I expect that the majority of the Company’s easements will be retained
+
+17          as transmission lines are rebuilt rather than retired and vacated. While technological change
+
+18          could bring about a systematic retirement of transmission lines, no such change is likely to
+
+19          occur in the near future.
+
+20                  The historic data indicates 100 percent survival for throughout the entire age range,
+
+21          which is nearly 110 years. Thus, it is reasonable to expect that the actual average life will
+
+22          exceed 110 years by some amount. A square curve is an unreasonable shape for this asset
+
+23          because it is extremely unlikely that all transmission easements will be retired at a fixed age.
+                                                         24
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1          Every retirement curve, other than a square curve, that fits the historic data predicts life in
+
+ 2          excess of 140 years. I recommend adopting the 120-S6 curve because this curve is consistent
+
+ 3          with historical data and the Company’s reinvestment in aging transmission but does not assume
+
+ 4          substantial life beyond the observed data. This recommendation also gives some weight to the
+
+ 5          Company’s forecast of an 85-year average life by shortening the life indicated by historical
+
+ 6          data, which suggests an average life of at least 140 years.
+
+ 7   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 360 DISTRIBUTION
+ 8          EASEMENTS?
+
+ 9   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+10          survivor curves and Staff’s recommended survivor curve.
+
+
+                                                         25
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                         Figure 5: Account 360 Distribution Easements
+
+
+2
+
+3              As with the transmission easement account the Company proposes a square curve but with a
+
+4              shorter average life of 70 years. The Company’s proposed curve is a poor visual fit of the data
+
+5              after the age of 70. The Company makes this proposal “Based on lives for many assets in this
+
+6              function.”21 The rationale for the Company’s recommendation in this account suffers from the
+
+7              same flaws as transmission easements. Specifically, it is unlikely for distribution easements to
+
+8              be vacated after the retirement of the distribution assets associated with the easements. It is
+
+
+    21
+         Alliance Study page 77.
+                                                              26
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1          more reasonable to expect that the Company replaces retired distribution assets, extending the
+
+ 2          life of the distribution easement.
+
+ 3                 I recommend the 100-S6 curve be used for this account for similar reasons as Account
+
+ 4          350. I recommend a lower average life for the distribution easement relative to transmission
+
+ 5          because my recommendation includes consideration of the Company’s forecast, and because
+
+ 6          the historic data includes some retirements.
+
+ 7   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 389 GENERAL
+ 8          PLANT EASEMENTS?
+
+ 9   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+10          survivor curves and Staff’s recommended survivor curve.
+
+
+                                                       27
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                         Figure 6: Account 389 General Plant Easements
+
+
+2
+
+3              The Company recommends an SQ curve with a 60-year average life. The Company’s proposed
+
+4              curve is a poor fit of the data after age 30. The Company’s recommendation for this curve is
+
+5              different than its recommendation for the other easement accounts. The Alliance Study states
+
+6              “Since most of the assets in this account have retained the existing life, this study recommends
+
+7              retention of the existing 60-year life with an SQ dispersion.”22 The Company’s justification
+
+8              appears to be circular, as the reason that the assets have retained the existing life is that the
+
+9              study recommends retention of the existing life.
+
+
+    22
+         Alliance Study page 97.
+                                                              28
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1                 Unlike transmission and distribution easements, the Company’s data shows material
+
+ 2          retirements of general plant easements. I recommend the use of an R2 curve with a 100-year
+
+ 3          average life. This results in a curve that visually fits the data when less weight is placed on the
+
+ 4          oldest historical retirements. My recommendation is based primarily on the Company’s
+
+ 5          historical retirements.
+
+ 6             b. Structures and Improvements
+
+ 7   Q.     WHAT COMMON FACTORS AFFECT YOUR ANALYSIS OF STRUCTURES AND
+ 8          IMPROVEMENTS ACCOUNTS?
+
+ 9   A.     Structures and improvements accounts include building structures, individual components of
+
+10          structures such as roofs, lighting, and heating, and other property improvements such as
+
+11          fencing. Typically, the primary building structures account for most of the total value in these
+
+12          accounts. Certain building types and systems can, with proper maintenance, survive for
+
+13          hundreds of years or more. Other types of buildings with less durable materials or more
+
+14          integrated materials have can have lives from 50 to 100 years, and individual building
+
+15          components such as roofing and lighting typically range in expected life from several years to
+
+16          40 or more years. Changing land value or land use typically drives the retirement of entire
+
+17          building systems rather than failure of the primary building structure. For accounts with
+
+18          terminal retirement dates, building structures are expected to survive.
+
+19   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 331 STEAM
+20          STRUCTURES AND IMPROVEMENTS?
+
+21   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+22          survivor curves and Staff’s recommended survivor curve.
+
+
+                                                        29
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                    Figure 7: account 331 Steam Structures and Improvements
+
+
+2
+
+3              The Company proposes an R2.5 curve with an average age of 100 years. This curve begins to
+
+4              deviate from the actual retirement data at an age of 20 years and exhibits substantial deviation
+
+5              for survival past 50 years. The Alliance Study offers no explanation for the basis of the
+
+6              proposed curves or the deviation from the historic data.23 The primary structures for this
+
+7              account house coal generation facilities and are unlikely to be retired prior to the terminal
+
+8              retirement dates for the corresponding units. Furthermore, many of these units are approaching
+
+9              retirement. As assets approach terminal retirement maintenance becomes more economical
+
+
+    23
+         Alliance Study page 45.
+                                                              30
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1          than replacement. Deteriorating building systems such as roofing and heating that would
+
+ 2          typically be replaced mid-life are more economical to repair towards a plant’s end of life
+
+ 3          because of the short duration over which replacement facilities would function. I recommend
+
+ 4          the use of an R2.5 curve with a 120-year average life. This recommendation is based on the
+
+ 5          factors described above and includes consideration of the Company’s analysis and
+
+ 6          expectations.
+
+ 7   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 352 TRANSMISSION
+ 8          SUBSTATION STRUCTURES AND IMPROVEMENTS?
+
+ 9   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+10          survivor curves and Staff’s recommended survivor curve.
+
+
+                                                       31
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                              Figure 8: Account 352 Transmission Substation Structures and Improvements
+
+
+2
+
+3                      The Company proposes an R2.5 curve with an 85-year average life. The Company’s
+
+4             proposed curve is a poor fit of historic data for assets of 50 years old. The Company justifies its
+
+5             proposed curve based on the potential for the Grid Investment Program to retire some
+
+6             substation structures.24 However, the Grid Investment Program is only expected to affect 2.6
+
+7             percent of substations over the next three years.25 Furthermore, brownfield substation
+
+
+    24
+         Alliance Study page 64.
+    25
+         Response to Informal Data Requests Depreciation Study Meeting 2022-08-18.
+                                                                 32
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1              investments will retain all structures except control houses, and control houses are expected to
+
+ 2              be more robust in the future.26
+
+ 3                      I recommend an R2 survival curve with a 100-year average life be used for this
+
+ 4              account. This recommendation is based on a visual fit of the data, with less weight placed on
+
+ 5              the ages 70 through 100 to reflect the potential impact of the Grid Investment Program and the
+
+ 6              Company’s expectation that control houses will be more robust in the future.
+
+ 7   Q.         WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 361 DISTRIBUTION
+ 8              SUBSTATION STRUCTURES?
+
+ 9   A.         The figure below compares the Company’s historic data with the Company’s proposed
+
+10              survivor curves and Staff’s recommended survivor curve.
+
+
+     26
+          Alliance Study page 64.
+                                                           33
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                    Figure 9: Account 361 Distribution Substation Structures
+
+
+2
+
+3              The Company proposes an R2.5 survivor curve with an average life of 70 years. This curve
+
+4              results in a marginal deviation from the data for ages 20 through 40 and deviates materially
+
+5              from the historical data after age 50. The Company bases its recommendation on the potential
+
+6              impact of the Grid Investment Program and actuarial analysis.27 As I noted for Account 352
+
+7              however, the Grid Investment Program affects only 2.6 percent of the Company’s substations
+
+8              and will therefore have a minimal impact on the average life. Furthermore, the Actuarial
+
+9              analysis does not support the Company’s recommended curve. Staff proposes a curve that has
+
+
+    27
+         Alliance Study page 78.
+                                                               34
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1          an improved fit for both the 20 to 40 age band and the 50 and later ages. Staff proposes an R1.5
+
+ 2          curve with an 85-year average life. This recommendation provides an improved fit of the
+
+ 3          Company’s data and remains consistent with the Company’s expectations related to the Grid
+
+ 4          Investment Program and more robust control houses.
+
+ 5   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 390 GENERAL
+ 6          STRUCTURES AND IMPROVEMENTS?
+
+ 7   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+ 8          survivor curves and Staff’s recommended survivor curve.
+
+ 9                              Figure 10: Account 390 General Structures and Improvements
+
+
+10
+
+
+                                                           35
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1           The Company proposes an R1 survivor curve with an average life of 55 years. This curve
+
+ 2           deviates materially from the historical data between ages 40 and 90. The Company’s
+
+ 3           recommended curve is based on Company expectations regarding the lives of various building
+
+ 4           components ranging from 15 to 55 years and the main structures of the buildings surviving 60
+
+ 5           to 80 years.28 As with the other structure accounts, I recommend basing the survivor curve for
+
+ 6           this account on historic data with less weight given to the oldest assets. I recommend an R0.5
+
+ 7           curve with a 65-year average life. Unlike my recommendations for most other asset accounts,
+
+ 8           my recommendation for this account materially exceeds the actual percent surviving for later
+
+ 9           ages. I attribute this to a single abnormal retirement that is not representative of expected
+
+10           outcomes.29 My consistent treatment of placing less weight on tail or older aged portions of the
+
+11           historic survival curves is consistent with the Alliance Study which, quoting Depreciation
+
+12           Systems, states “Points at the end of the curve are often based on fewer exposures and may be
+
+13           given less weight than those points based on larger samples.”30 My recommendation for this
+
+14           account applies judgment that is consistent with the judgment used for my other
+
+15           recommendations. I consistently recommend curves that are fit to the Company’s historic data
+
+16           but that have lower weight placed on the oldest portions of the survivor curves.
+
+
+     28
+        Alliance Study page 98.
+     29
+        Ga Power Actuarial Data Set at 2020.xls rows 25877 to 25879 show that retirement in 2001 accounts for all of the
+                       change in the historic survival curve from experience years 74 through 76, indicating that a single
+                       building or building system was retired which had multiple vintages. Response to Staff DR STF-AI-1-1
+                       Attachment.
+     30
+        Alliance Study page 16.
+                                                               36
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1                  c. Miscellaneous Accounts
+
+ 2   Q.         WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 332 RESERVOIRS,
+ 3              DAMS, AND WATERWAYS?
+
+ 4   A.         The figure below compares the Company’s historic data with the Company’s proposed
+
+ 5              survivor curves and Staff’s recommended survivor curve.
+
+ 6                                       Figure 11: 332 Reservoirs, Dams, and Waterways
+
+
+ 7
+
+ 8              The Company proposes an R4 survivor curve with an average life of 100 years. This curve
+
+ 9              deviates materially from the historical data after 60 years of exposure. The Company provides
+
+10              no basis for its proposed curve or to justify the deviation from historic data.31 I recommend an
+
+
+     31
+          Alliance Study page 46.
+                                                              37
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1             R4 curve with an average life of 120 years. The majority of assets in this account are concrete
+
+ 2             structures or earthworks that will not be retired until the terminal retirement of corresponding
+
+ 3             hydro facility. Other hydro asset accounts have a similar length of history but display
+
+ 4             substantially greater retirements. This indicates that the retirement experience of the older
+
+ 5             assets in this account is reliable.
+
+ 6                     I recommend an R4 curve with a 120-year average life be used for this account. This
+
+ 7             recommendation reflects consideration of the Company’s opinion regarding the appropriate
+
+ 8             shape of the retirement curve while also incorporating the extended average life suggested by
+
+ 9             actual retirement data and the fact that most assets in this account will survive to terminal
+
+10             retirement. I understand that the Company is undertaking a hydro modernization program to
+
+11             extend the lives of some hydro facilities. However, based on my review of the retirement units
+
+12             in this Account I do not expect the modernization to result in a material change in the
+
+13             Company’s actual survival curve because most of the value in these accounts will not be retired
+
+14             as part of the modernization.32 Furthermore, my recommended curve shows a substantially
+
+15             shorter life than the company’s historic data indicate in order to account for the potential of the
+
+16             modernization project.
+
+17   Q.        WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 353 STATION
+18             EQUIPMENT?
+
+19   A.        The figure below compares the Company’s historic data with the Company’s proposed
+
+20             survivor curves and Staff’s recommended survivor curve.
+
+
+     32
+          Response to Staff DR STF-AI-1-1 Attachment “Georgia Power RTU at 2020.xlsx”.
+                                                              38
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                          Figure 12: Account 353 Station Equipment
+
+
+2
+
+3              The Company proposes an R0.5 survivor curve with an average life of 49 years. This curve
+
+4              results in a marginal deviation from the data for ages 10 through 30 and deviates materially
+
+5              from the historical data after age 70. The Company’s recommendation is based on input from
+
+6              Company personnel and actuarial analysis.33 The Company identities changing equipment type
+
+7              and operating equipment with closer tolerances as factors that may shorten asset lives relative
+
+8              to historic data. I recommend the use of an L0.5 curve with a 53-year average life. This curve
+
+9              has an improved fit of the Company’s data for 10 to 30 years of experience relative to the
+
+
+    33
+         Alliance Study page 65.
+                                                             39
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1          Company’s proposed curve while still achieving a shorter average life than indicated in the tail
+
+ 2          of the data.
+
+ 3   Q.     WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 392.3 HEAVY
+ 4          TRUCKS?
+
+ 5   A.     The figure below compares the Company’s historic data with the Company’s proposed
+
+ 6          survivor curves and Staff’s recommended survivor curve.
+
+ 7                                       Figure 13: Account 392.3 Heavy Trucks
+
+
+ 8
+
+ 9          The Company proposes an L0 survivor curve with an average life of 9 years. This curve results
+
+10          in a marginal deviation from the data for ages 3 through 25. The Company’s recommendation
+
+11          is based on actuarial analysis and information gathered from Company personnel, who report
+
+                                                         40
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1              that certain trucks are used on double shifts, potentially increasing mileage.34 I recommend the
+
+ 2              use of an L0 curve with a 10-year average life. Actuarial analysis supports an L0 with 10 years
+
+ 3              over one with 9 years, as can be seen by the improved fit across the entire exposure period.
+
+ 4
+
+ 5   Q.         WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 392.4 TRAILERS
+ 6              AND ATVS?
+
+ 7   A.         The figure below compares the Company’s historic data with the Company’s proposed
+
+ 8              survivor curves and Staff’s recommended survivor curve.
+
+ 9                                         Figure 14: Account 392.4 Trailers and ATVs
+
+
+10
+
+
+     34
+          Alliance Study page 102.
+                                                              41
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+ 1              The Company proposes an L1.5 survivor curve with an average life of 8 years. This curve
+
+ 2              deviates materially from the historical data after year 8. The Company justifies the
+
+ 3              recommendation based on the variety of assets in the account and actuarial analysis. However,
+
+ 4              this curve performs poorly at modeling the mixed asset nature of the account, which has short
+
+ 5              lived assets like ATVs and long-lived assets such as trailers. 35 While the Company’s
+
+ 6              recommended curve fits the short-lived assets well, the fit of the Company’s recommended
+
+ 7              curve is poor for trailers which is reflected in the deviation of the fit after age 8. I recommend
+
+ 8              the use of an L0 curve with an average life of 10 years. This curve sacrifices some fit of the
+
+ 9              early survival curve but achieves a large improvement in the fit of the longer-lived assets.
+
+10   Q.         WHAT IS YOUR RECOMMENDATION FOR THE ACCOUNT 397
+11              COMMUNICATIONS EQUIPMENT?
+
+12   A.         The figure below compares the Company’s historic data with the Company’s proposed
+
+13              survivor curves and Staff’s recommended survivor curve.
+
+
+     35
+          Alliance Study page 103.
+                                                            42
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280
+
+1                                        Figure 15 Account 397 Communications Equipment
+
+
+2
+
+3              The Company proposes an L0 survivor curve with an average life of 20 years. This curve
+
+4              deviates materially from the historical data after year 20. The Company’s recommendation is
+
+5              based on an input from Company personnel and life analysis results.36 However, the Company
+
+6              personnel input is that approximately half of the accounts value will consist of fiber,
+
+7              microwaves towers, and antennae, which have expected lives of 40 years. As with the previous
+
+8              account 392.4, the Company’s proposed curve in this account fits short lived assets well, but at
+
+9              the cost of poorly fitting the retirement characteristics of long-lived assets such as fiber. I
+
+
+    36
+         Alliance Study page 105.
+                                                              43
+    Prepared Direct Testimony of
+    Lance D. Kaufman
+    Docket No. 44280
+
+ 1          recommend the use of an O3 curve with a 30-year average life. This curve provides a
+
+ 2          reasonable fit of the short-lived assets in this account while still appropriately representing
+
+ 3          expectations for longer lived assets.
+
+ 4   Q.     WHAT IS YOUR ASSESSMENT OF THE DEPRECIATION PARAMETERS NOT
+ 5          DISCUSSED IN THIS TESTIMONY?
+
+ 6   A.     I have reviewed the proposed remaining lives and net salvage rates for each account in this
+
+ 7          case that accumulates depreciation. I found the remaining parameters proposed by the
+
+ 8          Company to be reasonable and consistent with the data and expectations.
+
+ 9   Q.     DOES THIS CONCLUDE YOUR TESTIMONY?
+
+10   A.     Yes.
+
+
+                                                        44
+     Prepared Direct Testimony of
+     Lance D. Kaufman
+     Docket No. 44280

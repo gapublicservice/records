@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73989,
+      "bytes": 526176,
+      "fetched": "2026-11-20T08:42:23+00:00",
+      "name": "documents (29).zip",
+      "sha256": "db6d9aee3c24dad1615cae2fbbb000a1875201ea05124438d6324180d129e67b",
+      "text": "zip (2 read)",
+      "text_file": "data/text/192/192221/73989.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192221/73989"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Supplemental Rebuttal Testimony of the Panel of Lee Evans and Larry Legg",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192221,
+  "filed_date": "2022-11-23",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192221"
+}

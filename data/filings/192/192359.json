@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74121,
+      "bytes": 350109,
+      "fetched": "2026-11-20T08:44:52+00:00",
+      "name": "hearing_brief_of_southern_alliance.pdf",
+      "sha256": "7a627b24dcdd87579373279004ba193250a0dd2260fa54afedb23e2f3b93a27c",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192359/74121.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192359/74121"
+    }
+  ],
+  "company": "Southern Alliance for Clean Energy and Southface Energy Institute",
+  "description": "Hearing Brief of the Southern Alliance for Clean Energy and Southface Energy Institute",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192359,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192359"
+}

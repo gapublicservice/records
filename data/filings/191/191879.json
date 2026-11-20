@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73618,
+      "bytes": 3673921,
+      "fetched": "2026-11-20T08:35:57+00:00",
+      "name": "docket_44280_stf-tai-7-1_revised.zip",
+      "sha256": "86a19ac85bff0acbf1afd0a9c5250dd7b073edff7ea4522d21ae4d2bfd6ac3f1",
+      "text": "zip (2 read, 2 not read)",
+      "text_file": "data/text/191/191879/73618.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191879/73618"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 STF-TAI-7-1 Revised Data Request Response",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191879,
+  "filed_date": "2022-10-21",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191879"
+}

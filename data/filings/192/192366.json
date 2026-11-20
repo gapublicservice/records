@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74128,
+      "bytes": 231381,
+      "fetched": "2026-11-20T08:45:06+00:00",
+      "name": "kroger_brief_and_proposed_order_44280.pdf",
+      "sha256": "c7d2d9f7fdded621503d84d27e7d5be2f41d6efd8e3aaecd99294918532a22bf",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192366/74128.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192366/74128"
+    }
+  ],
+  "company": "The Kroger Co.",
+  "description": "The Kroger Co. Brief and Proposed Order",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192366,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192366"
+}

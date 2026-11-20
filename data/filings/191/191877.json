@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73600,
+      "bytes": 122311,
+      "fetched": "2026-11-20T08:35:52+00:00",
+      "name": "letter_to_commission_docket_44280_10-20-2022.pdf",
+      "sha256": "ef63620cacac0bfc92271fb6617580bbe6eb2f6563e9d1c26e2b324dd5ba71aa",
+      "text": "pdftotext",
+      "text_file": "data/text/191/191877/73600.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191877/73600"
+    }
+  ],
+  "company": "Georgia Solar Energy Association, Inc.",
+  "description": "Letter to Commission; GA Solar not filing direct testimony at this time.",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191877,
+  "filed_date": "2022-10-20",
+  "harvested": "2026-11-20",
+  "received_date": "2022-10-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191877"
+}

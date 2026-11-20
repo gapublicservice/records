@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73277,
+      "bytes": 213429,
+      "fetched": "2026-11-20T08:29:57+00:00",
+      "name": "44280 Order - Georgia Conservation Voters.docx",
+      "sha256": "1518e320686195c9c2f1e381c1f024fd41db74143b44307a46266a22eb7755b4",
+      "text": "docx",
+      "text_file": "data/text/191/191598/73277.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191598/73277"
+    },
+    {
+      "attachment_id": 73278,
+      "bytes": 1100578,
+      "fetched": "2026-11-20T08:29:59+00:00",
+      "name": "191598.pdf",
+      "sha256": "6561e0ba6a69be5c8155a797299d64bd66e72126f8a030d23d12a4bb9900bab3",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191598/73278"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER CONSOLIDATING MULTIPLE APPLICATIONS FOR LEAVE TO INTERVENE",
+  "dockets": [
+    44280
+  ],
+  "document_id": 191598,
+  "filed_date": "2022-09-21",
+  "harvested": "2026-11-20",
+  "received_date": "2022-09-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=191598"
+}

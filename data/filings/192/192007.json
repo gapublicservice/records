@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73773,
+      "bytes": 109254,
+      "fetched": "2026-11-20T08:38:23+00:00",
+      "name": "44280_chargepoint_notice_of_appearance.pdf",
+      "sha256": "0db2384bbdb3e4015e5514bcdecc90e203da98bca1dda4bcb9398db0ea59f409",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192007/73773.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192007/73773"
+    }
+  ],
+  "company": "ChargePoint, Inc.",
+  "description": "Notice of Appearance of Counsel for ChargePoint, Inc.",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192007,
+  "filed_date": "2022-11-04",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-04",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192007"
+}

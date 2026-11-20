@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74701,
+      "bytes": 12688746,
+      "fetched": "2026-11-20T08:57:01+00:00",
+      "name": "dkt_44280_rate_case_compliance_filing.zip",
+      "sha256": "1e0c66007ee0be83926998c1be1cad35e7ce035b24788ba5fa2296e266f0a35f",
+      "text": "zip (14 read, 64 not read)",
+      "text_file": "data/text/193/193023/74701.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/193023/74701"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 44280 2022 Rate Case Compliance Filing",
+  "dockets": [
+    44280
+  ],
+  "document_id": 193023,
+  "filed_date": "2023-01-30",
+  "harvested": "2026-11-20",
+  "received_date": "2023-01-30",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=193023"
+}

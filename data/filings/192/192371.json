@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 74133,
+      "bytes": 204800,
+      "fetched": "2026-11-20T08:45:13+00:00",
+      "name": "utility_mangement_services_proposed_order_and_brief.pdf",
+      "sha256": "bf5f99d9f157c9b851d8b08956f34451f3f37e49368cebe57489a5b293941862",
+      "text": "pdftotext",
+      "text_file": "data/text/192/192371/74133.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192371/74133"
+    }
+  ],
+  "company": "Utility Management Services",
+  "description": "Utility Management Services' Proposed Order and Brief",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192371,
+  "filed_date": "2022-12-08",
+  "harvested": "2026-11-20",
+  "received_date": "2022-12-08",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192371"
+}

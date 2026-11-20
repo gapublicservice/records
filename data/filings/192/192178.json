@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 73961,
+      "bytes": 57440,
+      "fetched": "2026-11-20T08:41:35+00:00",
+      "name": "georgia_power_supplemental_direct_testimony_errata.docx",
+      "sha256": "800225199914b946fe15aaa1e2587a5d6788973967f0a1933ecfddb008fe97c1",
+      "text": "docx",
+      "text_file": "data/text/192/192178/73961.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/192178/73961"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Errata to Georgia Power Company's Supplemental Direct Testimony",
+  "dockets": [
+    44280
+  ],
+  "document_id": 192178,
+  "filed_date": "2022-11-21",
+  "harvested": "2026-11-20",
+  "received_date": "2022-11-21",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=192178"
+}
