@@ -3,7 +3,9 @@
     {
       "attachment_id": 105428,
       "bytes": 222864,
+      "fetched": "2026-11-20T01:05:15+00:00",
       "name": "Docket No. 44280 Order Approving Staff's Recommendation for 2025 Alternative Community Charger Locations.docx",
+      "sha256": "430cf34e2a189e47e34ae5465a1ba300b3d08096d71921452c2ca144043370a3",
       "text": "docx",
       "text_file": "data/text/224/224137/105428.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 105429,
       "bytes": 1587799,
+      "fetched": "2026-11-20T01:05:16+00:00",
       "name": "224137.pdf",
+      "sha256": "f1b115b35fb461d7ee3df063c3ae90f1e77ee2531f5fd5dc11dff8a0e8a7f2a8",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224137/105429"

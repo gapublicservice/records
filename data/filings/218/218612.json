@@ -3,7 +3,9 @@
     {
       "attachment_id": 99689,
       "bytes": 238915,
+      "fetched": "2026-11-20T00:57:48+00:00",
       "name": "R-5.docx",
+      "sha256": "5230a7d6b0f46e4e29a14bdeabde5c839a2117020167c2d7fdc350de7f188a91",
       "text": "docx",
       "text_file": "data/text/218/218612/99689.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 99690,
       "bytes": 3249720,
+      "fetched": "2026-11-20T00:57:49+00:00",
       "name": "218612.pdf",
+      "sha256": "34705a8897445acd173f6827e5f47afb0bbfa47ddd238b76cbb10afaeaa7ecc6",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218612/99690"

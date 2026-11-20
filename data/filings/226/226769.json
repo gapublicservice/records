@@ -3,7 +3,9 @@
     {
       "attachment_id": 108073,
       "bytes": 2513851,
+      "fetched": "2026-11-20T01:10:52+00:00",
       "name": "DN 44280 SDR Short Order.docx",
+      "sha256": "9d6d4617a485ad64d8c4e3d4a67f19496f2804667aadbe030b615802d9da3a6c",
       "text": "docx",
       "text_file": "data/text/226/226769/108073.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 108076,
       "bytes": 4183448,
+      "fetched": "2026-11-20T01:10:52+00:00",
       "name": "226769.pdf",
+      "sha256": "63d3de6ffbec0db6357ec3a2ded13a8565bd7efdf8fbbd3f16aa6b60c1bff05c",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226769/108076"

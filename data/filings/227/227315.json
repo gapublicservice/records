@@ -3,7 +3,9 @@
     {
       "attachment_id": 108552,
       "bytes": 879241,
+      "fetched": "2026-11-20T01:11:33+00:00",
       "name": "227315.pdf",
+      "sha256": "d6d0e9304c849fd241a95c563b38837f998e3acd04219576e97786ec8e36b28c",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227315/108552"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 108553,
       "bytes": 214105,
+      "fetched": "2026-11-20T01:11:34+00:00",
       "name": "56298 Order Approving Consent to Change of Control (1).docx",
+      "sha256": "bd8a08d33d0207c493b8625087b1a932bb0cf3f7f2ca8289e6a41f5bf04a2e1c",
       "text": "docx",
       "text_file": "data/text/227/227315/108553.txt",
       "trade_secret_marked": false,

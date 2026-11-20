@@ -3,7 +3,9 @@
     {
       "attachment_id": 98818,
       "bytes": 2294310,
+      "fetched": "2026-11-20T00:56:42+00:00",
       "name": "55378- Errata- Signed.pdf",
+      "sha256": "799104d4b6b41ff31ebe5f83a5edd576f13e26158d69eac00e0fbc67020e287b",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217673/98818"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 98819,
       "bytes": 219734,
+      "fetched": "2026-11-20T00:56:43+00:00",
       "name": "55378-Errata.docx",
+      "sha256": "cf9620490bcde883603061f96427416c0da82c3dc014bd1f15b6eb7a08acea93",
       "text": "docx",
       "text_file": "data/text/217/217673/98819.txt",
       "trade_secret_marked": false,

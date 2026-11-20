@@ -3,7 +3,9 @@
     {
       "attachment_id": 109672,
       "bytes": 1455686,
+      "fetched": "2026-11-20T01:13:05+00:00",
       "name": "dkt_56002_semi-annual_nuclear_uprate_rpt_6_2026_pd.zip",
+      "sha256": "896ac43f3304fddf6581c8b66fe9e3e4bc0b8fc728993ded0043dc338b9e1dd6",
       "text": "zip (6 read, 2 trade-secret-marked files skipped)",
       "text_file": "data/text/228/228414/109672.txt",
       "trade_secret_marked": false,
@@ -19,7 +21,9 @@
     {
       "attachment_id": 109674,
       "bytes": 52869,
+      "fetched": "2026-11-20T01:13:05+00:00",
       "name": "Cover Letter 06-30-2026 PD (stamp).pdf",
+      "sha256": "9c752d8559cf2d09ffb6a3e5fb076c9739dfe56284f76bb82ae1dfdfcf2d30cf",
       "text": "pdftotext",
       "text_file": "data/text/228/228414/109674.txt",
       "trade_secret_marked": false,

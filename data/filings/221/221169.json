@@ -3,7 +3,9 @@
     {
       "attachment_id": 102336,
       "bytes": 243412,
+      "fetched": "2026-11-20T00:59:27+00:00",
       "name": "DN 56002-56003 2025 IRP PSO.docx",
+      "sha256": "dc2ca8d1db075ef0099d183a676d4b561db127c32386770237ef7a2ff866a4b5",
       "text": "docx",
       "text_file": "data/text/221/221169/102336.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 102337,
       "bytes": 3901176,
+      "fetched": "2026-11-20T00:59:28+00:00",
       "name": "221169.pdf",
+      "sha256": "100c3c2cc03577c290abafe9cabd74e332c691ba8147e48c80397f0052039ded",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221169/102337"

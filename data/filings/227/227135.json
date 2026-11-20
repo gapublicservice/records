@@ -3,7 +3,9 @@
     {
       "attachment_id": 108426,
       "bytes": 240425,
+      "fetched": "2026-11-20T01:11:16+00:00",
       "name": "PSO RTP Proceeding.docx",
+      "sha256": "a8b397a87e39877e6e94e34517535a5c6320d321fb63ee099dd7f57dff96bd8e",
       "text": "docx",
       "text_file": "data/text/227/227135/108426.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 108427,
       "bytes": 2684797,
+      "fetched": "2026-11-20T01:11:17+00:00",
       "name": "227135.pdf",
+      "sha256": "b1df84b84387f167193cd82dd037558ad3c85cd14f889a1b8bced1e9142873ea",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227135/108427"

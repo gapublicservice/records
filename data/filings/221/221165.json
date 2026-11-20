@@ -3,7 +3,9 @@
     {
       "attachment_id": 102330,
       "bytes": 215211,
+      "fetched": "2026-11-20T00:59:25+00:00",
       "name": "44280.Rules and Regulation Changes.docx",
+      "sha256": "a05e8cf0a64fae27bc737e094b71cb61fc4a21733e95446fa98af70e701f98a1",
       "text": "docx",
       "text_file": "data/text/221/221165/102330.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 102362,
       "bytes": 998898,
+      "fetched": "2026-11-20T00:59:26+00:00",
       "name": "221165.pdf",
+      "sha256": "b29e0f573099cca23c63461806d504b9c8ebafed0fb53803a129802711f4836c",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221165/102362"

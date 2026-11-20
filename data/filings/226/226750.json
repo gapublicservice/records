@@ -3,7 +3,9 @@
     {
       "attachment_id": 108017,
       "bytes": 4485757,
+      "fetched": "2026-11-20T01:10:47+00:00",
       "name": "226750.pdf",
+      "sha256": "e5ecec996c68e7bb1f92ace4455dbe15f6bb779cddf0dd2eed12e884e2deb09d",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226750/108017"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 108029,
       "bytes": 219455,
+      "fetched": "2026-11-20T01:10:48+00:00",
       "name": "FCR-27 Short Order.docx",
+      "sha256": "83a8b6fb70674d7b3c28f4c7a04f1dd7e1dd939f39241c4ffe3dcb96a62f4854",
       "text": "docx",
       "text_file": "data/text/226/226750/108029.txt",
       "trade_secret_marked": false,

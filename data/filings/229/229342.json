@@ -3,7 +3,9 @@
     {
       "attachment_id": 110205,
       "bytes": 219131,
+      "fetched": "2026-11-20T01:15:17+00:00",
       "name": "DN 44280 - GPC 2025 ASR - ORDER.docx",
+      "sha256": "bff45c21e37e40926a200fe84844b65ac1938e3da5a3b5a76d6f94d4f8029132",
       "text": "docx",
       "text_file": "data/text/229/229342/110205.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 110206,
       "bytes": 1245786,
+      "fetched": "2026-11-20T01:15:18+00:00",
       "name": "229342.pdf",
+      "sha256": "640dfd51add9c88c6f9f94d18473f478d77b94c981e2db7735fed3de0e7cb99f",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229342/110206"

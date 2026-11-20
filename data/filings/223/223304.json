@@ -3,7 +3,9 @@
     {
       "attachment_id": 104532,
       "bytes": 8608737,
+      "fetched": "2026-11-20T01:03:51+00:00",
       "name": "2025 IRP-DSM Stipulation signed.pdf",
+      "sha256": "5936cf882671479a4e463d2a5d80b514f60156ee2a03e9cdc072c501d5fa9705",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223304/104532"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 104533,
       "bytes": 214147,
+      "fetched": "2026-11-20T01:03:51+00:00",
       "name": "2025 IRP_DSM Stipulation Cover Letter.docx",
+      "sha256": "b22a3b4a72c577eb056d2480560fb121d102decd3ed6daf65f8db3918f1b8029",
       "text": "docx",
       "text_file": "data/text/223/223304/104533.txt",
       "trade_secret_marked": false,
@@ -20,7 +24,9 @@
     {
       "attachment_id": 104534,
       "bytes": 95232,
+      "fetched": "2026-11-20T01:03:52+00:00",
       "name": "56002 & 56003 Ser.List.doc",
+      "sha256": "e71d9a2a173563938d4b7b465253326096794de319f28919c0d58b89aa76d3ee",
       "text": "not read: .doc",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223304/104534"

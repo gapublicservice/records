@@ -3,7 +3,9 @@
     {
       "attachment_id": 110000,
       "bytes": 225381,
+      "fetched": "2026-11-20T01:14:21+00:00",
       "name": "DN 44280 NU-1 Tariff.docx",
+      "sha256": "4ff5d3324e45aa014b23c72d7c3f946ac8eb45e19c76ef78d6a097d9577a7a62",
       "text": "docx",
       "text_file": "data/text/229/229079/110000.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 110001,
       "bytes": 722112,
+      "fetched": "2026-11-20T01:14:22+00:00",
       "name": "229079.pdf",
+      "sha256": "2ed1dbb930ec8273559d97f3c767f8cd8942eb1e9ad215d6df5e7c70763e2e2b",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229079/110001"

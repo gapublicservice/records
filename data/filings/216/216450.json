@@ -3,7 +3,9 @@
     {
       "attachment_id": 97671,
       "bytes": 245936,
+      "fetched": "2026-11-20T00:54:12+00:00",
       "name": "DN55378-2023 IRP Update PSO Final.docx",
+      "sha256": "02d8540872377ebb2ed4dcbb5ec6187bea5d11b0fc6812b8619c6384c4bbc05c",
       "text": "docx",
       "text_file": "data/text/216/216450/97671.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 97672,
       "bytes": 4169446,
+      "fetched": "2026-11-20T00:54:13+00:00",
       "name": "216450.pdf",
+      "sha256": "4820102572ee9ce59a893d8ae70120f7f16b68921e5df6e1b3d12e7c975650fd",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216450/97672"

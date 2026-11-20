@@ -3,7 +3,9 @@
     {
       "attachment_id": 108706,
       "bytes": 2526010,
+      "fetched": "2026-11-20T01:11:47+00:00",
       "name": "DN 56765 FCR-27 Order Adopting Stipulation.docx",
+      "sha256": "1c25ced326710a507b76f1c6ebae945d2d7112c1a4ec0a1214f73f8965157159",
       "text": "docx",
       "text_file": "data/text/227/227445/108706.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 108707,
       "bytes": 5565903,
+      "fetched": "2026-11-20T01:11:48+00:00",
       "name": "227445.pdf",
+      "sha256": "fa50664abb075a784a400200f790c99a113a8387b0973aa2fd3ededa4ed8a460",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227445/108707"

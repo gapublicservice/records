@@ -3,7 +3,9 @@
     {
       "attachment_id": 106177,
       "bytes": 211728,
+      "fetched": "2026-11-20T01:06:50+00:00",
       "name": "DKT 44280-Order Approving 2024 ASR.docx",
+      "sha256": "a5a111383b3c112e68cef54c448bbfdfc2f7d441eaf57d1cecf1cbdc978c548b",
       "text": "docx",
       "text_file": "data/text/224/224945/106177.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 106426,
       "bytes": 1250710,
+      "fetched": "2026-11-20T01:06:51+00:00",
       "name": "224945(f).pdf",
+      "sha256": "c08e786bd2c1adc836844f27f0b41927c96cd322bceca7fb5075b0159455d370",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/224945/106426"

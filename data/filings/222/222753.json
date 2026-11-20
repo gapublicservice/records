@@ -3,7 +3,9 @@
     {
       "attachment_id": 103933,
       "bytes": 243725,
+      "fetched": "2026-11-20T01:02:24+00:00",
       "name": "DRAFT 44280 ARP Extension PSO.docx",
+      "sha256": "bd3ac20a48e0a28ccff474f76019803ed83c7352d3c0cade803068e89cb4876d",
       "text": "docx",
       "text_file": "data/text/222/222753/103933.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 103934,
       "bytes": 5812042,
+      "fetched": "2026-11-20T01:02:25+00:00",
       "name": "222753.pdf",
+      "sha256": "025a61b13f57e5fa7e71018bf8fd0e1beee097331b43b512e004c51fc7632796",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222753/103934"

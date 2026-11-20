@@ -3,7 +3,9 @@
     {
       "attachment_id": 105077,
       "bytes": 226467,
+      "fetched": "2026-11-20T01:04:35+00:00",
       "name": "DN56298 DN56310 Proposed Fee Order.docx",
+      "sha256": "ee9a0cd5cf5373fda2af4324ef43ee43e4c5717b8acbc57efdf922a1fec85554",
       "text": "docx",
       "text_file": "data/text/223/223791/105077.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 105078,
       "bytes": 920628,
+      "fetched": "2026-11-20T01:04:36+00:00",
       "name": "223791.pdf",
+      "sha256": "45eaf94fee7a209490c32947ecb6fe77cddbafa3ae2acdd8d363a08a3ffc9a99",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/223791/105078"

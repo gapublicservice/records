@@ -3,7 +3,9 @@
     {
       "attachment_id": 102396,
       "bytes": 59119,
+      "fetched": "2026-11-20T00:59:30+00:00",
       "name": "44280-ORDER-Commissioner Johnson Tax Cuts Motion.docx",
+      "sha256": "bf1cff4c9b7eaec9ee4bee550c077d6b7b4a428c0ada3222325dd2273a88e71d",
       "text": "docx",
       "text_file": "data/text/221/221224/102396.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 102397,
       "bytes": 818901,
+      "fetched": "2026-11-20T00:59:31+00:00",
       "name": "221224.pdf",
+      "sha256": "725c043bfe2d32407c48cbcf37c6774f9e2ace5711b6070b4a22e83269aa20b5",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221224/102397"

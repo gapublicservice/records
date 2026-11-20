@@ -3,7 +3,9 @@
     {
       "attachment_id": 99141,
       "bytes": 371309,
+      "fetched": "2026-11-20T00:56:59+00:00",
       "name": "55378 stip cover.pdf",
+      "sha256": "a7c90e701faf8a47b9d1fb5d14e2a94ea35ef28214d293ea4ef6084298c1e296",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99141"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 99142,
       "bytes": 7291439,
+      "fetched": "2026-11-20T00:57:00+00:00",
       "name": "55378 stip.pdf",
+      "sha256": "1d9fbe4502accd6f32c0d2b613cf049c2ed69aeaf94147423baa16ade361eb15",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99142"
@@ -19,7 +23,9 @@
     {
       "attachment_id": 99143,
       "bytes": 1639240,
+      "fetched": "2026-11-20T00:57:01+00:00",
       "name": "55378 stip cos.pdf",
+      "sha256": "e06a29deecc202bb4449728093f231b5af51913758f11f78591943e4a0f15bf8",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218102/99143"

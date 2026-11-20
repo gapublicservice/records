@@ -3,7 +3,9 @@
     {
       "attachment_id": 97801,
       "bytes": 1094439,
+      "fetched": "2026-11-20T00:54:28+00:00",
       "name": "216596.pdf",
+      "sha256": "d5855de3a49953d79cdfc7e9bf8024dde0b5fc65a1b998ab5ed42cc677bda0e2",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/216596/97801"
@@ -11,7 +13,9 @@
     {
       "attachment_id": 97802,
       "bytes": 218310,
+      "fetched": "2026-11-20T00:54:29+00:00",
       "name": "44280.Rate Update 2024 Compliance Order.docx",
+      "sha256": "cdbd3d23e56d24194f423d56393f12bedf9fc2039caa67cdc9b6738ebf6adf98",
       "text": "docx",
       "text_file": "data/text/216/216596/97802.txt",
       "trade_secret_marked": false,

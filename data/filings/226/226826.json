@@ -3,7 +3,9 @@
     {
       "attachment_id": 108164,
       "bytes": 236957,
+      "fetched": "2026-11-20T01:10:55+00:00",
       "name": "DN56368 Order approving RFP Documents.docx",
+      "sha256": "b23d8407baebbfa778425d1ce8cfc7f1a98782691ee89bdec5165b4f6c6bfd71",
       "text": "docx",
       "text_file": "data/text/226/226826/108164.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 108165,
       "bytes": 2626527,
+      "fetched": "2026-11-20T01:10:56+00:00",
       "name": "226826.pdf",
+      "sha256": "b4c4e72047d742128085281eed5cc1bb62e7d8ca1a7ffbbbe9c24b4f12efdca5",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/226826/108165"

@@ -3,7 +3,9 @@
     {
       "attachment_id": 109634,
       "bytes": 273575,
+      "fetched": "2026-11-20T01:13:02+00:00",
       "name": "dkt_44280_stf-asr-14_public_disclosure.zip",
+      "sha256": "c7e3483f364775c3533120912eabae90c8d06ef1cfca8aafb719539d0b62d3b5",
       "text": "zip (8 read, 3 not read, 1 trade-secret-marked files skipped)",
       "text_file": "data/text/228/228383/109634.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 109635,
       "bytes": 54279,
+      "fetched": "2026-11-20T01:13:03+00:00",
       "name": "STF-ASR-14 Affidavit.pdf",
+      "sha256": "bbc171fc3a4424497b8bda322478b4b90da9b8fc9198b9568c7227e7510fdf5d",
       "text": "pdftotext",
       "text_file": "data/text/228/228383/109635.txt",
       "trade_secret_marked": false,

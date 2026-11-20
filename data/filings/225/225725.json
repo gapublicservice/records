@@ -3,7 +3,9 @@
     {
       "attachment_id": 107006,
       "bytes": 224871,
+      "fetched": "2026-11-20T01:08:19+00:00",
       "name": "First Amendment to Storm Damage PSO 44280.docx",
+      "sha256": "866cb34bd5f83f3d3714d5618bae0ddd8044c368ddb3aae913529a17f2d7f372",
       "text": "docx",
       "text_file": "data/text/225/225725/107006.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 107007,
       "bytes": 477666,
+      "fetched": "2026-11-20T01:08:20+00:00",
       "name": "225725.pdf",
+      "sha256": "6b13fa806518f1fa46a8080bfe2b34bb1f8973558bb8afe15b23eda0f3aa6d31",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225725/107007"

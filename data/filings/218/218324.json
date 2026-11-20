@@ -3,7 +3,9 @@
     {
       "attachment_id": 99382,
       "bytes": 221372,
+      "fetched": "2026-11-20T00:57:30+00:00",
       "name": "DN55378 Plant Yates Certification Fee Order.docx",
+      "sha256": "32432ab2d3bec93b452c33c0615e3b0a49b83008ea8e5938a80793c1f49bc065",
       "text": "docx",
       "text_file": "data/text/218/218324/99382.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 99383,
       "bytes": 995167,
+      "fetched": "2026-11-20T00:57:31+00:00",
       "name": "218324.pdf",
+      "sha256": "1d60bab5c71d4a4eff1a0f59345721e486049d38d49b3162dd10237aac2e3a92",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218324/99383"

@@ -3,7 +3,9 @@
     {
       "attachment_id": 110002,
       "bytes": 238824,
+      "fetched": "2026-11-20T01:14:23+00:00",
       "name": "DN 56002-56003 2026 Hatch EPU Order.docx",
+      "sha256": "418905657ed142221d86e1eadcf568f1fa4f6a869b55a20e2d31e9a420ca5b7b",
       "text": "docx",
       "text_file": "data/text/229/229080/110002.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 110003,
       "bytes": 954215,
+      "fetched": "2026-11-20T01:14:24+00:00",
       "name": "229080.pdf",
+      "sha256": "88afea1fcee5bc8b18e5d747c3cd7c2daf7ab2e8a5b7ba58b0e9631ebbf035aa",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229080/110003"

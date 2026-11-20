@@ -3,7 +3,9 @@
     {
       "attachment_id": 101883,
       "bytes": 2216030,
+      "fetched": "2026-11-20T00:59:15+00:00",
       "name": "55378 $ 44160 Order Adopting Stipulation and Granting Certification Final.docx",
+      "sha256": "0141fc5a1e1e13f3a868a1e1e22c4bde89e2bfb40ca9881e18dccf927ec888da",
       "text": "docx",
       "text_file": "data/text/220/220706/101883.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 101885,
       "bytes": 3451971,
+      "fetched": "2026-11-20T00:59:16+00:00",
       "name": "220706.pdf",
+      "sha256": "413cdd5a802f3241aa4cb6e5b2fecc2b9cc936d6a52fabb344cd36fd2df0f69a",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/220706/101885"

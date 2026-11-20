@@ -3,7 +3,9 @@
     {
       "attachment_id": 102900,
       "bytes": 152398,
+      "fetched": "2026-11-20T01:00:16+00:00",
       "name": "americans_for_affordable_clean_energy_petition_to_intervene.zip",
+      "sha256": "f2e803fe1aa57258d5fb57a2186c24e2e97e41504e02a4c96baa4d25df9ba3f2",
       "text": "zip (2 read)",
       "text_file": "data/text/221/221774/102900.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 102901,
       "bytes": 27648,
+      "fetched": "2026-11-20T01:00:17+00:00",
       "name": "sallie_tanner_filing_ltr (2).doc",
+      "sha256": "bea85594eb7b7a8c913a12654e4289f4faf0a1f31cd962f0ba77ce36acabc0a5",
       "text": "not read: .doc",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221774/102901"

@@ -3,7 +3,9 @@
     {
       "attachment_id": 107008,
       "bytes": 226762,
+      "fetched": "2026-11-20T01:08:21+00:00",
       "name": "First Amended PSO FCR-27.docx",
+      "sha256": "5d21988a993bc8d67a6fb79956049dd8c3508a2415435141c3bf16c4f5d7a422",
       "text": "docx",
       "text_file": "data/text/225/225726/107008.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 107009,
       "bytes": 502405,
+      "fetched": "2026-11-20T01:08:22+00:00",
       "name": "225726.pdf",
+      "sha256": "06769a9cacb660553defedd06fc186ce08f21344ee02c98fc650ae30ad9897c9",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/225726/107009"

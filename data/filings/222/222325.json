@@ -3,7 +3,9 @@
     {
       "attachment_id": 103475,
       "bytes": 226941,
+      "fetched": "2026-11-20T01:01:23+00:00",
       "name": "44280-ORDER-Tariff Revision Compliance Filing.docx",
+      "sha256": "5a22f186abb0c305431f0266e5ba831d19b6ad4ef243de748b7cc0ff6673a935",
       "text": "docx",
       "text_file": "data/text/222/222325/103475.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 103476,
       "bytes": 2343710,
+      "fetched": "2026-11-20T01:01:24+00:00",
       "name": "222325.pdf",
+      "sha256": "cc27d074fc990a793a039e73869bad38335019689ac0e6cf577427732403afb6",
       "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/222325/103476"

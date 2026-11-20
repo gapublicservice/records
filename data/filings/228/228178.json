@@ -3,7 +3,9 @@
     {
       "attachment_id": 109301,
       "bytes": 244167,
+      "fetched": "2026-11-20T01:12:43+00:00",
       "name": "pd_large_load_incremental_revenue_filing.zip",
+      "sha256": "c9365c2d32e90e6de6fde53fe145ec707f8d0f477ff46493c035990e516037e6",
       "text": "zip (1 read, 1 not read, 2 trade-secret-marked files skipped)",
       "text_file": "data/text/228/228178/109301.txt",
       "trade_secret_marked": false,
@@ -12,7 +14,9 @@
     {
       "attachment_id": 109304,
       "bytes": 149135,
+      "fetched": "2026-11-20T01:12:44+00:00",
       "name": "Filing Letter - Incremental Revenue from LL Customers.pdf",
+      "sha256": "e398988e53889e2b678f0250fd1cf0411c3c778c2d64c1bbd83c29d2d8754916",
       "text": "pdftotext",
       "text_file": "data/text/228/228178/109304.txt",
       "trade_secret_marked": false,
