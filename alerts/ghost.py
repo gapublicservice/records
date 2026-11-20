@@ -37,7 +37,7 @@ class Ghost:
         self.url = (url or os.environ.get("GHOST_URL") or "https://gapublicservice.org").rstrip("/")
         self.key = key or os.environ["GHOST_ADMIN_KEY"]
 
-    def call(self, method: str, path: str, body: dict | None = None, **params) -> dict:
+    def call(self, method: str, path: str, body: dict | None = None, _hops: int = 0, **params) -> dict:
         q = ("?" + urllib.parse.urlencode(params)) if params else ""
         req = urllib.request.Request(
             f"{self.url}{API}{path}{q}",
@@ -50,7 +50,31 @@ class Ghost:
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 raw = r.read()
+                self._follow(r.geturl(), path)
         except urllib.error.HTTPError as err:
+            # Ghost(Pro) can answer the public domain with a redirect to the
+            # site's admin domain. urllib follows that for GET but not for
+            # PUT, POST or DELETE, so switch to the admin domain and retry.
+            if err.code in (301, 302, 307, 308) and _hops < 2 and self._follow(err.headers.get("Location", ""), path):
+                return self.call(method, path, body, _hops=_hops + 1, **params)
             detail = err.read().decode(errors="replace")[:500]
+            if err.code in (301, 302, 307, 308):
+                loc = urllib.parse.urlsplit(err.headers.get("Location", ""))
+                detail = f"redirect to host {loc.hostname!r}, path {loc.path!r}"
             raise SystemExit(f"Ghost said {err.code} to {method} {path}: {detail}")
         return json.loads(raw) if raw else {}
+
+    def _follow(self, location: str, path: str) -> bool:
+        """Move to the redirect target's origin if it is the same API path on
+        https and on the site's own domain or a ghost.io host."""
+        u = urllib.parse.urlsplit(location)
+        host = (u.hostname or "").lower()
+        ok_host = host == "gapublicservice.org" or host.endswith(".gapublicservice.org") or host.endswith(".ghost.io")
+        if u.scheme != "https" or not ok_host or f"{API}{path}" not in u.path:
+            return False
+        prefix = u.path[: u.path.index(f"{API}{path}")]
+        new = f"https://{u.netloc}{prefix}"
+        if new == self.url:
+            return False
+        self.url = new
+        return True
