@@ -9,7 +9,7 @@ on:
     branches: [main]
     paths: ["harvester/site.py", "site/**", ".github/workflows/pages.yml"]
   workflow_run:
-    workflows: ["Nightly harvest", "Georgia generator list from EIA", "Backfill", "Docket titles"]
+    workflows: ["Nightly harvest", "Georgia generator list from EIA", "Backfill", "Docket titles", "Commission agendas"]
     types: [completed]
 
 permissions:
