@@ -30,6 +30,7 @@ h2{font-size:22px;margin:36px 0 10px}
 table{width:100%;border-collapse:collapse;font-size:15px}
 th{text-align:left;font:500 12px/1.2 "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--ink);padding:8px 10px 8px 0}
 td{border-bottom:1px solid var(--line);padding:9px 10px 9px 0;vertical-align:top}
+td.mono:first-child{white-space:nowrap}
 td.num,th.num{text-align:right}
 .tag{display:inline-block;font:500 11px/1 "IBM Plex Mono",monospace;padding:4px 6px;margin:2px 4px 2px 0;background:var(--tint);border:1px solid var(--line);white-space:nowrap}
 .tag.dis{background:#fff4dc;border-color:var(--amber)}

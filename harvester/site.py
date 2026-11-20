@@ -171,6 +171,10 @@ def build():
 
     dates = sorted(r["filed_date"] for r in rows if r.get("filed_date") and r["filed_date"] >= "1990")
     contested = [d for d, v in dockets.items() if v["contested"]]
+    # First month with a full month's filings; a few older stragglers sit before it.
+    per_month = collections.Counter(x[:7] for x in dates)
+    first_full = next((m for m in sorted(per_month) if per_month[m] >= 100), dates[0][:7] if dates else "")
+    since = dt.date.fromisoformat(first_full + "-01").strftime("%b %Y") if first_full else ""
     daily = sorted((DATA / "daily").glob("*.json"))
     last_night = daily[-1].stem if daily else None
     new_ids = set(json.loads(daily[-1].read_text())) if daily else set()
@@ -179,7 +183,7 @@ def build():
     stats = (f'<div class="stats"><div><b>{len(rows):,}</b><span>filings in the record</span></div>'
              f'<div><b>{len(dockets):,}</b><span>dockets</span></div>'
              f'<div><b>{len(contested)}</b><span>contested dockets</span></div>'
-             f'<div><b>{dates[0][:7] if dates else ""}</b><span>earliest filing month</span></div>'
+             f'<div><b>{since}</b><span>complete record since</span></div>'
              f'<div><b>{len(new_ids)}</b><span>new filings last night</span></div></div>')
     body = f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Every public filing, searchable.</h1>
