@@ -238,6 +238,118 @@ SEARCH_JS = r"""
 """
 
 
+# Front page: pinned dockets (Paul's list, Nov 20) and two tickers.
+# FOLLOW_URL stays None until the follow-a-docket page is approved and live;
+# no button that collects an email appears before then.
+FOLLOW_URL = None
+PINNED = [
+    {"label": "Affordability", "docket": None,
+     "title": "Affordability docket",
+     "note": "Proposed at the Commission. Not opened yet, so it has no docket number."},
+    {"label": "RTP", "docket": 57171},
+    {"label": "Fuel", "docket": 56765},
+    {"label": "Rate case", "docket": 44280},
+    {"label": "IRP", "docket": 56002},
+    {"label": "RFP", "docket": 56368},
+    {"label": "RFP", "docket": 57454},
+    {"label": "RFP", "docket": 56478},
+]
+KIND_LABEL = {"hearing": "Hearing", "docket": "Hearing", "session": "Administrative session",
+              "committee": "Committee meeting", "forum": "Public forum",
+              "working group": "Working group", "other": "Meeting"}
+
+
+def _short(text: str, n: int = 80) -> str:
+    text = re.sub(r"\s+", " ", text or "").strip()
+    return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0] + "…"
+
+
+def _day(iso: str, weekday: bool = False) -> str:
+    d = dt.date.fromisoformat(iso)
+    return d.strftime(("%a " if weekday else "") + "%b ") + str(d.day)
+
+
+def load_calendar() -> list[dict]:
+    p = DATA / "index" / "calendar.json"
+    return json.loads(p.read_text()).get("events", []) if p.exists() else []
+
+
+def ticker(name: str, items: list[str], empty: str) -> str:
+    if not items:
+        return (f'<div class="ticker"><span class="tk-label">{e(name)}</span>'
+                f'<div class="tk-view"><span class="tk-item muted">{e(empty)}</span></div></div>')
+    run = "".join(f'<span class="tk-item">{i}</span>' for i in items)
+    return (f'<div class="ticker" role="region" aria-label="{e(name)}"><span class="tk-label">{e(name)}</span>'
+            f'<div class="tk-view" tabindex="0"><div class="tk-run" style="--n:{len(items)}">'
+            f'<span class="tk-set">{run}</span><span class="tk-set" aria-hidden="true">{run}</span>'
+            f'</div></div></div>')
+
+
+def front_tickers(events: list[dict], dockets: dict, today: str) -> str:
+    horizon = (dt.date.fromisoformat(today) + dt.timedelta(days=60)).isoformat()
+    up = []
+    for ev in events:
+        if not (today <= ev["date"] <= horizon):
+            continue
+        kind = KIND_LABEL.get(ev["kind"], "Meeting")
+        title = re.sub(r"\s*\d{1,2}-\d{1,2}(-\d{2,4})?$", "", ev["title"])
+        title = re.sub(r"^(docket\s*(no\.?|#|nos\.?)?\s*[\d,\s&and]+[\s:-]*)", "", title, flags=re.I).strip()
+        dk = "".join(f'<a class="mono" href="docket/{d}/">{d}</a> ' for d in ev["dockets"])
+        what = "" if kind == title else f' {e(_short(title, 70))}'
+        up.append(f'<b>{e(_day(ev["date"], True))}</b> <span class="muted">{e(ev["time"])}</span> '
+                  f'<a href="{e(ev["url"])}">{e(kind)}</a> {dk}{what}')
+    hot = sorted(((k, v) for k, v in dockets.items() if v.get("contested")),
+                 key=lambda kv: kv[1].get("last_filed") or "", reverse=True)
+    cont = []
+    for d, v in hot:
+        n = len(v.get("disagreeing_filers") or [])
+        cont.append(f'<a class="mono" href="docket/{d}/">{d}</a> {e(_short(docket_title([], d), 60))} '
+                    f'<span class="muted">{n} filer{"s" if n != 1 else ""} objecting, last filing {e(_day(v["last_filed"]))}</span>')
+    return (ticker("Upcoming", up, "Nothing on the Commission calendar in the next 60 days.")
+            + ticker("Contested", cont, "No contested dockets right now."))
+
+
+def pinned_cards(dockets: dict, events: list[dict], today: str) -> str:
+    cards = []
+    for pin in PINNED:
+        d = pin["docket"]
+        if d is None:
+            cards.append(f'<div class="pin expected"><div class="pin-top"><span class="pin-label">{e(pin["label"])}</span>'
+                         f'<span class="pin-badge">Expected</span></div><h3>{e(pin["title"])}</h3>'
+                         f'<p class="muted">{e(pin["note"])}</p></div>')
+            continue
+        v = dockets.get(str(d), {})
+        nxt = next((ev for ev in events if d in ev["dockets"] and ev["date"] >= today), None)
+        facts = [f'{v.get("filings", 0):,} filings']
+        if v.get("last_filed"):
+            facts.append(f'latest {_day(v["last_filed"])}, {v["last_filed"][:4]}')
+        lines = f'<p class="pin-facts mono">{e(" · ".join(facts))}</p>'
+        if nxt:
+            lines += f'<p class="pin-next">Next: <a href="{e(nxt["url"])}">{e(KIND_LABEL.get(nxt["kind"], "Meeting"))}, {e(_day(nxt["date"], True))}</a></p>'
+        if v.get("contested"):
+            lines += '<p><span class="tag dis">Contested</span></p>'
+        follow = (f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow</a>' if FOLLOW_URL else "")
+        cards.append(f'<div class="pin"><div class="pin-top"><span class="pin-label">{e(pin["label"])}</span>'
+                     f'<a class="mono pin-dk" href="docket/{d}/">{d}</a></div>'
+                     f'<h3><a href="docket/{d}/">{e(_short(docket_title([], d), 90))}</a></h3>{lines}{follow}</div>')
+    return '<h2>Dockets to watch</h2><div class="pins">' + "".join(cards) + "</div>"
+
+
+
+def latest_strip(rows: list[dict], n: int = 10) -> str:
+    """Newest filings by Commission document number, as a row that scrolls sideways."""
+    newest = sorted(rows, key=lambda r: r["document_id"], reverse=True)[:n]
+    cards = []
+    for r in newest:
+        dk = " ".join(f'<a href="docket/{d}/" class="mono">{d}</a>' for d in r["dockets"]) or '<span class="muted">no docket</span>'
+        cards.append(f'<div class="lf"><div class="lf-top mono"><span>{e(r.get("filed_date") or "")}</span>{dk}</div>'
+                     f'<a class="lf-title" href="{PSC_DOC}{r["document_id"]}">{e(_short((r.get("description") or "").strip() or "(no description)", 110))}</a>'
+                     f'<span class="muted lf-by">{e(_short(r.get("company") or "No filer named", 60))}</span>'
+                     f'<span class="lf-file">{file_marker(r["document_id"], r.get("files"))}</span></div>')
+    return ('<h2>Latest filings</h2><div class="lfs" tabindex="0" role="region" aria-label="Latest filings">'
+            + "".join(cards) + "</div>")
+
+
 def build():
     rows, dockets = load()
     by_docket = collections.defaultdict(list)
@@ -267,9 +379,14 @@ def build():
              f'<div><b>{len(contested)}</b><span>contested dockets</span></div>'
              f'<div><b>{since}</b><span>complete record since</span></div>'
              f'<div><b>{len(new_ids)}</b><span>new filings last night</span></div></div>')
-    body = f"""<div class="kicker">Georgia Public Service Commission</div>
+    events = load_calendar()
+    now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5))).date().isoformat()
+    body = front_tickers(events, dockets, now) + f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Every public filing, searchable.</h1>
 <p class="lede">A nightly copy of every filing posted to the Commission's public site since September 2022, tagged by staff unit, place and disagreement. Every result links to the Commission's own page.</p>
+{pinned_cards(dockets, events, now)}
+{latest_strip(rows)}
+<h2>Search the record</h2>
 {stats}
 <div class="search"><input id="q" type="search" placeholder="Search filer, title, docket or county" aria-label="Search">
 <select id="unit" aria-label="Staff unit"></select><select id="region" aria-label="Region"></select><select id="year" aria-label="Year"></select></div>
