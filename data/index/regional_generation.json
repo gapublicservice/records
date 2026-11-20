@@ -1,0 +1,2452 @@
+{
+  "regions": {
+    "Atlanta": {
+      "added_by_technology": {
+        "Batteries": 541.2,
+        "Natural Gas Fired Combustion Turbine": 1.0,
+        "Natural Gas Internal Combustion Engine": 0.4,
+        "Other Natural Gas": 0.2,
+        "Petroleum Liquids": 4.9,
+        "Solar Photovoltaic": 1.5
+      },
+      "added_mw": 549.2,
+      "canceled_mw": 1.6,
+      "counties": [
+        "Cherokee",
+        "Douglas",
+        "Fayette",
+        "Gwinnett",
+        "Henry",
+        "Rockdale",
+        "Clayton",
+        "Cobb",
+        "DeKalb",
+        "Fulton"
+      ],
+      "planned_by_technology": {
+        "Natural Gas Fired Combustion Turbine": 6.0
+      },
+      "planned_mw": 6.0,
+      "plants": [
+        {
+          "added_mw": 530.0,
+          "county": "Cherokee",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "McGrau Ford Battery Storage Facility",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Fulton",
+          "owner": [
+            "RREF IV-P CP III Marietta Street LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "CNN Center",
+          "retired_mw": 13.0,
+          "technology": [
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 10.0,
+          "county": "Cobb",
+          "owner": [
+            "Cobb Electric Membership Corporation"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Allatoona Substation #10",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 3.5,
+          "county": "Cobb",
+          "owner": [
+            "Cobb Electric Membership Corporation"
+          ],
+          "planned_mw": 6.0,
+          "plant": "Solar BESS Hybrid",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Natural Gas Fired Combustion Turbine",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020,
+            2022,
+            2027
+          ]
+        },
+        {
+          "added_mw": 4.3,
+          "county": "Fulton",
+          "owner": [
+            "Shepherd Center"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Shepherd Center",
+          "retired_mw": 0.0,
+          "technology": [
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2024,
+            2025
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Fulton",
+          "owner": [
+            "SWVP Alpharetta Owners, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Hewlett Packard Enterprise",
+          "retired_mw": 3.0,
+          "technology": [
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 1.4,
+          "county": "Fulton",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Tech Square Microgrid",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Natural Gas Internal Combustion Engine",
+            "Other Natural Gas",
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Petroleum Liquids": 16.0
+      },
+      "retired_mw": 16.0
+    },
+    "Central Savannah River Area": {
+      "added_by_technology": {
+        "Nuclear": 2228.0,
+        "Solar Photovoltaic": 607.0
+      },
+      "added_mw": 2835.0,
+      "canceled_mw": 925.0,
+      "counties": [
+        "Columbia",
+        "Glascock",
+        "Hancock",
+        "Jenkins",
+        "Lincoln",
+        "Taliaferro",
+        "Warren",
+        "Washington",
+        "Richmond",
+        "Burke",
+        "Jefferson",
+        "McDuffie",
+        "Wilkes"
+      ],
+      "planned_by_technology": {
+        "Batteries": 76.0,
+        "Solar Photovoltaic": 487.0
+      },
+      "planned_mw": 563.0,
+      "plants": [
+        {
+          "added_mw": 2228.0,
+          "county": "Burke",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Vogtle",
+          "retired_mw": 0.0,
+          "technology": [
+            "Nuclear"
+          ],
+          "years": [
+            2023,
+            2024
+          ]
+        },
+        {
+          "added_mw": 260.0,
+          "county": "Jefferson",
+          "owner": [
+            "Wadley Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Wadley Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "McDuffie",
+          "owner": [
+            "EDF Renewables Development, Inc."
+          ],
+          "planned_mw": 250.0,
+          "plant": "Rock House Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 150.0,
+          "county": "Washington",
+          "owner": [
+            "Washington County Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Washington County Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Warren",
+          "owner": [
+            "SR Norwood, LLC"
+          ],
+          "planned_mw": 107.0,
+          "plant": "SR Norwood",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Warren",
+          "owner": [
+            "Modal Power LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bulldog Solar LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Hancock",
+          "owner": [
+            "Drawhorn Solar, LLC"
+          ],
+          "planned_mw": 80.0,
+          "plant": "Drawhorn Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Burke",
+          "owner": [
+            "Cabokenze Energy Storage, LLC"
+          ],
+          "planned_mw": 76.0,
+          "plant": "Cabokenze Energy Storage",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 70.0,
+          "county": "Burke",
+          "owner": [
+            "Hobnail Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Hobnail Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Washington",
+          "owner": [
+            "Sandersville Solar, LLC"
+          ],
+          "planned_mw": 50.0,
+          "plant": "Sandersville Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 40.0,
+          "county": "Burke",
+          "owner": [
+            "Bird Dog Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bird Dog Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Richmond",
+          "owner": [
+            "SolRiver Capital LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Richmond County GA S2 LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.0,
+          "county": "Columbia",
+          "owner": [
+            "Westbound Solar LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Columbia Substation",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 2.0,
+          "county": "Burke",
+          "owner": [
+            "Westbound Solar LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Shawnee - GA",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {},
+      "retired_mw": 0
+    },
+    "Coastal": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 29.7
+      },
+      "added_mw": 29.7,
+      "canceled_mw": 1.5,
+      "counties": [
+        "Bulloch",
+        "Camden",
+        "Effingham",
+        "Liberty",
+        "Long",
+        "McIntosh",
+        "Bryan",
+        "Chatham",
+        "Glynn",
+        "Screven"
+      ],
+      "planned_by_technology": {
+        "Solar Photovoltaic": 150.0
+      },
+      "planned_mw": 150.0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Liberty",
+          "owner": [
+            "Crossroads bn, LLC"
+          ],
+          "planned_mw": 150.0,
+          "plant": "Crossroads Solar - GA",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2029
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Chatham",
+          "owner": [
+            "International Paper Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "International Paper Savanna Mill",
+          "retired_mw": 82.8,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Chatham",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Boulevard",
+          "retired_mw": 15.6,
+          "technology": [
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Liberty",
+          "owner": [
+            "Interstate Paper LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Interstate Paper LLC Riceboro",
+          "retired_mw": 14.5,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 10.0,
+          "county": "Effingham",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "McIntosh Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Glynn",
+          "owner": [
+            "Pinova Inc."
+          ],
+          "planned_mw": 0.0,
+          "plant": "Pinova Inc.",
+          "retired_mw": 7.1,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Bulloch",
+          "owner": [
+            "Cardinal Renewables"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Statesboro Solar LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Bulloch",
+          "owner": [
+            "SolRiver Capital LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bulloch County GA S4 LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Bulloch",
+          "owner": [
+            "SolRiver Capital LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bulloch County GA S3 LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.9,
+          "county": "Bulloch",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bulloch Rushing",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.7,
+          "county": "Bulloch",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bulloch Neville Farms",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 2.2,
+          "county": "Chatham",
+          "owner": [
+            "Prologis Logistics Services Incorporated"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Prologis Portside 2509 - SLSAV502",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 1.9,
+          "county": "Bryan",
+          "owner": [
+            "Madison Energy Holdings LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bryan Floyd",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 1.0,
+          "county": "Chatham",
+          "owner": [
+            "IKEA Property Inc"
+          ],
+          "planned_mw": 0.0,
+          "plant": "IKEA Savannah 490",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Petroleum Liquids": 15.6,
+        "Wood/Wood Waste Biomass": 104.4
+      },
+      "retired_mw": 120.0
+    },
+    "Georgia Mountains": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 3.0
+      },
+      "added_mw": 3.0,
+      "canceled_mw": 0,
+      "counties": [
+        "Banks",
+        "Dawson",
+        "Franklin",
+        "Habersham",
+        "Hall",
+        "Lumpkin",
+        "Rabun",
+        "Stephens",
+        "Towns",
+        "Union",
+        "Forsyth",
+        "Hart",
+        "White"
+      ],
+      "planned_by_technology": {},
+      "planned_mw": 0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Rabun",
+          "owner": [
+            "Multitrade Rabun Gap LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Multitrade Rabun Gap, LLC",
+          "retired_mw": 17.9,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Franklin",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Franklin Milliken",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Wood/Wood Waste Biomass": 17.9
+      },
+      "retired_mw": 17.9
+    },
+    "Heart of Georgia Altamaha": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 742.3
+      },
+      "added_mw": 742.3,
+      "canceled_mw": 79.7,
+      "counties": [
+        "Candler",
+        "Evans",
+        "Jeff Davis",
+        "Johnson",
+        "Laurens",
+        "Montgomery",
+        "Tattnall",
+        "Telfair",
+        "Wayne",
+        "Appling",
+        "Bleckley",
+        "Dodge",
+        "Emanuel",
+        "Toombs",
+        "Treutlen",
+        "Wheeler",
+        "Wilcox"
+      ],
+      "planned_by_technology": {
+        "Batteries": 400.0,
+        "Solar Photovoltaic": 2620.0
+      },
+      "planned_mw": 3020.0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Wayne",
+          "owner": [
+            "BrightNight Power"
+          ],
+          "planned_mw": 2500.0,
+          "plant": "Pepper Hammock Solar and Storage",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2029
+          ]
+        },
+        {
+          "added_mw": 250.0,
+          "county": "Montgomery",
+          "owner": [
+            "SR Toombs I, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Toombs, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Emanuel",
+          "owner": [
+            "Samsung C&T Renewables, LLC"
+          ],
+          "planned_mw": 150.0,
+          "plant": "Conez Solar, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Laurens",
+          "owner": [
+            "Laurens Solar I, LLC"
+          ],
+          "planned_mw": 150.0,
+          "plant": "Laurens Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2028
+          ]
+        },
+        {
+          "added_mw": 107.0,
+          "county": "Jeff Davis",
+          "owner": [
+            "SR Snipesville II, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Snipesville II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 107.0,
+          "county": "Jeff Davis",
+          "owner": [
+            "SR Snipesville III, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Snipesville III",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Wilcox",
+          "owner": [
+            "SR Rochelle I, LLC"
+          ],
+          "planned_mw": 90.0,
+          "plant": "SR Rochelle I",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 86.0,
+          "county": "Jeff Davis",
+          "owner": [
+            "SR Snipesville, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Snipesville",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Montgomery",
+          "owner": [
+            "SR Ailey, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Ailey",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Wilcox",
+          "owner": [
+            "Pineview Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Pineview Solar, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Wheeler",
+          "owner": [
+            "Alligator Creek Solar, LLC"
+          ],
+          "planned_mw": 80.0,
+          "plant": "Alligator Creek Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Wilcox",
+          "owner": [
+            "SR Rochelle II, LLC"
+          ],
+          "planned_mw": 50.0,
+          "plant": "SR Rochelle II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 25.0,
+          "county": "Appling",
+          "owner": [
+            "SR Baxley, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Baxley",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Tattnall",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Reidsville Renewables, Inc.",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.6,
+          "county": "Wayne",
+          "owner": [
+            "Westbound Solar LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Westberry Jesup",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 1.7,
+          "county": "Bleckley",
+          "owner": [
+            "Westbound Solar LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Arnold Cochran",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {},
+      "retired_mw": 0
+    },
+    "Middle Georgia": {
+      "added_by_technology": {
+        "Batteries": 128.0,
+        "Petroleum Liquids": 0.2,
+        "Solar Photovoltaic": 421.7
+      },
+      "added_mw": 549.9,
+      "canceled_mw": 913.5,
+      "counties": [
+        "Baldwin",
+        "Houston",
+        "Monroe",
+        "Peach",
+        "Putnam",
+        "Twiggs",
+        "Crawford",
+        "Jones",
+        "Bibb",
+        "Pulaski",
+        "Wilkinson"
+      ],
+      "planned_by_technology": {
+        "Natural Gas Fired Combined Cycle": 804.0
+      },
+      "planned_mw": 804.0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Monroe",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Scherer",
+          "retired_mw": 891.0,
+          "technology": [
+            "Conventional Steam Coal"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Monroe",
+          "owner": [
+            "Oglethorpe Power Corporation"
+          ],
+          "planned_mw": 804.0,
+          "plant": "Smarr Combined Cycle Energy Facility",
+          "retired_mw": 0.0,
+          "technology": [
+            "Natural Gas Fired Combined Cycle"
+          ],
+          "years": [
+            2029
+          ]
+        },
+        {
+          "added_mw": 256.0,
+          "county": "Bibb",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Robins Air Force Base Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021,
+            2026
+          ]
+        },
+        {
+          "added_mw": 204.0,
+          "county": "Twiggs",
+          "owner": [
+            "Onward Energy"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Twiggs Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 68.0,
+          "county": "Houston",
+          "owner": [
+            "SR Perry, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Perry",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 10.8,
+          "county": "Peach",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Fort Valley State University Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Bibb",
+          "owner": [
+            "Riverwood Intl USA Inc"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Graphic Packaging Intl Macon Mill",
+          "retired_mw": 10.0,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2023,
+            2026
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Wilkinson",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Wilkinson DeFore (Safari Energy)",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 2.9,
+          "county": "Putnam",
+          "owner": [
+            "SolAmerica Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Putnam Erikson 2",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 2.7,
+          "county": "Putnam",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Putnam Erickson",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 2.3,
+          "county": "Bibb",
+          "owner": [
+            "Madison Energy Holdings LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bibb Williams",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 0.2,
+          "county": "Bibb",
+          "owner": [
+            "YKK USA Inc"
+          ],
+          "planned_mw": 0.0,
+          "plant": "YKK USA Chestney",
+          "retired_mw": 0.0,
+          "technology": [
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2023
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Conventional Steam Coal": 891.0,
+        "Wood/Wood Waste Biomass": 10.0
+      },
+      "retired_mw": 901.0
+    },
+    "Northeast Georgia": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 221.0
+      },
+      "added_mw": 221.0,
+      "canceled_mw": 513.0,
+      "counties": [
+        "Clarke",
+        "Barrow",
+        "Elbert",
+        "Greene",
+        "Jackson",
+        "Jasper",
+        "Morgan",
+        "Newton",
+        "Oconee",
+        "Oglethorpe",
+        "Walton",
+        "Madison"
+      ],
+      "planned_by_technology": {},
+      "planned_mw": 0,
+      "plants": [
+        {
+          "added_mw": 140.0,
+          "county": "Oglethorpe",
+          "owner": [
+            "RWE Americas, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Timberland Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 40.0,
+          "county": "Elbert",
+          "owner": [
+            "Modal Power LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Sonny Solar LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 38.0,
+          "county": "Oglethorpe",
+          "owner": [
+            "Wolfskin Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Wolfskin Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Greene",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Greene Durham",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {},
+      "retired_mw": 0
+    },
+    "Northwest Georgia": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 22.5
+      },
+      "added_mw": 22.5,
+      "canceled_mw": 225.0,
+      "counties": [
+        "Catoosa",
+        "Dade",
+        "Gilmer",
+        "Gordon",
+        "Murray",
+        "Paulding",
+        "Pickens",
+        "Whitfield",
+        "Bartow",
+        "Chattooga",
+        "Fannin",
+        "Floyd",
+        "Haralson",
+        "Polk",
+        "Walker"
+      ],
+      "planned_by_technology": {
+        "Batteries": 57.5
+      },
+      "planned_mw": 57.5,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Floyd",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 57.5,
+          "plant": "Hammond",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Murray",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Murray Treadwell Farms",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Polk",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Polk County GA S1, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Gordon",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Gordon Thompson",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 2.6,
+          "county": "Polk",
+          "owner": [
+            "Cardinal Renewables"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Rockmart",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 2.6,
+          "county": "Bartow",
+          "owner": [
+            "Madison Energy Holdings LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Bartow Davidson",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.4,
+          "county": "Polk",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Polk Cedartown 2",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.4,
+          "county": "Gordon",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Gordon Pine Hall",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.4,
+          "county": "Chattooga",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Chattooga Gore",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 1.1,
+          "county": "Whitfield",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Whitfield Cooper",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Polk",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Cedartown Battery Energy Storage Project",
+          "retired_mw": 1.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2022
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Batteries": 1.0
+      },
+      "retired_mw": 1.0
+    },
+    "River Valley": {
+      "added_by_technology": {
+        "Batteries": 65.0,
+        "Solar Photovoltaic": 369.9
+      },
+      "added_mw": 434.9,
+      "canceled_mw": 350.0,
+      "counties": [
+        "Clay",
+        "Muscogee",
+        "Dooly",
+        "Harris",
+        "Macon",
+        "Randolph",
+        "Stewart",
+        "Sumter",
+        "Talbot",
+        "Webster",
+        "Crisp",
+        "Chattahoochee",
+        "Quitman",
+        "Marion",
+        "Schley",
+        "Taylor"
+      ],
+      "planned_by_technology": {
+        "Natural Gas Fired Combustion Turbine": 262.0
+      },
+      "planned_mw": 262.0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Talbot",
+          "owner": [
+            "Oglethorpe Power Corporation"
+          ],
+          "planned_mw": 262.0,
+          "plant": "Talbot County Energy",
+          "retired_mw": 0.0,
+          "technology": [
+            "Natural Gas Fired Combustion Turbine"
+          ],
+          "years": [
+            2029
+          ]
+        },
+        {
+          "added_mw": 106.0,
+          "county": "Clay",
+          "owner": [
+            "SR Clay, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Clay, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 100.0,
+          "county": "Stewart",
+          "owner": [
+            "SR Lumpkin, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Lumpkin",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Randolph",
+          "owner": [
+            "Lancaster Solar GA, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Lancaster Solar GA",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Macon",
+          "owner": [
+            "CPV Stagecoach Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "CPV Stagecoach Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 65.0,
+          "county": "Talbot",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Mossy Branch Battery Facility",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 2.1,
+          "county": "Harris",
+          "owner": [
+            "Westbound Solar LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Harris Shiloh",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 1.8,
+          "county": "Sumter",
+          "owner": [
+            "Cardinal Renewables"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Brady Solar LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        }
+      ],
+      "retired_by_technology": {},
+      "retired_mw": 0
+    },
+    "Southern Georgia": {
+      "added_by_technology": {
+        "Batteries": 49.5,
+        "Solar Photovoltaic": 300.9
+      },
+      "added_mw": 350.4,
+      "canceled_mw": 118.0,
+      "counties": [
+        "Bacon",
+        "Ben Hill",
+        "Berrien",
+        "Brantley",
+        "Brooks",
+        "Clinch",
+        "Echols",
+        "Irwin",
+        "Pierce",
+        "Tift",
+        "Ware",
+        "Atkinson",
+        "Charlton",
+        "Coffee",
+        "Cook",
+        "Lanier",
+        "Lowndes",
+        "Turner"
+      ],
+      "planned_by_technology": {
+        "Solar Photovoltaic": 300.0
+      },
+      "planned_mw": 300.0,
+      "plants": [
+        {
+          "added_mw": 150.0,
+          "county": "Brooks",
+          "owner": [
+            "Quitman II Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Quitman II Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Bacon",
+          "owner": [
+            "SR Bacon II, LLC"
+          ],
+          "planned_mw": 115.0,
+          "plant": "SR Bacon II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Bacon",
+          "owner": [
+            "SR Bacon III, LLC"
+          ],
+          "planned_mw": 100.0,
+          "plant": "SR Bacon III",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 99.0,
+          "county": "Lowndes",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Moody Air Force Base Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020,
+            2026
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Bacon",
+          "owner": [
+            "SR Bacon, LLC"
+          ],
+          "planned_mw": 85.0,
+          "plant": "SR Bacon",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2026
+          ]
+        },
+        {
+          "added_mw": 80.0,
+          "county": "Ware",
+          "owner": [
+            "Blackwater Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Blackwater Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Ware",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Ware Avra I",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Lowndes",
+          "owner": [
+            "Madison Energy Investments LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Lowndes Cowart",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Tift",
+          "owner": [
+            "Madison Energy Investments LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Tift Fletcher",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 2.9,
+          "county": "Tift",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Tift Boyd",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 2.3,
+          "county": "Lowndes",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Lowndes Tycor Farms",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 1.9,
+          "county": "Ware",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Ware Avra II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 1.9,
+          "county": "Tift",
+          "owner": [
+            "Madison Energy Investments LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Tift Bowen",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 1.9,
+          "county": "Pierce",
+          "owner": [
+            "Westbound Solar 3, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Pierce Eunice",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 1.5,
+          "county": "Lowndes",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Lowndes IDA",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {},
+      "retired_mw": 0
+    },
+    "Southwest Georgia": {
+      "added_by_technology": {
+        "Batteries": 80.0,
+        "Landfill Gas": 2.1,
+        "Natural Gas Fired Combustion Turbine": 5.0,
+        "Solar Photovoltaic": 1316.1
+      },
+      "added_mw": 1403.2,
+      "canceled_mw": 420.7,
+      "counties": [
+        "Baker",
+        "Calhoun",
+        "Early",
+        "Lee",
+        "Mitchell",
+        "Terrell",
+        "Thomas",
+        "Colquitt",
+        "Decatur",
+        "Dougherty",
+        "Grady",
+        "Miller",
+        "Seminole",
+        "Worth"
+      ],
+      "planned_by_technology": {
+        "Solar Photovoltaic": 261.0
+      },
+      "planned_mw": 261.0,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Mitchell",
+          "owner": [
+            "Peach WoodSolar LLC"
+          ],
+          "planned_mw": 261.0,
+          "plant": "Peach Wood Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2030
+          ]
+        },
+        {
+          "added_mw": 253.0,
+          "county": "Decatur",
+          "owner": [
+            "Cool Springs Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Cool Springs Solar (Hybrid)",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 235.5,
+          "county": "Mitchell",
+          "owner": [
+            "RWE Americas, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Hickory Park Solar Hybrid",
+          "retired_mw": 0.0,
+          "technology": [
+            "Batteries",
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 200.0,
+          "county": "Decatur",
+          "owner": [
+            "Washington County Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Decatur Solar",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2024
+          ]
+        },
+        {
+          "added_mw": 171.4,
+          "county": "Mitchell",
+          "owner": [
+            "Invenergy Services LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Camilla Solar Energy Project",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 165.0,
+          "county": "Lee",
+          "owner": [
+            "SR DeSoto I, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR DeSoto I, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Mitchell",
+          "owner": [
+            "Baconton Power LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Baconton Power Plant",
+          "retired_mw": 121.0,
+          "technology": [
+            "Natural Gas Fired Combustion Turbine"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Early",
+          "owner": [
+            "Georgia-Pacific Cedar Springs LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Georgia-Pacific Cedar Springs",
+          "retired_mw": 101.2,
+          "technology": [
+            "Wood/Wood Waste Biomass"
+          ],
+          "years": [
+            2025
+          ]
+        },
+        {
+          "added_mw": 74.0,
+          "county": "Terrell",
+          "owner": [
+            "SR Terrell, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Terrell",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 70.0,
+          "county": "Early",
+          "owner": [
+            "SR Cedar Springs, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Cedar Springs, LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 65.0,
+          "county": "Lee",
+          "owner": [
+            "SR DeSoto II, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR DeSoto II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 60.0,
+          "county": "Lee",
+          "owner": [
+            "SR DeSoto III, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR DeSoto III",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 57.5,
+          "county": "Mitchell",
+          "owner": [
+            "Onward Energy"
+          ],
+          "planned_mw": 0.0,
+          "plant": "OE_GA3",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 20.0,
+          "county": "Early",
+          "owner": [
+            "SR Arlington, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Arlington I",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 20.0,
+          "county": "Colquitt",
+          "owner": [
+            "Odom Solar, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "SR Odom",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 5.0,
+          "county": "Worth",
+          "owner": [
+            "Crisp County Power Comm"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Crisp Plant",
+          "retired_mw": 0.0,
+          "technology": [
+            "Natural Gas Fired Combustion Turbine"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Decatur",
+          "owner": [
+            "Cardinal Renewables"
+          ],
+          "planned_mw": 0.0,
+          "plant": "BE Solar LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 2.1,
+          "county": "Dougherty",
+          "owner": [
+            "Inst and Envir Div Marine Logistics Base"
+          ],
+          "planned_mw": 0.0,
+          "plant": "MCLB Landfill Gas to Energy",
+          "retired_mw": 0.0,
+          "technology": [
+            "Landfill Gas"
+          ],
+          "years": [
+            2021
+          ]
+        },
+        {
+          "added_mw": 1.7,
+          "county": "Terrell",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Terrell Riles Stovall",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Natural Gas Fired Combustion Turbine": 121.0,
+        "Wood/Wood Waste Biomass": 101.2
+      },
+      "retired_mw": 222.2
+    },
+    "Three Rivers": {
+      "added_by_technology": {
+        "Solar Photovoltaic": 7.5
+      },
+      "added_mw": 7.5,
+      "canceled_mw": 0,
+      "counties": [
+        "Butts",
+        "Carroll",
+        "Coweta",
+        "Heard",
+        "Lamar",
+        "Meriwether",
+        "Pike",
+        "Spalding",
+        "Troup",
+        "Upson"
+      ],
+      "planned_by_technology": {
+        "Natural Gas Fired Combustion Turbine": 1448.4
+      },
+      "planned_mw": 1448.4,
+      "plants": [
+        {
+          "added_mw": 0.0,
+          "county": "Heard",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Wansley",
+          "retired_mw": 1956.8,
+          "technology": [
+            "Conventional Steam Coal",
+            "Petroleum Liquids"
+          ],
+          "years": [
+            2022
+          ]
+        },
+        {
+          "added_mw": 0.0,
+          "county": "Coweta",
+          "owner": [
+            "Georgia Power Co"
+          ],
+          "planned_mw": 1448.4,
+          "plant": "Yates",
+          "retired_mw": 0.0,
+          "technology": [
+            "Natural Gas Fired Combustion Turbine"
+          ],
+          "years": [
+            2027
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Meriwether",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Meriwether Jackson",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        },
+        {
+          "added_mw": 3.0,
+          "county": "Upson",
+          "owner": [
+            "SolRiver Capital LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Upson County GA S1 LLC",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2023
+          ]
+        },
+        {
+          "added_mw": 1.5,
+          "county": "Troup",
+          "owner": [
+            "Safari Energy, LLC"
+          ],
+          "planned_mw": 0.0,
+          "plant": "Troup RC50 II",
+          "retired_mw": 0.0,
+          "technology": [
+            "Solar Photovoltaic"
+          ],
+          "years": [
+            2020
+          ]
+        }
+      ],
+      "retired_by_technology": {
+        "Conventional Steam Coal": 1904.0,
+        "Petroleum Liquids": 52.8
+      },
+      "retired_mw": 1956.8
+    }
+  },
+  "since": 2020,
+  "source": {
+    "generators": "U.S. Energy Information Administration, Form EIA-860M (https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx)",
+    "regions": "Georgia Department of Audits and Accounts, Performance Audit Report No. 19-11, Regional Commissions (November 2019), Appendix C"
+  },
+  "unplaced_rows": 7
+}

@@ -45,11 +45,13 @@ jobs:
           test -s url.txt
       - name: Keep the Georgia rows
         run: python -m harvester.eia eia860m.xlsx "$(cat url.txt)"
+      - name: Rebuild the regional generation picture
+        run: python -m harvester.regional
       - name: Save to the record
         run: |
           git config user.name "records-harvester"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/reference
+          git add data/reference data/index/regional_generation.json data/index/regional_generation.md
           git diff --cached --quiet && { echo "nothing to save"; exit 0; }
           git commit -q -m "EIA-860M Georgia generators"
           for a in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((a*10)); done
