@@ -413,6 +413,23 @@ def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
             f'<td>{link}{(" " + dk) if dk else ""}</td><td>{ag}</td>' + (f'<td class="cal-add">{adds}</td>' if add else "") + '</tr>')
 
 
+def upcoming_json(allev: list[dict], agendas: dict, today: str, known: set, checked: str | None, n: int = 5) -> dict:
+    """The next few meetings, for the "Upcoming meetings" block on the main site's home page."""
+    out = []
+    for ev in [x for x in allev if x["date"] >= today][:n]:
+        uid = ics.uid_for(ev)
+        ag = agendas.get(ev.get("url")) if ev.get("url") else None
+        out.append({"date": ev["date"], "day": _day(ev["date"], True), "time": ev.get("time") or "",
+                    "what": ics.summary_for(ev).removeprefix("PSC "), "other": bool(ev.get("other")),
+                    "url": ev.get("url") or "",
+                    "agenda": f"{ics.SITE}/agenda/{agenda_slug(ev['url'])}/" if has_agenda_text(ag) else "",
+                    "add": f"{ics.SITE}/calendar.html#ev-{uid}",
+                    "google": ics.google_link(ev, agendas, known), "ics": f"{ics.SITE}/cal/{uid}.ics"})
+    when = f"Last copied {_when(checked)}. " if checked else ""
+    return {"checked": checked, "calendar": f"{ics.SITE}/calendar.html", "subscribe": f"{ics.SITE}/calendar.html#subscribe",
+            "note": f"Copied from the Commission's calendar. {when}{LAG}", "events": out}
+
+
 def older_agendas(agendas: dict, before: str) -> str:
     """Every earlier meeting whose agenda we have as a linked page, newest first."""
     rows = sorted(((ev["date"], url, ev) for url, ev in agendas.items()
@@ -716,6 +733,7 @@ def build():
     # Calendar feed, calendar page and agenda pages
     allev = ics.write(OUT, events, agendas, now, set(dockets))
     (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked")), "calendar"))
+    (OUT / "data" / "upcoming.json").write_text(json.dumps(upcoming_json(allev, agendas, now, set(dockets), cal_meta.get("checked")), indent=1))
     n_ag = 0
     for url, ev in agendas.items():
         if not has_agenda_text(ev):
