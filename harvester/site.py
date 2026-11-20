@@ -370,6 +370,11 @@ def build():
     shutil.copy(SRC / "style.css", OUT / "style.css")
     (OUT / ".nojekyll").write_text("")
     (OUT / "data" / "filings.json").write_text(json.dumps(build_search_data(rows), separators=(",", ":"), ensure_ascii=False))
+    # Docket titles for the follow page on the main site, which shows the
+    # title of the docket a reader is about to follow.
+    (OUT / "data" / "docket-titles.json").write_text(json.dumps(
+        {d: _short(docket_title(by_docket.get(d, []), d), 140) for d in sorted(dockets, key=int)},
+        separators=(",", ":"), ensure_ascii=False))
 
     dates = sorted(r["filed_date"] for r in rows if r.get("filed_date") and r["filed_date"] >= "1990")
     contested = [d for d, v in dockets.items() if v["contested"]]
