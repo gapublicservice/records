@@ -20,5 +20,7 @@ for i, url in enumerate(sys.argv[2:]):
     print(f"== {url} ({len(page)} bytes)")
     for href, text in re.findall(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', page, re.S | re.I):
         t = re.sub(r"<[^>]+>|\s+", " ", text).strip()
-        if re.search(r"agenda|\.pdf|minutes|recap|video|webcast", href + " " + t, re.I):
+        if re.search(r"agenda|\.pdf|minutes|recap|video|webcast|\.ics|ical|webcal|export|feed|rss|subscribe|google\.com/calendar|outlook|add to", href + " " + t, re.I):
             print(f"   {t[:70]!r} -> {href[:160]}")
+    for m in re.finditer(r"(BEGIN:VCALENDAR|text/calendar|\.ics\b|webcal:|data-ical|addtocalendar|add-to-calendar)", page, re.I):
+        print(f"   marker: {page[max(0, m.start()-80):m.end()+80]!r}")
