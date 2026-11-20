@@ -28,6 +28,9 @@ INDEPENDENCE = ("Public Service is an independent project. It is not a product o
                 "Public Service Commission, and the Commission does not run or endorse it. "
                 "The Commission's own record is at psc.ga.gov.")
 SPONSOR = "Sponsored by the Georgia Conservation Voters Education Fund (GCVEF)."
+# Paul's own climate line for the About page, in his words. Empty until he writes it;
+# when set, it appears right under the About page's opening line.
+CLIMATE_LINE = ""
 
 e = html.escape
 
@@ -271,7 +274,8 @@ def build():
 
     # About
     body = f"""<div class="kicker">About</div><h1>About the record</h1>
-<p class="lede">Public Service keeps a complete, searchable copy of what the Georgia Public Service Commission posts, for reporters, partners and anyone following the Commission's work.</p>
+<p class="lede">Public Service keeps a complete, searchable copy of what the Georgia Public Service Commission posts, for reporters, advocates, local officials and ratepayers: anyone who needs to know what the Commission did and why.</p>
+{f"<p>{e(CLIMATE_LINE)}</p>" if CLIMATE_LINE else ""}
 <div class="note"><strong>{e(INDEPENDENCE)}</strong></div>
 <h2>Who is behind it</h2>
 <p>{e(SPONSOR)} GCVEF also funds the editor's work, and the editor also works for Georgia Conservation Voters. Neither group decides what the record contains: it holds every public filing, whoever filed it.</p>
