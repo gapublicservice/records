@@ -1,0 +1,29 @@
+name: Follow service check
+
+# Run by hand. Checks the follow service on Netlify answers the way the Follow
+# page expects, without signing anyone in or changing any member.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check
+        run: |
+          U=https://gapublicservice-follow.netlify.app/follow
+          S=https://gapublicservice.org
+          echo "home page:"; curl -s -o /dev/null -w "%{http_code}\n" https://gapublicservice-follow.netlify.app/
+          echo "preflight from the site:"; curl -s -X OPTIONS -H "Origin: $S" -o /dev/null -D - "$U" | grep -iE "^HTTP|access-control-allow-origin"
+          echo "status with no sign-in, from the site (expect 401):"
+          curl -s -X POST -H "Origin: $S" -H "Content-Type: application/json" -d '{"token":"a.b.c","docket":"57171","action":"status"}' -w " %{http_code}\n" "$U"
+          echo "from another site (expect 403):"
+          curl -s -X POST -H "Origin: https://example.com" -H "Content-Type: application/json" -d '{"token":"a.b.c","docket":"57171","action":"status"}' -w " %{http_code}\n" "$U"
+          echo "site's member session endpoint, signed out:"
+          curl -s -L -o /dev/null -w "%{http_code} %{url_effective}\n" "$S/members/api/session"
+          echo "site's signing keys:"
+          curl -s -L "$S/members/.well-known/jwks.json" | head -c 120; echo
