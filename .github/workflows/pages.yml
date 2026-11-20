@@ -3,11 +3,14 @@ name: Publish the website
 # Builds the static tracker site from the record and publishes it with
 # GitHub Pages, after each nightly harvest, each EIA update, and any change
 # to the site's code.
-# Runs by hand only until Pages is turned on in the repository's settings
-# (Settings, Pages, Source: GitHub Actions). Then the triggers below go back on:
-#   push to main on site code; workflow_run after Nightly harvest, EIA, Backfill.
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["harvester/site.py", "site/**", ".github/workflows/pages.yml"]
+  workflow_run:
+    workflows: ["Nightly harvest", "Georgia generator list from EIA", "Backfill", "Docket titles"]
+    types: [completed]
 
 permissions:
   contents: read
