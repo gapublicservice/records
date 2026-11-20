@@ -261,6 +261,7 @@ KIND_LABEL = {"hearing": "Hearing", "docket": "Hearing", "session": "Administrat
 
 def _short(text: str, n: int = 80) -> str:
     text = re.sub(r"\s+", " ", text or "").strip()
+    text = re.sub(r"(?<=[a-z])\?s\b", "\u2019s", text)  # the Commission's broken apostrophes
     return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0] + "…"
 
 
@@ -347,8 +348,14 @@ def latest_strip(rows: list[dict], n: int = 10) -> str:
                      f'<a class="lf-title" href="{PSC_DOC}{r["document_id"]}">{e(_short((r.get("description") or "").strip() or "(no description)", 110))}</a>'
                      f'<span class="muted lf-by">{e(_short(r.get("company") or "No filer named", 60))}</span>'
                      f'<span class="lf-file">{file_marker(r["document_id"], r.get("files"))}</span></div>')
-    return ('<h2>Latest filings</h2><div class="lfs" tabindex="0" role="region" aria-label="Latest filings">'
-            + "".join(cards) + "</div>")
+    arrows = ('<span class="lf-nav"><button type="button" class="lf-btn" data-dir="-1" aria-label="Earlier in the list">&larr;</button>'
+              '<button type="button" class="lf-btn" data-dir="1" aria-label="Further along the list">&rarr;</button></span>')
+    script = ("<script>document.querySelectorAll('.lf-btn').forEach(function(b){b.addEventListener('click',function(){"
+              "var s=document.querySelector('.lfs');var c=s.querySelector('.lf');"
+              "s.scrollBy({left:(+b.dataset.dir)*(c?c.offsetWidth:260),behavior:'smooth'});});});</script>")
+    return (f'<div class="lf-head"><h2>Latest filings</h2>{arrows}</div>'
+            '<div class="lfs" tabindex="0" role="region" aria-label="Latest filings">'
+            + "".join(cards) + "</div>" + script)
 
 
 def build():
