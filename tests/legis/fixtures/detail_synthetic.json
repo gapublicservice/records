@@ -1,0 +1,15 @@
+{"Id": 69999, "DocumentType": "HB", "Number": 999, "Suffix": null, "LegislationType": "GEN",
+ "Caption": "A BILL to be entitled an Act to amend Chapter 2 of Title 46 of the Official Code of Georgia Annotated, relating to the Public Service Commission, so as to provide for certain reports; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+ "Summary": "Public Service Commission; reports on large load customers; provide",
+ "Authors": {"Sponsorship": [{"Id": 1, "MemberId": 501, "MemberDescription": "Doe, Jane 12th", "Sequence": 1, "Type": "HouseAuthor"}]},
+ "Sponsors": {"Sponsorship": [{"Id": 2, "MemberId": 502, "MemberDescription": "Roe, Richard 40th", "Sequence": 2, "Type": "HouseSponsor"}]},
+ "Committees": {"CommitteeListing": [{"Id": 128, "Name": "Energy, Utilities & Telecommunications", "Type": "House"}]},
+ "StatusHistory": {"StatusListing": [
+   {"Id": 11, "Code": "HFR", "Description": "House First Readers", "Date": "2025-01-14T00:00:00"},
+   {"Id": 10, "Code": "HPF", "Description": "House Hopper", "Date": "2025-01-13T00:00:00"},
+   {"Id": 12, "Code": "HCFR", "Description": "House Committee Favorably Reported By Substitute", "Date": "2025-02-20T00:00:00"},
+   {"Id": 13, "Code": "HPA", "Description": "House Passed/Adopted By Substitute", "Date": "2025-03-03T00:00:00"}]},
+ "Versions": {"DocumentDescription": [
+   {"Id": 230001, "Description": "As Introduced", "Url": "http://www.legis.ga.gov/Legislation/20252026/230001.pdf", "Version": 1},
+   {"Id": 231500, "Description": "LC 44 3000S", "Url": "http://www.legis.ga.gov/Legislation/20252026/231500.pdf", "Version": 2}]},
+ "Votes": {"VoteListing": [{"VoteId": 7001}]}}

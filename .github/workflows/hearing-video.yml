@@ -1,0 +1,61 @@
+name: Hearing video
+
+# Run by hand for one hearing: pull the video, transcribe it, attach the video
+# to the "hearing-video" release so the saved copy is public and checkable,
+# and commit the transcript. A 3-hour hearing may take hours on the runner's
+# CPU; the job allows the maximum.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "The hearing's video page (Vimeo, YouTube)"
+        required: true
+      id:
+        description: "Short id, e.g. 2027-01-21-house-eut"
+        required: true
+      model:
+        default: "base.en"
+
+permissions:
+  contents: write
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+      - run: pip install -q yt-dlp faster-whisper
+      - name: Pull
+        env:
+          URL: ${{ github.event.inputs.url }}
+          VID: ${{ github.event.inputs.id }}
+        run: python -m legis.video pull "$URL" --id "$VID"
+      - name: Transcribe
+        env:
+          VID: ${{ github.event.inputs.id }}
+          MODEL: ${{ github.event.inputs.model }}
+        run: python -m legis.video transcribe --id "$VID" --model "$MODEL"
+      - name: Save the video to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VID: ${{ github.event.inputs.id }}
+        run: |
+          id="$VID"
+          gh release view hearing-video >/dev/null 2>&1 || gh release create hearing-video --title "Hearing video" --notes "Copies of public hearing video, transcribed. Each file's SHA-256 is in data/legislature/video/<id>/meta.json."
+          gh release upload hearing-video "_video/$id.mp4" --clobber
+          python -m legis.video archived --id "$id" "https://github.com/${{ github.repository }}/releases/download/hearing-video/$id.mp4"
+      - name: Commit the transcript
+        env:
+          VID: ${{ github.event.inputs.id }}
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/legislature/video
+          git commit -q -m "Hearing video $VID: transcript"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((i*10)); done
+          exit 1

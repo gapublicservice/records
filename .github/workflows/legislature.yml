@@ -1,0 +1,68 @@
+name: Legislature harvest
+
+# Out of session: nightly. In session (January to early April): every 2 hours
+# from 6 AM to 11 PM Eastern on weekdays, plus a 5:30 AM run for the morning
+# brief. Times are UTC; Eastern standard time is UTC-5.
+on:
+  schedule:
+    - cron: "15 9 * * *"           # 4:15 AM ET nightly
+    - cron: "30 10 * 1-4 1-5"      # 5:30 AM ET, session months, for the brief
+    - cron: "0 11-23/2 * 1-4 1-5"  # 6 AM to 6 PM ET, every 2 hours
+    - cron: "0 1,3 * 1-4 2-6"      # 8 PM and 10 PM ET (next day in UTC)
+    - cron: "0 6 * * 0"            # Sunday 1 AM ET: full pass, catches late committee referrals
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "new (frequent run), session (full pass), or probe"
+        default: "new"
+      session:
+        default: "2025_26"
+      probe_id:
+        description: "Bill page number to save as a test fixture (probe mode)"
+        default: "69287"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: legislature
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - run: pip install -q zeep==4.3.3
+      - run: python -m unittest discover -s tests -t .
+      - name: Harvest
+        env:
+          IN_MODE: ${{ github.event.inputs.mode }}
+          IN_SESSION: ${{ github.event.inputs.session }}
+          IN_PROBE: ${{ github.event.inputs.probe_id }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          mode="${IN_MODE:-new}"
+          [ "$SCHEDULE" = "0 6 * * 0" ] && mode=session
+          session="${IN_SESSION:-2025_26}"
+          if [ "$mode" = probe ]; then
+            python -m legis.run probe "$IN_PROBE"
+          elif [ "$mode" = session ]; then
+            python -m legis.run session "$session" --text
+          else
+            python -m legis.run new "$session"
+          fi
+      - name: Save
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/legislature tests/legis/fixtures
+          git diff --cached --quiet && { echo "nothing to save"; exit 0; }
+          git commit -q -m "Legislature harvest $(date -u +%F\ %H:%M)"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((i*10)); done
+          exit 1
