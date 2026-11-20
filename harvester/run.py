@@ -257,8 +257,9 @@ def one(args) -> int:
     if args.save_html:
         Path(args.save_html).write_text(page)
     if not f:
-        print(f"{args.id}: no filing")
-        return 1
+        # An empty number is an answer, not a failure, so the run stays green.
+        print(f"{args.id}: no filing at this number")
+        return 0
     rec = store(fetcher, f, with_text=True) if args.store else f.to_dict()
     print(json.dumps(rec, indent=2))
     return 0
