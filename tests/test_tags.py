@@ -19,6 +19,14 @@ class TagsTest(unittest.TestCase):
                          {"Ben Hill", "DeKalb"})
         self.assertEqual(len(tags.COUNTIES), 159)
 
+    def test_regions(self):
+        from harvester.regions import REGIONS, REGION_OF
+        self.assertEqual(len(REGIONS), 12)
+        self.assertEqual(sorted(REGION_OF), sorted(tags.COUNTIES))
+        pl = tags.places({"company": "Georgia Power", "description": "Plant in Bartow County"}, "Chatham County site")
+        self.assertEqual(pl["regions"], ["Northwest Georgia"])
+        self.assertEqual(pl["regions_in_text"], ["Coastal"])
+
 
 if __name__ == "__main__":
     unittest.main()

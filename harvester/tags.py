@@ -21,6 +21,7 @@ import json
 import re
 from pathlib import Path
 
+from .regions import REGION_OF
 from .run import DATA, ROOT, save_json
 
 INDEX = DATA / "index"
@@ -144,6 +145,11 @@ def places(rec: dict, text: str) -> dict:
     m = CITY_FILER_RE.match(rec.get("company") or "")
     if m:
         out["city_filer"] = m.group(1).strip()
+    # Regional commission of each county named. Title mentions are the filing's
+    # own subject; text mentions are kept apart because service lists and
+    # intervenor names (Athens-Clarke, DeKalb) repeat in long filings.
+    out["regions"] = sorted({REGION_OF[c] for c in out["counties_in_title"]})
+    out["regions_in_text"] = sorted({REGION_OF[c] for c in out["counties_in_text"]} - set(out["regions"]))
     return out
 
 
@@ -173,7 +179,9 @@ def build() -> tuple[list[dict], dict]:
 
     index, dockets = [], collections.defaultdict(lambda: {
         "filings": 0, "disagreement_filings": 0, "disagreeing_filers": set(),
-        "counties": collections.Counter(), "units": [], "first": None, "last": None})
+        "counties": collections.Counter(), "regions": collections.Counter(),
+        "regions_in_text": collections.Counter(),
+        "units": [], "first": None, "last": None})
     for r, units in rows:
         tags = {u: why for u, why in units.items()}
         if not tags:
@@ -202,6 +210,10 @@ def build() -> tuple[list[dict], dict]:
                     k["disagreeing_filers"].add(r["company"])
             for c in pl["counties_in_title"] + pl["counties_in_text"]:
                 k["counties"][c] += 1
+            for g in pl["regions"]:
+                k["regions"][g] += 1
+            for g in pl["regions_in_text"]:
+                k["regions_in_text"][g] += 1
             fd = r.get("filed_date")
             if fd and fd >= "1990":
                 k["first"] = min(filter(None, [k["first"], fd]))
@@ -217,6 +229,10 @@ def build() -> tuple[list[dict], dict]:
             # Contested: two or more different filers have each filed a disagreement.
             "contested": len(k["disagreeing_filers"]) >= 2,
             "counties": dict(k["counties"].most_common(15)),
+            # Filings on this docket whose title names a county in each regional
+            # commission, and (apart) filings that name one only in their text.
+            "regions": dict(k["regions"].most_common()),
+            "regions_in_text": dict(k["regions_in_text"].most_common()),
         }
     return index, out
 
