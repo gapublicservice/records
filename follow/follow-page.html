@@ -1,0 +1,117 @@
+<!--
+  Follow a docket: the HTML card for a page at gapublicservice.org/follow/.
+  Not published. Paste into one HTML card on a Ghost page only after Paul's yes,
+  and set API to the address of the deployed follow service (worker.js).
+  Readers arrive as /follow/?docket=57171 from the Follow button on
+  records.gapublicservice.org.
+-->
+<div id="gps-follow" class="gps-follow">
+  <p class="gps-kicker"><svg class="gps-sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" width="22" height="22" aria-hidden="true"><defs><mask id="gps-grain" maskUnits="userSpaceOnUse" x="0" y="0" width="144" height="144"><circle cx="72.0" cy="72.0" r="72.0" fill="#fff"/><circle cx="94.2" cy="88.6" r="2.20" fill="#000"/><circle cx="121.0" cy="101.9" r="2.82" fill="#000"/><circle cx="57.7" cy="121.9" r="4.92" fill="#000"/><circle cx="67.7" cy="141.2" r="2.37" fill="#000"/><circle cx="90.6" cy="112.1" r="2.41" fill="#000"/><circle cx="109.2" cy="17.0" r="2.45" fill="#000"/><circle cx="27.5" cy="105.4" r="4.01" fill="#000"/><circle cx="138.1" cy="69.7" r="4.66" fill="#000"/><circle cx="117.8" cy="35.9" r="4.29" fill="#000"/><circle cx="86.9" cy="60.7" r="2.27" fill="#000"/><circle cx="103.7" cy="9.9" r="3.77" fill="#000"/><circle cx="122.7" cy="88.5" r="4.80" fill="#000"/><circle cx="99.5" cy="84.2" r="2.26" fill="#000"/><circle cx="83.9" cy="87.7" r="4.00" fill="#000"/><circle cx="12.1" cy="108.0" r="3.89" fill="#000"/><circle cx="120.5" cy="122.2" r="4.90" fill="#000"/><circle cx="65.2" cy="10.8" r="4.67" fill="#000"/><circle cx="68.0" cy="102.8" r="2.94" fill="#000"/><circle cx="88.5" cy="108.9" r="4.44" fill="#000"/><circle cx="134.3" cy="104.0" r="3.47" fill="#000"/><circle cx="90.1" cy="131.0" r="3.80" fill="#000"/><circle cx="77.3" cy="113.9" r="4.78" fill="#000"/><circle cx="123.2" cy="50.2" r="3.43" fill="#000"/><circle cx="99.3" cy="136.2" r="4.89" fill="#000"/><circle cx="89.0" cy="133.2" r="4.40" fill="#000"/><circle cx="51.2" cy="89.2" r="4.26" fill="#000"/><circle cx="88.1" cy="123.4" r="4.29" fill="#000"/><circle cx="60.7" cy="113.8" r="3.32" fill="#000"/><circle cx="98.7" cy="27.2" r="2.47" fill="#000"/><circle cx="66.5" cy="110.1" r="3.50" fill="#000"/><circle cx="106.5" cy="58.4" r="2.64" fill="#000"/><circle cx="112.0" cy="117.3" r="4.74" fill="#000"/></mask></defs><circle cx="72" cy="72" r="72" fill="#E8A317" mask="url(#gps-grain)"/></svg><span>Follow a docket</span></p>
+  <h2 class="gps-title" id="gps-title">Docket</h2>
+  <p class="gps-sub"><a id="gps-record" href="https://records.gapublicservice.org/">See the record</a></p>
+
+  <div class="gps-box" id="gps-box">
+    <p class="gps-msg" id="gps-msg">Checking whether you're signed in…</p>
+    <button class="gps-btn" id="gps-btn" type="button" hidden></button>
+    <p class="gps-small" id="gps-small" hidden></p>
+  </div>
+
+  <details class="gps-psc">
+    <summary>Prefer the Commission's own alerts?</summary>
+    <p>The Public Service Commission emails a short notice each time a new document is added to a docket you subscribe to. It needs a free account on the Commission's site.</p>
+    <ol>
+      <li>Go to <a href="https://psc.ga.gov/signin/" rel="noopener" target="_blank">psc.ga.gov</a> and choose <strong>Login</strong>, then <strong>Register</strong>. Give your name, zip code, email and a password.</li>
+      <li>Open the email the Commission sends and confirm your address.</li>
+      <li>Sign in, search for the docket number with the Commission's search, and tick the <strong>Subscribe</strong> box.</li>
+    </ol>
+    <p class="gps-small">The Commission's notices list the new document number only. Ours add the filer, the title and the plain-language markers from the record.</p>
+  </details>
+
+  <p class="gps-small gps-indep">An independent project sponsored by GCVEF. Not a product of the Georgia Public Service Commission.</p>
+</div>
+
+<style>
+.gps-follow{max-width:640px;margin:0 auto;font-family:"IBM Plex Sans",system-ui,sans-serif;color:#111}
+.gps-kicker{display:flex;align-items:center;gap:8px;font:600 12px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:#6b6b6b;margin:0 0 8px}
+.gps-sun{flex:none}
+.gps-title{font:700 28px/1.2 "Space Grotesk",system-ui,sans-serif;margin:0 0 6px}
+.gps-sub{margin:0 0 20px;font-size:15px}
+.gps-sub a,.gps-psc a{color:#111;text-decoration:underline;text-underline-offset:2px}
+.gps-box{border:2px solid #111;padding:20px;margin:0 0 18px}
+.gps-msg{margin:0 0 14px;font-size:16px}
+.gps-btn{background:#111;color:#fff;border:0;padding:12px 20px;font:600 15px/1 "IBM Plex Sans",sans-serif;cursor:pointer}
+.gps-btn:hover,.gps-btn:focus-visible{background:#E8A317;color:#111;outline:none}
+.gps-btn.gps-on{background:#fff;color:#111;box-shadow:inset 0 0 0 2px #111}
+.gps-btn[disabled]{opacity:.5;cursor:wait}
+.gps-small{font-size:13px;color:#555;margin:12px 0 0}
+.gps-psc{border-top:1px solid #ddd;padding:12px 0 0;font-size:14px;color:#333}
+.gps-psc summary{cursor:pointer;font-weight:600;color:#555}
+.gps-psc ol{padding-left:20px;margin:8px 0}
+.gps-psc li{margin:0 0 6px}
+.gps-indep{border-top:1px solid #ddd;padding-top:12px;margin-top:18px}
+</style>
+
+<script>
+(function () {
+  var API = "";  // the deployed follow service, set when it goes live
+  var RECORDS = "https://records.gapublicservice.org";
+  var $ = function (id) { return document.getElementById(id); };
+  var docket = (new URLSearchParams(location.search).get("docket") || "").trim();
+  var msg = $("gps-msg"), btn = $("gps-btn"), small = $("gps-small");
+
+  function say(text, note) {
+    msg.textContent = text;
+    small.hidden = !note; small.textContent = note || "";
+  }
+  if (!/^\d{1,6}$/.test(docket)) {
+    $("gps-title").textContent = "Pick a docket to follow";
+    say("Open any docket on the record and press Follow.");
+    $("gps-record").textContent = "Go to the record";
+    return;
+  }
+  $("gps-title").textContent = "Docket " + docket;
+  $("gps-record").href = RECORDS + "/docket/" + docket + "/";
+  fetch(RECORDS + "/data/docket-titles.json").then(function (r) { return r.json(); }).then(function (t) {
+    if (t[docket]) $("gps-title").textContent = "Docket " + docket + ": " + t[docket];
+  }).catch(function () {});
+
+  function session() {
+    return fetch("/members/api/session", { credentials: "same-origin" })
+      .then(function (r) { return r.ok ? r.text() : ""; }).catch(function () { return ""; });
+  }
+  function call(token, action) {
+    return fetch(API, { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ token: token, docket: docket, action: action }) })
+      .then(function (r) { return r.json().then(function (b) { if (!r.ok) throw b; return b; }); });
+  }
+  function show(token, following) {
+    btn.hidden = false; btn.disabled = false;
+    btn.classList.toggle("gps-on", following);
+    btn.textContent = following ? "Following · stop" : "Follow this docket";
+    say(following
+      ? "You'll get an email the morning after anything new is filed in this docket."
+      : "Get an email the morning after anything new is filed in this docket.",
+      following ? "You can stop at any time here, or from any alert email." : "");
+    btn.onclick = function () {
+      btn.disabled = true;
+      call(token, following ? "unfollow" : "follow")
+        .then(function (b) { show(token, !!b.following); })
+        .catch(function () { btn.disabled = false; say("That didn't go through. Please try again in a minute."); });
+    };
+  }
+
+  session().then(function (token) {
+    if (!token) {
+      say("Sign up free to follow this docket. We'll email you the morning after anything new is filed.",
+          "Already a member? Sign in, then come back to this page.");
+      btn.hidden = false; btn.textContent = "Sign up to follow";
+      btn.setAttribute("data-portal", "signup");
+      btn.onclick = function () { location.hash = "#/portal/signup"; };
+      return;
+    }
+    if (!API) { say("Following opens soon."); return; }
+    call(token, "status").then(function (b) { show(token, !!b.following); })
+      .catch(function () { say("We couldn't check your follows just now. Please try again in a minute."); });
+  });
+})();
+</script>
