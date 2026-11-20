@@ -112,6 +112,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}style.css">{extra_head}
 </head><body>
+<div class="ps-top"><a target="_self" href="https://www.gapublicservice.org/"><span class="dot"></span><span>From <b>Public Service</b><span class="more"> · the newsletter, sessions and explainers</span></span><span class="go">Visit<span class="more"> the site</span> ↗</span></a></div>
 <header class="site"><div class="bar">
 <a class="name" href="{up}index.html"><span>Public<br>Service<small>The record</small></span><span class="dot"></span></a>
 <nav>{links}</nav></div></header>
