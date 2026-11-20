@@ -457,7 +457,7 @@ def load_known_dockets() -> list:
     return _KNOWN
 
 
-_ENUM = re.compile(r"^(\(?(\d{1,3}|[A-Za-z]{1,2}|[ivxIVX]{1,5})[.)]|[A-Z]-?\d{1,2}\.)\s")
+_ENUM = re.compile(r"^(\(?(\d{1,3}|[A-Za-z]|[ivxIVX]{1,5})[.)]|\([a-z]{2}\)|[A-Z]{1,2}-?\d{1,2}\.)\s")
 
 
 def _agenda_line(line: str, nums: set[int], dockets: dict, seen: set) -> str:
@@ -478,11 +478,37 @@ def _agenda_line(line: str, nums: set[int], dockets: dict, seen: set) -> str:
             idattr = f' id="d{d}"'
         return f'<a class="mono dk"{idattr} href="{href}">{d}</a>'
     txt = re.sub(r"(?<!\d)(\d{5})(?!\d)", sub, txt)
-    letters = re.sub(r"[^A-Za-z]", "", line)
-    if letters and line.upper() == line and len(line) <= 90 and not _ENUM.match(line):
+    if _is_heading(line):
         return f'<p class="ag-h">{txt}</p>'
     cls = "ag-item" if _ENUM.match(line) else "ag-p"
     return f'<p class="{cls}">{txt}</p>'
+
+
+def _is_heading(line: str) -> bool:
+    return bool(re.sub(r"[^A-Za-z]", "", line)) and line.upper() == line and len(line) <= 90 and not _ENUM.match(line)
+
+
+def agenda_paragraphs(lines: list[str]) -> list[str]:
+    """Rejoin lines that old Word files wrap mid-sentence. A new paragraph starts at a blank
+    line, a numbered or lettered item, or a heading in capitals."""
+    out: list[str] = []
+    cur = ""
+    for line in lines + [""]:
+        if not line:
+            if cur:
+                out.append(cur)
+            cur = ""
+            continue
+        if not cur:
+            cur = line
+        elif _ENUM.match(line) or _is_heading(line) or _is_heading(cur):
+            out.append(cur)
+            cur = line
+        elif cur.endswith("-") and line[:1].isdigit():
+            cur += line
+        else:
+            cur += " " + line
+    return out
 
 
 def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
@@ -499,7 +525,7 @@ def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
         head = (f'<div class="ag-file"><h2>{e(f.get("label") or "Agenda")}</h2>'
                 f'<p class="muted">The Commission\'s file: <a href="{e(f["url"])}">{e(f["name"])}</a> ({e(ext)})</p></div>')
         if f.get("text"):
-            body = "".join(_agenda_line(l, nums, dockets, seen) for l in f["text"])
+            body = "".join(_agenda_line(l, nums, dockets, seen) for l in agenda_paragraphs(f["text"]))
         else:
             body = '<p class="muted">We could not read this file\'s text. Open the Commission\'s file above.</p>'
         parts.append(head + f'<div class="agenda">{body}</div>')
