@@ -1,0 +1,34 @@
+name: Read a reference document
+
+# Downloads one public reference document (a state report or roster used to
+# build tags such as county regions) and prints its text to the run log, so
+# the tag's source can be read and cited. Nothing is saved to the record.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Document address (https, Georgia government sites only)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - name: Download and print
+        env:
+          URL: ${{ inputs.url }}
+        run: |
+          case "$URL" in
+            https://*.ga.gov/*|https://*.georgia.gov/*|https://ga.gov/*) ;;
+            *) echo "Only Georgia government addresses"; exit 1 ;;
+          esac
+          curl -sSL -m 120 -A "public-record-reader" -o doc "$URL"
+          file doc
+          if file doc | grep -q PDF; then pdftotext -layout doc doc.txt; else python3 -c "import html,re,sys;t=open('doc',errors='replace').read();t=re.sub(r'(?s)<(script|style).*?</\1>','',t);print(html.unescape(re.sub(r'<[^>]+>','\n',t)))" > doc.txt; fi
+          wc -l doc.txt
+          grep -v '^\s*$' doc.txt
