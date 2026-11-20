@@ -1,20 +1,21 @@
 name: Ghost setup for Follow
 
 # Run by hand. Adds the "Docket alerts" newsletter, or adds or updates the
-# Follow page at gapublicservice.org/follow/. Uses the GHOST_ADMIN_KEY secret,
+# Follow page at gapublicservice.org/follow/, or sets the theme's dark-mode
+# logo to site/brand/public-service-logo-white-1200.png. Uses the GHOST_ADMIN_KEY secret,
 # which only the owner sets. Sends no email.
 on:
   workflow_dispatch:
     inputs:
       what:
-        description: "newsletter or page"
+        description: "newsletter, page or darklogo"
         type: choice
-        options: [newsletter, page]
+        options: [newsletter, page, darklogo]
       api:
         description: "Follow service address (page only)"
         default: "https://gapublicservice-follow.netlify.app/follow"
       publish:
-        description: "Publish the page (otherwise a draft)"
+        description: "Page: publish (otherwise a draft). Darklogo: apply (otherwise only show)"
         type: boolean
         default: false
 
@@ -40,4 +41,7 @@ jobs:
           if [ "$WHAT" = "page" ]; then
             if [ "$PUBLISH" = "true" ]; then python -m alerts.setup page --api "$API" --publish
             else python -m alerts.setup page --api "$API"; fi
+          elif [ "$WHAT" = "darklogo" ]; then
+            if [ "$PUBLISH" = "true" ]; then python -m alerts.setup darklogo --apply
+            else python -m alerts.setup darklogo; fi
           else python -m alerts.setup newsletter; fi
