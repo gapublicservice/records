@@ -24,6 +24,15 @@ jobs:
           python-version: "3.12"
       - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
       - run: python -m harvester.run one "${{ inputs.id }}" --save-html page.html
+      - name: Print the page's labelled lines
+        run: |
+          python - <<'PY'
+          from harvester.psc import _Lines
+          p = _Lines(); p.feed(open("page.html", encoding="utf-8", errors="replace").read()); p.close()
+          for i, l in enumerate(p.lines):
+              if l.endswith(":") or any(k in l.lower() for k in ("company", "docket", "filed", "industry")):
+                  print(i, "|", l[:160], "||", " / ".join(x[:80] for x in p.lines[i+1:i+3]))
+          PY
       - uses: actions/upload-artifact@v4
         with:
           name: page-${{ inputs.id }}
