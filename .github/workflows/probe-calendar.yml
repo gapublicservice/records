@@ -1,0 +1,45 @@
+name: Probe the Commission calendar
+
+# Read-only look at where the Commission publishes hearing and meeting dates,
+# so the nightly run can collect upcoming hearings. Prints what it finds.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Look for the calendar
+        run: |
+          python - <<'PY'
+          import re, urllib.request
+          UA = {"User-Agent": "gapublicservice-records/1.0 (public records index)"}
+          seen = set()
+          def get(u):
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30) as r:
+                      return r.status, r.geturl(), r.read().decode("utf-8", "replace")
+              except Exception as err:
+                  return getattr(err, "code", "ERR"), u, ""
+          cands = ["https://psc.ga.gov/", "https://psc.ga.gov/calendar/", "https://psc.ga.gov/events/",
+                   "https://psc.ga.gov/about-the-psc/calendar/", "https://psc.ga.gov/commission-calendar/"]
+          for u in cands:
+              code, final, body = get(u)
+              t = re.search(r"<title>(.*?)</title>", body, re.S)
+              print(f"== {code} {u} -> {final} | {t.group(1).strip()[:80] if t else ''} | {len(body)} bytes")
+              for href, text in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', body, re.S):
+                  txt = re.sub(r"<[^>]+>|\s+", " ", text).strip()
+                  if re.search(r"calendar|hearing|event|meeting|session|agenda", href + " " + txt, re.I) and href not in seen:
+                      seen.add(href); print("   link:", href[:140], "|", txt[:60])
+              for api in sorted(set(re.findall(r"https?://[^\"' ]*api[^\"' ]*", body)))[:15]:
+                  print("   api:", api[:160])
+              for m in re.findall(r"(?:hearing|calendar|event)[^<]{0,120}", body, re.I)[:8]:
+                  print("   text:", re.sub(r"\s+", " ", m)[:140])
+          PY
