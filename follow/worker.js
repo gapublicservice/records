@@ -9,7 +9,7 @@
 // Written against standard Web APIs (Request, Response, fetch, WebCrypto), so
 // it runs as a Cloudflare Worker or a Netlify Function. It holds the only
 // copy of the Ghost Admin key outside GitHub secrets, in the host's settings:
-//   GHOST_SITE_URL       https://gapublicservice.org  (whose tokens to trust)
+//   GHOST_SITE_URL       https://www.gapublicservice.org  (the address Ghost serves; whose tokens to trust)
 //   GHOST_ADMIN_URL      the site's Ghost(Pro) admin address
 //   GHOST_ADMIN_KEY      Admin API key "id:secret"
 //   ALERTS_NEWSLETTER_ID the Ghost newsletter that docket alerts go out on

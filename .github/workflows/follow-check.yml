@@ -16,7 +16,7 @@ jobs:
       - name: Check
         run: |
           U=https://gapublicservice-follow.netlify.app/follow
-          S=https://gapublicservice.org
+          S=https://www.gapublicservice.org
           echo "home page:"; curl -s -o /dev/null -w "%{http_code}\n" https://gapublicservice-follow.netlify.app/
           echo "preflight from the site:"; curl -s -X OPTIONS -H "Origin: $S" -o /dev/null -D - "$U" | grep -iE "^HTTP|access-control-allow-origin"
           echo "status with no sign-in, from the site (expect 401):"
