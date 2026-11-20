@@ -18,6 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
+from . import ics
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -98,7 +99,8 @@ def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -
 def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
     up = "../" * depth
     nav = [("index.html", "Search", "search"), ("dockets.html", "Dockets", "dockets"),
-           ("today.html", "Last night", "today"), ("regions.html", "Regions", "regions"),
+           ("calendar.html", "Calendar", "calendar"), ("today.html", "Last night", "today"),
+           ("regions.html", "Regions", "regions"),
            ("about.html", "About", "about")]
     links = "".join(f'<a href="{up}{h}" class="{"on" if k == on else ""}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html>
@@ -281,6 +283,44 @@ def load_agendas() -> dict:
     return json.loads(p.read_text()).get("events", {}) if p.exists() else {}
 
 
+try:
+    from zoneinfo import ZoneInfo
+    _ET = ZoneInfo("America/New_York")
+except Exception:  # pragma: no cover
+    _ET = dt.timezone(dt.timedelta(hours=-5))
+
+LAG = ("We copy the Commission's site each night at about 3 AM Eastern, so a change the "
+       "Commission makes during the day shows up here the next morning, and anything posted after "
+       "that run waits a day. The Commission's own page is the one to rely on.")
+
+
+def _when(iso: str | None) -> str:
+    """'Nov 20, 2026 at 12:46 PM Eastern' from a UTC time stamp."""
+    if not iso:
+        return ""
+    if len(iso) == 10:
+        d = dt.date.fromisoformat(iso)
+        return f"the night of {d:%b} {d.day}, {d.year}"
+    t = dt.datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(_ET)
+    return f'{t:%b} {t.day}, {t.year} at {t.hour % 12 or 12}:{t:%M} {"AM" if t.hour < 12 else "PM"} Eastern'
+
+
+def copied_note(what: str, checked: str | None) -> str:
+    """The standing note on anything copied from the Commission: when, and how long changes take."""
+    when = f" Last copied {_when(checked)}." if checked else ""
+    return f'<p class="copied"><b>{e(what)}</b>{e(when)} {e(LAG)}</p>'
+
+
+def agenda_slug(ev_url: str) -> str:
+    """The Commission's own name for the meeting, from its calendar address."""
+    m = re.search(r"/commission-calendar/([a-z0-9.\-]+)/", ev_url or "")
+    return m.group(1) if m else ics.uid_for({"url": ev_url})
+
+
+def has_agenda_text(ev: dict | None) -> bool:
+    return any(f.get("text") for f in (ev or {}).get("files") or [])
+
+
 def agendas_by_docket(agendas: dict, known) -> dict:
     """For each known docket, the agenda items that name it, newest meeting first."""
     out = collections.defaultdict(list)
@@ -290,17 +330,21 @@ def agendas_by_docket(agendas: dict, known) -> dict:
                 if str(it["docket"]) in known:
                     out[str(it["docket"])].append({"date": ev["date"], "time": ev["time"], "kind": ev["kind"],
                                                    "event": url, "label": f["label"], "file": f["url"],
+                                                   "page": (f"agenda/{agenda_slug(url)}/" if f.get("text") else ""), "docket": it["docket"],
                                                    "line": it["line"]})
     for v in out.values():
         v.sort(key=lambda x: x["date"], reverse=True)
     return out
 
 
-def agenda_link(ev_url: str, agendas: dict, cls: str = "tk-agenda") -> str:
-    """'Agenda' straight to the file when there is one, else 'Agendas' to the Commission's event page."""
-    files = (agendas.get(ev_url) or {}).get("files") or []
+def agenda_link(ev_url: str, agendas: dict, cls: str = "tk-agenda", up: str = "") -> str:
+    """'Agenda' to our linked copy when we have its text, else to the file or the Commission's event page."""
+    ev = agendas.get(ev_url) or {}
+    files = ev.get("files") or []
     if not files:
         return ""
+    if has_agenda_text(ev):
+        return f' <a class="{cls}" href="{up}agenda/{e(agenda_slug(ev_url))}/">Agenda</a>'
     if len(files) == 1:
         return f' <a class="{cls}" href="{e(files[0]["url"])}">Agenda</a>'
     return f' <a class="{cls}" href="{e(ev_url)}">Agendas ({len(files)})</a>'
@@ -316,25 +360,162 @@ def agenda_pick(items: list[dict], today: str) -> dict | None:
     return past[0] if past else None
 
 
-def agenda_button(items: list[dict], today: str) -> str:
+def _agenda_href(x: dict, up: str = "") -> str:
+    return f'{up}{x["page"]}#d{x.get("docket", "")}' if x.get("page") else x["file"]
+
+
+def agenda_button(items: list[dict], today: str, up: str = "") -> str:
     ag = agenda_pick(items, today)
     if not ag:
         return ""
     when = "On the" if ag["date"] >= today else "Was on the"
-    return (f' <a class="pin-follow agenda-btn" href="{e(ag["file"])}">{when} {e(_day(ag["date"]))} agenda</a>')
+    return (f' <a class="pin-follow agenda-btn" href="{e(_agenda_href(ag, up))}">{when} {e(_day(ag["date"]))} agenda</a>')
 
 
-def agenda_table(items: list[dict]) -> str:
+def agenda_table(items: list[dict], up: str = "", checked: str | None = None) -> str:
     if not items:
         return ""
     trs = "".join(
         f'<tr><td class="mono">{e(x["date"])}</td><td>{e(x["label"])}</td>'
-        f'<td>{e(_short(x["line"], 220))}</td><td><a href="{e(x["file"])}">Agenda</a></td></tr>' for x in items)
+        f'<td>{e(_short(x["line"], 220))}</td><td>'
+        + (f'<a href="{e(_agenda_href(x, up))}">Agenda</a> · ' if x.get("page") else "")
+        + f'<a href="{e(x["file"])}">File</a></td></tr>' for x in items)
     return ('<h2>On Commission agendas</h2><p class="muted">Meetings whose agenda names this docket, read from the '
             'agenda files the Commission attaches to its calendar. The line shown is the agenda\'s own wording; '
             'agendas are often amended, so the Commission\'s file is the one to cite.</p>'
+            + copied_note("Agendas are copies.", checked) +
             '<table class="wide"><thead><tr><th>Meeting</th><th>Agenda</th><th>Item</th><th>File</th></tr></thead>'
             f'<tbody>{trs}</tbody></table>')
+
+
+def _meta(name: str) -> dict:
+    p = DATA / "index" / name
+    if not p.exists():
+        return {}
+    d = json.loads(p.read_text())
+    return {k: v for k, v in d.items() if k != "events"}
+
+
+def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
+    uid = ics.uid_for(ev)
+    what = e(ics.summary_for(ev).removeprefix("PSC "))
+    link = f'<a href="{e(ev["url"])}">{what}</a>' if ev.get("url") else what
+    if ev.get("other"):
+        link += ' <span class="tag">Not a Commission event</span>'
+    dks = sorted({int(d) for d in ev.get("dockets") or []} | {int(d) for d in (agendas.get(ev.get("url")) or {}).get("dockets") or []})
+    dk = " ".join(f'<a class="mono" href="docket/{d}/">{d}</a>' for d in dks if str(d) in known)
+    ag = agenda_link(ev.get("url"), agendas).strip() if ev.get("url") else ""
+    adds = ""
+    if add:
+        adds = (f'<a class="cal-btn" href="{e(ics.google_link(ev, agendas, known))}">Google</a> '
+                f'<a class="cal-btn" href="cal/{uid}.ics" download>Apple or Outlook</a>')
+    return (f'<tr id="ev-{uid}"><td class="mono">{e(_day(ev["date"], True))}</td><td class="mono">{e(ev.get("time") or "")}</td>'
+            f'<td>{link}{(" " + dk) if dk else ""}</td><td>{ag}</td>' + (f'<td class="cal-add">{adds}</td>' if add else "") + '</tr>')
+
+
+def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | None) -> str:
+    known = set(load_known_dockets())
+    links = ics.subscribe_links()
+    up = [ev for ev in allev if ev["date"] >= today]
+    recent = (dt.date.fromisoformat(today) - dt.timedelta(days=60)).isoformat()
+    past = [ev for ev in allev if recent <= ev["date"] < today][::-1]
+    months, rows = None, []
+    for ev in up:
+        m = dt.date.fromisoformat(ev["date"]).strftime("%B %Y")
+        if m != months:
+            rows.append(f'<tr class="cal-month"><th colspan="5">{e(m)}</th></tr>')
+            months = m
+        rows.append(_cal_row(ev, agendas, known, True))
+    head = '<thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th><th>Add to your calendar</th></tr></thead>'
+    upcoming = (f'<table class="wide cal">{head}<tbody>{"".join(rows)}</tbody></table>' if up
+                else '<p class="muted">Nothing on the Commission calendar yet.</p>')
+    past_rows = "".join(_cal_row(ev, agendas, known, False) for ev in past)
+    return f"""<div class="kicker">Georgia Public Service Commission</div>
+<h1>Commission calendar</h1>
+<p class="lede">Every hearing, administrative session and committee meeting on the Commission's calendar, with links to each agenda and docket. The Commission's site has no calendar feed, so we make one.</p>
+<section id="subscribe" class="cal-subscribe">
+<h2>Subscribe</h2>
+<p>Add the whole calendar once and new meetings appear on their own. Calendar apps refresh a subscribed feed on their own schedule, usually every few hours to once a day, so a change can take up to a day more to reach you after it shows up here.</p>
+<p class="btns"><a class="pin-follow" href="{e(links['google'])}">Google Calendar</a> <a class="pin-follow" href="{e(links['webcal'])}">Apple Calendar</a> <a class="pin-follow" href="{e(links['outlook'])}">Outlook</a></p>
+<p class="muted">Other apps: subscribe to <span class="mono">{e(links['feed'])}</span></p>
+</section>
+{copied_note("The calendar is a copy.", checked)}
+<p class="muted">The Commission lists start times only, so each meeting is set to two hours in your calendar. Agendas usually appear a few days before a meeting.</p>
+<h2>Coming up</h2>
+{upcoming}
+<h2>Last 60 days</h2>
+<table class="wide cal"><thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th></tr></thead><tbody>{past_rows}</tbody></table>"""
+
+
+_KNOWN: list = []
+
+
+def load_known_dockets() -> list:
+    if not _KNOWN:
+        p = DATA / "index" / "dockets.json"
+        _KNOWN.extend(json.loads(p.read_text()).keys() if p.exists() else [])
+    return _KNOWN
+
+
+_ENUM = re.compile(r"^(\(?(\d{1,3}|[A-Za-z]{1,2}|[ivxIVX]{1,5})[.)]|[A-Z]-?\d{1,2}\.)\s")
+
+
+def _agenda_line(line: str, nums: set[int], dockets: dict, seen: set) -> str:
+    """One line of the agenda as HTML, its docket numbers linked."""
+    if not line:
+        return ""
+    txt = e(re.sub(r"(?<=[a-z])\?s\b", "’s", line))
+    anchors = []
+
+    def sub(m):
+        d = int(m.group(1))
+        if d not in nums:
+            return m.group(0)
+        href = f"../../docket/{d}/" if str(d) in dockets else f"{PSC_DOCKET}{d}"
+        idattr = ""
+        if d not in seen:
+            seen.add(d)
+            idattr = f' id="d{d}"'
+        return f'<a class="mono dk"{idattr} href="{href}">{d}</a>'
+    txt = re.sub(r"(?<!\d)(\d{5})(?!\d)", sub, txt)
+    letters = re.sub(r"[^A-Za-z]", "", line)
+    if letters and line.upper() == line and len(line) <= 90 and not _ENUM.match(line):
+        return f'<p class="ag-h">{txt}</p>'
+    cls = "ag-item" if _ENUM.match(line) else "ag-p"
+    return f'<p class="{cls}">{txt}</p>'
+
+
+def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
+    kind = KIND_LABEL.get(ev["kind"], "Meeting")
+    d = dt.date.fromisoformat(ev["date"])
+    when = f'{d:%A, %B} {d.day}, {d.year}' + (f' at {ev["time"]}' if ev.get("time") else "")
+    seen: set = set()
+    parts, all_items = [], {}
+    for f in ev.get("files") or []:
+        nums = {i["docket"] for i in f.get("items") or []}
+        for i in f.get("items") or []:
+            all_items.setdefault(i["docket"], i["line"])
+        ext = f["name"].rsplit(".", 1)[-1].lower()
+        head = (f'<div class="ag-file"><h2>{e(f.get("label") or "Agenda")}</h2>'
+                f'<p class="muted">The Commission\'s file: <a href="{e(f["url"])}">{e(f["name"])}</a> ({e(ext)})</p></div>')
+        if f.get("text"):
+            body = "".join(_agenda_line(l, nums, dockets, seen) for l in f["text"])
+        else:
+            body = '<p class="muted">We could not read this file\'s text. Open the Commission\'s file above.</p>'
+        parts.append(head + f'<div class="agenda">{body}</div>')
+    dk_list = "".join(
+        f'<li><a class="mono" href="{("../../docket/" + str(n) + "/") if str(n) in dockets else PSC_DOCKET + str(n)}">{n}</a> '
+        f'{e(_short(docket_title([], str(n)) or line, 110))}</li>' for n, line in sorted(all_items.items()))
+    read = ev.get("read") or checked
+    return f"""<div class="kicker"><a href="../../calendar.html">Commission calendar</a></div>
+<h1>{e(kind)}, {e(f"{d:%b} {d.day}, {d.year}")}</h1>
+<p class="lede">{e(when)}. <a href="{e(url)}">The Commission's page for this meeting</a></p>
+<div class="note"><strong>This is a copy of the agenda the Commission posted, made so each docket links to its record.</strong>
+The Commission's file is the official agenda and the one to cite. Layout and numbering may differ a little from the original.</div>
+{copied_note("Agendas are copies.", read)}
+<p class="muted">Agendas are often amended in the days before a meeting. An amended agenda the Commission posts after our nightly run shows up here the next morning.</p>
+{"".join(parts)}
+{f'<h2>Dockets on this agenda</h2><ul class="ag-dockets">{dk_list}</ul>' if dk_list else ""}"""
 
 
 def ticker(name: str, items: list[str], empty: str) -> str:
@@ -361,7 +542,9 @@ def front_tickers(events: list[dict], dockets: dict, today: str, agendas: dict |
         plain = ev["kind"] in ("session", "committee") or kind.lower() == title.lower()
         what = "" if plain else f' {e(_short(title, 70))}'
         up.append(f'<b>{e(_day(ev["date"], True))}</b> <span class="muted">{e(ev["time"])}</span> '
-                  f'<a href="{e(ev["url"])}">{e(kind)}</a>{agenda_link(ev["url"], agendas or {})} {dk}{what}')
+                  f'<a href="{e(ev["url"])}">{e(kind)}</a>{agenda_link(ev["url"], agendas or {})}'
+                  f' <a class="tk-add" href="calendar.html#ev-{ics.uid_for(ev)}" title="Add this meeting to your calendar">+ Add</a>'
+                  f' {dk}{what}')
     hot = sorted(((k, v) for k, v in dockets.items() if v.get("contested")),
                  key=lambda kv: kv[1].get("last_filed") or "", reverse=True)
     cont = []
@@ -369,8 +552,11 @@ def front_tickers(events: list[dict], dockets: dict, today: str, agendas: dict |
         n = len(v.get("disagreeing_filers") or [])
         cont.append(f'<a class="mono" href="docket/{d}/">{d}</a> {e(_short(docket_title([], d), 60))} '
                     f'<span class="muted">{n} filer{"s" if n != 1 else ""} objecting, last filing {e(_day(v["last_filed"]))}</span>')
+    sub = ('<p class="cal-sub">Put every Commission meeting in your own calendar: '
+           '<a href="calendar.html#subscribe">Subscribe</a>. The Commission\'s site has no calendar feed, '
+           'so we make one each night.</p>')
     return (ticker("Upcoming", up, "Nothing on the Commission calendar in the next 60 days.")
-            + ticker("Contested", cont, "No contested dockets right now."))
+            + ticker("Contested", cont, "No contested dockets right now.") + sub)
 
 
 def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict | None = None) -> str:
@@ -393,7 +579,7 @@ def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict 
         ag = agenda_pick((on_agenda or {}).get(str(d), []), today)
         if ag:
             when = "On the agenda" if ag["date"] >= today else "Was on the agenda"
-            lines += (f'<p class="pin-next">{when}: <a href="{e(ag["file"])}">'
+            lines += (f'<p class="pin-next">{when}: <a href="{e(_agenda_href(ag))}">'
                       f'{e(KIND_LABEL.get(ag["kind"], "Meeting"))}, {e(_day(ag["date"], True))}</a></p>')
         if v.get("contested"):
             lines += '<p><span class="tag dis">Contested</span></p>'
@@ -461,6 +647,9 @@ def build():
              f'<div><b>{len(new_ids)}</b><span>new filings last night</span></div></div>')
     events = load_calendar()
     agendas = load_agendas()
+    cal_meta = _meta("calendar.json")
+    agendas_checked = _meta("agendas.json").get("checked")
+    last_nightly = json.loads((DATA / "state.json").read_text()).get("last_nightly") if (DATA / "state.json").exists() else None
     on_agenda = agendas_by_docket(agendas, dockets)
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5))).date().isoformat()
     body = front_tickers(events, dockets, now, agendas) + f"""<div class="kicker">Georgia Public Service Commission</div>
@@ -470,6 +659,7 @@ def build():
 {latest_strip(rows)}
 <h2>Search the record</h2>
 {stats}
+{copied_note("Filings are copies.", last_nightly)}
 <div class="search"><input id="q" type="search" placeholder="Search filer, title, docket or county" aria-label="Search">
 <select id="unit" aria-label="Staff unit"></select><select id="region" aria-label="Region"></select><select id="year" aria-label="Year"></select></div>
 <div class="row2"><label><input type="checkbox" id="dis"> Only filings that object, oppose or ask for rehearing</label><label><input type="checkbox" id="hasfile"> Only filings with a file to download</label><span id="count" class="mono"></span></div>
@@ -478,6 +668,20 @@ def build():
 <noscript><p>Search needs JavaScript. Browse by <a href="dockets.html">docket</a> instead.</p></noscript>
 <script>{SEARCH_JS}</script>"""
     (OUT / "index.html").write_text(page("Search", body, "search"))
+
+    # Calendar feed, calendar page and agenda pages
+    allev = ics.write(OUT, events, agendas, now, set(dockets))
+    (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked")), "calendar"))
+    n_ag = 0
+    for url, ev in agendas.items():
+        if not has_agenda_text(ev):
+            continue
+        out = OUT / "agenda" / agenda_slug(url)
+        out.mkdir(parents=True, exist_ok=True)
+        (out / "index.html").write_text(page(f"Agenda, {_day(ev['date'])}, {ev['date'][:4]}",
+                                             agenda_page(url, ev, dockets, agendas_checked), "calendar", depth=2))
+        n_ag += 1
+    print(f"{len(allev)} calendar events, {n_ag} agenda pages")
 
     # Docket list
     def dk_line(d, v):
@@ -531,9 +735,9 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now)}</p>
+<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
-{agenda_table(on_agenda.get(d, []))}
+{agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 <h2>Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
@@ -546,6 +750,7 @@ def build():
     body = f"""<div class="kicker">Last night's harvest · {e(last_night or "")}</div>
 <h1>{len(new)} new filing{"s" if len(new) != 1 else ""}</h1>
 <p class="lede">What the 3 AM harvest found on the Commission's site. The harvest runs every night and rechecks recent numbers the Commission fills in late.</p>
+{copied_note("Filings are copies.", last_nightly)}
 <h2>Disagreements</h2>
 {'<table class="wide"><tbody>' + "".join(filing_row(r, 0) for r in dis) + "</tbody></table>" if dis else '<p class="muted">None last night.</p>'}
 <h2>All new filings</h2>

@@ -103,3 +103,23 @@ footer p{margin:6px 0;max-width:820px}
 .btns{display:flex;flex-wrap:wrap;gap:8px}
 .agenda-btn{border-color:var(--amber)}
 .agenda-btn:hover{background:var(--amber);color:var(--ink)}
+/* calendar and agenda pages */
+.tk-add{font:500 11px/1 "IBM Plex Mono",monospace;padding:3px 6px;border:1px solid var(--muted);text-decoration:none;margin-left:4px;white-space:nowrap}
+.tk-add:hover{background:var(--ink);color:var(--paper)}
+.cal-sub{font-size:14px;margin:6px 0 18px}
+.copied{font-size:13px;line-height:1.5;border-left:3px solid var(--amber);padding:6px 10px;margin:12px 0}
+.cal-month th{text-align:left;padding-top:18px;font:700 15px/1.2 "Space Grotesk",sans-serif;border-bottom:2px solid var(--ink)}
+table.cal tr:target{outline:2px solid var(--amber);outline-offset:-2px}
+.cal-add{white-space:nowrap}
+.cal-btn{display:inline-block;font:500 12px/1 "IBM Plex Mono",monospace;padding:6px 8px;border:1px solid var(--ink);text-decoration:none;margin:2px 0}
+.cal-btn:hover{background:var(--ink);color:var(--paper)}
+.cal-subscribe{margin:8px 0 4px}
+.ag-file{margin-top:28px;border-top:2px solid var(--ink);padding-top:8px}
+.agenda{max-width:46rem}
+.agenda p{margin:0 0 8px;line-height:1.55}
+.agenda .ag-h{font-weight:600;margin-top:18px}
+.agenda .ag-item{padding-left:1.6em;text-indent:-1.6em}
+.agenda a.dk{background:color-mix(in srgb,var(--amber) 22%,transparent);padding:0 3px;text-decoration:none;border-bottom:1px solid var(--amber)}
+.agenda a.dk:target{outline:2px solid var(--amber)}
+.ag-dockets li{margin-bottom:6px}
+@media (max-width:640px){table.cal td:nth-child(2),table.cal th:nth-child(2){display:none}.cal-add .cal-btn{display:block;text-align:center}}

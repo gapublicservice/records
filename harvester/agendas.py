@@ -10,7 +10,9 @@ back to 45 days ahead, keep the address of each agenda file, and read the file
 for the docket numbers it lists and the line that names each one.
 
 Writes data/index/agendas.json. Entries outside the window are kept as they are.
-We keep the docket numbers and one line per docket, not the whole agenda.
+For each file we keep its text, line by line, so the records site can show the
+agenda as a page with every docket linked, and the docket numbers it lists with
+the line that names each one. The Commission's file stays the one to cite.
 """
 
 from __future__ import annotations
@@ -124,6 +126,24 @@ def dockets_in(text: str) -> list[dict]:
     return [{"docket": d, "line": items[d]} for d in sorted(items)]
 
 
+def text_lines(text: str, limit: int = 1500) -> list[str]:
+    """The agenda's lines, spaces tidied, runs of blank lines kept to one."""
+    out = []
+    for raw in text.replace("\r", "\n").replace("\f", "\n").split("\n"):
+        line = re.sub(r"[ \t\u00a0]+", " ", raw).strip()
+        line = "".join(ch for ch in line if ch >= " " or ch == "\t")
+        if not line:
+            if out and out[-1]:
+                out.append("")
+            continue
+        out.append(line[:1200])
+        if len(out) >= limit:
+            break
+    while out and not out[-1]:
+        out.pop()
+    return out
+
+
 def collect(events: list[dict], old: dict, fetch: Fetcher, today: dt.date,
             back: int = 60, ahead: int = 45) -> tuple[dict, int, int]:
     lo, hi = (today - dt.timedelta(days=back)).isoformat(), (today + dt.timedelta(days=ahead)).isoformat()
@@ -147,14 +167,18 @@ def collect(events: list[dict], old: dict, fetch: Fetcher, today: dt.date,
             rec = {"name": f["name"], "url": f["url"], "label": label_for(f["name"])}
             try:
                 data = fetch.get(f["url"], max_bytes=MAX_BYTES)
-                rec["items"] = dockets_in(text_of(f["name"], data))
+                text = text_of(f["name"], data)
+                rec["items"] = dockets_in(text)
+                rec["text"] = text_lines(text)
                 files_read += 1
             except Exception as err:  # noqa: BLE001
                 print(f"could not read {f['url']}: {err}")
                 rec["items"] = prev.get(f["url"], {}).get("items", [])
+                if prev.get(f["url"], {}).get("text"):
+                    rec["text"] = prev[f["url"]]["text"]
             files.append(rec)
         out[ev["url"]] = {"date": ev["date"], "time": ev["time"], "title": ev["title"], "kind": ev["kind"],
-                          "files": files,
+                          "files": files, "read": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
                           "dockets": sorted({i["docket"] for f in files for i in f["items"]})}
     return out, pages, files_read
 
