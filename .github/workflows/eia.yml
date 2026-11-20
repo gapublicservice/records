@@ -1,0 +1,53 @@
+name: Georgia generator list from EIA
+
+# Saves the Georgia rows of the U.S. Energy Information Administration's
+# monthly generator inventory (Form EIA-860M) to data/reference/, with the
+# county, owner, size, technology and operating or planned year of every
+# generator. The regional picture places projects by this list.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 5 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  eia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q openpyxl
+      - name: Find and download the latest EIA-860M file
+        run: |
+          curl -sSL -m 60 -A "public-record-reader" -o page.html https://www.eia.gov/electricity/data/eia860m/
+          link=$(grep -oE 'href="[^"]+\.xlsx"' page.html | head -1 | sed -E 's/href="//; s/"$//')
+          echo "link: $link"
+          case "$link" in
+            http*) url="$link" ;;
+            /*) url="https://www.eia.gov$link" ;;
+            *) url="https://www.eia.gov/electricity/data/eia860m/$link" ;;
+          esac
+          case "$url" in https://www.eia.gov/*) ;; *) echo "not an EIA address"; exit 1 ;; esac
+          echo "$url" > url.txt
+          curl -sSL -m 300 -A "public-record-reader" -o eia860m.xlsx "$url"
+          file eia860m.xlsx
+      - name: Keep the Georgia rows
+        run: python -m harvester.eia eia860m.xlsx "$(cat url.txt)"
+      - name: Save to the record
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reference
+          git diff --cached --quiet && { echo "nothing to save"; exit 0; }
+          git commit -q -m "EIA-860M Georgia generators"
+          for a in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((a*10)); done
+          exit 1
