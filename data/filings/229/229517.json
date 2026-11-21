@@ -1,0 +1,26 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110576,
+      "bytes": 602099,
+      "fetched": "2026-11-21T08:42:58+00:00",
+      "name": "public_disclosure (50).zip",
+      "sha256": "76fa63b1b4da1326ebace038867de0a000eef924a893ed4195e9e3101f27d0e0",
+      "text": "zip (3 read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229517/110576.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229517/110576"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Stipulation between Commission Staff and Atlanta Gas Light on the Current Asset Management Agreement",
+  "dockets": [
+    16193,
+    56177
+  ],
+  "document_id": 229517,
+  "filed_date": "2026-11-20",
+  "harvested": "2026-11-21",
+  "received_date": "2026-11-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229517"
+}

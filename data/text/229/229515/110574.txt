@@ -1,0 +1,1882 @@
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-9.docx =====
+STF-PIA-48-9
+
+Question: 
+
+Referring to STF-REC-1-1, Table I.2:
+
+a. Define “ineffective vegetation management spend” and provide the formula, data sources, and time period used.
+b. State whether the spend input is actual recorded cost by circuit or disaggregated from system totals as described in Section I.P.
+c. In unprotected Excel, for every circuit evaluated under this criterion (not only those selected), provide the circuit, the VM spend value used, the source of that value, the outage measure used, the resulting ratio or score, and the resulting quartile.
+d. For each Table I.2 criterion for Packages 3 and 6, state whether it remains in use. If any criterion has changed, provide the current criterion and the date of and reason for the change.
+
+Response:
+
+Ineffective vegetation management spend is defined as circuits whose cumulative vegetation management (VM) spend over 5 years falls in the third or fourth quartile (at or above the 50th percentile) across all circuits evaluated. The formula used is percentile rank of x = (n / N) × 100, where x is a circuit’s cumulative VM spend, n is the number of circuits with cumulative spend less than or equal to x, and N is the total number of circuits. The data source is GPC’s CAMP (Contractor Activity Management Program) system. The time period used in the referenced report is calendar years 2017 through 2021, with VM spend summed by circuit.
+
+The spend input is the actual recorded cost by circuit. 
+
+Please see STF-PIA-48-9 Attachment. The data source is GPC’s CAMP system. The outage measure used for all circuits were system SAIDI and SAIFI metrics.
+
+The criterion found in STF-REC-1-1, Table I.2 remains in use.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-11.docx =====
+STF-PIA-48-11
+
+Question: 
+
+Identify all transmission lines subject to the North American Electric Reliability Corporation (NERC) FAC-003 Transmission Vegetation Management Reliability Standard, including line identifiers and the basis for determining applicability. Clarify whether the Transmission Vegetation Management policy in STF-WG-2-17, Attachment A, applies to transmission lines not subject to FAC-003. If not, identify the vegetation-management requirements applicable to those lines.
+
+Response:
+
+All lines operating at voltage greater than or equal to 200kV are subject to FAC-003. The Transmission Vegetation Management (TVM) Program described in STF-WG-2-17 Attachment A, governs all vegetation management (VM) activities on transmission rights-of-way (ROW), including those lines subject to NERC FAC-003 Standard.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-4.docx =====
+STF-PIA-48-4
+
+Question: 
+
+Explain the basis for the distribution trim cycle in each year, and the reason for each change between 2022 and 2025. Provide any study or analysis supporting the cycle chosen. Reconcile the stated cycle with the three-year distribution cycle assumed in footnote 10 of the 2019 and 2022 Customer Benefit Studies.
+
+Response:
+
+Vegetation management work plans are determined by an assessment of vegetation conditions, outage history, and criticality of circuits. The weight of the three criteria typically is not changed each year, and the Company has not performed a study to support the cycle selected. To prioritize the order of operations, the Company utilizes the aforementioned criteria to help ensure it has an objective way to manage the sequencing of the work done. Maintenance intervals for individual circuits may typically range from 24-60 months. The three-year distribution cycle referenced in the Customer Benefit Study is consistent with the average range of the typical trim cycle of distribution circuits.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-8.docx =====
+STF-PIA-48-8
+
+Question: 
+
+Provide GPC's outage cause-coding procedures and guidance, including the criteria for coding a tree or limb contact as weather versus vegetation, and any distinction between trees inside and outside the right-of-way. Identify any changes to these rules since 2020.
+
+Response:
+
+The Company uses distinct outage cause codes for outages caused by weather versus vegetation. There is no distinction made between trees inside and outside of the right-of-way. Please see STF-PIA-48-8 Attachment for the GPC Cause Code Descriptions for Event Completions document for outage codes and criteria in the Company’s outage management system (OMS). There have been no changes to the cause codes since 2020.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-7.docx =====
+STF-PIA-48-7
+
+Question: 
+
+State whether GPC records actual distribution VM cost by circuit. If so, provide it by circuit and year. If not, identify the most granular level at which actual cost is recorded.
+
+Response:
+
+GPC records actual Distribution Vegetation Management (VM) cost by circuit for vendor crew activities, or costs incurred to perform the VM work. Please see STF-PIA-48-7 Attachment for 2022-2025 VM costs by circuit. Please note, costs for GPC employee overhead such as labor and materials related to VM are not tied to the individual circuit level; rather, they are provided at an overall department level.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-2 PUBLIC DISCLOSURE.docx =====
+STF-PIA-48-2
+
+Question: 
+
+For each year, state the goals, progress measures, and outcome targets for the distribution VM program, how each is measured, and results against each. If none were set, so state.
+
+
+Response:
+
+Please see below for the total Distribution Vegetation Management (VM) spend actual to budget and actual to budget comparison of cost per mile for 2022-2025. Cost per mile goals are based on historical averages in each region and contractor spend only.
+
+Total Vegetation Management Spend
+
+Budget
+Actuals
+2022
+REDACTED
+REDACTED
+2023
+REDACTED
+REDACTED
+2024
+REDACTED
+REDACTED
+2025
+REDACTED
+REDACTED
+
+
+Contractor Vegetation Management Cost per Mile
+
+
+Total Budget
+Budget/Mile
+Total Actual
+Actual/Mile
+2022
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+2023
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+2024
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+2025
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+
+As stated in the Company’s responses to STF-PIA-48-3 through STF-PIA-48-6, the program's goal is to trim Distribution circuits within a range of 24-60 months. The goals for total spend and cost per mile support budgeting and cost management. Annual spend and cost per mile will vary with contract rates, field conditions, and system changes within the stated vegetation management maintenance intervals. 
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-6.docx =====
+STF-PIA-48-6
+
+Question: 
+
+Explain how the annual distribution VM budget is built, including its components and FERC accounts. Explain how storm-related clearing and capitalized clearing are budgeted, recorded, and reported.
+
+Response:
+
+The Company develops the annual distribution vegetation management (VM) O&M budget based on the planned vegetation management work required for the distribution system. The distribution VM work plan includes herbicide treatment, routine tree trimming, and right-of-way improvement activities. Distribution herbicide work is planned on a two-year cycle, while tree-trimming requirements are determined based on vegetation conditions, outage history, and circuit criticality, with maintenance intervals generally ranging from 24 to 60 months. Distribution right-of-way improvement work is targeted based on vegetation conditions, circuit criticality, and segment performance. The components of the budget include various resources, including contract labor, GPC labor, materials, and other operating expenses, and is typically budgeted to FERC accounts 582, 590, and 593.
+
+The Company develops the annual Distribution VM capital budget based on worst performing feeder statistics updated annually. The Company subsequently acquires easement expansions for areas with low performance related to vegetation-related outages and records initial clearing costs to FERC account 101. The execution plan is developed in line with the O&M strategy to ensure there are no redundancies in costs incurred. 
+
+The Company does not budget for vegetation management costs related to storm-related clearing. When storm-related Distribution VM work is performed, the costs are recorded to the respective storm project as either base storm costs (FERC account 593) or deferred storm costs (FERC account 182). Straight-time GPC labor is captured as base storm costs, while eligible incremental costs such as overtime labor, contractor labor, materials, and incidental restoration expenditures are captured as deferred storm costs. The Company does not record vegetation management costs related to storm-related clearing to capital accounts.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-10 Attachment E PUBLIC DISCLOSURE.docx =====
+PUBLIC DISCLOSURE
+
+
+STF-PIA-48-10 Attachment E has been redacted in its entirety. 
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-10.docx =====
+STF-PIA-48-10
+
+Question: 
+
+For each circuit that is qualified under Package 3 or Package 6, regardless of whether it appears on the STF-PIA-41-1 Distribution tab, please provide:
+
+a. the qualifying criteria met,
+b. selection date,
+c. line miles,
+d. approved and actual capital costs in unprotected Excel format.
+e. Additionally, for each of the five years preceding the circuit's selection, provide:
+i. Vegetation trimming dates and miles trimmed.
+
+ii. Actual vegetation management (VM) costs.
+
+iii. Number of tree/limb outages coded as vegetation-related and weather-related.
+
+iv. Please also provide any documents or analyses evaluating changes in vegetation management as an alternative to capital investment. If no such documents or analyses exist for a circuit, please state so.
+
+f. For each circuit identified in response to this request:
+i. State the installed distributed solar capacity (kW AC) connected to the circuit as of the selection date and as of the most recent date available, separately for (a) customer-sited/behind-the-meter, (b) third-party or QF-owned, and (c) Georgia Power-owned facilities, and state that capacity as a percentage of the circuit's peak load.
+
+ii. State whether Georgia Power uses any threshold or definition of high distributed generation or solar penetration for distribution planning, protection, or vegetation management purposes. If so, provide the definition and identify which of these circuits meet it. If not, please so state.
+
+iii. Explain whether and how distributed solar on a circuit affects the prioritization of vegetation management or tree-trimming schedules, including any consideration of vegetation-caused faults resulting in inverter trips, recloser operations, or feeder lockouts. Provide any supporting documents or analyses, or state that none exist.
+
+Response:
+
+Please see PIA-48-10 Attachment A for the qualifying criteria met for each circuit listed in Table I.2, which was also provided in the Company’s response to STF-REC-1-1.
+
+The selection date for each circuit for the 2023 – 2025 period was finalized on April 23, 2023.
+
+Please see STF-PIA-48-10 Attachment B for the line mileage per circuit for Package 6. For Package 3, the Company does not track line miles for this package.
+
+Please see STF-PIA-48-10 Attachment B.
+
+ 
+Please see STF-PIA-48-10 Attachment C for vegetation trimming dates and miles trimmed.
+
+Please see STF-PIA-48-10 Attachment C for actual vegetation management costs. Certain vegetation management activities, such as tree removals, are not measured in miles but the associated costs are included in the total cost per circuit.
+
+Please see STF-PIA-48-10 Attachment D for Vegetation and Weather Cause Codes per Circuit. Please see the Company’s response to STF-PIA-48-8 for Cause Code Definitions.
+
+Changes to vegetation management were not considered as an alternative. 
+
+ 
+Please see STF-PIA-48-10 Attachment E for distributed solar capacity related to feeders in STF-PIA-48-10 Attachment B.
+
+The Company does not apply such a standard threshold to every circuit.  The Company studies each circuit independently, taking into account the unique characteristics of each circuit in evaluating DER interconnections, protection requirements, and operational conditions. 
+
+ Distributed solar is not considered in the prioritization of tree trimming schedules.  
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48 Affidavit.pdf =====
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-3.docx =====
+STF-PIA-48-3
+
+Question: 
+
+Please describe the inspection, or audit of distribution lines for vegetation management purposes, and mention any post-work audit of completed such trimmings. For each, please discuss:
+
+a. trimming frequency versus trimming criteria, and provide frequency of trimming, share of system the miles it covered.
+b. Please mention who performs it, how findings are recorded and, and how findings are used in work planning. Provide those results on a year-by-year basis.
+c. Describe what the designated Company Inspectors do with the time sheets, Progress Maps and field records submitted under Section 19 of the distribution contractor specifications, including whether any completed work is field verified, the sample used, the criteria applied, and the results by year.
+
+Response:
+
+All Distribution vegetation management work receives a post completion inspection via field verification by an in-house or contract forester. Inspections are completed and recorded electronically in the Company’s work management system. As part of the verification process, work that meets the specification requirement is marked as completed in the system, and any work that does not meet the specification requirement is reworked until the work passes the inspection verification. Only the final status of the completed work is saved in the system. 
+
+a.Vegetation management work plans are determined by an assessment of vegetation conditions, outage history, and criticality of circuits. Maintenance intervals typically range from 24-60 months.
+For the years referenced, the following share of the system was trimmed: 
+
+2022 – 40%; 15,342 miles
+2023 – 14%; 5,491 miles
+2024 – 30%; 11,463 miles
+2025 – 25%; 9,308 miles
+
+b.A forester records inspections and audits electronically in the Company’s work management system and findings are utilized for work quality and work completion verification. Post completion inspections are not utilized as part of the work planning process. 
+
+c.Time sheets are uploaded with invoices as part of the invoice verification process. Progress maps are utilized to track and verify work completed. These files are uploaded electronically to the Company’s work management system, and all work is field verified by a forester once work is completed.
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-12.docx =====
+STF-PIA-48-12
+
+Question: 
+
+Please define Reliability Indices and Vegetation Management Metrics and discuss with most recent 5 years data:
+
+a. SAIDI/ SAIFI accuracy and sensitivity
+b. Vegetation Specific SAIDI/SAIFI
+c. Measure of VM success
+d. Data collection and accuracy
+e. Learning points to achieve the target reliability indices
+f. What is Georgia Power’s SAIDI/SAIFI value after averaging 5 years data? Where does it fall in the standards from the base case as discussed in its STF-REC-1-1 attachment and described as the preferred solution. Please justify your answer with the present value of cost or net present value by investment scenario as discussed in the same attachment.
+
+Response:
+
+The Company’s Reliability Team reviews outage events for accuracy every month. Events are reviewed to ensure the cause code, outage start time, restoration time, customers interrupted (CI), and customer minutes interrupted (CMI) are properly recorded. Any events identified to be inaccurate are corrected before finalizing the event report for the month. Events are reviewed and validated again at year-end. Events deemed impactful to reliability indices and customer experience are reviewed additionally to ensure accuracy. Reliability indices that are reviewed and validated include SAIDI and SAIFI which are defined by IEEE Standard 1366. Please see the Company’s response to STF-PIA-48-2 for the discussion on vegetation management goals and metrics.
+
+The Company does not track vegetation specific SAIDI and SAIFI.
+
+Please see the Company’s response to STF-PIA-48-2.
+
+Outage data is collected via the Company’s outage management system and reviewed for accuracy as described in the response to subpart (a) above.
+ 
+The Company monitors trends and metrics on reliability improvement to ensure the programs and approach are returning desired results. During the design phase of reliability projects, engineering personnel select from various approaches and strategies to develop a solution targeted to the historical performance and outage risk on the circuit.  
+
+The Company’s 5-year (2021-2025) averages for SAIDI and SAIFI are 140.4 and 1.24, respectively. The Company has not issued a customer benefit study of distribution investment since the one provided in the Company’s response to STF-REC-1-1, and therefore, an updated evaluation of present value of cost or net present value by investment scenario is not available for comparison. Please note, the base case as described in the previous study reflected the standards at the end state of the GRID program assuming the proposed spending was approved in totality.  
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-1 Attachment PUBLIC DISCLOSURE.docx =====
+PUBLIC DISCLOSURE
+
+
+STF-PIA-48-1 Attachment has been redacted in its entirety. 
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-1.docx =====
+STF-PIA-48-1
+
+Question: 
+
+Provide all written policies, procedures, manuals, or plans governing distribution vegetation management in effect from 2018 to present, with revision history. If no document exists other than the contractor specifications produced as STF-WG-2-17 Attachment B, so state.
+
+Response:
+
+The referenced document included in Attachment B of STF-WG-2-17 is the current governing document for Distribution vegetation management, effective January 1, 2020. The previous version in place from 2018-2019 is provided in STF-PIA-48-1-Attachment. 
+
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-5.docx =====
+STF-PIA-48-5
+
+Question: 
+
+In unprotected Excel, for each distribution circuit as of December 31 of each year 2022–2025, please provide the following information:
+The completion dates of the two most recent mechanical trims and herbicide treatments
+
+b. The next scheduled trim date and the assigned circuit cycle length.
+c. Whether the most recent trim was completed within the required cycle.
+d. If trim dates are not tracked by circuit, please confirm this and provide the most detailed available records of completed trimming work, including completion dates and circuit mapping (e.g., progress maps, field records, work forms, work orders, or contractor invoices).
+e. Separately, please identify the records and calculations supporting the statements of zero distribution backlog in the 2023–2025 Annual Surveillance Reports.
+
+Response:
+
+Please see STF-PIA-48-5 Attachment for available data. Due to changes in circuits, devices, and other factors throughout the years, not all historical data ties directly to the current list of circuits. 
+
+The next scheduled trim date for each circuit will be determined by an assessment of vegetation conditions, outage history, and criticality of circuits.  Circuit maintenance intervals typically range from 24-60 months.
+
+Most recent trims were completed per the criteria outlined in the response to subpart (b) above.
+
+Trim dates are tracked by circuit and provided in STF-PIA-48-5 Attachment.
+
+Please see STF-PIA-48-5 Attachment.  Actual miles completed each year change based on the assessment of field conditions and risk. Utilizing the criteria noted in the response to subpart (b) above, the Company may elect to reprioritize scheduled work during the year, which can change the overall total mileage trimmed on a year to year basis. Given the miles trimmed and the vegetation management funding over the referenced period as evaluated based on the underlying assessment of field conditions and risk, the Company determined no Distribution backlog over the course of the period. 
+
+===== DKT 44280 STF-PIA-48 PD/STF-PIA-48-10 Attachment A PUBLIC DISCLOSURE.pdf =====
+                                     PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+                          A Customer Benefit
+                                        Study of
+                                   Distribution
+                           Investment for the
+                                Georgia Power
+                             Company System
+
+
+                                                                                       May 2022
+
+EXECUTIVE SUMMARY
+
+Electric utility customers expect and depend on high levels of service reliability at a reasonable
+cost. As such, when developing a reliability improvement
+plan, a diligent utility must carefully evaluate the costs and
+benefits that accrue to customers under such a plan. The purpose of this Distribution Investment
+Study for the Georgia Power Company (“GPC”) system is to determine the range of investment
+in GPC’s distribution system that is optimal from a customer perspective.
+
+
+                                               1
+
+                                    PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+This study is an updated version of the Economic Benefit Analysis completed in 2019 and reviews
+a revised Distribution Investment Plan that reflects lessons learned over the last 3 years. This
+study analyzes the best set of investments to be made under the Grid Investment Plan starting
+in 2023. This study concludes that the revised 8-year investment plan in the amount of ~$3.4B is
+within the optimal range of investment.
+
+
+As background, GPC conducted an Economic Benefit Analysis on its original Distribution
+Investment Plan in 2019 to ensure that the plan was within the optimal range of investment from
+a customer perspective. The original plan was a ~$4.9B, 11-year plan that sought to improve
+approximately 800 of GPC’s worst-performing distribution feeder circuits (also referred to as
+“circuits”) with a target end-state SAIDI of ~65 by 2031 (also referred to as “Original Plan”).
+
+
+GPC has updated the Original Plan based on lessons learned through the execution of the plan
+over the last 3 years. Changes from the Original Plan are primarily driven by:
+       (1) Revised investment criteria, which select circuits with sustained poor performance.
+       (2) Increased capital requirements by investment package due to increases in the scope
+       and cost of work required to achieve expected reliability improvements.
+       (3) A refined optimization methodology which relaxes the investment package hierarchy
+       used in 2019 and allows for a larger set of possible investments to be evaluated when
+       determining the optimal set of investments for a given scenario.
+
+
+The revised plan (also referred to as “Distribution Investment Plan” or “the Plan”) is expected to
+invest ~$3.4B over the remaining 8 years and achieve an end-state overall company SAIDI of ~80
+by 2031. By targeting GPC’s worst-performing circuits, the plan strives to equalize the customer
+experience and improve overall company reliability.
+
+
+To create the Distribution Investment Plan, 15 alternate investment plans were constructed
+targeting end-state system reliability scores ranging from ~155 SAIDI to ~30 SAIDI. The plan that
+resulted in the lowest total cost to the customer under the most sensible set of assumptions was
+selected as the go-forward Distribution Investment Plan (also referred to as the “Base Case”).
+
+
+Plans targeting end-state SAIDIs lower than ~80 represent higher levels of investment than the
+Base Case. Plans targeting end-state SAIDIs higher than ~80 represent lower levels of investment
+
+
+                                               ii
+
+                                     PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+than the Base Case. The “No Incremental-Investment” plan represents a scenario in which GPC
+does not invest any incremental capital in its distribution system above historical levels, leading
+to a forecasted decline in GPC reliability and an end-state SAIDI of ~155 by 2031. See III.A for
+further discussion of investment scenarios.
+
+
+Consistent with findings from the Original Plan, the Base Case shows that higher levels of
+investment result in diminishing reliability improvement (see Figure 1). This is because circuits
+with the poorest reliability that represent the highest improvement opportunities are invested
+in first. Increasing capital investment means investing in circuits with relatively better reliability
+that represent lower improvement opportunities.
+
+
+Figure 1. Diminishing Reliability Improvement
+
+
+As illustrated in Figure 1, incremental customer benefit from distribution investment levels off
+after a certain amount of spending. The Base Case plan corresponds to the level of investment
+
+
+                                               iii
+
+                                     PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+that includes the highest opportunity investments but excludes investments that produce
+diminishing returns. See III.B for further discussion of diminishing reliability improvement.
+
+
+To evaluate the Distribution Investment Plan from the customers’ perspective, the present values
+of three types of costs were evaluated for each scenario. These include:
+    •   Capital Revenue Requirement: Capital revenue requirement refers to the direct
+        monetary cost customers incur as a result of GPC’s capital investment. On a present value
+        basis this is equal to the amount of capital GPC is required to spend under each scenario
+        multiplied by GPC’s distribution capital k-factor of 1.171. See I.N for further discussion of
+        capital revenue requirement assumptions and calculations.
+    •   Economic Cost: Economic cost refers to the implicit costs customers incur as a result of
+        outages. For the purposes of this study, economic cost strictly refers to the costs
+        customers incur as a result of distribution outages in each scenario. See I.O for further
+        discussion of economic cost assumptions and calculations.
+    •   Operations and Maintenance Expense (“O&M”): In this study, O&M refers to outage
+        repair-related and vegetation management O&M. Only these pieces of O&M are
+        included, as investment in GPC’s distribution system will not impact other components of
+        O&M. See I.P for further discussion of O&M assumptions and calculations.
+
+
+Because all of these costs are explicitly or implicitly borne by customers, an investment plan that
+minimizes the sum of these costs is considered to be within the optimal range of investment.
+
+
+1
+ GPC’s k-factor is used to convert GPC’s capital investment into a present value of revenue
+requirements to customers.
+
+
+                                               iv
+
+                                   PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+Figure 2. Present Value of Total Cost
+
+
+Figure 2 demonstrates the total of these three costs (capital revenue requirement, economic
+cost, O&M) for each scenario. Moving from left to right along the chart’s x-axis, capital revenue
+requirements increase as more aggressive reliability targets are achieved, while both economic
+costs and O&M costs decrease. Of the 15 scenarios evaluated, the Base Case scenario results in
+the minimum present value of costs and should thus be seen as the preferred option for
+customers.
+
+
+Minimizing the present value of total customer cost is equivalent to maximizing the net present
+value of investment.
+
+
+                                             v
+
+                                    PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+Figure 3. Net Present Value
+
+
+Figure 3 shows the net present value (“NPV”) of customer costs for each scenario. The NPV for
+any given scenario (for example, scenario “S”) is calculated by taking the difference between the
+No Incremental-Investment scenario’s present value of costs and scenario S’s present value of
+costs. The Base Case scenario has the highest associated NPV of all scenarios and therefore
+creates more customer value than any other scenario analyzed. See Section III for a further
+discussion of scenario cost calculation.
+
+
+In addition, seven sensitivity analyses on key inputs to the model were conducted. While the
+optimal scenario does move slightly (+/- 5 SAIDI) when key assumptions are adjusted, in the
+
+
+                                             vi
+
+                                      PUBLIC DISCLOSURE             STF-PIA-48-10 Attachment A
+
+
+majority of cases, the movement is from ~80 SAIDI to ~75 SAIDI when shifts in assumptions make
+it more favorable to spend additional capital (e.g., each investment costs less to return the same
+benefits, benefits from investing are higher than expected).
+
+
+As an example, Figure 4 shows a sensitivity on this study’s capital investment cost assumptions.
+To capture potential deviations from current investment cost estimates, cost assumptions were
+flexed up and down 10% to determine the impact on the optimal investment range. When costs
+are assumed to be 10% higher, the Base Case remains in the optimal range. When costs are
+assumed to 10% lower, the optimal scenario shifts to the ~75 SAIDI scenario, which invests
+significantly higher capital. Therefore, it is more conservative to use the Base Case as the basis
+for the Distribution Investment Plan as this plan invests less capital than the ~75 SAIDI scenario
+and is within the optimal range for a greater range of conditions. See Section IV for a further
+discussion of sensitivity analyses.
+
+
+                                             vii
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+Figure 4. Investment Cost Sensitivity
+
+
+While these sensitivities result in increases or decreases to the overall cost bars, the Base Case
+investment plan remains in the optimal range of investment across all sensitivities. As such, the
+Base Case investment plan should be considered the preferred option for GPC customers.
+
+
+                                             viii
+
+                                                     PUBLIC DISCLOSURE                                STF-PIA-48-10 Attachment A
+
+
+Contents
+EXECUTIVE SUMMARY ..................................................................................................................... i
+LIST OF TABLES ................................................................................................................................ xi
+LIST OF FIGURES ............................................................................................................................. xii
+I. ASSUMPTIONS........................................................................................................................... 12
+   A. Explanation of Investment Packages ...................................................................................... 2
+   B. Criteria for Package Investment ............................................................................................. 2
+   C. Package Investment Cost Drivers ........................................................................................... 4
+   D. Expected Investment Package Reliability Benefit .................................................................. 5
+   E. Expected Package Investment Benefit Length ........................................................................ 7
+   F. Investment Selection............................................................................................................... 7
+   G. Investment Sequencing .......................................................................................................... 7
+   H. Reliability Decline ................................................................................................................... 8
+   I. Package Investment Benefit Timing ...................................................................................... 11
+   J. Population Growth ................................................................................................................ 12
+   K. System Load Growth ............................................................................................................. 12
+   L. Weighted Average Cost of Capital ........................................................................................ 12
+   M. Historical Inflation Rate ....................................................................................................... 12
+   N. Capital Revenue Requirement.............................................................................................. 12
+   O. Economic Cost ...................................................................................................................... 13
+   P. Operations and Maintenance Expense Impacted by Investment ........................................ 15
+   Q. Optimal Investment Range Determination .......................................................................... 16
+II. SIMULATION PROCEDURE......................................................................................................... 16
+   A. Application of Investment Criteria and Selection of Investments ....................................... 16
+   B. Sequencing of Investments................................................................................................... 16
+   C. Forecasting Circuit Reliability ............................................................................................... 17
+
+
+                                                                    ix
+
+                                                    PUBLIC DISCLOSURE                              STF-PIA-48-10 Attachment A
+
+
+   D. Forecasting Circuit CMI and Customer Interruptions .......................................................... 17
+   E. Calculating Aggregate Reliability Scores ............................................................................... 17
+   F. Forecasting Capital Revenue Requirement ........................................................................... 17
+   G. Forecasting Economic Cost ................................................................................................... 18
+   H. Forecasting Operations and Maintenance Expense ............................................................. 18
+   I. Discounting Projected Costs .................................................................................................. 18
+   J. Calculating Terminal Value of Costs ...................................................................................... 18
+   K. Calculating Present Value of Costs ....................................................................................... 19
+III. SCENARIO RESULTS .................................................................................................................. 19
+   A. Summary of Scenarios and Selection of Base Case .............................................................. 19
+   B. Diminishing Reliability Improvements with Investment ...................................................... 20
+   C. Introduction and Discussion of U-Curve ............................................................................... 21
+   D. Net Present Value of Investment Scenarios ......................................................................... 27
+   E. Marginal Benefit of Grid Investment .................................................................................... 29
+IV. SENSITIVITY ANALYSES............................................................................................................. 31
+   A. Publicly Available Cost of EUE .............................................................................................. 31
+   B. Internal EUE Estimates.......................................................................................................... 32
+   C. Investment Cost .................................................................................................................... 34
+   D. Load Growth ......................................................................................................................... 35
+   E. Benefit Length ....................................................................................................................... 36
+   F. Load Growth / Benefit Length Interaction ............................................................................ 38
+   G. Rate of Reliability Decline ..................................................................................................... 39
+V. CONCLUSION............................................................................................................................. 41
+
+
+                                                                  x
+
+                                               PUBLIC DISCLOSURE                         STF-PIA-48-10 Attachment A
+
+
+LIST OF TABLES
+Table I. 1. Description of Investment Packages ............................................................................ 1
+Table I. 2. List of Package Investment Criteria .............................................................................. 2
+Table I. 3. List of Package Cost Drivers and Unit Costs ................................................................. 4
+Table I. 4. Estimated Reliability Improvements for Package Investment .................................... 5
+Table I. 5. Cost of Expected Unserved Energy by Customer Class .............................................. 12
+
+
+                                                           xi
+
+                                                  PUBLIC DISCLOSURE                            STF-PIA-48-10 Attachment A
+
+
+LIST OF FIGURES
+Figure 1. Diminishing Reliability Improvement .............................................................................iii
+Figure 2. Present Value of Total Cost .............................................................................................v
+Figure 3. Net Present Value ...........................................................................................................vi
+Figure 4. Investment Cost Sensitivity .......................................................................................... viii
+
+
+Figure I. 1. Historical SAIDI of Circuits with Systemic Issues ........................................................ 8
+Figure I. 2. Historical SAIFI of Circuits with Systemic Issues ......................................................... 8
+Figure I. 3. Historical SAIDI of Circuits without Systemic Issues ................................................... 9
+Figure I. 4. Historical SAIFI of Circuits without Systemic Issues ................................................. 10
+
+
+Figure III. 1. Diminishing Reliability Improvement ..................................................................... 20
+Figure III. 2. Present Value of Capital Revenue Requirement .................................................... 21
+Figure III. 3. Present Value of Economic Cost from Outages ...................................................... 22
+Figure III. 4. Present Value of O&M ............................................................................................. 24
+Figure III. 5. Present Value of Total Cost ..................................................................................... 25
+Figure III. 6. Net Present Value .................................................................................................... 27
+Figure III. 7. Marginal Benefit per Invested Dollar ...................................................................... 29
+
+
+Figure IV. 1. Present Value of U-Curve with ICE Economic Costs ............................................... 31
+Figure IV. 2. Internal EUE Estimate Sensitivity ............................................................................ 32
+Figure IV. 3. Investment Cost Sensitivity ..................................................................................... 34
+Figure IV. 4. Load Growth Sensitivity .......................................................................................... 35
+Figure IV. 5. Benefit Length Sensitivity ........................................................................................ 37
+Figure IV. 6. Load Growth / Benefit Length Interaction Sensitivity ........................................... 38
+Figure IV. 7. Reliability Decline Sensitivity .................................................................................. 39
+
+
+I. ASSUMPTIONS
+The following sections of this report provide detailed discussions related to the input
+assumptions associated with the 2022 Distribution Investment Plan.
+
+
+                                                               xii
+
+                                      PUBLIC DISCLOSURE                     STF-PIA-48-10 Attachment A
+
+
+A. Explanation of Investment Packages
+The Distribution Investment Plan assumes that GPC distribution circuits can receive any one (or
+multiple) of 6 different “investment packages.” The menu of circuit investment packages was
+developed by GPC distribution engineers based on prior investments that GPC has successfully
+implemented in its distribution system. Packages are listed in Table I.1 below:
+
+
+Table I. 1. Description of Investment Packages
+
+
+  Number              Name                                           Description
+
+                Add sectionalizing,    •   Install additional intelligent line devices on overhead line to
+      1
+                   DA devices              achieve segmentation
+                                       For circuits without a tie:
+                                       •   Add new tie(s) to other circuit(s)
+                                       For circuits with existing tie(s):
+      2         Add / strengthen
+                       ties            •   Increase capacity of tie points that offer increased ability to
+                                           restore load
+                                       •   In some cases, create a new tie on a radial branch of the circuit
+                                       •   Replace wooden and steel pole arms with fiberglass brackets
+      3         Circuit hardening
+                       (BIL)           •   Add wildlife protective equipment
+                                       •   Introduce a new source (e.g., new breaker at existing
+      4            Break feeder            substation) to split an existing circuit into two smaller circuits
+                                           while applying segmentation
+                                       •   Identify inaccessible lines and rebuild on private property along
+      5          Relocate feeder;
+                  bring to road            accessible roadway
+
+      6         Underground the        •   Underground 100% of multiphase overhead lines
+                    feeder
+
+
+B. Criteria for Package Investment
+To determine which (if any) investment package(s) should be applied to each circuit, specific
+criteria are set for each package. Criteria for each package are chosen to tailor package choice to
+each circuit based on that circuit’s specific characteristics. A circuit must meet ALL criteria
+
+
+                                                 2
+
+                                      PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+thresholds in order to qualify for an investment package. The criteria thresholds used in the Base
+Case scenario are listed below in Table I.2:
+
+
+Table I. 2. List of Package Investment Criteria
+
+
+  Number              Name                             Criteria for Investment
+
+                                       •                     X
+      1         Add sectionalizing,    •                     X
+                   DA devices
+                                       •                     X
+                                           •                     X
+      2          Add / strengthen          •                     X
+                        ties
+                                           •                     X
+                                       •                     X
+      3         Circuit hardening      •                     X
+                       (BIL)
+                                           •                     X
+                                       •                     X
+      4            Break feeder        •                     X
+                                           •                     X
+                                       •                     X
+      5          Relocate feeder;      •                     X
+                  bring to road
+                                           •                     X
+                                       •                     X
+      6         Underground the        •                     X
+                    feeder
+                                           •                     X
+
+
+The criteria above were determined in collaboration with GPC distribution engineers and subject
+matter experts to isolate circuits with “systemic issues” that are in most need of investment and
+most likely to experience further reliability decline in the absence of investment. For the
+
+
+                                               3
+
+                                     PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+purposes of this study, circuits with “systemic issues” are those with poor reliability stemming
+from topographical conditions (e.g., vegetation growth), unaddressed customer or load growth,
+or legacy design specifications. The criteria above have been updated slightly from 2019 based
+on lessons learned over the last 3 years. A key difference from the Original Plan is the transition
+to utilizing 5 years of reliability data to determine which circuits qualify for investment. Utilizing
+the average reliability performance across 5 years allows GPC to better identify circuits with
+consistently poor reliability.
+
+
+Data from ~2300 distribution circuits were analyzed against these criteria to determine if circuits
+were ‘qualified’ for each investment package. In many cases, circuits qualify for just a single
+investment package. In cases where a circuit qualifies for multiple packages, the following logic
+is applied to determine the set of investments the model can select from:
+                                                                                                    X
+
+
+                                                                          X
+
+
+After all qualified investment packages are identified, the model evaluates combinations of
+potential investments to determine the optimal subset of investments to achieve the lowest total
+cost to the customer for a given SAIDI (details on the selection approach are described in section
+I.F below).
+
+
+Each subset of investments selected represents a single scenario and each scenario is identified
+by the end-state SAIDI achieved. As part of this study, 15 scenarios were ultimately created for
+SAIDIs ranging from ~155 to ~30.
+
+
+To create investment scenarios with SAIDIs below 60, certain of the above criteria are flexed to
+be more permissive, allowing more circuits to qualify for, and receive, investment. This change
+in criteria is necessary to reach the lowest SAIDIs.
+
+
+C. Package Investment Cost Drivers
+Estimated capital required for each circuit investment is determined based on the cost driver(s)
+of the package(s) the circuit receives. Cost drivers and unit costs for each package were
+
+
+                                               4
+
+                                       PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+determined by GPC engineers based on analysis of test projects and were then updated based
+on the first 3 years of implementation experience. In addition, over the last three years, the
+Company has determined that additional work is required to complete certain investments.
+Therefore, a scope multiplier has been added to the sectionalizing, circuit hardening, and
+undergrounding investments. See Table I.3 for the list of drivers, scope multipliers, and unit costs.
+
+
+Table I. 3. List of Package Cost Drivers and Unit Costs
+
+
+ Number              Name                          X         X                              X
+
+    1          Add sectionalizing,                                        X                 X
+                  DA devices
+                                                                  X                                 X
+    2        Add / strengthen ties        X                           X         X               X
+                                                   X         X                              X
+    3        Circuit hardening (BIL)                              X                         X
+
+    4             Break feeder                     X         X                  X               X
+
+    5          Relocate feeder;
+                                                                          X                 X
+                bring to road
+    6          Underground the                                            X     X               X
+                    feeder
+
+
+D. Expected Investment Package Reliability Benefit
+Expected SAIDI and SAIFI improvement for each circuit receiving an investment is determined
+based on the package(s) it receives. Expected SAIDI and SAIFI improvements for each package
+
+
+                                               5
+
+                                     PUBLIC DISCLOSURE             STF-PIA-48-10 Attachment A
+
+
+are based on past GPC projects.2 While initial investments from the first 3 years of the Grid
+Investment Plan have resulted in positive reliability benefits, GPC has not updated the expected
+benefits due to the small sample size of investments that have been completed for a full calendar
+year and desire to remain conservative in estimating potential benefits.
+
+
+The scope of the Distribution Investment Study only extends to forecasting SAIDI and SAIFI values
+scrubbed of major weather events for each circuit. See Table I.4 for a list of expected package
+reliability improvements.
+
+
+Table I. 4. Estimated Reliability Improvements for Package Investment
+
+
+    Number            Name                SAIDI Reduction                  SAIFI Reduction
+
+      1        Add sectionalizing,                 X                            X X
+                   DA devices
+      2         Add / strengthen                   X                            X X
+                        ties
+      3         Circuit hardening                  X                            X X
+                       (BIL)
+      4           Break feeder                     X                            X X
+
+
+      5         Relocate feeder;                   X                            X X
+                 bring to road
+
+      6         Underground the                          X                 X           X
+                    feeder
+
+
+2
+
+
+                                             6
+
+                                     PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+E. Expected Package Investment Benefit Length
+All package benefits are forecasted to last 25 years past the investment period of 2020 to 2030
+(i.e., to 2055). This reflects a conservative estimate of the average useful life of package
+improvements3 and is in line with historical GPC experience.
+
+
+F. Investment Selection
+Once it is determined which package(s) a circuit qualifies for, a projection for the cost and benefit
+of each possible investment occurring in each possible year is made in the optimization model.
+An optimization model then evaluates possible combinations of investments to determine which
+subset of investments generates the greatest benefits for the customer (in terms of reduced
+O&M and reduced economic cost of outages) for each invested dollar. The optimal subset of
+investments selected produces the lowest total cost to the customer for a given SAIDI score.
+
+
+Using this approach, 15 different scenarios were created, each targeting an end-state system
+reliability score ranging from ~155 SAIDI to ~30 SAIDI. The 15 scenarios were compared to
+determine which scenario produced the lowest overall total cost to the customer. This overall
+lowest total cost to the customer scenario corresponds to the Base Case and go-forward
+Distribution Investment Plan.
+
+
+G. Investment Sequencing
+Circuit investments are sequenced for execution over the remaining 8-year investment horizon
+(2023-2030). Exact investment sequencing is determined based on several factors:
+   •   Annual spend: Fluctuation in annual overhead and underground investment cost is
+       minimized from year to year as spikes in either overhead or underground spend and labor
+       requirements would be difficult to manage from an operational and supply chain
+       perspective.
+   •   Region-by-region approach: The region by region sequencing established in 2019 was
+       maintained with 2 exceptions: The South region was shifted forward 1 position to start in
+       advance of the West region and the Northeast region was shifted forward 1 position to
+       start in advance of the Metro North region. These switches were made in order to balance
+
+
+3 Brown (2009) states underground and overhead T&D infrastructure have 40 and 60 year
+
+lifespans, respectively. See section IV.E for a sensitivity analysis on this assumption.
+
+
+                                               7
+
+                                     PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+       the amount of overhead and underground spend and labor required from year to year
+       given the new set of investments selected for the revised Distribution Plan. In keeping
+       with the 2019 plan, all circuits selected for investment in a particular region are addressed
+       in sequence, such that once investment in a region begins, that region is invested in every
+       year until investment in that region is completed.
+   •   Annual regional spend: Year over year fluctuation in total investment per region is
+       minimized to ensure that no one region is oversaturated with investment in one particular
+       year, as concentrated construction may pose operational difficulties and negatively
+       impact customer experience.
+   •   Circuit ordering: Within the constraints described above, circuits in each region which
+       present the worst reliability are prioritized for investment. In order to minimize travel,
+       disruption, and switching costs, investments within a single substation were grouped
+       where possible.
+
+
+H. Reliability Decline
+Without continued maintenance or investment, certain circuits are expected to experience
+reliability decline over the long term4. To reflect this, the roughly 1000 circuits identified as
+having systemic issues (as discussed in I.B) and hence qualifying for investment are projected to
+experience a modest yearly reliability decline across the investment period5 or until invested in.
+
+
+4 Because of the multitude of factors impacting circuit reliability in a given year (e.g., weather,
+
+traffic incidents, wildlife incidents) reliability cannot be forecasted accurately on a yearly basis.
+That said, over a longer period (e.g., 10 years) reliability can be expected to follow a forecasted
+trend.
+5Note that reliability decline is capped after the investment benefit period. In other words, no
+
+circuit is projected to decline past 2031.
+
+
+                                               8
+
+                                    PUBLIC DISCLOSURE            STF-PIA-48-10 Attachment A
+
+
+Figure I. 1. Historical SAIDI of Circuits with Systemic Issues
+
+
+                                               9
+
+                                     PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+Figure I. 2. Historical SAIFI of Circuits with Systemic Issues
+
+
+Figures I. 1 and I. 2 show the historical SAIDI and SAIFI, respectively, of roughly 1000 circuits
+identified as having systemic issues. Within the last six years, these circuits have experienced an
+average of ~6% SAIDI and ~3% SAIFI increase per year. To be conservative, SAIDI is projected to
+decline 4% for these circuits. SAIFI is projected to decline at 3%, in line with historical trends and
+the previous study.
+
+
+Figure I. 3. Historical SAIDI of Circuits without Systemic Issues
+
+
+                                               10
+
+                                    PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+Figure I. 4. Historical SAIFI of Circuits without Systemic Issues
+
+
+Figures I. 3 and I. 4 show the historical SAIDI and SAIFI trends, respectively, of the remaining
+~1300 GPC circuits that were not identified as having systemic issues. In the last six years,
+reliability for these circuits has been flat to improving. As such, this study assumes each of these
+circuits will experience no reliability increases or decreases over the course of the investment
+period and these circuits do not qualify for investment as part of the GIP.
+
+
+I. Package Investment Benefit Timing
+To reflect variations in the timing of circuit investment completions, for packages 1-5, only 1/3
+of expected reliability benefit is realized during investment. The remaining 2/3 of benefit is
+realized in the year following completion.
+
+
+For package 6 specifically, as no benefit can be realized until investment is complete and
+customers transitioned to the new line, no benefit is realized during investment. Instead, 100%
+of the reliability benefit is achieved in the year following completion.
+
+
+                                              11
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+J. Population Growth
+GPC’s customer base is assumed to grow at an annual rate of         X% between 2023 and 2055,
+based on GPC subject matter expert projections.
+
+
+K. System Load Growth
+Customer power usage (measured in MWh) is assumed to decline at an annual rate of              X%
+between 2023 and the end of the investment period, based on GPC subject matter expert
+projections.
+
+
+L. Weighted Average Cost of Capital
+GPC’s corporate WACC (Weighted Average Cost of Capital) of       X% is used for all discounting.
+
+
+M. Historical Inflation Rate
+An inflation rate of   X% is used to correct historical dollar figures to 2022 values, to discount
+projected costs, and to estimate expected investment cost increases over time. This figure is used
+for consistency with other GPC studies and reports6.
+
+
+N. Capital Revenue Requirement
+Capital revenue requirement refers to the direct monetary cost customers incur as a result of
+GPC’s capital investment on a present value basis. This is equal to the amount of capital GPC is
+required to spend under each scenario multiplied by GPC’s distribution capital k-factor of    X 7.
+
+
+Investment values in each year are multiplied by GPC’s distribution capital k-factor of      X to
+achieve a revenue requirement number for each year. Revenue requirement numbers for each
+
+
+6
+
+
+7
+ GPC’s k-factor is used to convert GPC’s capital investment into a present value of revenue
+requirement to customers.
+
+
+                                             12
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+year’s expenditures are then discounted back to 2022 values to achieve the present value of
+capital revenue requirement for a given investment plan.
+
+
+O. Economic Cost
+Economic cost refers to the implicit costs customers incur as a result of outages. Economic costs
+in the utility setting are often measured in terms of willingness to pay to avoid an outage or lost
+production as a result of an outage. For the purposes of this study, economic cost strictly refers
+to the costs customers incur as a result of distribution outages8 in each scenario.
+
+
+To facilitate estimating the economic cost of outages, Freeman, Sullivan & Company conducted
+a Cost of Expected Unserved Energy (EUE) survey of GPC and Mississippi Power Company (MPC)
+in 2011. This survey was conducted among the following four customer classes:
+   •   Residential
+   •   Commercial (below 1 MW average demand)
+   •   Industrial (below 1 MW average demand)
+   •   Large Business (commercial and industrial customers above 1 MW average demand)
+
+
+The cost of EUE (in 2022 dollars) for these four customer classes is shown in Table I. 5.
+
+
+Table I. 5. Cost of Expected Unserved Energy by Customer Class9
+
+
+  Customer Class                            Cost per Unserved KWh (2022)
+
+
+    Residential                                          X    X
+
+
+    Commercial                                           X    X
+
+
+8 A “distribution outage” is defined as an outage that originates on a distribution circuit (as
+
+opposed to originating from, for example, a transmission substation).
+9 Values are an average of summer and winter dollar amounts from the survey. Values are
+
+adjusted to 2022 dollars.
+
+
+                                             13
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+     Industrial                                         X    X
+
+
+  Large Business                                        X    X
+
+
+The yearly economic cost of distribution-related outages on a system level is calculated using the
+following formula:
+
+
+ Economic cost for system = SAIDI * Average KWh Usage per Minute * Cost per Unserved KWh
+
+
+Where:
+Economic cost for system = Nominal economic cost of unserved power for customers on the
+system;
+SAIDI = System Average Interruption Duration Index in minutes;
+Average KWh Usage per Minute = Amount of energy used in the average minute for customers
+on the system; and
+Cost per Unserved KWh = weighted average EUE cost survey value for customers across the
+system
+
+
+System nominal economic costs for each year are discounted back to 2022 dollars and summed
+together to calculate the present value of economic cost.
+
+
+Implicit in these formulas is that system economic cost (a) declines as reliability of the system
+improves and (b) declines as system load decreases. Since package investment is sequenced
+across the investment period of 2023-2030 and full reliability benefit for each circuit is only
+realized after investments are completed, an investment plan targeting an end-state reliability
+figure will see a gradual improvement of economic cost until end-state reliability is reached in
+2031.
+
+
+                                             14
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+P. Operations and Maintenance Expense Impacted by Investment
+In this study, Operations and Maintenance Expense (“O&M”) refers only to portions of GPC O&M
+that could be impacted by the circuit investments analyzed in this study. Specifically, this study
+forecasts two pieces of O&M:
+   •   Outage Repair-Related O&M: Costs that are related to the restoration of power when
+       outages occur. When reliability improves and the frequency and duration of outages
+       decreases, these O&M costs are expected to decline.
+   •   Vegetation Management O&M: Costs associated with the trimming of plant foliage and
+       removal of trees adjacent to distribution lines and within GPC’s right-of-way. Vegetation
+       management costs are incurred to ensure that plant foliage and trees do not interfere
+       with overhead distribution circuits. For distribution circuits receiving package 6
+       (undergrounding) vegetation management is expected to decline.
+
+
+These two pieces of O&M are assumed to grow or decline with the following:
+   •   Outage Repair-Related O&M: Increases or decreases with SAIFI
+   •   Vegetation Management O&M: Increases at historical CAGR of ~2.2%, decreases with
+       proportion of overhead 2&3-phase line miles undergrounded
+
+
+As such, outage repair-related O&M decreases with investment as system reliability improves.
+Vegetation management O&M also decreases to a lesser degree with investment as 2&3-phase
+line miles are undergrounded.
+
+
+Outage repair-related O&M is projected using the prior year’s system outage O&M spend,
+disaggregated to the circuit level based on a circuit’s contribution to system level SAIFI.
+Vegetation management O&M is projected using a historical 3-year average10 of system total
+vegetation spend, disaggregated to the circuit level based on a circuit’s proportion of 2 and 3
+phase overhead line miles.
+
+
+As with capital revenue requirement and economic cost, O&M is forecasted out for each year in
+the investment period in nominal terms and then discounted back to 2022 dollars to obtain a
+present value of O&M.
+
+
+10 GPC uses a three-year vegetation management cycle for most circuits.
+
+
+                                             15
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Q. Optimal Investment Range Determination
+Customers directly or indirectly incur capital revenue requirement costs, O&M costs, and
+economic costs. As such, customers prefer investment plans that offer a lower present value of
+capital revenue requirement, O&M, and economic costs over plans that offer a higher present
+value of these costs. Thus, an investment plan that minimizes the present value of the sum of
+these three costs is considered optimal from the customer’s perspective. Because only a finite
+number of investment plans can be tested, for the purposes of this study, the investment plan
+that minimizes the present value of costs is assumed to be in the optimal investment range (as
+opposed to the exact optimal investment plan).
+
+
+II. SIMULATION PROCEDURE
+
+The following sections of this report provide detailed discussions related to the steps taken to
+generate each investment scenario and arrive at total costs (including capital revenue
+requirement costs, economic costs, and O&M costs) for that scenario.
+
+
+A. Application of Investment Criteria and Selection of Investments
+Circuit data are evaluated against investment criteria for each investment package (see Table I.
+2 for a list of criteria and baseline values) to determine which investment package(s) each circuit
+qualifies for.
+
+
+As described in I.F above, a projection is then created to determine the cost and benefit of
+undertaking every qualified investment using the cost drivers and benefit estimates described in
+I.C and I.D respectively. An optimization model then evaluates possible combinations of these
+investments to determine which subset produces the lowest total cost to the customer for a
+given SAIDI.
+
+
+B. Sequencing of Investments
+After investments are selected, circuits are sequenced according to the procedure outlined in I.G.
+This places each circuit investment into a specific investment year within the 2023-2030
+investment window.
+
+
+                                             16
+
+                                      PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+C. Forecasting Circuit Reliability
+GPC circuit reliability scores are then projected out for each year in the investment horizon. The
+projection takes the following variables as inputs:
+    •     5-year average (2017-2021) SAIDI and SAIFI for each circuit
+    •     For circuits that are part of the investment plan for the scenario in question: Selected
+          package(s), timing of investment, and expected reliability improvement
+    •     For circuits with systemic issues: Assumed reliability decline in the absence of, or until,
+          investment
+
+
+D. Forecasting Circuit CMI and Customer Interruptions11
+By using the circuit-level forecasted reliability figures from II.C, customer counts for each circuit,
+and the GPC compound annual growth rate to forecast customer counts for each circuit for each
+year in the investment horizon, we forecast each circuit’s CMI and customer interruptions for
+each year in the investment horizon.
+
+
+E. Calculating Aggregate Reliability Scores
+System-wide SAIDI is calculated by summing together each circuit’s forecasted CMI and dividing
+by the projected number of GPC customers in each year. System-wide SAIFI is calculated by
+summing together each circuit’s forecasted customer interruptions and dividing by the projected
+number of GPC customers in each year.
+
+
+F. Forecasting Capital Revenue Requirement
+Capital revenue requirement for each year is calculated by summing the investment costs of
+circuits that will be invested in a given year and multiplying by the k-factor of X X, as discussed
+in I.N.
+
+
+11 Annual “customer interruptions” for a circuit is the sum of the number of customers impacted
+
+by an outage across each of a circuit’s outages in a given year. Customer Interruptions = SAIFI *
+Total Number of Customers.
+
+
+                                                17
+
+                                      PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+G. Forecasting Economic Cost
+The economic cost of outages across GPC for each year is determined by summing up the
+economic costs (calculated using methods described in I.O) of all distribution circuits.
+
+
+H. Forecasting Operations and Maintenance Expense
+Outage repair-related O&M is forecasted on an aggregate level for 2020-2031 in proportion to
+system SAIFI projections (see I.P).
+
+
+Vegetation management O&M is forecasted at a circuit level using the 3-year average of spend.
+As mentioned (see I.P), vegetation management O&M increases at historical rates and
+decreases with the proportion of overhead 3-phase line miles undergrounded.
+
+
+I. Discounting Projected Costs
+Using GPC’s WACC (see I.L) and the assumed inflation rate (see I.M), projected capital revenue
+requirement, economic cost of outages, and O&M for each year in the investment horizon are
+discounted back to 2022 dollars.
+
+
+J. Calculating Terminal Value of Costs
+Since benefits of investment are expected to last well beyond 2031 (see I.E), the present value of
+costs beyond the investment horizon is calculated using a bounded terminal value. Economic
+and O&M costs are estimated to continue to grow at a terminal growth rate equal to the
+estimated population growth (see I.J). Since traditional terminal value calculation assumes an
+infinite time horizon, a bounded terminal value is calculated using the following formula:
+
+
+                                      TV2033-2055 = TV2033 – TV2056
+Where:
+TV2033-2055 = Present value of costs from 2033 to 2055;
+TV2033 = Present value of costs from 2033 onward; and
+TV2056 = Present value of costs from 2056 onward
+
+
+This figure is discounted back to 2022 dollars to calculate the present value of 2033-2055
+economic and O&M costs.
+
+
+                                                18
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+K. Calculating Present Value of Costs
+Summing the present value of 2023-2032 costs and 2033-2055 costs yields a total present value
+of costs for a given investment plan.
+
+
+III. SCENARIO RESULTS
+A. Summary of Scenarios and Selection of Base Case
+For this analysis, 15 alternative investment scenarios were evaluated. Each scenario was created
+by determining the optimal subset of potential investments that delivers the lowest total cost to
+the customer for a given SAIDI score ranging from ~155 to ~30. The results of these scenarios
+were then compared to determine which of the scenarios produced the overall lowest total cost
+to the customer. This scenario was then selected as the ‘Base Case’.
+
+
+Under the Base Case, roughly 870 circuits are marked for investment for the remainder of the
+plan. The set of circuits and associated investment packages in the Base Case scenario make up
+GPC’s proposed Distribution Investment Plan12. The Base Case set of investments is projected to
+cost ~$3.4B over the remaining 8 years (using the cost estimates discussed in I.C). Under the Base
+Case scenario, GPC reliability is projected to reach ~80 SAIDI by 2031 (using reliability
+improvement estimates outlined in I.D).
+
+
+As noted in section I.B, to achieve end-state SAIDI below 60 requires significant undergrounding
+and so the undergrounding investment criteria were relaxed to allow more circuits to qualify for
+undergrounding investments in all scenarios with SAIDIs below 60.
+
+
+The worst reliability scenario (the “No Incremental-Investment” scenario) results in an end state
+of ~155 SAIDI, based on the assumption that GPC does not invest any incremental capital in its
+distribution system between 2023 and 2030 and that circuits with systemic issues continue to
+
+
+12 Exact set of circuits and investment timing in Base Case scenario will closely mirror final
+
+proposed Distribution Investment Plan; however, slight updates to the Distribution Investment
+Plan may be made after this study is published. As such, the Base Case scenario in this study may
+differ slightly from GPC’s final Distribution Investment Plan.
+
+
+                                             19
+
+                                     PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+decline during this period. The best reliability scenario targets an end state of ~30 SAIDI, which
+is the lowest feasible end-state SAIDI target under current input assumptions. To reach this
+scenario’s end-state would require a very large increase in total capital spend (roughly 11x as
+much capital as required in the Base Case) and number of circuits invested in (roughly 2x as many
+circuits as are included in the Base Case). In addition, reaching an end state of ~30 SAIDI would
+require undergrounding far more circuits than are undergrounded in the Base Case 13 (roughly
+35x).
+
+
+B. Diminishing Reliability Improvements with Investment
+Moving from the worst reliability scenario, in which no incremental investments are made, to
+each successive reliability scenario, which target better customer reliability experience and lower
+end-state SAIDI, requires adding circuits to the investment plan. As more circuits receive
+investment, a better end-state SAIDI is expected.
+
+
+The circuits with the worst reliability tend to be the circuits that, when invested in, are expected
+to produce the largest reliability improvement. As a result, higher investments (i.e. investment
+scenarios targeting more circuits and better end-state reliability) result in diminishing reliability
+improvements. This is because the worst circuits presenting the highest reliability improvement
+opportunity have already been added to the investment plan and incremental circuits added to
+the plan present lower reliability improvement opportunity. As a result, reliability benefit per
+invested dollar diminishes as investment scope increases. In Figure III. 1 one can see a
+visualization of this process.
+
+
+13 This is due to the fact that the undergrounding package generally results in the lowest reliability
+
+end-state compared to any other investment package.
+
+
+                                               20
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Figure III. 1. Diminishing Reliability Improvement14
+
+The slope of the curve is initially high as investment focuses on the worst circuits. As successive
+incremental investment is restricted to better and better circuits, however, reliability
+improvement per dollar falls and the slope tapers off. Investment past the Base Case (i.e.
+targeting end-state GPC SAIDI values lower than ~80) requires investing in circuits with relatively
+better reliability and shows a pronounced decline in reliability improvement per dollar invested.
+
+
+C. Introduction and Discussion of U-Curve
+As discussed in I.Q, the optimal range of investment from a customer perspective is that which
+minimizes the summed present values of capital revenue requirement, economic cost, and O&M.
+Taking the identified scenarios as the domain of investment plans, the optimal range of
+investment can be identified by calculating the present value of each of these costs for each
+investment plan.
+
+
+14 “SAIDI improvement” is the difference between a scenario’s end-state SAIDI and the No
+
+Incremental-Investment end-state SAIDI; each point represents a scenario.
+
+
+                                             21
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+     i.    Present value of capital revenue requirement
+
+
+The present value of capital revenue requirement for each scenario is shown below in Figure III.
+2:
+
+
+Figure III. 2. Present Value of Capital Revenue Requirement
+
+
+As mentioned above, the worst reliability scenario with end state ~155 SAIDI assumes that no
+incremental investment is made in the distribution system during the investment period and thus
+has a present value of capital revenue requirement equal to $0. Moving right along the axis, the
+slope of the curve increases as equal reliability improvements can only be attained via higher and
+
+
+                                             22
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+higher levels of capital investment in the distribution system which results in higher and higher
+revenue requirements. This is due to diminishing reliability improvement, as discussed in Section
+III.B. The right most scenarios targeting the most aggressive end-state reliability scores require
+increasingly large investment amounts as incremental investment is restricted to relatively better
+circuits with lower reliability improvement opportunity.
+
+
+   ii.     Present value of outage economic cost
+
+
+The present value of outage economic cost for each scenario is shown below in Figure III. 3:
+
+
+Figure III. 3. Present Value of Economic Cost from Outages
+
+
+                                             23
+
+                                       PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+The present value of economic cost decreases moving from left to right along the x-axis. As end-
+state reliability improves, customers face less outage time and incur less economic cost as a
+result.
+
+
+The concave nature of the curve pictured is due to two factors:
+    •      Gradual reliability improvement: As discussed in Section I.O, end-state reliability for a
+           given investment plan is only reached in 2031. Between 2023 and 2031, reliability benefit
+           accrues gradually as GPC invests in more circuits. As such, the differences between
+           scenarios is less pronounced in earlier years.
+    •      Discounting: Due to the compounded discounting of economic costs, the economic costs
+           of the investment period’s early years (when scenarios’ reliability differences are less
+           pronounced) are given more weight than later years (when scenarios’ reliability
+           differences are more pronounced).
+
+
+    iii.      Present value of O&M
+
+
+The present value of O&M cost for each scenario is shown below in Figure III. 4:
+
+
+                                                 24
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+Figure III. 4. Present Value of O&M
+
+
+The present value of O&M steadily decreases as lower SAIDI end-states are targeted. This is due
+to declining system SAIFI (resulting in lower outage restoration costs) and increased
+undergrounding (resulting in lower vegetation management costs). Notably, O&M represents a
+much smaller portion of total cost than economic costs and capital costs. Again, the concave
+nature of the pictured function is due to gradual reliability improvement and discounting, similar
+to economic cost.
+
+
+   iv.     Present value of total cost
+
+
+                                             25
+
+                                    PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+The present value of all costs for each scenario is shown below in Figure III. 5:
+
+
+Figure III. 5. Present Value of Total Cost
+
+Moving from left to right along the x-axis, capital revenue requirement increases for each
+successive scenario while O&M and economic cost decrease. The Base Case scenario lies at the
+minimum of the U-curve and is therefore the plan that minimizes customer costs under default
+assumptions.
+
+
+                                              26
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+D. Net Present Value of Investment Scenarios
+
+The net present value (NPV) of an investment scenario S is the measure of its benefit compared
+to investing $0 incrementally and is calculated using the following formula:
+
+
+                                       NPVS = PVCNI – PVCS
+
+
+Where:
+NPVS = Net present value of scenario S;
+PVCNI = Present value of costs for the No Incremental-Investment scenario; and
+PVCS = Present value of costs for scenario S
+
+
+When the NPV of a scenario is positive, that scenario’s investment plan represents a net benefit
+for customers, with a present value equal to the NPV. When the NPV of a scenario is negative,
+that scenario’s investment plan represents a net loss for customers, with a present value equal
+to the NPV. If scenario S’ has a higher NPV than scenario S, S’ represents a higher benefit for
+customers and should be preferred for investment. The “optimal range” is represented by the
+scenario with the highest NPV.
+
+
+The net present value for each scenario is shown below in Figure III. 6:
+
+
+                                               27
+
+                                      PUBLIC DISCLOSURE                 STF-PIA-48-10 Attachment A
+
+
+Figure III. 6. Net Present Value
+
+
+Of note is that Figure III. 6 is a derivative of Figure III. 5’s present value U-curve. The NPV for each
+scenario (for example, scenario “S”) is calculated by taking the difference between the No
+Incremental-Investment scenario’s present value of costs (the left-most bar) and scenario S’s
+present value of costs. Hence, the NPV of the No Incremental-Investment scenario is $0 and is
+therefore not pictured in this figure.
+
+
+As shown in Figure III. 6, the Base Case scenario represents the optimal investment plan with an
+NPV of ~$6.5B. Each investment scenario, with the exception of the 2 scenarios targeting ~35 and
+~30 SAIDI end-state, is NPV positive, indicating that investment is strictly more beneficial to
+
+
+                                                28
+
+                                      PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+customers than non-investment. Moving from left to right along the x-axis, NPV begins falling
+after reaching the Base Case scenario. This is because incremental investment is restricted to the
+highest performing circuits. Reaching ~35 or below SAIDI as an end-state would result in a net
+detriment to customers as increased capital revenue requirement would outweigh any reduction
+in economic costs and O&M.
+
+
+E. Marginal Benefit of Grid Investment
+As mentioned in III.B, reliability improvement per invested dollar declines as investment
+increases. This relationship can also be analyzed by calculating marginal benefit per invested
+dollar (MBID)15, where marginal benefit is calculated using the following formula:
+
+
+                     MBID = -1* Δ Benefit / Δ Capital Revenue Requirement
+
+
+Where:
+MBID = Customer value gained per dollar of investment, moving from S to S’, where S and S’ are
+adjacent scenarios
+Δ Benefit = PVS’(Economic cost) – PVS(Economic cost) + PVS’(O&M) – PVS(O&M)
+Δ Revenue Requirement = PVS’(Capital revenue requirement) – PVS(Capital revenue requirement)
+
+
+When MBID is greater than $1, additional investment benefits customers more than it costs
+customers. This is because the additional reliability improvement grants customers greater
+savings in economic cost and O&M than it costs them in capital revenue requirement. When
+MBID is less than $1, additional investment costs customers more than it benefits them. This is
+because the additional reliability improvement costs customers more in capital revenue
+requirement than it saves them in economic cost and O&M. Thus, an MBID of $1 represents an
+“efficiency cutoff” for investment.
+
+
+The MBID for each reliability end-state is shown below in Figure III. 7:
+
+
+15
+  Denominator is expressed in terms of capital revenue requirement because this is the cost of
+investment from the customer’s perspective.
+
+
+                                              29
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Figure III. 7. Marginal Benefit per Invested Dollar16
+
+
+MBID is initially high as investment focuses on the worst circuits but declines as target SAIDI end-
+states get lower. Continued investment is above the efficiency cutoff, and therefore beneficial to
+customers, until reliability end-state passes ~80 SAIDI, after which point continued investment is
+no longer sensible.
+
+
+16 Curve represents the best-fitting exponential line.
+
+
+                                              30
+
+                                     PUBLIC DISCLOSURE                   STF-PIA-48-10 Attachment A
+
+
+IV. SENSITIVITY ANALYSES
+
+The following sensitivities were run to determine the optimal ranges of investment under varying
+model conditions, and whether optimality shifts when assumptions are adjusted. For each
+sensitivity, excluding IV.A, two sets of analysis were run for each sensitivity, one in which the
+assumptions were flexed up above the baseline assumption and one in which the assumptions
+were flexed down below the baseline assumption. Note that all sensitivities were conducted on
+only a subset of investment scenarios above and below the Base Case. This approach was taken
+to balance thoroughness and efficiency.
+
+
+A. Publicly Available Cost of EUE
+The first sensitivity run uses publicly available EUE data to replace internal EUE survey data.
+Specifically, this sensitivity uses the Interruption Cost Estimate Calculator17, developed by Nexant
+and funded by Lawrence Berkeley National Laboratory and the Department of Energy, to
+estimate the present value of the economic cost of outages for each scenario.
+
+
+The ICE calculator differs from this study’s default economic cost methodology in several ways:
+   •   EUE values are estimated based off proprietary Nexant surveys
+   •   Economic cost calculation incorporates SAIFI in addition to SAIDI
+   •   ICE incorporates household income, the distribution of outages over the course of the
+       day, industry breakdown among business customers, and prevalence of backup
+       generation as additional factors
+
+
+The present value of costs U-curve using the ICE calculator to estimate the economic cost of
+outages is below in Figure IV. 1:
+
+
+17 The ICE calculator is available for use at http://icecalculator.com
+
+
+                                              31
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Figure IV. 1. Present Value of U-Curve with ICE Economic Costs
+
+
+Compared to the Base Case EUE calculation in Figure III. 5, the economic cost of outages is slightly
+lower for each scenario. This has the effect of flattening the curve and therefore compressing the
+gap between scenarios. O&M and capital revenue requirement remain the same for each
+scenario. This is because the calculation of economic cost has no influence on either. The Base
+Case remains in the optimal investment range, targeting an end-state of ~80 SAIDI.
+
+
+B. Internal EUE Estimates
+Since customer electricity reliability expectations may change during the investment period, EUE
+cost estimates were flexed up and down by 10% to determine the impact on economic cost
+calculations and the optimal investment range. Flexing EUE cost estimates impacts the economic
+cost bar only, as capital revenue requirement and O&M cost bars are not affected by this variable.
+Figure IV. 2 shows the sensitivity calculations for the Base Case and four points around the Base
+Case.
+
+
+                                              32
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+The Base Case remains the optimal investment under the 90% of default EUE cost assumptions.
+In the 110% of default EUE cost assumption, the optimal point moves to the ~75 SAIDI scenario.
+The 110% EUE cost scenario is a more lenient assumption as it assumes that the value of the
+benefits to customers of reducing outages is higher than expected (and therefore investing more
+capital to improve reliability is more favorable) and so the optimal point shifts to ~75 SAIDI where
+more capital is spent to achieve improved reliability. It is more conservative to assume that the
+EUE costs do not rise and so the Base Case should still be considered to be within the optimal
+range.
+
+
+Figure IV. 2. Internal EUE Estimate Sensitivity
+
+
+                                              33
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+C. Investment Cost
+To capture potential deviations from current investment cost estimates, investment cost
+assumptions were flexed up and down 10% to determine the impact on capital revenue
+requirement and the optimal investment range. Flexing investment cost assumptions only affects
+the capital revenue requirement cost bar as economic cost and O&M are unaffected by
+investment cost. Figure IV. 3 shows the sensitivity calculations for the Base Case and four points
+about the Base Case.
+
+
+The Base Case remains in the optimal investment range under the 110% of default investment
+cost assumptions. In the 90% of default investment cost assumption the optimal scenario moves
+to the ~75 SAIDI scenario, as this change reduces the cost of each investment to achieve the same
+benefit and therefore encourages the spend of additional capital. It is more conservative to
+assume that investment costs will not decline and so the Base Case should still be considered to
+be within the optimal range.
+
+
+                                             34
+
+                                   PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+Figure IV. 3. Investment Cost Sensitivity
+
+
+D. Load Growth
+As discussed in I.K, default assumptions, electricity demand per customer is projected to decline
+  X% annually over the course of the investment period. To capture possible load growth
+changes, estimated load growth was flexed up and down by 1 percentage point to determine the
+impact on economic cost and the optimal investment range. Flexing load growth assumptions
+affects the economic cost bar by changing the volume of unused energy during loss of service.
+Capital revenue requirement and O&M are unaffected by flexing load growth assumptions.
+Figure IV. 4 shows the sensitivity calculations for the Base Case and four points about the Base
+Case.
+
+
+                                            35
+
+                                    PUBLIC DISCLOSURE               STF-PIA-48-10 Attachment A
+
+
+The Base Case remains in the optimal investment range under the      X% load growth assumption.
+The optimal point shifts to ~75 SAIDI under the       X% load growth assumption as this assumes
+that there is more load on the system and therefore that the benefits of reducing outage minutes
+is higher. It is more conservative to assume that load will not rise and so the Base Case should
+still be considered to be within the optimal range.
+
+
+Figure IV. 4. Load Growth Sensitivity
+
+
+E. Benefit Length
+As discussed in I.E, under default assumptions package investment benefit is expected to last
+until 2055, 25 years past the end of the investment period of 2023-2030. To capture variation in
+
+
+                                             36
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+realized benefit length, estimated benefit length was flexed up and down by 10 years on a system
+level to determine the impact on economic cost and the optimal investment range. Flexing
+benefit length assumptions affects both the economic cost and O&M bars by extending the
+valuation horizon. Capital revenue requirement is unaffected by changes to the assumed benefit
+length. Figure IV. 5 shows the sensitivity calculations for the Base Case and four points about the
+Base Case.
+
+
+Under a 15-year benefit assumption, the optimal point shifts to the ~85 SAIDI scenario and using
+the 35-year benefit assumption, the optimal point decreases to ~75 SAIDI. However, in both
+scenarios, the Base Case SAIDI remains in the optimal investment range.
+
+
+                                             37
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Figure IV. 5. Benefit Length Sensitivity
+
+
+F. Load Growth / Benefit Length Interaction
+Load growth and benefit length are unique among the study’s assumptions in that they interact
+with one another. High load growth can strain circuit infrastructure, decreasing the expected
+benefit length of circuit investment. Low load growth can increase benefit length by extending
+circuit infrastructure useful life. To capture this variation, two separate model variants were run:
+(1) X X% load growth and 35 year benefit, and (2)      X% load growth and 15 year benefit. Both
+variants affect the economic cost and O&M bars, while capital revenue requirement remains
+unchanged. Figure IV. 6 shows the sensitivity calculations for the Base Case and four points about
+the Base Case. The Base Case remains in the optimal investment range under the 15-year benefit
+
+
+                                              38
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+and     X% load growth assumption. Under the             X% load growth and 35-year benefit
+assumption, the optimal point shifts to the ~75 SAIDI scenario.
+
+
+Figure IV. 6. Load Growth / Benefit Length Interaction Sensitivity
+
+
+G. Rate of Reliability Decline
+As discussed in I.H, the roughly 1000 circuits identified as having systemic reliability issues are
+projected to continue to experience reliability decline at conservative annual SAIDI and SAIFI
+rates of ~4% and ~3%, respectively, for each year in the investment horizon or until invested in.
+Given that reliability can vary year-by-year due to factors such as weather patterns, traffic, and
+wildlife events, possible reliability decline differences were captured by varying SAIDI and SAIFI
+
+
+                                             39
+
+                                     PUBLIC DISCLOSURE              STF-PIA-48-10 Attachment A
+
+
+decline rates up or down by 2 percentage points. Figure IV. 7 shows the sensitivity calculations
+for the Base Case and four points about the Base case. The Base Case is the optimal investment
+under the low reliability decline assumption but under the high reliability decline assumption the
+optimal SAIDI moves to ~75. It is more conservative to assume that reliability will not decline
+faster than expected (and therefore that the benefits to improving reliability are greater) and so
+the Base Case should still be considered to be within the optimal range.
+
+
+Figure IV. 7. Reliability Decline Sensitivity
+
+
+                                                40
+
+                                    PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+V. CONCLUSION
+
+The 2022 Distribution Investment Study is aimed at determining the optimal investment range
+for GPC’s proposed Distribution Investment Plan by comparing the costs and benefits across
+various investment scenarios. As shown in Figure III. 1 (reproduced below) investment scenarios
+targeting more circuits and better end-state reliability result in diminishing reliability
+improvements. As noted, this is because the “highest opportunity circuits” are the first to be
+invested in. The Base Case plan corresponds to the level of investment that includes the highest
+opportunity investments but excludes investments that produce diminishing returns.
+
+
+Figure III. 1. Diminishing Reliability Improvement
+
+
+As discussed above in I.Q, the investment scenario that minimizes capital revenue requirements,
+economic costs, and O&M can be seen as optimal from the customer’s perspective. This is
+because all of these costs are either directly or indirectly borne by customers. As shown in Figure
+III. 5 (reproduced below), of the 15 scenarios run, the Base Case scenario results in the minimum
+cost and should therefore be seen as the preferred option for customers.
+
+
+                                             41
+
+                                    PUBLIC DISCLOSURE             STF-PIA-48-10 Attachment A
+
+
+Figure III. 5. Present Value of Total Cost
+
+
+Minimizing total customer cost is equivalent to maximizing the net present value of investment.
+
+
+Figure III. 6, reproduced below, shows NPV of each scenario.
+
+
+                                             42
+
+                                     PUBLIC DISCLOSURE                STF-PIA-48-10 Attachment A
+
+
+Figure III. 6. Net Present Value
+
+
+Lastly, seven sensitivity analyses on key inputs to the Distribution Plan have been conducted.
+While these sensitivities result in increases or decreases to the overall cost bars, the Base Case
+investment plan remains in the optimal range of investment across all sensitivities. While the
+optimal point occasionally shifts slightly, the shift is primarily due to changes in assumptions that
+make it more favorable to spend additional capital. Given that the capital spent on investments
+directly increases the rates paid by customers, it is thus the conclusion of this report that the
+Base Case investment plan (the “Distribution Investment Plan”) is the more conservative option
+and should be the preferred solution from the customer’s perspective.
+
+
+                                              43

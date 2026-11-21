@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110575,
+      "bytes": 263826,
+      "fetched": "2026-11-21T08:42:56+00:00",
+      "name": "docket_42315_true_up_report_11192026.zip",
+      "sha256": "436ddcc881ff1158da8a986b07e6bcb165f70af3c9f8ea52fb8823ebf90a68aa",
+      "text": "zip (2 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229516/110575.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229516/110575"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Monthly True Up",
+  "dockets": [
+    42315
+  ],
+  "document_id": 229516,
+  "filed_date": "2026-11-20",
+  "harvested": "2026-11-21",
+  "received_date": "2026-11-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229516"
+}

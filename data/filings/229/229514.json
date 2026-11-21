@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110572,
+      "bytes": 262803,
+      "fetched": "2026-11-21T08:42:52+00:00",
+      "name": "STF-PIA-2.DR-11941.docx",
+      "sha256": "d021a107ace464f6ad6de1bfed4fa34e7e2ef4fbd79d7d0f860863cc7535f611",
+      "text": "docx",
+      "text_file": "data/text/229/229514/110572.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229514/110572"
+    },
+    {
+      "attachment_id": 110573,
+      "bytes": 11973,
+      "fetched": "2026-11-21T08:42:52+00:00",
+      "name": "STF-PIA-2.DR.Attachment A_Reliability Reporting Template Draft.xlsx",
+      "sha256": "228c663ab44509aee337dfbb05e59f8b2a92adb029f342644608eee1155cd5b1",
+      "text": "not read: .xlsx",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229514/110573"
+    }
+  ],
+  "company": "Staff",
+  "description": "Data Request from Commission Staff (STF-PIA-2)",
+  "dockets": [
+    11941
+  ],
+  "document_id": 229514,
+  "filed_date": "2026-11-20",
+  "harvested": "2026-11-21",
+  "received_date": "2026-11-20",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229514"
+}
