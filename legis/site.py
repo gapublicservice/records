@@ -54,15 +54,24 @@ WIDGET_CSS = """
 .lt-views section{border-top:3px solid #111;padding-top:8px}
 .lt-view{margin:0 0 16px}
 .lt-view blockquote{margin:6px 0;padding-left:12px;border-left:3px solid #e4e4e4}
+.lt-context{margin:4px 0 6px;font-size:14px}
+.lt-disclosure{border:1px solid #e4e4e4;background:#fafafa;padding:10px 12px;font-size:15px}
 @media (max-width:640px){.lt-views{grid-template-columns:1fr}}
 """
+
+
+# The shared footer describes the Commission's records; bill pages come from elsewhere.
+COMMISSION_SOURCE = "Records are copied each night from the Commission's public site; each one links to the original."
+BILL_SOURCE = ("Bill records come from the Georgia General Assembly's site (legis.ga.gov) and LegiScan, "
+               "updated nightly and every two hours during session; each bill links to its General Assembly page.")
 
 
 def _page(title: str, body: str, depth: int) -> str:
     try:  # inside the records repository, use its frame
         sys.path.insert(0, str(CODE_ROOT))
         from harvester.site import page  # type: ignore
-        return page(title, f"<style>{WIDGET_CSS}</style>{body}", on="legislature", depth=depth)
+        html_out = page(title, f"<style>{WIDGET_CSS}</style>{body}", on="legislature", depth=depth)
+        return html_out.replace(COMMISSION_SOURCE, BILL_SOURCE)
     except Exception:
         up = "../" * depth
         return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
@@ -162,9 +171,12 @@ def views_widget(bill: dict) -> str:
                 link = moment_link(meta, int(v["video"]["start_seconds"]))
             items.append(f'<div class="lt-view"><b>{e(v["who"])}</b>, {e(v["role"])}'
                          f'<blockquote>{e(v["quote"])}</blockquote>'
+                         + (f'<p class="muted lt-context">{e(v["context"])}</p>' if v.get("context") else "") +
                          f'<a href="{e(link)}">{e(v["source_title"])}</a> · <span class="mono">{e(v["source_date"])}</span></div>')
         cols.append(f'<section><h3>{titles[side]}</h3>{"".join(items)}</section>')
-    return ('<p class="muted">Each view is quoted from a public source and checked against it. Views appear '
+    panel = views.load_panel(bill["session"], bill["slug"]) or {}
+    disclosure = (f'<p class="lt-disclosure">{e(panel["disclosure"])}</p>' if panel.get("disclosure") else "")
+    return (disclosure + '<p class="muted">Each view is quoted from a public source and checked against it. Views appear '
             'only when both sides have one, in the same format, by date.</p>'
             f'<div class="lt-views">{"".join(cols)}</div>')
 

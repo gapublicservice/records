@@ -79,3 +79,33 @@ class Scope(unittest.TestCase):
         lines = textdiff.summary_lines(s)
         self.assertIn("A figure changed from 90 to 60.", lines)
         self.assertFalse(any("none" in l or "1 2 3" in l for l in lines))
+
+
+
+REAL = Path(__file__).resolve().parents[2] / "data" / "legislature"
+
+
+def _sb34():
+    """Copy the real SB 34 record, panel and saved sources into the test folder."""
+    import shutil
+    for rel in ["2025_26/bills/sb34.json", "views/2025_26/sb34.json",
+                "sources/sb34-georgia-recorder-2025.txt", "sources/sb34-rstreet-2026.txt"]:
+        dst = TMP / "data" / "legislature" / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(REAL / rel, dst)
+    return json.loads((REAL / "2025_26/bills/sb34.json").read_text())
+
+
+def test_bill_pages_name_their_real_source():
+    out = site.bill_page(_sb34())
+    assert site.BILL_SOURCE in out
+    assert site.COMMISSION_SOURCE not in out
+
+
+def test_sb34_panel_is_live_with_disclosure_and_context():
+    bill = _sb34()
+    st = views.panel_status(views.load_panel("2025_26", "sb34"))
+    assert st["state"] == "live", (st["reasons"], st.get("problems"))
+    out = site.views_widget(bill)
+    assert "lt-disclosure" in out and "priority bills" in out
+    assert out.count("lt-context") == len(st["views"]) == 4
