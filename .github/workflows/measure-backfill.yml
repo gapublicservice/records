@@ -1,0 +1,47 @@
+name: Measure backfill
+
+# Samples the Commission's record from before Sept 2022 and reports counts,
+# sizes and how many files look scanned. Reads only: one request at a time
+# with a pause, nothing committed. Results go to the run summary and a
+# measure.json artifact.
+on:
+  workflow_dispatch:
+    inputs:
+      docs:
+        description: "Filing numbers to sample"
+        default: "900"
+      sizes:
+        description: "Files to size"
+        default: "250"
+      pdfs:
+        description: "PDFs to check for a text layer"
+        default: "90"
+      dockets:
+        description: "Docket numbers to sample"
+        default: "400"
+      pause:
+        description: "Seconds between requests"
+        default: "2"
+
+permissions:
+  contents: read
+
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - run: >
+          python scripts/measure_backfill.py --docs "${{ inputs.docs }}" --sizes "${{ inputs.sizes }}"
+          --pdfs "${{ inputs.pdfs }}" --dockets "${{ inputs.dockets }}" --pause "${{ inputs.pause }}"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: measure-backfill
+          path: measure.json
+          if-no-files-found: ignore
