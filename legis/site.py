@@ -57,6 +57,23 @@ WIDGET_CSS = """
 .lt-context{margin:4px 0 6px;font-size:14px}
 .lt-disclosure{border:1px solid #e4e4e4;background:#fafafa;padding:10px 12px;font-size:15px}
 @media (max-width:640px){.lt-views{grid-template-columns:1fr}}
+.lt-bill{max-width:900px;line-height:1.7}
+.lt-bill p{margin:0 0 18px}
+.lt-bill .lede{margin:0 0 32px;line-height:1.5}
+.lt-bill .kicker{margin-bottom:12px}
+.lt-bill h2{margin:64px 0 20px;padding-top:24px;border-top:1px solid #e4e4e4}
+.lt-bill h3{margin:28px 0 12px}
+.lt-bill details{margin:12px 0 20px}
+.lt-bill .lt-timeline{margin:16px 0 24px}
+.lt-bill .lt-disclosure{padding:18px 22px;margin:0 0 28px;line-height:1.6}
+.lt-bill .lt-views{gap:48px;margin-top:28px}
+.lt-bill .lt-views section{padding-top:16px}
+.lt-bill .lt-views h3{margin:0 0 24px}
+.lt-bill .lt-view{margin:0 0 40px}
+.lt-bill .lt-view blockquote{margin:12px 0 14px;padding:2px 0 2px 18px;font-size:18px;line-height:1.55}
+.lt-bill .lt-context{margin:0 0 10px;line-height:1.55}
+.lt-bill .lt-src{margin:0;font-size:14px;line-height:1.5}
+@media (max-width:640px){.lt-bill h2{margin-top:48px}.lt-bill .lt-views{gap:8px}}
 """
 
 
@@ -172,7 +189,7 @@ def views_widget(bill: dict) -> str:
             items.append(f'<div class="lt-view"><b>{e(v["who"])}</b>, {e(v["role"])}'
                          f'<blockquote>{e(v["quote"])}</blockquote>'
                          + (f'<p class="muted lt-context">{e(v["context"])}</p>' if v.get("context") else "") +
-                         f'<a href="{e(link)}">{e(v["source_title"])}</a> · <span class="mono">{e(v["source_date"])}</span></div>')
+                         f'<p class="lt-src"><a href="{e(link)}">{e(v["source_title"])}</a> · <span class="mono">{e(v["source_date"])}</span></p></div>')
         cols.append(f'<section><h3>{titles[side]}</h3>{"".join(items)}</section>')
     panel = views.load_panel(bill["session"], bill["slug"]) or {}
     disclosure = (f'<p class="lt-disclosure">{e(panel["disclosure"])}</p>' if panel.get("disclosure") else "")
@@ -194,8 +211,10 @@ def bill_page(bill: dict) -> str:
             + f'<h2>Votes</h2>{votes_widget(bill)}'
             + (f'<h2>Expert views</h2>{vw}' if vw else "")
             + (f'<h2>Summary from the General Assembly</h2><p>{e(bill["summary"])}</p>' if bill.get("summary") else "")
-            + f'<p class="muted">The General Assembly\'s page for this bill: <a href="{e(bill["page"])}">{e(bill["page"])}</a>. {NEUTRAL}</p>')
-    return _page(bill["key"], body, depth=3)
+            + f'<p class="muted">The General Assembly\'s page for this bill: <a href="{e(bill["page"])}">{e(bill["page"])}</a>.'
+            + ("" if "lt-disclosure" in vw else f' {NEUTRAL}') + '</p>')
+    # Paul, Nov 23: pages that carry a sponsor's priority disclosure drop the no-position line.
+    return _page(bill["key"], f'<div class="lt-bill">{body}</div>', depth=3)
 
 
 def index_page(session: str, bills: list[dict]) -> str:

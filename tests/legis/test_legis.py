@@ -109,3 +109,9 @@ def test_sb34_panel_is_live_with_disclosure_and_context():
     out = site.views_widget(bill)
     assert "lt-disclosure" in out and "priority bills" in out
     assert out.count("lt-context") == len(st["views"]) == 4
+
+
+def test_no_position_line_dropped_where_disclosed():
+    out = site.bill_page(_sb34())
+    assert "lt-disclosure" in out
+    assert site.NEUTRAL not in out
