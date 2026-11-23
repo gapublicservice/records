@@ -1,0 +1,62 @@
+{
+ "docket": 57171,
+ "short": "Real-Time Pricing fuel credits",
+ "question": "How Georgia Power should divide revenue from its Real-Time Pricing (RTP) customers between fuel-cost recovery and base rates, including how firm gas transportation and non-dispatchable power purchase costs are treated in the RTP fuel credit.",
+ "phase": "RTP revenue credit and allocation investigation ordered by the FCR-27 stipulation (Docket 56765); procedural order July 2026, final decision scheduled December 15, 2026",
+ "status": "open",
+ "outcome": null,
+ "positions": [
+  {
+   "party": "Georgia Power Company",
+   "role": "Utility",
+   "asked": "Move revenue for new firm gas transportation (FT) costs caused by large loads from base to fuel, allocated on winter coincident peak by large-load versus organic growth share; adopt Option 1 for non-dispatchable PPAs; reject PIA Staff Table 1, reporting and MFR changes.",
+   "stance": "company request",
+   "document_id": 229275,
+   "file_id": 110168,
+   "date": "2026-10-27",
+   "source_title": "Georgia Power Company's RTP Rebuttal Testimony",
+   "where": "Rebuttal, Section IV (Additional Cost Categories); new FT proposal in Section III (Allocation) and Direct Testimony Section IV, pp. 15-17",
+   "check": "The Company and GIPL recommend the Commission approve Option 1."
+  },
+  {
+   "party": "Staff",
+   "role": "Commission staff",
+   "asked": "Adopt Option 2 (include non-dispatchable PPA costs and MWh in the RTP fuel credit); allocate all FT and gas storage costs monthly on energy to all customers; include coal-related, PPA start-up and corporate overhead costs; add monthly reporting from January 1, 2027.",
+   "stance": "opposes company request",
+   "document_id": 228948,
+   "file_id": 109860,
+   "date": "2026-09-23",
+   "source_title": "DIRECT TESTIMONY AND EXHIBITS OF TOM NEWSOME, PE, CFA PHILIP M. HAYET AND LEAH J. WELLBORN",
+   "where": "Section IV, Natural Gas Firm Transportation and Storage, 'Please summarize Staff's recommendation' (summary in Section II, Table 1)",
+   "check": "all FT costs be allocated on an energy basis to all customers (both RTP and non-RTP)"
+  },
+  {
+   "party": "Georgia Interfaith Power & Light, Park Avenue Baptist Church, Temple Sinai, and Unitarian Universalist Church of Savannah",
+   "role": "Intervenor",
+   "asked": "Adopt Option 1 for non-dispatchable PPAs; recover new FT costs from large loads using the transmission allocation factor, not winter 1CP; add FT, coal-related and corporate overhead costs to the RTP fuel credit; require filings on RTP transmission and reliability pricing methods.",
+   "stance": "supports with changes",
+   "document_id": 228952,
+   "file_id": 109864,
+   "date": "2026-09-23",
+   "source_title": "Direct Testimony of John D. Wilson on behalf of Georgia Interfaith Power & Light, Park Avenue Baptist Church, Temple Sinai, and Unitarian Universalist Church of Savannah",
+   "where": "Findings and Recommendations, pp. 1-3 (item 7, p. 3); FT allocation discussion pp. 24-26",
+   "check": "instead using the same allocation factor as transmission costs until the issue"
+  },
+  {
+   "party": "Georgia Association of Manufacturers",
+   "role": "Intervenor",
+   "asked": "Argues no specific portion of RTP revenues should be credited against FT costs, calling FT a fixed cost best handled in a full cost-of-service study; says that if the methodology is modified, either of the company's two non-dispatchable PPA options would adequately address the concerns.",
+   "stance": "other request",
+   "document_id": 228951,
+   "file_id": 109863,
+   "date": "2026-09-23",
+   "source_title": "Testimony of Jonathan Ly on behalf of Georgia Association of Manufacturers",
+   "where": "Summary, pp. 3-4; also pp. 11 and 14",
+   "check": "No specific portion of RTP revenues should be credited against FT costs"
+  }
+ ],
+ "parties_without_stated_position": [
+  "Resource Supply Management"
+ ],
+ "notes": "Docket open: no final order in the filing list; the July 7, 2026 procedural order sets briefs/proposed orders for December 2 and a final decision on December 15, 2026, so no briefs are in this list and positions rest on testimony (company: rebuttal of Oct 27, 2026). Resource Supply Management filed an intervention (no text) and Jim Clarkson direct testimony (doc 228918), but that testimony has no text here, so its position could not be read. The October 15, 2026 hearing transcript (doc 229261) has no text file; the company's rebuttal says GIPL appeared to shift toward an energy allocator for FT at that hearing, but this could not be verified. PIA Staff filed an errata (doc 229059) correcting Tables 2, 3, 4 and 7 and text at p. 7 line 9 and p. 20 line 15; the corrected pages have no text, so Staff dollar figures (e.g., the historic-period totals in Tables 2 and 7) are left out. Staff testimony is a public disclosure version with trade-secret figures removed. Stance judgments: Staff is marked 'opposes' because it rejects the company's preferred Option 1 and its winter 1-CP new-FT allocation and seeks broader changes, although Option 2 was one of the two options the company itself offered; Staff says that if a demand allocator or separate new/existing FT treatment is preferred, all FT should move from fuel to base rates. GAM is marked 'other request': it does not explicitly oppose the company's new-FT proposal but says no RTP revenue should be credited against FT and that FT is unrelated to RTP; on PPAs it accepts either company option. GAM also notes that crediting more RTP revenue to fuel would put upward pressure on base rates. GIPL's testimony also asks for changes to how the RTP transmission and reliability cost components are set and filed (items 1-3), which the company calls outside this docket's scope. Side question: Georgia Power moved (Oct 8, 2026, doc 229066) to strike portions of the GIPL testimony as outside the scope set by the procedural order (RTP component changes, load growth and hedging); GIPL et al. responded Oct 14, 2026 (doc 229135) asking the Commission to deny the motion. No ruling appears in the list. The company also refers in rebuttal to proposed modifications for 'new FT and storage costs'; its direct testimony describes only new FT, so storage is not included in its 'asked'."
+}

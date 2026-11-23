@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import ics, infrastructure
+from . import ics, infrastructure, positions
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -105,7 +105,8 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
     up = "../" * depth
     nav = [("index.html", "Search", "search"), ("dockets.html", "Dockets", "dockets"),
            ("calendar.html", "Calendar", "calendar"), ("today.html", "Last night", "today"),
-           ("regions.html", "Regions", "regions"), ("legislature/index.html", "Legislature", "legislature"),
+           ("regions.html", "Regions", "regions"), ("positions.html", "Positions", "positions"),
+           ("legislature/index.html", "Legislature", "legislature"),
            ("about.html", "About", "about")]
     links = "".join(f'<a href="{up}{h}" class="{"on" if k == on else ""}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html>
@@ -718,6 +719,7 @@ def build():
     agendas_checked = _meta("agendas.json").get("checked")
     last_nightly = json.loads((DATA / "state.json").read_text()).get("last_nightly") if (DATA / "state.json").exists() else None
     on_agenda = agendas_by_docket(agendas, dockets)
+    pos_docs = positions.load()
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5))).date().isoformat()
     body = front_tickers(events, dockets, now, agendas) + f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Every public filing, searchable.</h1>
@@ -806,6 +808,7 @@ def build():
 <p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
+{positions.docket_link(d, pos_docs)}
 <h2>Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
@@ -844,6 +847,7 @@ def build():
 <table class="wide"><thead><tr><th>Region and counties</th><th class="num">Added MW</th><th class="num">Retired MW</th><th class="num">Planned MW</th><th>Largest plants</th><th class="num">Dockets</th></tr></thead><tbody>{"".join(trs)}</tbody></table>
 {grid}"""
     (OUT / "regions.html").write_text(page("Regions", body, "regions"))
+    positions.write(OUT, page, copied_note("Positions are summaries of filings copied from the Commission.", last_nightly))
 
     # About
     body = f"""<div class="kicker">About</div><h1>About the record</h1>
