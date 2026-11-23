@@ -29,6 +29,11 @@ PSC_DOCKET = "https://psc.ga.gov/search/facts-docket/?docketId="
 INDEPENDENCE = ("Public Service is an independent project. It is not a product of the Georgia "
                 "Public Service Commission, and the Commission does not run or endorse it. "
                 "The Commission's own record is at psc.ga.gov.")
+# Footer on every records page: Paul's wording, picked Nov 23, 2026.
+FOOTER = ("Public Service Records is a project of Paul Glaze, produced in his work with "
+          "Georgia Conservation Voters and the GCV Education Fund. It is independent and is "
+          "not a work product of the Georgia Public Service Commission. Public Service Records "
+          "was produced with standard APIs, GitHub, and Claude. The writing is all original.")
 SPONSOR = "Sponsored by the Georgia Conservation Voters Education Fund (GCVEF)."
 # Paul's own climate line for the About page, in his words. Empty until he writes it;
 # when set, it appears right under the About page's opening line.
@@ -118,7 +123,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <nav>{links}</nav></div></header>
 <main>{body}</main>
 <footer class="site"><div class="bar">
-<p><strong>{e(INDEPENDENCE)}</strong></p>
+<p><strong>{e(FOOTER)}</strong></p>
 <p>{e(SPONSOR)} Records are copied each night from the Commission's public site; each one links to the original.</p>
 <p class="mono">Built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
 </div></footer>
