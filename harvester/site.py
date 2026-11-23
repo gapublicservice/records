@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import ics, infrastructure, positions
+from . import corrections, ics, infrastructure, positions
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -108,6 +108,8 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
            ("regions.html", "Regions", "regions"), ("positions.html", "Positions", "positions"),
            ("legislature/index.html", "Legislature", "legislature"),
            ("about.html", "About", "about")]
+    if corrections.enabled():
+        nav.append(("corrections.html", "Corrections", "corrections"))
     links = "".join(f'<a href="{up}{h}" class="{"on" if k == on else ""}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
@@ -126,6 +128,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <footer class="site"><div class="bar">
 <p><strong>{e(FOOTER)}</strong></p>
 <p>{e(SPONSOR)} Records are copied each night from the Commission's public site; each one links to the original.</p>
+{f'<p><a href="{up}corrections.html">Corrections</a>: how we fix mistakes, and every fix we have made.</p>' if corrections.enabled() else ""}
 <p class="mono">Built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
 </div></footer>
 <script>document.addEventListener('click',function(v){{var b=v.target.closest('.file.no');document.querySelectorAll('.file.no.open').forEach(function(x){{if(x!==b)x.classList.remove('open')}});if(b)b.classList.toggle('open')}});document.addEventListener('keydown',function(v){{if(v.key==='Escape')document.querySelectorAll('.file.no.open').forEach(function(x){{x.classList.remove('open')}})}});</script>
@@ -904,6 +907,8 @@ def build():
 <p>Each filing shows whether the Commission offers a file anyone can download. <strong>Download file</strong> goes straight to the file on the Commission's site; when there are several, the link opens the Commission's page that lists them. When there is nothing to download, the marker says why in general terms: no file was posted, every file listed is marked as a trade secret, or our last attempt to reach the file failed. Hover over the marker, or tap it on a phone, to read the reason. Trade-secret files are never downloaded or stored here.</p>
 <p>This archive shows what the Commission posted. It does not show that what a filing says is true.</p>"""
     (OUT / "about.html").write_text(page("About", body, "about"))
+    if corrections.enabled():
+        (OUT / "corrections.html").write_text(page("Corrections", corrections.body(), "corrections"))
     n = sum(1 for _ in OUT.rglob("*.html"))
     print(f"{n} pages written to {OUT.relative_to(ROOT)}")
 

@@ -41,9 +41,20 @@ python -m unittest discover -s tests -t .
 
 In GitHub Actions: **Nightly harvest** runs on a schedule, **Backfill** and **Probe one filing** run by hand from the Actions tab.
 
+## The site
+
+The record is published at records.gapublicservice.org, rebuilt from this repository after each harvest by `python -m harvester.site`.
+
+- **Search** (`index.html`), **Dockets** (`dockets.html` and `docket/<number>/`), **Last night** (`today.html`).
+- **Calendar** (`calendar.html`, the `calendar.ics` feed and `agenda/<meeting>/` pages). Events that aren't the Commission's come in through the submission form (`submit-event.html`, a Netlify Forms inbox on the follow service). Each is approved by hand before it is added to `data/reference/other-events.json`, and each is marked "Not a Commission event".
+- **Regions** (`regions.html`), **Positions** (`positions.html`), **Legislature** (`legislature/`), **About** (`about.html`).
+- **Corrections** (`corrections.html`): the corrections policy and a public correction log. Built, but held out of the site, its navigation and its footer until the policy text is written. The policy goes in `data/reference/corrections-policy.md` and log entries go in `data/reference/corrections.json` (date, page, what was wrong, what changed). Then set `ON = True` in `harvester/corrections.py`.
+
+## Docket alerts
+
+Anyone can follow a docket from the Follow page on gapublicservice.org. After each nightly harvest, `alerts/nightly.py` sends one short email for each followed docket that got new filings that night, to that docket's followers only. A night with no new filings sends nothing. Set `ENABLED = False` in that file to stop all alerts.
+
 ## Not built yet
 
 - Weekly cross-check against the Commission's advanced search counts.
-- Docket titles and industry.
 - Spreadsheet text.
-- Disagreement and location flags, and the public site.
