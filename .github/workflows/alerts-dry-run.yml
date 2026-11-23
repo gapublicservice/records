@@ -1,0 +1,27 @@
+name: Docket alerts dry run
+
+# Run by hand. Shows which dockets would get an alert for a given night and how
+# many followers each would reach. Sends nothing; prints counts only.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Harvest date (YYYY-MM-DD)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+          DAY: ${{ inputs.date }}
+        run: python -m alerts.nightly --date "$DAY" --dry-run

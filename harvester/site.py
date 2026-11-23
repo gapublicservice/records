@@ -449,6 +449,40 @@ def older_agendas(agendas: dict, before: str) -> str:
     return f'<h2>Earlier agendas</h2><ul class="ag-dockets">{items}</ul>'
 
 
+# Event submissions: the form posts to the Netlify follow service, whose
+# Netlify Forms inbox holds each submission until it is approved by hand and
+# added to data/reference/other-events.json. Nothing posts itself.
+EVENT_FORM_ON = False
+EVENT_FORM_ACTION = "https://gapublicservice-follow.netlify.app/event-thanks/"
+
+
+def event_invite() -> str:
+    if not EVENT_FORM_ON:
+        return ""
+    return '<p class="cal-invite"><strong>Want to add your event to the calendar?</strong> <a href="submit-event.html">Submit it here</a>.</p>'
+
+
+def submit_event_page() -> str:
+    return f"""<div class="kicker"><a href="calendar.html">Commission calendar</a></div>
+<h1>Add your event to the calendar</h1>
+<p class="lede">Hosting a public meeting, forum, training or community event about energy and utilities in Georgia? Send it here.</p>
+<p>Every submission is read by a person before anything goes on the calendar. Events we add are marked <span class="tag">Not a Commission event</span>, and listing one doesn't mean Public Service endorses it. Your email is only for questions about your event and is never published.</p>
+<form class="ev-form" name="calendar-event" method="POST" action="{e(EVENT_FORM_ACTION)}">
+<input type="hidden" name="form-name" value="calendar-event">
+<p class="hp" aria-hidden="true"><label>Leave this empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+<label>Event name <input name="event" required maxlength="140"></label>
+<label>Who is hosting it <input name="organizer" required maxlength="140"></label>
+<div class="ev-row"><label>Date <input type="date" name="date" required></label>
+<label>Starts <input type="time" name="start"></label>
+<label>Ends <input type="time" name="end"></label></div>
+<label>Where <span class="muted">(address, or Online)</span> <input name="where" required maxlength="200"></label>
+<label>Event page or sign-up link <input type="url" name="link" placeholder="https://"></label>
+<label>What it's about <span class="muted">(a few sentences)</span> <textarea name="about" required maxlength="800" rows="4"></textarea></label>
+<label>Your email <span class="muted">(never published)</span> <input type="email" name="contact" required maxlength="200"></label>
+<p><button type="submit" class="pin-follow">Send for review</button></p>
+</form>"""
+
+
 def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | None) -> str:
     known = set(load_known_dockets())
     links = ics.subscribe_links()
@@ -469,6 +503,7 @@ def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | N
     return f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Commission calendar</h1>
 <p class="lede">Every hearing, administrative session and committee meeting on the Commission's calendar, with links to each agenda and docket. The Commission's site has no calendar feed, so we make one.</p>
+{event_invite()}
 <section id="subscribe" class="cal-subscribe">
 <h2>Subscribe</h2>
 <p>Add the whole calendar once and new meetings appear on their own. Calendar apps refresh a subscribed feed on their own schedule, usually every few hours to once a day, so a change can take up to a day more to reach you after it shows up here.</p>
@@ -741,6 +776,8 @@ def build():
     # Calendar feed, calendar page and agenda pages
     allev = ics.write(OUT, events, agendas, now, set(dockets))
     (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked")), "calendar"))
+    if EVENT_FORM_ON:
+        (OUT / "submit-event.html").write_text(page("Add your event", submit_event_page(), "calendar"))
     (OUT / "data" / "upcoming.json").write_text(json.dumps(upcoming_json(allev, agendas, now, set(dockets), cal_meta.get("checked")), indent=1))
     n_ag = 0
     for url, ev in agendas.items():

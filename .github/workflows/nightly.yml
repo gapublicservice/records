@@ -47,3 +47,8 @@ jobs:
         run: python -m harvester.digest
       - name: Save to the record
         run: scripts/save.sh "Nightly harvest $(date -u +%F)" nightly
+      - name: Email docket alerts (only dockets with new filings tonight and at least one follower)
+        if: success()
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+        run: python -m alerts.nightly

@@ -132,3 +132,11 @@ table.cal tr:target{outline:2px solid var(--amber);outline-offset:-2px}
 .agenda a.dk:target{outline:2px solid var(--amber)}
 .ag-dockets li{margin-bottom:6px}
 @media (max-width:640px){table.cal td:nth-child(2),table.cal th:nth-child(2){display:none}.cal-add .cal-btn{display:block;text-align:center}}
+.cal-invite{border-left:4px solid var(--amber);padding:8px 12px;background:var(--tint)}
+.ev-form{max-width:640px;display:flex;flex-direction:column;gap:14px;margin:20px 0}
+.ev-form label{display:flex;flex-direction:column;gap:4px;font-weight:500}
+.ev-form input,.ev-form textarea{font:16px/1.4 "IBM Plex Sans",system-ui,sans-serif;padding:8px 10px;border:1px solid var(--ink);background:var(--paper);color:var(--ink)}
+.ev-form .ev-row{display:flex;gap:12px;flex-wrap:wrap}
+.ev-form .ev-row label{flex:1 1 140px}
+.ev-form .hp{position:absolute;left:-9999px}
+.ev-form button{cursor:pointer;background:var(--paper);color:var(--ink)}
