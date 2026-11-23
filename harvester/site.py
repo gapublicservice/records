@@ -452,7 +452,7 @@ def older_agendas(agendas: dict, before: str) -> str:
 # Event submissions: the form posts to the Netlify follow service, whose
 # Netlify Forms inbox holds each submission until it is approved by hand and
 # added to data/reference/other-events.json. Nothing posts itself.
-EVENT_FORM_ON = False
+EVENT_FORM_ON = True
 EVENT_FORM_ACTION = "https://gapublicservice-follow.netlify.app/event-thanks/"
 
 
