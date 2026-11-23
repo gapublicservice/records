@@ -85,12 +85,43 @@ if __name__ == "__main__":
     raise SystemExit(main())
 
 
+def _check(x, e):
+    c = x.get("checked")
+    if not c:
+        return ""
+    return f'<br><span class="muted"><b>{e(CHECK_WORDS.get(c, c))}.</b> {e(x.get("check_note", ""))}</span>'
+
+
 def _src_links(d, x, e):
     links = []
     for k in x.get("sources", []):
         s = d["sources"][k]
         links.append(f'<a href="{e(s["url"], quote=True)}">{e(s["label"])}</a>')
     return "; ".join(links)
+
+
+CHECK_WORDS = {"confirmed": "Confirmed by a second public source", "partly": "Partly confirmed",
+               "one source": "One public source so far"}
+SERTP_GEORGIA_NEW = 36  # Georgia new lines and new substations in the 2026 SERTP public project list, all on this page
+
+
+def _coverage(d, e):
+    n = {k: 0 for k in CHECK_WORDS}
+    total = 0
+    for lst in d["lists"]:
+        for x in lst["projects"]:
+            total += 1
+            n[x.get("checked", "one source")] = n.get(x.get("checked", "one source"), 0) + 1
+    return (f'<h3>How complete this is</h3><p>Transmission: all {SERTP_GEORGIA_NEW} Georgia new lines and new substations in the public '
+            'project list of the 2026 regional transmission plan (SERTP, June 2026 draft) are on this page. That is the ten-year plan '
+            'Georgia Power, Georgia Transmission, MEAG Power and the region\'s other utilities publish each year. Its other entries for '
+            'the Southern Company area are rebuilds, reconductoring and equipment work, or are in Alabama and Mississippi, and are left out. '
+            'The plan can miss lines built to serve one large customer, such as a data center, and projects too early to be in it; '
+            'those appear in federal environmental reviews and local notices, and are added as they are found.</p>'
+            '<p>Gas: Atlanta Gas Light\'s 2025-2034 plan at the Commission is the record for its system; no outside list exists to check it '
+            'against. Interstate pipelines are from FERC\'s list of approved projects.</p>'
+            f'<p class="muted">Of {total} projects: {n["confirmed"]} confirmed by a second public source, {n["partly"]} partly confirmed, '
+            f'{n["one source"]} with one public source so far. Checked November 23, 2026.</p>')
 
 
 def regions_html(d, e, psc_doc: str, copied: str) -> str:
@@ -101,9 +132,11 @@ def regions_html(d, e, psc_doc: str, copied: str) -> str:
     for g, v in sorted(d["regions"].items(), key=lambda kv: -len(kv[1]["projects"])):
         cells = "".join(f'<td class="num mono">{sum(1 for p in v["projects"] if p["layer"] == l)}</td>' for l in layers)
         trs.append(f'<tr><td><strong>{e(g)}</strong></td>{cells}<td class="num mono">{v["certificates"]}</td></tr>')
+    coverage = _coverage(d, e)
     out = [f"""<h2 id="grid">Transmission lines and gas projects by region</h2>
 <p>Counts of projects whose source names a county in each region. A line or pipeline that runs through several regions counts in each. Projects whose source names no county are listed below the tables, not counted.</p>
-<div class="note">These are lists read by hand from named public sources, not a complete inventory of the grid or the gas system. Georgia Power's list is its current major transmission projects; Georgia Transmission Corporation and MEAG Power projects are not in it yet. Atlanta Gas Light's list is its large pipeline and LNG projects in its 2025-2034 plan at the Commission. The interstate pipeline is approved by federal regulators, not the Commission. Each project links to its source.</div>
+<div class="note">These are lists read by hand from named public sources. Each project links to its source and says whether a second public source confirms it.</div>
+{coverage}
 <table class="wide"><thead><tr><th>Region</th>{head}<th class="num">Gas certificate filings</th></tr></thead><tbody>{"".join(trs)}</tbody></table>"""]
     unplaced = []
     for lst in d["lists"]:
@@ -119,14 +152,23 @@ def regions_html(d, e, psc_doc: str, copied: str) -> str:
             row = (f'<tr><td><strong>{name}</strong><br><span class="muted">{e(x.get("owner", ""))}. {e(x["kind"])}. {e(x["size"])}</span></td>'
                    f'<td>{e(", ".join(x["counties"]) or "not named in the source")}'
                    f'{"<br><span class=muted>" + e(", ".join(x["regions"])) + "</span>" if x["regions"] else ""}</td>'
-                   f'<td class="mono">{e(when_s)}</td><td>{e(x["status"])}<br><span class="muted">{_src_links(lst, x, e)}</span></td></tr>')
-            (rows if x["counties"] else unplaced).append(row)
+                   f'<td class="mono">{e(when_s)}</td><td>{e(x["status"])}<br><span class="muted">{_src_links(lst, x, e)}</span>'
+                   f'{_check(x, e)}</td></tr>')
+            if x["counties"]:
+                rows.append(row)
+            else:
+                unplaced.append((lst["layer"], row))
         if rows:
             out.append(f'<h3>{e(lst["layer"])}</h3><p class="muted">{e(lst["about"])}</p>'
                        f'<table class="wide"><thead><tr><th>Project</th><th>Counties and regions</th><th>Target year</th><th>Status and source</th></tr></thead><tbody>{"".join(rows)}</tbody></table>')
     if unplaced:
-        out.append('<h3>Projects whose source names no county</h3><p class="muted">Listed so nothing is hidden; not counted in any region.</p>'
-                   f'<table class="wide"><thead><tr><th>Project</th><th>Counties</th><th>Target year</th><th>Status and source</th></tr></thead><tbody>{"".join(unplaced)}</tbody></table>')
+        out.append('<h3>Projects whose source names no county</h3><p class="muted">Most are from the regional plan, which names '
+                   'substations, not counties. Listed so nothing is hidden; not counted in any region until a public source names the county.</p>')
+        for layer in [l["layer"] for l in d["lists"]]:
+            rs = [r for lay, r in unplaced if lay == layer]
+            if rs:
+                out.append(f'<h4>{e(layer)}</h4><table class="wide"><thead><tr><th>Project</th><th>Counties</th><th>Target year</th>'
+                           f'<th>Status and source</th></tr></thead><tbody>{"".join(rs)}</tbody></table>')
     crow = []
     for c in d["certificates"]:
         dk = ", ".join(f'<a href="docket/{n}/">{n}</a>' for n in c["dockets"])

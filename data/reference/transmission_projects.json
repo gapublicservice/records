@@ -1,11 +1,51 @@
 {
  "order": 1,
  "layer": "Georgia Power transmission projects",
- "about": "Georgia Power's current list of major transmission projects, with the counties and project type the company gives on its own website. Voltage is from each project's name. Most are in planning, per the page; it gives no dates on the list. Georgia Transmission Corporation, MEAG Power and other owners' projects are not in this list yet. Read by hand on November 23, 2026; check the page before quoting.",
+ "about": "Georgia Power's current list of major transmission projects, with the counties and project type the company gives on its own website, plus new lines and substations that the 2026 regional transmission plan lists for Georgia Power. Voltage is from each project's name. Year is the regional plan's in-service year where the plan lists the project; Georgia Power's list gives no dates. Read by hand on November 23, 2026; check the sources before quoting.",
  "sources": {
   "gp_list": {
    "label": "Georgia Power, Transmission projects (company web page, read November 23, 2026)",
    "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects.html"
+  },
+  "sertp26": {
+   "label": "SERTP 2026 Preliminary 10-year Regional Transmission Plan, public (non-CEII) project list, June 12, 2026 (year shown is the plan's in-service year)",
+   "url": "https://www.southeasternrtp.com/docs/general/2026/2026_SERTP_Preliminary_Expansion_Plan_Report_(Non-CEII).pdf"
+  },
+  "fayette": {
+   "label": "Fayette News, Georgia Power meeting on the Ashley Park-Wansley line, Nov. 19, 2025",
+   "url": "https://www.fayette-news.net/news/residents-hear-from-georgia-power-about-ashley-park-wansley-transmission-line-project/article_e63e06b2-8327-4e01-b230-c7ef83135e29.html"
+  },
+  "wrdw": {
+   "label": "WRDW, inside Georgia Power's grid work, Oct. 13, 2026",
+   "url": "https://www.wrdw.com/2026/10/13/an-inside-look-how-georgia-power-keeps-lights/"
+  },
+  "early": {
+   "label": "Early County News, public notices, Mar. 18, 2026",
+   "url": "https://www.earlycountynews.com/articles/public-notices-537/"
+  },
+  "anf": {
+   "label": "Atlanta News First, Decatur line plan, Nov. 13, 2024",
+   "url": "https://www.atlantanewsfirst.com/2024/11/13/georgia-power-shocks-homeowners-with-plan-build-transmission-line-through-historic-decatur/"
+  },
+  "statesboro": {
+   "label": "Statesboro Herald, southeast Georgia grid projects",
+   "url": "https://www.statesboroherald.com/local/southeast-georgia-power-grid-projects-helping-fuel-data-center-development/"
+  },
+  "emanuel": {
+   "label": "Emanuel County Live, Georgia Power meeting on a proposed high-voltage line, July 15, 2026",
+   "url": "https://emanuelcountylive.com/stories/georgia-power-to-hold-meeting-today-concerning-proposed-new-high-voltage-line,192156"
+  },
+  "doe_southhall": {
+   "label": "U.S. Department of Energy, South Hall battery project environmental review letter, June 30, 2026 (names the South Hall substation in Hall County)",
+   "url": "https://www.energy.gov/sites/default/files/2026-06/GPC%20South%20Hall%20BESS%20%E2%80%93%20Environmental%20Review%20Completion%20Letter.pdf"
+  },
+  "doe_rockville": {
+   "label": "U.S. Department of Energy, Rockville 500 kV substation environmental assessment adoption and finding, Mar. 24, 2026",
+   "url": "https://www.energy.gov/sites/default/files/2026-03/260324%29Rockville%20SS_Adoption_Cover_Sheet_signed.pdf"
+  },
+  "wsb_silver": {
+   "label": "WSB-TV, Georgia Power substation site in Floyd County, June 3, 2026",
+   "url": "https://www.wsbtv.com/news/local/family-fights-georgia-power-substation-moving-onto-cattle-farm/Q7SOGMQXIFBK3BIXTPHSTTQHY4/"
   }
  },
  "projects": [
@@ -22,9 +62,12 @@
    "current_year": null,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "doe_southhall"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/norcross-south-hall.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/norcross-south-hall.html",
+   "checked": "partly",
+   "check_note": "A federal letter confirms the South Hall substation in Hall County; no second source names the line work. Not in the regional plan's public list."
   },
   {
    "name": "Cash Creek - McGrau Ford",
@@ -42,9 +85,12 @@
    "current_year": null,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "wrdw"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/cashcreek-mcgrauford.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/cashcreek-mcgrauford.html",
+   "checked": "partly",
+   "check_note": "WRDW names the McGrau Ford substation, in Cherokee County; no second source describes this line. Not in the regional plan's public list."
   },
   {
    "name": "Tomochichi - Towaliga River",
@@ -56,12 +102,15 @@
     "Spalding"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2027,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/tomochichi-towaliga.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/tomochichi-towaliga.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists a new Tomochichi 500/230 kV station and two new 230 kV lines to a new Towaliga River substation."
   },
   {
    "name": "Big Tazewell - Farley",
@@ -77,12 +126,16 @@
     "Stewart"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2029,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26",
+    "early"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/big-tazewell-farley.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/big-tazewell-farley.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists a new 500 kV line from Farley (Alabama) to Big Tazewell; a county legal notice also names it."
   },
   {
    "name": "Decatur - Scottdale",
@@ -96,9 +149,12 @@
    "current_year": null,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "anf"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/decatur-scottdale.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/decatur-scottdale.html",
+   "checked": "partly",
+   "check_note": "Atlanta News First reported the plan and that the Decatur part was paused. The regional plan lists only a jumper replacement on this line, in 2035."
   },
   {
    "name": "Callaway Road - Thomson Primary",
@@ -115,7 +171,9 @@
    "sources": [
     "gp_list"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/callaway-thomson.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/callaway-thomson.html",
+   "checked": "one source",
+   "check_note": "No second public source found yet; not in the regional plan's public list."
   },
   {
    "name": "Effingham County",
@@ -129,9 +187,12 @@
    "current_year": null,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "statesboro"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/effingham-county.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/effingham-county.html",
+   "checked": "partly",
+   "check_note": "The Statesboro Herald describes Georgia Power grid work in Effingham County. Not in the regional plan's public list."
   },
   {
    "name": "Hills Bridge - Speedway",
@@ -148,7 +209,9 @@
    "sources": [
     "gp_list"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hills-bridge-speedway.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hills-bridge-speedway.html",
+   "checked": "one source",
+   "check_note": "No second public source found yet. The regional plan lists only equipment added at Hills Bridge."
   },
   {
    "name": "Grassy Hollow - Great Valley",
@@ -159,18 +222,21 @@
     "Bartow"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2027,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/grassy-hollow-great-valley.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/grassy-hollow-great-valley.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists new Grassy Hollow and Hill View switching stations and new Cass Pine-Great Valley and Great Valley-Grassy Hollow 230 kV lines."
   },
   {
    "name": "Hatch - Wadley Primary",
    "owner": "Georgia Power",
    "kind": "New transmission line",
-   "size": "500 kV",
+   "size": "500 kV, about 75 miles",
    "counties": [
     "Appling",
     "Emanuel",
@@ -178,46 +244,214 @@
     "Toombs"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2031,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26",
+    "emanuel"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hatch-wadley.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hatch-wadley.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists a new Hatch-Wadley Primary 500 kV line; Emanuel County Live reported a public meeting on it (about 75 miles)."
   },
   {
    "name": "Conyers - Klondike",
    "owner": "Georgia Power",
    "kind": "New transmission line",
-   "size": "230 kV",
+   "size": "230 kV, 7.2 miles",
    "counties": [
     "DeKalb",
     "Rockdale"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2029,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/conyers-klondike.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/conyers-klondike.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists a new 7.2-mile second Conyers-Klondike 230 kV line."
   },
   {
    "name": "Ashley Park - Wansley",
    "owner": "Georgia Power",
    "kind": "New transmission line",
-   "size": "500 kV",
+   "size": "500 kV, about 35 miles",
    "counties": [
+    "Coweta",
     "Fayette",
+    "Fulton",
     "Heard"
    ],
    "planned_year": null,
-   "current_year": null,
+   "current_year": 2029,
    "status": "Listed as a current project; the list gives no date",
    "sources": [
-    "gp_list"
+    "gp_list",
+    "sertp26",
+    "fayette"
    ],
-   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/ashley-park.html"
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/ashley-park.html",
+   "checked": "confirmed",
+   "check_note": "The regional plan lists a new 35-mile 500 kV line (in service 2029). Fayette News reports 35.8 miles through Coweta, Fayette, Fulton and Heard and completion in 2028."
+  },
+  {
+   "name": "Rockville 500 kV switching station",
+   "owner": "Georgia Power",
+   "kind": "New substation",
+   "size": "500 kV; part of the East Central Georgia package with Georgia Transmission and MEAG Power",
+   "counties": [
+    "Putnam"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Federal environmental finding signed March 2026; the regional plan lists it with the East Walton project",
+   "sources": [
+    "doe_rockville",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "A federal environmental finding and the regional plan both list it."
+  },
+  {
+   "name": "Silver Creek substation",
+   "owner": "Georgia Power",
+   "kind": "New substation",
+   "size": "Not given",
+   "counties": [
+    "Floyd"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Proposed site reported by WSB-TV in June 2026",
+   "sources": [
+    "wsb_silver"
+   ],
+   "checked": "one source",
+   "check_note": "One news report; not in the regional plan's public list."
+  },
+  {
+   "name": "East Villa Rica switching station",
+   "owner": "Georgia Power",
+   "kind": "New substation",
+   "size": "230 kV",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan, with power flow controllers added there in 2028",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Deer Creek substation",
+   "owner": "Georgia Power",
+   "kind": "New substation",
+   "size": "500/230 kV on the Bonaire Primary-Scherer line, with two new 230 kV lines to Little Deer Creek",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Hampton area line conversions",
+   "owner": "Georgia Power",
+   "kind": "New line by conversion",
+   "size": "Converts 115 kV lines to make a new Jonesboro-Hampton 230 kV line and a 230 kV Hampton-South Griffin line",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Buzzard Roost - Factory Shoals",
+   "owner": "Georgia Power",
+   "kind": "New line",
+   "size": "230 kV, 2 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Cavender Drive - Wansley",
+   "owner": "Georgia Power",
+   "kind": "New line",
+   "size": "500 kV, 37 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "North Georgia network upgrades",
+   "owner": "Georgia Power",
+   "kind": "New line",
+   "size": "115 kV, about 7 miles on a 46 kV corridor to be retired",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "East Bainbridge substation (East River Road)",
+   "owner": "Georgia Power",
+   "kind": "New substation",
+   "size": "115 kV",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "McGrau Ford - Middle Fork",
+   "owner": "Georgia Power",
+   "kind": "New line",
+   "size": "500 kV",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2033,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
   }
  ]
 }

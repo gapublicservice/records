@@ -1,5 +1,5 @@
 {
- "order": 2,
+ "order": 3,
  "about": "Atlanta Gas Light's large pipeline (system reinforcement) and LNG projects, as AGL describes them in its 2025-2034 Integrated Capacity and Delivery Plan at the Georgia Public Service Commission (docket 43820). Counties are listed only where AGL's public filing names them. Costs per project are redacted in the public filing and are left out. Read by hand from the filings below; check them before quoting.",
  "sources": {
   "mfr": {
@@ -25,6 +25,22 @@
    "filed": "2026-08-24",
    "document_id": 227964,
    "url": "https://psc.ga.gov/search/facts-document/?documentId=227964"
+  },
+  "mdj": {
+   "label": "Marietta Daily Journal, gas system work in Kennesaw, Aug. 6, 2025",
+   "url": "https://www.mdjonline.com/news/natural-gas-system-improvements-coming-to-kennesaw/article_20496526-70f4-4f51-a7b9-46c1ed79a6f6.html"
+  },
+  "dawson": {
+   "label": "Dawson County News, questions answered on the Dawson-area gas pipeline (about 2023)",
+   "url": "https://www.dawsonnews.com/news/government/more-questions-answered-about-dawson-area-natural-gas-pipeline-project/"
+  },
+  "epd": {
+   "label": "Georgia EPD, air permit narrative for the Cherokee LNG plant",
+   "url": "https://epd.georgia.gov/document/document/tv-627834-narrative/download"
+  },
+  "vdt": {
+   "label": "Valdosta Daily Times, LNG facility planned in Valdosta-Lowndes County, Feb. 13, 2026",
+   "url": "https://valdostadailytimes.com/2026/02/13/liquefied-natural-gas-facility-planned-to-support-manufacturing-growth-in-valdosta-lowndes-county/"
   }
  },
  "docket": 43820,
@@ -34,30 +50,42 @@
    "kind": "Gas pipeline",
    "size": "4.3 miles of 12-inch steel",
    "counties": [
-    "Cobb"
+    "Cobb",
+    "Cherokee"
    ],
    "planned_year": 2027,
    "current_year": 2026,
    "status": "AGL said it would be in service in March 2026",
    "sources": [
     "mfr",
-    "update"
+    "update",
+    "mdj"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "partly",
+   "check_note": "The Marietta Daily Journal reports about 5.5 miles in Cobb and Cherokee counties; AGL's filing gives 4.3 miles."
   },
   {
    "name": "Cumming to Hall County",
    "kind": "Gas pipeline",
    "size": "29 miles of 16-inch steel",
-   "counties": [],
+   "counties": [
+    "Forsyth",
+    "Dawson",
+    "Lumpkin",
+    "Hall"
+   ],
    "planned_year": 2025,
    "current_year": 2025,
    "status": "In service May 2025, per AGL. Carries Cherokee LNG gas into the system",
    "sources": [
     "plan",
-    "update"
+    "update",
+    "dawson"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "confirmed",
+   "check_note": "The Dawson County News describes the line and names these counties."
   },
   {
    "name": "High Point Road to Villa Rica",
@@ -74,7 +102,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Villa Rica to Temple",
@@ -87,7 +117,9 @@
    "sources": [
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Temple to Bremen",
@@ -100,7 +132,9 @@
    "sources": [
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Northwest Georgia Line to Rome #1",
@@ -116,7 +150,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Cumming to McGinnis Ferry Road, segment 1 (Cherokee LNG expansion pipeline)",
@@ -133,7 +169,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Cumming to McGinnis Ferry Road, segment 2",
@@ -150,7 +188,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Ball Ground to Ellijay (phase 1: Jasper to Ellijay)",
@@ -167,7 +207,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Camp Creek to Fulton Industrial Boulevard",
@@ -183,7 +225,9 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Hall County Extension",
@@ -199,36 +243,48 @@
     "mfr",
     "update"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "one source",
+   "check_note": "AGL's filings at the Commission are the record; no outside source found."
   },
   {
    "name": "Cherokee LNG expansion",
    "kind": "LNG plant",
    "size": "Doubles storage and send-out; about $249 million estimated before overheads (2024 plan)",
-   "counties": [],
+   "counties": [
+    "Cherokee"
+   ],
    "planned_year": 2025,
    "current_year": 2026,
    "status": "New liquefaction commissioned in spring 2026; vaporization due fourth quarter 2026",
    "sources": [
     "plan",
     "update",
-    "lng18"
+    "lng18",
+    "epd"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "confirmed",
+   "check_note": "Georgia EPD's air permit narrative places the plant in Cherokee County."
   },
   {
    "name": "Valdosta satellite LNG",
    "kind": "LNG plant",
    "size": "Storage and vaporization only; first estimate $50.9 million (2024 plan)",
-   "counties": [],
+   "counties": [
+    "Lowndes"
+   ],
    "planned_year": 2027,
    "current_year": 2027,
    "status": "Land bought in 2025; AGL targets the fourth quarter of 2027",
    "sources": [
     "plan",
-    "update"
+    "update",
+    "vdt"
    ],
-   "owner": "Atlanta Gas Light"
+   "owner": "Atlanta Gas Light",
+   "checked": "confirmed",
+   "check_note": "The Valdosta Daily Times reports a $50 million plant in Lowndes County, due in 2027."
   }
  ],
  "layer": "Atlanta Gas Light pipelines and LNG"

@@ -1,11 +1,19 @@
 {
- "order": 3,
+ "order": 4,
  "layer": "Interstate gas pipelines (federal)",
  "about": "Interstate natural gas pipeline projects that cross Georgia. These are approved by the Federal Energy Regulatory Commission, not the Georgia Public Service Commission. Counties are those the federal notice names. Read by hand from the sources below; check them before quoting.",
  "sources": {
   "sse4_feis": {
    "label": "FERC notice of the final environmental impact statement for the South System Expansion 4 project (dockets CP25-514-000 and CP25-517-000), dated June 26, 2026, Federal Register July 1, 2026",
    "url": "https://public-inspection.federalregister.gov/2026-13277.pdf"
+  },
+  "pgj": {
+   "label": "Pipeline & Gas Journal, FERC approves the Kinder Morgan expansion, Aug. 7, 2026",
+   "url": "https://pgjonline.com/news/2026/august/ferc-approves-5-b-kinder-morgan-pipeline-expansion-to-boost-southeast-gas-supply"
+  },
+  "ferc_list": {
+   "label": "FERC, approved major pipeline projects, 2015 to present",
+   "url": "https://ferc.gov/industries-data/natural-gas/approved-major-pipeline-projects-2015-present"
   }
  },
  "projects": [
@@ -39,10 +47,28 @@
    ],
    "planned_year": null,
    "current_year": null,
-   "status": "Final federal environmental review issued June 2026. The notice names these counties for the project's facilities as a whole, not loop by loop",
+   "status": "Approved by FERC July 31, 2026, per Pipeline & Gas Journal. The federal notice names these counties for the project's facilities as a whole, not loop by loop",
    "sources": [
-    "sse4_feis"
-   ]
+    "sse4_feis",
+    "pgj"
+   ],
+   "checked": "confirmed",
+   "check_note": "The federal notice and Pipeline & Gas Journal both describe it."
+  },
+  {
+   "name": "Southeast Supply Enhancement",
+   "owner": "Transcontinental Gas Pipe Line (Transco)",
+   "kind": "Interstate gas pipeline",
+   "size": "Expansion of the Transco system; FERC docket CP25-10",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Approved by FERC January 29, 2026; in service November 2027, per FERC's list",
+   "sources": [
+    "ferc_list"
+   ],
+   "checked": "one source",
+   "check_note": "FERC's list of approved projects; Georgia county locations not yet read from the application."
   }
  ]
 }

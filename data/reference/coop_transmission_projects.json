@@ -1,0 +1,556 @@
+{
+ "order": 2,
+ "layer": "Georgia Transmission and MEAG Power transmission projects",
+ "about": "New lines and substations of Georgia Transmission Corporation, which is owned by Georgia's electric membership corporations, and MEAG Power, which serves city-owned systems. Read from the 2026 regional transmission plan, federal environmental reviews of co-op projects, Georgia Transmission's project pages and local notices. Rebuilds, reconductoring and equipment work are left out. No transmission project owned by an individual EMC was found; EMCs appear in these sources as the utilities a project serves. Read by hand on November 23, 2026; check the sources before quoting.",
+ "sources": {
+  "sertp26": {
+   "label": "SERTP 2026 Preliminary 10-year Regional Transmission Plan, public (non-CEII) project list, June 12, 2026 (year shown is the plan's in-service year)",
+   "url": "https://www.southeasternrtp.com/docs/general/2026/2026_SERTP_Preliminary_Expansion_Plan_Report_(Non-CEII).pdf"
+  },
+  "sertp25": {
+   "label": "SERTP 2025 Regional Transmission Plan and Input Assumptions",
+   "url": "https://www.southeasternrtp.com/docs/general/2025/2025%20Regional%20Transmission%20Plan%20and%20Input%20Assumptions.pdf"
+  },
+  "gtc_ecgr": {
+   "label": "Georgia Transmission, East Central Reliability Projects page (read November 2026)",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  "rus_ecgr": {
+   "label": "USDA Rural Utilities Service, East Central Georgia Reliability Project finding of no significant impact, 2025",
+   "url": "https://www.rd.usda.gov/media/file/download/usda-rd-fonsi-east-central-georgia-reliability-project-09252025.pdf"
+  },
+  "gtc_dt": {
+   "label": "Georgia Transmission, Dresden-Talbot project page (read November 2026)",
+   "url": "https://www.gatransmission.com/?p=3121"
+  },
+  "rus_dt": {
+   "label": "USDA Rural Utilities Service, Dresden-Talbot County 500 kV line environmental impact statement and record of decision, February 2026",
+   "url": "https://www.rd.usda.gov/resources/environmental-studies/impact-statement/dresden-talbot-county-500-kv-transmission-line-project"
+  },
+  "rus_lag": {
+   "label": "USDA Rural Utilities Service, LaGrange Primary-Oseligee Creek 230 kV line and substation finding of no significant impact, July 2025",
+   "url": "https://www.rd.usda.gov/media/file/download/fonsi-lagrangepri-oseligeecrk-transmission-line-and-substation-project-signed.pdf"
+  },
+  "rus_varner": {
+   "label": "USDA Rural Utilities Service, Lake Varner-Cornish Mountain 230 kV line finding of no significant impact, March 2026",
+   "url": "https://www.rd.usda.gov/media/file/download/usda-rd-fonsi-lake-varner-cornish-mountain-230kv-transmission-line-03242026.pdf"
+  },
+  "rus_varner_ea": {
+   "label": "USDA Rural Utilities Service, Lake Varner-Cornish Mountain environmental assessment, March 2026",
+   "url": "https://www.rd.usda.gov/media/file/download/usda-rd-rus-ea-lake-varner-cornishmt230tl-03192026.pdf"
+  },
+  "rus_moultrie": {
+   "label": "USDA Rural Utilities Service, East Moultrie-Highway 37 230 kV line environmental assessment, February 2026",
+   "url": "https://www.rd.usda.gov/media/file/download/usda-rd-east-moultrie-hwy37-ea-02262026.pdf"
+  },
+  "monroe": {
+   "label": "Monroe County government, Georgia Transmission open house on the Big Smarr-Rum Creek line, Aug. 18, 2025",
+   "url": "https://www.monroecoga.org/2025/08/18/georgia-transmission-to-hold-open-house-on-sept-22-about-new-proposed-transmission-line-in-smarr-rum-creek/"
+  },
+  "tribune": {
+   "label": "The Daily Tribune News, Georgia Transmission open house, Oct. 26, 2026",
+   "url": "https://www.daily-tribune.com/news/georgia-transmission-conducts-power-line-open-house/article_8d113c13-d7d2-58a8-a888-b86372b4e7ab.html"
+  },
+  "journal": {
+   "label": "The Journal (Talbot County), Sept. 9, 2026",
+   "url": "https://tjournalnews.com/News/article/preview/?date=2026x09x09&keyword=power"
+  }
+ },
+ "projects": [
+  {
+   "name": "East Walton - Rockville",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, about 46.5 miles",
+   "counties": [
+    "Walton",
+    "Morgan",
+    "Putnam"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Under construction, per Georgia Transmission; part of the East Central Georgia Reliability package",
+   "sources": [
+    "gtc_ecgr",
+    "rus_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page, a federal environmental finding and the regional plan all list it.",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  {
+   "name": "Bostwick - East Walton",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, about 5.2 miles",
+   "counties": [
+    "Walton",
+    "Morgan"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Under construction, per Georgia Transmission; East Central Georgia package",
+   "sources": [
+    "gtc_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page and the regional plan both list it.",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  {
+   "name": "East Walton - Jacks Creek",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, about 9 miles per Georgia Transmission (7.65 miles in the federal finding)",
+   "counties": [
+    "Walton"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Under construction, per Georgia Transmission; East Central Georgia package. MEAG Power builds the new Jacks Creek switching station",
+   "sources": [
+    "gtc_ecgr",
+    "rus_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page, a federal finding and the regional plan list it; the two give different lengths.",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  {
+   "name": "Bethabara - East Walton",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, about 10.2 miles",
+   "counties": [
+    "Walton",
+    "Oconee"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Under construction, per Georgia Transmission; East Central Georgia package",
+   "sources": [
+    "gtc_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page and the regional plan both list it.",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  {
+   "name": "East Walton substation and Bostwick switching station",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New substation",
+   "size": "500/230 kV and 230 kV",
+   "counties": [
+    "Walton",
+    "Morgan"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Under construction, per Georgia Transmission; East Central Georgia package",
+   "sources": [
+    "gtc_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page and the regional plan both list them.",
+   "url": "https://www.gatransmission.com/ecrp/"
+  },
+  {
+   "name": "Jacks Creek switching station",
+   "owner": "MEAG Power",
+   "kind": "New substation",
+   "size": "230 kV; Georgia Power loops the Doyle-Monroe line into it",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "In the regional plan and the federal finding for the East Central Georgia package, which names no county for this station",
+   "sources": [
+    "rus_ecgr",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "A federal finding and the regional plan both list it."
+  },
+  {
+   "name": "Dresden - Talbot",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, about 66 miles, with a new Talbot County 500/230 kV substation",
+   "counties": [
+    "Coweta",
+    "Harris",
+    "Meriwether",
+    "Talbot",
+    "Troup"
+   ],
+   "planned_year": 2029,
+   "current_year": 2031,
+   "status": "Federal record of decision February 2026. Georgia Transmission says late 2031; the regional plan and a federal technical memo say 2029",
+   "sources": [
+    "gtc_dt",
+    "rus_dt",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Georgia Transmission's page, the federal review and the regional plan all list it; they give different in-service years.",
+   "url": "https://www.gatransmission.com/?p=3121"
+  },
+  {
+   "name": "Talbot County - Big Tazewell",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, about 20 miles",
+   "counties": [
+    "Chattahoochee",
+    "Harris",
+    "Marion",
+    "Muscogee",
+    "Talbot"
+   ],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26",
+    "journal"
+   ],
+   "checked": "confirmed",
+   "check_note": "The regional plan lists it; The Journal names the counties."
+  },
+  {
+   "name": "LaGrange Primary - Oseligee Creek",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line and substation",
+   "size": "230 kV, about 16.5 miles, and a 230/25 kV substation near West Point",
+   "counties": [
+    "Troup"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Federal environmental finding July 2025. The 2025 regional plan lists a LaGrange-North Opelika 230 kV line for 2026, probably the same corridor",
+   "sources": [
+    "rus_lag",
+    "sertp25"
+   ],
+   "checked": "partly",
+   "check_note": "One federal finding; the regional plan entry may be the same line, not confirmed."
+  },
+  {
+   "name": "Lake Varner - Cornish Mountain",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line and substation",
+   "size": "230 kV, about 5.2 miles, and the Lake Varner substation serving a data center north of Covington",
+   "counties": [
+    "Newton"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Federal finding March 2026; substation work began November 2025, per the federal assessment",
+   "sources": [
+    "rus_varner",
+    "rus_varner_ea"
+   ],
+   "checked": "one source",
+   "check_note": "A federal finding and its assessment; not in the regional plan's public list."
+  },
+  {
+   "name": "East Moultrie - Highway 37",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, about 29.7 miles, and a new Highway 37 switching station",
+   "counties": [
+    "Colquitt",
+    "Mitchell"
+   ],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "Federal assessment February 2026; construction scheduled March 2026 to May 2027. The regional plan lists it as East Moultrie-Highway 112",
+   "sources": [
+    "rus_moultrie",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "A federal assessment and the regional plan both list it."
+  },
+  {
+   "name": "Big Smarr - Rum Creek, with the Rum Creek switching station",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line and substation",
+   "size": "500 kV, 7.8 miles, and a new Rum Creek 500 kV switching station",
+   "counties": [
+    "Monroe"
+   ],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "Proposed; open house September 2025",
+   "sources": [
+    "monroe",
+    "sertp26"
+   ],
+   "checked": "confirmed",
+   "check_note": "Monroe County government and the regional plan both list it."
+  },
+  {
+   "name": "Brandon Farm - Pittman Lake",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line and substations",
+   "size": "230 kV, about 5.2 miles, with two new substations, one on a data center campus",
+   "counties": [
+    "Bartow",
+    "Paulding"
+   ],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "Surveying late 2026, construction early 2028, per The Daily Tribune News",
+   "sources": [
+    "tribune"
+   ],
+   "checked": "one source",
+   "check_note": "One news report; not in the regional plan's public list."
+  },
+  {
+   "name": "Morning Hornet - Thumbs Up",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "115 kV, about 2.4 miles, with a second transformer at Morning Hornet",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2027,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Barneyville - East Moultrie",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "115 kV, about 20 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "New Hampton substation",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New substation",
+   "size": "230/115 kV, serving the Henderson Farms load",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "New South Griffin substation",
+   "owner": "MEAG Power",
+   "kind": "New substation",
+   "size": "230/115 kV",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2028,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Barnesville Primary - South Griffin",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, 19 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Cliftondale - Line Creek",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, 11.6 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Tenaska - Wansley",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, 5 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Rum Creek - Tomochichi (second line)",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, about 30 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2029,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Hartwell Energy - Middle Fork",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, about 35 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Pond Fork - Midway",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "115 kV, about 6 miles on a 46 kV corridor",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Rockville - Tiger Creek - Warthen",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New lines",
+   "size": "500 kV, about 20 and 9 miles, and a 500 kV yard at Tiger Creek",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Thornton Road - Cavender Drive",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "230 kV, 7 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Athena - Warrenton Primary conversion",
+   "owner": "MEAG Power",
+   "kind": "Line conversion",
+   "size": "115 kV lines through Union Point and Ray Place Road converted to 230 kV, with new 230/115 kV transformers",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Goshen area line",
+   "owner": "MEAG Power",
+   "kind": "New line",
+   "size": "230 kV, about 12.3 miles, from a new Georgia Power switching station on the Waynesboro-Wilson line",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2030,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "Pio Nono area substation",
+   "owner": "MEAG Power",
+   "kind": "New substation",
+   "size": "230/115 kV",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2031,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  },
+  {
+   "name": "East Walton - Middle Fork",
+   "owner": "Georgia Transmission Corporation",
+   "kind": "New line",
+   "size": "500 kV, about 45 miles",
+   "counties": [],
+   "planned_year": null,
+   "current_year": 2033,
+   "status": "In the regional plan",
+   "sources": [
+    "sertp26"
+   ],
+   "checked": "one source",
+   "check_note": "Listed in the regional plan; no second public source checked yet."
+  }
+ ]
+}
