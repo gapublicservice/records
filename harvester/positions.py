@@ -19,6 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DIR = ROOT / "data" / "reference" / "positions"
+AGENDAS = ROOT / "data" / "reference" / "agendas"
 PSC_DOC = "https://psc.ga.gov/search/facts-document/?documentId="
 e = html.escape
 
@@ -94,7 +95,37 @@ def section(d: dict, up: str = "") -> str:
             f'<th>Where they said it</th></tr></thead><tbody>{"".join(rows)}</tbody></table>{quiet_html}</section>')
 
 
+def load_agendas() -> list[dict]:
+    return [json.loads(p.read_text()) for p in sorted(AGENDAS.glob("*.json"))] if AGENDAS.exists() else []
+
+
+def agenda_section(a: dict) -> str:
+    groups = []
+    for g in a.get("groups", []):
+        items = []
+        for it in g.get("items", []):
+            dk = "".join(f' <a href="docket/{int(n)}/">Docket {int(n)}</a>.' for n in it.get("dockets", []))
+            items.append(f'<li>{e(it["ask"])}{dk} <span class="muted">When: {e(it.get("when", "not given"))}.</span></li>')
+        groups.append(f'<h3>{e(g["heading"])}</h3><ul>{"".join(items)}</ul>')
+    return (f'<section class="ps-pos" id="agenda-{e(a["id"])}"><h2>{e(a["org"])} · {e(a["label"])}</h2>'
+            f'<p class="lede">{e(a["title"])}</p>'
+            f'<p class="ps-disclosure">{e(a["relationship"])} This is an advocacy agenda, not a filing at the Commission. '
+            'It is summarized here in our words as a source, and it is not this site\'s position.</p>'
+            f'{"".join(groups)}<p class="muted">Source: {e(a["source"])}</p></section>')
+
+
+def agendas_body(agendas: list[dict]) -> str:
+    if not agendas:
+        return ""
+    return ('<h2 id="agendas">Published agendas</h2><p>What organizations ask the Commission to do outside any one docket. '
+            'These are not filings. Any organization\'s published agenda can be added on the same terms: summarized in our words, '
+            'with its source named.</p>' + "".join(agenda_section(a) for a in agendas))
+
+
 def page_body(docs: list[dict], note: str) -> str:
+    agendas = load_agendas()
+    agenda_toc = (f'<p>Also on this page: <a href="#agendas">published agendas</a> '
+                  f'({e("; ".join(a["org"] + ", " + a["label"] for a in agendas))}).</p>' if agendas else "")
     toc = "".join(f'<li><a href="#d{d["docket"]}"><span class="mono">{d["docket"]}</span> {e(d.get("short", ""))}</a>'
                   f' <span class="muted">({"open" if d.get("status") == "open" else "decided"}, '
                   f'{len(d["shown"])} parties)</span></li>' for d in docs)
@@ -105,7 +136,7 @@ def page_body(docs: list[dict], note: str) -> str:
             'when it is on the public record and the phrase shown under it is found in the filing\'s text, '
             'so anyone can check it. Each party\'s last word is used: a brief or proposed order before testimony. '
             'Parties are listed the same way whoever they are. Public Service takes no position on any docket.'
-            f'</div>{note}<ul>{toc}</ul>' + "".join(section(d) for d in docs))
+            f'</div>{note}<ul>{toc}</ul>{agenda_toc}' + "".join(section(d) for d in docs) + agendas_body(agendas))
 
 
 def docket_link(d: str, docs: list[dict] | None = None) -> str:
