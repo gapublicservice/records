@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import ics
+from . import ics, infrastructure
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -836,10 +836,13 @@ def build():
                    f'<td class="num mono">{v["added_mw"]:,.0f}</td><td class="num mono">{v["retired_mw"]:,.0f}</td>'
                    f'<td class="num mono">{v["planned_mw"]:,.0f}</td><td>{e(top)}</td>'
                    f'<td class="num mono"><a href="index.html?region={html.escape(g, quote=True)}">{n_dk}</a></td></tr>')
-    body = f"""<div class="kicker">Regional picture</div><h1>Power plants by region since 2020</h1>
-<p class="lede">Megawatts of generating capacity added, retired and planned in each of Georgia's 12 regional commissions, with the dockets whose filing titles name a county there.</p>
-<div class="note">Plants and their counties come from the U.S. Energy Information Administration's monthly generator list (Form EIA-860M, <a href="{e(reg['source']['generators'].split('(')[-1].rstrip(')'))}">this edition</a>). Counties are grouped by the regional list in the Georgia Department of Audits and Accounts' 2019 report on regional commissions. Nameplate megawatts, summed from EIA's rows. Planned means EIA lists the plant as planned, not that the Commission approved it. Transmission lines, substations and gas pipelines are not in this table yet.</div>
-<table class="wide"><thead><tr><th>Region and counties</th><th class="num">Added MW</th><th class="num">Retired MW</th><th class="num">Planned MW</th><th>Largest plants</th><th class="num">Dockets</th></tr></thead><tbody>{"".join(trs)}</tbody></table>"""
+    grid = infrastructure.regions_html(infrastructure.build(rows), html.escape, PSC_DOC,
+                                       copied_note("Gas certificate filings are copies.", last_nightly))
+    body = f"""<div class="kicker">Regional picture</div><h1>Power plants, power lines and gas projects by region</h1>
+<p class="lede">Megawatts of generating capacity added, retired and planned since 2020 in each of Georgia's 12 regional commissions, with the dockets whose filing titles name a county there. Below the plants: transmission lines, gas pipelines and gas certificate filings.</p>
+<div class="note">Plants and their counties come from the U.S. Energy Information Administration's monthly generator list (Form EIA-860M, <a href="{e(reg['source']['generators'].split('(')[-1].rstrip(')'))}">this edition</a>). Counties are grouped by the regional list in the Georgia Department of Audits and Accounts' 2019 report on regional commissions. Nameplate megawatts, summed from EIA's rows. Planned means EIA lists the plant as planned, not that the Commission approved it. Transmission lines and gas projects are <a href="#grid">further down</a>.</div>
+<table class="wide"><thead><tr><th>Region and counties</th><th class="num">Added MW</th><th class="num">Retired MW</th><th class="num">Planned MW</th><th>Largest plants</th><th class="num">Dockets</th></tr></thead><tbody>{"".join(trs)}</tbody></table>
+{grid}"""
     (OUT / "regions.html").write_text(page("Regions", body, "regions"))
 
     # About

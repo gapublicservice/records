@@ -1,0 +1,235 @@
+{
+ "order": 2,
+ "about": "Atlanta Gas Light's large pipeline (system reinforcement) and LNG projects, as AGL describes them in its 2025-2034 Integrated Capacity and Delivery Plan at the Georgia Public Service Commission (docket 43820). Counties are listed only where AGL's public filing names them. Costs per project are redacted in the public filing and are left out. Read by hand from the filings below; check them before quoting.",
+ "sources": {
+  "mfr": {
+   "label": "AGL petition for its 2025-2034 plan, Minimum Filing Requirements (project locations)",
+   "filed": "2024-02-01",
+   "document_id": 217299,
+   "url": "https://psc.ga.gov/search/facts-document/?documentId=217299"
+  },
+  "plan": {
+   "label": "AGL amended 2025-2034 plan (project list, Figure 5.25; LNG budgets, Figures 5.17 and 5.18)",
+   "filed": "2024-05-09",
+   "document_id": 218614,
+   "url": "https://psc.ga.gov/search/facts-document/?documentId=218614"
+  },
+  "update": {
+   "label": "AGL 2025-2034 plan update, filing vs. actuals (current target years)",
+   "filed": "2026-04-30",
+   "document_id": 226442,
+   "url": "https://psc.ga.gov/search/facts-document/?documentId=226442"
+  },
+  "lng18": {
+   "label": "AGL Cherokee LNG Expansion tracker report no. 18",
+   "filed": "2026-08-24",
+   "document_id": 227964,
+   "url": "https://psc.ga.gov/search/facts-document/?documentId=227964"
+  }
+ },
+ "docket": 43820,
+ "projects": [
+  {
+   "name": "Wade Green Road Phase 2",
+   "kind": "Gas pipeline",
+   "size": "4.3 miles of 12-inch steel",
+   "counties": [
+    "Cobb"
+   ],
+   "planned_year": 2027,
+   "current_year": 2026,
+   "status": "AGL said it would be in service in March 2026",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Cumming to Hall County",
+   "kind": "Gas pipeline",
+   "size": "29 miles of 16-inch steel",
+   "counties": [],
+   "planned_year": 2025,
+   "current_year": 2025,
+   "status": "In service May 2025, per AGL. Carries Cherokee LNG gas into the system",
+   "sources": [
+    "plan",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "High Point Road to Villa Rica",
+   "kind": "Gas pipeline",
+   "size": "7 miles of 12-inch steel",
+   "counties": [
+    "Carroll",
+    "Douglas"
+   ],
+   "planned_year": 2026,
+   "current_year": 2026,
+   "status": "AGL said it would be in service in March 2026",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Villa Rica to Temple",
+   "kind": "Gas pipeline",
+   "size": "5.4 miles of 8-inch steel",
+   "counties": [],
+   "planned_year": 2029,
+   "current_year": 2027,
+   "status": "Moved up; AGL expects completion in 2027",
+   "sources": [
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Temple to Bremen",
+   "kind": "Gas pipeline",
+   "size": "6.3 miles of 8-inch steel",
+   "counties": [],
+   "planned_year": 2031,
+   "current_year": 2027,
+   "status": "Moved up; AGL expects completion in 2027",
+   "sources": [
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Northwest Georgia Line to Rome #1",
+   "kind": "Gas pipeline",
+   "size": "4.6 miles of 16-inch steel (was 3.4 miles)",
+   "counties": [
+    "Floyd"
+   ],
+   "planned_year": 2033,
+   "current_year": 2028,
+   "status": "Preliminary engineering; AGL expects it in service by end of 2028",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Cumming to McGinnis Ferry Road, segment 1 (Cherokee LNG expansion pipeline)",
+   "kind": "Gas pipeline",
+   "size": "11.2 miles of 24-inch steel",
+   "counties": [
+    "Forsyth",
+    "Gwinnett"
+   ],
+   "planned_year": 2028,
+   "current_year": 2029,
+   "status": "Planning, surveys and land acquisition; delayed a year",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Cumming to McGinnis Ferry Road, segment 2",
+   "kind": "Gas pipeline",
+   "size": "4.2 miles of 24-inch steel",
+   "counties": [
+    "Forsyth",
+    "Gwinnett"
+   ],
+   "planned_year": 2029,
+   "current_year": 2030,
+   "status": "Planning; delayed a year",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Ball Ground to Ellijay (phase 1: Jasper to Ellijay)",
+   "kind": "Gas pipeline",
+   "size": "32 miles of 12-inch steel in two phases (Jasper to Ellijay 20 miles, Ball Ground to Jasper 12 miles)",
+   "counties": [
+    "Gilmer",
+    "Pickens"
+   ],
+   "planned_year": 2030,
+   "current_year": 2030,
+   "status": "Phase 1 on track for 2030, per AGL",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Camp Creek to Fulton Industrial Boulevard",
+   "kind": "Gas pipeline",
+   "size": "5 miles of 8-inch steel",
+   "counties": [
+    "Fulton"
+   ],
+   "planned_year": 2030,
+   "current_year": null,
+   "status": "On hold while AGL re-evaluates the scope",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Hall County Extension",
+   "kind": "Gas pipeline",
+   "size": "11 miles of 12-inch steel",
+   "counties": [
+    "Hall"
+   ],
+   "planned_year": 2032,
+   "current_year": 2032,
+   "status": "No change, per AGL",
+   "sources": [
+    "mfr",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Cherokee LNG expansion",
+   "kind": "LNG plant",
+   "size": "Doubles storage and send-out; about $249 million estimated before overheads (2024 plan)",
+   "counties": [],
+   "planned_year": 2025,
+   "current_year": 2026,
+   "status": "New liquefaction commissioned in spring 2026; vaporization due fourth quarter 2026",
+   "sources": [
+    "plan",
+    "update",
+    "lng18"
+   ],
+   "owner": "Atlanta Gas Light"
+  },
+  {
+   "name": "Valdosta satellite LNG",
+   "kind": "LNG plant",
+   "size": "Storage and vaporization only; first estimate $50.9 million (2024 plan)",
+   "counties": [],
+   "planned_year": 2027,
+   "current_year": 2027,
+   "status": "Land bought in 2025; AGL targets the fourth quarter of 2027",
+   "sources": [
+    "plan",
+    "update"
+   ],
+   "owner": "Atlanta Gas Light"
+  }
+ ],
+ "layer": "Atlanta Gas Light pipelines and LNG"
+}

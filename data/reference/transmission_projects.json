@@ -1,0 +1,223 @@
+{
+ "order": 1,
+ "layer": "Georgia Power transmission projects",
+ "about": "Georgia Power's current list of major transmission projects, with the counties and project type the company gives on its own website. Voltage is from each project's name. Most are in planning, per the page; it gives no dates on the list. Georgia Transmission Corporation, MEAG Power and other owners' projects are not in this list yet. Read by hand on November 23, 2026; check the page before quoting.",
+ "sources": {
+  "gp_list": {
+   "label": "Georgia Power, Transmission projects (company web page, read November 23, 2026)",
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects.html"
+  }
+ },
+ "projects": [
+  {
+   "name": "Norcross - South Hall",
+   "owner": "Georgia Power",
+   "kind": "Transmission line upgrade",
+   "size": "500 kV",
+   "counties": [
+    "Gwinnett",
+    "Hall"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/norcross-south-hall.html"
+  },
+  {
+   "name": "Cash Creek - McGrau Ford",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "500 kV",
+   "counties": [
+    "Banks",
+    "Dawson",
+    "Habersham",
+    "Hall",
+    "Lumpkin"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/cashcreek-mcgrauford.html"
+  },
+  {
+   "name": "Tomochichi - Towaliga River",
+   "owner": "Georgia Power",
+   "kind": "Area project",
+   "size": "230 kV",
+   "counties": [
+    "Butts",
+    "Spalding"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/tomochichi-towaliga.html"
+  },
+  {
+   "name": "Big Tazewell - Farley",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "500 kV",
+   "counties": [
+    "Chattahoochee",
+    "Clay",
+    "Early",
+    "Marion",
+    "Quitman",
+    "Stewart"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/big-tazewell-farley.html"
+  },
+  {
+   "name": "Decatur - Scottdale",
+   "owner": "Georgia Power",
+   "kind": "Transmission line upgrade",
+   "size": "115 kV",
+   "counties": [
+    "DeKalb"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/decatur-scottdale.html"
+  },
+  {
+   "name": "Callaway Road - Thomson Primary",
+   "owner": "Georgia Power",
+   "kind": "Area project",
+   "size": "500 kV",
+   "counties": [
+    "Columbia",
+    "McDuffie"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/callaway-thomson.html"
+  },
+  {
+   "name": "Effingham County",
+   "owner": "Georgia Power",
+   "kind": "Area project",
+   "size": "500 kV",
+   "counties": [
+    "Effingham"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/effingham-county.html"
+  },
+  {
+   "name": "Hills Bridge - Speedway",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "500/230 kV",
+   "counties": [
+    "Clayton",
+    "Henry"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hills-bridge-speedway.html"
+  },
+  {
+   "name": "Grassy Hollow - Great Valley",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "230 kV",
+   "counties": [
+    "Bartow"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/grassy-hollow-great-valley.html"
+  },
+  {
+   "name": "Hatch - Wadley Primary",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "500 kV",
+   "counties": [
+    "Appling",
+    "Emanuel",
+    "Jefferson",
+    "Toombs"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/hatch-wadley.html"
+  },
+  {
+   "name": "Conyers - Klondike",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "230 kV",
+   "counties": [
+    "DeKalb",
+    "Rockdale"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/conyers-klondike.html"
+  },
+  {
+   "name": "Ashley Park - Wansley",
+   "owner": "Georgia Power",
+   "kind": "New transmission line",
+   "size": "500 kV",
+   "counties": [
+    "Fayette",
+    "Heard"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Listed as a current project; the list gives no date",
+   "sources": [
+    "gp_list"
+   ],
+   "url": "https://www.georgiapower.com/about/grid-reliability/grid-improvements/grid-projects/transmission-projects/ashley-park.html"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "order": 3,
+ "layer": "Interstate gas pipelines (federal)",
+ "about": "Interstate natural gas pipeline projects that cross Georgia. These are approved by the Federal Energy Regulatory Commission, not the Georgia Public Service Commission. Counties are those the federal notice names. Read by hand from the sources below; check them before quoting.",
+ "sources": {
+  "sse4_feis": {
+   "label": "FERC notice of the final environmental impact statement for the South System Expansion 4 project (dockets CP25-514-000 and CP25-517-000), dated June 26, 2026, Federal Register July 1, 2026",
+   "url": "https://public-inspection.federalregister.gov/2026-13277.pdf"
+  }
+ },
+ "projects": [
+  {
+   "name": "South System Expansion 4",
+   "owner": "Southern Natural Gas and Elba Express",
+   "kind": "Interstate gas pipeline",
+   "size": "22 pipeline loops totaling about 291 miles in Mississippi, Alabama and Georgia, plus compressor and meter station work",
+   "counties": [
+    "Clayton",
+    "Muscogee",
+    "Harris",
+    "Talbot",
+    "Upson",
+    "Crawford",
+    "Monroe",
+    "Bibb",
+    "Jones",
+    "Baldwin",
+    "Glascock",
+    "Jefferson",
+    "Richmond",
+    "Spalding",
+    "Henry",
+    "Lowndes",
+    "Burke",
+    "Screven",
+    "Cobb",
+    "Chatham",
+    "Effingham"
+   ],
+   "planned_year": null,
+   "current_year": null,
+   "status": "Final federal environmental review issued June 2026. The notice names these counties for the project's facilities as a whole, not loop by loop",
+   "sources": [
+    "sse4_feis"
+   ]
+  }
+ ]
+}
