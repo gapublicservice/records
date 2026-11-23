@@ -18,7 +18,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils && pip install -q openpyxl
       - name: Download and print
         env:
           URL: ${{ inputs.url }}
@@ -29,6 +33,6 @@ jobs:
           esac
           curl -sSL -m 120 -A "public-record-reader" -o doc "$URL"
           file doc
-          if file doc | grep -q PDF; then pdftotext -layout doc doc.txt; else python3 -c "import html,re,sys;t=open('doc',errors='replace').read();t=re.sub(r'(?s)<(script|style).*?</\1>','',t);print(html.unescape(re.sub(r'<[^>]+>','\n',t)))" > doc.txt; fi
+          if file doc | grep -qiE "PDF|Zip|Microsoft"; then python scripts/read_doc.py doc > doc.txt; else python3 -c "import html,re,sys;t=open('doc',errors='replace').read();t=re.sub(r'(?s)<(script|style).*?</\1>','',t);print(html.unescape(re.sub(r'<[^>]+>','\n',t)))" > doc.txt; fi
           wc -l doc.txt
           grep -v '^\s*$' doc.txt
