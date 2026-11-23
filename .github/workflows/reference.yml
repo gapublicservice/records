@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: "Document address (https, Georgia government sites only)"
+        description: "Document address (https, Georgia government sites or the SERTP public plan library)"
         required: true
 
 permissions:
@@ -28,8 +28,8 @@ jobs:
           URL: ${{ inputs.url }}
         run: |
           case "$URL" in
-            https://*.ga.gov/*|https://*.georgia.gov/*|https://ga.gov/*) ;;
-            *) echo "Only Georgia government addresses"; exit 1 ;;
+            https://*.ga.gov/*|https://*.georgia.gov/*|https://ga.gov/*|https://www.southeasternrtp.com/docs/*) ;;
+            *) echo "Only Georgia government or SERTP plan addresses"; exit 1 ;;
           esac
           curl -sSL -m 120 -A "public-record-reader" -o doc "$URL"
           file doc
