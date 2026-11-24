@@ -62,8 +62,69 @@ def block(d, entries: list[dict] | None = None) -> str:
     return "".join(parts)
 
 
+# The "not reviewed" line for dockets with no approved explainer. Off until approved.
+AUTO_ON = False
+AUTO_NOTE = "From the Commission's docket listing, not reviewed."
+_RULES = [("Rate case", r"\brate case\b|general rate|base rate"),
+          ("Fuel", r"fuel|gas supply|capacity supply|purchased gas|\bpga\b"),
+          ("Integrated resource plan", r"integrated resource|\birp\b|integrated capacity and delivery"),
+          ("Request for proposals", r"request for proposals|\brfps?\b|solicitation"),
+          ("Certification", r"certif|certificate of authority"),
+          ("Complaint or petition", r"complaint|petition|declaratory|\bv\.? "),
+          ("Tariff or rule change", r"tariff|\brules?\b|rulemaking|rider|rate schedule"),
+          ("Reports and compliance", r"report|monitoring|surveillance|compliance|audit")]
+
+
+def auto_category(title: str, industry: str) -> str:
+    import re
+    ind = (industry or "").lower()
+    if "gufpa" in ind:
+        return "Utility facility protection"
+    if ind.startswith("pipeline safety"):
+        return "Pipeline safety"
+    if ind.startswith("telecommunications"):
+        return "Telecommunications"
+    t = (title or "").lower()
+    return next((c for c, r in _RULES if re.search(r, t)), "Other")
+
+
+# Opened dates the Commission's listing gives to hundreds of dockets at once (431, 72 and 73 dockets),
+# which look like the dates records moved into its system, not when a case began. Left out.
+BULK_DATES = {"2011-12-18", "2013-05-07", "2019-06-29"}
+FILER = {"GPSC": "the Commission", "Staff": "Commission Staff"}
+
+
+def _date(iso: str) -> str:
+    import datetime as dt
+    try:
+        d = dt.date.fromisoformat(iso[:10])
+    except ValueError:
+        return iso
+    return f"{d:%b} {d.day}, {d.year}"
+
+
+def auto_block(meta: dict | None, first: dict | None) -> str:
+    """One labeled line built only from the Commission's own listing and our first stored filing."""
+    if not AUTO_ON or not meta:
+        return ""
+    cat = auto_category(meta.get("title") or "", meta.get("industry") or "")
+    bits = []
+    if meta.get("date") and meta["date"] not in BULK_DATES:
+        bits.append(f"Opened {_date(meta['date'])}")
+    if meta.get("status"):
+        bits.append(f"status {meta['status'].lower()} on the Commission's site")
+    line = (", ".join(bits) + ".") if bits else ""
+    line = line[:1].upper() + line[1:]
+    if first and first.get("company"):
+        who = FILER.get(first["company"].strip(), first["company"].strip())
+        when = _date(first["filed_date"]) if first.get("filed_date") else "date not given"
+        line += f" Earliest filing in this record: {who}, {when}."
+    return (f'<section class="ps-exp ps-auto"><div class="kicker">{e(cat)}</div><p>{e(line.strip())}</p>'
+            f'<p class="muted">{e(AUTO_NOTE)}</p></section>')
+
+
 STYLE = ('<style>.ps-exp{border-left:3px solid #E8A317;padding:2px 0 2px 14px;margin:18px 0 24px}'
-         '.ps-exp p{margin:6px 0}</style>')
+         '.ps-exp p{margin:6px 0}.ps-auto{border-left-color:#bbb}</style>')
 
 
 def main(argv: list[str]) -> int:

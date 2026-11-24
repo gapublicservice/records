@@ -901,7 +901,7 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-{explainers.block(d, exp_entries)}
+{explainers.block(d, exp_entries) or explainers.auto_block(meta, fs[-1] if fs else None)}
 <p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
@@ -911,7 +911,7 @@ def build():
         p = OUT / "docket" / d
         p.mkdir(parents=True, exist_ok=True)
         (p / "index.html").write_text(page(f"Docket {d}", body, "dockets", depth=2,
-                                           extra_head=explainers.STYLE if explainers.for_docket(d, exp_entries) else ""))
+                                           extra_head=explainers.STYLE if (explainers.for_docket(d, exp_entries) or explainers.AUTO_ON) else ""))
 
     # Last night
     new = sorted((r for r in rows if r["document_id"] in new_ids), key=lambda r: r["document_id"], reverse=True)
