@@ -208,6 +208,118 @@ def docket_laws(v: dict) -> str:
 <table><thead><tr><th>Cited</th><th>Law tag</th><th class="num">Filings</th></tr></thead><tbody>{trs}</tbody></table>"""
 
 
+ORDER_RX = re.compile(r"\border\b|\bdecision\b|\bruling\b|\bcertificate\b", re.I)
+TRANSCRIPT_RX = re.compile(r"\btranscripts?\b", re.I)
+
+
+def timeline_events(fs: list[dict], meta: dict, agenda_items: list[dict], cal: list[dict], d: str) -> list[dict]:
+    """The docket's milestones, newest first: opened, Commission and Hearing
+    Officer orders, hearings and agenda appearances, transcripts, filings that
+    disagree, and the first filing. Each comes from the record itself."""
+    ev = []
+    if meta.get("date"):
+        ev.append({"date": meta["date"][:10], "kind": "opened", "label": "Docket opened", "text": "", "href": ""})
+    dated = [r for r in fs if r.get("filed_date") and r["filed_date"] >= "1990"]
+    if dated:
+        first = min(dated, key=lambda r: (r["filed_date"], r["document_id"]))
+        ev.append({"date": first["filed_date"], "kind": "filing", "label": "First filing in the record",
+                   "text": f'{first.get("company") or "No filer named"}: {(first.get("description") or "").strip()}',
+                   "href": f'{PSC_DOC}{first["document_id"]}'})
+    for r in dated:
+        desc = (r.get("description") or "").strip()
+        co = r.get("company") or ""
+        if co.startswith("GPSC") and ORDER_RX.search(desc):
+            ev.append({"date": r["filed_date"], "kind": "order", "label": "Commission order", "text": desc,
+                       "href": f'{PSC_DOC}{r["document_id"]}'})
+        elif co.startswith("Hearing Officer") and ORDER_RX.search(desc):
+            ev.append({"date": r["filed_date"], "kind": "order", "label": "Hearing Officer order", "text": desc,
+                       "href": f'{PSC_DOC}{r["document_id"]}'})
+        elif TRANSCRIPT_RX.search(desc):
+            ev.append({"date": r["filed_date"], "kind": "transcript", "label": "Transcript filed", "text": desc,
+                       "href": f'{PSC_DOC}{r["document_id"]}'})
+        elif r.get("disagreement"):
+            ev.append({"date": r["filed_date"], "kind": "dis", "label": "Disagreement filed",
+                       "text": f'{co or "No filer named"}: {desc}', "href": f'{PSC_DOC}{r["document_id"]}'})
+    seen = set()
+    for c in cal:
+        if str(d) in {str(x) for x in c.get("dockets") or []}:
+            ev.append({"date": c["date"], "kind": "meeting", "label": c.get("title") or "Commission meeting",
+                       "text": "", "href": c.get("url") or ""})
+            seen.add((c["date"], c.get("url")))
+    for a in agenda_items:
+        if (a["date"], a.get("event")) in seen:
+            continue
+        seen.add((a["date"], a.get("event")))
+        ev.append({"date": a["date"], "kind": "meeting", "label": f'On the agenda: {a["label"]}',
+                   "text": a.get("line") or "", "href": a.get("page") and ("../../" + a["page"]) or a.get("file") or ""})
+    order = {"opened": 0, "filing": 1, "meeting": 2, "order": 3, "transcript": 4, "dis": 5}
+    ev.sort(key=lambda x: (x["date"], -order[x["kind"]]), reverse=True)
+    return ev
+
+
+def timeline_strip(fs: list[dict], events: list[dict]) -> str:
+    """Filings per month as bars, with a mark under each month that has a
+    Commission order and above each month with a hearing or agenda."""
+    months = collections.Counter(r["filed_date"][:7] for r in fs if (r.get("filed_date") or "") >= "1990")
+    if len(months) < 2:
+        return ""
+    first, last = min(months), max(months)
+    y, m = int(first[:4]), int(first[5:])
+    seq = []
+    while f"{y:04d}-{m:02d}" <= last:
+        seq.append(f"{y:04d}-{m:02d}")
+        m += 1
+        if m > 12:
+            y, m = y + 1, 1
+    if len(seq) > 240:
+        seq = seq[-240:]
+    orders = {x["date"][:7] for x in events if x["kind"] == "order"}
+    meets = {x["date"][:7] for x in events if x["kind"] == "meeting"}
+    top = max(months[k] for k in seq) or 1
+    w, h = len(seq) * 10, 80
+    bars = []
+    for i, k in enumerate(seq):
+        n = months.get(k, 0)
+        bh = round(60 * n / top) if n else 0
+        label = f"{dt.date(int(k[:4]), int(k[5:]), 1):%b %Y}: {n} filing{'s' if n != 1 else ''}"
+        if k in orders:
+            label += ", Commission order"
+        if k in meets:
+            label += ", meeting"
+        bars.append(f'<g><title>{e(label)}</title><rect x="{i*10+1}" y="{68-bh}" width="8" height="{max(bh, 0)}" class="tl-bar"/>'
+                    f'<rect x="{i*10}" y="0" width="10" height="{h}" fill="transparent"/>'
+                    + (f'<rect x="{i*10+1}" y="72" width="8" height="6" class="tl-order"/>' if k in orders else "")
+                    + (f'<circle cx="{i*10+5}" cy="4" r="3" class="tl-meet"/>' if k in meets else "") + "</g>")
+    years = []
+    for i, k in enumerate(seq):
+        if k.endswith("-01") or i == 0:
+            years.append(f'<span style="left:{100*i/len(seq):.2f}%">{k[:4]}</span>')
+    return (f'<div class="tl-strip"><svg viewBox="0 0 {w} {h}" preserveAspectRatio="none" role="img" '
+            f'aria-label="Filings per month from {e(seq[0])} to {e(seq[-1])}">{"".join(bars)}</svg>'
+            f'<div class="tl-years mono">{"".join(years)}</div>'
+            '<p class="tl-key muted"><span class="k-bar"></span> filings each month <span class="k-order"></span> month with a Commission order '
+            '<span class="k-meet"></span> month with a hearing or agenda item</p></div>')
+
+
+def timeline_html(fs, meta, agenda_items, cal, d, now) -> str:
+    events = timeline_events(fs, meta, agenda_items, cal, d)
+    if not events:
+        return ""
+    def li(x):
+        when = "Coming up" if x["date"] > now else ""
+        name = f'<a href="{e(x["href"])}">{e(x["label"])}</a>' if x["href"] else e(x["label"])
+        txt = f'<span class="tl-text">{e(_short(x["text"], 180))}</span>' if x["text"] else ""
+        return (f'<li class="tl-{x["kind"]}"><span class="mono tl-date">{e(x["date"])}</span>'
+                f'{f"<span class=tl-soon>{when}</span>" if when else ""}<span class="tl-label">{name}</span>{txt}</li>')
+    head, rest = events[:25], events[25:]
+    more = (f'<details><summary>{len(rest)} earlier milestone{"s" if len(rest) != 1 else ""}</summary>'
+            f'<ol class="timeline">{"".join(li(x) for x in rest)}</ol></details>') if rest else ""
+    return f"""<h2 id="timeline">Timeline</h2>
+<p class="muted">The docket's milestones, newest first: Commission and Hearing Officer orders, hearings and agenda items, transcripts and filings whose title disagrees, picked out of the record by written rules. Every filing is in the full list <a href="#filings">below</a>.</p>
+{timeline_strip(fs, events)}
+<ol class="timeline">{"".join(li(x) for x in head)}</ol>{more}"""
+
+
 def laws_page(rows: list[dict], dockets: dict, now: str) -> str:
     by_law = collections.defaultdict(list)
     cites = collections.defaultdict(collections.Counter)
@@ -981,12 +1093,13 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
+<p class="btns">{'<a class="pin-follow" href="#timeline">Timeline</a> ' if fs else ""}{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 {positions.docket_link(d, pos_docs)}
+{timeline_html(fs, meta, on_agenda.get(d, []), events, d, now)}
 {docket_laws(v)}
-<h2>Filings, newest first</h2>
+<h2 id="filings">Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
         p.mkdir(parents=True, exist_ok=True)
