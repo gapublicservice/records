@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110596,
+      "bytes": 3343718,
+      "fetched": "2026-11-24T08:55:45+00:00",
+      "name": "docket_43820_q3_srr_report_11232026.zip",
+      "sha256": "21a75a2ce7c1d6983bbb1a21aa86a00fd36e1d7a284d1ade3757152de4c6b810",
+      "text": "zip (0 read, 3 not read, 1 trade-secret-marked files skipped)",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229535/110596"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Quarterly SRR Report",
+  "dockets": [
+    43820
+  ],
+  "document_id": 229535,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229535"
+}

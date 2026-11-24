@@ -1,0 +1,46 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110579,
+      "bytes": 213439,
+      "fetched": "2026-11-24T08:55:13+00:00",
+      "name": "DN 57260 2027-2029 Order Issuing RFP.docx",
+      "sha256": "3400bcf93bde70a049818dee0bdb3e7178ce329a3de7471e0f5b7c8d84794699",
+      "text": "docx",
+      "text_file": "data/text/229/229520/110579.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229520/110579"
+    },
+    {
+      "attachment_id": 110580,
+      "bytes": 252728,
+      "fetched": "2026-11-24T08:55:14+00:00",
+      "name": "Exhibit A 2027-2029 Regulated Provider RFP_final 11.2026.docx",
+      "sha256": "41a86874596969f49cbb4bfac21e381a991a995cd113acf4e4904f779ebda146",
+      "text": "docx",
+      "text_file": "data/text/229/229520/110580.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229520/110580"
+    },
+    {
+      "attachment_id": 110581,
+      "bytes": 12429167,
+      "fetched": "2026-11-24T08:55:15+00:00",
+      "name": "229520.pdf",
+      "sha256": "8f32eba850afc8685486556d72a055d92ae945398a2b104ccd32ae41041fe17a",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229520/110581"
+    }
+  ],
+  "company": "GPSC",
+  "description": "Order Issuing Request for Proposal for the Regulated Provider of Natural Gas",
+  "dockets": [
+    57260
+  ],
+  "document_id": 229520,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229520"
+}

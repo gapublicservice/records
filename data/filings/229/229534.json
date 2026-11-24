@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110595,
+      "bytes": 8794581,
+      "fetched": "2026-11-24T08:55:43+00:00",
+      "name": "docket_42315_aglc_gram_3q_2026_11232026.zip",
+      "sha256": "bcf8f251e3ff7d93804f9eea5f3243d614d24744074db961e90d622095b7146e",
+      "text": "zip (1 read, 9 not read)",
+      "text_file": "data/text/229/229534/110595.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229534/110595"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Quarterly GRAM Report",
+  "dockets": [
+    42315
+  ],
+  "document_id": 229534,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229534"
+}

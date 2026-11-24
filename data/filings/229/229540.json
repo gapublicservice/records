@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110601,
+      "bytes": 490994,
+      "fetched": "2026-11-24T08:55:55+00:00",
+      "name": "57171_rtp_stipulation.zip",
+      "sha256": "a9ee742a39eeb4891bcd4b133c4e5626264acf662b2695eb464be2d0fb6ed95f",
+      "text": "zip (3 read)",
+      "text_file": "data/text/229/229540/110601.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229540/110601"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Stipulation Between Georgia Power Company and Public Interest Advocacy Staff",
+  "dockets": [
+    57171
+  ],
+  "document_id": 229540,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229540"
+}

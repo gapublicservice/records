@@ -1,0 +1,24 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110582,
+      "bytes": 370093,
+      "fetched": "2026-11-24T08:55:17+00:00",
+      "name": "r1_inflation_increase_2027_sent_to_gapsc_signed.pdf",
+      "sha256": "52083d41a3313b5b30dca9abbfd5be472fb990c9bbd04aa0617842d0c8ac4e78",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229521/110582"
+    }
+  ],
+  "company": "Ringgold Telephone Company",
+  "description": "R1 inflationary rate increase for Jan 1, 2027",
+  "dockets": [
+    32235
+  ],
+  "document_id": 229521,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229521"
+}

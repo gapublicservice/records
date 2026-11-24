@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110600,
+      "bytes": 369156,
+      "fetched": "2026-11-24T08:55:53+00:00",
+      "name": "north_ga_emc_cfc_financing_nov_2026_cover.pdf",
+      "sha256": "c7ac5389b4b35692d1da787b36c2dad09da03995e1c34595e739bc5bac8bce8c",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229539/110600.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229539/110600"
+    }
+  ],
+  "company": "North Georgia EMC",
+  "description": "Financing approval for North Georgia EMC",
+  "dockets": [
+    57458
+  ],
+  "document_id": 229539,
+  "filed_date": "2026-11-23",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-23",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229539"
+}

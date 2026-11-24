@@ -1088,9 +1088,9 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 394,
+    "filings": 406,
     "first_filed": "2022-12-02",
-    "last_filed": "2026-10-28",
+    "last_filed": "2026-11-23",
     "regions": {},
     "regions_in_text": {},
     "units": [
@@ -5573,9 +5573,9 @@
     },
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 511,
+    "filings": 512,
     "first_filed": "2022-09-20",
-    "last_filed": "2026-11-02",
+    "last_filed": "2026-11-23",
     "regions": {
       "Coastal": 11
     },
@@ -9776,9 +9776,9 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 272,
+    "filings": 273,
     "first_filed": "2022-09-15",
-    "last_filed": "2026-11-20",
+    "last_filed": "2026-11-23",
     "regions": {},
     "regions_in_text": {},
     "units": [
@@ -10251,9 +10251,9 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 126,
+    "filings": 127,
     "first_filed": "2022-09-30",
-    "last_filed": "2026-11-20",
+    "last_filed": "2026-11-23",
     "regions": {},
     "regions_in_text": {},
     "units": [
@@ -11976,14 +11976,18 @@
       "Energy"
     ],
     "contested": false,
-    "counties": {},
+    "counties": {
+      "McIntosh": 1
+    },
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 127,
+    "filings": 131,
     "first_filed": "2022-10-04",
-    "last_filed": "2026-11-16",
+    "last_filed": "2026-11-23",
     "regions": {},
-    "regions_in_text": {},
+    "regions_in_text": {
+      "Coastal": 1
+    },
     "units": [
       "Natural Gas"
     ]
@@ -39867,9 +39871,9 @@
       "Georgia Power Company"
     ],
     "disagreement_filings": 2,
-    "filings": 33,
+    "filings": 34,
     "first_filed": "2026-07-07",
-    "last_filed": "2026-11-16",
+    "last_filed": "2026-11-23",
     "regions": {},
     "regions_in_text": {},
     "units": [
@@ -40536,6 +40540,19 @@
     "units": [
       "Telecommunications"
     ]
+  },
+  "57260": {
+    "committees": [],
+    "contested": false,
+    "counties": {},
+    "disagreeing_filers": [],
+    "disagreement_filings": 0,
+    "filings": 1,
+    "first_filed": "2026-11-23",
+    "last_filed": "2026-11-23",
+    "regions": {},
+    "regions_in_text": {},
+    "units": []
   },
   "57262": {
     "committees": [],
@@ -41286,6 +41303,23 @@
     "regions_in_text": {},
     "units": [
       "Telecommunications"
+    ]
+  },
+  "57458": {
+    "committees": [
+      "Energy"
+    ],
+    "contested": false,
+    "counties": {},
+    "disagreeing_filers": [],
+    "disagreement_filings": 0,
+    "filings": 1,
+    "first_filed": "2026-11-23",
+    "last_filed": "2026-11-23",
+    "regions": {},
+    "regions_in_text": {},
+    "units": [
+      "Electric"
     ]
   },
   "5750": {
