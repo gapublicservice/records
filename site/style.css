@@ -141,7 +141,7 @@ table.cal tr:target{outline:2px solid var(--amber);outline-offset:-2px}
 .ev-form .hp{position:absolute;left:-9999px}
 .ev-form button{cursor:pointer;background:var(--paper);color:var(--ink)}
 /* The wire: up to 20 items, about 10 in view, the rest by scrolling */
-.wire{list-style:none;margin:20px 0;padding:0;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);max-height:calc(var(--shown,10) * 86px);overflow-y:auto;max-width:860px}
+.wire{list-style:none;margin:20px 0;padding:0;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);max-height:calc(var(--shown,10) * 97px);overflow-y:auto;max-width:860px}
 .wire:focus-visible{outline:3px solid var(--amber);outline-offset:2px}
 .wi{display:grid;grid-template-columns:1fr auto;gap:2px 14px;padding:10px 4px;border-bottom:1px solid var(--line);min-height:86px}
 .wi:last-child{border-bottom:0}
