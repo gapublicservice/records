@@ -253,7 +253,11 @@ SEARCH_JS = r"""
 # Front page: pinned dockets (Paul's list, Nov 20) and two tickers.
 # The follow-a-docket page on the main site (live Nov 20, on Paul's yes).
 # Set to None to take every Follow button off the records site.
-FOLLOW_URL = "https://www.gapublicservice.org/follow/"
+# Early sign-up while the Ghost site is private. At launch, point this back
+# to "https://www.gapublicservice.org/follow/" and the buttons back to "Follow".
+FOLLOW_URL = "https://gapublicservice-follow.netlify.app/presignup/"
+FOLLOW_LABEL = "Sign up early"
+FOLLOW_DOCKET_LABEL = "Sign up early"
 PINNED = [
     {"label": "Affordability", "docket": None,
      "title": "Affordability docket",
@@ -697,7 +701,7 @@ def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict 
             lines = f'<p class="muted pin-note">{e(pin["note"])}</p>' + lines
         if v.get("contested"):
             lines += '<p><span class="tag dis">Contested</span></p>'
-        follow = (f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow</a>' if FOLLOW_URL else "")
+        follow = (f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_LABEL}</a>' if FOLLOW_URL else "")
         cards.append(f'<div class="pin"><div class="pin-top"><span class="pin-label">{e(pin["label"])}</span>'
                      f'<a class="mono pin-dk" href="docket/{d}/">{d}</a></div>'
                      f'<h3><a href="docket/{d}/">{e(_short(docket_title([], d), 90))}</a></h3>{lines}{follow}</div>')
@@ -864,7 +868,7 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow this docket</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
+<p class="btns">{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 {positions.docket_link(d, pos_docs)}
