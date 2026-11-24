@@ -1,0 +1,78 @@
+name: Meeting transcript
+
+# Unofficial transcripts of Commission administrative sessions and committee
+# meetings, from the Commission's YouTube stream. Run by hand for one meeting
+# (give url, date and kind), or leave url blank to transcribe the oldest
+# meetings since July 1, 2026 that have no transcript yet (up to "limit").
+# Only the audio is downloaded; no copy of the video is kept or posted.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "The meeting's YouTube page (blank: find untranscribed meetings)"
+        required: false
+        default: ""
+      date:
+        description: "Meeting date, YYYY-MM-DD (with url)"
+        required: false
+        default: ""
+      kind:
+        description: "session or committee (with url)"
+        required: false
+        default: "session"
+      limit:
+        description: "How many to do when url is blank"
+        required: false
+        default: "2"
+      model:
+        default: "small.en"
+
+concurrency:
+  group: meeting-transcript
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+      - run: pip install -q yt-dlp faster-whisper
+      - name: Pick meetings
+        env:
+          URL: ${{ github.event.inputs.url }}
+          DATE: ${{ github.event.inputs.date }}
+          KIND: ${{ github.event.inputs.kind }}
+          LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          if [ -n "$URL" ]; then
+            python -c 'import json,os; print(json.dumps([{"url":os.environ["URL"],"date":os.environ["DATE"],"kind":os.environ["KIND"]}]))' > _todo.json
+          else
+            python -m harvester.meetings find --limit "$LIMIT" > _todo.json
+          fi
+          cat _todo.json
+      - name: Transcribe and commit each
+        env:
+          MODEL: ${{ github.event.inputs.model }}
+        run: |
+          git config user.name "records-harvester"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python -c 'import json; [print(m["url"], m["date"], m["kind"]) for m in json.load(open("_todo.json"))]' |
+          while read -r url date kind; do
+            id="$date-$kind"
+            python -m harvester.meetings pull "$url" --date "$date" --kind "$kind"
+            python -m harvester.meetings transcribe --id "$id" --model "$MODEL"
+            rm -f _audio/"$id".*
+            git add data/meetings/"$id"
+            git commit -q -m "Meeting transcript $id (unofficial)"
+            ok=0
+            for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && ok=1 && break; sleep $((i*10)); done
+            [ "$ok" = 1 ] || exit 1
+          done
