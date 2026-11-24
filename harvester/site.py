@@ -220,8 +220,9 @@ def timeline_events(fs: list[dict], meta: dict, agenda_items: list[dict], cal: l
     if meta.get("date"):
         ev.append({"date": meta["date"][:10], "kind": "opened", "label": "Docket opened", "text": "", "href": ""})
     dated = [r for r in fs if r.get("filed_date") and r["filed_date"] >= "1990"]
-    if dated:
-        first = min(dated, key=lambda r: (r["filed_date"], r["document_id"]))
+    first = min(dated, key=lambda r: (r["filed_date"], r["document_id"])) if dated else None
+    if first and not (ORDER_RX.search(first.get("description") or "") and (first.get("company") or "").startswith(("GPSC", "Hearing Officer"))) \
+            and not TRANSCRIPT_RX.search(first.get("description") or "") and not first.get("disagreement"):
         ev.append({"date": first["filed_date"], "kind": "filing", "label": "First filing in the record",
                    "text": f'{first.get("company") or "No filer named"}: {(first.get("description") or "").strip()}',
                    "href": f'{PSC_DOC}{first["document_id"]}'})
@@ -1095,9 +1096,9 @@ def build():
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
 <p class="btns">{'<a class="pin-follow" href="#timeline">Timeline</a> ' if fs else ""}{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
+{timeline_html(fs, meta, on_agenda.get(d, []), events, d, now)}
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 {positions.docket_link(d, pos_docs)}
-{timeline_html(fs, meta, on_agenda.get(d, []), events, d, now)}
 {docket_laws(v)}
 <h2 id="filings">Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
