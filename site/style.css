@@ -43,6 +43,9 @@ td.mono:first-child{white-space:nowrap}
 td.num,th.num{text-align:right}
 .tag{display:inline-block;font:500 11px/1 "IBM Plex Mono",monospace;padding:4px 6px;margin:2px 4px 2px 0;background:var(--tint);border:1px solid var(--line);white-space:nowrap}
 .tag.dis{background:#fff4dc;border-color:var(--amber)}
+a.tag.law{color:inherit;text-decoration:none;border-style:dashed}
+a.tag.law:hover{border-color:var(--ink,#111)}
+.tag.proc{background:transparent}
 .muted{color:var(--muted)}
 .file{display:inline-block;font:500 11px/1 "IBM Plex Mono",monospace;padding:4px 6px;margin:2px 4px 2px 0;border:1px solid var(--ink);white-space:nowrap;vertical-align:baseline}
 a.file.ok{text-decoration:none;background:var(--paper)}

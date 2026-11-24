@@ -9,7 +9,7 @@ class SiteTest(unittest.TestCase):
                  "counties_in_title": ["Chatham"], "disagreement": ["objection"]}]
         d = site.build_search_data(rows)
         self.assertEqual(d["units"], ["Electric"])
-        self.assertEqual(d["filings"][0], [1, "2026-01-02", "A", [5], "Objection", [0], [0], ["Chatham"], 1, []])
+        self.assertEqual(d["filings"][0], [1, "2026-01-02", "A", [5], "Objection", [0], [0], ["Chatham"], 1, [], []])
 
     def test_file_marker(self):
         one = site.file_marker(7, {"state": "available", "public": [9], "confidential": 0})

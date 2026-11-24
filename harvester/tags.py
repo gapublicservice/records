@@ -21,6 +21,7 @@ import json
 import re
 from pathlib import Path
 
+from . import legal
 from .regions import REGION_OF
 from .run import DATA, ROOT, save_json
 
@@ -177,6 +178,14 @@ def places(rec: dict, text: str) -> dict:
     return out
 
 
+def _docket_title(d) -> str:
+    p = DATA / "dockets" / f"{d}.json"
+    try:
+        return json.loads(p.read_text()).get("title") or ""
+    except (OSError, json.JSONDecodeError):
+        return ""
+
+
 def build() -> tuple[list[dict], dict]:
     recs = []
     for p in sorted((DATA / "filings").glob("*/*.json")):
@@ -205,6 +214,7 @@ def build() -> tuple[list[dict], dict]:
         "filings": 0, "disagreement_filings": 0, "disagreeing_filers": set(),
         "counties": collections.Counter(), "regions": collections.Counter(),
         "regions_in_text": collections.Counter(),
+        "laws": collections.Counter(), "laws_cited": collections.Counter(),
         "units": [], "first": None, "last": None})
     for r, units in rows:
         tags = {u: why for u, why in units.items()}
@@ -215,6 +225,7 @@ def build() -> tuple[list[dict], dict]:
         text = read_text(r)
         dis = disagreement(r)
         pl = places(r, text)
+        lg = legal.legal_hooks(r, text)
         row = {
             "document_id": r["document_id"], "filed_date": r.get("filed_date"),
             "company": r.get("company"), "dockets": r.get("dockets", []),
@@ -222,6 +233,8 @@ def build() -> tuple[list[dict], dict]:
             "units": sorted(tags), "unit_reasons": tags,
             "committees": sorted({COMMITTEE[u] for u in tags if u in COMMITTEE}),
             "disagreement": dis, **pl,
+            "legal": lg["legal"], "legal_reasons": lg["legal_reasons"],
+            "laws_cited": lg["laws_cited"],
             "files": file_status(r),
         }
         index.append(row)
@@ -239,6 +252,10 @@ def build() -> tuple[list[dict], dict]:
                 k["regions"][g] += 1
             for g in pl["regions_in_text"]:
                 k["regions_in_text"][g] += 1
+            for g in lg["legal"]:
+                k["laws"][g] += 1
+            for c in lg["laws_cited"]:
+                k["laws_cited"][c] += 1
             fd = r.get("filed_date")
             if fd and fd >= "1990":
                 k["first"] = min(filter(None, [k["first"], fd]))
@@ -258,6 +275,12 @@ def build() -> tuple[list[dict], dict]:
             # commission, and (apart) filings that name one only in their text.
             "regions": dict(k["regions"].most_common()),
             "regions_in_text": dict(k["regions_in_text"].most_common()),
+            # Filings on this docket that carry each law tag, and every
+            # non-procedural section or rule they cite, most cited first.
+            "laws": dict(k["laws"].most_common()),
+            "laws_cited": dict(k["laws_cited"].most_common(30)),
+            # Proceeding types from the docket's own title on the Commission's site.
+            "proceedings": legal.proceedings(_docket_title(d)),
         }
     return index, out
 

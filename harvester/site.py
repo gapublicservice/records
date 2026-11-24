@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, ics, infrastructure, positions, wire
+from . import corrections, ics, infrastructure, legal, positions, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -149,6 +149,7 @@ def filing_row(r: dict, depth: int, show_docket: bool = True) -> str:
     tags = "".join(f'<span class="tag">{e(u)}</span>' for u in r["units"])
     tags += "".join(f'<span class="tag">{e(c)} County</span>' for c in r["counties_in_title"])
     tags += "".join(f'<span class="tag dis">{e(x)}</span>' for x in r["disagreement"])
+    tags += law_tags(r, up)
     cells = [f'<td class="mono">{e(r.get("filed_date") or "")}</td>']
     if show_docket:
         cells.append(f"<td>{dk}</td>")
@@ -173,8 +174,81 @@ def docket_title(rows: list[dict], d=None) -> str:
     return (first.get("description") or "").strip()
 
 
+def law_tags(r: dict, up: str = "") -> str:
+    """Law tags on a filing. Each is a link to its entry on the law tags page,
+    with the citation that set it as hover text, so a reader can see why."""
+    out = []
+    for g in r.get("legal") or []:
+        why = (r.get("legal_reasons") or {}).get(g, "")
+        out.append(f'<a class="tag law" href="{up}laws.html#{law_slug(g)}" title="Set automatically: {e(why)}">§ {e(g)}</a>')
+    return "".join(out)
+
+
+def law_slug(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def _cite_link(c: str) -> str:
+    ref = f"Rule {c}" if c.startswith("515-") else f"§ {c}"
+    url = legal.code_url(c)
+    return f'<a class="mono" href="{e(url)}">{e(ref)}</a>' if url else f'<span class="mono">{e(ref)}</span>'
+
+
+def docket_laws(v: dict) -> str:
+    """Laws and Commission rules this docket's filings cite, with links to the
+    free official text of each Code section (never copied here)."""
+    cited = v.get("laws_cited") or {}
+    if not cited:
+        return ""
+    trs = "".join(
+        f'<tr><td>{_cite_link(c)}</td><td>{e(legal.law_of(c) or "")}</td><td class="num mono">{n:,}</td></tr>'
+        for c, n in cited.items())
+    return f"""<h2>Laws cited on this docket</h2>
+<p class="muted">Every Georgia Code section or Commission rule that a filing here cites by number, found automatically in filing titles and stored text, most cited first. Procedural citations (discovery, intervention, trade secrets, notice) are left out. Code links go to the free text of the law on Justia, and rule links to the Secretary of State's official rules site; a section shown without a link is one whose page hasn't been checked yet. <a href="../../laws.html">How law tags work</a>.</p>
+<table><thead><tr><th>Cited</th><th>Law tag</th><th class="num">Filings</th></tr></thead><tbody>{trs}</tbody></table>"""
+
+
+def laws_page(rows: list[dict], dockets: dict, now: str) -> str:
+    by_law = collections.defaultdict(list)
+    cites = collections.defaultdict(collections.Counter)
+    for r in rows:
+        for g in r.get("legal") or []:
+            by_law[g].append(r)
+        for c in r.get("laws_cited") or []:
+            g = legal.law_of(c)
+            if g:
+                cites[g][c] += 1
+    week_ago = (dt.date.fromisoformat(now) - dt.timedelta(days=7)).isoformat()
+    recent = sorted((r for r in rows if r.get("legal") and (r.get("filed_date") or "") >= week_ago),
+                    key=lambda r: (r.get("filed_date") or "", r["document_id"]), reverse=True)
+    rec_rows = "".join(
+        f'<tr><td class="mono">{e(r.get("filed_date") or "")}</td><td>{" ".join(f"<a class=mono href=docket/{d}/>{d}</a>" for d in r["dockets"])}</td>'
+        f'<td><a href="{PSC_DOC}{r["document_id"]}">{e(_short((r.get("description") or "").strip() or "(no description)", 120))}</a></td>'
+        f'<td>{"<br>".join(f"<strong>{e(g)}</strong>: {e(r["legal_reasons"].get(g, ""))}" for g in r["legal"])}</td></tr>'
+        for r in recent)
+    sections = []
+    for g in legal.LAW_NAMES:
+        fs = by_law.get(g)
+        if not fs:
+            continue
+        dk = collections.Counter(d for r in fs for d in r["dockets"])
+        top = ", ".join(f'<a class="mono" href="docket/{d}/">{d}</a> ({n})' for d, n in dk.most_common(8))
+        secs = ", ".join(f"{_cite_link(c)} ({n})" for c, n in cites[g].most_common(12))
+        sections.append(f"""<h3 id="{law_slug(g)}">{e(g)}</h3>
+<p><a href="index.html?law={html.escape(g, quote=True)}">{len(fs):,} filing{"s" if len(fs) != 1 else ""}</a> on {len(dk):,} docket{"s" if len(dk) != 1 else ""}. Sections cited: {secs}.</p>
+<p class="muted">Most cited on dockets {top}.</p>""")
+    return f"""<div class="kicker">Law tags</div><h1>Which laws the filings cite</h1>
+<p class="lede">A filing gets a law tag when its title or stored text cites a section of the Official Code of Georgia or a Commission rule by number. The tag names the law the section belongs to and carries the citation that set it. It says what a filing cites, not what it argues or whether it is right.</p>
+<div class="note">Tags are set automatically by a written rule and checked by hand each week. Text is stored only for the dockets the record follows most closely, so a filing on another docket is tagged only from its title. Procedural citations that appear in most contested filings (Staff discovery, intervention, trade-secret handling, notice, contested-case procedure, open records) are counted but not tagged. Links go to the free text of the Code on Justia and of the Commission's rules on the Secretary of State's site; nothing from either is copied here. Each docket page lists every section its filings cite. Hand corrections are kept in the record's <a href="https://github.com/gapublicservice/records/blob/main/data/reference/legal_tag_fixes.json">law tag fixes</a> file.</div>
+<h2>Tagged in the last seven days</h2>
+{('<table class="wide"><thead><tr><th>Filed</th><th>Docket</th><th>Filing</th><th>Tag and why</th></tr></thead><tbody>' + rec_rows + "</tbody></table>") if rec_rows else '<p class="muted">No filing filed in the last seven days carries a law tag.</p>'}
+<h2>The laws</h2>
+{"".join(sections)}"""
+
+
 def build_search_data(rows):
     units = sorted({u for r in rows for u in r["units"]})
+    laws = [g for g in legal.LAW_NAMES if any(g in (r.get("legal") or []) for r in rows)]
     regions = sorted({g for r in rows for g in r["regions"]})
     compact = []
     for r in rows:
@@ -183,8 +257,9 @@ def build_search_data(rows):
                         [units.index(u) for u in r["units"]],
                         [regions.index(g) for g in r["regions"]],
                         r["counties_in_title"], 1 if r["disagreement"] else 0,
-                        file_compact(r.get("files"))])
-    return {"units": units, "regions": regions, "notes": FILE_NOTES, "filings": compact}
+                        file_compact(r.get("files")),
+                        [laws.index(g) for g in (r.get("legal") or []) if g in laws]])
+    return {"units": units, "regions": regions, "laws": laws, "notes": FILE_NOTES, "filings": compact}
 
 
 def file_compact(files: dict | None) -> list:
@@ -197,9 +272,9 @@ SEARCH_JS = r"""
 (async function(){
  const $=s=>document.querySelector(s);
  const res=await fetch('data/filings.json'); const D=await res.json();
- const U=D.units, G=D.regions, F=D.filings.sort((a,b)=>b[1].localeCompare(a[1])||b[0]-a[0]);
+ const U=D.units, G=D.regions, L=D.laws||[], F=D.filings.sort((a,b)=>b[1].localeCompare(a[1])||b[0]-a[0]);
  const fill=(sel,arr,label)=>{sel.innerHTML='<option value="">'+label+'</option>'+arr.map((x,i)=>'<option value="'+i+'">'+x+'</option>').join('')};
- fill($('#unit'),U,'Any staff unit'); fill($('#region'),G,'Any region');
+ fill($('#unit'),U,'Any staff unit'); fill($('#region'),G,'Any region'); if($('#law'))fill($('#law'),L,'Any law cited');
  const years=[...new Set(F.map(f=>f[1].slice(0,4)).filter(Boolean))].sort().reverse();
  $('#year').innerHTML='<option value="">Any year</option>'+years.map(y=>'<option>'+y+'</option>').join('');
  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -220,14 +295,17 @@ SEARCH_JS = r"""
   const dk=f[3].map(d=>'<a class="mono" href="docket/'+d+'/">'+d+'</a>').join(' ')||'<span class="muted">none</span>';
   let tags=f[5].map(i=>'<span class="tag">'+esc(U[i])+'</span>').join('')+f[7].map(c=>'<span class="tag">'+esc(c)+' County</span>').join('');
   if(f[8]) tags+='<span class="tag dis">disagreement</span>';
+  tags+=(f[10]||[]).map(i=>'<a class="tag law" href="laws.html#'+L[i].toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'" title="Set automatically from a citation in the filing">§ '+esc(L[i])+'</a>').join('');
   return '<tr><td class="mono">'+esc(f[1])+'</td><td>'+dk+'</td><td>'+esc(f[2]||'No filer named')+'</td><td><a href="https://psc.ga.gov/search/facts-document/?documentId='+f[0]+'">'+esc(f[4]||'(no description)')+'</a><br>'+file(f)+tags+'</td></tr>';
  }
  function run(){
   const q=$('#q').value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const lw=$('#law')?$('#law').value:'';
   const u=$('#unit').value, g=$('#region').value, y=$('#year').value, dis=$('#dis').checked, hf=$('#hasfile')&&$('#hasfile').checked;
   hits=F.filter(f=>{
    if(u!==''&&!f[5].includes(+u))return false;
    if(g!==''&&!f[6].includes(+g))return false;
+   if(lw!==''&&!(f[10]||[]).includes(+lw))return false;
    if(y&&!f[1].startsWith(y))return false;
    if(dis&&!f[8])return false;
    if(hf&&!(f[9]&&f[9][0]===0))return false;
@@ -237,15 +315,15 @@ SEARCH_JS = r"""
   });
   shown=0; $('#rows').innerHTML=''; more();
   $('#count').textContent=hits.length.toLocaleString()+' filing'+(hits.length===1?'':'s');
-  const p=new URLSearchParams(); if($('#q').value)p.set('q',$('#q').value); if(u)p.set('unit',U[u]); if(g)p.set('region',G[g]); if(y)p.set('year',y); if(dis)p.set('dis','1'); if(hf)p.set('file','1');
+  const p=new URLSearchParams(); if($('#q').value)p.set('q',$('#q').value); if(u)p.set('unit',U[u]); if(g)p.set('region',G[g]); if(y)p.set('year',y); if(dis)p.set('dis','1'); if(hf)p.set('file','1'); if(lw!=='')p.set('law',L[lw]);
   history.replaceState(null,'',p.toString()?'?'+p:location.pathname);
  }
  function more(){const next=hits.slice(shown,shown+100);$('#rows').insertAdjacentHTML('beforeend',next.map(row).join(''));shown+=next.length;$('#more').style.display=shown<hits.length?'':'none'}
  const P=new URLSearchParams(location.search);
  if(P.get('q'))$('#q').value=P.get('q'); if(P.get('unit'))$('#unit').value=U.indexOf(P.get('unit')); if(P.get('region'))$('#region').value=G.indexOf(P.get('region'));
- if(P.get('year'))$('#year').value=P.get('year'); if(P.get('dis'))$('#dis').checked=true; if(P.get('file')&&$('#hasfile'))$('#hasfile').checked=true;
+ if(P.get('year'))$('#year').value=P.get('year'); if(P.get('dis'))$('#dis').checked=true; if(P.get('file')&&$('#hasfile'))$('#hasfile').checked=true; if(P.get('law')&&$('#law'))$('#law').value=L.indexOf(P.get('law'));
  let t; $('#q').addEventListener('input',()=>{clearTimeout(t);t=setTimeout(run,150)});
- ['#unit','#region','#year','#dis'].forEach(s=>$(s).addEventListener('change',run));
+ ['#unit','#region','#year','#dis','#law'].forEach(s=>{if($(s))$(s).addEventListener('change',run)});
  $('#more').addEventListener('click',more); run();
 })();
 """
@@ -812,7 +890,7 @@ def build():
 {stats}
 {copied_note("Filings are copies.", last_nightly)}
 <div class="search"><input id="q" type="search" placeholder="Search filer, title, docket or county" aria-label="Search">
-<select id="unit" aria-label="Staff unit"></select><select id="region" aria-label="Region"></select><select id="year" aria-label="Year"></select></div>
+<select id="unit" aria-label="Staff unit"></select><select id="region" aria-label="Region"></select><select id="law" aria-label="Law cited"></select><select id="year" aria-label="Year"></select></div>
 <div class="row2"><label><input type="checkbox" id="dis"> Only filings that object, oppose or ask for rehearing</label><label><input type="checkbox" id="hasfile"> Only filings with a file to download</label><span id="count" class="mono"></span></div>
 <table class="wide"><thead><tr><th>Filed</th><th>Docket</th><th>Filer</th><th>Filing</th></tr></thead><tbody id="rows"></tbody></table>
 <button id="more" class="more">Show 100 more</button>
@@ -853,6 +931,7 @@ def build():
         title = docket_title(by_docket.get(int(d), []), d)
         badge = '<span class="tag dis">contested</span>' if v["contested"] else ""
         regs = "".join(f'<span class="tag">{e(g)}</span>' for g in v.get("regions", {}))
+        regs += "".join(f'<span class="tag proc" title="Set automatically: {e(why)}">{e(g)}</span>' for g, why in (v.get("proceedings") or {}).items())
         return (f'<tr><td><a class="mono" href="docket/{d}/">{d}</a></td><td>{e(title[:160])}<br>{badge}'
                 f'{"".join(f"<span class=tag>{e(u)}</span>" for u in v["units"])}{regs}</td>'
                 f'<td class="num mono">{v["filings"]:,}</td><td class="mono">{e(v["last_filed"] or "")}</td></tr>')
@@ -881,6 +960,8 @@ def build():
                  ("First and last filed", f"{v['first_filed'] or '?'} to {v['last_filed'] or '?'}"),
                  ("Staff unit", ", ".join(v["units"]) or "not tagged"),
                  ("Committee", ", ".join(v["committees"]) or "not tagged")]
+        if v.get("proceedings"):
+            facts.append(("Kind of proceeding (from the docket's title)", ", ".join(v["proceedings"])))
         if v.get("regions"):
             facts.append(("Regions named in filing titles", ", ".join(f"{g} ({n})" for g, n in v["regions"].items())))
         fst = collections.Counter((r.get("files") or {}).get("state") for r in fs)
@@ -904,6 +985,7 @@ def build():
 <table>{stat}</table>
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 {positions.docket_link(d, pos_docs)}
+{docket_laws(v)}
 <h2>Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
@@ -942,6 +1024,7 @@ def build():
 <table class="wide"><thead><tr><th>Region and counties</th><th class="num">Added MW</th><th class="num">Retired MW</th><th class="num">Planned MW</th><th>Largest plants</th><th class="num">Dockets</th></tr></thead><tbody>{"".join(trs)}</tbody></table>
 {grid}"""
     (OUT / "regions.html").write_text(page("Regions", body, "regions"))
+    (OUT / "laws.html").write_text(page("Law tags", laws_page(rows, dockets, now), "search"))
     positions.write(OUT, page, copied_note("Positions are summaries of filings copied from the Commission.", last_nightly))
 
     # About
@@ -955,7 +1038,7 @@ def build():
 <p>The Commission has no single feed of new filings. Every filing has its own numbered page, so each night at 3 AM a program walks the numbers forward, stores what it finds and rechecks recent numbers the Commission fills in late. The code and every stored record are public at <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a>.</p>
 <p>Trade-secret versions of filings are never public and are never stored here. A file is held back when its name, the filing's description, the file's own title or a banner on its first pages marks it as a trade secret or confidential, unless it calls itself the public version; such a file is listed, with a link to the Commission's page, but its text is not kept.</p>
 <h2>How the tags work</h2>
-<p>Every tag is a written rule applied to what the Commission published, and each carries the rule that set it. <strong>Staff unit and committee</strong> follow the Commission's own 2025 annual report. <strong>Counties</strong> are those a filing's title names. <strong>Disagreement</strong> means a filing's own title objects, opposes, complains, protests, takes exceptions, appeals, asks for rehearing or moves to compel, dismiss or strike. None of this is a judgment about who is right.</p>
+<p>Every tag is a written rule applied to what the Commission published, and each carries the rule that set it. <strong>Staff unit and committee</strong> follow the Commission's own 2025 annual report. <strong>Counties</strong> are those a filing's title names. <strong>Disagreement</strong> means a filing's own title objects, opposes, complains, protests, takes exceptions, appeals, asks for rehearing or moves to compel, dismiss or strike. <strong>Law tags</strong>, marked §, mean a filing's title or stored text cites a section of the Georgia Code or a Commission rule by number; <a href="laws.html">how law tags work</a>. <strong>Kind of proceeding</strong>, on docket pages, comes from words in the docket's own title, such as "rate case" or "fuel cost recovery". None of this is a judgment about who is right.</p>
 <h2>How to check a record</h2>
 <p>Every filing links to the Commission's own page. Each stored file carries a SHA-256 fingerprint of the file as downloaded, so anyone can download the original and confirm it is the same. Each Friday five records chosen at random are checked by hand against the Commission's pages, and the result is posted in the record.</p>
 <h2>Files and downloads</h2>
