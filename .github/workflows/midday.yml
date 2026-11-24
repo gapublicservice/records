@@ -30,6 +30,8 @@ jobs:
       - name: Look for new filings
         run: python -m harvester.run nightly --midday --max-minutes 30
       - name: Tag units, committees, places and disagreements
+        if: always()
         run: python -m harvester.tags
       - name: Save to the record
-        run: scripts/save.sh "Midday check $(date -u +%F)" nightly
+        if: always()
+        run: scripts/save.sh "Midday check $(date -u +%F)${{ job.status != 'success' && ' (stopped partway)' || '' }}" nightly

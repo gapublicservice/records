@@ -15,7 +15,8 @@ import sys
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
-NIGHTLY_KEYS = ("empty", "gaps", "last_nightly", "last_midday")
+NIGHTLY_KEYS = ("empty", "gaps", "last_nightly", "last_nightly_at", "last_midday",
+                "last_nightly_error", "last_midday_error")
 
 
 def filing_exists(doc_id: int) -> bool:
@@ -29,6 +30,8 @@ def merge(theirs: dict, ours: dict, owner: str, cursor: str | None = None,
         for key in NIGHTLY_KEYS:
             if key in ours:
                 out[key] = ours[key]
+            elif key.endswith("_error"):
+                out.pop(key, None)  # our run finished, so its error is cleared
     else:
         cursors = dict(theirs.get("backfill_cursor", {}))
         if cursor:

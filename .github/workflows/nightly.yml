@@ -46,7 +46,11 @@ jobs:
         if: always()
         run: python -m harvester.digest
       - name: Save to the record
-        run: scripts/save.sh "Nightly harvest $(date -u +%F)" nightly
+        # Saves whatever the steps above stored, even when one of them failed,
+        # so a failed night loses nothing. A failed harvest is not counted as a
+        # finished copy: the site keeps the time of the last run that finished.
+        if: always()
+        run: scripts/save.sh "Nightly harvest $(date -u +%F)${{ job.status != 'success' && ' (stopped partway)' || '' }}" nightly
       - name: Email docket alerts (only dockets with new filings tonight and at least one follower)
         if: success()
         env:

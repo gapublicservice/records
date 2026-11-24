@@ -162,7 +162,7 @@ def collect(events: list[dict], old: dict, fetch: Fetcher, today: dt.date,
         if not found:
             continue
         prev = {f["url"]: f for f in (old.get(ev["url"]) or {}).get("files", [])}
-        files = []
+        files, failed = [], set()
         for f in found:
             rec = {"name": f["name"], "url": f["url"], "label": label_for(f["name"])}
             try:
@@ -173,12 +173,16 @@ def collect(events: list[dict], old: dict, fetch: Fetcher, today: dt.date,
                 files_read += 1
             except Exception as err:  # noqa: BLE001
                 print(f"could not read {f['url']}: {err}")
+                failed.add(f["url"])
                 rec["items"] = prev.get(f["url"], {}).get("items", [])
                 if prev.get(f["url"], {}).get("text"):
                     rec["text"] = prev[f["url"]]["text"]
             files.append(rec)
+        read_any = any("text" in f and f["url"] not in failed for f in files)
+        read_at = (dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds") if read_any
+                   else (old.get(ev["url"]) or {}).get("read"))
         out[ev["url"]] = {"date": ev["date"], "time": ev["time"], "title": ev["title"], "kind": ev["kind"],
-                          "files": files, "read": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+                          "files": files, "read": read_at,
                           "dockets": sorted({i["docket"] for f in files for i in f["items"]})}
     return out, pages, files_read
 
@@ -200,6 +204,14 @@ def main(argv=None) -> int:
     events = json.loads(CALENDAR.read_text()).get("events", [])
     today = dt.datetime.now(EASTERN).date()
     out, pages, files_read = collect(events, load(), Fetcher(), today, a.back, a.ahead)
+    in_range = sum(1 for ev in events
+                   if (today - dt.timedelta(days=a.back)).isoformat() <= ev["date"]
+                   <= (today + dt.timedelta(days=a.ahead)).isoformat())
+    old_checked = json.loads(OUT.read_text()).get("checked") if OUT.exists() else None
+    if in_range and not pages:
+        # The Commission's site did not answer: keep the last copy and its time.
+        print(f"could not read any of {in_range} event pages; keeping the copy from {old_checked}")
+        return 1
     save_json(OUT, {"source": BASE + "/agendas-calendars/commission-calendar/",
                     "checked": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
                     "events": dict(sorted(out.items(), key=lambda kv: kv[1]["date"]))})

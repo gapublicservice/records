@@ -129,7 +129,8 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <p><strong>{e(FOOTER)}</strong></p>
 <p>{e(SPONSOR)} Records are copied each night from the Commission's public site; each one links to the original.</p>
 {f'<p><a href="{up}corrections.html">Corrections</a>: how we fix mistakes, and every fix we have made.</p>' if corrections.enabled() else ""}
-<p class="mono">Built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC · data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
+<p class="mono">{e(f"Filings last copied {_when(NIGHTLY_AT)}. " if NIGHTLY_AT else "")}{e(STALE + " " if STALE else "")}Data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
+<!-- page built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC -->
 </div></footer>
 <script>document.addEventListener('click',function(v){{var b=v.target.closest('.file.no');document.querySelectorAll('.file.no.open').forEach(function(x){{if(x!==b)x.classList.remove('open')}});if(b)b.classList.toggle('open')}});document.addEventListener('keydown',function(v){{if(v.key==='Escape')document.querySelectorAll('.file.no.open').forEach(function(x){{x.classList.remove('open')}})}});</script>
 </body></html>
@@ -328,7 +329,35 @@ def _when(iso: str | None) -> str:
 def copied_note(what: str, checked: str | None) -> str:
     """The standing note on anything copied from the Commission: when, and how long changes take."""
     when = f" Last copied {_when(checked)}." if checked else ""
-    return f'<p class="copied"><b>{e(what)}</b>{e(when)} {e(LAG)}</p>'
+    warn = f" {STALE}" if STALE and checked and checked == NIGHTLY_AT else ""
+    return f'<p class="copied"><b>{e(what)}</b>{e(when)}{e(warn)} {e(LAG)}</p>'
+
+
+# Set by build() from data/state.json: when the last nightly copy that
+# finished, finished, and a warning when a later one stopped partway or none
+# has finished for a day and a half. The footer shows this, not the build time,
+# so a rebuild after a failed night never looks like fresh data.
+NIGHTLY_AT: str | None = None
+STALE = ""
+STALE_HOURS = 30
+
+
+def copy_status(state: dict, now: dt.datetime | None = None) -> tuple[str | None, str]:
+    now = now or dt.datetime.now(dt.timezone.utc)
+    at = state.get("last_nightly_at") or state.get("last_nightly")
+    err = state.get("last_nightly_error") or {}
+    if not at:
+        return None, ""
+    if len(at) == 10:  # a date only: count from the 3 AM Eastern run
+        finished = dt.datetime.fromisoformat(at + "T08:00:00+00:00")
+    else:
+        finished = dt.datetime.fromisoformat(at.replace("Z", "+00:00"))
+    if err.get("at") and err["at"] > (at if len(at) > 10 else finished.isoformat()):
+        return at, ("The latest nightly copy stopped partway, so some newer filings may be "
+                    "missing until the next full copy.")
+    if now - finished > dt.timedelta(hours=STALE_HOURS):
+        return at, "No nightly copy has finished since then, so newer filings may be missing."
+    return at, ""
 
 
 def agenda_slug(ev_url: str) -> str:
@@ -730,6 +759,9 @@ def latest_strip(rows: list[dict], n: int = 10) -> str:
 
 
 def build():
+    global NIGHTLY_AT, STALE
+    state0 = json.loads((DATA / "state.json").read_text()) if (DATA / "state.json").exists() else {}
+    NIGHTLY_AT, STALE = copy_status(state0)
     rows, dockets = load()
     by_docket = collections.defaultdict(list)
     for r in rows:
@@ -767,7 +799,7 @@ def build():
     agendas = load_agendas()
     cal_meta = _meta("calendar.json")
     agendas_checked = _meta("agendas.json").get("checked")
-    last_nightly = json.loads((DATA / "state.json").read_text()).get("last_nightly") if (DATA / "state.json").exists() else None
+    last_nightly = NIGHTLY_AT
     on_agenda = agendas_by_docket(agendas, dockets)
     pos_docs = positions.load()
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-5))).date().isoformat()

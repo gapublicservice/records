@@ -59,8 +59,11 @@ def load_state() -> dict:
 
 
 def save_json(path: Path, obj) -> None:
+    """Write whole or not at all: a run that dies mid-write leaves the last good copy."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text(json.dumps(obj, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
+    os.replace(tmp, path)
 
 
 def withhold(att: dict, reason: str) -> None:
@@ -160,7 +163,14 @@ def log_day(new_ids: list[int], folder: Path | None = None) -> None:
     save_json(p, sorted(set(existing) | set(new_ids)))
 
 
+def now_utc() -> str:
+    return dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
+
+
 def nightly(args) -> int:
+    """Walk the filings. If the walk fails partway, everything stored so far is
+    kept and saved, but the run is not counted as a finished copy: the site
+    keeps showing the time of the last run that finished."""
     fetcher = Fetcher(pause=args.pause)
     state = load_state()
     start = state.get("highest_found") or args.seed
@@ -168,7 +178,21 @@ def nightly(args) -> int:
         print("No starting number: pass --seed the latest known filing number.", file=sys.stderr)
         return 2
     new_ids: list[int] = []
+    midday = getattr(args, "midday", False)
+    try:
+        _walk(fetcher, state, start, new_ids, args)
+    except Exception as err:
+        state["gaps"] = sorted(set(state.get("gaps", [])))
+        key = "last_midday_error" if midday else "last_nightly_error"
+        state[key] = {"at": now_utc(), "error": type(err).__name__, "stored": len(new_ids)}
+        save_json(STATE, state)
+        log_day(new_ids, MIDDAY if midday else None)
+        print(f"run stopped after {len(new_ids)} new filings: {type(err).__name__}: {err}", file=sys.stderr)
+        return 1
+    return _finish(state, new_ids, midday)
 
+
+def _walk(fetcher: Fetcher, state: dict, start: int, new_ids: list[int], args) -> None:
     # 1. Recheck recent empty numbers.
     cutoff = (dt.date.fromisoformat(today()) - dt.timedelta(days=RECHECK_DAYS)).isoformat()
     for key, first in sorted(state["empty"].items()):
@@ -201,15 +225,20 @@ def nightly(args) -> int:
         doc_id += 1
     # Trailing empties above the highest hit are simply tried again tomorrow.
 
+
+def _finish(state: dict, new_ids: list[int], midday: bool) -> int:
     state["gaps"] = sorted(set(state.get("gaps", [])))
-    if getattr(args, "midday", False):
+    if midday:
         # The midday check logs apart from the nightly log, so the morning's
         # docket alerts and "Last night" list still pick these filings up.
-        state["last_midday"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
+        state["last_midday"] = now_utc()
+        state.pop("last_midday_error", None)
         save_json(STATE, state)
         log_day(new_ids, MIDDAY)
     else:
         state["last_nightly"] = today()
+        state["last_nightly_at"] = now_utc()
+        state.pop("last_nightly_error", None)
         save_json(STATE, state)
         yesterday = (dt.date.fromisoformat(today()) - dt.timedelta(days=1)).isoformat()
         mid = MIDDAY / f"{yesterday}.json"
