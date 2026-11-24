@@ -100,10 +100,13 @@ def store(fetcher: Fetcher, f: Filing, with_text: bool) -> dict:
     return rec
 
 
-def log_day(new_ids: list[int]) -> None:
+MIDDAY = DATA / "midday"
+
+
+def log_day(new_ids: list[int], folder: Path | None = None) -> None:
     if not new_ids:
         return
-    p = DATA / "daily" / f"{today()}.json"
+    p = (folder or DATA / "daily") / f"{today()}.json"
     existing = json.loads(p.read_text()) if p.exists() else []
     save_json(p, sorted(set(existing) | set(new_ids)))
 
@@ -150,9 +153,18 @@ def nightly(args) -> int:
     # Trailing empties above the highest hit are simply tried again tomorrow.
 
     state["gaps"] = sorted(set(state.get("gaps", [])))
-    state["last_nightly"] = today()
-    save_json(STATE, state)
-    log_day(new_ids)
+    if getattr(args, "midday", False):
+        # The midday check logs apart from the nightly log, so the morning's
+        # docket alerts and "Last night" list still pick these filings up.
+        state["last_midday"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
+        save_json(STATE, state)
+        log_day(new_ids, MIDDAY)
+    else:
+        state["last_nightly"] = today()
+        save_json(STATE, state)
+        yesterday = (dt.date.fromisoformat(today()) - dt.timedelta(days=1)).isoformat()
+        mid = MIDDAY / f"{yesterday}.json"
+        log_day(new_ids + (json.loads(mid.read_text()) if mid.exists() else []))
     print(f"nightly: {len(new_ids)} new filings; highest {state['highest_found']}; "
           f"{len(state['empty'])} numbers on the recheck list")
     return 0
@@ -273,6 +285,7 @@ def main(argv=None) -> int:
     n = sub.add_parser("nightly")
     n.add_argument("--seed", type=int, help="latest known filing number, first run only")
     n.add_argument("--max-minutes", type=float, default=90)
+    n.add_argument("--midday", action="store_true", help="the midday check: log to data/midday, leave last_nightly")
     n.set_defaults(func=nightly)
 
     b = sub.add_parser("backfill")

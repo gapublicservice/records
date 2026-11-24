@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
-NIGHTLY_KEYS = ("empty", "gaps", "last_nightly")
+NIGHTLY_KEYS = ("empty", "gaps", "last_nightly", "last_midday")
 
 
 def filing_exists(doc_id: int) -> bool:

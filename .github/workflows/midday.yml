@@ -1,0 +1,35 @@
+name: Midday check
+
+# Looks for new filings at about noon Eastern, so the wire and the record
+# catch same-day filings. It only walks forward for new filing numbers and
+# retags; meetings, agendas and docket titles wait for the nightly run.
+# Filings found here are logged to data/midday and folded into the next
+# morning's log, so docket alerts still go out once, with the 3 AM run.
+on:
+  schedule:
+    - cron: "0 17 * * 1-5"   # 12 PM Eastern standard time, weekdays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils antiword
+      - name: Look for new filings
+        run: python -m harvester.run nightly --midday --max-minutes 30
+      - name: Tag units, committees, places and disagreements
+        run: python -m harvester.tags
+      - name: Save to the record
+        run: scripts/save.sh "Midday check $(date -u +%F)" nightly

@@ -1,0 +1,12 @@
+<!doctype html><meta charset="utf-8"><title>Wire forms</title>
+<!-- Registers the "wire-statement" and "wire-flag" forms with Netlify Forms.
+     The forms people fill in are records.gapublicservice.org/send-a-quote.html
+     and records.gapublicservice.org/flag.html, which post here. Field names
+     must match those pages. -->
+<form name="wire-statement" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/quote-thanks/" hidden>
+<input name="bot-field"><input name="who"><input name="organization"><input name="date"><textarea name="quote"></textarea>
+<input name="link"><input name="docket"><input name="sender"><input name="contact">
+</form>
+<form name="wire-flag" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/flag-thanks/" hidden>
+<input name="bot-field"><input name="item"><select name="reason"><option>x</option></select><textarea name="details"></textarea><input name="contact">
+</form>

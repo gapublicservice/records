@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, ics, infrastructure, positions
+from . import corrections, ics, infrastructure, positions, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -104,7 +104,7 @@ def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -
 def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
     up = "../" * depth
     nav = [("index.html", "Search", "search"), ("dockets.html", "Dockets", "dockets"),
-           ("calendar.html", "Calendar", "calendar"), ("today.html", "Last night", "today"),
+           ("calendar.html", "Calendar", "calendar"), ("wire.html", "Wire", "wire"), ("today.html", "Last night", "today"),
            ("regions.html", "Regions", "regions"), ("positions.html", "Positions", "positions"),
            ("legislature/index.html", "Legislature", "legislature"),
            ("about.html", "About", "about")]
@@ -789,6 +789,17 @@ def build():
     (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked")), "calendar"))
     if EVENT_FORM_ON:
         (OUT / "submit-event.html").write_text(page("Add your event", submit_event_page(), "calendar"))
+    # The wire: its own page, a small feed for the main site's strip, and the
+    # statement and flag forms (both go to Netlify Forms for review).
+    state = json.loads((DATA / "state.json").read_text()) if (DATA / "state.json").exists() else {}
+    copied = max(filter(None, [state.get("last_midday"), last_nightly]), default=None)
+    wire_note = (f"Filings are copied from the Commission's site. Last copied {_when(copied)}. " if copied else
+                 "Filings are copied from the Commission's site. ") + wire.LAG
+    wire_items = wire.items(rows, now)
+    (OUT / "wire.html").write_text(page("The wire", wire.page_body(wire_items, wire_note), "wire"))
+    (OUT / "data" / "wire.json").write_text(json.dumps(wire.as_json(wire_items, wire_note), indent=1, ensure_ascii=False))
+    (OUT / "send-a-quote.html").write_text(page("Send a statement or quote", wire.send_page(), "wire"))
+    (OUT / "flag.html").write_text(page("Flag an item", wire.flag_page(), "wire"))
     (OUT / "data" / "upcoming.json").write_text(json.dumps(upcoming_json(allev, agendas, now, set(dockets), cal_meta.get("checked")), indent=1))
     n_ag = 0
     for url, ev in agendas.items():
