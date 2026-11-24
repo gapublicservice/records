@@ -5,3 +5,18 @@
   # Skip builds unless something in this folder changed, so the nightly
   # harvest's pushes don't use build minutes.
   ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- ."
+
+
+# Security headers for every page on the follow service.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+
+# The early sign-up page loads nothing but its own script and the docket titles.
+[[headers]]
+  for = "/presignup/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src https://records.gapublicservice.org; form-action 'self'; frame-ancestors 'none'; base-uri 'none'"
