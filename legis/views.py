@@ -38,8 +38,8 @@ VIDEO = store.DATA / "video"
 
 SIDES = ("for", "against_or_concerns")
 # A lone view may come from any approved source kind; Paul judges each one (Nov 24, "B").
-# The line shown under the empty side is not approved yet, so lone panels stay held until it is.
-EMPTY_SIDE_LINE_APPROVED = False
+# Paul approved the empty-side line as drafted (Nov 24). Each lone panel still needs his sign-off.
+EMPTY_SIDE_LINE_APPROVED = True
 EXCLUDED_ORGS = re.compile(r"\bGeorgia Conservation Voters\b|\bGCVEF?\b", re.I)
 CALL_TO_ACTION = re.compile(
     r"\b(call|contact|email|e-mail|write|tell|urge|ask)\s+(your|the|our)\s+"

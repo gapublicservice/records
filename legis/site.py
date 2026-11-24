@@ -186,7 +186,7 @@ def _member(name: str) -> str:
     return f"{m[2]} {m[1]} ({m[3]})" if m else (name or "")
 
 
-# Paul approved the intro Nov 24. NONE_YET is still a draft (views.EMPTY_SIDE_LINE_APPROVED).
+# Paul approved the intro and the empty-side lines Nov 24.
 VIEWS_INTRO = "Quoted from public sources and checked against them. Both sides are shown when both have one."
 NONE_YET = {
     "for": "No view in support that meets our standards has been found yet. Others will be added as they're published.",

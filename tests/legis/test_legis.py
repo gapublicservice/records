@@ -145,7 +145,8 @@ def test_single_view_needs_record_kind_and_sign_off():
     one = dict(panel, views=[v for v in panel["views"] if v["side"] == "for"])
     assert views.panel_status(one)["state"] == "held"  # no sign-off
     ok = dict(one, single_view_approved_by="Paul Glaze", single_view_approved_at="2026-11-24")
-    assert views.panel_status(ok)["state"] == "held"  # empty-side line not approved yet
+    views.EMPTY_SIDE_LINE_APPROVED = False
+    assert views.panel_status(ok)["state"] == "held"  # held if the line is ever withdrawn
     views.EMPTY_SIDE_LINE_APPROVED = True
     st = views.panel_status(ok)
     assert st["state"] == "live" and st["single"]
@@ -154,5 +155,4 @@ def test_single_view_needs_record_kind_and_sign_off():
     out = site.views_widget(bill)
     assert "No view against this bill or raising concerns that meets our standards has been found yet." in out
     assert out.count('class="lt-view"') == 2  # think tank counts too (any approved kind)
-    views.EMPTY_SIDE_LINE_APPROVED = False
     path.write_text(json.dumps(panel))
