@@ -265,6 +265,12 @@ PINNED = [
     {"label": "RFP", "docket": 56368},
     {"label": "RFP", "docket": 57454},
     {"label": "RFP", "docket": 56478},
+    # Added Nov 24 on Paul's ask. The note is our summary of the docket's own filings.
+    {"label": "Data center", "docket": 57243,
+     "note": ("Newton County residents and Sustainable Newton ask the Commission to rule on whether "
+              "VoltaGrid's planned 90 MW gas-fired plant in Covington may sell power straight to a "
+              "neighboring data center under Georgia's territorial and cogeneration laws. VoltaGrid "
+              "has moved to dismiss.")},
 ]
 KIND_LABEL = {"hearing": "Hearing", "docket": "Hearing", "session": "Administrative session",
               "committee": "Committee meeting", "forum": "Public forum",
@@ -687,6 +693,8 @@ def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict 
             when = "On the agenda" if ag["date"] >= today else "Was on the agenda"
             lines += (f'<p class="pin-next">{when}: <a href="{e(_agenda_href(ag))}">'
                       f'{e(KIND_LABEL.get(ag["kind"], "Meeting"))}, {e(_day(ag["date"], True))}</a></p>')
+        if pin.get("note"):
+            lines = f'<p class="muted pin-note">{e(pin["note"])}</p>' + lines
         if v.get("contested"):
             lines += '<p><span class="tag dis">Contested</span></p>'
         follow = (f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">Follow</a>' if FOLLOW_URL else "")
