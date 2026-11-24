@@ -186,6 +186,14 @@ def _member(name: str) -> str:
     return f"{m[2]} {m[1]} ({m[3]})" if m else (name or "")
 
 
+# DRAFT wording (waits on Paul's yes).
+VIEWS_INTRO = "Quoted from public sources and checked against them. Both sides are shown when both have one."
+NONE_YET = {
+    "for": "No view in support that meets our standards has been found yet. Others will be added as they're published.",
+    "against_or_concerns": "No view against this bill or raising concerns that meets our standards has been found yet. Others will be added as they're published.",
+}
+
+
 def views_widget(bill: dict) -> str:
     st = views.panel_status(views.load_panel(bill["session"], bill["slug"]))
     if st["state"] != "live":
@@ -207,11 +215,12 @@ def views_widget(bill: dict) -> str:
                          + (f'<p class="muted lt-context">{e(v["context"])}</p>' if v.get("context") else "") +
                          f'<p class="lt-src"><a href="{e(link)}" title="{e(v["source_title"])}">{e(v.get("source_label") or v["source_title"])}</a>'
                          f' · {e(_ap_date(v["source_date"]))}</p></div>')
+        if not items:
+            items.append(f'<p class="muted lt-none">{e(NONE_YET[side])}</p>')
         cols.append(f'<section><h3>{titles[side]}</h3>{"".join(items)}</section>')
     panel = views.load_panel(bill["session"], bill["slug"]) or {}
     disclosure = (f'<p class="lt-disclosure">{e(panel["disclosure"])}</p>' if panel.get("disclosure") else "")
-    return (disclosure + '<p class="muted">Quoted from public sources and checked against them. '
-            'Shown only when both sides have one.</p>'
+    return (disclosure + f'<p class="muted">{e(VIEWS_INTRO)}</p>'
             f'<div class="lt-views">{"".join(cols)}</div>')
 
 
