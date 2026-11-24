@@ -186,3 +186,19 @@ ol.timeline li.tl-opened::before{background:var(--ink);border-color:var(--ink)}
 .tl-label{font-weight:600}
 .tl-text{display:block;font-size:14px;color:var(--muted)}
 details summary{cursor:pointer;margin:4px 0 8px}
+/* Timeline month box */
+.tl-m{cursor:pointer;outline:none}
+.tl-hit{fill:transparent}
+.tl-m:hover .tl-hit,.tl-m.on .tl-hit,.tl-m:focus .tl-hit{fill:rgba(232,163,23,.18)}
+.tl-pop{position:absolute;top:92px;z-index:20;width:min(380px,100%);background:var(--paper);color:var(--ink);border:1.5px solid var(--ink);box-shadow:0 6px 18px rgba(0,0,0,.18);font-size:14px}
+.tl-pop[hidden]{display:none}
+.tl-pop-h{display:flex;align-items:center;gap:6px;padding:8px 10px;border-bottom:1px solid var(--line)}
+.tl-pop-h b{font-weight:600}
+.tl-x{margin-left:auto;background:none;border:0;font-size:20px;line-height:1;cursor:pointer;color:inherit;padding:0 2px}
+.tl-pop-b{max-height:280px;overflow-y:auto;overscroll-behavior:contain;padding:4px 10px 8px}
+.tl-pm,.tl-pf{padding:7px 0;border-bottom:1px solid var(--line)}
+.tl-pf:last-child{border-bottom:0}
+.tl-pm{color:var(--muted)}
+.tl-pf .mono,.tl-pm .mono{font-size:12px;color:var(--muted)}
+.tl-pc{display:block;font-size:12px;color:var(--muted)}
+.tl-k{font-size:11px;padding:1px 5px;border:1px solid var(--amber)}

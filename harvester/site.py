@@ -262,7 +262,8 @@ def timeline_events(fs: list[dict], meta: dict, agenda_items: list[dict], cal: l
 
 def timeline_strip(fs: list[dict], events: list[dict]) -> str:
     """Filings per month as bars, with a mark under each month that has a
-    Commission order and above each month with a hearing or agenda."""
+    Commission order and above each month with a hearing or agenda. Pointing
+    at or tapping a month opens a box listing that month's filings."""
     months = collections.Counter(r["filed_date"][:7] for r in fs if (r.get("filed_date") or "") >= "1990")
     if len(months) < 2:
         return ""
@@ -278,6 +279,10 @@ def timeline_strip(fs: list[dict], events: list[dict]) -> str:
         seq = seq[-240:]
     orders = {x["date"][:7] for x in events if x["kind"] == "order"}
     meets = {x["date"][:7] for x in events if x["kind"] == "meeting"}
+    kinds = {}
+    for x in events:
+        if x["kind"] in ("order", "transcript", "dis") and x.get("href"):
+            kinds.setdefault(x["href"], x["label"])
     top = max(months[k] for k in seq) or 1
     w, h = len(seq) * 10, 80
     bars = []
@@ -289,19 +294,70 @@ def timeline_strip(fs: list[dict], events: list[dict]) -> str:
             label += ", Commission order"
         if k in meets:
             label += ", meeting"
-        bars.append(f'<g><title>{e(label)}</title><rect x="{i*10+1}" y="{68-bh}" width="8" height="{max(bh, 0)}" class="tl-bar"/>'
-                    f'<rect x="{i*10}" y="0" width="10" height="{h}" fill="transparent"/>'
+        bars.append(f'<g class="tl-m" data-m="{k}" tabindex="0" role="button" aria-label="{e(label)}">'
+                    f'<rect x="{i*10}" y="0" width="10" height="{h}" class="tl-hit"/>'
+                    f'<rect x="{i*10+1}" y="{68-bh}" width="8" height="{max(bh, 0)}" class="tl-bar"/>'
                     + (f'<rect x="{i*10+1}" y="72" width="8" height="6" class="tl-order"/>' if k in orders else "")
                     + (f'<circle cx="{i*10+5}" cy="4" r="3" class="tl-meet"/>' if k in meets else "") + "</g>")
+    # What the box shows: each month's filings, newest first, and the
+    # hearings and agenda items that fall in it.
+    data: dict[str, dict] = {}
+    keep = set(seq)
+    for r in fs:
+        k = (r.get("filed_date") or "")[:7]
+        if k not in keep:
+            continue
+        url = PSC_DOC + str(r["document_id"])
+        data.setdefault(k, {"f": [], "m": []})["f"].append(
+            [r["filed_date"], r.get("company") or "", _short(r.get("description") or "", 160),
+             r["document_id"], kinds.get(url, "")])
+    for x in events:
+        k = x["date"][:7]
+        if x["kind"] == "meeting" and k in keep:
+            data.setdefault(k, {"f": [], "m": []})["m"].append([x["date"], x["label"]])
+    for v in data.values():
+        v["f"].sort(key=lambda r: (r[0], r[3]), reverse=True)
+        v["m"].sort(reverse=True)
+    blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     years = []
     for i, k in enumerate(seq):
         if k.endswith("-01") or i == 0:
             years.append(f'<span style="left:{100*i/len(seq):.2f}%">{k[:4]}</span>')
-    return (f'<div class="tl-strip"><svg viewBox="0 0 {w} {h}" preserveAspectRatio="none" role="img" '
-            f'aria-label="Filings per month from {e(seq[0])} to {e(seq[-1])}">{"".join(bars)}</svg>'
+    return (f'<div class="tl-strip"><svg viewBox="0 0 {w} {h}" preserveAspectRatio="none" role="group" '
+            f'aria-label="Filings per month from {e(seq[0])} to {e(seq[-1])}. Choose a month to list its filings.">{"".join(bars)}</svg>'
             f'<div class="tl-years mono">{"".join(years)}</div>'
+            '<div class="tl-pop" role="dialog" aria-live="polite" hidden></div>'
             '<p class="tl-key muted"><span class="k-bar"></span> filings each month <span class="k-order"></span> month with a Commission order '
-            '<span class="k-meet"></span> month with a hearing or agenda item</p></div>')
+            '<span class="k-meet"></span> month with a hearing or agenda item. Point at or tap a month to see its filings.</p>'
+            f'<script type="application/json" class="tl-data">{blob}</script></div>'
+            f'<script>{TIMELINE_JS}</script>')
+
+
+TIMELINE_JS = r"""(function(){var s=document.currentScript.previousElementSibling;if(!s||!s.classList.contains('tl-strip'))return;
+var data=JSON.parse(s.querySelector('.tl-data').textContent),pop=s.querySelector('.tl-pop'),svg=s.querySelector('svg'),cur=null,pinned=false,t=null;
+var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function esc(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function show(g,pin){var k=g.getAttribute('data-m'),d=data[k]||{f:[],m:[]};clearTimeout(t);
+ if(cur)cur.classList.remove('on');cur=g;g.classList.add('on');pinned=!!pin;
+ var n=d.f.length,h='<div class="tl-pop-h"><b>'+MON[+k.slice(5)-1]+' '+k.slice(0,4)+'</b> · '+n+' filing'+(n===1?'':'s')+'<button type="button" class="tl-x" aria-label="Close">×</button></div><div class="tl-pop-b">';
+ d.m.forEach(function(m){h+='<div class="tl-pm"><span class="mono">'+esc(m[0])+'</span> '+esc(m[1])+'</div>'});
+ d.f.forEach(function(f){h+='<div class="tl-pf"><span class="mono">'+esc(f[0])+'</span>'+(f[4]?' <span class="tag tl-k">'+esc(f[4])+'</span>':'')+'<br><a target="_blank" rel="noopener" href="https://psc.ga.gov/search/facts-document/?documentId='+f[3]+'">'+esc(f[2]||'(no description)')+'</a><span class="tl-pc">'+esc(f[1]||'No filer named')+'</span></div>'});
+ if(!n&&!d.m.length)h+='<div class="muted">Nothing filed this month.</div>';
+ pop.innerHTML=h+'</div>';pop.hidden=false;
+ var r=g.getBoundingClientRect(),b=s.getBoundingClientRect(),pw=pop.offsetWidth,x=r.left-b.left+r.width/2-pw/2;
+ pop.style.left=Math.max(0,Math.min(x,b.width-pw))+'px';}
+function hide(){if(cur)cur.classList.remove('on');cur=null;pinned=false;pop.hidden=true}
+function later(){clearTimeout(t);if(!pinned)t=setTimeout(hide,350)}
+svg.addEventListener('mouseover',function(v){var g=v.target.closest('.tl-m');if(g&&g!==cur&&!pinned)show(g,false)});
+svg.addEventListener('mouseleave',later);
+pop.addEventListener('mouseenter',function(){clearTimeout(t)});pop.addEventListener('mouseleave',later);
+svg.addEventListener('click',function(v){var g=v.target.closest('.tl-m');if(!g)return;if(g===cur&&pinned)hide();else show(g,true)});
+svg.addEventListener('keydown',function(v){var g=v.target.closest('.tl-m');if(!g)return;
+ if(v.key==='Enter'||v.key===' '){v.preventDefault();show(g,true)}
+ else if(v.key==='ArrowRight'||v.key==='ArrowLeft'){v.preventDefault();var o=v.key==='ArrowRight'?g.nextElementSibling:g.previousElementSibling;if(o){o.focus();if(cur)show(o,pinned)}}});
+pop.addEventListener('click',function(v){if(v.target.closest('.tl-x'))hide()});
+document.addEventListener('click',function(v){if(cur&&!s.contains(v.target))hide()});
+document.addEventListener('keydown',function(v){if(v.key==='Escape'&&cur)hide()});})();"""
 
 
 def timeline_html(fs, meta, agenda_items, cal, d, now) -> str:
