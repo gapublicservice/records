@@ -1,0 +1,4 @@
+{
+  "_note": "Docket explainers, in our own words. Each entry: dockets, category, text, optional scope_contested, sources (document_id + label), approved, approved_on. Nothing is shown until approved is true with a date. Drafts are kept out of this public file until approved.",
+  "explainers": []
+}
