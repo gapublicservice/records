@@ -18,6 +18,7 @@ from __future__ import annotations
 import html
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -170,6 +171,21 @@ def votes_widget(bill: dict) -> str:
             f'<th class="num">Nay</th><th class="num">Not voting or excused</th></tr></thead><tbody>{rows}</tbody></table>')
 
 
+_MONTHS = ["Jan.", "Feb.", "March", "April", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."]
+
+
+def _ap_date(iso: str) -> str:
+    """2025-02-10 -> Feb. 10, 2025 (AP style). Anything else is shown as it came."""
+    m = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", str(iso or ""))
+    return f"{_MONTHS[int(m[2]) - 1]} {int(m[3])}, {m[1]}" if m else str(iso or "")
+
+
+def _member(name: str) -> str:
+    """'Hufstetler, Chuck 52nd' -> 'Chuck Hufstetler (52nd)'. Anything else is shown as it came."""
+    m = re.fullmatch(r"\s*([^,]+),\s*(.+?)\s+(\d+(?:st|nd|rd|th))\s*", name or "")
+    return f"{m[2]} {m[1]} ({m[3]})" if m else (name or "")
+
+
 def views_widget(bill: dict) -> str:
     st = views.panel_status(views.load_panel(bill["session"], bill["slug"]))
     if st["state"] != "live":
@@ -189,30 +205,41 @@ def views_widget(bill: dict) -> str:
             items.append(f'<div class="lt-view"><b>{e(v["who"])}</b>, {e(v["role"])}'
                          f'<blockquote>{e(v["quote"])}</blockquote>'
                          + (f'<p class="muted lt-context">{e(v["context"])}</p>' if v.get("context") else "") +
-                         f'<p class="lt-src"><a href="{e(link)}">{e(v["source_title"])}</a> · <span class="mono">{e(v["source_date"])}</span></p></div>')
+                         f'<p class="lt-src"><a href="{e(link)}" title="{e(v["source_title"])}">{e(v.get("source_label") or v["source_title"])}</a>'
+                         f' · {e(_ap_date(v["source_date"]))}</p></div>')
         cols.append(f'<section><h3>{titles[side]}</h3>{"".join(items)}</section>')
     panel = views.load_panel(bill["session"], bill["slug"]) or {}
     disclosure = (f'<p class="lt-disclosure">{e(panel["disclosure"])}</p>' if panel.get("disclosure") else "")
-    return (disclosure + '<p class="muted">Each view is quoted from a public source and checked against it. Views appear '
-            'only when both sides have one, in the same format, by date.</p>'
+    return (disclosure + '<p class="muted">Quoted from public sources and checked against them. '
+            'Shown only when both sides have one.</p>'
             f'<div class="lt-views">{"".join(cols)}</div>')
 
 
 def bill_page(bill: dict) -> str:
-    sponsors = ", ".join(e(s["name"]) for s in bill.get("sponsors", []) if s.get("name"))
-    why = "; ".join(scope.RULES[r] for r in bill.get("scope", []))
+    names = [_member(s["name"]) for s in sorted(bill.get("sponsors", []), key=lambda s: s.get("order") or 0)
+             if s.get("name")]
+    if len(names) > 1:
+        more = len(names) - 1
+        sponsors = (f'<p>Sponsor: {e(names[0])} and {more} co-sponsor{"s" if more != 1 else ""}</p>'
+                    f'<details><summary>Show all sponsors</summary><p>{e(", ".join(names))}</p></details>')
+    elif names:
+        sponsors = f'<p>Sponsor: {e(names[0])}</p>'
+    else:
+        sponsors = ""
+    why = " · ".join(scope.RULES_SHORT[r] for r in bill.get("scope", []))
     vw = views_widget(bill)
     body = (f'<p class="kicker">{e(KNOWN_SESSIONS.get(bill["session"], {}).get("label", bill["session"]))}</p>'
             f'<h1>{e(bill["key"])}</h1><p class="lede">{e(bill["caption"])}</p>'
-            + (f'<p><span class="kicker">Sponsors</span><br>{sponsors}</p>' if sponsors else "")
-            + (f'<p class="muted">Tracked because it meets this rule: {e(why)}.</p>' if why else "")
+            + sponsors
+            + (f'<p class="muted">Why it\'s tracked: {e(why)}</p>' if why else "")
             + f'<h2>Status</h2>{status_widget(bill)}'
             + f'<h2>What changed in the text</h2>{changes_widget(bill)}'
             + f'<h2>Votes</h2>{votes_widget(bill)}'
             + (f'<h2>Expert views</h2>{vw}' if vw else "")
-            + (f'<h2>Summary from the General Assembly</h2><p>{e(bill["summary"])}</p>' if bill.get("summary") else "")
-            + f'<p class="muted">The General Assembly\'s page for this bill: <a href="{e(bill["page"])}">{e(bill["page"])}</a>.'
-            + ("" if "lt-disclosure" in vw else f' {NEUTRAL}') + '</p>')
+            + (f'<h2>Summary from the General Assembly</h2><details class="lt-summary"><summary>Show the summary</summary>'
+               f'<p>{e(bill["summary"])}</p></details>' if bill.get("summary") else "")
+            + f'<p class="muted"><a href="{e(bill["page"])}">Full record on the General Assembly\'s site</a>'
+            + ("" if "lt-disclosure" in vw else f'. {NEUTRAL}') + '</p>')
     # Paul, Nov 23: pages that carry a sponsor's priority disclosure drop the no-position line.
     return _page(bill["key"], f'<div class="lt-bill">{body}</div>', depth=3)
 

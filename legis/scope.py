@@ -45,6 +45,14 @@ RULES = {
     "election_law": "Changes statewide election law (Title 21)",
 }
 
+# Short forms for the bill page's "Why it's tracked" line (Paul, Nov 24).
+RULES_SHORT = {
+    "title46": "Title 46 (utilities)",
+    "psc": "names the PSC",
+    "utility_committee": "utilities committee",
+    "election_law": "Title 21 (elections)",
+}
+
 
 def is_local(bill: dict) -> bool:
     lt = str(bill.get("legislation_type") or "").upper()
