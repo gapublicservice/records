@@ -3,9 +3,10 @@
     {
       "attachment_id": 109596,
       "name": "Publicdisclosuretest.pdf",
-      "text": "not read yet",
-      "trade_secret_marked": false,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228349/109596"
+      "text": "not stored: trade-secret marker in filing description",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228349/109596",
+      "withheld": "trade-secret marker in filing description"
     }
   ],
   "company": null,

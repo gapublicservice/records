@@ -1,8 +1,8 @@
 """Turn public attachments into searchable text.
 
 PDF: pdftotext (poppler). Word: the document XML. Plain text and CSV: as is.
-Zip: each file inside, by the same rules, skipping any with a trade-secret
-marker in its name. Spreadsheets and other formats are listed, not read yet.
+Zip: each file inside, by the same rules, skipping any that the trade-secret
+checks in guard.py hold back. Spreadsheets and other formats are listed, not read yet.
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ import tempfile
 import zipfile
 from xml.etree import ElementTree
 
-from .psc import is_trade_secret_name
+from . import guard
 
 W_NS = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 
@@ -68,12 +68,19 @@ def zip_text(data: bytes) -> tuple[str | None, str]:
         for info in z.infolist():
             if info.is_dir():
                 continue
-            if is_trade_secret_name(info.filename):
+            if guard.before_download(info.filename, None):
                 skipped += 1
                 continue
             if info.file_size > 50_000_000:
                 continue
-            inner, _ = text_for(info.filename, z.read(info))
+            member = z.read(info)
+            if guard.metadata_reason(info.filename, member):
+                skipped += 1
+                continue
+            inner, _ = text_for(info.filename, member)
+            if inner and guard.text_reason(inner)[0]:
+                skipped += 1
+                continue
             if inner:
                 parts.append(f"===== {info.filename} =====\n{inner}")
             else:

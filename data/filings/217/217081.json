@@ -3,9 +3,10 @@
     {
       "attachment_id": 98295,
       "name": "docket_13330_sonp_report_01162024.zip",
-      "text": "not read yet",
-      "trade_secret_marked": false,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217081/98295"
+      "text": "not stored: trade-secret marker in filing description",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/217081/98295",
+      "withheld": "trade-secret marker in filing description"
     }
   ],
   "company": "Atlanta Gas Light Company",

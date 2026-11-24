@@ -3,16 +3,18 @@
     {
       "attachment_id": 109238,
       "name": "Publicdisclosuretest.doc",
-      "text": "not read yet",
-      "trade_secret_marked": false,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228089/109238"
+      "text": "not stored: trade-secret marker in filing description",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228089/109238",
+      "withheld": "trade-secret marker in filing description"
     },
     {
       "attachment_id": 109239,
       "name": "Publicdisclosuretest.pdf",
-      "text": "not read yet",
-      "trade_secret_marked": false,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228089/109239"
+      "text": "not stored: trade-secret marker in filing description",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/228089/109239",
+      "withheld": "trade-secret marker in filing description"
     }
   ],
   "company": "Staff",

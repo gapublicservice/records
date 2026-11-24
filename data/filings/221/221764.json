@@ -10,9 +10,10 @@
     {
       "attachment_id": 102892,
       "name": "u_s__telepacific_corp_confidential_financial_information-1.pdf",
-      "text": "not read yet",
-      "trade_secret_marked": false,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221764/102892"
+      "text": "not stored: trade-secret marker in file name",
+      "trade_secret_marked": true,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221764/102892",
+      "withheld": "trade-secret marker in file name"
     }
   ],
   "company": "U.S. TelePacific Corp.",

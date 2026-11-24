@@ -21,7 +21,7 @@ import sys
 import time
 from pathlib import Path
 
-from . import extract
+from . import extract, guard
 from .psc import Fetcher, Filing, TooLarge
 
 ROOT = Path(os.environ.get("RECORDS_ROOT", Path(__file__).resolve().parent.parent))
@@ -63,12 +63,22 @@ def save_json(path: Path, obj) -> None:
     path.write_text(json.dumps(obj, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
 
 
+def withhold(att: dict, reason: str) -> None:
+    """List the file but keep its text, size and fingerprint out of the record."""
+    att["trade_secret_marked"] = True
+    att["withheld"] = reason
+    att["text"] = f"not stored: {reason}"
+    for k in ("bytes", "sha256", "fetched", "text_file"):
+        att.pop(k, None)
+
+
 def store(fetcher: Fetcher, f: Filing, with_text: bool) -> dict:
     rec = f.to_dict()
     rec["harvested"] = today()
     for att in rec["attachments"]:
-        if att["trade_secret_marked"]:
-            att["text"] = "not stored: trade-secret marker in file name"
+        reason = guard.before_download(att["name"], rec.get("description"))
+        if att["trade_secret_marked"] or reason:
+            withhold(att, reason or "trade-secret marker in file name")
             continue
         if not with_text:
             att["text"] = "not read yet"
@@ -81,13 +91,23 @@ def store(fetcher: Fetcher, f: Filing, with_text: bool) -> dict:
         except Exception as e:
             att["text"] = f"download failed: {type(e).__name__}"
             continue
+        reason = guard.metadata_reason(att["name"], data)
+        if reason:
+            withhold(att, reason)
+            continue
+        text, how = extract.text_for(att["name"], data)
+        reason, review = guard.text_reason(text)
+        if reason:
+            withhold(att, reason)
+            continue
         att["bytes"] = len(data)
         # Provenance: anyone can download the file from att["url"] and compare.
         att["sha256"] = hashlib.sha256(data).hexdigest()
         att["fetched"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-        text, how = extract.text_for(att["name"], data)
         att["text"] = how
-        if text and TS_BRACKET_RE.search(text):
+        if review:
+            att["review"] = review
+        elif text and TS_BRACKET_RE.search(text):
             # Public versions bracket redacted trade-secret passages. Flag them
             # so a person confirms the passage really is redacted.
             att["review"] = "trade-secret brackets in text"
@@ -98,6 +118,35 @@ def store(fetcher: Fetcher, f: Filing, with_text: bool) -> dict:
             att["text_file"] = str(p.relative_to(ROOT))
     save_json(filing_path(f.document_id), rec)
     return rec
+
+
+def guard_sweep(args) -> int:
+    """Apply the trade-secret checks to filings already in the record."""
+    held = flagged = 0
+    for path in sorted((DATA / "filings").glob("*/*.json")):
+        rec = json.loads(path.read_text())
+        changed = False
+        for att in rec["attachments"]:
+            if att.get("trade_secret_marked"):
+                continue
+            reason = guard.before_download(att["name"], rec.get("description"))
+            review = None
+            if not reason and att.get("text_file") and (ROOT / att["text_file"]).exists():
+                reason, review = guard.text_reason((ROOT / att["text_file"]).read_text(errors="replace"))
+            if reason:
+                if att.get("text_file"):
+                    (ROOT / att["text_file"]).unlink(missing_ok=True)
+                withhold(att, reason)
+                held += 1
+                changed = True
+            elif review and att.get("review") != review:
+                att["review"] = review
+                flagged += 1
+                changed = True
+        if changed:
+            save_json(path, rec)
+    print(f"guard-sweep: {held} files held back, {flagged} flagged for a person")
+    return 0
 
 
 MIDDAY = DATA / "midday"
@@ -303,6 +352,9 @@ def main(argv=None) -> int:
     fp = sub.add_parser("fingerprint")
     fp.add_argument("--max-minutes", type=float, default=330)
     fp.set_defaults(func=fingerprint)
+
+    g = sub.add_parser("guard-sweep", help="apply the trade-secret checks to stored filings")
+    g.set_defaults(func=guard_sweep)
 
     o = sub.add_parser("one")
     o.add_argument("id", type=int)
