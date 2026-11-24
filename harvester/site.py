@@ -23,6 +23,8 @@ from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
 SRC = ROOT / "site"
+# Changes with the stylesheet, so browsers fetch a new one after each change.
+CSS_V = __import__("hashlib").sha1((SRC / "style.css").read_bytes()).hexdigest()[:8] if (SRC / "style.css").exists() else "0"
 PSC_DOC = "https://psc.ga.gov/search/facts-document/?documentId="
 PSC_DOCKET = "https://psc.ga.gov/search/facts-docket/?docketId="
 
@@ -118,7 +120,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <meta name="description" content="Every public filing at the Georgia Public Service Commission, searchable. An independent project.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{up}style.css">{extra_head}
+<link rel="stylesheet" href="{up}style.css?v={CSS_V}">{extra_head}
 </head><body>
 <div class="ps-top"><a target="_self" href="https://www.gapublicservice.org/"><span class="dot"></span><span>From <b>Public Service</b><span class="more"> · the newsletter, sessions and explainers</span></span><span class="go">Visit<span class="more"> the site</span> ↗</span></a></div>
 <header class="site"><div class="bar">
