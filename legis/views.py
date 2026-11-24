@@ -1,8 +1,11 @@
 """Expert views: the checks a panel must pass before it posts.
 
 Rules:
-  - Both sides or none: at least one cited view for the bill and one against
-    it or raising concerns, or the panel shows neither and says so.
+  - Both sides, or one very credible view (Paul, Nov 24): a panel shows views
+    on both sides when both have one. A panel with views on one side only may
+    post when the reviewer has approved showing it alone (any approved source
+    kind) and the line for the empty side is approved; the empty side then
+    says none meeting the standards has been found yet.
   - Equal treatment: same fields for every view, ordered by date.
   - A roster set in advance: only listed kinds of source; the publisher and
     its affiliates are never sources.
@@ -34,6 +37,9 @@ SOURCES = store.DATA / "sources"
 VIDEO = store.DATA / "video"
 
 SIDES = ("for", "against_or_concerns")
+# A lone view may come from any approved source kind; Paul judges each one (Nov 24, "B").
+# The line shown under the empty side is not approved yet, so lone panels stay held until it is.
+EMPTY_SIDE_LINE_APPROVED = False
 EXCLUDED_ORGS = re.compile(r"\bGeorgia Conservation Voters\b|\bGCVEF?\b", re.I)
 CALL_TO_ACTION = re.compile(
     r"\b(call|contact|email|e-mail|write|tell|urge|ask)\s+(your|the|our)\s+"
@@ -148,19 +154,22 @@ def panel_status(panel: dict | None, roster: dict | None = None) -> dict:
             good.append(v)
     sides = {v["side"] for v in good}
     one_sided = sides != set(SIDES)
-    if one_sided:
-        reasons.append("only one side has a verified, cited view")
+    single_ok = (one_sided and bool(good) and EMPTY_SIDE_LINE_APPROVED
+                 and bool(panel.get("single_view_approved_by")) and bool(panel.get("single_view_approved_at")))
+    if one_sided and not good:
+        reasons.append("no view has passed its checks")
+    elif one_sided and not single_ok:
+        reasons.append("only one side has a view, and it is not approved to show alone"
+                       " (needs the reviewer's sign-off and an approved empty-side line)")
     if not panel.get("approved_by") or not panel.get("approved_at"):
         reasons.append("no reviewer has approved this panel")
     if problems:
         reasons.append(f"{len(problems)} view(s) failed checks")
     state = "live" if not reasons else "held"
     note = None
-    if state == "held" and one_sided and good:
-        note = ("Published views on this bill so far come from one side only, "
-                "so this panel shows neither until both sides have a cited view.")
     views = sorted(good, key=lambda v: v["source_date"]) if state == "live" else []
-    return {"state": state, "views": views, "reasons": reasons, "problems": problems, "note": note}
+    return {"state": state, "views": views, "reasons": reasons, "problems": problems, "note": note,
+            "single": state == "live" and one_sided}
 
 
 def balance_report(session: str) -> list[dict]:

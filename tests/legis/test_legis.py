@@ -123,7 +123,7 @@ def test_word_trims_paul_approved_nov_24():
     assert "<summary>Show all sponsors</summary>" in out
     assert "Why it&#x27;s tracked: Title 46 (utilities) · names the PSC · utilities committee" in out \
         or "Why it's tracked: Title 46 (utilities) · names the PSC · utilities committee" in out
-    assert "Quoted from public sources and checked against them. Shown only when both sides have one." in out
+    assert "Quoted from public sources and checked against them. Both sides are shown when both have one." in out
     assert "Georgia Recorder (via Rough Draft Atlanta)</a> · Feb. 10, 2025" in out
     assert "R Street Institute</a> · Jan. 27, 2026" in out
     assert 'title="R Street Testimony in Support of GA SB 34"' in out
@@ -137,3 +137,22 @@ def test_member_and_date_fallbacks():
     assert site._member("Odd Name") == "Odd Name"
     assert site._ap_date("2026-09-05") == "Sept. 5, 2026"
     assert site._ap_date("soon") == "soon"
+
+
+def test_single_view_needs_record_kind_and_sign_off():
+    bill = _sb34()
+    panel = views.load_panel("2025_26", "sb34")
+    one = dict(panel, views=[v for v in panel["views"] if v["side"] == "for"])
+    assert views.panel_status(one)["state"] == "held"  # no sign-off
+    ok = dict(one, single_view_approved_by="Paul Glaze", single_view_approved_at="2026-11-24")
+    assert views.panel_status(ok)["state"] == "held"  # empty-side line not approved yet
+    views.EMPTY_SIDE_LINE_APPROVED = True
+    st = views.panel_status(ok)
+    assert st["state"] == "live" and st["single"]
+    path = views.panel_path("2025_26", "sb34")
+    path.write_text(json.dumps(ok))
+    out = site.views_widget(bill)
+    assert "No view against this bill or raising concerns that meets our standards has been found yet." in out
+    assert out.count('class="lt-view"') == 2  # think tank counts too (any approved kind)
+    views.EMPTY_SIDE_LINE_APPROVED = False
+    path.write_text(json.dumps(panel))
