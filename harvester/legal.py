@@ -119,7 +119,8 @@ def citations(text: str) -> list[str]:
                 mi += 1
             if not (mi < len(markers) and markers[mi] < m.start()):
                 continue
-        found[s] = None
+        t, c, n = s.split("-", 2)
+        found[f"{t}-{c}-{n.lstrip('0') or '0'}"] = None
     return list(found)
 
 

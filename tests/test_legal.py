@@ -16,6 +16,9 @@ class LegalTest(unittest.TestCase):
         self.assertEqual(legal.citations("rooms 50-13-14 and 10-1-760"), [])
         self.assertEqual(legal.citations("O.C.G.A. § 50-18-70"), ["50-18-70"])
 
+    def test_leading_zero(self):
+        self.assertEqual(legal.citations("O.C.G.A. § 46-3A-05"), ["46-3A-5"])
+
     def test_rule_variant(self):
         self.assertEqual(legal.citations("Rule 515-2-1.06"), ["515-2-1-.06"])
 
