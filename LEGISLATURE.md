@@ -11,8 +11,9 @@ votes and every version of its text, with version-to-version comparisons.
   that amend Title 46 (public utilities), name the Public Service Commission,
   go to a utilities committee, or change statewide election law (Title 21).
   Local acts and honorary resolutions are left out.
-- **Expert views:** shown only when both sides have a view quoted from a
-  public source, checked against a saved copy of that source (or, for
+- **Expert views:** shown when both sides have a view quoted from a public
+  source (one side alone shows only when the reviewer approves it for that
+  bill, with a line saying none has been found on the other side yet), checked against a saved copy of that source (or, for
   hearing video, against a saved transcript with a link to the moment), and
   approved by a named reviewer. See `legis/views.py`.
 - **Neutral:** these pages report the record. Public Service takes no

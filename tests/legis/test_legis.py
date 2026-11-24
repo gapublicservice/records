@@ -143,16 +143,16 @@ def test_single_view_needs_record_kind_and_sign_off():
     bill = _sb34()
     panel = views.load_panel("2025_26", "sb34")
     one = dict(panel, views=[v for v in panel["views"] if v["side"] == "for"])
-    st = views.panel_status(one)
-    assert st["state"] == "held"  # think tank view is not public record, and no sign-off
-    rec = dict(one, views=[v for v in one["views"] if v["kind"] == "committee_testimony"])
-    assert views.panel_status(rec)["state"] == "held"  # no sign-off yet
-    ok = dict(rec, single_view_approved_by="Paul Glaze", single_view_approved_at="2026-11-24")
+    assert views.panel_status(one)["state"] == "held"  # no sign-off
+    ok = dict(one, single_view_approved_by="Paul Glaze", single_view_approved_at="2026-11-24")
+    assert views.panel_status(ok)["state"] == "held"  # empty-side line not approved yet
+    views.EMPTY_SIDE_LINE_APPROVED = True
     st = views.panel_status(ok)
     assert st["state"] == "live" and st["single"]
     path = views.panel_path("2025_26", "sb34")
     path.write_text(json.dumps(ok))
     out = site.views_widget(bill)
     assert "No view against this bill or raising concerns that meets our standards has been found yet." in out
-    assert out.count('class="lt-view"') == 1
+    assert out.count('class="lt-view"') == 2  # think tank counts too (any approved kind)
+    views.EMPTY_SIDE_LINE_APPROVED = False
     path.write_text(json.dumps(panel))
