@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110607,
+      "bytes": 24440615,
+      "fetched": "2026-11-24T17:44:43+00:00",
+      "name": "yates_8_-_10_pd_october_2026_msr_report.zip",
+      "sha256": "a1a072a0cdcb44536d4fe5485fcc0e1309cc9fe49fe6c8867c74b34f048e07f9",
+      "text": "zip (12 read, 5 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229546/110607.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229546/110607"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "DKT 55931 Yates 8-10 Monthly Status Report for October 2026",
+  "dockets": [
+    55931
+  ],
+  "document_id": 229546,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229546"
+}

@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110611,
+      "bytes": 111504,
+      "fetched": "2026-11-24T17:44:52+00:00",
+      "name": "alma_-_hb_168_local_rate_increase_filing_2026.zip",
+      "sha256": "d352ce19c78627c2d432cff7caf7a304a5db83fdab43b62e52846df5d1d733fc",
+      "text": "zip (2 read)",
+      "text_file": "data/text/229/229552/110611.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229552/110611"
+    }
+  ],
+  "company": "Alma Telephone Company",
+  "description": "HB 168 Local Rate Increase Tariff Filing 2026",
+  "dockets": [
+    32235
+  ],
+  "document_id": 229552,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229552"
+}

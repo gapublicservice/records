@@ -1,0 +1,35 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110608,
+      "bytes": 214857,
+      "fetched": "2026-11-24T17:44:44+00:00",
+      "name": "27825_Cobb311Order_11-17-2026 .docx",
+      "sha256": "0500c639812c87750371e2fe29a921c2e616a88c510f8913441378809b873bad",
+      "text": "docx",
+      "text_file": "data/text/229/229547/110608.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229547/110608"
+    },
+    {
+      "attachment_id": 110609,
+      "bytes": 2652173,
+      "fetched": "2026-11-24T17:44:45+00:00",
+      "name": "229547.pdf",
+      "sha256": "352a3a102ce294d27ab50deb13e51cab150acdaaf8519620a3dad530394cc538",
+      "text": "pdftotext",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229547/110609"
+    }
+  ],
+  "company": "GPSC",
+  "description": "ORDER ACKNOWLEDGING IMPLEMENTATION OF 3-1-1 SERVICE AND CONTINUING ASSIGNMENT OF ABBREVIATED N11 DIALING CODE 3-1-1",
+  "dockets": [
+    27825
+  ],
+  "document_id": 229547,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-24",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229547"
+}
