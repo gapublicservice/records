@@ -836,6 +836,15 @@ def upcoming_json(allev: list[dict], agendas: dict, today: str, known: set, chec
             "note": f"Copied from the Commission's calendar. {when}{LAG}", "events": out}
 
 
+def _older_readout(url: str, ev: dict) -> str:
+    """A readout link on an earlier agenda. A special committee or special session shares its date
+    and kind with the regular meeting, so it never borrows that meeting's readout."""
+    if "special" in (url or "").lower():
+        return ""
+    ro = readout_for(ev)
+    return f' <a href="{e(ro)}" target="_blank" rel="noopener">Readout</a>' if ro else ""
+
+
 def older_agendas(agendas: dict, before: str) -> str:
     """Every earlier meeting whose agenda we have as a linked page, newest first."""
     rows = sorted(((ev["date"], url, ev) for url, ev in agendas.items()
@@ -844,7 +853,8 @@ def older_agendas(agendas: dict, before: str) -> str:
         return ""
     items = "".join(f'<li><span class="mono">{e(d)}</span> <a href="agenda/{e(agenda_slug(u))}/">'
                     f'{e(KIND_LABEL.get(ev["kind"], "Meeting"))}</a> '
-                    f'<span class="muted">{len(ev.get("dockets") or [])} dockets</span></li>' for d, u, ev in rows)
+                    f'<span class="muted">{len(ev.get("dockets") or [])} dockets</span>{_older_readout(u, ev)}</li>'
+                    for d, u, ev in rows)
     return f'<h2>Earlier agendas</h2><ul class="ag-dockets">{items}</ul>'
 
 
