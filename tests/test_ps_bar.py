@@ -53,3 +53,9 @@ def test_dropdown_entries_are_marked_and_left_off_the_bar(monkeypatch):
     monkeypatch.setattr(site, "ghost_nav", lambda: {"primary": got})
     out = site.ps_bar("", "search")
     assert "Newsletter" in out and "Past editions" not in out
+
+
+def test_title_full_stop_is_the_amber_dot(monkeypatch):
+    monkeypatch.setattr(site, "ghost_nav", lambda: {"title": "Public Service.", "primary": []})
+    out = site.ps_bar("", "")
+    assert "<span>Public Service</span><span class=\"dot\">" in out and "Service.<" not in out

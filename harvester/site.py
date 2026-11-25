@@ -139,7 +139,8 @@ def ps_bar(up: str = "", on: str = "") -> str:
             items.append(f'<a target="_self" href="{e(url)}">{e(label)}</a>')
     if not has_records:
         items.append(f'<a target="_self" class="here" aria-current="true" href="{up}index.html">Records</a>')
-    title = e(nav.get("title") or "Public Service")
+    # The amber dot is the wordmark's full stop, so a "." in Ghost's title is dropped.
+    title = e(str(nav.get("title") or "Public Service").strip().rstrip(".") or "Public Service")
     return (f'<div class="ps-top"><div class="ps-in">'
             f'<a class="ps-mark" target="_self" href="{e(site)}/" aria-label="{title}: home">'
             f'<span>{title}</span><span class="dot"></span></a>'
