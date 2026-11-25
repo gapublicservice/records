@@ -1,0 +1,32 @@
+name: Ghost foot line
+
+# Run by hand. Takes the GCVEF sponsor line off Ghost posts and pages and
+# switches the old independence wording to the editorial policy's line
+# (Paul, Nov 25). Dry run unless "apply" is ticked. Sends no email.
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: "Save the changes (otherwise list them)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+          APPLY: ${{ inputs.apply }}
+        run: |
+          if [ "$APPLY" = "true" ]; then python -m alerts.foot_line --apply
+          else python -m alerts.foot_line; fi
