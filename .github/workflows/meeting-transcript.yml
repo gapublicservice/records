@@ -1,31 +1,17 @@
 name: Meeting transcript
 
 # Unofficial transcripts of Commission administrative sessions and committee
-# meetings, from the Commission's YouTube stream. Run by hand for one meeting
-# (give url, date and kind), or leave url blank to transcribe the oldest
-# meetings since July 1, 2026 that have no transcript yet (up to "limit").
-# Only the audio is downloaded; no copy of the video is kept or posted.
+# meetings. YouTube turns away GitHub's runners, so the transcripts are made on
+# Paul's own computer by tools/transcribe_meetings.py, which uploads one zip
+# per meeting to inbox/transcripts/. This job checks each zip with
+# "python -m harvester.meetings take" (meeting id, video title, plain YouTube
+# address, audio fingerprint, line shape), copies what passes into
+# data/meetings, and removes the zip from the inbox. The website then rebuilds.
 on:
+  push:
+    branches: [main]
+    paths: ["inbox/transcripts/**"]
   workflow_dispatch:
-    inputs:
-      url:
-        description: "The meeting's YouTube page (blank: find untranscribed meetings)"
-        required: false
-        default: ""
-      date:
-        description: "Meeting date, YYYY-MM-DD (with url)"
-        required: false
-        default: ""
-      kind:
-        description: "session or committee (with url)"
-        required: false
-        default: "session"
-      limit:
-        description: "How many to do when url is blank"
-        required: false
-        default: "2"
-      model:
-        default: "small.en"
 
 concurrency:
   group: meeting-transcript
@@ -35,44 +21,28 @@ permissions:
   contents: write
 
 jobs:
-  transcribe:
+  take:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
-      - run: pip install -q yt-dlp faster-whisper
-      - name: Pick meetings
-        env:
-          URL: ${{ github.event.inputs.url }}
-          DATE: ${{ github.event.inputs.date }}
-          KIND: ${{ github.event.inputs.kind }}
-          LIMIT: ${{ github.event.inputs.limit }}
+      - name: Take checked transcripts from the inbox
         run: |
-          if [ -n "$URL" ]; then
-            python -c 'import json,os; print(json.dumps([{"url":os.environ["URL"],"date":os.environ["DATE"],"kind":os.environ["KIND"]}]))' > _todo.json
-          else
-            python -m harvester.meetings find --limit "$LIMIT" > _todo.json
-          fi
-          cat _todo.json
-      - name: Transcribe and commit each
-        env:
-          MODEL: ${{ github.event.inputs.model }}
-        run: |
+          shopt -s nullglob
+          zips=(inbox/transcripts/*.zip)
+          [ ${#zips[@]} -gt 0 ] || { echo "Inbox is empty."; exit 0; }
+          for z in "${zips[@]}"; do
+            echo "== $z"
+            python -m harvester.meetings take "$z"
+          done
           git config user.name "records-harvester"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          python -c 'import json; [print(m["url"], m["date"], m["kind"]) for m in json.load(open("_todo.json"))]' |
-          while read -r url date kind; do
-            id="$date-$kind"
-            python -m harvester.meetings pull "$url" --date "$date" --kind "$kind"
-            python -m harvester.meetings transcribe --id "$id" --model "$MODEL"
-            rm -f _audio/"$id".*
-            git add data/meetings/"$id"
-            git commit -q -m "Meeting transcript $id (unofficial)"
-            ok=0
-            for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && ok=1 && break; sleep $((i*10)); done
-            [ "$ok" = 1 ] || exit 1
-          done
+          git rm -q "${zips[@]}"
+          git add data/meetings
+          git commit -q -m "Meeting transcripts from the inbox (unofficial)"
+          ok=0
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && ok=1 && break; sleep $((i*10)); done
+          [ "$ok" = 1 ]

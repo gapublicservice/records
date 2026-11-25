@@ -15,23 +15,35 @@ Run it from a terminal:
 The first run sets itself up in ~/.psc-transcripts (it downloads the
 speech-to-text model and the tools it needs, about 1 GB) and then works through
 every meeting since July 1, 2026 that Records doesn't have yet, newest first.
-Each finished meeting gets its own zip on your Desktop right away, so the
-latest can be uploaded while the older ones are still going. Later runs only
-do the new ones. It is slow: leave the window open until it says it's done.
+Each finished meeting gets its own zip on your Desktop right away. Later runs
+only do the new ones.
+
+To make it automatic on a Mac:
+
+    python3 transcribe_meetings.py --install
+
+That saves a GitHub key you make (it goes into your Mac's Keychain, never into
+the chat), and sets the Mac to run this every day at 1 PM and 7 PM while it is
+on. Each run fetches the newest copy of this script from the Records
+repository, transcribes any new meeting, and sends each transcript to the
+Records inbox on GitHub, where it is checked and published. A notice pops up
+when one is sent. Undo it all with --uninstall.
 
 Options:
     --limit 2          do at most this many meetings this run
     --since 2026-10-01 skip meetings before this day
     --model small.en   speech-to-text model (medium.en is more accurate, slower)
 
-Nothing is uploaded anywhere by this script. It reads YouTube and the public
-Records repository on GitHub, and writes files only in ~/.psc-transcripts and
-the zip it names at the end. The sound file is deleted once it's transcribed.
+It reads YouTube and the public Records repository on GitHub. Without the key
+it uploads nothing and writes files only in ~/.psc-transcripts and the zips it
+names. With the key it also sends the finished transcripts to the Records
+inbox. The sound file is deleted once it's transcribed.
 """
 
 from __future__ import annotations
 
 import argparse
+import base64
 import datetime as dt
 import hashlib
 import json
@@ -41,6 +53,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import urllib.error
 import urllib.request
 import zipfile
 from pathlib import Path
@@ -49,7 +62,14 @@ HOME = Path.home() / ".psc-transcripts"
 ENV = HOME / "venv"
 OUT = HOME / "meetings"
 CHANNEL = "https://www.youtube.com/@GeorgiaPSC/streams"
-DONE_URL = "https://api.github.com/repos/gapublicservice/records/contents/data/meetings"
+REPO = "gapublicservice/records"
+DONE_URL = f"https://api.github.com/repos/{REPO}/contents/data/meetings"
+INBOX_URL = f"https://api.github.com/repos/{REPO}/contents/inbox/transcripts"
+SCRIPT_URL = f"https://raw.githubusercontent.com/{REPO}/main/tools/transcribe_meetings.py"
+KEY_SERVICE, KEY_ACCOUNT = "psc-transcripts-github", "records"
+LABEL = "org.gapublicservice.psc-transcripts"
+PLIST = Path.home() / "Library" / "LaunchAgents" / f"{LABEL}.plist"
+LOG = HOME / "log.txt"
 PACKAGES = ["yt-dlp[default]", "deno", "faster-whisper"]
 NOTE = ("Unofficial machine transcript, made by speech-to-text from the Commission's "
         "video. It will contain mistakes, and speakers are not identified. Check any "
@@ -280,6 +300,69 @@ def do_one(m: dict, model, model_name: str) -> None:
         say(f"Done: {m['id']}, {len(segs)} lines. The sound file is deleted.")
 
 
+def _ctx():
+    try:
+        import certifi, ssl
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        return None
+
+
+def github_key() -> str | None:
+    """The key saved by --install, from the Mac's Keychain (or PSC_GITHUB_TOKEN)."""
+    if os.environ.get("PSC_GITHUB_TOKEN"):
+        return os.environ["PSC_GITHUB_TOKEN"].strip()
+    if sys.platform != "darwin":
+        return None
+    r = subprocess.run(["/usr/bin/security", "find-generic-password", "-s", KEY_SERVICE, "-a", KEY_ACCOUNT, "-w"],
+                       capture_output=True, text=True)
+    return r.stdout.strip() or None
+
+
+def gh(method: str, url: str, key: str, body: dict | None = None) -> tuple[int, dict]:
+    req = urllib.request.Request(url, method=method, data=json.dumps(body).encode() if body else None,
+                                 headers={"Accept": "application/vnd.github+json", "User-Agent": "psc-transcripts",
+                                          "Authorization": f"Bearer {key}", "X-GitHub-Api-Version": "2022-11-28"})
+    try:
+        with urllib.request.urlopen(req, timeout=60, context=_ctx()) as r:
+            return r.status, json.load(r)
+    except urllib.error.HTTPError as err:
+        try:
+            return err.code, json.load(err)
+        except Exception:
+            return err.code, {}
+
+
+def zip_bytes(mid: str) -> bytes:
+    import io
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
+        for name in ("meta.json", "transcript.json"):
+            zf.write(OUT / mid / name, f"meetings/{mid}/{name}")
+    return buf.getvalue()
+
+
+def send(mid: str, key: str) -> bool:
+    """Put one meeting's zip in the Records inbox. True if it is there."""
+    code, body = gh("PUT", f"{INBOX_URL}/{mid}.zip", key,
+                    {"message": f"Transcript {mid} from Paul's computer (unofficial)",
+                     "content": base64.b64encode(zip_bytes(mid)).decode()})
+    if code in (200, 201):
+        say(f"Sent {mid} to Records. It goes live once GitHub checks it.")
+        return True
+    if code == 422:  # already waiting in the inbox
+        return True
+    say(f"Couldn't send {mid} to Records (GitHub said {code}: {body.get('message', '')}).")
+    return False
+
+
+def notify(msg: str) -> None:
+    if sys.platform == "darwin":
+        subprocess.run(["/usr/bin/osascript", "-e",
+                        f'display notification {json.dumps(msg)} with title "PSC transcripts"'],
+                       capture_output=True)
+
+
 def pack(ids: list[str], name: str | None = None) -> Path:
     desk = Path.home() / "Desktop"
     where = desk if desk.is_dir() else Path.home()
@@ -291,18 +374,137 @@ def pack(ids: list[str], name: str | None = None) -> Path:
     return z
 
 
+RUNNER = """#!/bin/bash
+# Run by launchd. Fetch the newest script, check it parses, then run it.
+cd "$HOME/.psc-transcripts" || exit 1
+if /usr/bin/curl -fsSL "{url}" -o transcribe_meetings.py.new &&
+   "{py}" -c "import ast,sys; ast.parse(open(sys.argv[1]).read())" transcribe_meetings.py.new; then
+  mv transcribe_meetings.py.new transcribe_meetings.py
+else
+  rm -f transcribe_meetings.py.new
+fi
+echo "=== $(date)"
+exec "{py}" transcribe_meetings.py --auto
+"""
+
+PLIST_TEXT = """<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>{label}</string>
+  <key>ProgramArguments</key><array><string>/bin/bash</string><string>{runner}</string></array>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>13</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>{log}</string>
+  <key>StandardErrorPath</key><string>{log}</string>
+  <key>ProcessType</key><string>Background</string>
+  <key>Nice</key><integer>10</integer>
+</dict>
+</plist>
+"""
+
+
+def install() -> int:
+    if sys.platform != "darwin":
+        sys.exit("--install sets up a Mac. On another computer, run the script by hand.")
+    key = github_key()
+    if key and gh("GET", f"https://api.github.com/repos/{REPO}", key)[1].get("permissions", {}).get("push"):
+        say("Your GitHub key is already saved and works.")
+    else:
+        say("""
+Step 1 of 2: make a GitHub key that can only add files to the Records repository.
+
+  1. Open https://github.com/settings/personal-access-tokens/new in your browser.
+  2. Token name: PSC transcripts. Expiration: 1 year (or what you like).
+  3. Resource owner: gapublicservice.
+  4. Repository access: Only select repositories, then pick gapublicservice/records.
+  5. Permissions: Repository permissions, Contents, set to Read and write.
+  6. Generate the token and copy it.
+
+Never paste it in the chat. When the next line asks for "password data", paste
+it here instead (nothing shows as you paste), press Return, and paste it again
+if asked. It is saved in your Mac's Keychain.
+""")
+        subprocess.run(["/usr/bin/security", "add-generic-password", "-U", "-s", KEY_SERVICE,
+                        "-a", KEY_ACCOUNT, "-w"])
+        key = github_key()
+        if not key:
+            sys.exit("The key wasn't saved. Run this again with --install.")
+        code, body = gh("GET", f"https://api.github.com/repos/{REPO}", key)
+        if not body.get("permissions", {}).get("push"):
+            sys.exit(f"GitHub didn't accept that key for {REPO} (it said {code}). Check steps 3 to 5, "
+                     "then run this again with --install.")
+        say("The key works.")
+    say("Step 2 of 2: setting the Mac to run this every day at 1 PM and 7 PM.")
+    HOME.mkdir(parents=True, exist_ok=True)
+    shutil.copy(Path(__file__).resolve(), HOME / "transcribe_meetings.py")
+    runner = HOME / "run.sh"
+    runner.write_text(RUNNER.format(url=SCRIPT_URL, py=env_python()))
+    runner.chmod(0o755)
+    PLIST.parent.mkdir(parents=True, exist_ok=True)
+    PLIST.write_text(PLIST_TEXT.format(label=LABEL, runner=runner, log=LOG))
+    uid = str(os.getuid())
+    subprocess.run(["/bin/launchctl", "bootout", f"gui/{uid}", str(PLIST)], capture_output=True)
+    r = subprocess.run(["/bin/launchctl", "bootstrap", f"gui/{uid}", str(PLIST)], capture_output=True, text=True)
+    if r.returncode != 0:
+        sys.exit(f"The Mac didn't take the schedule: {r.stderr.strip()}. Paste this in the chat.")
+    say(f"""
+All set. Every day at 1 PM and 7 PM, while this Mac is on and awake, it checks
+for new meetings and sends their transcripts to Records. If the Mac is asleep
+then, it runs when it wakes. What it did is written to {LOG}.
+To stop it: python3 ~/.psc-transcripts/transcribe_meetings.py --uninstall""")
+    return 0
+
+
+def uninstall() -> int:
+    if PLIST.exists():
+        subprocess.run(["/bin/launchctl", "bootout", f"gui/{os.getuid()}", str(PLIST)], capture_output=True)
+        PLIST.unlink()
+    subprocess.run(["/usr/bin/security", "delete-generic-password", "-s", KEY_SERVICE, "-a", KEY_ACCOUNT],
+                   capture_output=True)
+    say("Stopped. The schedule and the saved key are removed from this Mac. To cancel the key "
+        "itself, delete \"PSC transcripts\" at https://github.com/settings/personal-access-tokens.")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--since", default="2026-07-01")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--model", default="small.en")
+    ap.add_argument("--install", action="store_true", help="run it automatically on this Mac")
+    ap.add_argument("--uninstall", action="store_true", help="stop running it automatically")
+    ap.add_argument("--auto", action="store_true", help=argparse.SUPPRESS)
     a = ap.parse_args()
+    if a.uninstall:
+        return uninstall()
     if not in_env() or not os.environ.get("PSC_TRANSCRIPTS_READY"):
         setup()
         return 0
+    if a.install:
+        install()
+        say("\nStarting the first run now. Leave this window open, or close it and the "
+            "1 PM or 7 PM run will pick up where it stopped.\n")
+    import fcntl
+    HOME.mkdir(parents=True, exist_ok=True)
+    lock = open(HOME / "run.lock", "w")
+    try:
+        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except OSError:
+        say("Another run is already going on this computer. Leaving it to finish.")
+        return 0
     OUT.mkdir(parents=True, exist_ok=True)
+    key = github_key()
     have = on_records()
     made_here = {p.parent.name for p in OUT.glob("*/transcript.json")}
+    sent: list[str] = []
+    if key:
+        for mid in sorted(made_here - have, reverse=True):
+            if send(mid, key):
+                sent.append(mid)
     todo = find(a.since, have | made_here)
     waiting = sorted(made_here - have)
     if a.limit:
@@ -319,8 +521,12 @@ def main() -> int:
         for m in todo:
             try:
                 do_one(m, model, a.model)
-                one = pack([m["id"]], f"psc-transcript-{m['id']}.zip")
-                say(f"Ready to upload now, while the rest keep going: {one}")
+                if key and send(m["id"], key):
+                    sent.append(m["id"])
+                    notify(f"Transcript of {m['title']} sent to Records.")
+                else:
+                    one = pack([m["id"]], f"psc-transcript-{m['id']}.zip")
+                    say(f"Ready to upload now, while the rest keep going: {one}")
                 fails = 0
             except SystemExit:
                 raise
@@ -330,8 +536,12 @@ def main() -> int:
                 if fails >= 2:
                     say("Two meetings in a row failed the same way, so I stopped. Copy what this "
                         "window says and paste it in the chat.")
+                    notify("Transcripts stopped on an error. Details are in ~/.psc-transcripts/log.txt.")
                     break
-    ids = sorted({p.parent.name for p in OUT.glob("*/transcript.json")} - have)
+    ids = sorted({p.parent.name for p in OUT.glob("*/transcript.json")} - have - set(sent))
+    if key and not ids:
+        say(f"All done. {len(sent)} transcript(s) sent to Records this run." if sent else "Nothing new this run.")
+        return 0
     if not ids:
         say("Nothing new was made this time.")
         return 1
