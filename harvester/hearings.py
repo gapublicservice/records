@@ -178,7 +178,18 @@ def _sentences(text: str) -> list[str]:
     t = re.sub(r"-\n\s*", "", t)
     t = re.sub(r"\s+", " ", t)
     parts = re.split(r"(?:(?<=[.!?])|(?<=[.!?][\"”’)]))\s+(?=[A-Z“\"(])", t)
-    return [p.strip() for p in parts if p.strip()]
+    out: list[str] = []
+    for p in (p.strip() for p in parts):
+        if not p:
+            continue
+        if out and _ABBR_END.search(out[-1]):
+            out[-1] += " " + p  # "Mr. Mallard" and "John D. Smith" are not sentence ends
+        else:
+            out.append(p)
+    return out
+
+
+_ABBR_END = re.compile(r"(?:^|[\s(“\"])(?:Mr|Ms|Mrs|Dr|No|Nos|St|Jr|Sr|Inc|Co|Corp|Ltd|v|vs|U\.S|[A-Z])\.$")
 
 
 _LEAD = re.compile(r"^(?:[A-Z][A-Z’'.,&\-]+\s+|[IVX]+\.\s*|§\s*){2,}(?=[A-Z][a-z])|^(?:Dear\s+)?(?:(?:Mr|Ms|Mrs|Dr)\.\s+)?[A-Z][a-z]+:\s+")
@@ -189,8 +200,15 @@ def _strip_lead(s: str) -> str:
     return _LEAD.sub("", s, count=1).strip()
 
 
+_NUM_BEFORE = set("""for of at by to on in page pages section sections about over under than approximately nearly
+and or the within past last next first docket no rule paragraph exhibit item items appendix chapter only some
+all those these every each least most up""".split())
+_NUM_AFTER = set("""days years months weeks hours minutes percent mw gw kw kwh mwh megawatts gigawatts customers
+cents dollars units plants sites counties members parties witnesses intervenors pages businesses days""".split())
+
+
 def _clean_ok(s: str, lo: int = 50, hi: int = 420) -> bool:
-    if re.search(r"\bTO:|GREETINGS|\bRE:", s):
+    if re.search(r"\bTO:|GREETINGS|\bRE:|\[fn |\bChange to:|\bPages? \d+,? Lines? \d", s):
         return False
     if not s or not s[0].isupper() or s[-1] not in ".!?”\"’)" or "•" in s or "¶" in s:
         return False
@@ -198,6 +216,13 @@ def _clean_ok(s: str, lo: int = 50, hi: int = 420) -> bool:
         return False
     if re.search(r"\.\s?\d{1,3}\s+[A-Za-z]|\b\d{1,3}\s*$", s[:-1]):
         return False  # a footnote number joined into the sentence
+    if re.search(r"[.!?,;][”\"’)]?\d{1,3}\b", s):
+        return False  # a footnote number right after punctuation or a closing quote
+    for m in re.finditer(r"\b([a-z]{2,}) (\d{1,2}) ([a-z]{2,})\b", s):
+        if m.group(1) not in _NUM_BEFORE and m.group(3) not in _NUM_AFTER:
+            return False  # a testimony line number left in the text
+    if re.search(r"\b(?:Mr|Ms|Mrs|Dr|No|Nos|Inc|Co|Corp|[A-Z])\.$", s):
+        return False  # cut off after an abbreviation or an initial
     if not (lo <= len(s) <= hi) or _CONTACT.search(s) or _TS_TEXT.search(s):
         return False
     letters = sum(c.isalpha() for c in s)

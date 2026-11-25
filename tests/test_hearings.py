@@ -78,7 +78,17 @@ class QuoteTest(unittest.TestCase):
         self.assertFalse(H._clean_ok("Please write to jdoe@example.com before the hearing on December 9, 2026."))
         self.assertFalse(H._clean_ok("Call (404) 656-4501 about the hearing on December 9, 2026, at the Commission."))
         self.assertFalse(H._clean_ok("Comm’n Aug. 12, 2026). 24 PSO ¶ 4. 6 stipulations and hearing on December 9."))
+        self.assertFalse(H._clean_ok("Moreover, it noted that “moving revenue will have differential impacts on customers.”16 Mr."))
+        self.assertFalse(H._clean_ok("The hearing on the pre-filed testimony of the Company was held before Hearing Officer J."))
+        self.assertFalse(H._clean_ok("At the hearing, Georgia Power witness Robinson explained that the project was not 27 identified by June."))
+        self.assertTrue(H._clean_ok("Sierra Club filed a Motion for Continuance of Hearing, seeking to continue the hearing for 30 days."))
+        self.assertTrue(H._clean_ok("The hearing on intervenor testimony is scheduled to begin October 15, 2026, at 9:30 a.m."))
         self.assertFalse(H._clean_ok("[BEGIN TRADE SECRET] 1234 [END TRADE SECRET] the hearing will address these figures."))
+
+    def test_sentences_keep_names(self):
+        got = H._sentences("At the hearing, Mr. Mallard indicated it was open. Direct Testimony of John D. Smith was filed.")
+        self.assertEqual(got, ["At the hearing, Mr. Mallard indicated it was open.",
+                               "Direct Testimony of John D. Smith was filed."])
 
     def test_strip_lead(self):
         self.assertEqual(H._strip_lead("PETITIONERS’ REQUEST FOR ISSUANCE OF SUBPOENAS Pursuant to law, it asks."),
