@@ -99,6 +99,53 @@ def external_new_tab(markup: str) -> str:
     return _EXTERNAL.sub(r'<a \1target="_blank" rel="noopener" href="https://', markup)
 
 
+# The Public Service menu across the top of every Records page, so readers
+# can always get back to the main site. Ghost is the one list: the build
+# reads it from Ghost (alerts/nav.py writes data/reference/ghost-nav.json),
+# and the saved copy is used when Ghost can't be read. Records is marked as
+# the current place. Every link stays in the same tab, as one site.
+GHOST_SITE = "https://www.gapublicservice.org"
+RECORDS_HOSTS = ("records.gapublicservice.org", "gapublicservice.github.io")
+GHOST_NAV_FALLBACK = {"site": GHOST_SITE, "title": "Public Service",
+                      "primary": [{"label": "Home", "url": GHOST_SITE + "/"},
+                                  {"label": "Records", "url": "https://records.gapublicservice.org/"}]}
+
+
+def ghost_nav() -> dict:
+    try:
+        nav = json.loads((ROOT / "data" / "reference" / "ghost-nav.json").read_text())
+        if nav.get("primary"):
+            return nav
+    except (OSError, ValueError):
+        pass
+    return GHOST_NAV_FALLBACK
+
+
+def ps_bar(up: str = "", on: str = "") -> str:
+    nav = ghost_nav()
+    site = (nav.get("site") or GHOST_SITE).rstrip("/")
+    if not site.startswith("https://"):
+        site = GHOST_SITE
+    items, has_records = [], False
+    for it in nav.get("primary", []):
+        url, label = str(it.get("url", "")), str(it.get("label", ""))
+        if not url.startswith("https://") or not label:
+            continue
+        host = url.split("/")[2].lower()
+        if host in RECORDS_HOSTS:
+            has_records = True
+            items.append(f'<a target="_self" class="here" aria-current="true" href="{up}index.html">{e(label)}</a>')
+        else:
+            items.append(f'<a target="_self" href="{e(url)}">{e(label)}</a>')
+    if not has_records:
+        items.append(f'<a target="_self" class="here" aria-current="true" href="{up}index.html">Records</a>')
+    title = e(nav.get("title") or "Public Service")
+    return (f'<div class="ps-top"><div class="ps-in">'
+            f'<a class="ps-mark" target="_self" href="{e(site)}/" aria-label="{title}: home">'
+            f'<span>{title}</span><span class="dot"></span></a>'
+            f'<nav class="ps-menu" aria-label="{title}">{"".join(items)}</nav></div></div>')
+
+
 def page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") -> str:
     return external_new_tab(_page(title, body, on, depth, extra_head))
 
@@ -122,7 +169,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}style.css?v={CSS_V}">{extra_head}
 </head><body>
-<div class="ps-top"><a target="_self" href="https://www.gapublicservice.org/"><span class="dot"></span><span>From <b>Public Service</b><span class="more"> · the newsletter, sessions and explainers</span></span><span class="go">Visit<span class="more"> the site</span> ↗</span></a></div>
+{ps_bar(up, on)}
 <header class="site"><div class="bar">
 <a class="name" href="{up}index.html"><span>Public<br>Service<small>The record</small></span><span class="dot"></span></a>
 <nav>{links}</nav></div></header>

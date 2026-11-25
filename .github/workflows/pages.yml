@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["harvester/site.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "data/meetings/**", ".github/workflows/pages.yml"]
+    paths: ["harvester/site.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "alerts/nav.py", "data/reference/ghost-nav.json", "data/meetings/**", ".github/workflows/pages.yml"]
   workflow_run:
     workflows: ["Nightly harvest", "Midday check", "Georgia generator list from EIA", "Backfill", "Docket titles", "Commission agendas", "Legislature harvest", "Meeting transcript"]
     types: [completed]
@@ -32,6 +32,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Public Service menu from Ghost
+        # Reads Ghost's primary menu for the bar on every page. If Ghost
+        # can't be read, the copy saved in the repo is used.
+        continue-on-error: true
+        env:
+          GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
+        run: python -m alerts.nav
       - run: python -m harvester.site
       - name: Bill pages
         # The newest regular session in the record, such as 2025_26 or 2027_28.

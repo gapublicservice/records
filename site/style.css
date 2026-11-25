@@ -6,15 +6,19 @@ a{color:var(--ink);text-decoration-color:var(--amber);text-decoration-thickness:
 a:hover{background:#fbf0d6}
 .mono,code,.num{font-family:"IBM Plex Mono",ui-monospace,monospace}
 header.site{border-bottom:1px solid var(--ink)}
-.ps-top{background:var(--ink);color:var(--paper)}
-.ps-top a{display:flex;align-items:center;gap:10px;max-width:1120px;margin:0 auto;padding:7px 16px;color:var(--paper);text-decoration:none;font:500 11px/1.2 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase}
-.ps-top a:hover{background:var(--ink)}
-.ps-top a:focus-visible{outline:3px solid var(--amber);outline-offset:-3px}
-.ps-top b{font-weight:600}
-.ps-top .dot{width:7px;height:7px;border-radius:50%;background:var(--amber);flex:none}
-.ps-top .go{margin-left:auto;color:var(--amber);white-space:nowrap}
-.ps-top a:hover .go{text-decoration:underline;text-underline-offset:3px}
-@media (max-width:640px){.ps-top .more{display:none}}
+/* Public Service menu bar (from Ghost's menu), above the Records header */
+.ps-top{background:var(--ink);color:var(--paper);border-bottom:1px solid #2a2a2a}
+.ps-in{display:flex;align-items:center;gap:24px;max-width:1120px;margin:0 auto;padding:0 16px;min-height:44px}
+.ps-mark{display:inline-flex;align-items:flex-start;gap:5px;color:var(--paper);text-decoration:none;font:700 15px/1 "Space Grotesk",system-ui,sans-serif;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;padding:12px 0}
+.ps-mark .dot{width:7px;height:7px;border-radius:50%;background:var(--amber);flex:none;margin-top:1px}
+.ps-menu{display:flex;gap:22px;margin-left:auto;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.ps-menu::-webkit-scrollbar{display:none}
+.ps-menu a{color:var(--paper);text-decoration:none;font:500 12px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;padding:16px 0 13px;border-bottom:3px solid transparent}
+.ps-menu a:hover{border-bottom-color:#8a8a8a}
+.ps-menu a.here{border-bottom-color:var(--amber)}
+.ps-top a:hover{background:transparent}
+.ps-top a:focus-visible{outline:3px solid var(--amber);outline-offset:2px}
+@media (max-width:720px){.ps-in{flex-wrap:wrap;gap:0 16px;min-height:0}.ps-mark{padding:11px 0 6px}.ps-menu{flex:1 0 100%;margin-left:0;gap:18px}.ps-menu a{font-size:11px;padding:8px 0 9px}}
 .bar{max-width:1120px;margin:0 auto;padding:14px 16px;display:flex;align-items:center;gap:24px;flex-wrap:wrap}
 .name{display:inline-flex;align-items:flex-start;gap:6px;background:var(--ink);color:var(--paper);padding:8px 12px 7px;text-decoration:none;line-height:.95;font-weight:700;letter-spacing:.02em;font-size:17px;text-transform:uppercase}
 .name:hover{background:var(--ink)}
