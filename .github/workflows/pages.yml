@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["harvester/site.py", "harvester/official.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "alerts/nav.py", "data/reference/ghost-nav.json", "data/meetings/**", ".github/workflows/pages.yml"]
+    paths: ["harvester/site.py", "harvester/official.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "harvester/household.py", "data/reference/household.json", "data/reference/bill-changes.json", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "alerts/nav.py", "data/reference/ghost-nav.json", "data/meetings/**", ".github/workflows/pages.yml"]
   workflow_run:
     workflows: ["Nightly harvest", "Midday check", "Georgia generator list from EIA", "Backfill", "Docket titles", "Commission agendas", "Legislature harvest", "Meeting transcript"]
     types: [completed]
@@ -40,6 +40,10 @@ jobs:
           GHOST_ADMIN_KEY: ${{ secrets.GHOST_ADMIN_KEY }}
         run: python -m alerts.nav
       - run: python -m harvester.site
+      - name: Bills and disconnections
+        # Written into the site only once data/reference/household.json says
+        # "live": true; until then it goes to _preview/, which isn't published.
+        run: python -m harvester.household site
       - name: Bill pages
         # The newest regular session in the record, such as 2025_26 or 2027_28.
         run: |

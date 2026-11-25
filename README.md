@@ -55,7 +55,18 @@ The record is published at records.gapublicservice.org, rebuilt from this reposi
 
 Anyone can follow a docket from the Follow page on gapublicservice.org. After each nightly harvest, `alerts/nightly.py` sends one short email for each followed docket that got new filings that night, to that docket's followers only. A night with no new filings sends nothing. Set `ENABLED = False` in that file to stop all alerts.
 
+## Bills and disconnections (not live yet)
+
+`harvester/household.py` builds a page of Georgia Power's typical residential bill
+(the Commission's Residential Rate Survey at 1,000 kWh), bill changes the Commission
+approved (from its orders, in `data/reference/bill-changes.json`), Georgia Power's
+monthly residential disconnections for nonpayment (from the bad debt reports it files
+in Docket 42516), and the Atlanta Gas Light base charge and typical marketer bills
+(from the Commission's Marketers Pricing Index). The nightly harvest reads the reports
+and pages into `data/household/`. The page is written to `_preview/` until
+`data/reference/household.json` says `"live": true`.
+
 ## Not built yet
 
 - Weekly cross-check against the Commission's advanced search counts.
-- Spreadsheet text.
+- Text from older spreadsheet formats (.xls). Excel workbooks (.xlsx) are read.

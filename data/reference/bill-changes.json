@@ -1,0 +1,27 @@
+{
+  "note": "Changes to the typical residential Georgia Power bill at 1,000 kWh, as the Commission's own orders state them. One entry per change, each with the order and the order's own words. Add entries only from orders.",
+  "changes": [
+    {
+      "effective": "2026-06-01",
+      "change_1000kwh": -4.02,
+      "approx": true,
+      "what": "Fuel cost recovery (FCR-27) and storm damage recovery, approved together in two orders of Aug 4, 2026",
+      "sources": [
+        {
+          "docket": 56765,
+          "document_id": 227445,
+          "attachment_id": 108706,
+          "quote": "the bill impact for the typical residential customer using an average of 1,000kWh decreases approximately $4.02 per month",
+          "effective_quote": "shall be effective for bills rendered beginning June 1, 2026"
+        },
+        {
+          "docket": 44280,
+          "document_id": 227446,
+          "attachment_id": 108708,
+          "quote": "the bill impact for the typical residential customer using an average of 1,000kWh decreases approximately $4.02 per month",
+          "effective_quote": "the amortization period for recovery of the storm damage regulatory asset shall be 67 months from June 1, 2026"
+        }
+      ]
+    }
+  ]
+}

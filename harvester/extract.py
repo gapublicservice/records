@@ -2,7 +2,8 @@
 
 PDF: pdftotext (poppler). Word: the document XML. Plain text and CSV: as is.
 Zip: each file inside, by the same rules, skipping any that the trade-secret
-checks in guard.py hold back. Spreadsheets and other formats are listed, not read yet.
+checks in guard.py hold back. Excel workbooks (.xlsx, .xlsm): each sheet's cells,
+row by row, when openpyxl is installed. Other formats are listed, not read yet.
 """
 
 from __future__ import annotations
@@ -43,6 +44,39 @@ def docx_text(data: bytes) -> str:
     return "\n".join(paras)
 
 
+def _cell(v) -> str:
+    import datetime as dt
+    if v is None:
+        return ""
+    if isinstance(v, bool):
+        return str(v)
+    if isinstance(v, (dt.datetime, dt.date)):
+        return f"{v:%b %Y}".upper()
+    if isinstance(v, float) and v.is_integer():
+        v = int(v)
+    if isinstance(v, int):
+        return f"{v:,}"
+    if isinstance(v, float):
+        return f"{v:,.2f}"
+    return re.sub(r"\s+", " ", str(v)).strip()
+
+
+def xlsx_text(data: bytes) -> str:
+    import openpyxl  # installed where spreadsheets are read (the nightly harvest)
+    wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True)
+    out = []
+    try:
+        for ws in wb.worksheets:
+            out.append(f"----- sheet: {ws.title} -----")
+            for row in ws.iter_rows(values_only=True):
+                cells = [_cell(v) for v in row]
+                if any(cells):
+                    out.append("  ".join(c if c else "" for c in cells).strip())
+    finally:
+        wb.close()
+    return "\n".join(out)
+
+
 def text_for(name: str, data: bytes) -> tuple[str | None, str]:
     """Returns (text or None, how). how says what was done, for the record."""
     ext = _ext(name)
@@ -57,6 +91,11 @@ def text_for(name: str, data: bytes) -> tuple[str | None, str]:
             return data.decode("utf-8", "replace"), "plain"
         if ext == ".zip":
             return zip_text(data)
+        if ext in (".xlsx", ".xlsm"):
+            try:
+                return xlsx_text(data), "xlsx"
+            except ImportError:
+                return None, "not read: .xlsx (openpyxl not installed)"
     except Exception as e:  # a bad file should not stop the night
         return None, f"failed: {type(e).__name__}"
     return None, f"not read: {ext or 'unknown type'}"

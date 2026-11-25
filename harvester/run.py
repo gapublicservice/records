@@ -37,7 +37,9 @@ MAX_ATTACHMENT_BYTES = 60_000_000
 # 56368 is the 2032-33 all-source RFP (an earlier list had 56189, which shows no filings).
 TS_BRACKET_RE = re.compile(r"\[\s*(begin|start)\s+(trade\s+secret|ts)\b", re.I)
 
-PRIORITY_DOCKETS = {57171, 57243, 56765, 44280, 56002, 56003, 56298, 56310, 56368, 55378}
+# 42516 is the 2019 rate case, where Georgia Power files its monthly bad debt
+# report (disconnections and arrears); harvester/household.py reads it.
+PRIORITY_DOCKETS = {57171, 57243, 56765, 44280, 56002, 56003, 56298, 56310, 56368, 55378, 42516}
 
 
 def today() -> str:

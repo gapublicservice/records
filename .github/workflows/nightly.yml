@@ -27,9 +27,20 @@ jobs:
         with:
           python-version: "3.12"
       - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils antiword
+      - run: pip install -q openpyxl
       - run: python -m unittest discover -s tests -t .
       - name: Harvest new filings
         run: python -m harvester.run nightly --seed "${{ github.event.inputs.seed || '229480' }}"
+      - name: Read Georgia Power's monthly bad debt reports (Docket 42516)
+        # Reads any report whose text isn't stored yet (a no-op once all are
+        # read), then turns the reports into monthly figures for the
+        # Bills and disconnections page.
+        if: always()
+        run: python -m harvester.run retext 42516 && python -m harvester.household collect
+      - name: Rate survey and gas pricing index from the Commission's site
+        if: always()
+        continue-on-error: true
+        run: python -m harvester.household fetch
       - name: Store titles of new dockets
         if: always()
         run: python -m harvester.dockets --max 200
