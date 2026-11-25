@@ -515,6 +515,14 @@ def main() -> int:
         return 0
     if todo:
         say(f"{len(todo)} meeting(s) to transcribe: " + ", ".join(m["id"] for m in todo))
+        # Keep the Mac from going to sleep partway through, and only while this run lasts.
+        # caffeinate exits by itself when this process ends, so the Mac can sleep again after.
+        if sys.platform == "darwin" and os.path.exists("/usr/bin/caffeinate"):
+            try:
+                subprocess.Popen(["/usr/bin/caffeinate", "-i", "-w", str(os.getpid())],
+                                 stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            except OSError:
+                pass
         from faster_whisper import WhisperModel
         say("Loading the speech-to-text model (the first time, this downloads it).")
         model = WhisperModel(a.model, device="cpu", compute_type="int8")
