@@ -40,7 +40,6 @@ import subprocess
 import sys
 import tempfile
 import urllib.request
-import venv
 import zipfile
 from pathlib import Path
 
@@ -78,18 +77,67 @@ def in_env() -> bool:
         return False
 
 
+# The speech-to-text parts are published ready-made only for these versions
+# (Python 3.14 has none yet on Intel Macs, so pip tries to build them and fails).
+OK_VERSIONS = ("3.13", "3.12", "3.11", "3.10")
+
+
+def _version(py: str) -> str | None:
+    try:
+        r = subprocess.run([py, "-c", "import sys; print('%d.%d' % sys.version_info[:2])"],
+                           capture_output=True, text=True, timeout=30)
+        return r.stdout.strip() or None
+    except (OSError, subprocess.SubprocessError):
+        return None
+
+
+def pick_python() -> str | None:
+    """A Python on this computer that the speech-to-text parts support."""
+    if "%d.%d" % sys.version_info[:2] in OK_VERSIONS:
+        return sys.executable
+    places = ["/opt/homebrew/bin", "/usr/local/bin", "/Library/Frameworks/Python.framework/Versions/Current/bin"]
+    for v in OK_VERSIONS:
+        for cand in [shutil.which(f"python{v}")] + [f"{d}/python{v}" for d in places]:
+            if cand and Path(cand).exists() and _version(cand) == v:
+                return cand
+    return None
+
+
+def env_version() -> str | None:
+    cfg = ENV / "pyvenv.cfg"
+    if not cfg.exists():
+        return None
+    for line in cfg.read_text().splitlines():
+        k, _, val = line.partition("=")
+        if k.strip() in ("version", "version_info"):
+            return ".".join(val.strip().split(".")[:2])
+    return None
+
+
 def setup() -> None:
     """Make the private Python environment the first time, then rerun inside it."""
-    if sys.version_info < (3, 10):
-        sys.exit(f"This needs Python 3.10 or newer, and this computer's python3 is {sys.version.split()[0]}. "
-                 "Install the current Python from python.org, then run this again.")
+    if env_python().exists() and env_version() not in OK_VERSIONS:
+        say("Removing an earlier setup that used an unsupported Python.")
+        shutil.rmtree(ENV)
     if not env_python().exists():
-        say("Setting up for the first time in ~/.psc-transcripts. This takes a few minutes.")
+        py = pick_python()
+        if not py:
+            have = "%d.%d" % sys.version_info[:2]
+            hint = ("Run this, then run the script again:\n\n    brew install python@3.12\n"
+                    if shutil.which("brew") else
+                    "Install Python 3.12 from python.org, then run the script again.")
+            sys.exit(f"This computer's python3 is {have}, and the speech-to-text tools need "
+                     f"Python 3.10 to 3.13. {hint}")
+        say(f"Setting up for the first time in ~/.psc-transcripts with Python {_version(py)}. "
+            "This takes a few minutes.")
         HOME.mkdir(parents=True, exist_ok=True)
-        venv.create(ENV, with_pip=True)
+        subprocess.run([py, "-m", "venv", str(ENV)], check=True)
     say("Checking the tools are up to date.")
-    subprocess.run([str(env_python()), "-m", "pip", "install", "-q", "--upgrade", "pip"], check=True)
-    subprocess.run([str(env_python()), "-m", "pip", "install", "-q", "--upgrade", *PACKAGES], check=True)
+    try:
+        subprocess.run([str(env_python()), "-m", "pip", "install", "-q", "--upgrade", "pip"], check=True)
+        subprocess.run([str(env_python()), "-m", "pip", "install", "-q", "--upgrade", "--only-binary=av,ctranslate2,onnxruntime,tokenizers", *PACKAGES], check=True)
+    except subprocess.CalledProcessError:
+        sys.exit("Installing the tools failed (above). Copy what this window says and paste it in the chat.")
     os.environ["PATH"] = str(env_bin()) + os.pathsep + os.environ.get("PATH", "")
     os.environ["PSC_TRANSCRIPTS_READY"] = "1"
     args = [str(env_python()), str(Path(__file__).resolve()), *sys.argv[1:]]
