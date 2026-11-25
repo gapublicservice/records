@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["harvester/site.py", "harvester/hearings.py", "harvester/official.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/regionmap.py", "data/reference/ga_counties_map.json", "harvester/positions.py", "harvester/household.py", "data/reference/household.json", "data/reference/bill-changes.json", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "alerts/nav.py", "data/reference/ghost-nav.json", "data/meetings/**", ".github/workflows/pages.yml"]
+    paths: ["harvester/site.py", "harvester/hearings.py", "harvester/official.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/regionmap.py", "data/reference/ga_counties_map.json", "harvester/positions.py", "harvester/explainers.py", "data/reference/explainers.json", "harvester/household.py", "data/reference/household.json", "data/reference/bill-changes.json", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "alerts/nav.py", "data/reference/ghost-nav.json", "data/meetings/**", ".github/workflows/pages.yml"]
   workflow_run:
     workflows: ["Nightly harvest", "Midday check", "Georgia generator list from EIA", "Backfill", "Docket titles", "Commission agendas", "Legislature harvest", "Meeting transcript"]
     types: [completed]

@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, hearings, ics, infrastructure, legal, meetings, official, positions, regionmap, wire
+from . import corrections, explainers, hearings, ics, infrastructure, legal, meetings, official, positions, regionmap, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -1305,6 +1305,7 @@ def build():
     (OUT / "dockets.html").write_text(page("Dockets", body, "dockets"))
 
     # One page per docket
+    exp_entries = explainers.load()
     for d, v in dockets.items():
         fs = sorted(by_docket.get(int(d), []), key=lambda r: (r.get("filed_date") or "", r["document_id"]), reverse=True)
         title = docket_title(fs, d)
@@ -1338,6 +1339,7 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
+{explainers.block(d, exp_entries) or explainers.auto_block(meta, fs[-1] if fs else None)}
 <p class="btns">{'<a class="pin-follow" href="#timeline">Timeline</a> ' if fs else ""}<a class="pin-follow" href="#comment">How to comment</a> <a class="pin-follow" href="#official">Official record</a> {f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
 {official.comment_box(d, official.next_date(d, events, on_agenda.get(d, []), now))}
@@ -1350,7 +1352,8 @@ def build():
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d
         p.mkdir(parents=True, exist_ok=True)
-        (p / "index.html").write_text(page(f"Docket {d}", body, "dockets", depth=2))
+        (p / "index.html").write_text(page(f"Docket {d}", body, "dockets", depth=2,
+                                           extra_head=explainers.STYLE if (explainers.for_docket(d, exp_entries) or explainers.AUTO_ON) else ""))
 
     # Last night
     new = sorted((r for r in rows if r["document_id"] in new_ids), key=lambda r: r["document_id"], reverse=True)

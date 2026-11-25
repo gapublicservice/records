@@ -1,0 +1,817 @@
+{
+  "_note": "Docket explainers, in our own words. Each entry: dockets, category, text, optional scope_contested, sources (document_id + label), approved, approved_on. Nothing is shown until approved is true with a date. Drafts are kept out of this public file until approved.",
+  "explainers": [
+    {
+      "dockets": [
+        57171
+      ],
+      "name": "RTP",
+      "category": "Fuel",
+      "text": "The Commission opened this review under its May 28, 2026 order in Georgia Power's FCR-27 fuel case (56765). It examines how Georgia Power splits revenue from customers on its real-time pricing (RTP) rate between fuel revenue and base revenue, and how it allocates those amounts. The order requires the review to end by December 31, 2026, with any change credited to fuel revenue and the matching change to base revenue recorded for the next base rate case. On November 23, 2026, Georgia Power and Public Interest Advocacy Staff filed a stipulation that would add a list of fixed fuel-related costs to that calculation from January 1, 2027; the Commission has not voted on it.",
+      "scope_contested": "Scope in dispute: Georgia Power moved on October 8 to strike parts of testimony filed for Georgia Interfaith Power & Light and three congregations, which answered that the testimony is within scope; no written ruling on the motion appears in the docket.",
+      "sources": [
+        {
+          "document_id": 227135,
+          "label": "procedural and scheduling order"
+        },
+        {
+          "document_id": 229540,
+          "label": "stipulation"
+        },
+        {
+          "document_id": 229066,
+          "label": "motion to strike"
+        },
+        {
+          "document_id": 229135,
+          "label": "response"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56765
+      ],
+      "name": "Fuel",
+      "category": "Fuel",
+      "text": "Georgia Power's application, filed February 17, 2026, to set the fuel cost recovery rates it charges customers (FCR-27). State law requires a hearing on each fuel filing and a Commission order within 90 days. The Commission adopted a stipulation between Georgia Power and Public Interest Advocacy Staff on May 28, 2026, with new rates for bills from June 1, 2026; the order also changed the interim fuel rider and natural gas hedging limits and opened the RTP review in 57171. Georgia Power's next fuel filing is due by February 28, 2029.",
+      "sources": [
+        {
+          "document_id": 225177,
+          "label": "procedural and scheduling order"
+        },
+        {
+          "document_id": 226750,
+          "label": "short order"
+        },
+        {
+          "document_id": 227445,
+          "label": "order adopting stipulation"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        44280
+      ],
+      "name": "Rate case",
+      "category": "Rate case",
+      "text": "Georgia Power's 2022 base rate case. The Commission set base rates in December 2022 under a three-year alternate rate plan, and the docket has stayed open for matters under that plan. In July 2025 the Commission approved a stipulation extending the plan through 2028, keeping base rates unchanged except for storm costs and requiring the next rate case filing by July 1, 2028. Later items here include Georgia Power's storm damage recovery application for Hurricane Helene costs, decided May 28, 2026, along with annual surveillance reports and large-load contract statements.",
+      "sources": [
+        {
+          "document_id": 192550,
+          "label": "2022 order"
+        },
+        {
+          "document_id": 223495,
+          "label": "order extending the rate plan"
+        },
+        {
+          "document_id": 227446,
+          "label": "storm order"
+        },
+        {
+          "document_id": 228126,
+          "label": "large-load contract statement"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56002
+      ],
+      "name": "IRP",
+      "category": "Integrated resource plan",
+      "text": "Georgia Power's 2025 integrated resource plan, its long-range plan for meeting customer demand, filed January 31, 2025 and heard with its certification, decertification and demand-side management application in 56003. The Commission adopted a stipulation between Georgia Power and Public Interest Advocacy Staff, later joined by several intervenors, on July 15, 2025. The approved plan includes extended operation of Plant Scherer Unit 3 and Plant Gaston and an all-source request for proposals for 2032 and 2033 (56368). The docket stays open for later items under the plan, such as the Plant Hatch uprates approved in October 2026.",
+      "sources": [
+        {
+          "document_id": 221169,
+          "label": "procedural and scheduling order"
+        },
+        {
+          "document_id": 223496,
+          "label": "order adopting stipulation"
+        },
+        {
+          "document_id": 229080,
+          "label": "Hatch uprates order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56368
+      ],
+      "name": "RFP",
+      "category": "Request for proposals",
+      "text": "Georgia Power's competitive solicitation for new capacity needed in 2032 and 2033, which the 2025 IRP stipulation required it to issue in early 2026. The request is open to any resource type that meets its requirements and is overseen by an independent evaluator. The Commission approved the final RFP documents on June 2, 2026; bids were due June 24, and the schedule sets the short list for December 4, 2026. Resources Georgia Power selects would come to the Commission for certification in a separate filing.",
+      "scope_contested": "Title note: the Commission's docket title says \"Need Years 2023-2033\"; Georgia Power's filings in the docket say 2032-2033.",
+      "sources": [
+        {
+          "document_id": 223826,
+          "label": "RFP filing"
+        },
+        {
+          "document_id": 226357,
+          "label": "request for approval"
+        },
+        {
+          "document_id": 226826,
+          "label": "order approving final documents"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        57454
+      ],
+      "name": "RFP",
+      "category": "Request for proposals",
+      "text": "Opened November 5, 2026 for Georgia Power's 2027 Clean and Renewable Energy Solicitation (CARES), a request for proposals for utility-scale renewable resources. So far the docket holds only team lists from Georgia Power and Southern Power Company. The RFP documents, size and schedule are not in the record yet.",
+      "sources": [
+        {
+          "document_id": 229378,
+          "label": "team lists"
+        },
+        {
+          "document_id": 229379,
+          "label": "team lists"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56478
+      ],
+      "name": "RFP",
+      "category": "Request for proposals",
+      "text": "Georgia Power's 2026 request for proposals for solar photovoltaic distributed generation. Georgia Power filed the RFP and its pro forma power purchase agreement on May 7, 2026, and the Commission approved the final documents by order filed May 22, 2026. Since then the docket holds updates to Georgia Power's team lists.",
+      "sources": [
+        {
+          "document_id": 226499,
+          "label": "RFP documents"
+        },
+        {
+          "document_id": 226708,
+          "label": "order approving final documents"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        57243
+      ],
+      "name": "Data center",
+      "category": "Complaint or petition",
+      "text": "Newton County residents and Sustainable Newton, represented by the Southern Environmental Law Center, petitioned on July 13, 2026 for a declaratory ruling and enforcement against VoltaGrid. They ask whether VoltaGrid's planned 90 MW gas-fired plant in Covington may supply power directly to a neighboring data center under Georgia's territorial and cogeneration laws. A hearing officer is assigned, and the hearing is set for December 9, 2026.",
+      "scope_contested": "Scope in dispute: VoltaGrid has moved to dismiss, saying it is not an electric supplier and the Commission lacks jurisdiction; Staff, Georgia Power, Georgia EMC and the petitioners filed responses.",
+      "sources": [
+        {
+          "document_id": 227215,
+          "label": "petition"
+        },
+        {
+          "document_id": 228806,
+          "label": "motion to dismiss"
+        },
+        {
+          "document_id": 229246,
+          "label": "amended scheduling order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56298,
+        56310
+      ],
+      "name": "Certification",
+      "category": "Certification",
+      "text": "Georgia Power asked the Commission to certify the resources it chose in its 2029-2031 all-source request for proposals (56298) and a separate set of supplemental resources for 2028-2031 (56310); the two were heard together. On December 19, 2025, the Commission unanimously adopted a stipulation and certified 9,885 MW, 7,999 MW from the RFP and 1,886 MW of supplemental resources, by order filed December 30, 2025. It denied petitions for reconsideration on February 23, 2026. A petition for judicial review of the order was filed in Fulton County Superior Court on March 25, 2026.",
+      "sources": [
+        {
+          "document_id": 224953,
+          "label": "order adopting stipulation and granting certification"
+        },
+        {
+          "document_id": 225550,
+          "label": "order denying reconsideration"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56003
+      ],
+      "name": "DSM",
+      "category": "Integrated resource plan",
+      "text": "Georgia Power Company's 2025 application to certify, decertify and amend its demand-side management programs, which cover energy efficiency and demand response. The Commission heard it with the 2025 Integrated Resource Plan in 56002 and adopted a stipulation between Public Interest Advocacy Staff and Georgia Power by order filed July 31, 2025. The docket stays open for Georgia Power's quarterly program reports.",
+      "sources": [
+        {
+          "document_id": 221234,
+          "label": "application"
+        },
+        {
+          "document_id": 223304,
+          "label": "stipulation"
+        },
+        {
+          "document_id": 223496,
+          "label": "order adopting stipulation"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        15296
+      ],
+      "name": "Gas marketer service quality",
+      "category": "Tariff or rule change",
+      "text": "The Commission's rulemaking on service quality standards for certificated natural gas marketers and the regulated provider, Rule Chapter 515-7-8. The Commission proposed amendments in October 2023, revised them twice in 2024 and adopted them by final order on December 18, 2024. The docket stays open for marketers' monthly service quality reports and their requests for waivers of the standards.",
+      "sources": [
+        {
+          "document_id": 215846,
+          "label": "notice of proposed rulemaking"
+        },
+        {
+          "document_id": 220197,
+          "label": "second revised notice"
+        },
+        {
+          "document_id": 220751,
+          "label": "final order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        14675
+      ],
+      "name": "Gas competition data requests",
+      "category": "Reports and compliance",
+      "text": "A standing docket where Commission Staff sends recurring data requests to certificated natural gas marketers and the marketers file their answers. Filings are captioned \"Analysis of the Impact of Natural Gas Competition and Deregulation,\" though the Commission's docket title names a single set of data requests. Recent requests ask for rates and customer counts by type of plan.",
+      "sources": [
+        {
+          "document_id": 229530,
+          "label": "Staff data requests, Nov 23, 2026"
+        },
+        {
+          "document_id": 229531,
+          "label": "Staff data requests, Nov 23, 2026"
+        },
+        {
+          "document_id": 226156,
+          "label": "marketer filing"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        55356
+      ],
+      "name": "Regulated gas provider",
+      "category": "Request for proposals",
+      "text": "The Commission's selection of the regulated provider of natural gas service for 2024 through 2026. It issued a request for proposals on October 17, 2023, selected the provider by order on April 4, 2024, and on July 30, 2025 extended SCANA Energy's term as regulated provider through 2026, after SCANA petitioned for a third year. The docket also holds the provider's monthly price offers, true-up reports and requests to draw on the Universal Service Fund.",
+      "sources": [
+        {
+          "document_id": 218253,
+          "label": "order selecting the provider"
+        },
+        {
+          "document_id": 219648,
+          "label": "consent order"
+        },
+        {
+          "document_id": 223497,
+          "label": "order extending SCANA's term"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        42315
+      ],
+      "name": "AGL 2019 rate case",
+      "category": "Rate case",
+      "text": "Atlanta Gas Light Company's 2019 rate case and affiliate transaction audit, which now serves as the docket for its annual Georgia Rate Adjustment Mechanism (GRAM) filings. On December 12, 2024 the Commission approved a stipulation between Natural Gas Staff and Atlanta Gas Light on the 2025 to 2027 annual filings. Atlanta Gas Light filed its 2027 annual filing on July 1, 2026; Staff sent data requests in October, and no order on it appears yet.",
+      "sources": [
+        {
+          "document_id": 220673,
+          "label": "order approving stipulation"
+        },
+        {
+          "document_id": 224900,
+          "label": "Staff statement on the 2026 filing"
+        },
+        {
+          "document_id": 227081,
+          "label": "2027 annual filing"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        12897
+      ],
+      "name": "Gas Universal Service Fund assistance",
+      "category": "Other",
+      "text": "The docket for emergency heating assistance paid from the natural gas Universal Service Fund, where agencies petition to run assistance programs and file monthly reports. The Commission approved programs run by The Salvation Army Georgia Division for 2024 to 2026, HopeWorks for 2025 to 2029 and the Heating Energy Assistance Team for 2027 to 2029. It also approved emergency assistance for low-income senior citizens and other low-income citizens by order on October 22, 2025.",
+      "sources": [
+        {
+          "document_id": 216451,
+          "label": "orders approving the agency petitions"
+        },
+        {
+          "document_id": 219738,
+          "label": "orders approving the agency petitions"
+        },
+        {
+          "document_id": 227544,
+          "label": "orders approving the agency petitions"
+        },
+        {
+          "document_id": 224326,
+          "label": "October 2025 order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        55931
+      ],
+      "name": "Plant Yates 8-10 monitoring",
+      "category": "Reports and compliance",
+      "text": "The Commission's monitoring of Georgia Power Company's construction of simple cycle Units 8 to 10 at Plant Yates. Georgia Power files monthly status reports and semi-annual construction monitoring reports, with cost and schedule detail filed as trade secret, and Public Interest Advocacy Staff files its own semi-annual reports. Staff's latest covers the period ending June 30, 2026.",
+      "sources": [
+        {
+          "document_id": 227603,
+          "label": "Georgia Power's fourth semi-annual report"
+        },
+        {
+          "document_id": 229264,
+          "label": "Staff's fourth semi-annual report"
+        },
+        {
+          "document_id": 229546,
+          "label": "October 2026 status report"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        42959
+      ],
+      "name": "Liberty 2020 rate case",
+      "category": "Rate case",
+      "text": "Liberty Utilities (Peach State Natural Gas)'s 2020 rate case, which now serves as the docket for its annual Georgia Rate Adjustment Mechanism (GRAM) filings and tariff petitions. The Commission approved Liberty's 2026 filing on December 17, 2025 and a Staff and Liberty stipulation on the 2025 revenue true-up on August 27, 2026. Liberty filed its 2027 annual filing on September 1, 2026, and no order on it appears yet.",
+      "sources": [
+        {
+          "document_id": 224884,
+          "label": "order on the 2026 filing"
+        },
+        {
+          "document_id": 228185,
+          "label": "order on the true-up stipulation"
+        },
+        {
+          "document_id": 228261,
+          "label": "2027 annual filing"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56178
+      ],
+      "name": "Liberty gas supply plan 2025-26",
+      "category": "Fuel",
+      "text": "Liberty Utilities (Peach State Natural Gas)'s gas supply plan for 2025 to 2026, filed July 1, 2025. Commission Staff and Liberty filed a stipulation on September 2, 2025, and the Commission adopted it by final order on September 17, 2025. The docket stays open for Liberty's monthly gas cost filings and its performance-based ratemaking and hedging reports.",
+      "sources": [
+        {
+          "document_id": 222289,
+          "label": "scheduling order"
+        },
+        {
+          "document_id": 223847,
+          "label": "stipulation"
+        },
+        {
+          "document_id": 224000,
+          "label": "final order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56177
+      ],
+      "name": "AGL capacity supply plan 2025-28",
+      "category": "Fuel",
+      "text": "Atlanta Gas Light Company's capacity supply plan for 2025 to 2028, filed July 1, 2025, which the Commission resolved by adopting a stipulation on September 17, 2025. In April 2026 SCANA Energy Marketing filed a complaint here against Atlanta Gas Light over Transco OFO penalties, and on October 28, 2026 the Commission granted in part and denied in part Atlanta Gas Light's motion to dismiss it. On November 20, 2026 Staff and Atlanta Gas Light filed a stipulation, also in 16193, to continue the current asset management agreement through March 31, 2031; the Commission has not acted on it.",
+      "sources": [
+        {
+          "document_id": 223201,
+          "label": "plan filing"
+        },
+        {
+          "document_id": 223999,
+          "label": "final order"
+        },
+        {
+          "document_id": 229279,
+          "label": "order on the motion to dismiss"
+        },
+        {
+          "document_id": 229517,
+          "label": "asset management stipulation"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56139
+      ],
+      "name": "Energy storage RFP",
+      "category": "Request for proposals",
+      "text": "Georgia Power Company's 2025 request for proposals for energy storage, called the ESS 500 RFP in filings. The Commission approved the final RFP documents by order on February 5, 2026. Since then the docket holds mainly evaluation and bid team lists, and no bid results are in the record yet.",
+      "sources": [
+        {
+          "document_id": 225030,
+          "label": "RFP filing"
+        },
+        {
+          "document_id": 225329,
+          "label": "final documents"
+        },
+        {
+          "document_id": 225336,
+          "label": "order approving final documents"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        55952
+      ],
+      "name": "CARES 2025 renewable RFP",
+      "category": "Request for proposals",
+      "text": "Georgia Power Company's CARES 2025 request for proposals for utility-scale renewable resources. The Commission approved a bid refresh and amended contract forms on December 4, 2025 and a customer-identified resource addendum on December 18, 2025. Georgia Power filed end-of-process reports on July 7 and October 16, 2026.",
+      "sources": [
+        {
+          "document_id": 223200,
+          "label": "final documents"
+        },
+        {
+          "document_id": 224720,
+          "label": "bid refresh order"
+        },
+        {
+          "document_id": 224892,
+          "label": "addendum order"
+        },
+        {
+          "document_id": 227116,
+          "label": "end-of-process filing"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        43820
+      ],
+      "name": "AGL capacity and delivery plan",
+      "category": "Integrated resource plan",
+      "text": "Atlanta Gas Light Company's integrated capacity and delivery plan (i-CDP) for 2025 to 2034 and the reports that follow it. The Commission adopted a stipulation between Public Interest Advocacy Staff and Atlanta Gas Light on the plan on July 2, 2024 and approved amendments to it on June 22, 2026. The docket also holds Atlanta Gas Light's quarterly rider reports and tracking reports for its LNG projects.",
+      "sources": [
+        {
+          "document_id": 217299,
+          "label": "petition"
+        },
+        {
+          "document_id": 219236,
+          "label": "order adopting stipulation"
+        },
+        {
+          "document_id": 226958,
+          "label": "order approving amendments"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        31536
+      ],
+      "name": "EMC tariffs",
+      "category": "Tariff or rule change",
+      "text": "The docket where Georgia's electric membership corporations file their rates, rate schedules and service rules. Filers include Cobb EMC, Jackson EMC, Sawnee EMC, Flint Energies, Walton EMC and others. No Commission orders appear here in the record since 2022.",
+      "sources": [
+        {
+          "document_id": 225059,
+          "label": "Cobb EMC 2026 rate filing"
+        },
+        {
+          "document_id": 229443,
+          "label": "Jefferson Energy Cooperative tariffs"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        43510
+      ],
+      "name": "AGL USF facilities expansion",
+      "category": "Reports and compliance",
+      "text": "Atlanta Gas Light Company's annual Universal Service Fund Facilities Expansion Plans, which list projects by county. The Commission approved the 2025 plan on September 12, 2025 and the 2026 plan on December 18, 2025, and approved amendments adding projects during 2026. The docket also holds notices of completed projects and quarterly fund reports.",
+      "sources": [
+        {
+          "document_id": 223955,
+          "label": "2025 plan order"
+        },
+        {
+          "document_id": 224905,
+          "label": "2026 plan order"
+        },
+        {
+          "document_id": 228312,
+          "label": "Dawson-Lumpkin order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        44160
+      ],
+      "name": "Georgia Power 2022 IRP",
+      "category": "Integrated resource plan",
+      "text": "Georgia Power Company's 2022 Integrated Resource Plan, filed January 31, 2022. The Commission's 2022 decision on it predates this record. The docket now holds reports and orders carrying out that plan, including a December 2024 order certifying the Robins, Moody, Hammond and McGrau Ford battery storage projects and an April 22, 2026 order updating the renewable integration cost used in Georgia Power's RFPs. The 2025 plan is in 56002.",
+      "sources": [
+        {
+          "document_id": 204905,
+          "label": "2023 reconsideration order"
+        },
+        {
+          "document_id": 220706,
+          "label": "battery storage order"
+        },
+        {
+          "document_id": 226331,
+          "label": "integration cost order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        2663
+      ],
+      "name": "Georgia Power reports",
+      "category": "Reports and compliance",
+      "text": "A standing Georgia Power Company docket for its monthly and quarterly operating reports and quarterly load duration curves. No Commission orders appear here in the record since 2022.",
+      "sources": [
+        {
+          "document_id": 229363,
+          "label": "operating reports"
+        },
+        {
+          "document_id": 229415,
+          "label": "operating reports"
+        },
+        {
+          "document_id": 229454,
+          "label": "load duration curves"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        55973
+      ],
+      "name": "Cartersville v. Georgia Power",
+      "category": "Complaint or petition",
+      "text": "A petition the City of Cartersville filed against Georgia Power Company on October 11, 2024. A Hearing Officer heard the case and issued an Initial Decision on September 11, 2026. The City applied for full Commission review on October 7, 2026, Georgia Power responded on November 6, and the application is pending.",
+      "sources": [
+        {
+          "document_id": 220165,
+          "label": "petition"
+        },
+        {
+          "document_id": 228415,
+          "label": "Initial Decision"
+        },
+        {
+          "document_id": 229057,
+          "label": "application for review"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        15326
+      ],
+      "name": "Gas Universal Service Fund rules",
+      "category": "Reports and compliance",
+      "text": "A natural gas docket the Commission opened to consider changes to its Universal Service Fund rules, which now holds recurring fund filings. These include marketers' annual reports on unclaimed customer deposits sent to the fund, Staff's quarterly escrow account statements, and Atlanta Gas Light Company's annual fund reports and petitions to waive one rule, which the Commission approved in January 2024, January 2025 and February 2026.",
+      "sources": [
+        {
+          "document_id": 217352,
+          "label": "escrow agreement order"
+        },
+        {
+          "document_id": 225316,
+          "label": "2026 waiver order"
+        },
+        {
+          "document_id": 229492,
+          "label": "marketer deposit report"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        3382
+      ],
+      "name": "Georgia Power fuel reports",
+      "category": "Fuel",
+      "text": "The standing docket where Georgia Power Company files monthly and quarterly reports comparing fuel cost recovery billings with fuel expense. The full reports are filed as trade secret, with public versions. Fuel rates themselves are set in separate fuel cases, most recently 56765.",
+      "sources": [
+        {
+          "document_id": 229351,
+          "label": "third quarter 2026 report"
+        },
+        {
+          "document_id": 229511,
+          "label": "October 2026 report"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        56181
+      ],
+      "name": "CARES 2023 certification",
+      "category": "Certification",
+      "text": "Georgia Power Company's application, filed June 5, 2025, to certify power purchase agreements for utility-scale renewable resources chosen in its CARES 2023 request for proposals. The Commission approved a stipulation between Public Interest Advocacy Staff and Georgia Power on September 4, 2025, and adopted a second stipulation on a supplemental application on September 2, 2026. Later orders approved a change of control for one solar facility and an amendment to one agreement.",
+      "sources": [
+        {
+          "document_id": 222902,
+          "label": "application"
+        },
+        {
+          "document_id": 223859,
+          "label": "2025 order"
+        },
+        {
+          "document_id": 228270,
+          "label": "2026 order"
+        },
+        {
+          "document_id": 229190,
+          "label": "amendment order"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        44161
+      ],
+      "name": "Georgia Power 2022 DSM",
+      "category": "Integrated resource plan",
+      "text": "Georgia Power Company's 2022 demand-side management application, heard with the 2022 Integrated Resource Plan in 44160; the 2022 order predates this record. It now holds Georgia Power's quarterly program reports, annual true-up filings and answers to Staff data requests. The 2025 application is in 56003.",
+      "sources": [
+        {
+          "document_id": 204905,
+          "label": "2023 reconsideration order"
+        },
+        {
+          "document_id": 226612,
+          "label": "first quarter 2026 report"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        55650
+      ],
+      "name": "Liberty gas supply plan 2024-25",
+      "category": "Fuel",
+      "text": "Liberty Utilities (Peach State Natural Gas)'s gas supply plan for 2024 to 2025. Staff and Liberty filed joint testimony on September 6, 2024, and the Commission adopted a stipulation by order on September 26, 2024. The 2025 to 2026 plan is in 56178.",
+      "sources": [
+        {
+          "document_id": 218254,
+          "label": "scheduling order"
+        },
+        {
+          "document_id": 219858,
+          "label": "joint testimony"
+        },
+        {
+          "document_id": 220031,
+          "label": "order adopting stipulation"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        10473
+      ],
+      "name": "Gas market share reports",
+      "category": "Reports and compliance",
+      "text": "A natural gas docket opened on a petition by the Energy Service Providers Association to establish procedures for random assignment, as the Commission's docket title puts it; the petition and order predate this record. Since 2022 it holds only Atlanta Gas Light Company's monthly market share reports.",
+      "sources": [
+        {
+          "document_id": 225389,
+          "label": "market share reports"
+        },
+        {
+          "document_id": 229403,
+          "label": "market share reports"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    },
+    {
+      "dockets": [
+        12898
+      ],
+      "name": "AGL seasonal rate reports",
+      "category": "Reports and compliance",
+      "text": "A docket that began with Atlanta Gas Light Company's filing to amend its Rate Schedule R-1; the filing and order predate this record. Since 2022 it holds Atlanta Gas Light's monthly seasonal rate reports and an annual seasonal rate report each March.",
+      "sources": [
+        {
+          "document_id": 225989,
+          "label": "annual report"
+        },
+        {
+          "document_id": 229428,
+          "label": "November 2026 report"
+        }
+      ],
+      "approved": true,
+      "approved_on": "2026-11-25"
+    }
+  ]
+}
