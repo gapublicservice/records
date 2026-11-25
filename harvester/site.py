@@ -742,10 +742,29 @@ def _meta(name: str) -> dict:
     return {k: v for k, v in d.items() if k != "events"}
 
 
+# Public Service write-ups of Commission sessions and meetings, keyed "YYYY-MM-DD kind"
+# (kind as in the calendar: session, committee, working group, forum). Added by hand
+# when a readout is published on Ghost, so a row links only to a post that is live.
+_READOUTS: dict | None = None
+
+
+def readout_for(ev: dict) -> str:
+    global _READOUTS
+    if _READOUTS is None:
+        p = ROOT / "data" / "reference" / "readouts.json"
+        _READOUTS = {k: v for k, v in json.loads(p.read_text()).items() if not k.startswith("_")} if p.exists() else {}
+    return _READOUTS.get(f'{ev.get("date")} {ev.get("kind")}', "")
+
+
 def _cal_row(ev: dict, agendas: dict, known: set, add: bool, meet_day: dict | None = None) -> str:
     uid = ics.uid_for(ev)
     what = e(ics.summary_for(ev).removeprefix("PSC "))
     link = f'<a href="{e(ev["url"])}">{what}</a>' if ev.get("url") else what
+    if (ro := readout_for(ev)):
+        # What happened, first; the Commission's own page stays one click away.
+        link = f'<a href="{e(ro)}">{what}</a> <a class="tag" href="{e(ro)}">Readout</a>'
+        if ev.get("url"):
+            link += f' <a class="muted" href="{e(ev["url"])}">Commission page</a>'
     if ev.get("other"):
         link += ' <span class="tag">Not a Commission event</span>'
     dks = sorted({int(d) for d in ev.get("dockets") or []})  # the agenda page lists the rest
