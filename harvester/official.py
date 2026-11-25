@@ -76,7 +76,7 @@ def comment_box(d: str, nxt: dict | None, up: str = "../../") -> str:
         what = (f'<a href="{e(nxt["href"])}">{e(nxt["title"])}</a>' if nxt["href"] else e(nxt["title"]))
         ours = f' · <a href="{up}{e(nxt["ours"])}#d{e(d)}">The agenda</a>' if nxt["ours"] else ""
         tip = KIND_NOTE.get(nxt["kind"], "")
-        date_line = (f'<p class="cb-next"><b>Next on the Commission\'s calendar:</b> {e(when)}. {what}{ours}'
+        date_line = (f'<p class="cb-next"><b>Next on the Commission\'s calendar:</b> {e(when)}: {what}{ours}.'
                      f'{(" " + e(tip)) if tip else ""}</p>')
     else:
         date_line = ('<p class="cb-next"><b>Next on the Commission\'s calendar:</b> no upcoming hearing or meeting '
