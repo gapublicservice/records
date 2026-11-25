@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110635,
+      "bytes": 369525,
+      "fetched": "2026-11-25T17:41:23+00:00",
+      "name": "dkt_22403_hedging_oct_2026_pd.zip",
+      "sha256": "62f7a728882ab522a3ecf5b09656ebdc554f239b253c1d4d06c77706ed9bd1b6",
+      "text": "zip (3 read, 1 not read, 1 trade-secret-marked files skipped)",
+      "text_file": "data/text/229/229575/110635.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229575/110635"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "22403 Hedging Report for October 2026",
+  "dockets": [
+    22403
+  ],
+  "document_id": 229575,
+  "filed_date": "2026-11-25",
+  "harvested": "2026-11-25",
+  "received_date": "2026-11-25",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229575"
+}

@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110633,
+      "bytes": 8092911,
+      "fetched": "2026-11-25T17:41:19+00:00",
+      "name": "ga-etc-application-pub.pdf",
+      "sha256": "167efbe97a0ec63594882b6a468d3d7e9f362c4ca2f1608059456b6f1620c00c",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229573/110633.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229573/110633"
+    }
+  ],
+  "company": "LTE WIRELESS INC.",
+  "description": "In the Matter of the Application of LTE Wireless for Designation as an Eligible Telecommunications Carrier",
+  "dockets": [
+    56680
+  ],
+  "document_id": 229573,
+  "filed_date": "2026-11-25",
+  "harvested": "2026-11-25",
+  "received_date": "2026-11-25",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229573"
+}
