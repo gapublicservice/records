@@ -25,7 +25,7 @@ class SiteTest(unittest.TestCase):
 
     def test_page_carries_independence_and_sponsor(self):
         html = site.page("T", "<p>x</p>", "search")
-        self.assertIn("not a work product of the Georgia Public Service Commission", html)
+        self.assertIn("It is not a product or publication of the Georgia Public Service Commission.", html)
         self.assertIn("project of Paul Glaze", html)
         self.assertIn("GCVEF", html)
 

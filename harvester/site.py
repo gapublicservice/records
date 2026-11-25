@@ -28,13 +28,14 @@ CSS_V = __import__("hashlib").sha1((SRC / "style.css").read_bytes()).hexdigest()
 PSC_DOC = "https://psc.ga.gov/search/facts-document/?documentId="
 PSC_DOCKET = "https://psc.ga.gov/search/facts-docket/?docketId="
 
-INDEPENDENCE = ("Public Service is an independent project. It is not a product of the Georgia "
-                "Public Service Commission, and the Commission does not run or endorse it. "
+INDEPENDENCE = ("Public Service is an independent project. It is not a product or publication of "
+                "the Georgia Public Service Commission. "
                 "The Commission's own record is at psc.ga.gov.")
-# Footer on every records page: Paul's wording, picked Nov 23, 2026.
+# Footer on every records page: Paul's wording, picked Nov 23, 2026; independence sentence
+# changed to the editorial policy's line, Paul's pick on Nov 25.
 FOOTER = ("Public Service Records is a project of Paul Glaze, produced in his work with "
-          "Georgia Conservation Voters and the GCV Education Fund. It is independent and is "
-          "not a work product of the Georgia Public Service Commission. Public Service Records "
+          "Georgia Conservation Voters and the GCV Education Fund. Public Service is an independent "
+          "project. It is not a product or publication of the Georgia Public Service Commission. Public Service Records "
           "was produced with standard APIs, GitHub, and Claude. The writing is all original.")
 SPONSOR = "Sponsored by the Georgia Conservation Voters Education Fund (GCVEF)."
 # Paul's own climate line for the About page, in his words. Empty until he writes it;
@@ -1394,7 +1395,7 @@ def build():
 
     # About
     body = f"""<div class="kicker">About</div><h1>About the record</h1>
-<p class="lede">Public Service keeps a complete, searchable copy of what the Georgia Public Service Commission posts, for reporters, advocates, local officials and ratepayers: anyone who needs to know what the Commission did and why.</p>
+<p class="lede">Public Service Records keeps a complete, searchable copy of what the Georgia Public Service Commission posts, for anyone who needs to know what the Commission did and why: reporters, advocates, local officials and ratepayers.</p>
 {f"<p>{e(CLIMATE_LINE)}</p>" if CLIMATE_LINE else ""}
 <div class="note"><strong>{e(INDEPENDENCE)}</strong></div>
 <h2>Who is behind it</h2>

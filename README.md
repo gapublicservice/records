@@ -2,7 +2,7 @@
 
 A nightly copy of every public filing at the Georgia Public Service Commission, made searchable.
 
-This is an independent project. It is not a work product of the Georgia Public Service Commission, and the Commission does not run or endorse it. The Commission's own record is at psc.ga.gov.
+This is an independent project. It is not a product or publication of the Georgia Public Service Commission. The Commission's own record is at psc.ga.gov.
 
 The Commission has no single feed of new filings. Every filing has its own page, and filing numbers run in one sequence across all dockets. So the harvester walks the numbers forward each night and stores what it finds.
 
