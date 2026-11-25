@@ -202,3 +202,9 @@ details summary{cursor:pointer;margin:4px 0 8px}
 .tl-pf .mono,.tl-pm .mono{font-size:12px;color:var(--muted)}
 .tl-pc{display:block;font-size:12px;color:var(--muted)}
 .tl-k{font-size:11px;padding:1px 5px;border:1px solid var(--amber)}
+
+/* Unofficial meeting transcripts */
+.transcript{max-width:46rem}
+.tr-p{margin:0 0 .9rem;line-height:1.6}
+.tr-t{display:inline-block;min-width:4.2rem;margin-right:.4rem;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line)}
+.tr-t:hover,.tr-t:focus{color:var(--ink);border-bottom-color:var(--amber)}

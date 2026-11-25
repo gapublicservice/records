@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, ics, infrastructure, legal, positions, wire
+from . import corrections, ics, infrastructure, legal, meetings, positions, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -694,7 +694,7 @@ def _meta(name: str) -> dict:
     return {k: v for k, v in d.items() if k != "events"}
 
 
-def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
+def _cal_row(ev: dict, agendas: dict, known: set, add: bool, meet_day: dict | None = None) -> str:
     uid = ics.uid_for(ev)
     what = e(ics.summary_for(ev).removeprefix("PSC "))
     link = f'<a href="{e(ev["url"])}">{what}</a>' if ev.get("url") else what
@@ -703,6 +703,7 @@ def _cal_row(ev: dict, agendas: dict, known: set, add: bool) -> str:
     dks = sorted({int(d) for d in ev.get("dockets") or []})  # the agenda page lists the rest
     dk = " ".join(f'<a class="mono" href="docket/{d}/">{d}</a>' for d in dks if str(d) in known)
     ag = agenda_link(ev.get("url"), agendas).strip() if ev.get("url") else ""
+    ag = (ag + transcript_link(ev, meet_day or {})).strip()
     adds = ""
     if add:
         adds = (f'<a class="cal-btn" href="{e(ics.google_link(ev, agendas, known))}">Google</a> '
@@ -774,7 +775,7 @@ def submit_event_page() -> str:
 </form>"""
 
 
-def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | None) -> str:
+def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | None, meet_day: dict | None = None) -> str:
     known = set(load_known_dockets())
     links = ics.subscribe_links()
     up = [ev for ev in allev if ev["date"] >= today]
@@ -790,7 +791,9 @@ def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | N
     head = '<thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th><th>Add to your calendar</th></tr></thead>'
     upcoming = (f'<table class="wide cal">{head}<tbody>{"".join(rows)}</tbody></table>' if up
                 else '<p class="muted">Nothing on the Commission calendar yet.</p>')
-    past_rows = "".join(_cal_row(ev, agendas, known, False) for ev in past)
+    past_rows = "".join(_cal_row(ev, agendas, known, False, meet_day) for ev in past)
+    tr_line = ('<p class="muted">Administrative sessions and committee meetings have <a href="transcripts.html">unofficial '
+               "transcripts</a>, made by machine from the Commission's video.</p>\n" if meet_day else "")
     return f"""<div class="kicker">Georgia Public Service Commission</div>
 <h1>Commission calendar</h1>
 <p class="lede">Every hearing, administrative session and committee meeting on the Commission's calendar, with links to each agenda and docket. The Commission's site has no calendar feed, so we make one.</p>
@@ -806,7 +809,7 @@ def calendar_page(allev: list[dict], agendas: dict, today: str, checked: str | N
 <h2>Coming up</h2>
 {upcoming}
 <h2>Last 60 days</h2>
-<table class="wide cal"><thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th></tr></thead><tbody>{past_rows}</tbody></table>
+{tr_line}<table class="wide cal"><thead><tr><th>Day</th><th>Time</th><th>Meeting</th><th>Agenda</th></tr></thead><tbody>{past_rows}</tbody></table>
 {older_agendas(agendas, recent)}"""
 
 
@@ -879,7 +882,7 @@ def _item_text(line: str) -> str:
     return re.sub(r"^.*?docket\s*(?:nos?\.?|numbers?|#)?\s*[\d,\s&and-]*[:.]?\s*", "", line, count=1, flags=re.I) or line
 
 
-def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
+def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None, meet_day: dict | None = None) -> str:
     kind = KIND_LABEL.get(ev["kind"], "Meeting")
     d = dt.date.fromisoformat(ev["date"])
     when = f'{d:%A, %B} {d.day}, {d.year}' + (f' at {ev["time"]}' if ev.get("time") else "")
@@ -903,13 +906,98 @@ def agenda_page(url: str, ev: dict, dockets: dict, checked: str | None) -> str:
     read = ev.get("read") or checked
     return f"""<div class="kicker"><a href="../../calendar.html">Commission calendar</a></div>
 <h1>{e(kind)}, {e(f"{d:%b} {d.day}, {d.year}")}</h1>
-<p class="lede">{e(when)}. <a href="{e(url)}">The Commission's page for this meeting</a></p>
+<p class="lede">{e(when)}. <a href="{e(url)}">The Commission's page for this meeting</a>{transcript_link(ev, meet_day or {}, "../../")}</p>
 <div class="note"><strong>This is a copy of the agenda the Commission posted, made so each docket links to its record.</strong>
 The Commission's file is the official agenda and the one to cite. Layout and numbering may differ a little from the original.</div>
 {copied_note("Agendas are copies.", read)}
 <p class="muted">Agendas are often amended in the days before a meeting. An amended agenda the Commission posts after our nightly run shows up here the next morning.</p>
 {"".join(parts)}
 {f'<h2>Dockets on this agenda</h2><ul class="ag-dockets">{dk_list}</ul>' if dk_list else ""}"""
+
+
+# Unofficial transcripts of administrative sessions and committee meetings
+# (harvester/meetings.py). Speech-to-text, labeled as such on every page.
+TRANSCRIPT_LAG = ("New administrative sessions and committee meetings are transcribed once a day, "
+                  "usually the day after the Commission posts the video. The Commission's video is "
+                  "the one to rely on.")
+TRANSCRIPT_NOTE = ("<strong>This is an unofficial transcript, made by a machine from the Commission's "
+                   "video.</strong> It is not a Commission record. It will have mistakes, including in "
+                   "names, numbers and docket numbers, and it does not say who is speaking. Before you "
+                   "quote it, check the words against the video at the time mark: each time mark "
+                   "opens the video at that moment.")
+
+
+def _clock(sec: float) -> str:
+    sec = int(sec)
+    h, rem = divmod(sec, 3600)
+    m, s = divmod(rem, 60)
+    return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
+
+
+def _yt_at(url: str, sec: float) -> str:
+    return f'{url}{"&" if "?" in url else "?"}t={int(sec)}s'
+
+
+def meeting_by_day(meets: list[dict]) -> dict:
+    return {(m["date"], m["kind"]): m for m in meets}
+
+
+def transcript_link(ev: dict, by_day: dict, up: str = "") -> str:
+    m = by_day.get((ev.get("date"), ev.get("kind")))
+    return (f' <a class="tk-agenda" href="{up}transcript/{e(m["id"])}/">Transcript (unofficial)</a>'
+            if m else "")
+
+
+def transcript_paras(segs: list[dict], gap: float = 50.0) -> list[tuple[float, str]]:
+    """Segments joined into paragraphs of about a minute, each with its start time."""
+    out, start, buf = [], None, []
+    for s in segs:
+        if start is None:
+            start = s["start"]
+        buf.append(s["text"])
+        if s["end"] - start >= gap and s["text"].rstrip().endswith((".", "?", "!")):
+            out.append((start, " ".join(buf)))
+            start, buf = None, []
+    if buf:
+        out.append((start or 0, " ".join(buf)))
+    return out
+
+
+def transcript_page(m: dict, ev_url: str | None, agendas: dict) -> str:
+    kind = KIND_LABEL.get(m["kind"], "Meeting")
+    d = dt.date.fromisoformat(m["date"])
+    src = m.get("source_page") or ""
+    agenda = ""
+    if ev_url and has_agenda_text(agendas.get(ev_url)):
+        agenda = f' <a href="../../agenda/{e(agenda_slug(ev_url))}/">The agenda</a>.'
+    elif ev_url:
+        agenda = f' <a href="{e(ev_url)}">The Commission\'s page for this meeting</a>.'
+    paras = "".join(
+        f'<p class="tr-p"><a class="mono tr-t" href="{e(_yt_at(src, t))}" title="Open the video at {_clock(t)}">{_clock(t)}</a> {e(txt)}</p>'
+        for t, txt in transcript_paras(m.get("segments") or []))
+    length = f" The video runs {_clock(m['duration'])}." if m.get("duration") else ""
+    return f"""<div class="kicker"><a href="../../calendar.html">Commission calendar</a> · <a href="../../transcripts.html">Transcripts</a></div>
+<h1>{e(kind)}, {e(f"{d:%b} {d.day}, {d.year}")}: unofficial transcript</h1>
+<p class="lede"><a href="{e(src)}">The Commission's video of this meeting</a>.{agenda}{e(length)}</p>
+<div class="note">{TRANSCRIPT_NOTE}</div>
+<p class="copied"><b>Transcribed {e(_when(m.get("made")))}.</b> {e(TRANSCRIPT_LAG)}</p>
+<p class="muted">Made with {e(m.get("model") or "speech-to-text")} from the video's sound. The text and the fingerprint of the sound it was made from are in <a href="https://github.com/gapublicservice/records/tree/main/data/meetings/{e(m["id"])}">the public data</a>.</p>
+<div class="transcript">{paras or '<p class="muted">No speech was found in this video.</p>'}</div>"""
+
+
+def transcripts_index(meets: list[dict]) -> str:
+    rows = "".join(
+        f'<tr><td class="mono">{e(m["date"])}</td><td>{e(KIND_LABEL.get(m["kind"], "Meeting"))}</td>'
+        f'<td><a href="transcript/{e(m["id"])}/">Transcript (unofficial)</a></td>'
+        f'<td><a href="{e(m.get("source_page") or "")}">Video</a></td></tr>' for m in meets)
+    table = (f'<table class="wide"><thead><tr><th>Date</th><th>Meeting</th><th>Text</th><th>Video</th></tr></thead>'
+             f'<tbody>{rows}</tbody></table>' if meets else '<p class="muted">No transcripts yet.</p>')
+    return f"""<div class="kicker"><a href="calendar.html">Commission calendar</a></div>
+<h1>Meeting transcripts</h1>
+<p class="lede">Unofficial, machine-made transcripts of the Commission's administrative sessions and committee meetings, starting with July 2026. Hearings are not here: the Commission files a court reporter's transcript of each hearing in its docket.</p>
+<div class="note">{TRANSCRIPT_NOTE}</div>
+<p class="copied">{e(TRANSCRIPT_LAG)}</p>
+{table}"""
 
 
 def ticker(name: str, items: list[str], empty: str) -> str:
@@ -1048,6 +1136,8 @@ def build():
     agendas = load_agendas()
     cal_meta = _meta("calendar.json")
     agendas_checked = _meta("agendas.json").get("checked")
+    meets = meetings.all_meetings()
+    meet_day = meeting_by_day(meets)
     last_nightly = NIGHTLY_AT
     on_agenda = agendas_by_docket(agendas, dockets)
     pos_docs = positions.load()
@@ -1071,7 +1161,7 @@ def build():
 
     # Calendar feed, calendar page and agenda pages
     allev = ics.write(OUT, events, agendas, now, set(dockets))
-    (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked")), "calendar"))
+    (OUT / "calendar.html").write_text(page("Calendar", calendar_page(allev, agendas, now, cal_meta.get("checked"), meet_day), "calendar"))
     if EVENT_FORM_ON:
         (OUT / "submit-event.html").write_text(page("Add your event", submit_event_page(), "calendar"))
     # The wire: its own page, a small feed for the main site's strip, and the
@@ -1093,9 +1183,18 @@ def build():
         out = OUT / "agenda" / agenda_slug(url)
         out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(page(f"Agenda, {_day(ev['date'])}, {ev['date'][:4]}",
-                                             agenda_page(url, ev, dockets, agendas_checked), "calendar", depth=2))
+                                             agenda_page(url, ev, dockets, agendas_checked, meet_day), "calendar", depth=2))
         n_ag += 1
     print(f"{len(allev)} calendar events, {n_ag} agenda pages")
+    ev_of = {(ev["date"], ev["kind"]): ev["url"] for ev in allev}
+    for m in meets:
+        out = OUT / "transcript" / m["id"]
+        out.mkdir(parents=True, exist_ok=True)
+        d = dt.date.fromisoformat(m["date"])
+        (out / "index.html").write_text(page(f"{KIND_LABEL.get(m['kind'], 'Meeting')}, {d:%b} {d.day}, {d.year}: unofficial transcript",
+                                             transcript_page(m, ev_of.get((m["date"], m["kind"])), agendas), "calendar", depth=2))
+    (OUT / "transcripts.html").write_text(page("Meeting transcripts", transcripts_index(meets), "calendar"))
+    print(f"{len(meets)} meeting transcripts")
 
     # Docket list
     def dk_line(d, v):
