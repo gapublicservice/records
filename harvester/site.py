@@ -127,6 +127,34 @@ def ghost_nav() -> dict:
     return GHOST_NAV_FALLBACK
 
 
+# Section suns and colors, one sun per section (Paul's picks, Nov 25, 2026).
+# tools/sun_icons.py writes a .k-<key> class per section into style.css; the
+# Public Service bar, the Records tabs and the band under the header use them.
+# Records is graphite. Ghost's menu items are matched by their address.
+TAB_SUN = {"today": "lastnight", "corrections": "records"}
+SECTIONS = {"dockets": "Dockets", "calendar": "Calendar", "wire": "Wire", "today": "Last night",
+            "regions": "Regions", "positions": "Positions", "legislature": "Legislature", "about": "About"}
+
+
+def _ps_sun(url: str) -> str:
+    path = "/" + url.split("/", 3)[3] if url.count("/") >= 3 else "/"
+    for k in ("sessions", "dockets", "explainers", "newsletter", "about"):
+        if path.rstrip("/").endswith("/" + k):
+            return f" k-{k}"
+    return " k-home" if path == "/" else ""
+
+
+def section_band(on: str) -> str:
+    """The colored band under the Records header: graphite and the Records sun on
+    the home page, each tab's own color and sun on its pages."""
+    if on in SECTIONS:
+        k = TAB_SUN.get(on, on)
+        words = f'<span class="sect-k">Records</span><span class="sect-n">{SECTIONS[on]}</span>'
+    else:
+        k, words = "records", '<span class="sect-n">Records</span>'
+    return f'<div class="sect k-{k}"><div class="bar"><span class="sect-sun" aria-hidden="true"></span>{words}</div></div>'
+
+
 def ps_bar(up: str = "", on: str = "") -> str:
     nav = ghost_nav()
     site = (nav.get("site") or GHOST_SITE).rstrip("/")
@@ -140,11 +168,11 @@ def ps_bar(up: str = "", on: str = "") -> str:
         host = url.split("/")[2].lower()
         if host in RECORDS_HOSTS:
             has_records = True
-            items.append(f'<a target="_self" class="here" aria-current="true" href="{up}index.html">{e(label)}</a>')
+            items.append(f'<a target="_self" class="here k-records" aria-current="true" href="{up}index.html">{e(label)}</a>')
         else:
-            items.append(f'<a target="_self" href="{e(url)}">{e(label)}</a>')
+            items.append(f'<a target="_self" class="{_ps_sun(url).strip()}" href="{e(url)}">{e(label)}</a>')
     if not has_records:
-        items.append(f'<a target="_self" class="here" aria-current="true" href="{up}index.html">Records</a>')
+        items.append(f'<a target="_self" class="here k-records" aria-current="true" href="{up}index.html">Records</a>')
     # The amber dot is the wordmark's full stop, so a "." in Ghost's title is dropped.
     title = e(str(nav.get("title") or "Public Service").strip().rstrip(".") or "Public Service")
     return (f'<div class="ps-top"><div class="ps-in">'
@@ -166,7 +194,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
            ("about.html", "About", "about")]
     if corrections.enabled():
         nav.append(("corrections.html", "Corrections", "corrections"))
-    links = "".join(f'<a href="{up}{h}" class="{"on" if k == on else ""}">{t}</a>' for h, t, k in nav)
+    links = "".join(f'<a href="{up}{h}" class="{"on " if k == on else ""}k-{TAB_SUN.get(k, k)}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -180,6 +208,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <header class="site"><div class="bar">
 <a class="name" href="{up}index.html"><span>Public<br>Service<small>The record</small></span><span class="dot"></span></a>
 <nav>{links}</nav></div></header>
+{section_band(on)}
 <main>{body}</main>
 <footer class="site"><div class="bar">
 <p><strong>{e(FOOTER)}</strong></p>
