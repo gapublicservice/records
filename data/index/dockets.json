@@ -7150,11 +7150,12 @@
     ],
     "contested": false,
     "counties": {
-      "Bulloch": 11
+      "Bulloch": 11,
+      "Troup": 1
     },
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 516,
+    "filings": 529,
     "first_filed": "2022-09-20",
     "last_filed": "2026-11-24",
     "laws": {
@@ -7162,13 +7163,16 @@
     },
     "laws_cited": {
       "46-5-165": 1,
+      "46-5-166": 1,
       "515-12-1-.39": 1
     },
     "proceedings": {},
     "regions": {
       "Coastal": 11
     },
-    "regions_in_text": {},
+    "regions_in_text": {
+      "Three Rivers": 1
+    },
     "units": [
       "Telecommunications"
     ]
@@ -38492,9 +38496,9 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 58,
+    "filings": 59,
     "first_filed": "2025-06-20",
-    "last_filed": "2026-11-04",
+    "last_filed": "2026-11-24",
     "laws": {},
     "laws_cited": {},
     "proceedings": {
@@ -49873,9 +49877,9 @@
       "VoltaGrid, LLC"
     ],
     "disagreement_filings": 14,
-    "filings": 44,
+    "filings": 45,
     "first_filed": "2026-07-13",
-    "last_filed": "2026-11-13",
+    "last_filed": "2026-11-24",
     "laws": {
       "Cogeneration and Distributed Generation Act": 12,
       "Commission powers": 9,
@@ -51009,11 +51013,15 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 3,
+    "filings": 4,
     "first_filed": "2026-11-06",
-    "last_filed": "2026-11-16",
-    "laws": {},
-    "laws_cited": {},
+    "last_filed": "2026-11-24",
+    "laws": {
+      "IRP and RFP rules": 1
+    },
+    "laws_cited": {
+      "515-3-4-.04": 1
+    },
     "proceedings": {
       "Request for proposals": "the docket's title says \"Request for Proposals\""
     },

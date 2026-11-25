@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110620,
+      "bytes": 110267,
+      "fetched": "2026-11-25T08:56:50+00:00",
+      "name": "hart_-_hb_168_local_rate_increase_filing_2026.zip",
+      "sha256": "3c85c1521cba46c131c31e7c08f354994810e5fe8d4a741633a69be45f5cff41",
+      "text": "zip (2 read)",
+      "text_file": "data/text/229/229561/110620.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229561/110620"
+    }
+  ],
+  "company": "Hart Telephone Company",
+  "description": "HB 168 Local Rate Increase Tariff Filing 2026",
+  "dockets": [
+    32235
+  ],
+  "document_id": 229561,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-25",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229561"
+}

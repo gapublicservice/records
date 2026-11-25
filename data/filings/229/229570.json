@@ -1,0 +1,25 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110629,
+      "bytes": 254156,
+      "fetched": "2026-11-25T08:57:08+00:00",
+      "name": "23rd_revised_evaluation_team_list.zip",
+      "sha256": "299e51d80124b555f6d821dc538e8949c3aa53cbeeee389d9063c5ba249f88c9",
+      "text": "zip (2 read)",
+      "text_file": "data/text/229/229570/110629.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229570/110629"
+    }
+  ],
+  "company": "Georgia Power Company",
+  "description": "Georgia Power Company's Twenty-Third Revised Evaluation Team List",
+  "dockets": [
+    56139
+  ],
+  "document_id": 229570,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-25",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229570"
+}

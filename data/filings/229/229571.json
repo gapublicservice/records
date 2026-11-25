@@ -1,0 +1,36 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110630,
+      "bytes": 46791,
+      "fetched": "2026-11-25T08:57:10+00:00",
+      "name": "CARES 2027 US RFP - Transmittal Letter of Initial Bid Team List Filing.docx",
+      "sha256": "8598814ec417210b640c9ed5286326419fbebb9170d3b08d23cbeeb094d1f829",
+      "text": "docx",
+      "text_file": "data/text/229/229571/110630.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229571/110630"
+    },
+    {
+      "attachment_id": 110631,
+      "bytes": 311185,
+      "fetched": "2026-11-25T08:57:11+00:00",
+      "name": "CARES 2027 US RFP - Transmittal Letter of Initial Bid Team List Filing.pdf",
+      "sha256": "1aa6ee2774ad3fdfaa7d93b3bce3bf30f09f7fa943097337703a091324f55697",
+      "text": "pdftotext",
+      "text_file": "data/text/229/229571/110631.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229571/110631"
+    }
+  ],
+  "company": "Southern Power Company",
+  "description": "CARES 2027 US RFP, Docket No. 57454 Southern Power Company – Initial Bid Team List",
+  "dockets": [
+    57454
+  ],
+  "document_id": 229571,
+  "filed_date": "2026-11-24",
+  "harvested": "2026-11-25",
+  "received_date": "2026-11-24",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229571"
+}
