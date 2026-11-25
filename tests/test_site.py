@@ -27,7 +27,7 @@ class SiteTest(unittest.TestCase):
         html = site.page("T", "<p>x</p>", "search")
         self.assertIn("It is not a product or publication of the Georgia Public Service Commission.", html)
         self.assertIn("project of Paul Glaze", html)
-        self.assertIn("GCVEF", html)
+        self.assertNotIn("Sponsored", html)
 
 
 if __name__ == "__main__":

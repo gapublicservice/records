@@ -37,10 +37,15 @@ FOOTER = ("Public Service Records is a project of Paul Glaze, produced in his wo
           "Georgia Conservation Voters and the GCV Education Fund. Public Service is an independent "
           "project. It is not a product or publication of the Georgia Public Service Commission. Public Service Records "
           "was produced with standard APIs, GitHub, and Claude. The writing is all original.")
-SPONSOR = "Sponsored by the Georgia Conservation Voters Education Fund (GCVEF)."
+# No sponsor line, Paul Nov 25: a sponsor credit comes back only if GCV or GCVEF funds the site.
 # Paul's own climate line for the About page, in his words. Empty until he writes it;
 # when set, it appears right under the About page's opening line.
-CLIMATE_LINE = ""
+CLIMATE_LINE = ("Public Service believes in the necessity of climate action by all levels of government "
+                "and society, on an individual and collective basis, and therefore prioritizes coverage "
+                "of proceedings and potential solutions in its weekly newsletter.")
+
+# Corrections contact, shown on the About page only once the Corrections page is on.
+CORRECTIONS_ADDRESS = "paul@gapublicservice.org"
 
 e = html.escape
 
@@ -178,7 +183,7 @@ def _page(title: str, body: str, on: str, depth: int = 0, extra_head: str = "") 
 <main>{body}</main>
 <footer class="site"><div class="bar">
 <p><strong>{e(FOOTER)}</strong></p>
-<p>{e(SPONSOR)} Records are copied each night from the Commission's public site; each one links to the original.</p>
+<p>Records are copied each night from the Commission's public site; each one links to the original.</p>
 {f'<p><a href="{up}corrections.html">Corrections</a>: how we fix mistakes, and every fix we have made.</p>' if corrections.enabled() else ""}
 <p class="mono">{e(f"Filings last copied {_when(NIGHTLY_AT)}. " if NIGHTLY_AT else "")}{e(STALE + " " if STALE else "")}Data and code: <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a></p>
 <!-- page built {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC -->
@@ -1399,7 +1404,9 @@ def build():
 {f"<p>{e(CLIMATE_LINE)}</p>" if CLIMATE_LINE else ""}
 <div class="note"><strong>{e(INDEPENDENCE)}</strong></div>
 <h2>Who is behind it</h2>
-<p>{e(SPONSOR)} GCVEF also funds the editor's work, and the editor also works for Georgia Conservation Voters. Neither group decides what the record contains: it holds every public filing, whoever filed it.</p>
+<p>Public Service Records is edited by Paul Glaze. The editor works for Georgia Conservation Voters, a 501(c)(4), and Georgia Conservation Voters Education Fund, a 501(c)(3), including communications on PSC matters.</p>
+<p>Many of the groups that take part in Commission proceedings, among them conservation, consumer, faith and community groups, work alongside the editor in that other work. None of them funds this record, and none decides what it contains. The record holds every public filing, whoever filed it, and lists each party's stated position with the filing it comes from.</p>
+{f'<p>Spotted an error? Write to {e(CORRECTIONS_ADDRESS)}. The Corrections page explains how fixes are made and lists every one.</p>' if corrections.enabled() else ""}
 <h2>How the record is made</h2>
 <p>The Commission has no single feed of new filings. Every filing has its own numbered page, so each night at 3 AM a program walks the numbers forward, stores what it finds and rechecks recent numbers the Commission fills in late. The code and every stored record are public at <a href="https://github.com/gapublicservice/records">github.com/gapublicservice/records</a>.</p>
 <p>Trade-secret versions of filings are never public and are never stored here. A file is held back when its name, the filing's description, the file's own title or a banner on its first pages marks it as a trade secret or confidential, unless it calls itself the public version; such a file is listed, with a link to the Commission's page, but its text is not kept.</p>

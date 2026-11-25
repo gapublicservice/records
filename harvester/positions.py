@@ -82,8 +82,9 @@ def section(d: dict, up: str = "") -> str:
     out = d.get("outcome")
     outcome = (f'<p><b>What the Commission decided:</b> {e(out["summary"])} {_src(out, up)}</p>' if out else
                '<p><b>Status:</b> open. The Commission has not decided this question yet.</p>')
-    disc = ('<p class="ps-disclosure">The Georgia Conservation Voters Education Fund, which sponsors this site, '
-            'is a party in this docket, alone or on a joint filing. Its position is shown by the same rules as every other party\'s.</p>'
+    disc = ('<p class="ps-disclosure">The editor of this site works for Georgia Conservation Voters and the Georgia '
+            'Conservation Voters Education Fund. One of them is a party in this docket, alone or on a joint filing. '
+            'Its position is shown by the same rules as every other party\'s.</p>'
             if has_sponsor(d) else "")
     quiet = d.get("parties_without_stated_position") or []
     quiet_html = (f'<p class="muted">Parties on the docket with no stated position we could read: {e("; ".join(quiet))}.</p>'
