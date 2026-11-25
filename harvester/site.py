@@ -1380,7 +1380,7 @@ def build():
                                        copied_note("Gas certificate filings are copies.", last_nightly))
     body = f"""<div class="kicker">Regional picture</div><h1>Power plants, power lines and gas projects by region</h1>
 <p class="lede">Megawatts of generating capacity added, retired and planned since 2020 in each of Georgia's 12 regional commissions, with the dockets whose filing titles name a county there. Below the plants: transmission lines, gas pipelines and gas certificate filings.</p>
-{regionmap.map_html(infrastructure.project_lists())}
+{regionmap.map_html(infrastructure.project_lists(), reg=reg)}
 <h2>Power plants by region</h2>
 <div class="note">Plants and their counties come from the U.S. Energy Information Administration's monthly generator list (Form EIA-860M, <a href="{e(reg['source']['generators'].split('(')[-1].rstrip(')'))}">this edition</a>). Counties are grouped by the regional list in the Georgia Department of Audits and Accounts' 2019 report on regional commissions. Nameplate megawatts, summed from EIA's rows. Planned means EIA lists the plant as planned, not that the Commission approved it. Transmission lines and gas projects are <a href="#grid">further down</a>.</div>
 <table class="wide"><thead><tr><th>Region and counties</th><th class="num">Added MW</th><th class="num">Retired MW</th><th class="num">Planned MW</th><th>Largest plants</th><th class="num">Dockets</th></tr></thead><tbody>{"".join(trs)}</tbody></table>

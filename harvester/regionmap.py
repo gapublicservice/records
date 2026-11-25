@@ -21,6 +21,7 @@ the map and stay in the lists below it.
 
 from __future__ import annotations
 
+import csv
 import html
 import json
 import math
@@ -120,7 +121,9 @@ def geometry(path: str) -> dict:
             borders.append("M" + "L".join(f"{x:.1f},{y:.1f}" for x, y in simple[i]))
     return {"source": "U.S. Census Bureau cartographic boundary files (2017), as redistributed in us-atlas 3.0.1 "
                       "(counties-10m.json, ISC licence, copyright Michael Bostock); simplified for the page",
-            "viewBox": [0, 0, W, H], "counties": dict(sorted(counties.items())), "borders": "".join(borders)}
+            "viewBox": [0, 0, W, H], "counties": dict(sorted(counties.items())), "borders": "".join(borders),
+            # How a longitude and latitude become a point on the map, for plants placed by EIA's coordinates.
+            "proj": {"lon0": lon0, "lat1": lat1, "k": k, "scale": scale, "pad": pad}}
 
 
 def _area(r):
@@ -173,6 +176,55 @@ def pins(lists: list[dict], geo: dict) -> tuple[list[dict], int]:
     return out, left_off
 
 
+PLANT_KIND = {"added": "Built since 2020", "planned": "Planned", "retired": "Retired since 2020"}
+EIA_CSV = ROOT / "data" / "reference" / "eia860m_ga.csv"
+
+
+def plants(reg: dict | None, geo: dict) -> tuple[list[dict], int]:
+    """One square per plant in the Regions table, at the spot EIA lists for it.
+
+    reg is data/index/regional_generation.json (rebuilt with each EIA edition);
+    coordinates come from EIA's own rows in eia860m_ga.csv. Returns (plants,
+    number left off for want of coordinates)."""
+    if not reg or "proj" not in geo:
+        return [], 0
+    where = {}
+    try:
+        with EIA_CSV.open() as f:
+            for r in csv.DictReader(f):
+                try:
+                    ll = (float(r["Latitude"]), float(r["Longitude"]))
+                except (KeyError, TypeError, ValueError):
+                    continue
+                key = ((r.get("Plant Name") or "").strip().lower(), (r.get("County") or "").replace(" ", "").lower())
+                where.setdefault(key, ll)
+    except OSError:
+        return [], 0
+    pr = geo["proj"]
+    out, left_off = [], 0
+    for region, v in reg.get("regions", {}).items():
+        for p in v.get("plants", []):
+            ll = where.get(((p.get("plant") or "").strip().lower(), (p.get("county") or "").replace(" ", "").lower()))
+            if not ll:
+                left_off += 1
+                continue
+            x = (ll[1] - pr["lon0"]) * pr["k"] * pr["scale"] + pr["pad"]
+            y = (pr["lat1"] - ll[0]) * pr["scale"] + pr["pad"]
+            mw = {k: p.get(f"{k}_mw") or 0 for k in PLANT_KIND}
+            out.append({"p": p, "region": region, "px": x, "py": y, "kind": max(mw, key=mw.get), "mw": mw})
+    # Plants at the same spot (several units, or neighbours) are nudged apart so each can be reached.
+    placed: list[tuple[float, float]] = []
+    for q in sorted(out, key=lambda q: -sum(q["mw"].values())):
+        step = 0
+        while any((q["px"] - a) ** 2 + (q["py"] - b) ** 2 < 36 for a, b in placed) and step < 24:
+            step += 1
+            ang = step * 2.4
+            q["px"] += 7 * math.cos(ang) / (1 + step / 6)
+            q["py"] += 7 * math.sin(ang) / (1 + step / 6)
+        placed.append((q["px"], q["py"]))
+    return out, left_off
+
+
 def _when(x):
     w = x.get("current_year")
     s = str(w) if w else "not given"
@@ -181,8 +233,11 @@ def _when(x):
     return s
 
 
-def map_html(lists: list[dict], e=html.escape) -> str:
-    """The map block for the Regions page. Empty if the county shapes are missing."""
+def map_html(lists: list[dict], e=html.escape, reg: dict | None = None) -> str:
+    """The map block for the Regions page. Empty if the county shapes are missing.
+
+    reg, when given, is the regional generation index; its plants go on the map
+    as squares, under the project pins."""
     try:
         geo = json.loads(GEO.read_text())
     except (OSError, ValueError):
@@ -191,7 +246,29 @@ def map_html(lists: list[dict], e=html.escape) -> str:
     vb = " ".join(str(v) for v in geo["viewBox"])
     county_paths = "".join(f'<path data-c="{e(n, quote=True)}" d="{c["d"]}"><title>{e(n)} County</title></path>'
                            for n, c in geo["counties"].items())
-    marks, boxes = [], []
+    pls, plants_off = plants(reg, geo)
+    eia_url = ((reg or {}).get("source", {}).get("generators", "").split("(")[-1].rstrip(")")) if reg else ""
+    pmarks, marks, boxes = [], [], []
+    for j, q in enumerate(pls):
+        p, kind, sq = q["p"], q["kind"], 4.2
+        label = f'{p["plant"]}, power plant. {PLANT_KIND[kind]}.'
+        pmarks.append(f'<g class="pin plant {kind}" tabindex="0" role="button" aria-label="{e(label, quote=True)}" '
+                      f'aria-controls="rm-p{j}" data-b="rm-p{j}" data-cs="{e(p.get("county") or "", quote=True)}">'
+                      f'<circle class="hit" cx="{q["px"]:.1f}" cy="{q["py"]:.1f}" r="8"/>'
+                      f'<rect class="pm" x="{q["px"] - sq:.1f}" y="{q["py"] - sq:.1f}" width="{2 * sq}" height="{2 * sq}"/></g>')
+        rows = "".join(f'<dt>{e(PLANT_KIND[k])}</dt><dd class="mono">{q["mw"][k]:,.1f} MW</dd>' for k in PLANT_KIND if q["mw"][k])
+        yrs = ", ".join(str(y) for y in p.get("years", []))
+        src = (f'<a href="{e(eia_url, quote=True)}">U.S. Energy Information Administration, Form EIA-860M</a>'
+               if eia_url.startswith("http") else "U.S. Energy Information Administration, Form EIA-860M")
+        boxes.append(
+            f'<div class="rm-box" id="rm-p{j}" role="dialog" aria-label="{e(p["plant"], quote=True)}" hidden>'
+            f'<button class="rm-x" type="button" aria-label="Close">×</button>'
+            f'<div class="rm-k">Power plant · {e(PLANT_KIND[kind])}</div><div class="rm-n">{e(p["plant"])}</div>'
+            f'<p>{e("; ".join(p.get("owner") or []))}. {e(", ".join(p.get("technology") or []))}.</p>'
+            f'<dl><dt>County</dt><dd>{e(p.get("county") or "")}</dd><dt>Region</dt><dd>{e(q["region"])}</dd>{rows}'
+            f'{"<dt>Year</dt><dd class=mono>" + e(yrs) + "</dd>" if yrs else ""}'
+            f'<dt>Checked</dt><dd>From the federal list of generators, which EIA updates monthly. Planned means EIA lists it as planned, not that the Commission approved it.</dd>'
+            f'<dt>Source</dt><dd>{src}</dd></dl></div>')
     for i, p in enumerate(ps):
         x = p["x"]
         chk = x.get("checked", "one source")
@@ -232,15 +309,26 @@ def map_html(lists: list[dict], e=html.escape) -> str:
     gas_n = sum(1 for p in ps if p["gas"])
     off = (f' {left_off} project{"s" if left_off != 1 else ""} whose source names no county {"are" if left_off != 1 else "is"} '
            f'not on the map; {"they are" if left_off != 1 else "it is"} <a href="#unplaced">listed below</a>.' if left_off else "")
-    return f"""<h2 id="map">Map of transmission lines and gas projects</h2>
-<p>{len(ps)} projects on the map: {len(ps) - gas_n} power lines and substations, {gas_n} gas pipelines and plants. Hover over a pin, or tap it on a phone, to see the project, and the counties its source names are shaded. A pin sits in one of those counties; it does not mark a street address or the line's route.{off}</p>
+    pk = {k: sum(1 for q in pls if q["kind"] == k) for k in PLANT_KIND}
+    plant_line = ""
+    if pls:
+        plant_line = (f' Squares are the {len(pls)} power plants counted in the table below ({pk["added"]} built since 2020, '
+                      f'{pk["planned"]} planned, {pk["retired"]} retired since 2020), each at the spot EIA lists for it.'
+                      + (f' {plants_off} plant{"s" if plants_off != 1 else ""} with no location in EIA\'s list {"are" if plants_off != 1 else "is"} left off.' if plants_off else ""))
+    toggles = (f'<label><input type="checkbox" data-layer="plant" checked> Power plants ({len(pls)})</label>'
+               f'<label><input type="checkbox" data-layer="proj" checked> Power lines and gas projects ({len(ps)})</label>') if pls else ""
+    plant_key = ('<span><i class="kp"></i>Plant built since 2020</span><span><i class="kp planned"></i>Plant planned</span>'
+                 '<span><i class="kp retired"></i>Plant retired since 2020</span>') if pls else ""
+    return f"""<h2 id="map">Map of {"power plants, " if pls else ""}transmission lines and gas projects</h2>
+<p>{len(ps)} projects on the map: {len(ps) - gas_n} power lines and substations, {gas_n} gas pipelines and plants. Hover over a pin, or tap it on a phone, to see the project, and the counties its source names are shaded. A pin sits in one of those counties; it does not mark a street address or the line's route.{off}{plant_line}</p>
 <div class="rm" id="rm">
-<div class="rm-key mono"><span><i class="kc"></i>Power line or substation</span><span><i class="kd"></i>Gas pipeline or plant</span><span><i class="kc"></i>Confirmed by a second source ({n["confirmed"]})</span><span><i class="kc half"></i>Partly confirmed ({n["partly"]})</span><span><i class="kc open"></i>One source so far ({n["one source"]})</span></div>
-<div class="rm-wrap"><svg viewBox="{vb}" role="group" aria-label="Map of Georgia's counties with a pin for each project">
+{'<div class="rm-show mono">' + toggles + '</div>' if toggles else ""}
+<div class="rm-key mono"><span><i class="kc"></i>Power line or substation</span><span><i class="kd"></i>Gas pipeline or plant</span><span><i class="kc"></i>Confirmed by a second source ({n["confirmed"]})</span><span><i class="kc half"></i>Partly confirmed ({n["partly"]})</span><span><i class="kc open"></i>One source so far ({n["one source"]})</span>{plant_key}</div>
+<div class="rm-wrap"><svg viewBox="{vb}" role="group" aria-label="Map of Georgia's counties with a mark for each power plant and project">
 <g class="cty">{county_paths}</g><path class="brd" d="{geo["borders"]}"/>
-<g class="pins">{"".join(marks)}</g></svg>
+<g class="pins">{"".join(pmarks)}{"".join(marks)}</g></svg>
 {"".join(boxes)}</div>
-<p class="muted rm-src">Thick lines are the borders of Georgia's 12 regional commissions. County shapes: {e(geo["source"])}. The pins are rebuilt from the project lists below at every build, so a new project appears here when it is added to a list.</p>
+<p class="muted rm-src">Thick lines are the borders of Georgia's 12 regional commissions. County shapes: {e(geo["source"])}. The pins are rebuilt from the project lists below at every build, so a new project appears here when it is added to a list.{' The plants are rebuilt from each new edition of EIA&#39;s generator list.' if pls else ''}</p>
 </div>
 <style>
 .rm{{margin:20px 0 28px}}
@@ -249,6 +337,15 @@ def map_html(lists: list[dict], e=html.escape) -> str:
 .rm-key i{{display:inline-block;width:11px;height:11px;border:1.5px solid var(--ink);background:var(--amber)}}
 .rm-key i.kc{{border-radius:50%}} .rm-key i.kd{{transform:rotate(45deg);width:9px;height:9px}}
 .rm-key i.half{{background:linear-gradient(0deg,var(--amber) 50%,var(--paper) 50%)}} .rm-key i.open{{background:var(--paper)}}
+.rm-key i.kp{{border-radius:0;width:9px;height:9px;background:var(--ink)}} .rm-key i.kp.planned{{background:var(--paper)}} .rm-key i.kp.retired{{background:#a3a3a3}}
+.rm-show{{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:12px;margin:0 0 8px}}
+.rm-show label{{display:inline-flex;align-items:center;gap:6px;cursor:pointer}}
+.rm-show input{{accent-color:var(--amber);margin:0}}
+.rm.no-plant .pin.plant,.rm.no-proj .pin:not(.plant){{display:none}}
+.rm .pin.plant .pm{{fill:var(--ink);stroke:var(--paper);stroke-width:1}}
+.rm .pin.plant.planned .pm{{fill:var(--paper);stroke:var(--ink);stroke-width:1.4}}
+.rm .pin.plant.retired .pm{{fill:#a3a3a3;stroke:var(--paper);stroke-width:1}}
+.rm .pin.plant.on .pm,.rm .pin.plant:focus-visible .pm{{stroke:var(--amber);stroke-width:2.5}}
 .rm-wrap{{position:relative}}
 .rm svg{{display:block;width:100%;max-width:620px;height:auto;touch-action:manipulation}}
 .rm .cty path{{fill:var(--tint);stroke:#c9c9c4;stroke-width:.5}}
@@ -311,6 +408,7 @@ root.querySelectorAll('.rm-box').forEach(function(b){{
  b.addEventListener('click',function(ev){{ev.stopPropagation()}});
  b.querySelector('.rm-x').addEventListener('click',function(){{var p=shown&&shown.pin;pinned=null;hide();if(p)p.focus()}});
 }});
+root.querySelectorAll('.rm-show input').forEach(function(cb){{cb.addEventListener('change',function(){{root.classList.toggle('no-'+cb.getAttribute('data-layer'),!cb.checked);if(shown&&getComputedStyle(shown.pin).display==='none'){{pinned=null;hide()}}}})}});
 document.addEventListener('click',function(){{if(shown){{pinned=null;hide()}}}});
 document.addEventListener('keydown',function(ev){{if(ev.key==='Escape'&&shown){{var p=shown.pin;pinned=null;hide();p.focus()}}}});
 }})();

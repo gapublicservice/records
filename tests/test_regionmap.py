@@ -25,3 +25,19 @@ def test_map_has_a_box_per_pin_and_says_how_many_are_left_off():
     assert out.count('class="pin ') == 1 and out.count('class="rm-box"') == 1
     assert "1 project whose source names no county is not on the map" in out
     assert "Confirmed by a second public source" in out and "Georgia Mountains" in out
+
+
+def test_plants_sit_inside_georgia_and_get_boxes():
+    import json
+    from harvester import regionmap
+    reg = json.loads((regionmap.ROOT / "data" / "index" / "regional_generation.json").read_text())
+    geo = json.loads(regionmap.GEO.read_text())
+    total = sum(len(v["plants"]) for v in reg["regions"].values())
+    pls, off = regionmap.plants(reg, geo)
+    assert len(pls) + off == total and len(pls) > 100
+    _, _, w, h = geo["viewBox"]
+    assert all(0 <= q["px"] <= w and 0 <= q["py"] <= h for q in pls)
+    out = regionmap.map_html([], reg=reg)
+    assert out.count('class="pin plant') == len(pls)
+    assert out.count('id="rm-p') == len(pls)
+    assert 'data-layer="plant"' in out
