@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["harvester/site.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", ".github/workflows/pages.yml"]
+    paths: ["harvester/site.py", "harvester/wire.py", "data/reference/wire-statements.json", "harvester/infrastructure.py", "harvester/positions.py", "data/reference/positions/**", "data/reference/agendas/**", "harvester/corrections.py", "data/reference/corrections.json", "data/reference/corrections-policy.md", "data/reference/*_projects.json", "legis/**", "site/**", "data/meetings/**", ".github/workflows/pages.yml"]
   workflow_run:
     workflows: ["Nightly harvest", "Midday check", "Georgia generator list from EIA", "Backfill", "Docket titles", "Commission agendas", "Legislature harvest", "Meeting transcript"]
     types: [completed]
