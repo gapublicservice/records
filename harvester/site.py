@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, ics, infrastructure, legal, meetings, positions, wire
+from . import corrections, ics, infrastructure, legal, meetings, official, positions, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -1011,7 +1011,7 @@ def transcript_paras(segs: list[dict], gap: float = 50.0) -> list[tuple[float, s
     return out
 
 
-def transcript_page(m: dict, ev_url: str | None, agendas: dict) -> str:
+def transcript_page(m: dict, ev_url: str | None, agendas: dict, known=None) -> str:
     kind = KIND_LABEL.get(m["kind"], "Meeting")
     d = dt.date.fromisoformat(m["date"])
     src = m.get("source_page") or ""
@@ -1027,6 +1027,7 @@ def transcript_page(m: dict, ev_url: str | None, agendas: dict) -> str:
     return f"""<div class="kicker"><a href="../../calendar.html">Commission calendar</a> · <a href="../../transcripts.html">Transcripts</a></div>
 <h1>{e(kind)}, {e(f"{d:%b} {d.day}, {d.year}")}: unofficial transcript</h1>
 <p class="lede"><a href="{e(src)}">The Commission's video of this meeting</a>.{agenda}{e(length)}</p>
+{official.transcript_official(m, ev_url, agendas, known)}
 <div class="note">{TRANSCRIPT_NOTE}</div>
 <p class="copied"><b>Transcribed {e(_when(m.get("made")))}.</b> {e(TRANSCRIPT_LAG)}</p>
 <p class="muted">Made with {e(m.get("model") or "speech-to-text")} from the video's sound. The text and the fingerprint of the sound it was made from are in <a href="https://github.com/gapublicservice/records/tree/main/data/meetings/{e(m["id"])}">the public data</a>.</p>
@@ -1240,7 +1241,7 @@ def build():
         out.mkdir(parents=True, exist_ok=True)
         d = dt.date.fromisoformat(m["date"])
         (out / "index.html").write_text(page(f"{KIND_LABEL.get(m['kind'], 'Meeting')}, {d:%b} {d.day}, {d.year}: unofficial transcript",
-                                             transcript_page(m, ev_of.get((m["date"], m["kind"])), agendas), "calendar", depth=2))
+                                             transcript_page(m, ev_of.get((m["date"], m["kind"])), agendas, set(dockets)), "calendar", depth=2))
     (OUT / "transcripts.html").write_text(page("Meeting transcripts", transcripts_index(meets), "calendar"))
     print(f"{len(meets)} meeting transcripts")
 
@@ -1299,12 +1300,14 @@ def build():
         body = f"""<div class="kicker">Docket <span class="mono">{d}</span></div>
 <h1>{e(title[:200]) or "Docket " + d}</h1>
 <p>{badge}<a href="{PSC_DOCKET}{d}">This docket on the Commission's site</a></p>
-<p class="btns">{'<a class="pin-follow" href="#timeline">Timeline</a> ' if fs else ""}{f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
+<p class="btns">{'<a class="pin-follow" href="#timeline">Timeline</a> ' if fs else ""}<a class="pin-follow" href="#comment">How to comment</a> <a class="pin-follow" href="#official">Official record</a> {f'<a class="pin-follow" href="{e(FOLLOW_URL)}?docket={d}">{FOLLOW_DOCKET_LABEL}</a>' if FOLLOW_URL else ""}{agenda_button(on_agenda.get(d, []), now, "../../")}</p>
 <table>{stat}</table>
+{official.comment_box(d, official.next_date(d, events, on_agenda.get(d, []), now))}
 {timeline_html(fs, meta, on_agenda.get(d, []), events, d, now)}
 {agenda_table(on_agenda.get(d, []), "../../", agendas_checked)}
 {positions.docket_link(d, pos_docs)}
 {docket_laws(v)}
+{official.official_box(d, fs, on_agenda.get(d, []), meet_day, file_marker, KIND_LABEL)}
 <h2 id="filings">Filings, newest first</h2>
 <table class="wide"><thead><tr><th>Filed</th><th>Filer</th><th>Filing</th></tr></thead><tbody>{"".join(filing_row(r, 2, False) for r in fs)}</tbody></table>"""
         p = OUT / "docket" / d

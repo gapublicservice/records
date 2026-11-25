@@ -212,3 +212,18 @@ details summary{cursor:pointer;margin:4px 0 8px}
 .tr-p{margin:0 0 .9rem;line-height:1.6}
 .tr-t{display:inline-block;min-width:4.2rem;margin-right:.4rem;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line)}
 .tr-t:hover,.tr-t:focus{color:var(--ink);border-bottom-color:var(--amber)}
+/* Docket pages: how to comment, and the official record (Nov 25, 2026) */
+.comment-box{border:1.5px solid var(--ink);padding:14px 18px;margin:22px 0;max-width:820px}
+.comment-box h2{margin-top:0}
+.comment-box ul{margin:8px 0 10px;padding-left:20px}
+.comment-box li{margin:6px 0}
+.cb-next{background:var(--tint);padding:8px 10px;margin:8px 0}
+.official{max-width:900px}
+.official h3{font-size:16px;margin:16px 0 6px}
+.off-list{list-style:none;padding:0;margin:6px 0}
+.off-list li{padding:6px 0;border-bottom:1px solid var(--line)}
+.official details summary{cursor:pointer;font-weight:500;margin:6px 0}
+.tag.official{border-color:var(--ink);background:var(--ink);color:var(--paper)}
+.tag.unofficial{border-color:var(--amber);background:#fff4dc;color:var(--ink)}
+.official-note{border-left:4px solid var(--ink);padding:8px 14px;margin:14px 0;max-width:820px;font-size:15px}
+@media (max-width:640px){.comment-box{padding:12px}.off-list .tl-date{display:block;min-width:0}}
