@@ -14,7 +14,9 @@ Run it from a terminal:
 
 The first run sets itself up in ~/.psc-transcripts (it downloads the
 speech-to-text model and the tools it needs, about 1 GB) and then works through
-every meeting since July 1, 2026 that Records doesn't have yet. Later runs only
+every meeting since July 1, 2026 that Records doesn't have yet, newest first.
+Each finished meeting gets its own zip on your Desktop right away, so the
+latest can be uploaded while the older ones are still going. Later runs only
 do the new ones. It is slow: leave the window open until it says it's done.
 
 Options:
@@ -207,7 +209,8 @@ def find(since: str, skip: set[str]) -> list[dict]:
         seen.add(mid)
         todo.append({"id": mid, "date": date, "kind": kind, "title": v.get("title"),
                      "url": f"https://www.youtube.com/watch?v={v['id']}"})
-    todo.sort(key=lambda x: x["date"])
+    # Newest first, so the latest meetings are ready to use soonest.
+    todo.sort(key=lambda x: (x["date"], x["kind"]), reverse=True)
     return todo
 
 
@@ -277,10 +280,10 @@ def do_one(m: dict, model, model_name: str) -> None:
         say(f"Done: {m['id']}, {len(segs)} lines. The sound file is deleted.")
 
 
-def pack(ids: list[str]) -> Path:
+def pack(ids: list[str], name: str | None = None) -> Path:
     desk = Path.home() / "Desktop"
     where = desk if desk.is_dir() else Path.home()
-    z = where / f"psc-transcripts-{dt.date.today().isoformat()}.zip"
+    z = where / (name or f"psc-transcripts-{dt.date.today().isoformat()}.zip")
     with zipfile.ZipFile(z, "w", zipfile.ZIP_DEFLATED) as zf:
         for mid in ids:
             for name in ("meta.json", "transcript.json"):
@@ -316,6 +319,8 @@ def main() -> int:
         for m in todo:
             try:
                 do_one(m, model, a.model)
+                one = pack([m["id"]], f"psc-transcript-{m['id']}.zip")
+                say(f"Ready to upload now, while the rest keep going: {one}")
                 fails = 0
             except SystemExit:
                 raise
