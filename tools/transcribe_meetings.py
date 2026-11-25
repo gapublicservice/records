@@ -23,7 +23,7 @@ To make it automatic on a Mac:
     python3 transcribe_meetings.py --install
 
 That saves a GitHub key you make (it goes into your Mac's Keychain, never into
-the chat), and sets the Mac to run this every day at 1 PM and 7 PM while it is
+the chat), and sets the Mac to run this every day at 1 PM, 3 PM and 7 PM while it is
 on. Each run fetches the newest copy of this script from the Records
 repository, transcribes any new meeting, and sends each transcript to the
 Records inbox on GitHub, where it is checked and published. A notice pops up
@@ -396,6 +396,7 @@ PLIST_TEXT = """<?xml version="1.0" encoding="UTF-8"?>
   <key>StartCalendarInterval</key>
   <array>
     <dict><key>Hour</key><integer>13</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>15</integer><key>Minute</key><integer>0</integer></dict>
     <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>0</integer></dict>
   </array>
   <key>StandardOutPath</key><string>{log}</string>
@@ -438,7 +439,7 @@ if asked. It is saved in your Mac's Keychain.
             sys.exit(f"GitHub didn't accept that key for {REPO} (it said {code}). Check steps 3 to 5, "
                      "then run this again with --install.")
         say("The key works.")
-    say("Step 2 of 2: setting the Mac to run this every day at 1 PM and 7 PM.")
+    say("Step 2 of 2: setting the Mac to run this every day at 1 PM, 3 PM and 7 PM.")
     HOME.mkdir(parents=True, exist_ok=True)
     shutil.copy(Path(__file__).resolve(), HOME / "transcribe_meetings.py")
     runner = HOME / "run.sh"
@@ -452,7 +453,7 @@ if asked. It is saved in your Mac's Keychain.
     if r.returncode != 0:
         sys.exit(f"The Mac didn't take the schedule: {r.stderr.strip()}. Paste this in the chat.")
     say(f"""
-All set. Every day at 1 PM and 7 PM, while this Mac is on and awake, it checks
+All set. Every day at 1 PM, 3 PM and 7 PM, while this Mac is on and awake, it checks
 for new meetings and sends their transcripts to Records. If the Mac is asleep
 then, it runs when it wakes. What it did is written to {LOG}.
 To stop it: python3 ~/.psc-transcripts/transcribe_meetings.py --uninstall""")
@@ -487,7 +488,7 @@ def main() -> int:
     if a.install:
         install()
         say("\nStarting the first run now. Leave this window open, or close it and the "
-            "1 PM or 7 PM run will pick up where it stopped.\n")
+            "1 PM, 3 PM or 7 PM run will pick up where it stopped.\n")
     import fcntl
     HOME.mkdir(parents=True, exist_ok=True)
     lock = open(HOME / "run.lock", "w")
@@ -517,8 +518,10 @@ def main() -> int:
         from faster_whisper import WhisperModel
         say("Loading the speech-to-text model (the first time, this downloads it).")
         model = WhisperModel(a.model, device="cpu", compute_type="int8")
-        fails = 0
-        for m in todo:
+        fails, tried, done_n = 0, set(), 0
+        while todo:
+            m = todo[0]
+            tried.add(m["id"])
             try:
                 do_one(m, model, a.model)
                 if key and send(m["id"], key):
@@ -538,6 +541,16 @@ def main() -> int:
                         "window says and paste it in the chat.")
                     notify("Transcripts stopped on an error. Details are in ~/.psc-transcripts/log.txt.")
                     break
+            done_n += 1
+            if a.limit and done_n >= a.limit:
+                break
+            # Look again after each meeting, so one posted while older ones are being
+            # worked through goes next instead of waiting behind them.
+            try:
+                todo = find(a.since, have | {p.parent.name for p in OUT.glob("*/transcript.json")} | tried)
+            except Exception as err:
+                say(f"Couldn't look at the channel again ({err}); going on with the list I have.")
+                todo = [t for t in todo if t["id"] not in tried]
     ids = sorted({p.parent.name for p in OUT.glob("*/transcript.json")} - have - set(sent))
     if key and not ids:
         say(f"All done. {len(sent)} transcript(s) sent to Records this run." if sent else "Nothing new this run.")
