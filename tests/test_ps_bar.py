@@ -44,3 +44,12 @@ def test_bar_adds_records_when_ghost_menu_lacks_it(monkeypatch):
         "primary": [{"label": "Home", "url": "https://www.gapublicservice.org/"}]})
     out = site.ps_bar("", "search")
     assert out.count('class="here"') == 1 and ">Records</a>" in out
+
+
+def test_dropdown_entries_are_marked_and_left_off_the_bar(monkeypatch):
+    got = ghostnav.clean([{"label": "Newsletter", "url": "/newsletter/"},
+                          {"label": "-Past editions", "url": "/tag/newsletter/"}])
+    assert got[1] == {"label": "Past editions", "url": "https://www.gapublicservice.org/tag/newsletter/", "child": True}
+    monkeypatch.setattr(site, "ghost_nav", lambda: {"primary": got})
+    out = site.ps_bar("", "search")
+    assert "Newsletter" in out and "Past editions" not in out

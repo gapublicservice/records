@@ -129,8 +129,8 @@ def ps_bar(up: str = "", on: str = "") -> str:
     items, has_records = [], False
     for it in nav.get("primary", []):
         url, label = str(it.get("url", "")), str(it.get("label", ""))
-        if not url.startswith("https://") or not label:
-            continue
+        if not url.startswith("https://") or not label or it.get("child") or label.startswith("-"):
+            continue  # dropdown entries stay on Ghost; the bar shows the top level
         host = url.split("/")[2].lower()
         if host in RECORDS_HOSTS:
             has_records = True

@@ -1,0 +1,51 @@
+{
+  "site": "https://www.gapublicservice.org",
+  "title": "Public Service",
+  "primary": [
+    {
+      "label": "Home",
+      "url": "https://www.gapublicservice.org/"
+    },
+    {
+      "label": "Sessions",
+      "url": "https://www.gapublicservice.org/tag/sessions/"
+    },
+    {
+      "label": "Dockets",
+      "url": "https://www.gapublicservice.org/tag/dockets/"
+    },
+    {
+      "label": "Explainers",
+      "url": "https://www.gapublicservice.org/tag/explainers/"
+    },
+    {
+      "label": "Records",
+      "url": "https://records.gapublicservice.org/"
+    },
+    {
+      "label": "About",
+      "url": "https://www.gapublicservice.org/about/"
+    },
+    {
+      "label": "Newsletter",
+      "url": "https://www.gapublicservice.org/newsletter/"
+    },
+    {
+      "label": "About the newsletter",
+      "url": "https://www.gapublicservice.org/newsletter/",
+      "child": true
+    },
+    {
+      "label": "Past editions",
+      "url": "https://www.gapublicservice.org/tag/newsletter/",
+      "child": true
+    },
+    {
+      "label": "Commentary",
+      "url": "https://www.gapublicservice.org/tag/commentary/",
+      "child": true
+    }
+  ],
+  "secondary": [],
+  "fetched": "2026-11-25T18:58Z"
+}

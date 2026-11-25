@@ -29,6 +29,10 @@ def clean(items: list, site: str = SITE) -> list[dict]:
     for it in items or []:
         label = " ".join(str(it.get("label") or "").split())[:40]
         url = str(it.get("url") or "").strip()
+        # The theme shows an item whose label starts with "-" as a dropdown
+        # entry under the item before it.
+        child = label.startswith("-")
+        label = label.lstrip("- ").strip()
         if not label or not url:
             continue
         if url.startswith("/"):
@@ -36,7 +40,7 @@ def clean(items: list, site: str = SITE) -> list[dict]:
         u = urllib.parse.urlsplit(url)
         if u.scheme != "https" or not u.hostname:
             continue
-        out.append({"label": label, "url": url})
+        out.append({"label": label, "url": url, **({"child": True} if child else {})})
     return out
 
 
