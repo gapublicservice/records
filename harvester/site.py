@@ -18,7 +18,7 @@ import re
 import shutil
 from pathlib import Path
 
-from . import corrections, ics, infrastructure, legal, meetings, official, positions, wire
+from . import corrections, hearings, ics, infrastructure, legal, meetings, official, positions, wire
 from .run import DATA, ROOT
 
 OUT = ROOT / "_site"
@@ -295,7 +295,7 @@ def timeline_events(fs: list[dict], meta: dict, agenda_items: list[dict], cal: l
     for c in cal:
         if str(d) in {str(x) for x in c.get("dockets") or []}:
             ev.append({"date": c["date"], "kind": "meeting", "label": c.get("title") or "Commission meeting",
-                       "text": "", "href": c.get("url") or ""})
+                       "text": "", "href": hearings.href(c, "../../") if hearings.is_hearing(c) else (c.get("url") or "")})
             seen.add((c["date"], c.get("url")))
     for a in agenda_items:
         if (a["date"], a.get("event")) in seen:
@@ -760,7 +760,11 @@ def _cal_row(ev: dict, agendas: dict, known: set, add: bool, meet_day: dict | No
     uid = ics.uid_for(ev)
     what = e(ics.summary_for(ev).removeprefix("PSC "))
     link = f'<a href="{e(ev["url"])}">{what}</a>' if ev.get("url") else what
-    if (ro := readout_for(ev)):
+    if hearings.is_hearing(ev):
+        # A hearing opens its own Records page; the Commission's page stays one click away.
+        link = (f'<a href="{e(hearings.href(ev))}">{what}</a> '
+                f'<a class="muted cal-psc" href="{e(ev["url"])}">Commission page</a>')
+    elif (ro := readout_for(ev)):
         # What happened, first; the Commission's own page stays one click away.
         link = f'<a href="{e(ro)}">{what}</a> <a class="tag" href="{e(ro)}">Readout</a>'
         if ev.get("url"):
@@ -788,6 +792,7 @@ def upcoming_json(allev: list[dict], agendas: dict, today: str, known: set, chec
         out.append({"date": ev["date"], "day": _day(ev["date"], True), "time": ev.get("time") or "",
                     "what": ics.summary_for(ev).removeprefix("PSC "), "other": bool(ev.get("other")),
                     "url": ev.get("url") or "",
+                    "page": f"{ics.SITE}/{hearings.href(ev)}" if hearings.is_hearing(ev) else "",
                     "agenda": f"{ics.SITE}/agenda/{agenda_slug(ev['url'])}/" if has_agenda_text(ag) else "",
                     "add": f"{ics.SITE}/calendar.html#ev-{uid}",
                     "google": ics.google_link(ev, agendas, known), "ics": f"{ics.SITE}/cal/{uid}.ics"})
@@ -1092,7 +1097,7 @@ def front_tickers(events: list[dict], dockets: dict, today: str, agendas: dict |
         plain = ev["kind"] in ("session", "committee") or kind.lower() == title.lower()
         what = "" if plain else f' {e(_short(title, 70))}'
         up.append(f'<b>{e(_day(ev["date"], True))}</b> <span class="muted">{e(ev["time"])}</span> '
-                  f'<a href="{e(ev["url"])}">{e(kind)}</a>{agenda_link(ev["url"], agendas or {})}'
+                  f'<a href="{e(hearings.href(ev) if hearings.is_hearing(ev) else ev["url"])}">{e(kind)}</a>{agenda_link(ev["url"], agendas or {})}'
                   f' <a class="tk-add" href="calendar.html#ev-{ics.uid_for(ev)}" title="Add this meeting to your calendar">+ Add</a>'
                   f' {dk}{what}')
     hot = sorted(((k, v) for k, v in dockets.items() if v.get("contested")),
@@ -1125,7 +1130,7 @@ def pinned_cards(dockets: dict, events: list[dict], today: str, on_agenda: dict 
             facts.append(f'latest {_day(v["last_filed"])}, {v["last_filed"][:4]}')
         lines = f'<p class="pin-facts mono">{e(" · ".join(facts))}</p>'
         if nxt:
-            lines += f'<p class="pin-next">Next: <a href="{e(nxt["url"])}">{e(KIND_LABEL.get(nxt["kind"], "Meeting"))}, {e(_day(nxt["date"], True))}</a></p>'
+            lines += f'<p class="pin-next">Next: <a href="{e(hearings.href(nxt) if hearings.is_hearing(nxt) else nxt["url"])}">{e(KIND_LABEL.get(nxt["kind"], "Meeting"))}, {e(_day(nxt["date"], True))}</a></p>'
         ag = agenda_pick((on_agenda or {}).get(str(d), []), today)
         if ag:
             when = "On the agenda" if ag["date"] >= today else "Was on the agenda"
@@ -1254,6 +1259,20 @@ def build():
                                              agenda_page(url, ev, dockets, agendas_checked, meet_day), "calendar", depth=2))
         n_ag += 1
     print(f"{len(allev)} calendar events, {n_ag} agenda pages")
+    # One page per hearing, built on the docket timeline.
+    n_h = 0
+    for ev in hearings.hearing_events(allev):
+        fs = [r for d in ev.get("dockets") or [] for r in by_docket.get(int(d), [])]
+        h = hearings.build_data(ev, fs, now)
+        ag = f'../../agenda/{agenda_slug(ev["url"])}/' if has_agenda_text(agendas.get(ev["url"])) else ""
+        out = OUT / "hearing" / h["slug"]
+        out.mkdir(parents=True, exist_ok=True)
+        (out / "index.html").write_text(page(
+            f"Hearing, {_day(ev['date'])}, {ev['date'][:4]}",
+            hearings.page_body(h, {}, now, copied_note, file_marker, KIND_LABEL,
+                               checked=last_nightly, agenda_href=ag), "calendar", depth=2))
+        n_h += 1
+    print(f"{n_h} hearing pages")
     ev_of = {(ev["date"], ev["kind"]): ev["url"] for ev in allev}
     for m in meets:
         out = OUT / "transcript" / m["id"]

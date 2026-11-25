@@ -227,3 +227,15 @@ details summary{cursor:pointer;margin:4px 0 8px}
 .tag.unofficial{border-color:var(--amber);background:#fff4dc;color:var(--ink)}
 .official-note{border-left:4px solid var(--ink);padding:8px 14px;margin:14px 0;max-width:820px;font-size:15px}
 @media (max-width:640px){.comment-box{padding:12px}.off-list .tl-date{display:block;min-width:0}}
+/* Hearing pages (harvester/hearings.py) */
+.cal-psc{font-size:12px;white-space:nowrap}
+.hg-stage{border:1px solid var(--ink);padding:14px 18px;margin:20px 0;max-width:860px}
+.hg-k{font:500 11px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}
+.hg-line{font-size:18px;line-height:1.45;margin:0 0 8px}
+.hg-stage .muted{font-size:13px;margin:0}
+.hg-ask{display:block;font-size:14px;margin-top:4px}
+.hg-quotes{list-style:none;padding:0;margin:0;max-width:860px}
+.hg-quotes li{border-left:3px solid var(--amber);padding:2px 0 2px 14px;margin:0 0 18px}
+.hg-quotes blockquote{margin:0;font-size:16px}
+.hg-src{font-size:13px;color:var(--muted);margin:4px 0 0}
+@media (max-width:720px){.hg-line{font-size:16px}.hg-stage{padding:12px}}
