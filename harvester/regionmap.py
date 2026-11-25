@@ -267,7 +267,8 @@ def map_html(lists: list[dict], e=html.escape, reg: dict | None = None) -> str:
             f'<p>{e("; ".join(p.get("owner") or []))}. {e(", ".join(p.get("technology") or []))}.</p>'
             f'<dl><dt>County</dt><dd>{e(p.get("county") or "")}</dd><dt>Region</dt><dd>{e(q["region"])}</dd>{rows}'
             f'{"<dt>Year</dt><dd class=mono>" + e(yrs) + "</dd>" if yrs else ""}'
-            f'<dt>Checked</dt><dd>From the federal list of generators, which EIA updates monthly. Planned means EIA lists it as planned, not that the Commission approved it.</dd>'
+            f'<dt>Checked</dt><dd>From the federal list of generators, which EIA updates monthly.'
+            f'{" Planned means EIA lists it as planned, not that the Commission approved it." if q["mw"]["planned"] else ""}</dd>'
             f'<dt>Source</dt><dd>{src}</dd></dl></div>')
     for i, p in enumerate(ps):
         x = p["x"]
