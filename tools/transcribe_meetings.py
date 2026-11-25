@@ -228,6 +228,24 @@ def now() -> str:
     return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def decode(path: Path):
+    """The sound as 16 kHz mono samples. faster-whisper's own reader passes an
+    option newer PyAV versions dropped, so the script reads the file itself."""
+    import av
+    import numpy as np
+
+    rs = av.AudioResampler(format="s16", layout="mono", rate=16000)
+    parts = []
+    with av.open(str(path)) as c:
+        for frame in c.decode(audio=0):
+            frame.pts = None
+            parts.extend(f.to_ndarray() for f in rs.resample(frame))
+    parts.extend(f.to_ndarray() for f in rs.resample(None))
+    if not parts:
+        return np.zeros(0, dtype=np.float32)
+    return np.concatenate(parts, axis=1).reshape(-1).astype(np.float32) / 32768.0
+
+
 def do_one(m: dict, model, model_name: str) -> None:
     with tempfile.TemporaryDirectory(prefix="psc-audio-") as tmp:
         work = Path(tmp)
@@ -242,7 +260,7 @@ def do_one(m: dict, model, model_name: str) -> None:
                 "duration": info.get("duration"), "audio_file": audio.name,
                 "audio_sha256": sha256(audio), "pulled": now(), "made_with": "tools/transcribe_meetings.py"}
         say(f"Transcribing {clock(dur)} of sound. It prints a time mark every few minutes.")
-        segments, lang = model.transcribe(str(audio), vad_filter=True, beam_size=5)
+        segments, lang = model.transcribe(decode(audio), vad_filter=True, beam_size=5)
         segs, last = [], -300.0
         for s in segments:
             if s.text.strip():
@@ -294,13 +312,20 @@ def main() -> int:
         from faster_whisper import WhisperModel
         say("Loading the speech-to-text model (the first time, this downloads it).")
         model = WhisperModel(a.model, device="cpu", compute_type="int8")
+        fails = 0
         for m in todo:
             try:
                 do_one(m, model, a.model)
+                fails = 0
             except SystemExit:
                 raise
             except Exception as err:
+                fails += 1
                 say(f"Skipped {m['id']}: {err}")
+                if fails >= 2:
+                    say("Two meetings in a row failed the same way, so I stopped. Copy what this "
+                        "window says and paste it in the chat.")
+                    break
     ids = sorted({p.parent.name for p in OUT.glob("*/transcript.json")} - have)
     if not ids:
         say("Nothing new was made this time.")
