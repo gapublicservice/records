@@ -249,8 +249,8 @@ def map_html(lists: list[dict], e=html.escape) -> str:
 .rm-key i{{display:inline-block;width:11px;height:11px;border:1.5px solid var(--ink);background:var(--amber)}}
 .rm-key i.kc{{border-radius:50%}} .rm-key i.kd{{transform:rotate(45deg);width:9px;height:9px}}
 .rm-key i.half{{background:linear-gradient(0deg,var(--amber) 50%,var(--paper) 50%)}} .rm-key i.open{{background:var(--paper)}}
-.rm-wrap{{position:relative;max-width:620px}}
-.rm svg{{display:block;width:100%;height:auto;touch-action:manipulation}}
+.rm-wrap{{position:relative}}
+.rm svg{{display:block;width:100%;max-width:620px;height:auto;touch-action:manipulation}}
 .rm .cty path{{fill:var(--tint);stroke:#c9c9c4;stroke-width:.5}}
 .rm .cty path.lit{{fill:#f6dca0}}
 .rm .brd{{fill:none;stroke:var(--ink);stroke-width:1.3;stroke-linejoin:round}}
@@ -290,9 +290,10 @@ function show(pin){{
  lit(pin.getAttribute('data-cs'));
  svg.querySelector('.pins').appendChild(pin);
  if(narrow.matches){{box.style.left=box.style.top='';return}}
- var w=wrap.getBoundingClientRect(),r=pin.getBoundingClientRect(),bw=box.offsetWidth,bh=box.offsetHeight;
+ var w=wrap.getBoundingClientRect(),s=svg.getBoundingClientRect(),r=pin.getBoundingClientRect(),bw=box.offsetWidth,bh=box.offsetHeight;
  var x=r.left-w.left+r.width/2+14,y=r.top-w.top-bh/2;
- if(x+bw>w.width)x=r.left-w.left-bw-14+r.width/2;
+ if(w.right-s.right>=bw+20)x=s.right-w.left+20;
+ else if(x+bw>w.width)x=r.left-w.left-bw-14+r.width/2;
  if(x<0)x=Math.max(0,Math.min(w.width-bw,r.left-w.left-bw/2));
  y=Math.max(0,Math.min(y,w.height-bh));
  box.style.left=x+'px';box.style.top=y+'px';
