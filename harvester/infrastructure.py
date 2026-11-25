@@ -162,7 +162,7 @@ def regions_html(d, e, psc_doc: str, copied: str) -> str:
             out.append(f'<h3>{e(lst["layer"])}</h3><p class="muted">{e(lst["about"])}</p>'
                        f'<table class="wide"><thead><tr><th>Project</th><th>Counties and regions</th><th>Target year</th><th>Status and source</th></tr></thead><tbody>{"".join(rows)}</tbody></table>')
     if unplaced:
-        out.append('<h3>Projects whose source names no county</h3><p class="muted">Most are from the regional plan, which names '
+        out.append('<h3 id="unplaced">Projects whose source names no county</h3><p class="muted">Most are from the regional plan, which names '
                    'substations, not counties. Listed so nothing is hidden; not counted in any region until a public source names the county.</p>')
         for layer in [l["layer"] for l in d["lists"]]:
             rs = [r for lay, r in unplaced if lay == layer]
