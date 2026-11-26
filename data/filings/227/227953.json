@@ -2,15 +2,23 @@
   "attachments": [
     {
       "attachment_id": 109152,
+      "bytes": 737406,
+      "fetched": "2026-11-26T08:56:45+00:00",
       "name": "dkt_42516_incr__bad_debt_jul_2026_pd.zip",
-      "text": "not read yet",
+      "sha256": "07ddfc53dbcce2e2a5780e6f43f3e0fd601f27e4235fd5ed6f02297821f43be4",
+      "text": "zip (3 read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/227/227953/109152.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109152"
     },
     {
       "attachment_id": 109153,
+      "bytes": 41494,
+      "fetched": "2026-11-26T08:56:46+00:00",
       "name": "Cover Letter - July 2026 PD (stamp).docx",
-      "text": "not read yet",
+      "sha256": "2833d049dc981a7d8aeadffbd63ce3bd103ebd81e3a9144ee0e78ee217fce685",
+      "text": "docx",
+      "text_file": "data/text/227/227953/109153.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109153"
     },
@@ -19,12 +27,17 @@
       "name": "Cover Letter - July 2026 TS (stamp).docx",
       "text": "not stored: trade-secret marker in file name",
       "trade_secret_marked": true,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109154"
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109154",
+      "withheld": "trade-secret marker in file name"
     },
     {
       "attachment_id": 109155,
+      "bytes": 66915,
+      "fetched": "2026-11-26T08:56:47+00:00",
       "name": "Cover Letter - July 2026 PD (stamp).pdf",
-      "text": "not read yet",
+      "sha256": "4e20a61e139b11ee42a4ba56c8d0283c812a5464e3bbbfcbbb0acb2f0f179ea8",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227953/109155.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109155"
     },
@@ -33,7 +46,8 @@
       "name": "Cover Letter - July 2026 TS (stamp).pdf",
       "text": "not stored: trade-secret marker in file name",
       "trade_secret_marked": true,
-      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109156"
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227953/109156",
+      "withheld": "trade-secret marker in file name"
     }
   ],
   "company": "Georgia Power Company",
@@ -43,7 +57,7 @@
   ],
   "document_id": 227953,
   "filed_date": "2026-08-21",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-26",
   "received_date": "2026-08-21",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=227953"
 }

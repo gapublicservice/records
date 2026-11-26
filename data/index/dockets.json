@@ -2203,9 +2203,9 @@
     "counties": {},
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 43,
+    "filings": 44,
     "first_filed": "2022-11-15",
-    "last_filed": "2026-11-20",
+    "last_filed": "2026-11-25",
     "laws": {
       "Commission powers": 1
     },
@@ -11680,23 +11680,24 @@
     ],
     "contested": false,
     "counties": {
-      "Bartow": 2,
+      "Bartow": 3,
       "Bibb": 1,
       "Chatham": 6,
       "Clarke": 1,
-      "Dawson": 1,
+      "Dawson": 2,
       "Effingham": 1,
-      "Glynn": 3,
-      "Hall": 3,
-      "Jackson": 7,
+      "Glynn": 4,
+      "Hall": 4,
+      "Jackson": 8,
       "Lowndes": 1,
-      "Lumpkin": 2
+      "Lumpkin": 3,
+      "McIntosh": 1
     },
     "disagreeing_filers": [],
     "disagreement_filings": 0,
-    "filings": 67,
+    "filings": 68,
     "first_filed": "2022-09-22",
-    "last_filed": "2026-11-16",
+    "last_filed": "2026-11-25",
     "laws": {},
     "laws_cited": {},
     "proceedings": {},
@@ -11708,7 +11709,12 @@
       "Northwest Georgia": 2,
       "Southern Georgia": 1
     },
-    "regions_in_text": {},
+    "regions_in_text": {
+      "Coastal": 1,
+      "Georgia Mountains": 1,
+      "Northeast Georgia": 1,
+      "Northwest Georgia": 1
+    },
     "units": [
       "Natural Gas"
     ]
@@ -12475,7 +12481,15 @@
       "Energy"
     ],
     "contested": false,
-    "counties": {},
+    "counties": {
+      "Appling": 1,
+      "Burke": 1,
+      "Chatham": 1,
+      "Heard": 1,
+      "Henry": 1,
+      "Stewart": 1,
+      "Toombs": 1
+    },
     "disagreeing_filers": [],
     "disagreement_filings": 0,
     "filings": 55,
@@ -12487,7 +12501,14 @@
       "Rate case": "the docket's title says \"Rate Case\""
     },
     "regions": {},
-    "regions_in_text": {},
+    "regions_in_text": {
+      "Atlanta": 1,
+      "Central Savannah River Area": 1,
+      "Coastal": 1,
+      "Heart of Georgia Altamaha": 1,
+      "River Valley": 1,
+      "Three Rivers": 1
+    },
     "units": [
       "Electric"
     ]
@@ -39003,9 +39024,9 @@
       "SCANA Energy Marketing, LLC (Deregulated)"
     ],
     "disagreement_filings": 11,
-    "filings": 37,
+    "filings": 38,
     "first_filed": "2025-04-15",
-    "last_filed": "2026-11-20",
+    "last_filed": "2026-11-25",
     "laws": {
       "Commission powers": 1
     },

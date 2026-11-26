@@ -2,22 +2,34 @@
   "attachments": [
     {
       "attachment_id": 109158,
+      "bytes": 32742,
+      "fetched": "2026-11-26T08:56:48+00:00",
       "name": "dkt_9355_technology_equip_gridnet_purchase_from_apc.zip",
-      "text": "not read yet",
+      "sha256": "4638421093da5fa1b03d0b9c823a72086d43959c07326b7de58d5dc61ad744ee",
+      "text": "zip (1 read)",
+      "text_file": "data/text/227/227955/109158.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227955/109158"
     },
     {
       "attachment_id": 109159,
+      "bytes": 36263,
+      "fetched": "2026-11-26T08:56:49+00:00",
       "name": "GPSC Notice re Affiliate Transfer - GridNet.docx",
-      "text": "not read yet",
+      "sha256": "c5b8c8a264b0627193e5178c18247bf269e28cb5f8889bab5cbb5b277a5ed103",
+      "text": "docx",
+      "text_file": "data/text/227/227955/109159.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227955/109159"
     },
     {
       "attachment_id": 109160,
+      "bytes": 55811,
+      "fetched": "2026-11-26T08:56:50+00:00",
       "name": "GPSC Notice re Affiliate Transfer - GridNet.pdf",
-      "text": "not read yet",
+      "sha256": "45bd735437c26d8dfe0bbcd260abbffca871be1d47d28080e6bccae87ce537c6",
+      "text": "pdftotext",
+      "text_file": "data/text/227/227955/109160.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/227955/109160"
     }
@@ -29,7 +41,7 @@
   ],
   "document_id": 227955,
   "filed_date": "2026-08-21",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-26",
   "received_date": "2026-08-21",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=227955"
 }

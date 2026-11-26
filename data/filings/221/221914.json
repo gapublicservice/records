@@ -2,15 +2,23 @@
   "attachments": [
     {
       "attachment_id": 103012,
+      "bytes": 320439,
+      "fetched": "2026-11-26T08:56:27+00:00",
       "name": "dkt_42516_incr__bad_debt_feb_2025_pd.pdf",
-      "text": "not read yet",
+      "sha256": "ae1c5d1797bdc0149f45aced4ca680b354e773544b7e877d1b5c811134891076",
+      "text": "pdftotext",
+      "text_file": "data/text/221/221914/103012.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221914/103012"
     },
     {
       "attachment_id": 103473,
+      "bytes": 452661,
+      "fetched": "2026-11-26T08:56:28+00:00",
       "name": "DKT 42516 Incr. Bad Debt Feb 2025 PD.zip",
-      "text": "not read yet",
+      "sha256": "c1f08ef062ac13218416562c300eb28641542218c96b730b4e4e6cbfebfad788",
+      "text": "zip (3 read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/221/221914/103473.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/221914/103473"
     }
@@ -22,7 +30,7 @@
   ],
   "document_id": 221914,
   "filed_date": "2025-03-20",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2025-03-20",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=221914"
 }

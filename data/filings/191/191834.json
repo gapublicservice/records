@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 73571,
+      "bytes": 33336,
+      "fetched": "2026-11-26T08:55:49+00:00",
       "name": "2021_asr_compliance_letter_10_19_22_filing_copy.docx",
-      "text": "not read yet",
+      "sha256": "251928afeb3b858649e5d1bb1361547c7b1a140fdc4ae88f94fcbbc144bf1390",
+      "text": "docx",
+      "text_file": "data/text/191/191834/73571.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/191834/73571"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 191834,
   "filed_date": "2022-10-19",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2022-10-19",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=191834"
 }

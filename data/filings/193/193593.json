@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 75227,
+      "bytes": 2701296,
+      "fetched": "2026-11-26T08:55:53+00:00",
       "name": "2022 ASR Filing.pdf",
-      "text": "not read yet",
+      "sha256": "34f84ae75e257b3e45c960679f784bb1100ad8bd05416d020fbc23185699f898",
+      "text": "pdftotext",
+      "text_file": "data/text/193/193593/75227.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/193593/75227"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 193593,
   "filed_date": "2023-03-15",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2023-03-15",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=193593"
 }

@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 86546,
+      "bytes": 357665,
+      "fetched": "2026-11-26T08:56:02+00:00",
       "name": "dkt_42516_incr__bad_debt_jun_2023_pd.zip",
-      "text": "not read yet",
+      "sha256": "d00bbb0ece097a77a1ae2771c3bcd0a5b1143c8dabf3cba69edcc6382928fd6f",
+      "text": "zip (3 read, 2 trade-secret-marked files skipped)",
+      "text_file": "data/text/205/205174/86546.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205174/86546"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 205174,
   "filed_date": "2023-07-20",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2023-07-20",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=205174"
 }

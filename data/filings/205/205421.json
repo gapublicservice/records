@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 86724,
+      "bytes": 200074,
+      "fetched": "2026-11-26T08:56:05+00:00",
       "name": "dkt_42516_stf-pia-20.zip",
-      "text": "not read yet",
+      "sha256": "12dae06843a4d6b5929be81a599b10a6cbdaffaabd008bf8f9721c3638e6875a",
+      "text": "zip (7 read)",
+      "text_file": "data/text/205/205421/86724.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205421/86724"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 205421,
   "filed_date": "2023-08-14",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2023-08-14",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=205421"
 }

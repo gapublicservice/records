@@ -2,15 +2,22 @@
   "attachments": [
     {
       "attachment_id": 86625,
+      "bytes": 209260,
+      "fetched": "2026-11-26T08:56:03+00:00",
       "name": "DN 42516 ASR 2022 1.docx",
-      "text": "not read yet",
+      "sha256": "59a73e04ddb08fa07b5f2154d765fd3ff5db5e1eac5ce11d59f6241a0448fb74",
+      "text": "docx",
+      "text_file": "data/text/205/205281/86625.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205281/86625"
     },
     {
       "attachment_id": 86626,
+      "bytes": 1036612,
+      "fetched": "2026-11-26T08:56:04+00:00",
       "name": "205281.pdf",
-      "text": "not read yet",
+      "sha256": "aaee89ab60a589e252e2132e28cf0f1be2ff3b1032aaf766bd2d775a4f47c749",
+      "text": "pdftotext",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/205281/86626"
     }
@@ -22,7 +29,7 @@
   ],
   "document_id": 205281,
   "filed_date": "2023-07-31",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2023-07-31",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=205281"
 }

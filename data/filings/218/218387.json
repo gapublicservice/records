@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 99440,
+      "bytes": 120857,
+      "fetched": "2026-11-26T08:56:15+00:00",
       "name": "dod-fea_notification_of_withdrawal_and_substitution_of_counsel.pdf",
-      "text": "not read yet",
+      "sha256": "54296c173d375ce8cc71da138b3a04b2a6a7c10dfdc353b8005c9cc1dfbdb618",
+      "text": "pdftotext",
+      "text_file": "data/text/218/218387/99440.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/218387/99440"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 218387,
   "filed_date": "2024-04-17",
-  "harvested": "2026-11-19",
+  "harvested": "2026-11-26",
   "received_date": "2024-04-17",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=218387"
 }

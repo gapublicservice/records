@@ -2,8 +2,12 @@
   "attachments": [
     {
       "attachment_id": 75506,
+      "bytes": 275303,
+      "fetched": "2026-11-26T08:55:54+00:00",
       "name": "STF-ASR-9.DR-42516.docx",
-      "text": "not read yet",
+      "sha256": "c4db362c49cc02ac8511b5813a4e18ccb230c3cc2d82953fa92c9be2eab8690c",
+      "text": "docx",
+      "text_file": "data/text/194/194035/75506.txt",
       "trade_secret_marked": false,
       "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/194035/75506"
     }
@@ -15,7 +19,7 @@
   ],
   "document_id": 194035,
   "filed_date": "2023-04-11",
-  "harvested": "2026-11-20",
+  "harvested": "2026-11-26",
   "received_date": "2023-04-11",
   "url": "https://psc.ga.gov/search/facts-document/?documentId=194035"
 }

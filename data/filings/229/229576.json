@@ -1,0 +1,26 @@
+{
+  "attachments": [
+    {
+      "attachment_id": 110636,
+      "bytes": 189236,
+      "fetched": "2026-11-26T08:55:19+00:00",
+      "name": "public_disclosure (4).zip",
+      "sha256": "7713bcbf0c244331808da431453ab7601e49324e98694b136d739b34ede5276a",
+      "text": "zip (2 read)",
+      "text_file": "data/text/229/229576/110636.txt",
+      "trade_secret_marked": false,
+      "url": "https://services.psc.ga.gov/api/v1/External/Public/Get/Document/DownloadFile/229576/110636"
+    }
+  ],
+  "company": "Atlanta Gas Light Company",
+  "description": "Letter regarding Atlanta Gas Light Company's Asset Management Agreement",
+  "dockets": [
+    16193,
+    56177
+  ],
+  "document_id": 229576,
+  "filed_date": "2026-11-25",
+  "harvested": "2026-11-26",
+  "received_date": "2026-11-25",
+  "url": "https://psc.ga.gov/search/facts-document/?documentId=229576"
+}
