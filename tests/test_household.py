@@ -87,6 +87,17 @@ class ParseTest(unittest.TestCase):
         self.assertEqual(h.report_month("Cover.docx", "Incremental Bad Debt Oct 2025 PD"), (2025, 10))
 
 
+class WorkbookFirstTest(unittest.TestCase):
+    def test_pdf_copy_is_dropped_when_a_workbook_is_there(self):
+        text = "===== a/report.xlsx =====\nBOOK\n===== a/report.pdf =====\nPDF\n"
+        self.assertIn("BOOK", h.prefer_workbook(text))
+        self.assertNotIn("PDF", h.prefer_workbook(text))
+        self.assertEqual(h.prefer_workbook("===== a/x.pdf =====\nPDF\n"), "===== a/x.pdf =====\nPDF\n")
+
+    def test_footnotes(self):
+        self.assertEqual(h.footnotes("row 1 2\n** Notices were paused.\n"), ["** Notices were paused."])
+
+
 class SpreadsheetTest(unittest.TestCase):
     def test_xlsx_copy_parses_like_the_pdf(self):
         try:
@@ -115,7 +126,7 @@ SURVEY = """<form id="filterForm" method="get" action="/utilities/electric/resid
 <table><tr><th>Provider</th><th>Charges</th><th>Cents/kWh</th></tr>
 <tr><td>Georgia Power</td><td>$182.93</td><td>$0.1829</td></tr>
 <tr><td>Some EMC</td><td>$140.00</td><td>$0.1400</td></tr>
-<tr><td>Average</td><td>$148.14</td><td>$0.1481</td></tr></table>"""
+<tr><td>Average</td><td>$0.1481</td><td>$148.14</td></tr></table>"""
 
 
 class PagesTest(unittest.TestCase):

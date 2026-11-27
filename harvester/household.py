@@ -256,6 +256,30 @@ def parse_bad_debt(text: str, month: tuple[int, int] | None) -> dict:
     return {"sections": sections, "problems": problems}
 
 
+def prefer_workbook(text: str) -> str:
+    """Where a filing's zip holds the report both as a workbook and as a PDF,
+    read only the workbook: the PDF splits the months across pages, three to
+    a page, and the workbook has every month in one row."""
+    parts = re.split(r"^===== (.+?) =====$", text, flags=re.M)
+    if len(parts) < 3:
+        return text
+    blocks = list(zip(parts[1::2], parts[2::2]))
+    books = [(n, b) for n, b in blocks if n.lower().endswith((".xlsx", ".xlsm"))]
+    if not books:
+        return text
+    return "\n".join(f"===== {n} =====\n{b}" for n, b in books)
+
+
+def footnotes(text: str) -> list[str]:
+    """The company's own notes under its tables (lines that start with *)."""
+    out = []
+    for line in text.split("\n"):
+        t = line.strip()
+        if re.match(r"^\*+\s*\S", t) and len(t) < 400:
+            out.append(re.sub(r"\s+", " ", t))
+    return out
+
+
 def _reports() -> list[dict]:
     """Stored Docket 42516 bad debt reports with text, oldest first."""
     out = []
@@ -286,7 +310,8 @@ def collect() -> dict:
                 if not att.get("trade_secret_marked") and att.get("text") not in (None,):
                     entry["read"].append({"attachment_id": att["attachment_id"], "text": att.get("text")})
                 continue
-            text = (ROOT / att["text_file"]).read_text()
+            text = prefer_workbook((ROOT / att["text_file"]).read_text())
+            entry["notes"] = sorted(set(entry.get("notes", []) + footnotes(text)))
             parsed = parse_bad_debt(text, ym)
             got = sum(len(v) for v in parsed["sections"].values())
             entry["read"].append({"attachment_id": att["attachment_id"], "text": att.get("text"),
@@ -415,8 +440,11 @@ def parse_survey(page: bytes | str) -> dict | None:
         if not gp:
             continue
         avg = next((r for r in t if r and r[0].lower().startswith("average")), None)
+        # The average row's first dollar figure can be the cents-per-kWh column;
+        # a month's charge is never under $10, so take the first figure above that.
+        avg_v = next((v for v in (_money(c) for c in (avg or [])[1:]) if v is not None and v >= 10), None)
         return {"survey": name, "georgia_power": _money(" ".join(gp[1:2]) or " ".join(gp)),
-                "average": _money(" ".join(avg[1:2])) if avg else None,
+                "average": avg_v,
                 "providers": sum(1 for r in t if r and _money(" ".join(r[1:2])) is not None
                                  and not r[0].lower().startswith("average"))}
     return None
@@ -495,7 +523,8 @@ def fetch() -> int:
         form, opts = survey_options(page)
         if form and form["method"] == "get":
             for o in opts:
-                if o["text"] in surveys or o["selected"]:
+                have = surveys.get(o["text"]) or {}
+                if o["selected"] or (have.get("georgia_power") and (have.get("average") or 0) >= 10):
                     continue
                 params = {**form["fields"], form["select"]: o["value"], "c": str(SURVEY_KWH)}
                 u = urllib.parse.urljoin(SURVEY_URL, form["action"] or SURVEY_URL) + "?" + urllib.parse.urlencode(params)
@@ -528,19 +557,21 @@ def fetch() -> int:
     for ym, murl in links:
         if ym in months and months[ym].get("pdf"):
             continue  # a month's table doesn't change once posted; read it once
+        stage = "month page"
         try:
             mp = parse_html(f.get(murl))
             pdf = next((urllib.parse.urljoin(murl, h) for h, _ in mp.links if h.lower().split("?")[0].endswith(".pdf")), None)
             if not pdf:
                 problems.append(f"{ym}: no table file on the page")
                 continue
+            stage = "table file"
             data = f.get(pdf, max_bytes=20_000_000)
             text, how = extract.text_for(pdf.split("/")[-1], data)
             got = parse_gas_pdf_text(text or "")
             months[ym] = {**got, "page": murl, "pdf": pdf, "read": now,
                           "sha256": __import__("hashlib").sha256(data).hexdigest()}
         except Exception as ex:
-            problems.append(f"{ym}: {type(ex).__name__}")
+            problems.append(f"{ym}: {stage}: {type(ex).__name__} {getattr(ex, 'code', '')}".strip())
     save_json(path, {"read": now, "page": GAS_INDEX_URL, "months": dict(sorted(months.items())),
                      "problems": problems})
     print(f"household: {len(months)} gas months, {len(problems)} problems")
@@ -588,7 +619,7 @@ def section_survey(site, data: dict) -> str:
         return head + f'<p>The survey has not been read into the record yet. {TO_CONFIRM}</p>'
     trs = "".join(f'<tr><td><a href="{e(s["url"])}">{e(s["survey"])}</a></td>'
                   f'<td class="num">{"$%.2f" % s["georgia_power"] if s.get("georgia_power") is not None else TO_CONFIRM}</td>'
-                  f'<td class="num">{"$%.2f" % s["average"] if s.get("average") is not None else ""}</td></tr>'
+                  f'<td class="num">{"$%.2f" % s["average"] if (s.get("average") or 0) >= 10 else ""}</td></tr>'
                   for s in rows)
     return head + (f'<table><thead><tr><th>Survey</th><th class="num">Georgia Power, {SURVEY_KWH:,} kWh</th>'
                    f'<th class="num">Average, all providers surveyed</th></tr></thead><tbody>{trs}</tbody></table>'
@@ -663,12 +694,20 @@ def section_disconnections(site, data: dict) -> str:
         cells = "".join(f'<td class="num">{_n(v.get(k)) if k in v else ""}</td>' for k, _ in SHOW)
         label = f"Report filed {_day(src['filed_date'])}" if src.get("filed_date") else None
         trs.append(f'<tr><td>{_mon(m)}</td>{cells}<td>{_doc(site, src["document_id"], label)}</td></tr>')
-    restated = [c for c in data.get("restated") or [] if c["section"] == "residential"]
-    rnote = (f'<p>{len(restated)} month{"s" if len(restated) != 1 else ""} had a figure changed by a later report.</p>'
+    latest = next((r for r in reversed(data.get("reports") or []) if r.get("notes")), None)
+    notes = ""
+    if latest:
+        items = "".join(f"<li>{e(n.lstrip('* '))}</li>" for n in latest["notes"])
+        notes = (f'<p>Georgia Power\'s latest report ({_doc(site, latest["document_id"], "filed " + _day(latest["filed_date"]))}) '
+                 f'adds these notes to its tables:</p><ul>{items}</ul>')
+    restated = [c for c in data.get("restated") or [] if c["section"] == "residential"
+                and any(k in c["changed"] for k, _ in SHOW)]
+    nmon = len({c["month"] for c in restated})
+    rnote = (f'<p>{nmon} month{"s" if nmon != 1 else ""} had one of these figures changed by a later report.</p>'
              if restated else "")
     return head + chart + ('<table class="wide"><thead><tr><th>Month</th>'
                            + "".join(f'<th class="num">{e(t)}</th>' for _, t in SHOW)
-                           + f'<th>Source</th></tr></thead><tbody>{"".join(trs)}</tbody></table>' + rnote
+                           + f'<th>Source</th></tr></thead><tbody>{"".join(trs)}</tbody></table>' + notes + rnote
                            + site.copied_note("Figures copied from Georgia Power's monthly bad debt reports in Docket 42516.",
                                               data.get("built")))
 
@@ -676,8 +715,8 @@ def section_disconnections(site, data: dict) -> str:
 def section_gas(site, data: dict) -> str:
     months = data.get("months") or {}
     head = ('<h2 id="gas">Natural gas bills in the Atlanta Gas Light area</h2>'
-            '<p>Most Atlanta Gas Light customers buy gas from a marketer. Each month the Commission\'s Marketers Pricing Index '
-            'lists what a typical customer would pay each marketer, and the Atlanta Gas Light base charge that is part of every bill.</p>')
+            '<p>Each month the Commission\'s Marketers Pricing Index lists what a typical customer in the Atlanta Gas Light '
+            'area would pay each gas marketer, and the Atlanta Gas Light base charge.</p>')
     rows = [(m, v) for m, v in sorted(months.items(), reverse=True) if v.get("marketers")]
     if not rows:
         return head + f'<p>The pricing index has not been read into the record yet. {TO_CONFIRM}</p>'
