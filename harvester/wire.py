@@ -33,7 +33,7 @@ SITE = "https://records.gapublicservice.org"
 PSC_DOC = "https://psc.ga.gov/search/facts-document/?documentId="
 FORMS = "https://gapublicservice-follow.netlify.app"
 
-MAX_ITEMS = 20
+MAX_ITEMS = 50
 SHOWN = 10
 WINDOW_DAYS = 7
 

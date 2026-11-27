@@ -20,7 +20,7 @@ class WireTest(unittest.TestCase):
         self.assertEqual(wire.filing_item(row(2, "2026-11-20", "Staff", "Order request"))["kind"], "Filing")
 
     def test_priority_drops_lowest_then_shows_newest_first(self):
-        rows = [row(i, "2026-11-23", "Sierra Club") for i in range(1, 25)]
+        rows = [row(i, "2026-11-23", "Sierra Club") for i in range(1, wire.MAX_ITEMS + 5)]
         rows += [row(100, "2026-11-18", "GPSC", "Order"), row(101, "2026-11-19", "Georgia Power Company")]
         rows += [row(200, "2026-11-01", "GPSC")]  # outside the window
         its = wire.items(rows, "2026-11-24", statements=[])
